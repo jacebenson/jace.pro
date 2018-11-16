@@ -4,7 +4,8 @@
   "description": "![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "algolia": "atomic-algolia"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jacebenson/blog/issues"
   },
-  "homepage": "https://github.com/jacebenson/blog#readme"
+  "homepage": "https://github.com/jacebenson/blog#readme",
+  "dependencies": {
+    "atomic-algolia": "^0.3.15"
+  }
 }

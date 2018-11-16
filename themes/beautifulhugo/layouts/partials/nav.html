@@ -53,11 +53,18 @@
         {{ end }}
 
         {{ if isset .Site.Params "gcse" }}
-          <li>
+          <!--<li>
             <a href="#modalSearch" data-toggle="modal" data-target="#modalSearch" style="outline: none;">
               <span class="hidden-sm hidden-md hidden-lg">{{ i18n "gcseLabelShort" }}</span> <span id="searchGlyph" class="glyphicon glyphicon-search"></span>
             </a>
-          </li>
+          </li>-->
+        {{ end }}
+        {{ if isset .Site.Params "algolia" }}
+        <li>
+          <a href="#modalSearch" data-toggle="modal" data-target="#modalSearch" style="outline: none;">
+            <span class="hidden-sm hidden-md hidden-lg">{{ i18n "gcseLabelShort" }}</span> <span id="searchGlyph" class="glyphicon glyphicon-search"></span>
+          </a>
+        </li>
         {{ end }}
       </ul>
     </div>
