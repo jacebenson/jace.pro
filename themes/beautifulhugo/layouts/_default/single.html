@@ -2,6 +2,7 @@
 <div class="container-fluid">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <a href="https://github.com/jacebenson/blog/tree/master/content/{{ .File.Path }}">Edit on Github</a>
       <article role="main" class="blog-post">
         {{ .Content }}
       </article>
@@ -33,5 +34,4 @@
     </div>
   </div>
 </div>
-{{ .File.Path }}
 {{ end }}
