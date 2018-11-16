@@ -1,0 +1,60 @@
+---
+title: GlideAjax Examples
+author: jace
+category: ''
+date: 2016-01-01 00:00:00 +0000
+layout: page
+tags:
+- client-side-api
+- server-side-api
+url: "/glideajax/"
+aliases:
+- "/GlideAjax/"
+---
+# GlideAjax
+
+When using GlideAjax I have to always look up the example on the [wiki](http://wiki.servicenow.com/index.php?title=GlideAjax).  One thing that I've learned is if you create a `initialize` function, it will break the client-callable script include.
+
+Every GlideAjax call has at least two components required.  The script include and the client side script.
+<!--more-->
+
+Below I'll put down a simple example of how I start up on these things.
+
+## Script Include
+
+```js
+var SomeUtil = Class.create();
+SomeUtil.prototype = Object.extendsObject(AbstractAjaxProcessor, {
+    // If you want to use initialize you can only if you include
+    // AbstractAjaxProcessor with something like this;
+    /*
+    initialize: function(request, responseXML, gc) {
+        global.AbstractAjaxProcessor.prototype.initialize.call(this, request, responseXML, gc);
+        // Your code
+    },
+    */
+    awesomeFunction: function(){
+        var inputObj = JSON.parse(this.getParameter('sysparm_obj'));
+        var returnObj = {
+            from:"server",
+            input: inputObj
+        };
+        return JSON.stringify(returnObj);
+    },
+    type: 'SomeUtil'
+});
+```
+
+## Client Script
+
+```js
+var ga = new GlideAjax('global.SomeUtil');
+ga.addParam('sysparm_name', 'awesomeFunction');
+ga.addParam('sysparm_obj', JSON.stringify({"hoo":"raa"}));
+ga.getXML(function(response){
+    var responseDocument = response.responseXML.documentElement;
+    var answer = responseDocument.getAttribute('answer');
+    var serverObj = JSON.parse(answer);
+    console.log(serverObj);
+});
+```

@@ -1,0 +1,1 @@
+console.log('pandoc --output=index.md --standalone --to gfm --atx-headers --metadata pandoc=yay old.index.md');

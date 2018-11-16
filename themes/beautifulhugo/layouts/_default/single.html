@@ -1,0 +1,36 @@
+{{ define "main" }}
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        {{ .Content }}
+      </article>
+
+      <ul class="pager blog-pager">
+        {{ if .PrevInSection }}
+          <li class="previous">
+            <a href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">&larr; {{ i18n "previousPost" }}</a>
+          </li>
+        {{ end }}
+        {{ if .NextInSection }}
+          <li class="next">
+            <a href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
+          </li>
+        {{ end }}
+      </ul>
+
+      {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (.Site.Params.comments)) }}
+        {{ if .Site.DisqusShortname }}
+          <div class="disqus-comments col-lg-8">
+            {{ template "_internal/disqus.html" . }}
+          </div>
+          <div class="discord-frame col-lg-4">
+              <iframe src="https://discordapp.com/widget?id=289994252241338369&theme=dark" width="100%" height="700" allowtransparency="true" frameborder="0"></iframe>
+          </div>
+        {{ end }}
+      {{ end }}
+
+    </div>
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,21 @@
+---
+title: GlideElementDescriptor
+category: servicenow
+author: jace
+layout: post
+date: 2018-08-17 01:41:40 +0000
+tags:
+- server-side-api
+url: "/glideelementdescriptor/"
+aliases:
+- "/GlideElementDescriptor/"
+---
+# GlideElementDescriptor
+<!--more-->
+
+| Property/Method | Description |
+| --- | --- |
+| getName | Returns the field's name |
+| getInternalType | Returns the field's data type |
+| getLabel | Returns the field's label |
+| getLength | Returns the field's length |

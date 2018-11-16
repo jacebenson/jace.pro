@@ -1,0 +1,23 @@
+graph LR
+  Start[Start]
+  CheckApproval[Approval Finished]
+  CheckTask[Task1 Finished]
+  CheckTask2[Task2 Finished]
+  Start-->CheckApproval
+  subgraph Checks
+    CheckApproval--Yes-->CheckTask
+    CheckTask--Yes-->CheckTask2
+    CheckTask2--Yes-->End
+  end  
+  subgraph Approval
+    CheckApproval--No-->Approval
+    Approval--Approved-->CheckTask
+  end
+  subgraph Task 1
+    CheckTask--No-->Task
+    Task--Yes-->CheckTask2
+  end
+  subgraph Task 2
+    CheckTask2--No-->Task2
+  end
+    Task2--Complete-->End

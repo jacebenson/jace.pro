@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacebenson/blog.git"
+  },
+  "author": "Jace Benson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacebenson/blog/issues"
+  },
+  "homepage": "https://github.com/jacebenson/blog#readme"
+}
