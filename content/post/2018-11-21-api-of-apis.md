@@ -54,16 +54,17 @@ function getThings(obj){
       '---',
       '---',
       '# ' + thing,
-      
-      '',
-      '| Property/Method | Description |',
-      '| --- | --- |'
+      ''
     ];
     for (var prop in obj){
-        if(prop!= '!type' && prop != '!doc' && prop != 'prototype' && prop != ''){
-          output.push('| ' + prop + ' | ' + obj[prop]['!doc'] + ' |');
+        if(prop == '!doc'){
+          output.push(obj[prop]);
+          output.push('');
         }
         if(prop == 'prototype'){
+          output.push(  '| Property/Method | Description |');
+          output.push('| --- | --- |');
+    
           for(var pprop in obj[prop]){
             output.push('| ' + pprop + ' | ' + obj[prop][pprop]['!doc'] + ' |');
           }
