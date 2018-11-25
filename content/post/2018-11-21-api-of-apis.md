@@ -10,24 +10,33 @@ This is a way to get the apis listed in the text editors.
 
 <!--more-->
 
-Below I include a script on how to get the data, it seems to come back in some malformed JSON.  So i have to copy the JSON out and paste into something like JSON Editor Online and correct it.
+The **GlideScriptEditorManager** **getApis** method returns a JSON string of context-specific APIs. 
+The JSON returned is invalid and incorrectly escapes `"'"` as `"\'"`. The script below fixes this 
+and outputs formatted JSON.
 
 ```js
 var tables = [
-  'sys_script_include',
-  'sys_script_email',
-  'catalog_client_script'
+  "catalog_client_script",
+  "sys_script_email",
+  "sys_script_include"
 ];
-tables.map(function(table){
+
+tables.map(function(table) {
   try {
     var gsem = new GlideScriptEditorManager();
-    var si = new GlideRecord(tables);
-    si.newRecord();
-    var api = gsem.getApis(table, "script", si).toString();
+    var gr = new GlideRecord(table);
+    gr.newRecord();
+
+    var apis = gsem.getApis(table, "script", gr).toString();
+    // fix invalid JSON
+    apis = apis.replace("\\'", "'");
+    var parsed = JSON.parse(apis);
+    var formatted = JSON.stringify(parsed, null, 2);
+
     gs.info(table);
-    gs.info(api);
-  } catch(e) {
-    // gs.info(e);
+    gs.info(formatted);
+  } catch (e) {
+    gs.error("ERROR: " + e);
   }
 });
 ```
