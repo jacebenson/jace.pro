@@ -51,8 +51,16 @@ for(var thing in api){
 function getThings(obj){
     //console.log(JSON.stringify(obj));
     var output = [
-      '---',
-      '---',
+'---',
+'date: 2018-11-21 05:00:00 +0000',
+'author: jace',
+'category: \'\'',
+'layout: page',
+'tags: []',
+'aliases:',
+' - "/' + thing.toLowerCase() + '/"',
+'title: ' + thing,
+'---',
       '# ' + thing,
       ''
     ];
