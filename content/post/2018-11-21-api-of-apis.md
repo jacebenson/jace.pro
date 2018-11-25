@@ -45,13 +45,29 @@ I've used this code in the past to generate markdown tables for these things in 
 
 ```js
 for(var thing in api){
-    getThings(thing)
+    getThings(api[thing])
 }
 
-function getThings(thing){
-    var output = ['---','---','# ?','','| Property/Method | Description |','| --- | --- |'];
-    for (var prop in thing){
-        output.push('| ' + prop + ' | ' + thing[prop]['!doc'] + ' |');
+function getThings(obj){
+    //console.log(JSON.stringify(obj));
+    var output = [
+      '---',
+      '---',
+      '# ' + thing,
+      
+      '',
+      '| Property/Method | Description |',
+      '| --- | --- |'
+    ];
+    for (var prop in obj){
+        if(prop!= '!type' && prop != '!doc' && prop != 'prototype' && prop != ''){
+          output.push('| ' + prop + ' | ' + obj[prop]['!doc'] + ' |');
+        }
+        if(prop == 'prototype'){
+          for(var pprop in obj[prop]){
+            output.push('| ' + pprop + ' | ' + obj[prop][pprop]['!doc'] + ' |');
+          }
+        }
     }
     console.log(output.join('\n'));
 }
