@@ -59,12 +59,14 @@ function getThings(obj){
     for (var prop in obj){
         if(prop == '!doc'){
           output.push(obj[prop]);
-          output.push('');
+
+        output.push('| Property/Method | Description |');
+        output.push('| --- | --- |');
+        }
+        if(prop != '!doc' && prop != '!type' && prop != 'prototype' && prop != ''){
+          output.push('| ' + prop + ' | ' + obj[prop]['!doc'] + ' |');
         }
         if(prop == 'prototype'){
-          output.push(  '| Property/Method | Description |');
-          output.push('| --- | --- |');
-    
           for(var pprop in obj[prop]){
             output.push('| ' + pprop + ' | ' + obj[prop][pprop]['!doc'] + ' |');
           }
