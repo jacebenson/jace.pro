@@ -51,7 +51,7 @@ These were used prior to Workflows.  At the time I used them they were loaded wi
 
 ## Global Business rules
 
-These are loaded on every. single. record.  They are bad, you should include the code you want to run not expect it to be available everyhwere.
+These are loaded on every. single. record.  They are bad, you should include the code you want to run not expect it to be available everywhere.
 
 ## Script includes written like Global Business rules
 
