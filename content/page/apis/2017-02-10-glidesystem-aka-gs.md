@@ -176,89 +176,9 @@ scope](https://docs.servicenow.com/bundle/kingston-application-development/page/
 | [yearsAgo](#yearsago)                                                   | Global/Scoped | Gets a date and time for a certain number of years ago.                                           |
 | [yesterday](#yesterday)                                                 | Global/Scoped | Gets yesterday’s time.                                                                            |
 
-
-<!--
-
-# gs
-
-| Property/Method | Description |
-| --- | --- |
-| monthsAgo | Returns the (UTC) start of the quarter that was the specified number of months ago adjusted for the timezone of the server |
-| hoursAgoEnd | Returns the (UTC) end of the hour that was the specified number of hours ago adjusted for the timezone of the server |
-| endOfThisMonth | Gets the date and time for the end of this month in UTC, adjusted for the timezone of the server |
-| isInteractive | Checks if the current session is interactive |
-| daysAgoEnd | Returns the (UTC) end of the day that was the specified number of days ago adjusted for the timezone of the server |
-| beginningOfNextMonth | Gets the date and time for the beginning of next month in UTC, adjusted for the timezone of the server |
-| hoursAgo | number of hours ago |
-| quartersAgoEnd | Returns the (UTC) end of the quarter that was the specified number of quarters ago adjusted for the timezone of the server |
-| beginningOfThisYear | Gets the date and time for the beginning of this year in UTC, adjusted for the timezone of the server |
-| getCurrentApplicationId | Gets the ID of current application, defined as a user preference and set by the application picker |
-| endOfLastYear | Gets the date and time for the end of last year in UTC, adjusted for the timezone of the server |
-| endOfNextYear | Gets the date and time for the end of next year in UTC, adjusted for the timezone of the server |
-| nil | Queries an object and returns true if the object is null, undefined, or contains an empty string |
-| beginningOfThisQuarter | Gets the date and time for the beginning of this quarter in UTC, adjusted for the timezone of the server |
-| isDebugging | Determines if debugging is active for a specific scope |
-| setRedirect | Set the redirect URI for this transaction. This determines the next page the user will see |
-| datePart | Returns a String of the form :interval,value,operator |
-| generateGUID | Generates a GUID that can be used when a unique identifier is required |
-| getNewAppScopeCompanyPrefix |  |
-| getUserName | Gets the username, or User ID, of the current user (e.g., abel.tuter) |
-| info | Uses the info level to log a message to the system log |
-| base64Encode |  |
-| getUrlOnStack | Gets the current URI for the session |
-| monthsAgoStart | Returns the (UTC) start of the quarter that was the specified number of months ago adjusted for the timezone of the server |
-| getCssCacheVersionString | Gets a string representing the cache version for a CSS file |
-| getCallerScopeName | Gets the caller scope name, or returns null if there is no caller |
-| base64Decode |  |
-| minutesAgo | number of minutes ago |
-| hoursAgoStart | Returns the (UTC) start of the hour that was the specified number of hours ago adjusted for the timezone of the server |
-| warn | Uses the warn level to log a message to the system log |
-| beginningOfLastWeek | Gets the date and time for the beginning of last week in UTC, adjusted for the timezone of the server |
-| hasRole | Determines if the current user has the specified role |
-| isLoggedIn | Determines if the current user is currently logged in |
-| endOfThisWeek | Gets the date and time for the end of this week in UTC, adjusted for the timezone of the server |
-| getUserDisplayName | Gets the display name of the current user (e.g., Abel Tuter, as opposed to abel.tuter) |
-| beginningOfThisWeek | Gets the date and time for the beginning of this week in UTC, adjusted for the timezone of the server |
-| getUser | Returns a reference to the GlideUser object for the current user |
-| urlDecode |  |
-| beginningOfLastYear | Gets the date and time for the beginning of last year in UTC, adjusted for the timezone of the server |
-| tableExists | Determines if a database table exists |
-| error | Uses the error level to log a message to the system log |
-| urlEncode |  |
-| endOfThisYear | Gets the date and time for the end of this year in UTC, adjusted for the timezone of the server |
-| getCurrentScopeName | Gets the name of the current scope |
-| yesterday | Returns (UTC) 24 hours ago adjusted for the timezone of the current session |
-| daysAgoStart | Returns the (UTC) start of the day that was the specified number of days ago adjusted for the timezone of the server |
-| beginningOfLastMonth | Gets the date and time for the beginning of last month in UTC, adjusted for the timezone of the server |
-| beginningOfThisMonth | Gets the date and time for the beginning of this month in UTC, adjusted for the timezone of the server |
-| beginningOfNextYear | Gets the date and time for the beginning of next year in UTC, adjusted for the timezone of the server |
-| getDurationDate | Returns the date of the duration time after January 1 |
-| addErrorMessage | Adds an error message for the current session |
-| beginningOfWeek | Returns the (UTC) beginning of the specified week adjusted for the timezone of the current session |
-| minutesAgoEnd | Returns the (UTC) end of the minute that was the specified number of minutes ago adjusted for the timezone of the serve |
-| getSessionID | Gets the GlideSession Session ID |
-| endOfNextMonth | Gets the date and time for the end of next month in UTC, adjusted for the timezone of the server |
-| getUserID | Gets the sys_id of the current user |
-| include | Provides a safe way to call from the sandbox, allowing only trusted scripts to be included |
-| daysAgo | Returns the (UTC) start of the day that was the specified number of days ago adjusted for the timezone of the server |
-| minutesAgoStart | Returns the (UTC) start of the minute that was the specified number of minutes ago adjusted for the timezone of the serve |
-| getProperty | Retrieves a message from UI messages |
-| endOfWeek | Returns the (UTC) end of the specified week adjusted for the timezone of the current session |
-| endOfLastMonth | Gets the date and time for the end of last month in UTC, adjusted for the timezone of the server |
-| debug | Uses the debug level to log a message to the system log |
-| !doc | undefined |
-| getMessage | Retrieves a message from UI messages. args is an optional paramter |
-| endOfThisQuarter | Gets the date and time for the end of this quarter in UTC, adjusted for the timezone of the server |
-| eventQueue | Queues an event for the event manager |
-| xmlToJSON |  |
-| addInfoMessage | Adds an info message for the current session |
-| getMaxSchemaNameLength |  |
-| endOfLastWeek | Returns the (UTC) end of last week adjusted for the timezone of the server |
-| quartersAgoStart | Returns the (UTC) start of the quarter that was the specified number of quarters ago adjusted for the timezone of the server |
-| getSession | Gets a reference to the current Glide session |
--->
-
 ## addErrorMessage
+
+This is a way to display an error message to a user.
 
 ``` js
 gs.addErrorMessage(gs.getMessage("To make a survey public, you need remove the signature"));
@@ -267,6 +187,8 @@ gs.addErrorMessage(gs.getMessage("To make a survey public, you need remove the s
 ![GS Add Error Message](/uploads/gs-addErrorMessage.png)
 
 ## addInfoMessage
+
+This is a way to display an infomational message to a user.
 
 ``` js
 gs.addInfoMessage(gs.getMessage("{0}.  Hello!", 'I am no 1'));
@@ -1118,7 +1040,9 @@ gs.warn('This is a message with {0}, {1}, {2}, {3}, {4} parameters','one','two',
 
 ## xmlToJSON
 
-Takes an XML string and returns a JSON object.
+Takes an XML string and returns a JSON object.  This seems to be similar to the 
+[XMLHelper](https://docs.servicenow.com/bundle/kingston-application-development/page/script/server-scripting/concept/c_XMLHelper.html) 
+script include function, `toObject`.
 
 ``` js
 var xmlStr = "";
@@ -1134,7 +1058,7 @@ xmlStr += "  </Name>";
 xmlStr += "</Names>";
 
 var xmlObj = gs.xmlToJSON(xmlStr);
-gs.print(JSON.stringify(xmlObj,'','  '));
+gs.info(JSON.stringify(xmlObj,'','  '));
 /*** Script: {
   "Names": {
     "Name": [
