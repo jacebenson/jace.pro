@@ -14,7 +14,7 @@ aliases:
 ## What is gs
 
 `gs` is very heavily used in Servicenow, and as such, knowing what it
-can, and cannot do it crucial. Below I go over the functions I’m aware
+can, and cannot do is crucial. Below I go over the functions I’m aware
 of and what they do. Below these things refer to the availability based
 on weather you are in [global
 scope](https://docs.servicenow.com/bundle/kingston-application-development/page/app-store/dev_portal/API_reference/GlideSystem/concept/c_GlideSystemAPI.html)
@@ -120,7 +120,7 @@ scope](https://docs.servicenow.com/bundle/kingston-application-development/page/
 | [user\_id](#user_id)                                                    |               |                                                                                                   |
 | [warn](#warn)                                                           | Scoped        |                                                                                                   |
 | [workflowFlush](#workflowflush)                                         | Global        | Deletes all existing workflow operations for the specified GlideRecord.                           |
-| [xmlToJSON](#xmltojson)                                                 | Scoped        |                                                                                                   |
+| [xmlToJSON](#xmltojson)                                                 | Scoped        | Converts an xml string to json object. |                                                          |
 | [beginningOfLastMonth](#beginningoflastmonth)                           | Global/Scoped | Gets the date and time for the beginning of last month in GMT.                                    |
 | [beginningOfLastWeek](#beginningoflastweek)                             | Global/Scoped | Gets the date and time for the beginning of last week in GMT.                                     |
 | [beginningOfNextMonth](#beginningofnextmonth)                           | Global/Scoped | Gets the date and time for the beginning of next month in GMT.                                    |
