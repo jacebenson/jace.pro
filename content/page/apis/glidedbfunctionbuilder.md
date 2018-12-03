@@ -1,7 +1,7 @@
 ---
 title: GlideDBFunctionBuilder
-category: servicenow
-author: jace
+
+
 layout: post
 date: 2018-08-17 01:51:13 +0000
 tags:

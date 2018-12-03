@@ -1,7 +1,7 @@
 ---
 title: XMLNode
-category: servicenow
-author: jace
+
+
 layout: post
 date: 2018-08-16 22:03:27 +0000
 tags:

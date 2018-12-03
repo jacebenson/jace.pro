@@ -1,7 +1,7 @@
 ---
 title: GlideTime
-category: servicenow
-author: jace
+
+
 layout: post
 date: 2018-08-16 21:11:36 +0000
 tags:

@@ -1,12 +1,7 @@
 ---
-
-author: 'jace'
-date: '2018-09-20'
-layout: 'post'
-category: ''
-tags: []
-title: 'Update Set Naming'
-aliases: []
+title:   Update Set Naming
+date:    2018-09-20
+layout:  post
 ---
 Update set names should be somewhat meaningful without having to look at the contents of the XML.  
 ServiceNow has some recomendations on [HI](https://hi.service-now.com/kb_view.do?sysparm_article=KB0552854) and on the [Docs](https://docs.servicenow.com/bundle/kingston-application-development/page/build/system-update-sets/reference/get-started-update-sets.html) site.

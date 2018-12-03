@@ -1,13 +1,11 @@
 ---
-author: jace
-date: 2017-11-10 00:00:00 +0000
+title: Megaphone
+date: 2017-11-10
 layout: post
-category: ''
 tags:
 - megaphone
 - undocumented
 - geneva
-title: Megaphone
 aliases:
 - "/megaphone/"
 - "/Megaphone/"

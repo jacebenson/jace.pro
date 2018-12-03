@@ -1,9 +1,7 @@
 ---
 title: Discovery Patterns for AWS
-author: jace
-date: 2018-04-04 00:00:00 +0000
+date: 2018-04-04
 layout: post
-category: ''
 tags:
 - discovery
 - patterns
@@ -11,7 +9,6 @@ tags:
 - aws
 aliases:
 - "/disco-pattern-aws/"
-
 ---
 Patterns are a new and interesting thing in Servicenow.
 

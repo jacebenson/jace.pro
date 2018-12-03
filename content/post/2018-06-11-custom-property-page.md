@@ -1,11 +1,9 @@
 ---
-author: 'benphillips'
-date: '2018-06-11'
-layout: 'post'
-category: 'servicenow'
+title: Custom Servicenow Property page
+date: 2018-06-11
+layout: post
 tags:
  - scoped app
-title: 'Custom Servicenow Property page'
 ---
 
 Sometimes you want a nice looking property page.  [Ben Phillips](https://community.servicenow.com/community?id=community_user_profile&user=68211265db981fc09c9ffb651f96192d) was nice enough to type this out in a slack channel.  So I took it and put it here so I wouldn't forget.

@@ -1,11 +1,7 @@
 ---
 title: Understanding your licensing
-author: jace
-date: 2017-12-02 00:00:00 +0000
+date: 2017-12-02
 layout: post
-category: ''
-tags:
-- other
 alias:
 - "/licensing/"
 - "/licensing/"

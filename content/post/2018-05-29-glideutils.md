@@ -1,9 +1,7 @@
 ---
-title: 'GlideUtils - Tool to clean up comments'
-author: 'jace'
-date: '2018-05-29'
-layout: 'post'
-category: ''
+title: GlideUtils - Tool to clean up comments
+date: 2018-05-29
+layout: post
 tags:
  - scoped app
 ---

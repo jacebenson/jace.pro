@@ -1,11 +1,7 @@
 ---
-title: Get the next N approvals
-date: 2018-09-24 05:00:00 +0000
-author: jace
-layout: post
-category: ''
-tags: []
-aliases: []
+title:   Get the next N approvals
+date:    2018-09-24
+layout:  post
 ---
 
 I was talking with someone they were asking how to get the next x approvals up to 10.  In my opinion that's just too many levels.  However you can't always control the environment you work in.  He was trying to get the next x approvals.

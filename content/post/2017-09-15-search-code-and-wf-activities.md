@@ -1,9 +1,7 @@
 ---
-title: 'Search for specific code and sys_ids in code and workflow activities'
-author: 'jace'
-date: '2017-09-15'
-layout: 'post'
-category: 'servicenow'
+title: Search for specific code and sys_ids in code and workflow activities
+date: 2017-09-15
+layout: post
 tags:
  - workflow
  - search

@@ -1,7 +1,7 @@
 ---
 title: GlideDate
-category: servicenow
-author: jace
+
+
 layout: post
 date: 2018-08-16 21:50:20 +0000
 tags:

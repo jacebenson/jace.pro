@@ -1,11 +1,9 @@
 ---
-author: jace
-date: 2017-09-06 00:00:00 +0000
+title: Syncing Comments between Requested Item and Catalog Task
+date: 2017-09-06
 layout: post
-category: ''
 tags:
 - server-side
-title: Syncing Comments between Requested Item and Catalog Task
 aliases:
 - "/syncing-comments/"
 - "/Custom Solutions/Syncing-Comments-between-Requested-Item-and-Catalog-Task/"

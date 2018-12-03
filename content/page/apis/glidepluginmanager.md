@@ -1,7 +1,7 @@
 ---
 title: GlidePluginManager
-category: servicenow
-author: jace
+
+
 layout: post
 date: 2018-08-17 01:53:28 +0000
 tags:

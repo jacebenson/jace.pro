@@ -1,11 +1,7 @@
 ---
-date: 2018-09-05 16:15:00 +0000
-author: jace
-category: ''
-layout: post
-tags: 
 title: Harden Instance
-
+date: 2018-09-05
+layout: post
 ---
 A while ago I was tasked to prepare an instance for some penetration testing.  Turns out this is a thing you can do pretty easily.
 

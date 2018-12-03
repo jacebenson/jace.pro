@@ -1,7 +1,7 @@
 ---
 title: XMLNodeIterator
-category: servicenow
-author: jace
+
+
 layout: post
 date: 2018-08-16 22:01:17 +0000
 tags:

@@ -1,13 +1,11 @@
 ---
-
-author: 'jace'
-date: '2017-10-04'
-layout: 'post'
-category: ''
+title: Service Portal - Ticket Assignments
+date: 2017-10-04
+layout: post
 tags:
  - service portal
  - widget
-title: 'Service Portal - Ticket Assignments'
+
 ---
 I created a ticket assignments and wanted to share that code. Should work on any instance unless you have a business rule blocking the update.
 

@@ -1,12 +1,10 @@
 ---
-layout: post
 title: Service Portal - Accept/Reject Solution
+layout: post
 tags:
 - service portal
 - widget
-date: 2017-10-26 05:00:00 +0000
-category: ''
-author: ''
+date: 2017-10-26
 aliases:
  - "/sp-accept-reject/"
 ---

@@ -1,11 +1,9 @@
 ---
-author: 'jace'
-date: '2018-06-05'
-layout: 'post'
-category: ''
+title: Reminders
+date: 2018-06-05
+layout: post
 tags:
  - email
-title: 'Reminders'
 ---
 This has come up often enough that it merits a post.  Reminders of sorts can be set up a few ways in Servicenow.  This is just the pros and cons of each.
 

@@ -1,15 +1,11 @@
 ---
 title: 'Service Portal: Broadcast, emit, and on, should I use them?'
-author: jace
-date: 2018-05-12 00:00:00 +0000
-category: servicenow
+date: 2018-05-12
 layout: post
 tags:
 - service portal
-description: Broadcast, emit and on, and why you should avoid them.
 aliases:
 - "/sp-broadcast-messages"
-
 ---
 Broadcasting messages seems great when you first learn about them and start to use them but it seems they, like everything, has its pros and cons.  As such I'd avoid them for the following reasons.
 

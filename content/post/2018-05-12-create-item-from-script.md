@@ -1,12 +1,9 @@
 ---
-title: 'Create Item from Script'
-author: 'jace'
-date: '2018-05-12'
-category: 'servicenow'
-layout: 'post'
+title: Create Item from Script
+date: 2018-05-12
+layout: post
 tags:
  - script
-description: 'A script to create an item.'
 ---
 
 I made this a while ago to save me some time of having to interact with the GUI.

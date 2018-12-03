@@ -1,12 +1,9 @@
 ---
-
-author: 'jace'
-date: '2017-09-30'
-layout: 'post'
-category: ''
+title: Undocumented Scripts
+date: 2017-09-30
+layout: post
 tags:
  - undocumented
-title: 'Undocumented Scripts'
 aliases:
 - "/2017/09/30/undocumented-scripts/"
 - "/2017/09/30/undocumented-scripts.html"

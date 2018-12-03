@@ -1,7 +1,7 @@
 ---
 title: XMLDocument2
-category: servicenow
-author: jace
+
+
 layout: post
 date: 2018-08-16 21:03:58 +0000
 tags:

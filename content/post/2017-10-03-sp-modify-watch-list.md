@@ -1,12 +1,10 @@
 ---
-author: jace
-date: 2017-10-03 00:00:00 +0000
+title: Service Portal - Modify Watch List
+date: 2017-10-03
 layout: post
-category: []
 tags:
 - service portal
 - widget
-title: Service Portal - Modify Watch List
 aliases:
 - "/sp-modify-watch-list/"
 

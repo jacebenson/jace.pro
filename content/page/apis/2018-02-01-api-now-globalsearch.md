@@ -1,8 +1,8 @@
 ---
-author: jace
-category: ''
+
+
 cover: ''
-date: 2018-02-01 00:00:00 +0000
+date: 2018-02-01
 layout: page
 url: "/api-now-globalsearch/"
 title: Rest GlobalSearch

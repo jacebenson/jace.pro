@@ -1,14 +1,11 @@
 ---
 title: GlideUtils - update
-author: jace
-date: 2018-07-13 00:00:00 +0000
+date: 2018-07-13
 layout: post
-category: ''
 tags:
 - scoped app
 aliases:
 - "/glideutils/"
-
 ---
 How can you use `GlideappVariablePoolQuestionSet` in a scope?  You can't!
 I've added a script include to GlideUtils to solve for this.

@@ -1,14 +1,11 @@
 ---
-# permalink: /sp-record-producer-redirect/
-aliases: /sp-record-producer-redirect/
-author: 'jace'
-date: '2018-02-09'
-layout: 'post'
-category: ''
+title: Serice Portal Record Producer Redirects
+date: 2018-02-09
+layout: post
 tags:
  - service portal
-title: 'Serice Portal Record Producer Redirects'
-layout: post
+aliases:
+ - "/sp-record-producer-redirect/"
 ---
 
 So the other day I was asked to set up the redirect from a record producer on the Service Portal.  This was no problem in the past CMS, and the normal GUI.  

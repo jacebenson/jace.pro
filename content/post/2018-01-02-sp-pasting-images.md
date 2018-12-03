@@ -1,12 +1,10 @@
 ---
-author: jace
-date: 2018-01-02 00:00:00 +0000
+title: Service Portal Pasting Images
+date: 2018-01-02
 layout: post
-category: ''
 tags:
 - service portal
 - missing ootb
-title: Service Portal Pasting Images
 aliases:
 - "/sp-pasting-images/"
 

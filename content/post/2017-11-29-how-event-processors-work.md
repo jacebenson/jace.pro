@@ -1,10 +1,7 @@
 ---
 title: How Event Processors Work
-category: servicenow
-author: jace
 layout: post
-date: 2017-11-29 21:49:17 +0000
-tags: []
+date: 2017-11-29
 aliases:
 - "/event-processors/"
 - "/How-Event-Processors-Work/"

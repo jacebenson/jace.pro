@@ -1,10 +1,7 @@
 ---
-date: 2018-11-21 05:00:00 +0000
-author: jace
-category: ''
-layout: post
-tags: []
 title: GlideScriptEditorManager (api for apis)
+date: 2018-11-21
+layout: post
 ---
 This is a way to get the apis listed in the text editors.  
 
@@ -52,11 +49,11 @@ function getThings(obj){
     //console.log(JSON.stringify(obj));
     var output = [
 '---',
-'date: 2018-11-21 05:00:00 +0000',
-'author: jace',
+'date: 2018-11-21',
+'',
 'category: \'\'',
 'layout: page',
-'tags: []',
+'',
 'aliases:',
 ' - "/' + thing.toLowerCase() + '/"',
 'title: ' + thing,

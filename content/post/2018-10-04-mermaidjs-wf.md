@@ -1,10 +1,7 @@
 ---
-date: 2018-10-04 05:00:00 +0000
-author: jace
-category: ''
+title:  Mermaid JS to render workflows
+date:   2018-10-04
 layout: post
-tags: []
-title: Mermaid JS to render workflows
 ---
 
 The other day I was looking at my mermaidjs flows and wanted to see how they would render a servicenow workflow.

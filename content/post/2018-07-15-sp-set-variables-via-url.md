@@ -1,12 +1,9 @@
 ---
-author: 'jace'
-category: ''
-date: '2018-07-15'
-exerpt: 'This answers how to have a catalog item on a service portal use url parameters.  This could be helpful for a number of reasons.'
-layout: 'post'
+title: Setting variables via URL Scheme on Service Portal
+date: 2018-07-15
+layout: post
 tags:
  - service portal
-title: 'Setting variables via URL Scheme on Service Portal'
 aliases: 
  - "/sp-set-variables-via-url/"
  - "/2018/07/15/sp-set-variables-via-url/"

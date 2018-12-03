@@ -1,10 +1,10 @@
 ---
 layout: page
 url: "/restapirequestbody/"
-author: jace
-date: 2018-01-04 00:00:00 +0000
+
+date: 2018-01-04
 cover: ''
-category: ''
+
 tags:
 - server-side-api
 title: RESTAPIRequestBody

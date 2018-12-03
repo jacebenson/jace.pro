@@ -1,12 +1,9 @@
 ---
-
-author: 'jace'
-date: '2018-06-14'
-layout: 'post'
-category: ''
+title: Text Search Issues
+date: 2018-06-14
+layout: post
 tags:
  - search
-title: 'Text Search Issues'
 ---
 I opened a HI ticket about this and it was communicated that the global text search does not respect more non-alphanumeric characters.
 

@@ -1,15 +1,13 @@
 ---
-author: jace
-date: 2017-09-06 00:00:00 +0000
+title: Integrations Flow
+date: 2017-09-06
 layout: post
-category: []
+
 tags:
 - integrations
-title: Integrations Flow
 aliases:
 - "/General/Integrations-Flow/"
 - "/2017/09/06/integrations/"
-
 ---
 I’m recalling this from memory and this is old and could be updated for Scripted Rest APIs and such, but Just want to get this out here.
 

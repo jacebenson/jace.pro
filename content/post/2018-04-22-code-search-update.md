@@ -1,12 +1,10 @@
 ---
-author: 'jace'
-date: '2018-04-22'
-layout: 'post'
-category: ''
+title: Code Search Updated
+date: 2018-04-22
+layout: post
 tags:
  - service portal
  - search
-title: 'Code Search Updated'
 aliases: 
  - "/2018/04/22/code-search-update.html"
 ---

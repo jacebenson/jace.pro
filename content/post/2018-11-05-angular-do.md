@@ -1,10 +1,7 @@
 ---
-date: 2018-11-05 05:00:00 +0000
-author: jace
-category: ''
-layout: post
-tags: []
 title: angular.do - what is this?
+date: 2018-11-05
+layout: post
 ---
 The other day I got a report of slowness when using the "Post" button on 
 incident. 

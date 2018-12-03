@@ -1,10 +1,10 @@
 ---
 layout: page
 url: "/restapiresponsestream/"
-author: jace
-date: 2018-01-06 00:00:00 +0000
+
+date: 2018-01-06
 cover: ''
-category: ''
+
 tags:
 - server-side-api
 title: RESTAPIResponseStream

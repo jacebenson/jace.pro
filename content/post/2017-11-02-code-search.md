@@ -1,13 +1,10 @@
 ---
-author: jace
-date: 2017-11-02 00:00:00 +0000
+title: Code Search
+date: 2017-11-02
 layout: post
-category: ''
 tags:
 - service portal
 - search
-title: Code Search
-
 ---
 I've created one of these to improve on the one on [share](https://share.servicenow.com).  This is a scoped application for Service-now to allow easier searching all code sources.
 

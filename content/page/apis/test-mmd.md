@@ -1,10 +1,10 @@
 ---
 title: test-mmd
-author: jace
+
 layout: page
 date: 2018-08-21 18:47:23 +0000
-category: []
-tags: []
+
+
 aliases: []
 url: "/test/"
 

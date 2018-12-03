@@ -1,11 +1,7 @@
 ---
-author: 'jace'
-date: '2018-05-16'
-layout: 'post'
-category: ''
-tags:
- - other
-title: 'Interview Preperation'
+title: Interview Preperation
+date: 2018-05-16
+layout: post
 aliases: 
  - "/interview/"
 ---

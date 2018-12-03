@@ -1,11 +1,9 @@
 ---
-author: 'jace'
-date: '2017-10-28'
-layout: 'post'
-category: ''
+title: Lookup Select Attribute
+date: 2017-10-28
+layout: post
 tags:
  - attributes
-title: 'Lookup Select Attribute'
 ---
 
 A few months ago I messaged a former colleague, "Hey, do you remember how to make variables dependent on each other?" 

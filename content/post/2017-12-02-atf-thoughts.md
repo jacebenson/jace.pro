@@ -1,11 +1,7 @@
 ---
-title: 'Automated Testing (Auto Test) Thoughts'
-author: 'jace'
-date: '2017-12-02'
-layout: 'post'
-category: 'servicenow'
-tags:
- - atf
+title: Automated Testing (Auto Test) Thoughts
+date: 2017-12-02
+layout: post
 ---
 
 This is just a list of things I think the ATF Tests should include.

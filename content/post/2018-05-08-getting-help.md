@@ -1,12 +1,7 @@
 ---
-title: 'How to get help faster on community'
-author: 'jace'
-date: '2018-05-08'
-layout: 'post'
-tags:
- - mcve
-category: 'servicenow'
-description: 'How to ask a question'
+title: How to get help faster on community
+date: 2018-05-08
+layout: post
 ---
 
 Often I find questions posted on [community.servicenow.com](https://community.servicenow.com) to be very disappointing in that a lot of extra back and forth has to happen before someone can get the help they desire.

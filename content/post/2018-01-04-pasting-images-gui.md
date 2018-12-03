@@ -1,11 +1,9 @@
 ---
-author: 'jace'
-date: '2018-01-04'
-layout: 'post'
-category: ''
+title: Pasting Images in the normal GUI
+date: 2018-01-04
+layout: post
 tags:
  - missing ootb
-title: 'Pasting Images in the normal GUI'
 aliases:
 - "/Custom Solutions/Pasting-Images-Normal-GUI/"
 ---

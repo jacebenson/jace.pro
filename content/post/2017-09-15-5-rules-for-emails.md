@@ -1,9 +1,9 @@
 ---
+title: 5 rules for emails
 layout: post
-title: '5 rules for emails'
 tags: 
   - email
-date:   2016-03-24 15:32:14 -0300
+date:   2016-03-24
 ---
 Rules to follow for emails in Servicenow.
 

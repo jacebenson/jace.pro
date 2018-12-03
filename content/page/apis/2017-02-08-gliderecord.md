@@ -1,8 +1,8 @@
 ---
 title: GlideRecord
-author: jace
-category: ''
-date: 2016-01-01 00:00:00 +0000
+
+
+date: 2016-01-01
 layout: page
 url: "/gliderecord/"
 tags:

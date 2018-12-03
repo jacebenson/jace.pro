@@ -1,7 +1,7 @@
 ---
 title: Email APIs
-category: servicenow
-author: jace
+
+
 layout: post
 date: 2018-08-16 22:05:54 +0000
 tags:

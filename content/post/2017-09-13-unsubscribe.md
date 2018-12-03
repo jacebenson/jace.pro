@@ -1,12 +1,10 @@
 ---
-author: jace
-date: 2017-09-13 00:00:00 +0000
+title: Unsubscribing from notification preferences in email
+date: 2017-09-13
 layout: post
-category: []
 tags:
 - missing ootb
 - email
-title: Unsubscribing from notification preferences in email
 aliases:
 - "/unsubscribe/"
 

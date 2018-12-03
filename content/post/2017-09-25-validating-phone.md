@@ -1,10 +1,7 @@
 ---
-title: 'Validating Phone numbers'
-
-author: 'jace'
-date: '2017-09-25'
-layout: 'post'
-category: 'servicenow'
+title: Validating Phone numbers
+date: 2017-09-25
+layout: post
 tags:
  - client side api
 ---

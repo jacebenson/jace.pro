@@ -1,12 +1,10 @@
 ---
-author: jace
-date: 2017-10-13 00:00:00 +0000
+title: Set Duration and Business Duration
+date: 2017-10-13
 layout: post
-category: ''
 tags:
 - missing ootb
 - server side
-title: Set Duration and Business Duration
 aliases:
 - "/set-duration-and-business-duration/"
 

@@ -1,9 +1,7 @@
 ---
-title: 'Creating links in emails to do things'
-author: 'jace'
-date: '2018-07-13'
-layout: 'post'
-category: ''
+title: Creating links in emails to do things
+date: 2018-07-13
+layout: post
 tags:
  - email
 ---

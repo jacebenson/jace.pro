@@ -1,14 +1,9 @@
 ---
-author: jace
-date: 2018-02-11 00:00:00 +0000
-layout: post
-category: ''
-tags:
-- nextcloud
 title: Setting up NextCloud
+date: 2018-02-11
+layout: post
 aliases:
 - "/nextcloud/"
-
 ---
 This is a quick how-to setup NextCloud.  Documented so I can do this later quickly.  I had used the SNAP to install it initially and that worked well until I tried to use a volume that I could expand easily.  It seems SNAPs don't have access to `/mnt` points.
 

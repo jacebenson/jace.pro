@@ -1,11 +1,7 @@
 ---
-author: 'jace'
-date: '2018-02-15'
-layout: 'post'
-category: ''
-tags:
- - variables
-title: 'Print out variables'
+title: Print out variables
+date: 2018-02-15
+layout: post
 aliases:
  - "/Print-out-variables/"
 ---

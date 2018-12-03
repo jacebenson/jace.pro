@@ -1,9 +1,7 @@
 ---
-title: 'Service Portal 404s'
-author: 'jace'
-date: '2018-05-31'
-description: '404s that look inspiring shared on the community'
-layout: 'post'
+title: Service Portal 404s
+date: 2018-05-31
+layout: post
 aliases:
  - "/fourohfour/"
 ---

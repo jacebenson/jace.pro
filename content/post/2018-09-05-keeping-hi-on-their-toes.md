@@ -1,12 +1,7 @@
 ---
 title: Keeping HI on their toes
-author: jace
 layout: post
-date: 2018-09-05 12:52:16 -0500
-category: []
-tags: []
-aliases: []
-
+date: 2018-09-05
 ---
 So more often now then before I have to open HI tickets and I just loathe how they've restricted the views and fields and the sorting.
 

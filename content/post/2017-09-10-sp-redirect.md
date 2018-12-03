@@ -1,12 +1,9 @@
 ---
-
-author: 'jace'
-date: '2017-09-10'
-layout: 'post'
-category: ''
+title: 'Redirect old CMS pages to your Service Portal'
+date: 2017-09-10
+layout: post
 tags:
  - service portal
-title: 'Redirect old CMS pages to your Service Portal'
 aliases:
  - "/Service-Portal/Redirect-old-CMS-pages-to-your-Service-Portal/"
 ---

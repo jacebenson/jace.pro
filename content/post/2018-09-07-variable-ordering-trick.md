@@ -1,11 +1,7 @@
 ---
-date: 2018-09-07 16:20:00 +0000
-author: jace
-category: ''
-layout: post
-tags: 
 title: Variable Ordering Trick
-
+date: 2018-09-07
+layout: post
 ---
 Today I learned a trick that would have saved me hours had I known about it years ago.  
 

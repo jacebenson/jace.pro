@@ -1,12 +1,9 @@
 ---
-
-author: 'jace'
-date: '2017-09-25'
-layout: 'post'
-category: ''
+title: Useful catalog client scripts
+date: 2017-09-25
+layout: post
 tags:
  - client side api
-title: 'Useful catalog client scripts'
 aliases:
 - "/useful-catalog-client-scripts/"
 ---

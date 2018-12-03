@@ -1,12 +1,9 @@
 ---
-
-author: 'jace'
-date: '2017-09-25'
-layout: 'post'
-category: ''
+title: Validating emails
+date: 2017-09-25
+layout: post
 tags:
  - client side api
-title: 'Validating emails'
 aliases:
 - "/Custom Solutions/Validating-emails/"
 ---

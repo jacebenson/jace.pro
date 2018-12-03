@@ -1,8 +1,8 @@
 ---
-author: 'jace'
+
 date: '2018-03-09'
-layout: 'post'
-category: ''
+layout: post
+
 tags:
  - other
 title: 'Packing List'

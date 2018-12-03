@@ -1,13 +1,8 @@
 ---
 title: Certifications SN offers
-author: jace
-date: 2018-04-10 00:00:00 +0000
+date: 2018-04-10
 layout: post
-category: []
 tags:
-- csa
-- cis
-- cert
 - certifications
 aliases:
 - "/certifications"

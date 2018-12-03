@@ -1,10 +1,9 @@
 ---
-author: jace
-date: 2017-08-07 00:00:00 +0000
+title: Automagically Link
+date: 2017-08-07
 layout: post
 tags:
 - server side
-title: Automagically Link
 aliases:
 - "/2017/08/28/automagically-link/"
 

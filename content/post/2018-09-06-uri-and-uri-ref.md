@@ -1,11 +1,7 @@
 ---
-date: 2018-09-06 16:20:00 +0000
-author: jace
-category: ''
-layout: post
-tags: 
 title: Email templates
-
+date: 2018-09-06
+layout: post
 ---
 All this talk about notifications had me poking around and I just learned about using `${URI_REF}` instead of `${URI}`. It's magical.
 

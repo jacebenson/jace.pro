@@ -1,11 +1,9 @@
 ---
-author: jace
-date: 2017-09-18 00:00:00 +0000
+title: 10 Point Checklist for Notification troubleshooting
+date: 2017-09-18
 layout: post
-category: ''
 tags:
 - email
-title: 10 Point Checklist for Notification troubleshooting
 aliases:
 - "/notification-troubleshooting/"
 

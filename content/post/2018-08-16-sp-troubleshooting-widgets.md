@@ -1,12 +1,9 @@
 ---
-date: 2018-08-16 05:00:00 +0000
-author: jace
-category: ''
+title: Service Portal - Viewing whats loaded on the page
+date: 2018-08-16
 layout: post
 tags:
 - service portal
-title: Service Portal - Viewing whats loaded on the page
-
 ---
 This is blatantly taken from [HI](https://hi.service-now.com/kb_view.do?sys_kb_id=cc706ab7db19db4058dcf4621f96194e) as this I think is useful enough to repost nearly verbatim.
 

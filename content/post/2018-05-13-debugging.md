@@ -1,11 +1,9 @@
 ---
-author: 'jace'
-date: '2018-05-13'
-layout: 'post'
-category: ''
+title: Debugging with fix scripts
+date: 2018-05-13
+layout: post
 tags:
  - server side
-title: 'Debugging with fix scripts'
 aliases: 
  - "/debugging/"
  - "/2018/05/13/debugging.html"

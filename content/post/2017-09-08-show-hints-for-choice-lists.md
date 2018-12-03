@@ -1,12 +1,10 @@
 ---
-author: 'jace'
+title: Show Hints for choice lists
 date: '2017-09-08'
-layout: 'post'
-category: ''
+layout: post
 tags:
  - client side api
  - server side
-title: 'Show Hints for choice lists'
 ---
 
 The other day I was asked to show hints in a more obvious way on a form.  This 

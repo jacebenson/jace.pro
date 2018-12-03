@@ -1,14 +1,11 @@
 ---
 title: Search trick on table
-author: jace
-date: 2018-05-25 00:00:00 +0000
+date: 2018-05-25
 layout: post
-category: ''
 tags:
 - tip
 aliases:
 - "/table-tricks/"
-
 ---
 So during one the Let's code happy hours, Josh Nerius made a point to call out this tip while looking for a table.
 

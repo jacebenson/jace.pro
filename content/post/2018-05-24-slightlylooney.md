@@ -1,11 +1,7 @@
 ---
-title: 'SlightlyLooney'
-author: 'jace'
-date: '2018-05-24'
-layout: 'post'
-category: ''
-tags:
- - other
+title: SlightlyLooney
+date: 2018-05-24
+layout: post
 ---
 A long time ago a man called "[SlightlyLooney](https://community.servicenow.com/community?id=community_user_profile&user=6d5e8ae5dbd41fc09c9ffb651f96191a)"
 used to write posts about some pretty awesome things.  

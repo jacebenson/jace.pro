@@ -1,12 +1,10 @@
 ---
-author: 'jace'
-date: '2017-10-17'
-layout: 'post'
-category: ''
+title: Service Portal Add a Custom Search Source
+date: 2017-10-17
+layout: post
 tags:
  - service portal
  - search
-title: 'Service Portal Add a Custom Search Source'
 aliases:
  - "/sp-custom-search-source/"
 ---

@@ -1,7 +1,7 @@
 ---
 title: GlideTableHierarchy
-category: servicenow
-author: jace
+
+
 layout: post
 date: 2018-08-17 01:39:54 +0000
 tags:

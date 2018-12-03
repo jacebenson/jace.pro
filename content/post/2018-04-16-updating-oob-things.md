@@ -1,10 +1,7 @@
 ---
-title: 'How to work with Out of Box things'
-
-author: 'jace'
-date: '2018-04-16'
-layout: 'post'
-category: ''
+title: How to work with Out of Box things
+date: 2018-04-16
+layout: post
 tags:
  - ootb
 ---

@@ -1,11 +1,9 @@
 ---
-author: 'jace'
-date: '2018-03-27'
-layout: 'post'
-category: ''
+title: Instance options can change CSS
+date: 2018-03-27
+layout: post
 tags:
  - service portal
-title: 'Instance options can change CSS'
 ---
 
 Turns out you can apply CSS to a instance record

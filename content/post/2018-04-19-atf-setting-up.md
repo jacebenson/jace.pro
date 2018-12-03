@@ -1,9 +1,7 @@
 ---
-title: 'Setting up Automated testing framework'
-author: 'jace'
-date: '2018-04-19'
-layout: 'post'
-category: ''
+title: Setting up Automated testing framework
+date: 2018-04-19
+layout: post
 tags:
  - atf
 aliases:
