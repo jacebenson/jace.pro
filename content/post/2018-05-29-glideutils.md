@@ -22,4 +22,4 @@ So enjoy!
 
 ![screenshot](/uploads/glideutils-screenshot.png)
 
-[Gitlab Source](https://gitlab.com/jacebenson/servicenow-glideutils/tree/docs)
+[Github Source](https://github.com/jacebenson/servicenow-glideutils/tree/docs)

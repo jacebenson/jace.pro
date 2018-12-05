@@ -19,4 +19,4 @@ getting variables as that doesnt seem possible in scope with
 
 In anycase, I wanted to post that this is getting updates.
 
-[Gitlab Source](https://gitlab.com/jacebenson/servicenow-glideutils/tree/docs)
+[Github Source](https://github.com/jacebenson/servicenow-glideutils/tree/docs)

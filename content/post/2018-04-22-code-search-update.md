@@ -21,7 +21,7 @@ It now includes everything OOB I can think of that could run code server/client 
 
   1. Open Studio on your environment
   1. Import from source
-  1. Paste in the following URL: [https://gitlab.com/jacebenson/servicenow-codesearch.git](https://gitlab.com/jacebenson/servicenow-codesearch.git)
+  1. Paste in the following URL: [https://github.com/jacebenson/servicenow-codesearch.git](https://github.com/jacebenson/servicenow-codesearch.git)
 
 ## Update
 
