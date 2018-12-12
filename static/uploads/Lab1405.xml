@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2018-12-12 16:08:36">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Updates to lab instance for SAM in London</description>
+<inserted/>
+<name>Lab1405</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>c265e37588d223007f445a8ca1d3cedd</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>6263d012881a23007f445a8ca1d3ce88</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_dictionary_u_software_installations_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="" extends="sys_import_set_row" table="u_software_installations"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label/><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element/><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="Collection">collection</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_software_installations</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:18:09</sys_created_on><sys_id>ce8145ac04b593007f44d2eaab959dc1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_software_installations</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_software_installations_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:18:09</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>2263d012881a23007f445a8ca1d3ce8b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_app_module_de8185ac04b593007f44d2eaab959d0b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Software Installations</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>u_software_installations</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:18:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>de8185ac04b593007f44d2eaab959d0b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Software Installations</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_de8185ac04b593007f44d2eaab959d0b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:18:11</sys_updated_on><timeline_page/><title>Software Installations</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>2663d012881a23007f445a8ca1d3ce8a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_ui_related_change_request_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_related sys_domain="global" table="change_request" version="2" view=""><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Change Request - Default view" name="change_request" related_list="NULL" sys_domain="global" view="Default view">3e8d153283020100829b45338ef622b3</list_id><order_by/><position>0</position><related_list>change_task.change_request</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 17:37:00</sys_created_on><sys_id>a960cfff046d53007f44d2eaab959d52</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 17:37:00</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Change Request - Default view" name="change_request" related_list="NULL" sys_domain="global" view="Default view">3e8d153283020100829b45338ef622b3</list_id><order_by/><position>1</position><related_list>sysapproval_approver.sysapproval</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 17:37:00</sys_created_on><sys_id>a160cfff046d53007f44d2eaab959d53</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 17:37:00</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Change Request - Default view" name="change_request" related_list="NULL" sys_domain="global" view="Default view">3e8d153283020100829b45338ef622b3</list_id><order_by/><position>2</position><related_list>problem.rfc</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 17:37:00</sys_created_on><sys_id>a560cfff046d53007f44d2eaab959d53</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 17:37:00</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Change Request - Default view" name="change_request" related_list="NULL" sys_domain="global" view="Default view">3e8d153283020100829b45338ef622b3</list_id><order_by/><position>3</position><related_list>task_ci.task</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 17:37:00</sys_created_on><sys_id>a960cfff046d53007f44d2eaab959d53</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 17:37:00</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Change Request - Default view" name="change_request" related_list="NULL" sys_domain="global" view="Default view">3e8d153283020100829b45338ef622b3</list_id><order_by/><position>4</position><related_list>task_cmdb_ci_service.task</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 17:37:00</sys_created_on><sys_id>ad60cfff046d53007f44d2eaab959d53</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 17:37:00</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list_entry action="INSERT_OR_UPDATE"><filter/><list_id display_value="Change Request - Default view" name="change_request" related_list="NULL" sys_domain="global" view="Default view">3e8d153283020100829b45338ef622b3</list_id><order_by/><position>5</position><related_list>samp_software_change_projection.change</related_list><sys_class_name>sys_ui_related_list_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 17:37:00</sys_created_on><sys_id>a160cfff046d53007f44d2eaab959d54</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 17:37:00</sys_updated_on></sys_ui_related_list_entry><sys_ui_related_list action="INSERT_OR_UPDATE"><calculated_name>Change Request - Default view</calculated_name><filter/><name>change_request</name><order_by/><position/><related_list/><sys_class_name>sys_ui_related_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 17:37:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3e8d153283020100829b45338ef622b3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Change Request - Default view</sys_name><sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">032d4729f12113007f44e184af6b106e</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_related_change_request_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 17:37:00</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_related_list></sys_ui_related></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>2663d012881a23007f445a8ca1d3ce8d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>cmdb_sam_sw_install_7f0249ac04b593007f44d2eaab959db1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_sam_sw_install"><cmdb_sam_sw_install action="INSERT_OR_UPDATE"><allocation_needed>false</allocation_needed><assigned_to display_value="Roger Rasmussen">5f72e70ac0a8010e003e479c72d75d47</assigned_to><background/><created_by_application_pattern>false</created_by_application_pattern><discovery_model display_value="Adobe Acrobat Elements 15 15.1.0">330249ac04b593007f44d2eaab959daf</discovery_model><discovery_source/><display_name>Adobe Acrobat Elements 15</display_name><edition/><entitlement/><foreground/><inference_calculated>false</inference_calculated><inferred_suite/><install_date/><install_location/><installed_on display_value="DC01">0c43b1a1c6112275019abd2b42ce24a0</installed_on><instance_key/><is_allocated>false</is_allocated><is_normalized>false</is_normalized><is_reconciled>false</is_reconciled><is_subscription_normalized>false</is_subscription_normalized><last_scanned/><last_used/><license_metric_result/><norm_product/><norm_publisher/><normalized_display_name>Adobe Acrobat Elements 15</normalized_display_name><normalized_publisher>Adobe</normalized_publisher><normalized_revision/><normalized_version>15.1.0</normalized_version><omit_from_suites>false</omit_from_suites><primary_key>Adobe.Adobe Acrobat Elements 15.15.1.0</primary_key><processor_mapping/><prod_id/><product_result/><publisher>Adobe</publisher><reconciliation_state/><revision/><sccm_group_id/><sccm_timestamp/><serial_number/><software_model_result/><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:20:28</sys_created_on><sys_domain>global</sys_domain><sys_id>7f0249ac04b593007f44d2eaab959db1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:20:28</sys_updated_on><uninstall_string/><unlicensed_install>false</unlicensed_install><version>15.1.0</version></cmdb_sam_sw_install></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>2a63d012881a23007f445a8ca1d3ce89</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_transform_entry_bcc1c5ac04b593007f44d2eaab959d41</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;true&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Software Installations Map"&gt;db8185ac04b593007f44d2eaab959d4a&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_display_name&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_software_installations&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-04-27 16:19:09&lt;/sys_created_on&gt;&lt;sys_id&gt;bcc1c5ac04b593007f44d2eaab959d41&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_display_name&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_bcc1c5ac04b593007f44d2eaab959d41&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-04-27 16:19:28&lt;/sys_updated_on&gt;&lt;target_field&gt;display_name&lt;/target_field&gt;&lt;target_table&gt;cmdb_sam_sw_install&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>2a63d012881a23007f445a8ca1d3ce8c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_dictionary_u_software_installations_u_publisher</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_publisher" table="u_software_installations"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>import_attribute_name=Publisher,edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Publisher</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_publisher</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_software_installations</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:18:09</sys_created_on><sys_id>428145ac04b593007f44d2eaab959dd4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Publisher</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_software_installations_u_publisher</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:18:09</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>2e63d012881a23007f445a8ca1d3ce8b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>cmdb_sam_sw_install_ff0249ac04b593007f44d2eaab959db0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_sam_sw_install"><cmdb_sam_sw_install action="INSERT_OR_UPDATE"><allocation_needed>false</allocation_needed><assigned_to display_value="David Loo">5137153cc611227c000bbd1bd8cd2007</assigned_to><background/><created_by_application_pattern>false</created_by_application_pattern><discovery_model display_value="Adobe Acrobat Elements 15 15.1.0">330249ac04b593007f44d2eaab959daf</discovery_model><discovery_source/><display_name>Adobe Acrobat Elements 15</display_name><edition/><entitlement/><foreground/><inference_calculated>false</inference_calculated><inferred_suite/><install_date/><install_location/><installed_on display_value="ANDREWDWXP">0c43b0f5c6112275019abd2bb3dcd78f</installed_on><instance_key/><is_allocated>false</is_allocated><is_normalized>false</is_normalized><is_reconciled>false</is_reconciled><is_subscription_normalized>false</is_subscription_normalized><last_scanned/><last_used/><license_metric_result/><norm_product/><norm_publisher/><normalized_display_name>Adobe Acrobat Elements 15</normalized_display_name><normalized_publisher>Adobe</normalized_publisher><normalized_revision/><normalized_version>15.1.0</normalized_version><omit_from_suites>false</omit_from_suites><primary_key>Adobe.Adobe Acrobat Elements 15.15.1.0</primary_key><processor_mapping/><prod_id/><product_result/><publisher>Adobe</publisher><reconciliation_state/><revision/><sccm_group_id/><sccm_timestamp/><serial_number/><software_model_result/><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:20:28</sys_created_on><sys_domain>global</sys_domain><sys_id>ff0249ac04b593007f44d2eaab959db0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:20:28</sys_updated_on><uninstall_string/><unlicensed_install>false</unlicensed_install><version>15.1.0</version></cmdb_sam_sw_install></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>6263d012881a23007f445a8ca1d3ce8a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_transform_map_db8185ac04b593007f44d2eaab959d4a</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_map"&gt;&lt;sys_transform_map action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;copy_empty_fields&gt;false&lt;/copy_empty_fields&gt;&lt;enforce_mandatory_fields&gt;No&lt;/enforce_mandatory_fields&gt;&lt;name&gt;Software Installations Map&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;run_business_rules&gt;true&lt;/run_business_rules&gt;&lt;run_script&gt;false&lt;/run_script&gt;&lt;script&gt;&lt;![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]&gt;&lt;/script&gt;&lt;source_table&gt;u_software_installations&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_map&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-04-27 16:19:01&lt;/sys_created_on&gt;&lt;sys_id&gt;db8185ac04b593007f44d2eaab959d4a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Software Installations Map&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_map_db8185ac04b593007f44d2eaab959d4a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-04-27 16:19:01&lt;/sys_updated_on&gt;&lt;target_table&gt;cmdb_sam_sw_install&lt;/target_table&gt;&lt;/sys_transform_map&gt;&lt;/record_update&gt;</payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>6263d012881a23007f445a8ca1d3ce8d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>cmdb_sam_sw_install_770249ac04b593007f44d2eaab959dad</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_sam_sw_install"><cmdb_sam_sw_install action="INSERT_OR_UPDATE"><allocation_needed>false</allocation_needed><assigned_to display_value="David Loo">5137153cc611227c000bbd1bd8cd2007</assigned_to><background/><created_by_application_pattern>false</created_by_application_pattern><discovery_model display_value="Adobe Acrobat Elements 15 15.1.0">330249ac04b593007f44d2eaab959daf</discovery_model><discovery_source/><display_name>Adobe Acrobat Elements 15</display_name><edition/><entitlement/><foreground/><inference_calculated>false</inference_calculated><inferred_suite/><install_date/><install_location/><installed_on display_value="ALDWXP">0c43b097c6112275019abd2b61620725</installed_on><instance_key/><is_allocated>false</is_allocated><is_normalized>false</is_normalized><is_reconciled>false</is_reconciled><is_subscription_normalized>false</is_subscription_normalized><last_scanned/><last_used/><license_metric_result/><norm_product/><norm_publisher/><normalized_display_name>Adobe Acrobat Elements 15</normalized_display_name><normalized_publisher>Adobe</normalized_publisher><normalized_revision/><normalized_version>15.1.0</normalized_version><omit_from_suites>false</omit_from_suites><primary_key>Adobe.Adobe Acrobat Elements 15.15.1.0</primary_key><processor_mapping/><prod_id/><product_result/><publisher>Adobe</publisher><reconciliation_state/><revision/><sccm_group_id/><sccm_timestamp/><serial_number/><software_model_result/><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:20:28</sys_created_on><sys_domain>global</sys_domain><sys_id>770249ac04b593007f44d2eaab959dad</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:20:28</sys_updated_on><uninstall_string/><unlicensed_install>false</unlicensed_install><version>15.1.0</version></cmdb_sam_sw_install></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>6663d012881a23007f445a8ca1d3ce89</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_transform_entry_70c1c5ac04b593007f44d2eaab959d40</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;true&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Software Installations Map"&gt;db8185ac04b593007f44d2eaab959d4a&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_version&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_software_installations&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-04-27 16:19:09&lt;/sys_created_on&gt;&lt;sys_id&gt;70c1c5ac04b593007f44d2eaab959d40&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_version&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_70c1c5ac04b593007f44d2eaab959d40&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-04-27 16:19:28&lt;/sys_updated_on&gt;&lt;target_field&gt;version&lt;/target_field&gt;&lt;target_table&gt;cmdb_sam_sw_install&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>6663d012881a23007f445a8ca1d3ce8c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_dictionary_u_software_installations_u_installed_on</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_installed_on" table="u_software_installations"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>import_attribute_name=Installed on,edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Installed on</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_installed_on</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_software_installations</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:18:09</sys_created_on><sys_id>828145ac04b593007f44d2eaab959dd5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Installed on</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_software_installations_u_installed_on</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:18:09</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>6a63d012881a23007f445a8ca1d3ce8b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_db_object_0e8145ac04b593007f44d2eaab959dbe</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Software Installations</label><live_feed_enabled>false</live_feed_enabled><name>u_software_installations</name><number_ref/><provider_class/><read_access>true</read_access><super_class display_value="Import Set Row" name="sys_import_set_row">79bc4f65f12113007f44e184af6b100e</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:18:09</sys_created_on><sys_id>0e8145ac04b593007f44d2eaab959dbe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Software Installations</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_db_object_0e8145ac04b593007f44d2eaab959dbe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:18:09</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>6e63d012881a23007f445a8ca1d3ce8a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>cmdb_sam_sw_install_370249ac04b593007f44d2eaab959db2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_sam_sw_install"><cmdb_sam_sw_install action="INSERT_OR_UPDATE"><allocation_needed>false</allocation_needed><assigned_to display_value="Christen Mitchell">97000fcc0a0a0a6e0104ca999f619e5b</assigned_to><background/><created_by_application_pattern>false</created_by_application_pattern><discovery_model display_value="Adobe Acrobat Elements 15 15.1.0">330249ac04b593007f44d2eaab959daf</discovery_model><discovery_source/><display_name>Adobe Acrobat Elements 15</display_name><edition/><entitlement/><foreground/><inference_calculated>false</inference_calculated><inferred_suite/><install_date/><install_location/><installed_on display_value="DC02">0c43b1b1c6112275019abd2b65dc42fc</installed_on><instance_key/><is_allocated>false</is_allocated><is_normalized>false</is_normalized><is_reconciled>false</is_reconciled><is_subscription_normalized>false</is_subscription_normalized><last_scanned/><last_used/><license_metric_result/><norm_product/><norm_publisher/><normalized_display_name>Adobe Acrobat Elements 15</normalized_display_name><normalized_publisher>Adobe</normalized_publisher><normalized_revision/><normalized_version>15.1.0</normalized_version><omit_from_suites>false</omit_from_suites><primary_key>Adobe.Adobe Acrobat Elements 15.15.1.0</primary_key><processor_mapping/><prod_id/><product_result/><publisher>Adobe</publisher><reconciliation_state/><revision/><sccm_group_id/><sccm_timestamp/><serial_number/><software_model_result/><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:20:28</sys_created_on><sys_domain>global</sys_domain><sys_id>370249ac04b593007f44d2eaab959db2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:20:28</sys_updated_on><uninstall_string/><unlicensed_install>false</unlicensed_install><version>15.1.0</version></cmdb_sam_sw_install></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>a263d012881a23007f445a8ca1d3ce89</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_transform_entry_38c1c5ac04b593007f44d2eaab959d45</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;true&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Software Installations Map"&gt;db8185ac04b593007f44d2eaab959d4a&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_publisher&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_software_installations&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-04-27 16:19:10&lt;/sys_created_on&gt;&lt;sys_id&gt;38c1c5ac04b593007f44d2eaab959d45&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_publisher&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_38c1c5ac04b593007f44d2eaab959d45&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-04-27 16:19:28&lt;/sys_updated_on&gt;&lt;target_field&gt;publisher&lt;/target_field&gt;&lt;target_table&gt;cmdb_sam_sw_install&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>a263d012881a23007f445a8ca1d3ce8c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_dictionary_u_software_installations_u_display_name</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_display_name" table="u_software_installations"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>import_attribute_name=Display name,edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Display name</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_display_name</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_software_installations</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:18:09</sys_created_on><sys_id>c28145ac04b593007f44d2eaab959dd6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Display name</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_software_installations_u_display_name</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:18:09</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>a663d012881a23007f445a8ca1d3ce8b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>cmdb_sam_sw_discovery_model_330249ac04b593007f44d2eaab959daf</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_sam_sw_discovery_model"><cmdb_sam_sw_discovery_model action="INSERT_OR_UPDATE"><approved>false</approved><automatched>false</automatched><discovery_source/><display_name>Adobe Acrobat Elements 15</display_name><exclude_from_content_service>false</exclude_from_content_service><low_confidence>false</low_confidence><model/><norm_edition/><norm_full_version/><norm_language display_value="-- Anything --">832bec5493212200caef14f1b47ffb56</norm_language><norm_platform>anything</norm_platform><norm_product/><norm_publisher/><norm_type/><norm_version/><normalization_rule/><normalize_date/><primary_display_name>Adobe Acrobat Elements 15 15.1.0</primary_display_name><primary_key>Adobe.Adobe Acrobat Elements 15.15.1.0</primary_key><prod_id/><product_hash>1B66E087E82BE2E23A73115E6A2A9D6AAE949328F57299AEF18A214FB702CC9C</product_hash><publisher>Adobe</publisher><reported>false</reported><revision/><rule_table/><software_package/><status>missed</status><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:20:28</sys_created_on><sys_id>330249ac04b593007f44d2eaab959daf</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:20:28</sys_updated_on><version>15.1.0</version><version_hash>4003E4D30CF4E05857D157E23C95066B772B287AC64C6129993634D12E15CFB1</version_hash></cmdb_sam_sw_discovery_model></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>aa63d012881a23007f445a8ca1d3ce88</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_data_source_b204643187700300562e4127f5cb0b44</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source"><sys_data_source action="INSERT_OR_UPDATE"><category>SCCM 2016 Integration</category><connection_timeout>0</connection_timeout><connection_url>jdbc:sqlserver://;selectMethod=cursor;databaseName=</connection_url><connection_url_parameters/><csv_delimiter/><database_name/><database_port/><expand_node_children>false</expand_node_children><file_path/><file_retrieval_method>Attachment</file_retrieval_method><format>com.microsoft.sqlserver.jdbc.SQLServerDriver</format><glide_keystore>false</glide_keystore><header_row>0</header_row><import_set_table_label>Software usage 2016 import</import_set_table_label><import_set_table_name>imp_samp_usage_2016_import</import_set_table_name><instance_name/><jdbc_password/><jdbc_server/><jdbc_user_name/><jdbcprobe_result_set_rows/><jpath_root_node/><last_run_database_field>LastUsage</last_run_database_field><last_run_datetime/><ldap_target/><maximum_rows/><mid_server/><name>SAMP Usage 2016</name><oracle_port>1521</oracle_port><oracle_sid>orcl</oracle_sid><properties/><query>Specific SQL</query><query_timeout>0</query_timeout><scp_authentication>Username and Password</scp_authentication><scp_password/><scp_port/><scp_server/><scp_user_name/><sheet_number>0</sheet_number><sql_statement>SELECT 1 from v_MonthlyUsageSummary where 1=0</sql_statement><ssh_keyfile_path/><sys_class_name>sys_data_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2016-10-10 22:23:45</sys_created_on><sys_id>b204643187700300562e4127f5cb0b44</sys_id><sys_mod_count>65</sys_mod_count><sys_name>SAMP Usage 2016</sys_name><sys_package display_value="Integration - Microsoft SCCM 2016 Software Usage" source="sn_samp_usage_2016">410b390d87300300562e4127f5cb0b4b</sys_package><sys_policy/><sys_scope display_value="Integration - Microsoft SCCM 2016 Software Usage">410b390d87300300562e4127f5cb0b4b</sys_scope><sys_update_name>sys_data_source_b204643187700300562e4127f5cb0b44</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 07:01:58</sys_updated_on><table_name/><type>JDBC</type><use_integrated_authentication>false</use_integrated_authentication><use_last_run_datetime>true</use_last_run_datetime><xpath_root_node/><zipped>false</zipped></sys_data_source></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>aa63d012881a23007f445a8ca1d3ce8a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>ua_table_licensing_config_028145ac04b593007f44d2eaab959ddb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>u_software_installations</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:18:10</sys_created_on><sys_id>028145ac04b593007f44d2eaab959ddb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_software_installations</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>ua_table_licensing_config_028145ac04b593007f44d2eaab959ddb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:18:10</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>aa63d012881a23007f445a8ca1d3ce8d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>cmdb_sam_sw_install_fb0249ac04b593007f44d2eaab959db2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_sam_sw_install"><cmdb_sam_sw_install action="INSERT_OR_UPDATE"><allocation_needed>false</allocation_needed><assigned_to display_value="Ted Bozelle">46bbf3daa9fe1981001fd0ccdd391f83</assigned_to><background/><created_by_application_pattern>false</created_by_application_pattern><discovery_model display_value="Adobe Acrobat Elements 15 15.1.0">330249ac04b593007f44d2eaab959daf</discovery_model><discovery_source/><display_name>Adobe Acrobat Elements 15</display_name><edition/><entitlement/><foreground/><inference_calculated>false</inference_calculated><inferred_suite/><install_date/><install_location/><installed_on display_value="MARCCWXP">0c43b635c6112275019abd2bbe986986</installed_on><instance_key/><is_allocated>false</is_allocated><is_normalized>false</is_normalized><is_reconciled>false</is_reconciled><is_subscription_normalized>false</is_subscription_normalized><last_scanned/><last_used/><license_metric_result/><norm_product/><norm_publisher/><normalized_display_name>Adobe Acrobat Elements 15</normalized_display_name><normalized_publisher>Adobe</normalized_publisher><normalized_revision/><normalized_version>15.1.0</normalized_version><omit_from_suites>false</omit_from_suites><primary_key>Adobe.Adobe Acrobat Elements 15.15.1.0</primary_key><processor_mapping/><prod_id/><product_result/><publisher>Adobe</publisher><reconciliation_state/><revision/><sccm_group_id/><sccm_timestamp/><serial_number/><software_model_result/><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:20:28</sys_created_on><sys_domain>global</sys_domain><sys_id>fb0249ac04b593007f44d2eaab959db2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:20:28</sys_updated_on><uninstall_string/><unlicensed_install>false</unlicensed_install><version>15.1.0</version></cmdb_sam_sw_install></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>ae63d012881a23007f445a8ca1d3ce89</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_transform_entry_f8c1c5ac04b593007f44d2eaab959d43</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;true&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Software Installations Map"&gt;db8185ac04b593007f44d2eaab959d4a&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_installed_on&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_software_installations&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-04-27 16:19:10&lt;/sys_created_on&gt;&lt;sys_id&gt;f8c1c5ac04b593007f44d2eaab959d43&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_installed_on&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_f8c1c5ac04b593007f44d2eaab959d43&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-04-27 16:19:27&lt;/sys_updated_on&gt;&lt;target_field&gt;installed_on&lt;/target_field&gt;&lt;target_table&gt;cmdb_sam_sw_install&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>ae63d012881a23007f445a8ca1d3ce8c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_dictionary_u_software_installations_u_assigned_to</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_assigned_to" table="u_software_installations"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>import_attribute_name=Assigned to,edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Assigned to</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_assigned_to</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_software_installations</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:18:09</sys_created_on><sys_id>428145ac04b593007f44d2eaab959dc5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Assigned to</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_software_installations_u_assigned_to</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:18:09</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>e263d012881a23007f445a8ca1d3ce8b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_data_source_7d8145ac04b593007f44d2eaab959d59</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source"><sys_data_source action="INSERT_OR_UPDATE"><category/><connection_timeout>0</connection_timeout><connection_url>attachment://sys_data_source:7d8145ac04b593007f44d2eaab959d59/elements_installations.xlsx</connection_url><connection_url_parameters/><csv_delimiter/><database_name/><database_port/><expand_node_children>false</expand_node_children><file_path>elements_installations.xlsx</file_path><file_retrieval_method>Attachment</file_retrieval_method><format>Excel</format><glide_keystore>false</glide_keystore><header_row>1</header_row><import_set_table_label/><import_set_table_name>u_software_installations</import_set_table_name><instance_name/><jdbc_password/><jdbc_server/><jdbc_user_name/><jdbcprobe_result_set_rows/><jpath_root_node/><last_run_database_field/><last_run_datetime/><ldap_target/><maximum_rows/><mid_server/><name>elements_installations.xlsx (Uploaded)</name><oracle_port>1521</oracle_port><oracle_sid>orcl</oracle_sid><properties/><query>All Rows from Table</query><query_timeout>0</query_timeout><scp_authentication>Username and Password</scp_authentication><scp_password/><scp_port/><scp_server/><scp_user_name/><sheet_number>1</sheet_number><sql_statement/><ssh_keyfile_path/><sys_class_name>sys_data_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:18:08</sys_created_on><sys_id>7d8145ac04b593007f44d2eaab959d59</sys_id><sys_mod_count>1</sys_mod_count><sys_name>elements_installations.xlsx (Uploaded)</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_data_source_7d8145ac04b593007f44d2eaab959d59</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:18:10</sys_updated_on><table_name/><type>File</type><use_integrated_authentication>false</use_integrated_authentication><use_last_run_datetime>false</use_last_run_datetime><xpath_root_node/><zipped>false</zipped></sys_data_source></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>e663d012881a23007f445a8ca1d3ce8a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_ui_section_f27e32b20a0a0b64001a35491e9032ed</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="f27e32b20a0a0b64001a35491e9032ed" sys_domain="global" table="cmdb_ci_win_server" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 18:10:08</sys_created_on><sys_id>b2f7c7b304ad53007f44d2eaab959da1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_win_server" sys_domain="global" view="Default view">f27e32b20a0a0b64001a35491e9032ed</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 18:10:08</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 18:10:08</sys_created_on><sys_id>baf7c7b304ad53007f44d2eaab959da1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_win_server" sys_domain="global" view="Default view">f27e32b20a0a0b64001a35491e9032ed</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 18:10:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>asset_tag</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 18:10:08</sys_created_on><sys_id>bef7c7b304ad53007f44d2eaab959da1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_win_server" sys_domain="global" view="Default view">f27e32b20a0a0b64001a35491e9032ed</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 18:10:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>manufacturer</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 18:10:08</sys_created_on><sys_id>b2f7c7b304ad53007f44d2eaab959da2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_win_server" sys_domain="global" view="Default view">f27e32b20a0a0b64001a35491e9032ed</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 18:10:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>asset</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 18:10:08</sys_created_on><sys_id>b6f7c7b304ad53007f44d2eaab959da2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_win_server" sys_domain="global" view="Default view">f27e32b20a0a0b64001a35491e9032ed</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 18:10:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 18:10:08</sys_created_on><sys_id>baf7c7b304ad53007f44d2eaab959da2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_win_server" sys_domain="global" view="Default view">f27e32b20a0a0b64001a35491e9032ed</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 18:10:08</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>company</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 18:10:08</sys_created_on><sys_id>bef7c7b304ad53007f44d2eaab959da2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_win_server" sys_domain="global" view="Default view">f27e32b20a0a0b64001a35491e9032ed</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 18:10:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>serial_number</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 18:10:08</sys_created_on><sys_id>b2f7c7b304ad53007f44d2eaab959da3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_win_server" sys_domain="global" view="Default view">f27e32b20a0a0b64001a35491e9032ed</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 18:10:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>model_id</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 18:10:08</sys_created_on><sys_id>b6f7c7b304ad53007f44d2eaab959da3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_win_server" sys_domain="global" view="Default view">f27e32b20a0a0b64001a35491e9032ed</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 18:10:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 18:10:08</sys_created_on><sys_id>baf7c7b304ad53007f44d2eaab959da3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_win_server" sys_domain="global" view="Default view">f27e32b20a0a0b64001a35491e9032ed</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 18:10:08</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 18:10:08</sys_created_on><sys_id>bef7c7b304ad53007f44d2eaab959da3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_win_server" sys_domain="global" view="Default view">f27e32b20a0a0b64001a35491e9032ed</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 18:10:08</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cmdb_scheduled_diff.xml</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-25 18:10:08</sys_created_on><sys_id>b2f7c7b304ad53007f44d2eaab959da4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="CMDB Scheduled Changes">947b47cfa9fe3dba0092d0a85bdef6c3</sys_ui_formatter><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_win_server" sys_domain="global" view="Default view">f27e32b20a0a0b64001a35491e9032ed</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-25 18:10:08</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>cmdb_ci_win_server</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>glide.maint</sys_created_by><sys_created_on>2007-09-11 02:55:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f27e32b20a0a0b64001a35491e9032ed</sys_id><sys_mod_count>9</sys_mod_count><sys_name>cmdb_ci_win_server</sys_name><sys_overrides display_value="">global</sys_overrides><sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">032d4729f12113007f44e184af6b106e</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_f27e32b20a0a0b64001a35491e9032ed</sys_update_name><sys_updated_by>glide.maint</sys_updated_by><sys_updated_on>2008-02-21 16:51:59</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>e663d012881a23007f445a8ca1d3ce8d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>cmdb_sam_sw_install_b70249ac04b593007f44d2eaab959db1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_sam_sw_install"><cmdb_sam_sw_install action="INSERT_OR_UPDATE"><allocation_needed>false</allocation_needed><assigned_to display_value="David Loo">5137153cc611227c000bbd1bd8cd2007</assigned_to><background/><created_by_application_pattern>false</created_by_application_pattern><discovery_model display_value="Adobe Acrobat Elements 15 15.1.0">330249ac04b593007f44d2eaab959daf</discovery_model><discovery_source/><display_name>Adobe Acrobat Elements 15</display_name><edition/><entitlement/><foreground/><inference_calculated>false</inference_calculated><inferred_suite/><install_date/><install_location/><installed_on display_value="CALLXPR1">0c43b143c6112275019abd2b3390d1f9</installed_on><instance_key/><is_allocated>false</is_allocated><is_normalized>false</is_normalized><is_reconciled>false</is_reconciled><is_subscription_normalized>false</is_subscription_normalized><last_scanned/><last_used/><license_metric_result/><norm_product/><norm_publisher/><normalized_display_name>Adobe Acrobat Elements 15</normalized_display_name><normalized_publisher>Adobe</normalized_publisher><normalized_revision/><normalized_version>15.1.0</normalized_version><omit_from_suites>false</omit_from_suites><primary_key>Adobe.Adobe Acrobat Elements 15.15.1.0</primary_key><processor_mapping/><prod_id/><product_result/><publisher>Adobe</publisher><reconciliation_state/><revision/><sccm_group_id/><sccm_timestamp/><serial_number/><software_model_result/><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:20:28</sys_created_on><sys_domain>global</sys_domain><sys_id>b70249ac04b593007f44d2eaab959db1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:20:28</sys_updated_on><uninstall_string/><unlicensed_install>false</unlicensed_install><version>15.1.0</version></cmdb_sam_sw_install></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>ea63d012881a23007f445a8ca1d3ce89</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_transform_entry_e8c1c5ac04b593007f44d2eaab959d3d</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;true&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Software Installations Map"&gt;db8185ac04b593007f44d2eaab959d4a&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_assigned_to&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;u_software_installations&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-04-27 16:19:09&lt;/sys_created_on&gt;&lt;sys_id&gt;e8c1c5ac04b593007f44d2eaab959d3d&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_assigned_to&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_e8c1c5ac04b593007f44d2eaab959d3d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2018-04-27 16:19:28&lt;/sys_updated_on&gt;&lt;target_field&gt;assigned_to&lt;/target_field&gt;&lt;target_table&gt;cmdb_sam_sw_install&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>ea63d012881a23007f445a8ca1d3ce8c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action/>
+<application display_value="Global">global</application>
+<category/>
+<comments/>
+<name>sys_dictionary_u_software_installations_u_version</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_version" table="u_software_installations"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>import_attribute_name=Version,edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Version</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_version</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>u_software_installations</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-04-27 16:18:09</sys_created_on><sys_id>028145ac04b593007f44d2eaab959dd3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Version</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_u_software_installations_u_version</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2018-04-27 16:18:09</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash/>
+<remote_update_set display_value="Lab1405">6263d012881a23007f445a8ca1d3ce88</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-12-12 16:08:35</sys_created_on>
+<sys_id>ee63d012881a23007f445a8ca1d3ce8b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>1679e7545e80000000</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-12-12 16:08:35</sys_updated_on>
+<table/>
+<target_name/>
+<type/>
+<update_domain>global</update_domain>
+<update_guid/>
+<update_guid_history/>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
