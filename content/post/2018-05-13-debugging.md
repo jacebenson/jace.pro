@@ -59,7 +59,7 @@ try {
 ### Inbound Emails
 
 ```js
-var emailSysId = '';//pick a sysevent record's sysid here
+var emailSysId = '';//pick a sys_email record's sysid here
 
 var email = new GlideRecord('sys_email');
 if(email.get(emailSysId)){
@@ -70,7 +70,7 @@ if(email.get(emailSysId)){
         email[lineArray[0]] = lineArray.pop().join(':');
     });
 }
-
+var event = {};
 try {
     // paste your code below here
 
