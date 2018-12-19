@@ -14,10 +14,13 @@ aliases:
 ---
 # What is GlideRecord
 
-Well it’s how you can get data for specific records in Servicenow from
-the client or server. The client and server classes have a few
-differences, and I’ll be sure to highlight them as of now. Here is a
-link to the
+A `GlideRecord` is a class of object that represents a table & offers a scriptable API to access records on that table
+
+`GlideRecord` is comprised of [`GlideElements`](/glideelement) as well as other methods and metadata that work together to allow you to query from and write to database tables
+
+[`GlideElement`](/glideelement) is a class of object that represents a column on a table
+
+There are two versions of GlideRecord, the client side version, and the server side version.
 [docs](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=c_GlideRecordScopedAPI)
 <!--more-->
 
