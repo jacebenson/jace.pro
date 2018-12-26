@@ -41,12 +41,12 @@ disqusShortname = "gggr"
 
 [Author]
   name = "Jace Benson"
-  gitlab = "jacebenson"
+#  gitlab = "jacebenson"
   github = "jacebenson"
   twitter = "jacebenson"
-  linkedin = "jacebenson"
-  stackoverflow = "users/546886/jace"
-  youtube = "user/jacebenson" # or channel/channelname
+#  linkedin = "jacebenson"
+#  stackoverflow = "users/546886/jace"
+#  youtube = "user/jacebenson" # or channel/channelname
 
 
 # [[menu.main]]
