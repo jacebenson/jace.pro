@@ -63,5 +63,5 @@ sequenceDiagram
     ssss->>dbdb: Query Business Rules
     dbdb->>ssss: Display Business Rules
     ssss->>uxux: Return UI
-    Note over uxux,dbdb: Thanks to <html><a href="">http://www.snc-blog.com/2017/02/02/script-execution-flow/</a></html>
+    Note over uxux,dbdb: Thanks to http://www.snc-blog.com/2017/02/02/script-execution-flow/
 {{</mermaid>}}
