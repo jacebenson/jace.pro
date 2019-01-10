@@ -20,19 +20,17 @@ keywords:
 - "ref_auto_completer"
 - "ref_qual_elements" 
 ---
+A list of all the variable attributes that could be found here on the [docs](https://docs.servicenow.com/bundle/jakarta-it-service-management/page/product/service-catalog-management/reference/variable-attributes.html#variable-attributes).
+<!--more-->
+
+## Documented
+
 <style>
 td {
     max-width: 200px;
     word-wrap: break-word;
 }
 </style>
-
-
-A list of all the variable attributes that could be found here on the [docs](https://docs.servicenow.com/bundle/jakarta-it-service-management/page/product/service-catalog-management/reference/variable-attributes.html#variable-attributes).
-<!--more-->
-
-## Documented
-
 | Attribute                   | Value                       | Target Variable                                                 | Description |
 | --------------------------- | --------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `glide_list`                | true/false                  | List collector                                                  | Changes the list collector interface from slushbucket to glide list.                                                                                                                           |
