@@ -26,8 +26,8 @@ disqusShortname = "gggr"
   commit = false
   rss = true
   comments = true
-  gcse = "007082590379751046943:au5jbfn4uby" 
-  #algolia = "0457ec3dd60c20e0dae38d0798c73506" # API key
+  # gcse = "007082590379751046943:au5jbfn4uby" 
+  algolia = "0457ec3dd60c20e0dae38d0798c73506" # API key
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
