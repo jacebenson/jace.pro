@@ -1,7 +1,5 @@
 ---
 title: GlideElement
-
-
 date: 2016-01-01
 layout: page
 url: "/glideelement/"
@@ -9,7 +7,8 @@ tags:
 - server-side-api
 aliases:
 - "/GlideElement/"
-
+keywords:
+- ""
 ---
 # What is GlideElement
 <!--more-->

@@ -1,7 +1,5 @@
 ---
 title: Jelly
-
-
 date: 2016-01-01
 layout: page
 tags:
@@ -9,6 +7,33 @@ tags:
 url: "/jelly/"
 aliases:
 - "/Jelly/"
+keywords: 
+- "${}"
+- "$[]"
+- "Phase"
+- "j:"
+- "g:"
+- "set"
+- "set_if"
+- "insert"
+- "inline"
+- "call"
+- "evaluate"
+- "if test"
+- "empty()"
+- "RP"
+- "RenderProperties"
+- "getEncodedQuery"
+- "getListControl"
+- "getParameterValue"
+- "getReferringURL"
+- "getViewID"
+- "getViewName"
+- "getWindowProperties"
+- "isInDevStudio"
+- "isInteractive"
+- "isManyToMany"
+- "isRelatedList"
 ---
 # What is Jelly
 

@@ -1,7 +1,5 @@
 ---
 title: GlideSession
-
-
 date: 2016-01-01
 layout: page
 url: "/glidesession/"
@@ -9,6 +7,20 @@ tags:
 - server-side-api
 aliases:
 - "/GlideSession/"
+keywords:
+- "clearClientData"
+- "getClientData"
+- "getClientIP"
+- "getCurrentApplicationId"
+- "getLanguage"
+- "getSessionToken"
+- "getRoles"
+- "getTimeZoneName"
+- "getUrlOnStack"
+- "isImpersonating"
+- "isInteractive"
+- "isLoggedIn"
+- "putClientData"
 ---
 # What is GlideSession
 GlideSession is often confused, for me at least, with `gs`.  You need to make a `gs` call to get the session, but the session itself has very specific functions that can be really useful.  Below I go over those.  Here's a link to the [docs](https://docs.servicenow.com/bundle/jakarta-application-development/page/app-store/dev_portal/API_reference/GlideSession/concept/c_GlideSessionAPI.html).

@@ -700,7 +700,7 @@ td.gutter {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
 }
-input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus, .gsc-search-button {
+input.aa-search-input {
   box-sizing: content-box;
   line-height: normal;
 }

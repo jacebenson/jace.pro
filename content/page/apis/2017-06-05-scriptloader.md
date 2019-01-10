@@ -10,7 +10,8 @@ tags:
 aliases:
 - "/SciptLoader/"
 - "/General/ScriptLoader/"
-
+keywords:
+- "getScripts"
 ---
 So if you want to reuse a script across many client scripts there's two ways I see it being able to be done easily.  One, is to use a Script Include and a [GlideAjax](/GlideAjax) call to handle the logic server side.  Two, is to create a UI Script and load it with `ScriptLoader` call described here or on the [developer site](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=c_ScriptLoaderAPI).
 

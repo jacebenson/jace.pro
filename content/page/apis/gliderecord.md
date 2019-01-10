@@ -1,7 +1,5 @@
 ---
 title: GlideRecord
-
-
 date: 2016-01-01
 layout: page
 url: "/gliderecord/"
@@ -10,7 +8,62 @@ tags:
 aliases:
 - "/Operators/"
 - "/GlideRecord/"
-
+keywords: 
+- "getlasterrormessage"
+- "isvalid"
+- "operation"
+- "setabortaction"
+- "setworkflow"
+- "cancreate"
+- "candelete"
+- "canread"
+- "canwrite"
+- "addencodedquery"
+- "addjoinquery"
+- "addnotnullquery"
+- "addnullquery"
+- "addorcondition"
+- "addquery"
+- "choosewindow"
+- "get"
+- "getencodedquery"
+- "getrowcount"
+- "hasnext"
+- "next"
+- "orderby"
+- "orderbydesc"
+- "query"
+- "setlimit"
+- "setencodedquery"
+- "addfunction"
+- "getattribute"
+- "getcategory"
+- "getclassdisplayvalue"
+- "getdisplayname"
+- "getdisplayvalue"
+- "getelement"
+- "getlabel"
+- "getlink"
+- "getrecordclassname"
+- "gettablename"
+- "getvalue"
+- "autosysfields"
+- "deletemultiple"
+- "deleterecord"
+- "initialize"
+- "insert"
+- "isactionaborted"
+- "isnewrecord"
+- "isvalidfield"
+- "usvalidrecord"
+- "newrecord"
+- "setcategory"
+- "setforceupdate"
+- "setnewguid"
+- "setnewguidvalue"
+- "setvalue"
+- "update"
+- "updatemultiple"
 ---
 # What is GlideRecord
 

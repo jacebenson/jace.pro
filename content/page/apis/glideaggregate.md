@@ -1,7 +1,5 @@
 ---
 title: GlideAggregate
-
-
 date: 2016-01-01
 layout: page
 tags:
@@ -9,6 +7,12 @@ tags:
 url: "/glideaggregate/"
 aliases:
 - "/GlideAggregate/"
+keywords:
+- "addAggregate"
+- "getAggregate"
+- "getAggregateEncodedQuery"
+- "orderByAggregate"
+- "setGroup"
 ---
 # What is GlideAggregate
 

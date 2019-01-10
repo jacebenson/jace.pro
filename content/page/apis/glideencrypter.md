@@ -1,7 +1,5 @@
 ---
 title: GlideEncrypter
-
-
 date: 2016-01-01
 layout: page
 url: "/glideencrypter/"
@@ -9,6 +7,10 @@ tags:
 - server-side-api
 aliases:
 - "/GlideEncrypter/"
+keywords:
+- "encrypt"
+- "decrypt"
+- "getDecryptedValue"
 ---
 Here's some examples of using `GlideEncrypter`.
 <!--more-->

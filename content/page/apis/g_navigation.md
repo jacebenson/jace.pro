@@ -11,6 +11,13 @@ aliases:
 - "/glidenavigation/"
 - "/glidenavigationv3/"
 - "/GlideNavigationV3/"
+keywords:
+- "open"
+- "openPopup"
+- "openRecord"
+- "refreshNavigator"
+- "reloadWindow"
+- "getURL"
 ---
 # What is g\_navigation
 

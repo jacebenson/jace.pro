@@ -1,7 +1,5 @@
 ---
 title: Attributes for Variables
-
-
 date: 2016-01-01
 layout: page
 tags:
@@ -11,6 +9,16 @@ tags:
 url: "/attributes-vars/"
 aliases:
 - "/Attributes-Vars/"
+keywords:
+- "glide_list"
+- "is_searchable_choice"
+- "max_length"
+- "max_unit"
+- "no_filter"
+- "ref_ac_columns"
+- "ref_ac_order_by"
+- "ref_auto_completer"
+- "ref_qual_elements" 
 ---
 <style>
 td {

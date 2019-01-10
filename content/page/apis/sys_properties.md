@@ -1,7 +1,5 @@
 ---
 title: System Properties
-
-
 date: 2016-01-01
 layout: page
 tags:
@@ -12,6 +10,8 @@ aliases:
 - "/sys_property/"
 - "/sys_propertys/"
 - "/prop/"
+keywords:
+- ""
 ---
 <style>
 td {

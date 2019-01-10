@@ -1,7 +1,5 @@
 ---
 title: GlideAjax Examples
-
-
 date: 2016-01-01
 layout: page
 tags:
@@ -10,6 +8,10 @@ tags:
 url: "/glideajax/"
 aliases:
 - "/GlideAjax/"
+keywords:
+- "AbstractAjaxProcessor"
+- "addParam"
+- "getXML"
 ---
 # GlideAjax
 

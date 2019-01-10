@@ -1,7 +1,5 @@
 ---
 title: GlideUser
-
-
 date: 2016-01-01
 layout: page
 url: "/glideuser/"
@@ -9,6 +7,28 @@ tags:
 - server-side-api
 aliases:
 - "/GlideUser/"
+keywords:
+- "getCompanyID"
+- "getDisplayName"
+- "getEmail"
+- "getFirstName"
+- "getID"
+- "getLastName"
+- "getName"
+- "getRoles"
+- "getUserRoles"
+- "hasRole"
+- "isMemberOf"
+- "getPreference"
+- "savePreference"
+- "getDomainDisplayValue"
+- "getManagerID"
+- "getMyGroups"
+- "getLanguage"
+- "getDepartmentID"
+- "getLocation"
+- "getCompanyRecord"
+- "getDomainID"
 ---
 # What is GlideUser
 

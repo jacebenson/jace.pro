@@ -9,6 +9,8 @@ tags:
 - server-side-api
 aliases:
 - "/GlideFilter/"
+keywords:
+- "checkRecord"
 ---
 GlideFilter is a neat Class.  It lets you check if a record meets a critera based on a query.  Here's the [docs](https://docs.servicenow.com/bundle/jakarta-application-development/page/app-store/dev_portal/API_reference/GlideFilterScoped/concept/c_GlideFilterScopedAPI.html) on it.
 <!--more-->
