@@ -10,6 +10,7 @@ So it seems Servicenow started to make this work out of the box but just never f
 
 - Workflow `Knowledge - Approval Publish` creates an approval
 - A business rule called `Approval Events (Non-Task)` triggers an event for the state based on the table.  So searching for `kb_knowledge.approval.inserted` comes up empty.  Here's the code;
+  
   ```js
   sendEventsNonTask();
 
@@ -46,6 +47,7 @@ So it seems Servicenow started to make this work out of the box but just never f
   ```
 - No notification is built but you could just create a new one based on the template called `change.itil.approve.role`
   `Subject: ${sysapproval.sys_class_name} ${sysapproval} Approval Request`
+  
   ```html
   <div>Short Description: ${sysapproval.short_description}</div>
   <div>Priority: ${sysapproval.priority}</div>
@@ -78,7 +80,8 @@ So it seems Servicenow started to make this work out of the box but just never f
   <div>Click here to view ${sysapproval.sys_class_name}: ${sysapproval.URI}</div>
   ```
 - I'd probably start with something like this
-  `Subject: ${sysapproval.sys_class_name} ${sysapproval} Approval Request`
+  `Subject: ${document_id.short_description} ${document_id.number} Approval Request`
+  
   ```html
   <div>Short Description: ${document_id.short_description}</div>
   <div>&nbsp;</div>
