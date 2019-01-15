@@ -180,3 +180,7 @@ In addition to the application suites listed above, ServiceNow separately offers
 | Modify any report |  |  |  | Included |
 | Perform development activities |  |  |  | Included |
 | Perform Administrative activities |  |  |  | Included |
+
+## Related reading;
+
+Cost of extending tables: [https://servicenow.implementation.blog/financial-implications-of-extending-tables/](https://servicenow.implementation.blog/financial-implications-of-extending-tables/)
