@@ -46,6 +46,7 @@ So it seems Servicenow started to make this work out of the box but just never f
    /*Omitted remaining code...*/
   ```
 - No notification is built but you could just create a new one based on the template called `change.itil.approve.role`
+ 
   `Subject: ${sysapproval.sys_class_name} ${sysapproval} Approval Request`
   
   ```html
