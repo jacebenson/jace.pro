@@ -81,6 +81,7 @@ So it seems Servicenow started to make this work out of the box but just never f
   <div>Click here to view ${sysapproval.sys_class_name}: ${sysapproval.URI}</div>
   ```
 - I'd probably start with something like this
+  
   `Subject: ${document_id.short_description} ${document_id.number} Approval Request`
   
   ```html
