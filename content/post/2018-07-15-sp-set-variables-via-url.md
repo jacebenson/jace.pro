@@ -66,3 +66,21 @@ The following will tried to be set;
 | id          | `sc_cat_item`                      |
 | sys_id      | `b480811a0f021300fc69cdbce1050ece` |
 | description | `test`                             |
+
+P.S.
+Laurent Chicoine pointed out another way to do this for an individual variable at a time instead of all of them by setting the default value, you can see his comment in the comments and mark his helpful if you find this shortened version helpful.
+
+If you set the default value of the variable in question to this, then you can default it differently based on weather or not `$sp` exists.
+
+```javascript
+javascript: (function(){
+  try{
+    // Service Portal
+    // if $sp exists do this
+    return $sp.getParameter('var_short_description') || '';
+  } catch(e){
+    // UI16
+    // if $sp causes an error cause its not defined do this
+    return RP.getParameterValue('var_short_description');
+  }
+})()```
