@@ -101,12 +101,12 @@ To make this follow these steps;
               g_form.hideFieldMsg("password_macro", true); //hides all messages
             });
           } else {
-				    var errorShort = "Passwords must be at least 16 characters and only allow a alphanumeric value.";
+            var errorShort = "Passwords must be at least 16 characters and only allow a alphanumeric value.";
             g_form.hideFieldMsg("password_macro", true); //hides all messages
             g_form.showFieldMsg("password_macro", errorShort, "error", false);
           }
         } else {
-			    var errorMatch = "Passwords must be at least 16 characters and only allow a alphanumeric value.";
+	  var errorMatch = "Passwords must be at least 16 characters and only allow a alphanumeric value.";
           g_form.clearValue(varname);
           g_form.hideFieldMsg("password_macro", true); //hides all messages
           g_form.showFieldMsg("password_macro", errorMatch, "error", false);
