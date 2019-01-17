@@ -22,6 +22,7 @@ To make this follow these steps;
 2. Make a variable type of macro with label, variable name of `password_macro`.
 3. Make a Service Portal Widget with these values;
     **HTML Template**
+    
     ```html
     <div class = "form-group ng-scope ng-isolate-scope" style = "" >
       <label class="field-label ng-binding ng-scope" title="" tooltip-right="true" data-original-title="">
@@ -73,7 +74,9 @@ To make this follow these steps;
       <div ng-show="field.messages" aria-hidden="true" class="ng-hide"></div>
     </div>
     ```
+    
     **Client Script**
+    
     ```js
     function($scope) {
       //This is the controller, we've included $scope in the function above because it's easy to work with
@@ -111,7 +114,9 @@ To make this follow these steps;
       };
   	}
     ```
+    
     **Server Script**
+    
     ```js
     (function() {
     	if(input && input.passwordInput){
