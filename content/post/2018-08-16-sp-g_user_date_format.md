@@ -15,7 +15,7 @@ To use the `g_user_date_format`, `g_user_date_time_format` and `getDateFromForma
 
 To do that goto the widget where you get a failure message and add a new dependency to a new UI script where you copy/paste the code from https://hi.service-now.com/scripts/calendar.js.
 
-Then all your old calls ought to wrok as described in other posts.
+Then all your old calls ought to work as described in other posts.
 
 ```js
 // returns a date object you can test against for date/time 
