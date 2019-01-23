@@ -8,6 +8,7 @@ tags:
 url: "/glideajax/"
 aliases:
 - "/GlideAjax/"
+- "/ajax/"
 keywords:
 - "AbstractAjaxProcessor"
 - "addParam"
