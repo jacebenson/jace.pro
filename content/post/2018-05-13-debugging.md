@@ -127,11 +127,11 @@ try {
 ```js
 var importSetRowSysId = '';//sysid from your import table
 var targetTable = '';// table to set the field on
-var tagertSysId = null; // doesn't need to be set but if you know the record, you can set this sysid
+var targetSysId = null; // doesn't need to be set but if you know the record, you can set this sysid
 
 var importTable = new GlideRecord('sys_import_set_row');
 if(importTable.get(importSetRowSysId)){
-    var source = new GlideRecord(importTable.getValue('sys_class_name');
+    var source = new GlideRecord(importTable.getValue('sys_class_name'));
     source.get(importTable.getValue('sys_id'));
     var target = new GlideRecord(targetTable);
     if(targetSysId != null){
