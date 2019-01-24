@@ -704,3 +704,6 @@ input.aa-search-input {
   box-sizing: content-box;
   line-height: normal;
 }
+.algolia-autocomplete {
+    width: 100%;
+}
