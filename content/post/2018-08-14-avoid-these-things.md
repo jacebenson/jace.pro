@@ -2,6 +2,8 @@
 title: Avoid these types of things when working in Servicenow
 date: 2018-08-14
 layout: post
+keywords:
+- "gotchas"
 ---
 
 From time to time I get thinking about what I really avoid in this system.  Below are my notes.
