@@ -61,3 +61,5 @@ ga.getXML(function(response){
     console.log(serverObj);
 });
 ```
+
+**Note** It seems that if you use the function name of `getName` it fails to return, so avoid that name I guess.
