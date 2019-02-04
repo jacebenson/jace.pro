@@ -4,6 +4,8 @@ date: 2018-08-16
 layout: post
 tags:
 - service portal
+keywords:
+- "getDateFromFormat"
 ---
 So a few weeks ago someone had asked how to do some "[How to validate a date format in service portal?](https://community.servicenow.com/community?id=community_question&sys_id=71098fa1db5cdbc01dcaf3231f961929)"
 

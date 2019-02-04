@@ -8,6 +8,9 @@ aliases:
 - "/2017/09/30/undocumented-scripts/"
 - "/2017/09/30/undocumented-scripts.html"
 - "/undocumented-scripts/"
+keywords:
+- "getDateFromFormat"
+- "g_user_date_format"
 ---
 
 I am starting to make a page I can easily reference with things that Servicenow just omits about their code.
