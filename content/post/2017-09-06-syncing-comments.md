@@ -34,8 +34,8 @@ Steps
 //Table: Catalog Task
 //When: Before
 //Insert: false
-//Upauthor: 'jace'
-date:true
+//Author: 'jace'
+//Update:true
 (function executeRule(current, previous /-null when async-/) {
     try{
         var sc_req_item = new GlideRecord('sc_req_item');
@@ -66,8 +66,8 @@ date:true
 //Table: Request Item
 //When: Before
 //Insert: false
-//Upauthor: 'jace'
-date:true
+//Author: 'jace'
+//Update:true
 (function executeRule(current, previous /-null when async-/) {
     try{
         var sc_task = new GlideRecord('sc_task');
