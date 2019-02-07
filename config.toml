@@ -1,4 +1,4 @@
-baseurl = "https://blog.jacebenson.com/"
+baseurl = "https://blog.jace.pro/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"

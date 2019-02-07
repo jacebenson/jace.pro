@@ -40,10 +40,9 @@ Really, in my opinion all these transactions should be captured but it seems
 servicenow doesn't seem to share this opinion.  
 
 I've 
-[attached (raw JSONP) the HAR record](https://blog.jacebenson.com/uploads/2018-11-05-angular-do.har) 
+[attached (raw JSONP) the HAR record](/uploads/2018-11-05-angular-do.har) 
 and found a tool online to easily here on 
-[https://softwareishard.com/har/viewer](http://www.softwareishard.com/har/viewer/?inputUrl=https://blog.jacebenson.com/uploads/2018-11-05-angular-do.har)
-.  
+[https://softwareishard.com/har/viewer](http://www.softwareishard.com/har/viewer/).
 
 So it looks like it takes some URL parameters as well as some post body;
 

@@ -8,7 +8,7 @@ aliases:
 - "/Custom Solutions/Pasting-Images-Normal-GUI/"
 ---
 
-Sometime ago I looked for the ability to paste images onto a form and have it attach in both the [portal](https://blog.jacebenson.com/Service-Portal/Pasting-Images-on-the-Portal/), and the standard ui.  
+Sometime ago I looked for the ability to paste images onto a form and have it attach in both the [portal](/Service-Portal/Pasting-Images-on-the-Portal/), and the standard ui.  
 
 <!--more-->
 

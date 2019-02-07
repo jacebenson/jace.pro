@@ -41,7 +41,7 @@ branch. Pull requests are warmly welcome.
 
 ## Links
 
-- Site: https://blog.jacebenson.com
+- Site: https://blog.jace.pro
 - Repository: https://github.com/jacebenson/blog/
 - Issue tracker: https://github.com/jacebenson/blog/issues
   - In case of sensitive bugs like security vulnerabilities, please contact
