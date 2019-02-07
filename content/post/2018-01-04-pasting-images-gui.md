@@ -6,6 +6,7 @@ tags:
  - missing ootb
 aliases:
 - "/Custom Solutions/Pasting-Images-Normal-GUI/"
+- "/pasting-images-gui"
 ---
 
 Sometime ago I looked for the ability to paste images onto a form and have it attach in both the [portal](/Service-Portal/Pasting-Images-on-the-Portal/), and the standard ui.  
