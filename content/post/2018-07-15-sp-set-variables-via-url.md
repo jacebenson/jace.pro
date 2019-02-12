@@ -72,7 +72,7 @@ Laurent Chicoine pointed out another way to do this for an individual variable a
 
 If you set the default value of the variable in question to this, then you can default it differently based on weather or not `$sp` exists.
 
-```javascript
+```js
 javascript: (function(){
   try{
     // Service Portal
