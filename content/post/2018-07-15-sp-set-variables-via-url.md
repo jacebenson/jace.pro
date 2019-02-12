@@ -7,6 +7,10 @@ tags:
 aliases: 
  - "/sp-set-variables-via-url/"
  - "/2018/07/15/sp-set-variables-via-url/"
+keywords:
+ - "populate"
+ - "set"
+ - "widget"
 ---
 The other day, [a post was made, asking how to do this](https://community.servicenow.com/community?id=community_question&sys_id=d1de646cdbc7d74423f4a345ca961916)
 and I had to answer.  I knew you could read the URL via `$window` but that isn't available in client scripts.  So how can this be done?
