@@ -120,7 +120,7 @@ There are two versions of GlideRecord, the client side version, and the server s
 | Write    | [autoSysFields](#autosysfields)               | Flag to update fields starting with `sys_`                                                                                              |
 | Write    | [deleteMultiple](#deletemultiple)             | Deletes all records found to match the query                                                                                            |
 | Write    | [deleteRecord](#deleterecord)                 | Deletes a single record                                                                                                                 |
-| Write    | [getUniqueValue]()                            | Gets the primary key of the record, which is usually the sys\_id unless otherwise specified                                             |
+| Write    | [getUniqueValue](#getuniquevalue)                            | Gets the primary key of the record, which is usually the sys\_id unless otherwise specified                                             |
 | Write    | [initialize](#initialize)                     | Sets up the GlideRecord to ignores default values for columns                                                                           |
 | Write    | [insert](#insert)                             | Insert a new record using the field values that have been set for the current record                                                    |
 | Write    | [isActionAborted](#isactionaborted)           | Determines whether the current database action is to be aborted. Available in Fuji patch 3                                              |
