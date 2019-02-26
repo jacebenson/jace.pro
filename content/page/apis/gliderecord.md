@@ -8,6 +8,7 @@ tags:
 aliases:
 - "/Operators/"
 - "/GlideRecord/"
+- "/gr/"
 keywords: 
 - "getlasterrormessage"
 - "isvalid"
