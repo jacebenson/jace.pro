@@ -5,6 +5,7 @@ layout: post
 tags:
  - server side
 aliases: 
+ - "/debug/"
  - "/debugging/"
  - "/2018/05/13/debugging.html"
 ---
