@@ -6,6 +6,9 @@ tags:
 - service portal
 aliases:
 - "/sp-broadcast-messages"
+keywords:
+- "sp"
+- "widget"
 ---
 Broadcasting messages seems great when you first learn about them and start to use them but it seems they, like everything, has its pros and cons.  As such I'd avoid them for the following reasons.
 

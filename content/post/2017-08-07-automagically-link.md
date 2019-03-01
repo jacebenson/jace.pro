@@ -6,7 +6,9 @@ tags:
 - server side
 aliases:
 - "/2017/08/28/automagically-link/"
-
+keywords:
+- "journal"
+- "link"
 ---
 Automagically Link records from journaled fields.
 

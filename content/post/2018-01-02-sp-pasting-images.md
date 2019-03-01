@@ -7,7 +7,9 @@ tags:
 - missing ootb
 aliases:
 - "/sp-pasting-images/"
-
+keywords:
+- "sp"
+- "widget"
 ---
 In the past I've tried to set up image pasting before with [Lars Tange's solution](https://share.servicenow.com/app.do#/detailV2/4fa0b76f137826001d2abbf18144b065/overview), but that didnt look how I liked it, as it had a specific field for pasting attachments.
 

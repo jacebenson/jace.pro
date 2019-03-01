@@ -5,6 +5,8 @@ layout: post
 tags:
  - client side api
  - server side
+keywords:
+- "hints"
 ---
 
 The other day I was asked to show hints in a more obvious way on a form.  This 

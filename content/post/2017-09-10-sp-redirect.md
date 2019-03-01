@@ -6,6 +6,9 @@ tags:
  - service portal
 aliases:
  - "/Service-Portal/Redirect-old-CMS-pages-to-your-Service-Portal/"
+keywords:
+- "sp"
+- "widget"
 ---
 After your go live (belated congratulations) if you made the mistake I made and wanted to replace the namespace of your cms with your service portal you will likely have an issue where old links from past emails, bookmarks and 3rd party sources link to the cms pages.
 

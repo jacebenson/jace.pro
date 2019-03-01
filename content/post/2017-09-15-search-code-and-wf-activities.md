@@ -6,6 +6,10 @@ tags:
  - workflow
  - search
  - code
+keywords:
+- "workflow"
+- "search"
+- "code"
 ---
 Seaching for code is crucial to understand how something works.  As such there's a number of a ways to do it
 

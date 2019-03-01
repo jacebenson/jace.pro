@@ -7,6 +7,9 @@ tags:
 - search
 aliases: 
  - "/Service-Portal/Code-Search/"
+keywords:
+- "code"
+- "search"
 ---
 I've created one of these to improve on the one on [share](https://share.servicenow.com).  This is a scoped application for Service-now to allow easier searching all code sources.
 

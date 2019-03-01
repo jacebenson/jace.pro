@@ -4,6 +4,9 @@ date: 2017-09-25
 layout: post
 tags:
  - client side api
+keywords:
+- "client script"
+- "valid"
 ---
 There is no "phone" type of variable, so to validate this we'll have to manually do it.
 

@@ -7,7 +7,11 @@ tags:
 - email
 aliases:
 - "/unsubscribe/"
-
+keywords:
+- "mail"
+- "notification"
+- "subscription"
+- "unsub"
 ---
 I was asked to have users verify they actually want to unsubscribe from an email instead of just assuming they really want to unsubscribe.  To do this I made a simple UI Page.  Below is the code;
 

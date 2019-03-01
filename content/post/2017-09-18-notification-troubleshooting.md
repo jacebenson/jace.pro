@@ -6,7 +6,10 @@ tags:
 - email
 aliases:
 - "/notification-troubleshooting/"
-
+keywords:
+- "email"
+- "mail"
+- "notification"
 ---
 Working with emails is no fun.  It’s easy to miss a step, as there’s a lot to make them work.
 

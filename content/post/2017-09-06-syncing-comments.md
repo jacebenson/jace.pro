@@ -7,7 +7,11 @@ tags:
 aliases:
 - "/syncing-comments/"
 - "/Custom Solutions/Syncing-Comments-between-Requested-Item-and-Catalog-Task/"
-
+keywords:
+- "sync"
+- "comments"
+- "sc_req_item"
+- "sc_task"
 ---
 To me, this is a terrible requirement to fulfill. This is generally to try to 
 avoid licensing when Managers want their staff to communicate to the end users

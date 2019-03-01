@@ -6,6 +6,10 @@ tags:
 - service portal
 keywords:
 - "getDateFromFormat"
+keywords:
+- "sp"
+- "widget"
+- "client script"
 ---
 So a few weeks ago someone had asked how to do some "[How to validate a date format in service portal?](https://community.servicenow.com/community?id=community_question&sys_id=71098fa1db5cdbc01dcaf3231f961929)"
 

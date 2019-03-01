@@ -6,6 +6,9 @@ tags:
  - service portal
 aliases:
  - "/sp-record-producer-redirect/"
+ keywords:
+- "sp"
+- "widget"
 ---
 
 So the other day I was asked to set up the redirect from a record producer on the Service Portal.  This was no problem in the past CMS, and the normal GUI.  

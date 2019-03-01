@@ -6,6 +6,9 @@ tags:
  - client side api
 aliases:
 - "/Custom Solutions/Validating-emails/"
+keywords:
+- "client script"
+- "valid"
 ---
 So there is an "email" type of variable but it's not supported on mobile, or service portal.  The field will load but it won't validate its data.
 

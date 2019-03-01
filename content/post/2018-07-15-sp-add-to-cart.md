@@ -6,6 +6,9 @@ tags:
 - service portal
 aliases:
 - "/sp-add-to-cart/"
+keywords:
+- "sp"
+- "widget"
 ---
 So it seems the first thing a lot of places have to do when setting up the service portal is to re-setup two-step-checkout.
 

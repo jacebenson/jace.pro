@@ -2,12 +2,17 @@
 title: Integrations Flow
 date: 2017-09-06
 layout: post
-
 tags:
 - integrations
 aliases:
 - "/General/Integrations-Flow/"
 - "/2017/09/06/integrations/"
+keywords:
+- "integrations"
+- "inbound"
+- "outbound"
+- "rest"
+- "soap"
 ---
 I’m recalling this from memory and this is old and could be updated for Scripted Rest APIs and such, but Just want to get this out here.
 

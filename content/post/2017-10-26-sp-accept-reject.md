@@ -7,6 +7,9 @@ tags:
 date: 2017-10-26
 aliases:
  - "/sp-accept-reject/"
+ keywords:
+- "sp"
+- "widget"
 ---
 I created a widget and wanted to share that code. Should work on any instance unless you have a business rule blocking the update. 
 

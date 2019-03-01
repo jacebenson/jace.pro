@@ -7,6 +7,9 @@ tags:
  - search
 aliases: 
  - "/2018/04/22/code-search-update.html"
+ keywords:
+- "code"
+- "search"
 ---
 
 After some back and forth between the creator of the `sn_codesearch` app [Cory Seering](https://community.servicenow.com/community?id=community_user_profile&user=bf225e65dbd81fc09c9ffb651f9619d6) I have a better understanding of how this works.

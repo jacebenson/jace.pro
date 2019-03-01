@@ -7,6 +7,8 @@ tags:
  - search
 aliases:
  - "/sp-custom-search-source/"
+ keywords:
+- "sp"
 ---
 
 Now I'm not sure the *best* way to do this but I did find that this is probably they way I'll push for this.

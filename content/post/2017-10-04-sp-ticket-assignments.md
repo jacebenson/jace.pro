@@ -5,7 +5,9 @@ layout: post
 tags:
  - service portal
  - widget
-
+keywords:
+- "sp"
+- "widget"
 ---
 I created a ticket assignments and wanted to share that code. Should work on any instance unless you have a business rule blocking the update.
 
