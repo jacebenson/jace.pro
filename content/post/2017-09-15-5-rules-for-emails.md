@@ -4,6 +4,17 @@ layout: post
 tags: 
   - email
 date:   2016-03-24
+keywords:
+- "rfedoruk"
+- "email"
+- "mail"
+- "pop3"
+- "smtp"
+- "events"
+- "workflow activities"
+- "workflow activity"
+- "notification"
+- "notifications"
 ---
 Rules to follow for emails in Servicenow.
 
