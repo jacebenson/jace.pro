@@ -1,5 +1,6 @@
 <script>
-if(window.location.host != 'blog.jace.pro'){
+    console.log(window.location.host);
+if(window.location.host != 'blog.jace.pro' && window.location.host != 'localhost:1313'){
     window.location.replace('https://' + 'blog.jace.pro' + window.location.pathname);
 }
 </script>
