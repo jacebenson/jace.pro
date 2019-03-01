@@ -8,7 +8,7 @@ keywords:
 - "import set"
 ---
 
-I was asked to present a lab I submitted to [K19](/k19) at the local Minnesota Servicenow User Group.  I thought this would be great so I went down the path of making this small lab about using import sets.
+I was asked to present a lab I submitted to [K19](/post/2018-12-02-k19-proposals/) at the local Minnesota Servicenow User Group.  I thought this would be great so I went down the path of making this small lab about using import sets.
 
 Here's a link to the [deck](https://sndevs.github.io/meetups/decks/integrate-faster-import-sets).
 
