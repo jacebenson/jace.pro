@@ -6,7 +6,7 @@ tags:
  - service portal
 aliases:
  - "/sp-record-producer-redirect/"
- keywords:
+keywords:
 - "sp"
 - "widget"
 ---

@@ -7,7 +7,7 @@ tags:
  - search
 aliases:
  - "/sp-custom-search-source/"
- keywords:
+keywords:
 - "sp"
 ---
 

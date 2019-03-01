@@ -7,7 +7,7 @@ tags:
 date: 2017-10-26
 aliases:
  - "/sp-accept-reject/"
- keywords:
+keywords:
 - "sp"
 - "widget"
 ---
