@@ -183,4 +183,4 @@ In addition to the application suites listed above, ServiceNow separately offers
 
 ## Related reading;
 
-Cost of extending tables: [https://servicenow.implementation.blog/financial-implications-of-extending-tables/](https://servicenow.implementation.blog/financial-implications-of-extending-tables/)
+Cost of extending tables: [https://servicenow.implementation.blog/financial-implications-of-extending-tables/](https://web.archive.org/web/20170224171442/servicenow.implementation.blog/financial-implications-of-extending-tables)
