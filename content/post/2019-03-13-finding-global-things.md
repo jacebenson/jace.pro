@@ -159,7 +159,7 @@ try {
 });
 ```
 
-In an out of box instance I get a big output;
+In an out of box instance I get a big output.  Alot of these are old "Global Business Rules" but some are weird.
 
 # Globally available
 
@@ -192,88 +192,86 @@ In an out of box instance I get a big output;
       `system` has one `JavaObject` called action.
 
       `system.action` has many things.
-  * 
-    | Name | Type | Value |
-    |canPop()| Function | |	
-    |canRunAction()| Function | |	
-    |enforceMandatoryOnUpdate()| Function | |	
-    |equals()| Function | |	
-    |get()| Function | |	
-    |getActionName()| Function | |	
-    |getActionSysId()| Function | |	
-    |getBody()| Function | |	
-    |getCategory()| Function | |	
-    |getClass()| Function | |	
-    |getCondition()| Function | |	
-    |getFromType()| Function | |	
-    |getGRList()| Function | |	
-    |getGlideURI()| Function | |	
-    |getGotoURL()| Function | |	
-    |getLabel()| Function | |	
-    |getName()| Function | |	
-    |getOnClick()| Function | |	
-    |getOnClickEscaped()| Function | |	
-    |getRedirectURL()| Function | |	
-    |getRef()| Function | |	
-    |getReturnURL()| Function | |	
-    |getRunAt()| Function | |	
-    |getTableName()| Function | |	
-    |getTarget()| Function | |	
-    |getType()| Function | |	
-    |getUniqueFieldValue()| Function | |	
-    |getValues()| Function | |	
-    |hashCode()| Function | |	
-    |isInsert()| Function | |	
-    |isNextRecord()| Function | |	
-    |isPreviousRecord()| Function | |	
-    |isRedirect()| Function | |	
-    |notify()| Function | |	
-    |notifyAll()| Function | |	
-    |openGlideRecord()| Function | |	
-    |process()| Function | |	
-    |setCategory()| Function | |	
-    |setFromType()| Function | |	
-    |setGRList()| Function | |	
-    |setGotoURL()| Function | |	
-    |setNoPop()| Function | |	
-    |setRedirectURL()| Function | |	
-    |setRequest()| Function | |	
-    |setReturnURL()| Function | |	
-    |setTarget()| Function | |	
-    |setType()| Function | |	
-    |setUniqueField()| Function | |	
-    |toString()| Function | |	
-    |wait()| Function | |
-    |class| JavaObject | |
-    |glideURI| JavaObject | "snd_xplore.do?" |
-    |values| JavaObject | "{}" |
-    |noPop| undefined | undefined |
-    |request| undefined | undefined |
-    |uniqueField| undefined | undefined |
-    |actionSysId| null | null |
-    |category| null | null |
-    |redirectURL| null | null |
-    |returnURL| null | null |
-    |GRList | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getGRList in class com.glide.script.Action]" |
-    |actionName | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getActionName in class com.glide.script.ActionDescriptor]" |
-    |body | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getBody in class com.glide.script.ActionDescriptor]" |
-    |condition | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getCondition in class com.glide.script.ActionDescriptor]" |
-    |fromType | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getFromType in class com.glide.script.Action]" |
-    |gotoURL | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getGotoURL in class com.glide.script.Action]" |
-    |insert | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method isInsert in class com.glide.script.ActionDescriptor]" |
-    |label | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getLabel in class com.glide.script.ActionDescriptor]" |
-    |name | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getName in class com.glide.script.ActionDescriptor]" |
-    |nextRecord | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method isNextRecord in class com.glide.script.ActionDescriptor]" |
-    |onClick | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getOnClick in class com.glide.script.ActionDescriptor]" |
-    |onClickEscaped | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getOnClickEscaped in class com.glide.script.ActionDescriptor]" |
-    |previousRecord | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method isPreviousRecord in class com.glide.script.ActionDescriptor]" |
-    |redirect | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method isRedirect in class com.glide.script.Action]" |
-    |ref | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getRef in class com.glide.script.ActionDescriptor]" |
-    |runAt | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getRunAt in class com.glide.script.ActionDescriptor]" |
-    |tableName | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getTableName in class com.glide.script.ActionDescriptor]" |
-    |target | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getTarget in class com.glide.script.Action]" |
-    |type | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getType in class com.glide.script.ActionDescriptor]" |
-    |uniqueFieldValue | \_\_unknown\_\_ | "[Property access error: JavaException: java.lang.SecurityException: Illegal access to getter method getUniqueFieldValue in class com.glide.script.Action]" |
+  * canPop
+  * canRunAction
+  * enforceMandatoryOnUpdate
+  * equals
+  * get
+  * getActionName
+  * getActionSysId
+  * getBody
+  * getCategory
+  * getClass
+  * getCondition
+  * getFromType
+  * getGRList
+  * getGlideURI
+  * getGotoURL
+  * getLabel
+  * getName
+  * getOnClick
+  * getOnClickEscaped
+  * getRedirectURL
+  * getRef
+  * getReturnURL
+  * getRunAt
+  * getTableName
+  * getTarget
+  * getType
+  * getUniqueFieldValue
+  * getValues
+  * hashCode
+  * isInsert
+  * isNextRecord
+  * isPreviousRecord
+  * isRedirect
+  * notify
+  * notifyAll
+  * openGlideRecord
+  * process
+  * setCategory
+  * setFromType
+  * setGRList
+  * setGotoURL
+  * setNoPop
+  * setRedirectURL
+  * setRequest
+  * setReturnURL
+  * setTarget
+  * setType
+  * setUniqueField
+  * toString
+  * wait()| Function | |
+  * class| JavaObject | |
+  * glideURI| JavaObject | "snd_xplore.do?" |
+  * values| JavaObject | "{}" |
+  * noPop| undefined | undefined |
+  * request| undefined | undefined |
+  * uniqueField| undefined | undefined |
+  * actionSysId| null | null |
+  * category| null | null |
+  * redirectURL| null | null |
+  * returnURL| null | null |
+  * GRList
+  * actionName
+  * body
+  * condition
+  * fromType
+  * gotoURL
+  * insert
+  * label
+  * name
+  * nextRecord
+  * onClick
+  * onClickEscaped
+  * previousRecord
+  * redirect
+  * ref
+  * runAt
+  * tableName
+  * target
+  * type
+  * uniqueFieldValue
 * gs
   * `gs` seems to be a copy of the above (`system.action`)[#system]
 * global ***SPECIAL***
