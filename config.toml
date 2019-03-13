@@ -49,10 +49,10 @@ disqusShortname = "gggr"
 #  youtube = "user/jacebenson" # or channel/channelname
 
 
-# [[menu.main]]
-#    identifier = "blogs"
-#    name = "Blogs"
-#    weight = 1000
+[[menu.main]]
+    identifier = "blogs"
+    name = "Blogs"
+    weight = 1000
 
 # [[menu.main]]
 #    parent = "blogs"
@@ -60,47 +60,53 @@ disqusShortname = "gggr"
 #     url = "https://community.servicenow.com/community/blogs"
 #     weight = 1010
 
-# [[menu.main]]
-#     parent = "blogs"
-#     name = "Travis Toulson's Blog"
-#     url = "https://codecreative.io/"
-#     weight = 1020
+[[menu.main]]
+     parent = "blogs"
+     name = "Travis Toulson's Blog"
+     url = "https://codecreative.io/"
+     weight = 1020
 
-# [[menu.main]]
-#     parent = "blogs"
-#     name = "Tim Woodruff's Blog"
-#     url = "https://snprotips.com/"
-#     weight = 1030
+[[menu.main]]
+     parent = "blogs"
+     name = "Tim Woodruff's Blog"
+     url = "https://snprotips.com/"
+     weight = 1030
 
-# [[menu.main]]
-#     parent = "blogs"
-#     name = "Sal Costa's Blog"
-#     url = "http://snaug.com/"
-#     weight = 1040
+[[menu.main]]
+      parent = "blogs"
+      name = "Sal Costa's Blog"
+      url = "http://snaug.com/"
+     weight = 1040
 
-# [[menu.main]]
-#     parent = "blogs"
-#     name = "Mike Kaufman's Blog"
-#     url = "https://www.servicenowelite.com/blog"
-#     weight = 1060
+[[menu.main]]
+    parent = "blogs"
+    name = "Mike Kaufman's Blog"
+    url = "https://www.servicenowelite.com/blog"
+    weight = 1060
 
-# [[menu.main]]
-#     parent = "blogs"
-#     name = "Ahmed Hmeid's Blog"
-#     url = "https://servicenowgems.com/"
-#     weight = 1070
+[[menu.main]]
+    parent = "blogs"
+    name = "Ahmed Hmeid's Blog"
+    url = "https://servicenowgems.com/"
+    weight = 1070
 
-# [[menu.main]]
-#     parent = "blogs"
-#     name = "Shiva Thomas's Blog"
-#     url = "https://servicenow.implementation.blog/"
-#     weight = 1080
+[[menu.main]]
+   parent = "blogs"
+    name = "Shiva Thomas's Blog"
+    url = "https://servicenow.implementation.blog/"
+    weight = 1080
 
-# [[menu.main]]
-#     parent = "blogs"
-#     name = "Joel Maxwell's Blog"
-#     url = "http://sncommander.com/"
-#     weight = 1090
+[[menu.main]]
+    parent = "blogs"
+    name = "Joel Maxwell's Blog"
+    url = "http://sncommander.com/"
+    weight = 1090
+
+[[menu.main]]
+    parent = "blogs"
+    name = "Phuong's Blog"
+    url = "https://helpfultechblog.com/"
+    weight = 1100
 
 [[menu.main]]
     identifier = "apis"
