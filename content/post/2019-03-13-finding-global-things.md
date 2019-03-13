@@ -176,23 +176,14 @@ In an out of box instance I get a big output.  Alot of these are old "Global Bus
 * GlideArrayRecord
   * Seems to work just like GlideRecord.
 * sys_meta
-  * ```
-      This is super interseting.
-
-      `sys_meta` has a property for every table.
-
-      `sys_meta.sys_user` has a property for every field.
-
-      `sys_meta.sys_user.date_format` has then a property for the sys_dictionary record.  The type is `com.glide.script.FieldGlideDescriptor`
-    ```
+  * This is super interseting.
+    `sys_meta` has a property for every table.
+    `sys_meta.sys_user` has a property for every field.
+    `sys_meta.sys_user.date_format` has then a property for the sys_dictionary record.  The type is `com.glide.script.FieldGlideDescriptor`
 * system
-  * ```
-      This is super interesting.  This might be what UI Actions have available to them with the `action` variable.
-
-      `system` has one `JavaObject` called action.
-
-      `system.action` has many things.
-    ```
+  * This is super interesting.  This might be what UI Actions have available to them with the `action` variable.
+    `system` has one `JavaObject` called action.
+    `system.action` has many things.
   * canPop
   * canRunAction
   * enforceMandatoryOnUpdate
