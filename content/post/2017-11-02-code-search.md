@@ -27,7 +27,7 @@ I've created one of these to improve on the one on [share](https://share.service
 
   1. Open Studio on your environment
   1. Import from source
-  1. Paste in the following URL: `https://github.com/jacebenson/servicenow-codesearch.git`
+  1. Paste in the following URL: `https://github.com/jacebenson/servicenow-code.git`
 
 ## Usage
 
