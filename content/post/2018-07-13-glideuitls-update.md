@@ -12,6 +12,13 @@ I've added a script include to GlideUtils to solve for this.
 
 <!--more-->
 
+
+**Update** 
+
+This has been removed and code moved to the ["dev toolbox" repo](https://github.com/jacebenson/x_8821_dev_toolbox/tree/docs)
+
+**Original Post**
+
 So I was working on some things this week and came across some time.
 I updated GlideUtils to add a `variableHelper` script include to help
 getting variables as that doesnt seem possible in scope with
