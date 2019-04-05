@@ -49,7 +49,7 @@ branch. Pull requests are warmly welcome.
     jace.benson@protonmail.com directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!
 - Related projects:
-  - ATF OOB Tests: https://github.com/jacebenson/x_8821_atf/
+  - ATF OOB Tests: https://github.com/jacebenson/atf/
 
 ## Licensing
 

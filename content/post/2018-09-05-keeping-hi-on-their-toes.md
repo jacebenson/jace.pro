@@ -16,10 +16,10 @@ Here's the [script](https://openuserjs.org/scripts/jacebenson/Get_HI_Updated_by_
 ```js
 // ==UserScript==
 // @name         Get HI Updated by not me
-// @namespace    https://hi.service-now.com/
-// @version      0.2
+// @namespace    https://blog.jacebenson.com/post/2018-09-05-keeping-hi-on-their-toes/
+// @version      0.3.1
 // @description  Servicenow - Show incidents updated by not you as messages
-// @author       You
+// @author       Jace
 // @match        https://hi.service-now.com/*
 // @grant        none
 // @license      MIT
@@ -29,14 +29,14 @@ Here's the [script](https://openuserjs.org/scripts/jacebenson/Get_HI_Updated_by_
 
 /* global jQuery, g_ck*/
 jQuery(document).ready(function(){
-
+    var className = '.filler';
     var updatePollTimeinMS = 1000*60*.5;//
     var keepPolling = true; // polls every so many seconds
     var showAsMessage = false; // shows a message on main form
     var showAsMenu = true; // shows on left with tooltips
-    jQuery('.contactLink').prop('id','userscript-tickets');
-    jQuery('.contactLink').addClass('list-group');
-    jQuery('.contactLink').prop('style','line-height:13px');
+    jQuery(className).prop('id','userscript-tickets');
+    jQuery(className).addClass('list-group');
+    jQuery(className).prop('style','line-height:13px');
     window.askForUpdate=function(sysid){
         var requestBody = JSON.stringify({
             comments: "Any update on this?"
@@ -55,29 +55,36 @@ jQuery(document).ready(function(){
     function checkUnread() {
         var data = null;
         var daysAgo = 4;
-        var query = '';
-        query+= 'sys_updated_byNOT%20LIKEjavascript:gs.getUser().getEmail().split("@")[1]^';
-        query+= 'active=true^NQ';
-        query+= 'sys_updated_onRELATIVELE@dayofweek@ago@' + daysAgo + '^';
-        query+= 'active=true';
-        query+= '&sysparm_fields=number,short_description,sys_id,sys_class_name,sys_updated_by,sys_updated_on';
+
         var xhr = new XMLHttpRequest();
-        xhr.open("GET", '/api/now/table/task?sysparm_query=' + query);
-        xhr.setRequestHeader("X-UserToken", g_ck);
-        xhr.setRequestHeader("accept", "application/json");
-        xhr.setRequestHeader("content-type", "application/json");
-        jQuery('.contactLink').prop('id','userscript-tickets');
-        jQuery('.contactLink').addClass('list-group');
-        jQuery('.contactLink').prop('style','line-height:13px');
+        xhr.withCredentials = true;
+
         xhr.addEventListener("readystatechange", function () {
             if (this.readyState === this.DONE) {
-                jQuery("#uiNotificationContainer").empty();
+                console.log(this.responseText);
+            }
+        });
+        var query = '';
+        query += 'u_last_update_to_customerRELATIVELE%40dayofweek%40ago%40+'+daysAgo+'+^active=true';
+        xhr.open("GET", "https://hi.service-now.com/api/now/table/sn_customerservice_case?sysparm_query="+query);//+"&sysparm_fields=" + fields);
+        xhr.setRequestHeader("content-type", "application/json");
+        xhr.setRequestHeader("accept", "application/json");
+        xhr.setRequestHeader("x-usertoken", g_ck);
+        jQuery(className).prop('id','userscript-tickets');
+        jQuery(className).addClass('list-group');
+        jQuery(className).prop('style','line-height:13px');
+        xhr.addEventListener("readystatechange", function () {
+            if (this.readyState === this.DONE) {
+                jQuery(className).empty();
                 //console.log(this.responseText);
                 var obj = JSON.parse(this.responseText);
+                console.log(obj)
                 var notifications = obj.result.length;
                 var html = '';
                 var menuHtml = '';
                 obj.result.map(function(record){
+                    if(record.number.indexOf('CS') === 0){
+                        try{
                     var link = 'https://hi.service-now.com/hisp?id=form&table=' +record.sys_class_name+ '&sys_id=' + record.sys_id;
                     var linkOther = 'https://hi.service-now.com/' +record.sys_class_name+ '.do?sys_id=' + record.sys_id;
 
@@ -88,20 +95,22 @@ jQuery(document).ready(function(){
                     menuHtml += '    <a onclick="askForUpdate(\''+record.sys_id+'\')" href="#">Ask</a>';
                     menuHtml += '  </div>\n';
                     menuHtml += '  <div class="row">\n';
-                    menuHtml += '    <span class="">' + record.sys_updated_by.substring(0,5) + ' updated on ';
-                    menuHtml += '    ' + record.sys_updated_on.toString().split(' ')[0] + '</span>\n';
+                    menuHtml += '    <span class="">Updated on ';
+                    menuHtml += '    ' + record.u_last_update_to_customer.toString().split(' ')[0] + '</span>\n';
                     menuHtml += '  </div>\n';
                     menuHtml += '  <div class="row">\n';
                     menuHtml += '    <span class="">' + record.short_description.substring(0,34) + '...</span>';
                     menuHtml += '  </div>\n';
                     menuHtml += '</div>';
-
+                        }catch(e){
+                            console.log(e, record);
+                        }
                     /*
                     menuHtml += '<div id="user-script-'+record.number+'" style="height:15px;">';
                     menuHtml += '  <a class="whiteText" href="' + link + '" data-toggle="tooltip" title="'+record.short_description+'">' + record.number + '</a>';
                     menuHtml += '  <a class="whiteText" href="' + linkOther + '">(other)</a>';
                     menuHtml += '  <a onclick="askForUpdate(\''+record.sys_id+'\')" href="#">Ask</a>';
-                    menuHtml += record.sys_updated_by;
+                    menuHtml += '...';
                     menuHtml += '</div>';
                     */
                     html += '<div id="user-script-'+record.number+'" class="alert alert-success">';
@@ -111,6 +120,7 @@ jQuery(document).ready(function(){
                     html += 'jQuery(\'#user-script-' + record.number +'\').remove()';
                     html += '" role="button"></button>';
                     html += '</div>';
+                    }
                 });
                 if(showAsMessage){
                     jQuery('#uiNotificationContainer').html(html);
@@ -121,7 +131,8 @@ jQuery(document).ready(function(){
                 document.title = "(" + notifications + ") Updates";
             }
         });
-        xhr.send(null);}
+        xhr.send();
+    }
 
     var originalTitle = document.title;
     setTimeout(checkUnread, 10000);
@@ -130,4 +141,5 @@ jQuery(document).ready(function(){
     }
 
 });
+
 ```
