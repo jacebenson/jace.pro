@@ -28,6 +28,7 @@ There are 2 ways to restart workflows.
   - Click Delete on the top right of the workflow context record !!! BE SURE YOUR ON THE WF_CONTEXT !!!
   - Goto the `wf_workflow.list` table and find the workflow you want to start, copy it's `sys_id`.
   - Run this script in a background script;
+  
   ```js
     var current = new GlideRecord('sc_req_item');
     current.get('number','RITM0012345');
