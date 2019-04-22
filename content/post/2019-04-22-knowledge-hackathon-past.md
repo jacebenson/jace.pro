@@ -38,7 +38,7 @@ In the spirit of sharing I'm adding a list I compiled after some searching to se
 [Post](https://community.servicenow.com/community?id=community_blog&sys_id=a76caea1dbd0dbc01dcaf3231f961993)
 
 - [SchoolHub (video)](https://vimeo.com/96734925) - Winner - App to structure the interaction between teachers (give assigments and grades), faculty (biographies, tracking attendance), parents (check the grades, fill out all kinds of forms — absence, dietary, holiday requests) and students (survey teachers, get assignments)
-- Twitter Sentiment Analysis with Watson of IBM - "So I created a Hootsuite-like interface in ServiceNow, connected to Twitter, and integrated with a ServiceNow approval workflow. This way, employees create tweets, but before they're pushed to Twitter, the manager has to approve."
+- SociaLoop - Finalist - a Social Media Campaign Management application, enabling organisations to activate all employees around social media.
 - Password Vault - Finalist - The app generates a secured password and we use orchestration to make the change a reality. The credentials are encrypted and we use Access Control List (ACL) to make sure you see only the credentials that you are supposed to see in your role. 
 - MudMonsters - Finalist - "We have 35 locations, 12 monsters, many items in there," Scott explained. "We use business rules to govern the behavior of all elements. The business rules trigger events based off of the text body in the commands. You win when you reach the final destination. If you loose, you go back to square one and you loose all items." 
 - CableCarNow - Finalist - The world famous cable cars of San Francisco are always full and the queues at the stops are way too long. "So the city needs a solution and it needs it fast."
