@@ -16,7 +16,6 @@ keywords:
 ---
 
 This year I'm fortunate enough to go to knowledge, and say that one of my favorite SN people, Robert Fedoruk posted a [youtube video about winning hackathons](https://www.youtube.com/watch?v=ctzX-ANG_Sk&feature=youtu.be).
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/ctzX-ANG_Sk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In the spirit of sharing I'm adding a list I compiled after some searching to see what's won previously as it wasn't aggregated anywhere I could see.  I'd love to see these shared in an open way after wards but if this just make the competeition better, than that's great and my goal here.  Below is that list.
 
