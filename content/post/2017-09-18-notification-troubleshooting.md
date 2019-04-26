@@ -31,7 +31,7 @@ Check these things.
 1. On the user’s notification devices (cmn_notif_device_list.do), verify the user has a “Primary Email” device and it it correct. [KB0528667](https://hi.service-now.com/kb_view.do?sysparm_article=KB0528667)
 1. On the user's notification subscriptions, verify they haven't disabled this notification. [KB0516987](https://hi.service-now.com/kb_view.do?sysparm_article=KB0516987)
 1. If event generated
-  - Verify the event exists on sysevent_list.do?sysparm_query=sys_id=-1. [KB0523579](https://hi.service-now.com/kb_view.do?sysparm_article=KB0523579)
+  - Verify the event exists on `sysevent_list.do?sysparm_query=sys_id=-1`. [KB0523579](https://hi.service-now.com/kb_view.do?sysparm_article=KB0523579)
   - Check the Event record table is table is correct.
   - Verify the Events Process job is running [KB0523580](https://hi.service-now.com/kb_view.do?sysparm_article=KB0523580) [Youtube](https://www.youtube.com/watch?v=gYVwq8pH0-A)
 1. Validate any mail is working
