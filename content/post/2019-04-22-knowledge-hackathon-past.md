@@ -60,7 +60,7 @@ In the spirit of sharing I'm adding a list I compiled after some searching to se
 
 - [Happiness Service](https://www.linium.com/research/news-updates/vote-team-smiles-to-win-servicenow-knowledge16-hackathon) | innovation - app that brings together kids awaiting organ transplants and people who want to grant their wish and donate money. 
 - [LifeNow](https://www.youtube.com/watch?v=4MbyvYW_bvk&feature=youtu.be) - platform - app for employee health tracking with wearables, and gamification for challenges and points redemption for fitness products 
-- [Create Doc](https://www.youtube.com/watch?v=jP99ityPijU&feature=youtu.be) - business - app that automates document creation and management directly in ServiceNow 
+- Create Doc [Demo](https://www.youtube.com/watch?v=jP99ityPijU&feature=youtu.be) [Product](https://www.youtube.com/watch?v=FCUpDKi8tnY)- business - app that automates document creation and management directly in ServiceNow 
 
 ## 2017
 
