@@ -27,13 +27,15 @@ So the quickest way for me to find the issue varies but it almost always include
 
 Different area's have differnt variables available to them;
 
-| Thing                                   | Variables         |
-| --------------------------------------- | ----------------- |
-| [Business Rules](#business-rules)       | current, previous |
-| [Inbound Emails](#inbound-emails)       | current, email    |
-| [Script Actions](#script-actions)       | current, event    |
-| [Workflow Activity](#workflow-activity) | current, workflow |
-| [Transform Scripts](#transform-scripts) | source, target    |
+| Thing                                         | Variables                                     |
+| --------------------------------------------- | --------------------------------------------- |
+| [Business Rules](#business-rules)             | current, previous                             |
+| [Inbound Emails](#inbound-emails)             | current, email                                |
+| [Script Actions](#script-actions)             | current, event                                |
+| [Workflow Activity](#workflow-activity)       | current, workflow                             |
+| [Transform Scripts](#transform-scripts)       | source, target                                |
+| [Relationship Scripts](#relationship-scripts) | source, target                                |
+| [Mail Scripts](#mail-scripts)                 | current, template, email, email_action, event |
 
 I'd copy the appropriate script, and then paste your code in the run function.
 
@@ -170,6 +172,58 @@ var current = new GlideRecord('task');//queries from table
     }
 })(current, parent);
 current.query();
+```
+
+## Mail Scripts
+
+```js
+var table = '';//set the current table name
+var sysid = '';//set the current sysid
+var eventsysid = '';//set to the event sysid on a past sysevent
+//current, template, email, email_action, event
+var event;
+if(eventsysid.length>1){
+  event = new GlideRecord('sysevent');
+  event.get(eventsysid);
+}
+var current = new GlideRecord(table);
+current.get(sysid);
+var template = {
+  print: function(text){
+    gs.info(text);
+  },
+  space: function(num){
+    var returnStr = '';
+    for(var x=0;x<num;x++){
+      returnStr += ' ';
+    }
+    return returnStr;
+  }
+}
+var email = {
+  addAddress: function(){},
+  setBody: function(){},
+  setFrom: function(){},
+  setReplyTo: function(reply){
+    gs.info('Set ReplyTo: ' + reply);
+  },
+  setSubject: function(subj){
+    gs.info('Set Subject to: ' + subj);
+  },
+  addAddress: function(a,b,c){
+  //doing nothing just a placeholder
+  },
+  setBody(html){
+    gs.info(html);
+  }
+};
+try {
+    // paste your code below here
+
+    // paste your code above here
+} catch (error) {
+    gs.info(error.message, "relationship " + gs.getUserName());
+}
 ```
 
 ## Additional Debugging tools
