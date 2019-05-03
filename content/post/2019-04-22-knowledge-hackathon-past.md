@@ -76,4 +76,4 @@ In the spirit of sharing I'm adding a list I compiled after some searching to se
 
 - [KSafeNow - Student Tracker](https://www.youtube.com/watch?v=CkzSssZCJTo) - social good - ... 
 - NeutreNow - business - App NeutreNow to incentive healthy behavior (scroll down for full review). Tracks calory intake and calories burnt 
-- [Team Vocalize](https://www.apnews.com/13a8fbf57e3500578146b42e597f40a0) - innovation - Sentiment analyses of support conversations. Based on quality of sentiment metrics, you can assign actions and tasks to prioritize follow up on conversations. 
+- [Team Vocalize](https://www.apnews.com/13a8fbf57e3500578146b42e597f40a0) [Video](https://www.youtube.com/watch?v=-Lp9NNPFitY)- innovation - Sentiment analyses of support conversations. Based on quality of sentiment metrics, you can assign actions and tasks to prioritize follow up on conversations. 
