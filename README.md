@@ -31,7 +31,7 @@ however, I've gone with Netlify to do this as that makes this really simple.  If
 What's all the bells and whistles this project can perform?
 * Syntax Highlighted code
 * MermaidJS rendering
-* Built in Google Search
+* Built in Algolia Search
 * Pagination
 * Fast Builds (less than a minute)
 
