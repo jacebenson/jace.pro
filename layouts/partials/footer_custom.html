@@ -1,9 +1,3 @@
-<script>
-    console.log(window.location.host);
-if(window.location.host != 'blog.jace.pro' && window.location.host != 'localhost:1313'){
-    window.location.replace('https://' + 'blog.jace.pro' + window.location.pathname);
-}
-</script>
 <link href="{{"mermaid/mermaid.css" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}" type="text/css" rel="stylesheet" />
 <script src="{{"mermaid/mermaid.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
 <script>
