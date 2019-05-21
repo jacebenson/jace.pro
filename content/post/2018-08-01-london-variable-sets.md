@@ -4,6 +4,9 @@ date: 2018-08-01
 layout: post
 tags:
 - service portal
+keywords:
+- "mrvs"
+- "variable table"
 ---
 
 I had to try this out and since the [docs](https://docs.servicenow.com/bundle/london-it-service-management/page/product/service-catalog-management/task/t_CreateAVariableSet.html) don't really show how it works here's screenshot and video.
