@@ -347,6 +347,24 @@ disqusShortname = "gggr"
     weight = 2040
 
 [[menu.main]]
+    parent = "resources"
+    name = "K18 Lab Guides"
+    url = "https://developer.servicenow.com/app.do#!/event/knowledge18"
+    weight = 2050
+    
+[[menu.main]]
+    parent = "resources"
+    name = "K18 CreatorCon Lab Guides"
+    url = "https://developer.servicenow.com/app.do#!/event/creatorcon18"
+    weight = 2060
+    
+[[menu.main]]
+    parent = "resources"
+    name = "K19 Labs and CCWs"
+    url = "https://developer.servicenow.com/app.do#!/event/knowledge19"
+    weight = 2070
+
+[[menu.main]]
     identifier = "docs"
     name = "Docs and Tools"
     weight = 4000
