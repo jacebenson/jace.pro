@@ -24,7 +24,7 @@
             </li>
           {{ else }}
             <li>
-              <a title="{{ .Name }}" href="{{ .URL  | relLangURL }}">{{ .Name }}</a>
+              <a title="{{ .Name }}" href="{{ .RelPermalink  | relLangURL }}">{{ .Name }}</a>
             </li>
           {{ end }}
         {{ end }}
