@@ -2,6 +2,12 @@
 title: Variable Ordering Trick
 date: 2018-09-07
 layout: post
+keywords:
+- "variables"
+- "variable"
+- "ordering"
+- "catalog"
+- "order"
 ---
 Today I learned a trick that would have saved me hours had I known about it years ago.  
 
