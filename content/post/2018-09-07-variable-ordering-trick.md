@@ -8,6 +8,7 @@ keywords:
 - "ordering"
 - "catalog"
 - "order"
+- "arrange"
 ---
 Today I learned a trick that would have saved me hours had I known about it years ago.  
 
