@@ -25,12 +25,7 @@ A list of all the variable attributes that could be found here on the [docs](htt
 
 ## Documented
 
-<style>
-td {
-    max-width: 200px;
-    word-wrap: break-word;
-}
-</style>
+
 | Attribute                   | Value                       | Target Variable                                                 | Description |
 | --------------------------- | --------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `glide_list`                | true/false                  | List collector                                                  | Changes the list collector interface from slushbucket to glide list.                                                                                                                           |
