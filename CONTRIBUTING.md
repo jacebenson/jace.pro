@@ -11,7 +11,7 @@ There are lots of ways to contribute. Here's a few ideas:
 
 * [Install this on your computer locally (for offline viewing)](https://github.com/jacebenson/blog/blob/master/README.md#installing--getting-started) and kick the tires. Does it work? Does it do what you'd expect? If not, [open an issue](https://github.com/jacebenson/blog/issues/new) and let us know.
 * Comment on some of the project's [open issues](https://github.com/jacebenson/blog/issues). Have you experienced the same problem? Know a work around? Do you have a suggestion for how the feature could be better?
-* Read through [the content](https://blog.jacebenson.com/), and click the "improve this page" button, any time you see something confusing, or have a suggestion for something that could be improved.
+* Read through [the content](https://blog.jace.pro/), and click the "improve this page" button, any time you see something confusing, or have a suggestion for something that could be improved.
 * Find [an open issue](https://github.com/jacebenson/blog/issues) (especially [those labeled `help-wanted`](https://github.com/jacebenson/blog/issues?q=is%3Aopen+is%3Aissue+label%3Ahelp-wanted)), and submit a proposed fix. If it's your first pull request, I promise I won't bite, and I'm glad to answer any questions.
 * Help evaluate [open pull requests](https://github.com/jacebenson/blog/pulls), by testing the changes locally and reviewing what's proposed.
 
@@ -54,7 +54,7 @@ We want the Jekyll documentation to be the best it can be. We've open-sourced ou
 
 ### How to submit changes
 
-You can find the content for blog.jacebenson.com in the [docs](https://github.com/jacebenson/blog/tree/master/content) directory. See the section above, [submitting a pull request](#submitting-a-pull-request) for information on how to propose a change.
+You can find the content for blog.jace.pro in the [docs](https://github.com/jacebenson/blog/tree/master/content) directory. See the section above, [submitting a pull request](#submitting-a-pull-request) for information on how to propose a change.
 
 One gotcha, all pull requests should be directed at the `master` branch (the default branch).
 
