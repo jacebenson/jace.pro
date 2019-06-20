@@ -28,14 +28,14 @@ Transform Map Scripts are scripts to allow you to script how a import set is pro
 graph TD
   E1(onStart - Before the Import Rows are read)
   E2(onBefore - Before each Import Row is read)
-  E3(onForeignInsert - Creates a Foreign Record<br/>onChoiceCreate</div> - Creates Choice Record)
+  E3(onForeignInsert - Creates a Foreign Record<br/>onChoiceCreate - Creates a Choice Record)
   E4(onReject - If triggered entire Import Row is skipped)
   E5(onAfter - After the Import Row is read)
   E6(onComplete - After all the Import Rows are read)
 
 E1-->E2
 E2-->E3
-E3--Creates other Record-->E5
+E3-->E5
 E3--Fails to Create-->E4
 E4-->E5
 E5--No More Rows-->E6
