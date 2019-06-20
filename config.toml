@@ -402,19 +402,19 @@ disqusShortname = "gggr"
 [[menu.main]]
     parent = "docs"
     name = "Versions"
-    url = "https://sndocs.jacebenson.com"
+    url = "https://sndocs.jace.pro"
     weight = 4060
     
 [[menu.main]]
     parent = "docs"
     name = "Workflow Diagrammer"
-    url = "https://workflow.jacebenson.com"
+    url = "https://workflow.jace.pro"
     weight = 4070
 
 [[menu.main]]
     parent = "docs"
     name = "Code Collab Tool"
-    url = "https://code.jacebenson.com"
+    url = "https://code.jace.pro"
     weight = 4075
     
 [[menu.main]]

@@ -16,7 +16,7 @@ Here's the [script](https://openuserjs.org/scripts/jacebenson/Get_HI_Updated_by_
 ```js
 // ==UserScript==
 // @name         Get HI Updated by not me
-// @namespace    https://blog.jacebenson.com/post/2018-09-05-keeping-hi-on-their-toes/
+// @namespace    https://blog.jace.pro/post/2018-09-05-keeping-hi-on-their-toes/
 // @version      0.3.1
 // @description  Servicenow - Show incidents updated by not you as messages
 // @author       Jace
