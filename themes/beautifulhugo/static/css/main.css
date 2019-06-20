@@ -704,6 +704,10 @@ input.aa-search-input {
   box-sizing: content-box;
   line-height: normal;
 }
+
 .algolia-autocomplete {
-    width: 90%;
+    width: 100%;
+}
+.modal-dialog{
+  width:50%;
 }

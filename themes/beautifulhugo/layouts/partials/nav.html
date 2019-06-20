@@ -83,27 +83,5 @@
 </nav>
 
 {{ if isset .Site.Params "algolia" }}
-  <div id="modalSearch" class="modal fade" role="dialog">
-    <div class="modal-dialog">
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <!--<h4 class="modal-title">Search</h4>-->
-          <h4>
-            <a href="https://www.algolia.com/docsearch">
-              <img src="/img/search-by-algolia-light-background.png"/>
-            </a>
-          </h4>
-        </div>
-        <div class="modal-body">
-            {{ partial "search.html" . }}
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-        </div>
-      </div>
-    </div>
-  </div>
+  {{ partial "search.html" . }}
 {{ end }}
