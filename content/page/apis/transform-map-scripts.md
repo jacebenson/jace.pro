@@ -28,17 +28,19 @@ Transform Map Scripts are scripts to allow you to script how a import set is pro
 graph TD
   E1(onStart - Before the Import Rows are read)
   E2(onBefore - Before each Import Row is read)
-  E3(onForeignInsert - Creates Foreign Record)
-  E4(onChoiceCreate - Creates Choice Record)
+  E3(onForeignInsert - Creates a Foreign Record<br/>onChoiceCreate</div> - Creates Choice Record)
+  E4(onReject - If triggered entire Import Row is skipped)
   E5(onAfter - After the Import Row is read)
   E6(onComplete - After all the Import Rows are read)
 
 E1-->E2
 E2-->E3
-E3-->E4
+E3--Creates other Record-->E5
+E3--Fails to Create-->E4
 E4-->E5
 E5--No More Rows-->E6
 E5--More Rows-->E2
+
 
 {{< /mermaid >}}
 
@@ -52,12 +54,14 @@ E5--More Rows-->E2
 | *         | log            | Function          | log.info(...), log.warn(...), log.error(...). |
 | *         | ignore         | Boolean           | When set to true, the entire transformation will be stopped and no further processing will occur. | 
 | *         | error          | Boolean           | When set to true, has the same effect as the ignore flag of stopping the entire transformation, with an error message. |
-| onComplete<br/>onBefore<br/>onAfter<br/>onForeignInsert<br/>onChoiceCreate<br/>onReject | target         | GlideRecord       | The row of the target table that is currently being processed. |
-| onBefore<br/>onAfter<br/>onForeignInsert<br/>onChoiceCreate<br/>onReject | action         | String            | "insert" or "update" |
+| onBefore<br/>onForeignInsert<br/>onChoiceCreate<br/>onReject<br/>onAfter<br/>onComplete | target         | GlideRecord       | The row of the target table that is currently being processed. |
+| onBefore<br/>onForeignInsert<br/>onChoiceCreate<br/>onReject<br/>onAfter | action         | String            | "insert" or "update" |
 | onBefore<br/>onAfter | error_message  | String            | Defines a custom message to be sent in the `<error_message>` XML response. |
 | onBefore<br/>onAfter| status_message | String            | Defines a custom message to be sent in the `<error_message>` XML response. |
 | onChoiceCreate<br/>onForeignInsert | name           | String            | Evaluates to the field name of the target record for which a foreign record that is about to be created. |
 | onChoiceCreate<br/>onForeignInsert | value          | String            | Evaluates to the display value from the source record for which a foreign record is about to be created. |
+
+onStart<br/>onBefore<br/>onForeignInsert<br/>onChoiceCreate<br/>onAfter<br/>onComplete
 
 ## onStart
 
