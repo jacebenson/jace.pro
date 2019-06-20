@@ -65,17 +65,9 @@ E5--More Rows-->E2
 
 When: The onStart event script is processed at the start of an import run, before any data rows are read.
 
-## onComplete
- 	
-When: The onComplete event script is processed at the end of an import run, after all data rows are read and transformed.
-
 ## onBefore
 
 When: The onBefore event script is processed at the start of a row transformation, before the source row is transformed into the target row.
-
-## onAfter
-
-When: The onAfter event script is processed at the end of a row transformation, after the source row has been transformed into the target row and saved.
 
 ## onForeignInsert 	
 
@@ -88,3 +80,11 @@ When: The onChoiceCreate event script is processed at the start of a choice valu
 ## onReject
  	
 When: The onReject event script is processed during the occurrence of a foreign record or choice creation, and the foreign record or choice is rejected ,the entire transformation row is not saved.
+
+## onAfter
+
+When: The onAfter event script is processed at the end of a row transformation, after the source row has been transformed into the target row and saved.
+
+## onComplete
+ 	
+When: The onComplete event script is processed at the end of an import run, after all data rows are read and transformed.
