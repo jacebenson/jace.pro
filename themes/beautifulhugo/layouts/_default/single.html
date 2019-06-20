@@ -22,12 +22,12 @@
 
       {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (.Site.Params.comments)) }}
         {{ if .Site.DisqusShortname }}
-          <div class="disqus-comments col-lg-8">
+          <div class="disqus-comments col-lg-12">
             {{ template "_internal/disqus.html" . }}
           </div>
-          <div class="discord-frame col-lg-4">
+          <!--<div class="discord-frame col-lg-4">
               <iframe src="https://discordapp.com/widget?id=289994252241338369&theme=dark" width="100%" height="700" allowtransparency="true" frameborder="0"></iframe>
-          </div>
+          </div>-->
         {{ end }}
       {{ end }}
 
