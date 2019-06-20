@@ -48,20 +48,18 @@ E5--More Rows-->E2
 
 | Available | Variable       | Type              | Description |
 | --------- | -------------- | ----------------- | ----------- |
-| *         | source         | GlideRecord       | The first row of the source table, there is no data yet since the row has not been read. |
-| *         | import_set     | GlideRecord       | The import set that is currently being transformed. |
-| *         | map            | GlideTransformMap | Read-only information about the current transform map record. |
-| *         | log            | Function          | log.info(...), log.warn(...), log.error(...). |
-| *         | ignore         | Boolean           | When set to true, the entire transformation will be stopped and no further processing will occur. | 
-| *         | error          | Boolean           | When set to true, has the same effect as the ignore flag of stopping the entire transformation, with an error message. |
-| onBefore<br/>onForeignInsert<br/>onChoiceCreate<br/>onReject<br/>onAfter<br/>onComplete | target         | GlideRecord       | The row of the target table that is currently being processed. |
-| onBefore<br/>onForeignInsert<br/>onChoiceCreate<br/>onReject<br/>onAfter | action         | String            | "insert" or "update" |
-| onBefore<br/>onAfter | error_message  | String            | Defines a custom message to be sent in the `<error_message>` XML response. |
-| onBefore<br/>onAfter| status_message | String            | Defines a custom message to be sent in the `<error_message>` XML response. |
-| onChoiceCreate<br/>onForeignInsert | name           | String            | Evaluates to the field name of the target record for which a foreign record that is about to be created. |
-| onChoiceCreate<br/>onForeignInsert | value          | String            | Evaluates to the display value from the source record for which a foreign record is about to be created. |
-
-onStart<br/>onBefore<br/>onForeignInsert<br/>onChoiceCreate<br/>onAfter<br/>onComplete
+| onStart<br/>onBefore<br/>onForeignInsert<br/>onChoiceCreate<br/>onReject<br/>onAfter<br/>onComplete | source         | GlideRecord       | The first row of the source table, there is no data yet since the row has not been read. |
+| onStart<br/>onBefore<br/>onForeignInsert<br/>onChoiceCreate<br/>onReject<br/>onAfter<br/>onComplete | import_set     | GlideRecord       | The import set that is currently being transformed. |
+| onStart<br/>onBefore<br/>onForeignInsert<br/>onChoiceCreate<br/>onReject<br/>onAfter<br/>onComplete | map            | GlideTransformMap | Read-only information about the current transform map record. |
+| onStart<br/>onBefore<br/>onForeignInsert<br/>onChoiceCreate<br/>onReject<br/>onAfter<br/>onComplete | log            | Function          | log.info(...), log.warn(...), log.error(...). |
+| onStart<br/>onBefore<br/>onForeignInsert<br/>onChoiceCreate<br/>onReject<br/>onAfter<br/>onComplete | ignore         | Boolean           | When set to true, the entire transformation will be stopped and no further processing will occur. | 
+| onStart<br/>onBefore<br/>onForeignInsert<br/>onChoiceCreate<br/>onReject<br/>onAfter<br/>onComplete | error          | Boolean           | When set to true, has the same effect as the ignore flag of stopping the entire transformation, with an error message. |
+|             onBefore<br/>onForeignInsert<br/>onChoiceCreate<br/>onReject<br/>onAfter<br/>onComplete | target         | GlideRecord       | The row of the target table that is currently being processed. |
+|             onBefore<br/>onForeignInsert<br/>onChoiceCreate<br/>onReject<br/>onAfter                | action         | String            | "insert" or "update" |
+|             onBefore<br/>                                                    onAfter                | error_message  | String            | Defines a custom message to be sent in the `<error_message>` XML response. |
+|             onBefore<br/>                                                    onAfter                | status_message | String            | Defines a custom message to be sent in the `<error_message>` XML response. |
+|                          onChoiceCreate<br/>onForeignInsert                                         | name           | String            | Evaluates to the field name of the target record for which a foreign record that is about to be created. |
+|                          onChoiceCreate<br/>onForeignInsert | value          | String            | Evaluates to the display value from the source record for which a foreign record is about to be created. |
 
 ## onStart
 
