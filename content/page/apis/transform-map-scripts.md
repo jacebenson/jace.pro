@@ -23,6 +23,25 @@ keywords:
 Transform Map Scripts are scripts to allow you to script how a import set is processed.
 <!--more-->
 
+
+{{<mermaid align="center">}}
+graph TD
+  E1(onStart - Before the Import Rows are read)
+  E2(onBefore - Before each Import Row is read)
+  E3(onForeignInsert - Creates Foreign Record)
+  E4(onChoiceCreate - Creates Choice Record)
+  E5(onAfter - After the Import Row is read)
+  E6(onComplete - After all the Import Rows are read)
+
+E1-->E2
+E2-->E3
+E3-->E4
+E4-->E5
+E5--No More Rows-->E6
+E5--More Rows-->E2
+
+{{< /mermaid >}}
+
 [Docs](https://docs.servicenow.com/bundle/london-platform-administration/page/script/server-scripting/reference/r_MapWithTransformationEventScripts.html)
 
 | Available | Variable       | Type              | Description |
