@@ -627,7 +627,7 @@ gs.getUserName();
 
 ## getUser
 
-Gets a [user obj](/g_user/#server).
+Gets a [user obj](/glideuser/).
 
 ``` js
 gs.getUser();
