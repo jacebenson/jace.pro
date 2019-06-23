@@ -262,6 +262,7 @@ Below I go over all of them;
 | getOption                     | [Desktop](#getoption)                     |                                       | Desktop    |
 | getOptionControl              | [Desktop](#getoptioncontrol)              |                                       | No         |
 | orderNow                      | [Desktop](#ordernow)                      |                                       | No         |
+| getField                      |                                           | [Mobile](#mobile-getfield)            | No            |
 | getParameter                  | [Desktop](#getparameter)                  |                                       | No         |
 | getPrefixHandler              | [Desktop](#getprefixhandler)              |                                       | No         |
 | getReference                  | [Desktop](#getreference)                  | [Mobile](#mobile-getreference)        | Desktop    |
@@ -503,6 +504,20 @@ Returns false if the field’s value is false or undefined, otherwise true is re
  // I don't see when that would be set to something else.  Doesn't
  // seem to work on catalog items, or on form's in service portal.
  g_form.getEncodedRecord();
+```
+#### Mobile getField
+
+This is undocumented and I havent been able to find or test this yet, however it comes from this source;
+[https://community.servicenow.com/community?id=community_question&sys_id=2a151ed0db262b4011762183ca961957$answer_fe97e3bfdb4ef304f21f5583ca961964#answer_fe97e3bfdb4ef304f21f5583ca961964](https://community.servicenow.com/community?id=community_question&sys_id=2a151ed0db262b4011762183ca961957$answer_fe97e3bfdb4ef304f21f5583ca961964#answer_fe97e3bfdb4ef304f21f5583ca961964)
+
+``` js
+// this code is to limit a multirowvariableset to two rows
+function onLoad() {
+	var field = g_form.getField("uk_billing_invoice_details_new");
+	if (field != null) {
+		field.max_rows_size = 2;
+	}
+}
 ```
 
 #### Mobile getFieldNames
