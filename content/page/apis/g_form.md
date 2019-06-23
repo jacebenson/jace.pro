@@ -48,6 +48,7 @@ keywords:
 - "getEditableFields"
 - "getElement"
 - "getEncodedRecord"
+- "getField"
 - "getFieldNames"
 - "getFormElement"
 - "getGlideUIElement"
