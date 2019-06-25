@@ -25,7 +25,7 @@ so I remember my interview here it was so horrible, because no 1 knew the questi
 
 1. What release are you guys currently on?
 2. How many licensed users are on the environment?
-3. What are next major infinitives of the team?
+3. What are next major inititives of the team?
 
 ### Team Questions
 
