@@ -19,6 +19,10 @@ So you want to interview for a job as a Servicenow Developer.
 
 so I remember my interview here it was so horrible, because no 1 knew the questions to ask... They literally asked "Do you know what GlideRecord is?" every answer I gave I could see it on their faces that they had no clue what the system did or was capable of... so in light of that I remember having conversations about interview questions and you posted saying to have them atleast know that snguru jedi post... that does seem like a good base of what they should know, but I think they should also be quizzed on scripting knowledge and other tricks of the trade that you should know when applying for a sort of "SME" position... what do you think?
 
+## Before you continue I urge you to read this first
+
+https://www.kalzumeus.com/2012/01/23/salary-negotiation/
+
 ## Questions to ask the interviewer
 
 ### Technology Questions
