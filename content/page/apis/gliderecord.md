@@ -318,8 +318,8 @@ Moves to the next record in the GlideRecord.
 
 ### orderBy
 
-This will return your set order ascending (a-z, 1-9) by the columne
-name, and is opposibe of orderBy.
+This will return your set order ascending (a-z, 1-9) by the column
+name, and is opposite of orderByDesc.
 
 ``` js
 var incident = new GlideRecord('incident');
