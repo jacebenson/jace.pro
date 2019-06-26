@@ -108,7 +108,7 @@ There are two versions of GlideRecord, the client side version, and the server s
 | Query    | [setEncodedQuery](#setencodedquery)           |                                                                                                                                         |
 | Read     | [addFunction](#addfunction)                   | Retrieve the specified platform function in addition of the field values                                                                |
 | Read     | [getAttribute](#getattribute)                 | Gets the attributes on the field in question from the dictionary                                                                        |
-| Read     | [getCategory](#getcategory)                   |                                                                                                                                         |
+| Read     | [getCategory](#getcategory)                   | Determines whether a category is set for a query.                                                                                                                                        |
 | Read     | [getClassDisplayValue](#getclassdisplayvalue) |                                                                                                                                         |
 | Read     | [getDisplayName](#getdisplayname)             | Retrieves the name of the display field                                                                                                 |
 | Read     | [getDisplayValue](#getdisplayvalue)           | Retrieves the display value for the current record                                                                                      |
@@ -129,7 +129,7 @@ There are two versions of GlideRecord, the client side version, and the server s
 | Write    | [isValidField](#isvalidfield)                 | Determines if the given field is defined in the current table                                                                           |
 | Write    | [isValidRecord](#usvalidrecord)               | Determines if current record is a valid record                                                                                          |
 | Write    | [newRecord](#newrecord)                       | Sets up the GlideRecord to follow the default values and assigns a sys\_id                                                              |
-| Write    | [setCategory](#setcategory)                   |                                                                                                                                         |
+| Write    | [setCategory](#setcategory)                   | Sets the category, which determines how the query is routed to a secondary database pool. |
 | Write    | [setForceUpdate](#setforceupdate)             | Flag to allow a save/update when there are no changes                                                                                   |
 | Write    | [setNewGuid](#setnewguid)                     | Assigns a `sys_id` when called                                                                                                          |
 | Write    | [setNewGuidValue](#setnewguidvalue)           | Sets the `sys_id` to the value specified                                                                                                |
@@ -395,7 +395,19 @@ Gets the attributes on the field in question from the dictionary
 
 ### getCategory
 
-This is unclear
+The setCategory and getCategory methods are available in GlideRecord 
+for working with query categories when routing to secondary database 
+pools, known as read replicas.
+
+A read replica is a 100% copy of an instance's database (DB) that can
+be only queried against with the goal to reduce load on the primary
+database. It's a paid feature and requires an extra plugin that can 
+only be activated by ServiceNow. With setCategory you can route some 
+categories to the read replica, so queries for them will not go to 
+primary database anymore (effectively reducing load on primary 
+database).
+
+[Source](https://community.servicenow.com/community?id=community_question&sys_id=971f83e1dbdcdbc01dcaf3231f961927)
 
 ### getClassDisplayValue
 
@@ -533,7 +545,19 @@ incident.insert();//returns the sys_id string of inserted record
 
 ### setCategory
 
-This is unclear.
+The setCategory and getCategory methods are available in GlideRecord 
+for working with query categories when routing to secondary database 
+pools, known as read replicas.
+
+A read replica is a 100% copy of an instance's database (DB) that can
+be only queried against with the goal to reduce load on the primary
+database. It's a paid feature and requires an extra plugin that can 
+only be activated by ServiceNow. With setCategory you can route some 
+categories to the read replica, so queries for them will not go to 
+primary database anymore (effectively reducing load on primary 
+database).
+
+[Source](https://community.servicenow.com/community?id=community_question&sys_id=971f83e1dbdcdbc01dcaf3231f961927)
 
 ### setForceUpdate
 
