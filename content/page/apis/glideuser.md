@@ -215,10 +215,10 @@ keywords:
  sys_user_grmember.query();
  gs.print(sys_user_grmember.getEncodedQuery());
  var isMemberOfChangeManagement = sys_user_grmember.hasNext();
-	gs.print('isMemberOfChangeManagement: ' + isMemberOfChangeManagement);
-	 if (isMemberOfChangeManagement) {
-		 return true;
-	}
+ gs.print('isMemberOfChangeManagement: ' + isMemberOfChangeManagement);
+ if (isMemberOfChangeManagement) {
+  return true;
+ }
 ```
 
 ### savePreference
