@@ -198,10 +198,27 @@ keywords:
 ### isMemberOf
 
  Determines if the current user is a member of the specified group.
+ 
+ **NOTE: This only takes a text string of the name.**
 
 ```js
  var currentUser = gs.getUser();
- gs.info(currentUser.isMemberOf(­'Capacity Mgmt'));
+ gs.info(currentUser.isMemberOf('Capacity Mgmt'));
+ 
+ // I prefer to use the sys_id's so here's an example of that instead;
+ var changeManagementGroup = 'a715cd759f2002002920bde8132e7018';
+ var userObj = gs.getUser();
+ var sys_user_grmember = new GlideRecord('sys_user_grmember');
+ sys_user_grmember.addQuery('user', userObj.getID());
+ sys_user_grmember.addQuery('group',changeManagementGroup);
+ sys_user_grmember.setLimit(1);
+ sys_user_grmember.query();
+ gs.print(sys_user_grmember.getEncodedQuery());
+ var isMemberOfChangeManagement = sys_user_grmember.hasNext();
+ gs.print('isMemberOfChangeManagement: ' + isMemberOfChangeManagement);
+ if (isMemberOfChangeManagement) {
+  return true;
+ }
 ```
 
 ### savePreference

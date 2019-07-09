@@ -1,6 +1,6 @@
 # Blog
 
-> A blog about servicenow
+> A blog about servicenow and other things
 
 ## Installing / Getting started
 
