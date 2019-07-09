@@ -1,6 +1,6 @@
 ---
-title: I added a newsletter
-date: 2019-06-12
+title: Revert a bunch of record
+date: 2019-07-09
 layout: post
 keywords:
 - "revert"
