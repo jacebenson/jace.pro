@@ -17,7 +17,9 @@ Without any delay here it is;
 
 ```js
 var stories = new GlideRecord('rm_story');
-var query = 'closed_by=eb8562c6b52c3000bb05d180e2312616^sys_updated_onONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()^state=3';
+var query = 'closed_by=eb8562c6b52c3000bb05d180e2312616^';
+query += 'sys_updated_onONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()^';
+query += 'state=3';
 stories.addEncodedQuery(query)
 stories.query();
 while(stories.next()){ // for each record
