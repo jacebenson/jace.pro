@@ -9,15 +9,18 @@ aliases:
 - "/2018/04/10/certifications-faq.pdf"
 
 ---
-After hearing about how certifications are changing I read up on it some.  I found the site confusing, so I made this post to put the useful things together.
+After hearing about how certifications are changing I read up on it some.  I found the 
+site confusing, so I made this post to put the useful things together.
 
 <!--more-->
 
 # Certifications
 
-UPDATE [July 1, 2018]: As of 7/1/2018 you're supposed to have to take classes to register for the exams [according to this pdf](/uploads/certifications-faq.pdf).  However, that seems to not be how it is yet.  Webassessor link still works and lists all classes.
+UPDATE [July 1, 2018]: As of 7/1/2018 you're need to take a class to register for 
+the exams [according to this pdf](/uploads/certifications-faq.pdf).
 
-I was looking for a list of the certifications SN offers.  As of today This is all I can find.  Here's my sources;
+I was looking for a list of the certifications SN offers.  As of today This is all I can 
+find.  Here's my sources;
 
 - [Training Paths](https://www.servicenow.com/services/training-and-certification/training-paths.html)
 - [CIS Training Path](https://www.servicenow.com/services/training-and-certification/training-paths/certified-implementation-specialist.html)
@@ -43,7 +46,9 @@ I was looking for a list of the certifications SN offers.  As of today This is a
 | *SEC-GRC   | Governance Risk and C                                        |                                                                                                                             |
 | *SEC-RM    | Risk Mgmt                                                    |                                                                                                                             |
 
-`*` No Certification Documentation could be found, but it's listed as if one exists [on the Certification Guide](https://www.servicenow.com/content/dam/servicenow/other-documents/training/tp-certification-guide.pdf) [locally incase SN updates/takes down original](/uploads/certifications-guide.pdf).
+`*` No Certification Documentation could be found, but it's listed as if one 
+exists [on the Certification Guide](https://www.servicenow.com/content/dam/servicenow/other-documents/training/tp-certification-guide.pdf) 
+[locally incase SN updates/takes down original](/uploads/certifications-guide.pdf).
 
 Learning Resources
 
@@ -65,3 +70,25 @@ Classes
 - [Financial Management Fundamentals](https://www.servicenow.com/services/training-and-certification/training-paths/financial-management-fundamentals-1.html) $1595
 - [Event Management Fundamentals](https://www.servicenow.com/services/training-and-certification/training-paths/event-management-fundamentals-1.html) $1595
 - [Cloud Management Fundamentals](https://www.servicenow.com/services/training-and-certification/training-paths/cloud-management-1.html) $2095
+
+A [post](https://community.servicenow.com/community?id=community_question&sys_id=9a376af4db017f4014d6fb2439961901&anchor=answer_48f25e0ddbc57780e0e80b55ca96197c)
+was made about **why** training is mandatory.  I can't find my source but some folks have said
+
+{{< tweet 1014278703495467008 >}}
+
+{{< tweet 1140379382248345600 >}}
+
+{{< tweet 1145689658791272448 >}}
+
+With all this being said, I also did some quick math;
+
+| When                                 |    2018 |        2019 |
+| ------------------------------------ | ------- | ----------- |
+| People                               |      75 |          75 |
+| Certs                                |       3 |           9 |
+| Class Cost                           |      $0 |       $2000 |
+| Total Class Cost                     |      $0 | $ 1,350,000 |
+| Exam Cost                            |    $150 |        $150 |
+| Total Exam Cost                      | $33,750 |    $101,250 |
+| Maintainence Cost (every 3 releases) |      $0 |        $100 |
+| Total Maintainence Cost              |      $0 |     $67,500 |
