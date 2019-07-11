@@ -65,6 +65,7 @@ keywords:
 - "setvalue"
 - "update"
 - "updatemultiple"
+- "updatelazy"
 ---
 # What is GlideRecord
 
@@ -121,7 +122,7 @@ There are two versions of GlideRecord, the client side version, and the server s
 | Write    | [autoSysFields](#autosysfields)               | Flag to update fields starting with `sys_`                                                                                              |
 | Write    | [deleteMultiple](#deletemultiple)             | Deletes all records found to match the query                                                                                            |
 | Write    | [deleteRecord](#deleterecord)                 | Deletes a single record                                                                                                                 |
-| Write    | [getUniqueValue](#getuniquevalue)                            | Gets the primary key of the record, which is usually the sys\_id unless otherwise specified                                             |
+| Write    | [getUniqueValue](#getuniquevalue)             | Gets the primary key of the record, which is usually the sys\_id unless otherwise specified                                             |
 | Write    | [initialize](#initialize)                     | Sets up the GlideRecord to ignores default values for columns                                                                           |
 | Write    | [insert](#insert)                             | Insert a new record using the field values that have been set for the current record                                                    |
 | Write    | [isActionAborted](#isactionaborted)           | Determines whether the current database action is to be aborted. Available in Fuji patch 3                                              |
@@ -129,13 +130,14 @@ There are two versions of GlideRecord, the client side version, and the server s
 | Write    | [isValidField](#isvalidfield)                 | Determines if the given field is defined in the current table                                                                           |
 | Write    | [isValidRecord](#usvalidrecord)               | Determines if current record is a valid record                                                                                          |
 | Write    | [newRecord](#newrecord)                       | Sets up the GlideRecord to follow the default values and assigns a sys\_id                                                              |
-| Write    | [setCategory](#setcategory)                   | Sets the category, which determines how the query is routed to a secondary database pool. |
+| Write    | [setCategory](#setcategory)                   | Sets the category, which determines how the query is routed to a secondary database pool.                                               |
 | Write    | [setForceUpdate](#setforceupdate)             | Flag to allow a save/update when there are no changes                                                                                   |
 | Write    | [setNewGuid](#setnewguid)                     | Assigns a `sys_id` when called                                                                                                          |
 | Write    | [setNewGuidValue](#setnewguidvalue)           | Sets the `sys_id` to the value specified                                                                                                |
 | Write    | [setValue](#setvalue)                         | Sets the value for the specified field.                                                                                                 |
 | Write    | [update](#update)                             | Updates the current GlideRecord with any changes that have been made                                                                    |
 | Write    | [updateMultiple](#updatemultiple)             | Updates each GlideRecord in the list with any changes that have been made                                                               |
+| Write    | [updateLazy](#updatelazy)                     | Places update in a batch, doesn't happen immediately, code continues past it.  Undocumented.                                            |
 |          | [Operators](#operators)                       | Different Operators for GlideRecord                                                                                                     |
 
 ## \*
@@ -616,6 +618,16 @@ want to use those with the following methods;
 
 Updates each GlideRecord in the list with any changes that have been
 made.
+
+## updateLazy
+
+Came up on sndevs slack.  According to sources there this does;
+
+> puts the update into a batch, which means it might not happen right away.
+> Your code can then continue on, but side-effects like BRs and such might 
+> not happen for a short while, because the operation doesn't actually occur 
+> yet.
+> It is undocumented. It has consequences and isn't meant for casual use.
 
 ## Operators
 
