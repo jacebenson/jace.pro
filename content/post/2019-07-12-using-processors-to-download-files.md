@@ -61,5 +61,6 @@ function downloadXML() {
 Thanks Nthumma for the idea to make this post and the code above. 
 
 Further Reading;
+
  - http://www.john-james-andersen.com/blog/service-now/create-your-own-rest-based-servicenow-web-service.html
  - https://www.servicenowguru.com/scripting/download-attachments-zip-file/
