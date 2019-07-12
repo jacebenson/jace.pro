@@ -4,6 +4,11 @@ date: 2018-05-16
 layout: post
 aliases: 
  - "/interview/"
+keywords:
+- "kalzunes"
+- "pay"
+- "negotiate"
+- "questions"
 ---
 This is a extensive list of questions for both interviewers and interviewees when Servicenow Development is involved. 
 
