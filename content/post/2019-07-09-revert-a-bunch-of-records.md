@@ -1,5 +1,5 @@
 ---
-title: Revert a bunch of record
+title: Revert a bunch of records
 date: 2019-07-09
 layout: post
 keywords:
