@@ -455,15 +455,9 @@ disqusShortname = "gggr"
 
 [[menu.main]]
     parent = "docs"
-    name = "Open Source Activity Formatter"
+    name = "Alt. Activity Formatter"
     url = "http://osaf.jace.pro/"
     weight = 4140
-
-[[menu.main]]
-    parent = "docs"
-    name = "Formal Notices"
-    url = "http://bureauofcommunication.com/"
-    weight = 4120
 
 [outputFormats.Algolia]
 baseName = "algolia"
