@@ -443,6 +443,24 @@ disqusShortname = "gggr"
 
 [[menu.main]]
     parent = "docs"
+    name = "Scoped ATF Tests"
+    url = "http://atf.jace.com/"
+    weight = 4120
+
+[[menu.main]]
+    parent = "docs"
+    name = "Scoped Dev Toolbox"
+    url = "http://devtoolbox.jace.pro/"
+    weight = 4130
+
+[[menu.main]]
+    parent = "docs"
+    name = "Open Source Activity Formatter"
+    url = "http://osaf.jace.pro/"
+    weight = 4140
+
+[[menu.main]]
+    parent = "docs"
     name = "Formal Notices"
     url = "http://bureauofcommunication.com/"
     weight = 4120
