@@ -1,2 +1,0 @@
-console.log('pandoc --output=index.md --standalone --to gfm --atx-headers --metadata pandoc=yay old.index.md');
-//<!--pandoc  --toc -o prop.md properties-full.md --atx-headers --include-before-body=empty.md-->
