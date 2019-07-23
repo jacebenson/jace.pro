@@ -11,6 +11,7 @@ make this work out of the box but just never finished it. Here's the
 list of things they did;
 
 -   Workflow `Knowledge - Approval Publish` creates an approval
+
 -   A business rule called `Approval Events (Non-Task)` triggers an
     event for the state based on the table. So searching for
     `kb_knowledge.approval.inserted` comes up empty. Here's the code;

@@ -95,7 +95,7 @@ mysql> \q
 
 1.  Navigate to your \${DOMAIN}
 2.  Set up admin user/password
-3.  Data folder should be the mountpoint e.g. /mnt/\${MOUNTPOINT}
+3.  Data folder should be the mountpoint e.g. /mnt/\${MOUNTPOINT}
 4.  Database user: nextcloud
 5.  Database pass: whatever you put in IDENTIFIED BY line
 6.  Database name: nextcloud

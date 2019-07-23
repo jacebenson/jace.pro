@@ -26,16 +26,16 @@ Today, here's the state of it;
 
 So to do that we need the following features;
 
--   \[ \] Allow filtering of fields
--   \[x\] Show user who made the change and when the change was made
--   \[ \] Show appropriate fields of the current record to the logged in
+-   [ ] Allow filtering of fields
+-   [x] Show user who made the change and when the change was made
+-   [ ] Show appropriate fields of the current record to the logged in
     user
 
 I'd like to enchance this to allow these features;
 
--   \[ \] Respect ACLs or Business Rules of other tables/references
+-   [ ] Respect ACLs or Business Rules of other tables/references
     e.g. emails
--   \[ \] Disallow the "Post" button as it uses undocumented
+-   [ ] Disallow the "Post" button as it uses undocumented
     [`angular.do`](/post/2018-11-05-angular-do/) rest calls
--   \[ \] Paginate the History instead of setting a upper limit.
--   \[ \] Automatically format links
+-   [ ] Paginate the History instead of setting a upper limit.
+-   [ ] Automatically format links

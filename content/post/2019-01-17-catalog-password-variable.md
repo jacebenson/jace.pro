@@ -22,8 +22,10 @@ Here's the end result;
 To make this follow these steps;
 
 1.  Make a variable type of string, variable name of `password`.
+
 2.  Make a variable type of macro with label, variable name of
     `password_macro`.
+
 3.  Make a Service Portal Widget with these values; **HTML Template**
 
     ``` {.html}

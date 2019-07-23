@@ -1,9 +1,6 @@
 ---
 aliases:
 - '/syncing-comments/'
-- |
-    /Custom
-    Solutions/Syncing-Comments-between-Requested-Item-and-Catalog-Task/
 date: '2017-09-06'
 keywords:
 - sync
