@@ -1,21 +1,21 @@
 ---
-title: Service Portal - Modify Watch List
-date: 2017-10-03
+aliases:
+- '/sp-modify-watch-list/'
+date: '2017-10-03'
+keywords:
+- sp
+- widget
 layout: post
 tags:
 - service portal
 - widget
-aliases:
-- "/sp-modify-watch-list/"
-keywords:
-- "sp"
-- "widget"
+title: 'Service Portal - Modify Watch List'
 ---
-I created a widget and wanted to share that code. Should work on any instance unless you have a business rule blocking the update.
 
-<!--more-->
+I created a widget and wanted to share that code. Should work on any
+instance unless you have a business rule blocking the update.
 
-```js
+``` {.js}
 //Client Script
 function($scope, spUtil) {
   var c = this;
@@ -39,7 +39,7 @@ function($scope, spUtil) {
 }
 ```
 
-```js
+``` {.js}
 //Server Script
 (function() {
   if(input && input.sys_id && input.table && input.watch_list){
@@ -72,7 +72,7 @@ function($scope, spUtil) {
 })();
 ```
 
-```html
+``` {.html}
 <!--Template-->
 <div ng-if="data.canRead" class="panel panel-primary b">
   <div class="panel-heading">

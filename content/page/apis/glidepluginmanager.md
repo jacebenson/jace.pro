@@ -1,18 +1,16 @@
 ---
-title: GlidePluginManager
-
-
-layout: post
-date: 2018-08-17 01:53:28 +0000
-tags:
-- server-side-api
-url: "/glidepluginmanager/"
 aliases:
-- "/GlidePluginManager/"
+- '/GlidePluginManager/'
+date: '2018-08-17 01:53:28 +0000'
+layout: page
+tags:
+- 'server-side-api'
+title: GlidePluginManager
+url: '/glidepluginmanager/'
 ---
-# GlidePluginManager
-<!--more-->
 
-| Property/Method | Description |
-| --- | --- |
-| isActive | Determine if a plugin is activated |
+# GlidePluginManager
+
+| Property/Method | Description                        |
+|-----------------|------------------------------------|
+| isActive        | Determine if a plugin is activated |

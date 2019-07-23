@@ -1,33 +1,31 @@
 ---
-title: GlideDuration
-
-
-layout: post
-date: 2018-08-16 22:02:36 +0000
-tags:
-- server-side-api
-url: "/glideduration/"
 aliases:
-- "/GlideDuration/"
+- '/GlideDuration/'
+date: '2018-08-16 22:02:36 +0000'
 keywords:
-- "add"
-- "getByFormat"
-- "getDayPart"
-- "getDisplayValue"
-- "getDurationValue"
-- "getRoundedDayPart"
-- "getValue"
-- "setDisplayValue"
-- "setValue"
-- "subtract"
+- add
+- getByFormat
+- getDayPart
+- getDisplayValue
+- getDurationValue
+- getRoundedDayPart
+- getValue
+- setDisplayValue
+- setValue
+- subtract
+layout: page
+tags:
+- 'server-side-api'
+title: GlideDuration
+url: '/glideduration/'
 ---
+
 # GlideDuration
-<!--more-->
 
 | Property/Method                         | Description                                                                                                                            |
-| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+|-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | [add](#add)                             | Adds a given duration to the current duration                                                                                          |
-| [getByFormat](#getbyformat)             | Gets the current duration in the given format `DO NOT USE THIS AS IT DOESN'T WORK PROPERLY`                                                                                         |
+| [getByFormat](#getbyformat)             | Gets the current duration in the given format `DO NOT USE THIS AS IT DOESN'T WORK PROPERLY`                                            |
 | [getDayPart](#getdaypart)               | Gets the number of days                                                                                                                |
 | [getDisplayValue](#getdisplayvalue)     | Gets the display value of the duration in number of days, hours, and minutes                                                           |
 | [getDurationValue](#getdurationvalue)   | Gets the duration value in d HH:mm:ss format                                                                                           |
@@ -37,11 +35,13 @@ keywords:
 | [setValue](#setvalue)                   | Sets the internal value of the GlideDuration object. Internally, GlidDuration is stored as DateTime                                    |
 | [subtract](#subtract)                   |                                                                                                                                        |
 
-## getByFormat 
+## getByFormat
 
-This function sets the GlideDateTime object with a number of epoc milliseconds onthe total duration millisends and returns that.  This causes odd results;
+This function sets the GlideDateTime object with a number of epoc
+milliseconds onthe total duration millisends and returns that. This
+causes odd results;
 
-```js
+``` {.js}
 var days = 3;
 var hours = days * 24;
 var minutes = hours * 60;

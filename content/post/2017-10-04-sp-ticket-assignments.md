@@ -1,21 +1,22 @@
 ---
-title: Service Portal - Ticket Assignments
-date: 2017-10-04
+date: '2017-10-04'
+keywords:
+- sp
+- widget
 layout: post
 tags:
- - service portal
- - widget
-keywords:
-- "sp"
-- "widget"
+- service portal
+- widget
+title: 'Service Portal - Ticket Assignments'
 ---
-I created a ticket assignments and wanted to share that code. Should work on any instance unless you have a business rule blocking the update.
+
+I created a ticket assignments and wanted to share that code. Should
+work on any instance unless you have a business rule blocking the
+update.
 
 ![SP Ticket assignments](/uploads/sp-ticket-assignments.png)
 
-<!--more-->
-
-```js
+``` {.js}
 //Client Script
 function() {
   /* widget controller */
@@ -23,7 +24,7 @@ function() {
 }
 ```
 
-```js
+``` {.js}
 //Server Script
 (function() {
   /* populate the 'data' object */
@@ -59,7 +60,7 @@ function() {
 })();
 ```
 
-```html
+``` {.html}
 <!--Template-->
 <div ng-if="data.canRead && data.sc_task.length>0 && data.table == 'sc_req_item'" class="panel b">
   <div class="panel-heading bg-primary">

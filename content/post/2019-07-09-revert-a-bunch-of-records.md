@@ -1,21 +1,23 @@
 ---
-title: Revert a bunch of records
-date: 2019-07-09
-layout: post
+date: '2019-07-09'
 keywords:
-- "revert"
-- "undo"
-- "reverse"
-- "sys_audit"
-- "sys_history_line"
+- revert
+- undo
+- reverse
+- 'sys\_audit'
+- 'sys\_history\_line'
+layout: post
+title: Revert a bunch of records
 ---
 
-Today I was tasked with reverting ~2k stories states to the past value.  This is a daunting task as it requires someone to look at the `sys_audit` or `sys_history_line` tables.  The code I wrote was a quick fix, but I think others might find it useful.
-<!--more-->
+Today I was tasked with reverting \~2k stories states to the past value.
+This is a daunting task as it requires someone to look at the
+`sys_audit` or `sys_history_line` tables. The code I wrote was a quick
+fix, but I think others might find it useful.
 
 Without any delay here it is;
 
-```js
+``` {.js}
 var stories = new GlideRecord('rm_story');
 var query = 'closed_by=eb8562c6b52c3000bb05d180e2312616^';
 query += 'sys_updated_onONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()^';

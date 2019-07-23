@@ -1,31 +1,35 @@
 ---
-title: GlideAjax Examples
-date: 2016-01-01
+aliases:
+- '/GlideAjax/'
+- '/ajax/'
+date: '2016-01-01'
+keywords:
+- AbstractAjaxProcessor
+- addParam
+- getXML
 layout: page
 tags:
-- client-side-api
-- server-side-api
-url: "/glideajax/"
-aliases:
-- "/GlideAjax/"
-- "/ajax/"
-keywords:
-- "AbstractAjaxProcessor"
-- "addParam"
-- "getXML"
+- 'client-side-api'
+- 'server-side-api'
+title: GlideAjax Examples
+url: '/glideajax/'
 ---
+
 # GlideAjax
 
-When using GlideAjax I have to always look up the example on the [wiki](http://wiki.servicenow.com/index.php?title=GlideAjax).  One thing that I've learned is if you create a `initialize` function, it will break the client-callable script include.
+When using GlideAjax I have to always look up the example on the
+[wiki](http://wiki.servicenow.com/index.php?title=GlideAjax). One thing
+that I've learned is if you create a `initialize` function, it will
+break the client-callable script include.
 
-Every GlideAjax call has at least two components required.  The script include and the client side script.
-<!--more-->
+Every GlideAjax call has at least two components required. The script
+include and the client side script.
 
 Below I'll put down a simple example of how I start up on these things.
 
 ## Script Include
 
-```js
+``` {.js}
 var SomeUtil = Class.create();
 SomeUtil.prototype = Object.extendsObject(AbstractAjaxProcessor, {
     // If you want to use initialize you can only if you include
@@ -50,7 +54,7 @@ SomeUtil.prototype = Object.extendsObject(AbstractAjaxProcessor, {
 
 ## Client Script
 
-```js
+``` {.js}
 var ga = new GlideAjax('global.SomeUtil');
 ga.addParam('sysparm_name', 'awesomeFunction');
 ga.addParam('sysparm_obj', JSON.stringify({"hoo":"raa"}));
@@ -62,4 +66,5 @@ ga.getXML(function(response){
 });
 ```
 
-**Note** It seems that if you use the function name of `getName` it fails to return, so avoid that name I guess.
+**Note** It seems that if you use the function name of `getName` it
+fails to return, so avoid that name I guess.

@@ -1,31 +1,36 @@
 ---
-title: Service Portal Add a Custom Search Source
-date: 2017-10-17
+aliases:
+- '/sp-custom-search-source/'
+date: '2017-10-17'
+keywords:
+- sp
 layout: post
 tags:
- - service portal
- - search
-aliases:
- - "/sp-custom-search-source/"
-keywords:
-- "sp"
+- service portal
+- search
+title: Service Portal Add a Custom Search Source
 ---
 
-Now I'm not sure the *best* way to do this but I did find that this is probably they way I'll push for this.
+Now I'm not sure the *best* way to do this but I did find that this is
+probably they way I'll push for this.
 
-We have multiple knowledge bases at my work and as such the default search is very limited.  I wanted to add to the type ahead a result like "Search all KB's for `your term here`".
+We have multiple knowledge bases at my work and as such the default
+search is very limited. I wanted to add to the type ahead a result like
+"Search all KB's for `your term here`".
 
-<!--more-->
-
-I looked at the search sources and found it has a scripted bit but it's [not documented well](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/build/service-portal/task/add-table-search-source.html).
+I looked at the search sources and found it has a scripted bit but it's
+[not documented
+well](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/build/service-portal/task/add-table-search-source.html).
 
 ![Finished Product](/uploads/sp-custom-search-source.png)
 
 ## OOB Search Source
 
-So first lets look at the out of box "Service Catalog" search source, specifically it's data fetch (shows up when you select, `Is scripted source`)
+So first lets look at the out of box "Service Catalog" search source,
+specifically it's data fetch (shows up when you select,
+`Is scripted source`)
 
-```js
+``` {.js}
 (function(query) {
     var results = [];
     //Here goes the logic. Compute results however you want!
@@ -89,9 +94,10 @@ So first lets look at the out of box "Service Catalog" search source, specifical
 })(query);
 ```
 
-There's a lot going on there, but what I picked out was, it returns an array of objects where the object has the following properties;
+There's a lot going on there, but what I picked out was, it returns an
+array of objects where the object has the following properties;
 
-```js
+``` {.js}
 {
     score:"-100",
     label:resultMsg,
@@ -104,11 +110,13 @@ There's a lot going on there, but what I picked out was, it returns an array of 
 
 ## Score
 
-This seems pretty obvious to me, a integer to determine order in the results
+This seems pretty obvious to me, a integer to determine order in the
+results
 
 ## Label and Primary
 
-I'm not sure the difference but this seems to be what shows up as text in the result.
+I'm not sure the difference but this seems to be what shows up as text
+in the result.
 
 ## URL
 
@@ -116,17 +124,19 @@ This is where the browser will go on click.
 
 ## Target
 
-I assume this is the a tag's `target` attribute, so if you want a new tab each time use a value of `_blank`.
+I assume this is the a tag's `target` attribute, so if you want a new
+tab each time use a value of `_blank`.
 
 ## Page
 
-I am not sure if this does anything on it's own, in the out of box widget they use this in the defined url.
+I am not sure if this does anything on it's own, in the out of box
+widget they use this in the defined url.
 
 ## Search Source I made
 
 Below is my search source script.
 
-```js
+``` {.js}
 (function(query) {
     var resultMsg = "Search KB for " + query;
     var results = [{
@@ -143,4 +153,5 @@ Below is my search source script.
 
 ## Further Reading
 
-[Community Thread](https://community.servicenow.com/community/develop/blog/2017/03/29/using-scripted-search-sources-to-search-external-websites-and-applications)
+[Community
+Thread](https://community.servicenow.com/community/develop/blog/2017/03/29/using-scripted-search-sources-to-search-external-websites-and-applications)

@@ -1,16 +1,21 @@
 ---
-title: Custom Rest Processor for Catalog (pre-sn_sc api)
-date: 2018-12-04
+date: '2018-12-02'
 layout: post
+title: 'Custom Rest Processor for Catalog (pre-sn sc api)'
 ---
-A long time ago, before `sn_sc`, before Scripted Rest APIs, could only use processors to make these things.  My colleuges and I made one to meet the needs of some other team.
 
-I think it's still better than the out of box `sn_sc`, however since Servicenow has their own I haven't maintained it.
-<!--more-->
+A long time ago, before `sn_sc`, before Scripted Rest APIs, could only
+use processors to make these things. My colleuges and I made one to meet
+the needs of some other team.
 
-In this post you'll see the code that was used to generate the responses it is missing the actual processor code.  However it literally just called this script include below.
+I think it's still better than the out of box `sn_sc`, however since
+Servicenow has their own I haven't maintained it.
 
-```js
+In this post you'll see the code that was used to generate the responses
+it is missing the actual processor code. However it literally just
+called this script include below.
+
+``` {.js}
 //serviceObj - Script Include
 
 /*global GlideGuid, Cart, Class, gs, GlideRecord, GlideAggregate*/
@@ -112,7 +117,7 @@ serviceObj.prototype = {
     
     getCatalogItem: function (catalog_item_id) {
         'use strict';
-		var scripts = this.getClientScripts(catalog_item_id),
+        var scripts = this.getClientScripts(catalog_item_id),
             item,
             varquery,
             vsr,
@@ -126,7 +131,7 @@ serviceObj.prototype = {
             objToPush,
             val,
             type;
-		
+        
         //Find the Catalog Item, get it, and all the variables and other important stuff, and return the object
         this.retVal = {};
         this.retVal.description = 'Specific description about a catalog item';
@@ -366,7 +371,7 @@ serviceObj.prototype = {
             link = this.baseUrl + 'service.do?task=';
             link += reqitem.sys_id.toString();
             
-			this.retVal.items.push({
+            this.retVal.items.push({
                 sys_id : reqitem.sys_id.toString(),
                 number : reqitem.number.toString(),
                 link   : link
@@ -488,7 +493,6 @@ serviceObj.prototype = {
     
     type: 'serviceObj'
 };
-
 ```
 
 Thanks Micheal Bahr and your mad curl skills for pulling this.

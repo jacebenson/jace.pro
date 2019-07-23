@@ -1,47 +1,48 @@
 ---
-title: angular.do - what is this?
-date: 2018-11-05
+date: '2018-11-05'
 layout: post
+title: 'angular.do - what is this?'
 ---
-The other day I got a report of slowness when using the "Post" button on 
-incident. 
+
+The other day I got a report of slowness when using the "Post" button on
+incident.
 
 ![2018-11-05-angular-do.png](/uploads/2018-11-05-angular-do.png)
 
-Turns out this little functionality uses some undocumented api to `/angular.do`
-.  In this post I go over what I found out about it and how it's not measured 
-like others. 
+Turns out this little functionality uses some undocumented api to
+`/angular.do` . In this post I go over what I found out about it and how
+it's not measured like others.
 
-<!--more-->
-
-First place I looked at this report is the very helpful transactions table 
-`syslog_transactions_list.do`, however transactions to this endpoint seem to 
-**not** be tracked there or in the new Active Clust Transactions 
-`loading_transactions.do`.  Which is really unfortunate, because that at least
-shows quickly where the delay is tracked weather it's on a server-side 
-transaction or something on the client or something on the network.
+First place I looked at this report is the very helpful transactions
+table `syslog_transactions_list.do`, however transactions to this
+endpoint seem to **not** be tracked there or in the new Active Clust
+Transactions `loading_transactions.do`. Which is really unfortunate,
+because that at least shows quickly where the delay is tracked weather
+it's on a server-side transaction or something on the client or
+something on the network.
 
 I went ahead asking HI about it;
 
-> I have a user who is reporting slowness when they use the Post button below 
-  comment/work notes....
-> I have looked everywhere I can think of to troubleshoot how long that 
-  transaction is taking but it seems that is not logged anywhere.
-> I looked at syslog transactions, and the node file browser but nothing seems
-  to track the POSTs to /angular.do as that hits that endpoint.
-> 
-> How can I see server side these requests and what may be causing that delay?
+> I have a user who is reporting slowness when they use the Post button
+> below comment/work notes.... I have looked everywhere I can think of
+> to troubleshoot how long that transaction is taking but it seems that
+> is not logged anywhere. I looked at syslog transactions, and the node
+> file browser but nothing seems to track the POSTs to /angular.do as
+> that hits that endpoint.
+>
+> How can I see server side these requests and what may be causing that
+> delay?
 
+They pretty much told me the only way to track this down is to look at
+the info in the console of the browser as the user, which is not likely
+going to happen.
 
-They pretty much told me the only way to track this down is to look at the info
-in the console of the browser as the user, which is not likely going to happen.
+Really, in my opinion all these transactions should be captured but it
+seems servicenow doesn't seem to share this opinion.
 
-Really, in my opinion all these transactions should be captured but it seems 
-servicenow doesn't seem to share this opinion.  
-
-I've 
-[attached (raw JSONP) the HAR record](/uploads/2018-11-05-angular-do.har) 
-and found a tool online to easily here on 
+I've [attached (raw JSONP) the HAR
+record](/uploads/2018-11-05-angular-do.har) and found a tool online to
+easily here on
 [https://softwareishard.com/har/viewer](http://www.softwareishard.com/har/viewer/).
 
 So it looks like it takes some URL parameters as well as some post body;
@@ -52,7 +53,7 @@ Endpoint;
 
 Post Body;
 
-```js
+``` {.js}
 {
     "entries":[
         {
@@ -64,7 +65,7 @@ Post Body;
 
 Post Response;
 
-```js
+``` {.js}
 {
   "display_value": "Incident",
   "entries": [
@@ -426,4 +427,5 @@ Post Response;
 }
 ```
 
-KB0655923: https://hi.service-now.com/kb_view.do?sysparm_article=KB0655923
+KB0655923:
+https://hi.service-now.com/kb\_view.do?sysparm\_article=KB0655923

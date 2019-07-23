@@ -1,39 +1,42 @@
 ---
-title: Syncing Comments between Requested Item and Catalog Task
-date: 2017-09-06
+aliases:
+- '/syncing-comments/'
+- |
+    /Custom
+    Solutions/Syncing-Comments-between-Requested-Item-and-Catalog-Task/
+date: '2017-09-06'
+keywords:
+- sync
+- comments
+- 'sc\_req\_item'
+- 'sc\_task'
 layout: post
 tags:
-- server-side
-aliases:
-- "/syncing-comments/"
-- "/Custom Solutions/Syncing-Comments-between-Requested-Item-and-Catalog-Task/"
-keywords:
-- "sync"
-- "comments"
-- "sc_req_item"
-- "sc_task"
+- 'server-side'
+title: Syncing Comments between Requested Item and Catalog Task
 ---
-To me, this is a terrible requirement to fulfill. This is generally to try to 
-avoid licensing when Managers want their staff to communicate to the end users
-via the catalog task updates. I think the best way to handle this is to have 
-those fulfillers goto the requested item and communicate that way as that was
-how it was intended. However, you may not have that option because of one reason 
-or another.
 
-<!--more-->
+To me, this is a terrible requirement to fulfill. This is generally to
+try to avoid licensing when Managers want their staff to communicate to
+the end users via the catalog task updates. I think the best way to
+handle this is to have those fulfillers goto the requested item and
+communicate that way as that was how it was intended. However, you may
+not have that option because of one reason or another.
 
 Steps
 
-- Comments are not on Catalog Task, so add that first.
-- Then Register an event called, custom.catalog.ritm.commented
-- Copy your Request Item Commented Notification.
-- Change your notification to be triggered by event, `custom.catalog.ritm.commented` instead of by update or insert.
-- Change your notification so that the Who Will Recieve is unset, and check the box, Event parm 1 contains recipient
-- Insert and stay on the notification for (`sc_req_item`)
-- Insert and stay on the notification for (`sc_task`)
-- Create the business rules below;
+-   Comments are not on Catalog Task, so add that first.
+-   Then Register an event called, custom.catalog.ritm.commented
+-   Copy your Request Item Commented Notification.
+-   Change your notification to be triggered by event,
+    `custom.catalog.ritm.commented` instead of by update or insert.
+-   Change your notification so that the Who Will Recieve is unset, and
+    check the box, Event parm 1 contains recipient
+-   Insert and stay on the notification for (`sc_req_item`)
+-   Insert and stay on the notification for (`sc_task`)
+-   Create the business rules below;
 
-```js
+``` {.js}
 //Name: push comments to ritm
 //Table: Catalog Task
 //When: Before
@@ -65,7 +68,7 @@ Steps
 })(current, previous);
 ```
 
-```js
+``` {.js}
 //Name: push comments to tasks
 //Table: Request Item
 //When: Before

@@ -1,17 +1,15 @@
 ---
-title: XMLDocument2
-
-
-layout: post
-date: 2018-08-16 21:03:58 +0000
-tags:
-- server-side-api
-url: "/xmldocument2/"
 aliases:
-- "/XMLDocument2/"
+- '/XMLDocument2/'
+date: '2018-08-16 21:03:58 +0000'
+layout: page
+tags:
+- 'server-side-api'
+title: XMLDocument2
+url: '/xmldocument2/'
 ---
+
 # XMLDocument2
-<!--more-->
 
 | Property/Method            | Description                                                              |
 |----------------------------|--------------------------------------------------------------------------|

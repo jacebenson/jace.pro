@@ -1,30 +1,37 @@
 ---
-title: Automagically Link
-date: 2017-08-07
+aliases:
+- '/2017/08/28/automagically-link/'
+date: '2017-08-07'
+keywords:
+- journal
+- link
 layout: post
 tags:
 - server side
-aliases:
-- "/2017/08/28/automagically-link/"
-keywords:
-- "journal"
-- "link"
+title: Automagically Link
 ---
+
 Automagically Link records from journaled fields.
 
-Here I’ll write the logic out some and note the issues identified so far.
+Here I'll write the logic out some and note the issues identified so
+far.
 
-<!--more-->
-So the way this currently works is if a `sys_journal_field` record is created or updated, then verify the field is a journal type. Then pass the value of the notes to `paddAndRefLinks` function. This will iterate over most the sys_number records to find possible records, do a get against possible record and if found rewrite the entry either a link.
+So the way this currently works is if a `sys_journal_field` record is
+created or updated, then verify the field is a journal type. Then pass
+the value of the notes to `paddAndRefLinks` function. This will iterate
+over most the sys\_number records to find possible records, do a get
+against possible record and if found rewrite the entry either a link.
 
-The only places I’ve seen this not work well.
+The only places I've seen this not work well.
 
-1. Virtual task boards don’t handle [code] tags well if the second tag is cut off from the display.
-1. If you insert knowledge into comments it prepends and appends the [code] tags. I don’t account for this in the script
+1.  Virtual task boards don't handle \[code\] tags well if the second
+    tag is cut off from the display.
+2.  If you insert knowledge into comments it prepends and appends the
+    \[code\] tags. I don't account for this in the script
 
 Below is the script.
 
-```js
+``` {.js}
 /*Business Rule: Automagically Link*/
 /*Table: sys_journal_field*/
 /*When: After*/

@@ -1,19 +1,17 @@
 ---
-title: XMLNodeIterator
-
-
-layout: post
-date: 2018-08-16 22:01:17 +0000
-tags:
-- server-side-api
-url: "/xmlnodeiterator/"
 aliases:
-- "/XMLNodeIterator/"
+- '/XMLNodeIterator/'
+date: '2018-08-16 22:01:17 +0000'
+layout: page
+tags:
+- 'server-side-api'
+title: XMLNodeIterator
+url: '/xmlnodeiterator/'
 ---
-# XMLNodeIterator
-<!--more-->
 
-| Property/Method | Description |
-| --- | --- |
-| next | Gets the next element in the iteration |
-| hasNext | Determines if the iteration has more elements |
+# XMLNodeIterator
+
+| Property/Method | Description                                   |
+|-----------------|-----------------------------------------------|
+| next            | Gets the next element in the iteration        |
+| hasNext         | Determines if the iteration has more elements |

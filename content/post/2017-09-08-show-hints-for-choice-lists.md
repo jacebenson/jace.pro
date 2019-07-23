@@ -1,22 +1,20 @@
 ---
-title: Show Hints for choice lists
 date: '2017-09-08'
+keywords:
+- hints
 layout: post
 tags:
- - client side api
- - server side
-keywords:
-- "hints"
+- client side api
+- server side
+title: Show Hints for choice lists
 ---
 
-The other day I was asked to show hints in a more obvious way on a form.  This 
-was my suggestion.  Using the hint field on the sys_choice table.  Just have a 
-client script onChange check for the value, if one is set, clear the message 
-for this field, and show the newly found message.
+The other day I was asked to show hints in a more obvious way on a form.
+This was my suggestion. Using the hint field on the sys\_choice table.
+Just have a client script onChange check for the value, if one is set,
+clear the message for this field, and show the newly found message.
 
-<!--more-->
-
-```js
+``` {.js}
 //script include global.choiceUtil
 //client callable true
 var choiceUtil = Class.create();
@@ -45,7 +43,7 @@ choiceUtil.prototype = Object.extendsObject(AbstractAjaxProcessor, {
 });
 ```
 
-```js
+``` {.js}
 function onChange(control, oldValue, newValue, isLoading, isTemplate) {
     if (isLoading || newValue === '') {
         return;

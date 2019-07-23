@@ -1,31 +1,31 @@
 ---
-title: Validating Phone numbers
-date: 2017-09-25
+date: '2017-09-25'
+keywords:
+- client script
+- valid
 layout: post
 tags:
- - client side api
-keywords:
-- "client script"
-- "valid"
+- client side api
+title: Validating Phone numbers
 ---
-There is no "phone" type of variable, so to validate this we'll have to manually do it.
 
-<!--more-->
+There is no "phone" type of variable, so to validate this we'll have to
+manually do it.
 
 There are two real ways to verify the data meets the needs you have.
 
-1. Client script to do entire validation
-1. Client script to ask servier if data is valid
+1.  Client script to do entire validation
+2.  Client script to ask servier if data is valid
 
-This will use all client-side validation.
-I set up a config variable where you need to;
+This will use all client-side validation. I set up a config variable
+where you need to;
 
-- Specify the field to check
-- Specify how long you need the number to be without non-digits
-- Specify the error that will appear
-- Specify how the number should be broken up
+-   Specify the field to check
+-   Specify how long you need the number to be without non-digits
+-   Specify the error that will appear
+-   Specify how the number should be broken up
 
-```js
+``` {.js}
 function onChange(control, oldValue, newValue, isLoading) {
     var config = {
         field: 'phone',

@@ -1,21 +1,21 @@
 ---
-title: Create Item from Script
-date: 2018-05-12
+date: '2018-05-12'
 layout: post
 tags:
- - script
+- script
+title: Create Item from Script
 ---
 
-I made this a while ago to save me some time of having to interact with the GUI.
-Works well enough, and will get updates to become a scoped app or script include...  
+I made this a while ago to save me some time of having to interact with
+the GUI. Works well enough, and will get updates to become a scoped app
+or script include...\
 At this time it's a start.
 
-<!--more-->
+Toss it in a fix script and adjust the bottom to your details while in
+the correct scope/update set. Then you just have to figure out
+containers.
 
-Toss it in a fix script and adjust the bottom to your details while in the correct scope/update set.
-Then you just have to figure out containers.
-
-```js
+``` {.js}
 function createCatalog(name) {
     /*
      * Expecting a string (name)

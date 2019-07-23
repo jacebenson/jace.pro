@@ -1,23 +1,24 @@
 ---
-title: Set Duration and Business Duration
-date: 2017-10-13
+aliases:
+- '/set-duration-and-business-duration/'
+date: '2017-10-13'
 layout: post
 tags:
 - missing ootb
 - server side
-aliases:
-- "/set-duration-and-business-duration/"
-
+title: Set Duration and Business Duration
 ---
-You'd think these would be set on all tasks the same way.  Turns out it's not.
 
-I recently had to add some code to set this for some reporting needs but really, this should be part of the offering Servicenow provides.
+You'd think these would be set on all tasks the same way. Turns out it's
+not.
 
-<!--more-->
+I recently had to add some code to set this for some reporting needs but
+really, this should be part of the offering Servicenow provides.
 
-Below is my business rule, and fix script to catch new records and fix old records.
+Below is my business rule, and fix script to catch new records and fix
+old records.
 
-```js
+``` {.js}
 // Business Rule
 // Table: Task [task]
 // Active: true
@@ -43,7 +44,7 @@ current.business_duration = gs.calDateDiff(opened, closed, false);
 
 Here's my fix script.
 
-```js
+``` {.js}
 var log = 'calc. old durations';
 var query = '';
 query += 'calendar_durationISEMPTY^';
@@ -69,5 +70,4 @@ while(task.next()){
     task.autoSysFields(false);
     task.update();
 }
-
 ```

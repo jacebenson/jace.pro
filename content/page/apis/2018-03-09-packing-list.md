@@ -1,16 +1,12 @@
 ---
-
 date: '2018-03-09'
 layout: post
-
 tags:
- - other
-title: 'Packing List'
+- other
+title: Packing List
 ---
-# Packing List
 
-<form class="form-horizontal">
-    <fieldset>
+# Packing List
 
         <!-- Form Name -->
         <div class="container">
@@ -208,4 +204,3 @@ title: 'Packing List'
                 </div>
             </div>
     </fieldset>
-</form>

@@ -1,21 +1,19 @@
 ---
-title: Recordless Rest Message
-date: 2018-08-16
-
-
-
-layout: post
-tags:
- - server-side-api
-url: "/rest/"
 aliases:
-- "/rest/"
-- "/Outbound-REST-Message-Example/"
+- '/rest/'
+- '/Outbound-REST-Message-Example/'
+date: '2018-08-16'
+layout: page
+tags:
+- 'server-side-api'
+title: Recordless Rest Message
+url: '/rest/'
 ---
-I often use the recordless rest calls to test things.  I didn’t see it  on my blog, so here’s an example so I can find it in the future.  
-<!--more-->
 
-```js
+I often use the recordless rest calls to test things. I didn't see it on
+my blog, so here's an example so I can find it in the future.\
+
+``` {.js}
     var instance = "dev40379";
     var requestBody = {
         short_description: "test incident"

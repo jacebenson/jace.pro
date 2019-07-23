@@ -1,17 +1,18 @@
 ---
-title:  Mermaid JS to render workflows
-date:   2018-10-04
+date: '2018-10-04'
 layout: post
+title: Mermaid JS to render workflows
 ---
 
-The other day I was looking at my mermaidjs flows and wanted to see how they would render a servicenow workflow.
+The other day I was looking at my mermaidjs flows and wanted to see how
+they would render a servicenow workflow.
 
-I created a UI page to do this, you just have to pass it a context `sys_id` today but this could be improved.
-<!--more-->
+I created a UI page to do this, you just have to pass it a context
+`sys_id` today but this could be improved.
 
 ## UI Action
 
-```js
+``` {.js}
 /*
 Name: Show Mermaid
 Table: Workflow Context[wf_context]
@@ -24,12 +25,13 @@ function showWorkflowContextMermaid() {
     var url = new GlideURL('/mermaid.do');
     url.addParam('sysparm_stack', 'no');
     url.addParam('context', id);
-	g_navigation.open(url.getURL(), "_blank");
+    g_navigation.open(url.getURL(), "_blank");
 }
 ```
 
 ## UI Page
-```xml
+
+``` {.xml}
 <?xml version="1.0" encoding="utf-8" ?>
 <j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
 <body>
@@ -65,10 +67,10 @@ gs.info(query);
   graph TD
   ${output}
   </div>
-	<div class="hidden">
-	  graph TD
-	  ${output}
-	</div>
+    <div class="hidden">
+      graph TD
+      ${output}
+    </div>
 <script src="https://unpkg.com/mermaid@7.1.0/dist/mermaid.js" />
 <script>
 // mermaid.initialize({startOnLoad:true});
@@ -79,61 +81,58 @@ gs.info(query);
 
 ## Example Graph
 
-
-{{<mermaid align="center">}}
-graph TD
-e233b949cb020200d71cb9c0c24c9c1f(Begin)
-e233b949cb020200d71cb9c0c24c9c1f--Always-->2e33b949cb020200d71cb9c0c24c9c20
+{{}} graph TD e233b949cb020200d71cb9c0c24c9c1f(Begin)
+e233b949cb020200d71cb9c0c24c9c1f--Always--\>2e33b949cb020200d71cb9c0c24c9c20
 2e33b949cb020200d71cb9c0c24c9c5a(Approve)
-2e33b949cb020200d71cb9c0c24c9c5a--Always-->2e33b949cb020200d71cb9c0c24c9c22
-2633b949cb020200d71cb9c0c24c9c1e(Set state to New and approval to rejected)
-2633b949cb020200d71cb9c0c24c9c1e--Always-->a233b949cb020200d71cb9c0c24c9c20
+2e33b949cb020200d71cb9c0c24c9c5a--Always--\>2e33b949cb020200d71cb9c0c24c9c22
+2633b949cb020200d71cb9c0c24c9c1e(Set state to New and approval to
+rejected)
+2633b949cb020200d71cb9c0c24c9c1e--Always--\>a233b949cb020200d71cb9c0c24c9c20
 a233b949cb020200d71cb9c0c24c9c20(Disassociate approval records)
-a233b949cb020200d71cb9c0c24c9c20--Always-->2e33b949cb020200d71cb9c0c24c9c20
+a233b949cb020200d71cb9c0c24c9c20--Always--\>2e33b949cb020200d71cb9c0c24c9c20
 2e33b949cb020200d71cb9c0c24c9c20(Change moves to Assess)
-2e33b949cb020200d71cb9c0c24c9c20--Always-->6e33b949cb020200d71cb9c0c24c9c1f
+2e33b949cb020200d71cb9c0c24c9c20--Always--\>6e33b949cb020200d71cb9c0c24c9c1f
 2e33b949cb020200d71cb9c0c24c9c22(Move to Scheduled)
-2e33b949cb020200d71cb9c0c24c9c22--Always-->a633b949cb020200d71cb9c0c24c9c1f
+2e33b949cb020200d71cb9c0c24c9c22--Always--\>a633b949cb020200d71cb9c0c24c9c1f
 6e33b949cb020200d71cb9c0c24c9c1f(Requested)
-6e33b949cb020200d71cb9c0c24c9c1f--Always-->2a33b949cb020200d71cb9c0c24c9c26
+6e33b949cb020200d71cb9c0c24c9c1f--Always--\>2a33b949cb020200d71cb9c0c24c9c26
 a633b949cb020200d71cb9c0c24c9c1f(Change moves to Implement)
-a633b949cb020200d71cb9c0c24c9c1f--Always-->e233b949cb020200d71cb9c0c24c9c21
+a633b949cb020200d71cb9c0c24c9c1f--Always--\>e233b949cb020200d71cb9c0c24c9c21
 ac53b949cb020200d71cb9c0c24c9c7e(Reset the approvals)
-ac53b949cb020200d71cb9c0c24c9c7e--Always-->6e33b949cb020200d71cb9c0c24c9c1f
+ac53b949cb020200d71cb9c0c24c9c7e--Always--\>6e33b949cb020200d71cb9c0c24c9c1f
 6233b949cb020200d71cb9c0c24c9c23(Wait for On hold to be false)
-6233b949cb020200d71cb9c0c24c9c23--Always-->ac53b949cb020200d71cb9c0c24c9c7e
+6233b949cb020200d71cb9c0c24c9c23--Always--\>ac53b949cb020200d71cb9c0c24c9c7e
 e233b949cb020200d71cb9c0c24c9c21(Branch)
-e233b949cb020200d71cb9c0c24c9c21--Always-->2a33b949cb020200d71cb9c0c24c9c23
-e233b949cb020200d71cb9c0c24c9c21--Always-->2e33b949cb020200d71cb9c0c24c9c1d
+e233b949cb020200d71cb9c0c24c9c21--Always--\>2a33b949cb020200d71cb9c0c24c9c23
+e233b949cb020200d71cb9c0c24c9c21--Always--\>2e33b949cb020200d71cb9c0c24c9c1d
 2a33b949cb020200d71cb9c0c24c9c26(Technical approvals)
-2a33b949cb020200d71cb9c0c24c9c26--Approved-->6233b949cb020200d71cb9c0c24c9c5b
-2a33b949cb020200d71cb9c0c24c9c26--Rejected-->a233b949cb020200d71cb9c0c24c9c5c
+2a33b949cb020200d71cb9c0c24c9c26--Approved--\>6233b949cb020200d71cb9c0c24c9c5b
+2a33b949cb020200d71cb9c0c24c9c26--Rejected--\>a233b949cb020200d71cb9c0c24c9c5c
 6233b949cb020200d71cb9c0c24c9c5b(Check if Change is On hold)
-6233b949cb020200d71cb9c0c24c9c5b--Yes-->6233b949cb020200d71cb9c0c24c9c23
-6233b949cb020200d71cb9c0c24c9c5b--No-->e633b949cb020200d71cb9c0c24c9c20
+6233b949cb020200d71cb9c0c24c9c5b--Yes--\>6233b949cb020200d71cb9c0c24c9c23
+6233b949cb020200d71cb9c0c24c9c5b--No--\>e633b949cb020200d71cb9c0c24c9c20
 a233b949cb020200d71cb9c0c24c9c5c(Rejection notification)
-a233b949cb020200d71cb9c0c24c9c5c--Always-->2633b949cb020200d71cb9c0c24c9c1e
+a233b949cb020200d71cb9c0c24c9c5c--Always--\>2633b949cb020200d71cb9c0c24c9c1e
 2a33b949cb020200d71cb9c0c24c9c23(Change request - Normal change tasks)
-2a33b949cb020200d71cb9c0c24c9c23--Always-->e633b949cb020200d71cb9c0c24c9c22
+2a33b949cb020200d71cb9c0c24c9c23--Always--\>e633b949cb020200d71cb9c0c24c9c22
 2e33b949cb020200d71cb9c0c24c9c1d(Change moves to Review)
-2e33b949cb020200d71cb9c0c24c9c1d--Always-->a633b949cb020200d71cb9c0c24c9c21
+2e33b949cb020200d71cb9c0c24c9c1d--Always--\>a633b949cb020200d71cb9c0c24c9c21
 e633b949cb020200d71cb9c0c24c9c20(Move to Authorize)
-e633b949cb020200d71cb9c0c24c9c20--Always-->2233b949cb020200d71cb9c0c24c9c24
+e633b949cb020200d71cb9c0c24c9c20--Always--\>2233b949cb020200d71cb9c0c24c9c24
 ea33b949cb020200d71cb9c0c24c9c5b(Wait for On hold to be false)
-ea33b949cb020200d71cb9c0c24c9c5b--Always-->cef33d49cb020200d71cb9c0c24c9c08
+ea33b949cb020200d71cb9c0c24c9c5b--Always--\>cef33d49cb020200d71cb9c0c24c9c08
 cef33d49cb020200d71cb9c0c24c9c08(Reset the approvals)
-cef33d49cb020200d71cb9c0c24c9c08--Always-->2233b949cb020200d71cb9c0c24c9c24
+cef33d49cb020200d71cb9c0c24c9c08--Always--\>2233b949cb020200d71cb9c0c24c9c24
 e633b949cb020200d71cb9c0c24c9c22(Move to Review)
-e633b949cb020200d71cb9c0c24c9c22--Always-->a633b949cb020200d71cb9c0c24c9c21
+e633b949cb020200d71cb9c0c24c9c22--Always--\>a633b949cb020200d71cb9c0c24c9c21
 2233b949cb020200d71cb9c0c24c9c24(CAB approval)
-2233b949cb020200d71cb9c0c24c9c24--Approved-->6a33b949cb020200d71cb9c0c24c9c1e
-2233b949cb020200d71cb9c0c24c9c24--Rejected-->2a33b949cb020200d71cb9c0c24c9c21
+2233b949cb020200d71cb9c0c24c9c24--Approved--\>6a33b949cb020200d71cb9c0c24c9c1e
+2233b949cb020200d71cb9c0c24c9c24--Rejected--\>2a33b949cb020200d71cb9c0c24c9c21
 2a33b949cb020200d71cb9c0c24c9c21(Rejection notification)
-2a33b949cb020200d71cb9c0c24c9c21--Always-->2633b949cb020200d71cb9c0c24c9c1e
+2a33b949cb020200d71cb9c0c24c9c21--Always--\>2633b949cb020200d71cb9c0c24c9c1e
 6a33b949cb020200d71cb9c0c24c9c1e(Check if Change is On hold)
-6a33b949cb020200d71cb9c0c24c9c1e--No-->2e33b949cb020200d71cb9c0c24c9c5a
-6a33b949cb020200d71cb9c0c24c9c1e--Yes-->ea33b949cb020200d71cb9c0c24c9c5b
+6a33b949cb020200d71cb9c0c24c9c1e--No--\>2e33b949cb020200d71cb9c0c24c9c5a
+6a33b949cb020200d71cb9c0c24c9c1e--Yes--\>ea33b949cb020200d71cb9c0c24c9c5b
 a633b949cb020200d71cb9c0c24c9c21(End)
 
-{{< /mermaid >}}
-![mermaidjs-wf-1.png](/uploads/mermaidjs-wf-1.png)
+{{\< /mermaid \>}} ![mermaidjs-wf-1.png](/uploads/mermaidjs-wf-1.png)

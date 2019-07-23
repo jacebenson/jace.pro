@@ -1,216 +1,170 @@
 ---
-title: GlideForm
-date: 2016-01-01
-layout: page
-url: "/g_form/"
-tags:
-- client-side-api
 aliases:
-- "/glideform/"
-- "/GlideForm/"
+- '/glideform/'
+- '/GlideForm/'
+date: '2016-01-01'
 keywords:
-- "activateTab"
-- "addAttribute"
-- "addDecoration"
-- "addErrorMessage"
-- "addGlideUIElement"
-- "addInfoMessage"
-- "addNameMapEntry"
-- "addOption"
-- "addSecurityReadOnlyFields"
-- "addValidator"
-- "addWarningMessage"
-- "allChangedFieldsFilter"
-- "changedFieldsFilter"
-- "changeElementParent"
-- "changeElementStyle"
-- "clearMessages"
-- "clearOptions"
-- "clearValue"
-- "disable"
-- "disableAttachments"
-- "enable"
-- "enableAttachments"
-- "enableOption"
-- "enableUIPolicyFields"
-- "fieldChanged"
-- "findV"
-- "flash"
-- "getAction"
-- "getActionName"
-- "getBooleanValue"
-- "getControl"
-- "getControlByForm"
-- "getDecimalValue"
-- "getDerivedFields"
-- "getDisplayBox"
-- "getDisplayValue"
-- "getEditableFields"
-- "getElement"
-- "getEncodedRecord"
-- "getField"
-- "getFieldNames"
-- "getFormElement"
-- "getGlideUIElement"
-- "getHelpTextControl"
-- "getIntValue"
-- "getLabel"
-- "getLabelOf"
-- "getMissingFields"
-- "getNiBox"
-- "getOption"
-- "getOptionControl"
-- "getParameter"
-- "getPrefixHandler"
-- "getReference"
-- "getRelatedListNames"
-- "getScope"
-- "getSectionNames"
-- "getSections"
-- "getSysId"
-- "getTableName"
-- "getTabNameForField"
-- "getTitle"
-- "getUniqueValue"
-- "getValue"
-- "getViewName"
-- "hasAttribute"
-- "hasField"
-- "hasFieldMsgs"
-- "hideAllFieldMsgs"
-- "hideErrorBox"
-- "hideFieldMsg"
-- "hideRelatedList"
-- "hideRelatedLists"
-- "isDatabaseView"
-- "isDisabled"
-- "isDisplayNone"
-- "isEditableField"
-- "isInteger"
-- "isLiveUpdating"
-- "isMandatory"
-- "isNewRecord"
-- "isNumeric"
-- "isReadOnly"
-- "isSectionVisible"
-- "isTemplateCompatible"
-- "isUserPersonalizedField"
-- "isVisible"
-- "mandatoryCheck"
-- "onSubmit"
-- "registerHandler"
-- "registerPrefixHandler"
-- "removeAllDecorations"
-- "removeContextItem"
-- "removeCurrentPrefix"
-- "refreshSlushbucket"
-- "removeDecoration"
-- "removeItem"
-- "removeOption"
-- "resetPersonalizeHiddenFields"
-- "resolveLabelNameMap"
-- "resolveNameMap"
-- "resolvePrettyNameMap"
-- "save"
-- "serialize"
-- "serializeChanged"
-- "serializeChangedAll"
-- "serializeTargetFields"
-- "setAction"
-- "setDisabled"
-- "setDisabledControl"
-- "setDisplay"
-- "setFieldPlaceholder"
-- "place holder"
-- "setLabel"
-- "setLabelOf"
-- "setLiveUpdating"
-- "setMandatory"
-- "setMandatoryOnlyIfModified"
-- "setReadOnly"
-- "setReadonly"
-- "setRequiredChecked"
-- "setScope"
-- "setSectionDisplay"
-- "setSensitiveDisplayValue"
-- "setStreamJournalFieldsDisplay"
-- "setTemplateValue"
-- "setUserDisplay"
-- "setValidation"
-- "setValue"
-- "setVariablesReadOnly"
-- "setVisible"
-- "showErrorBox"
-- "showFieldMsg"
-- "showRelatedList"
-- "showRelatedLists"
-- "submit"
-- "validate"
+- activateTab
+- addAttribute
+- addDecoration
+- addErrorMessage
+- addGlideUIElement
+- addInfoMessage
+- addNameMapEntry
+- addOption
+- addSecurityReadOnlyFields
+- addValidator
+- addWarningMessage
+- allChangedFieldsFilter
+- changedFieldsFilter
+- changeElementParent
+- changeElementStyle
+- clearMessages
+- clearOptions
+- clearValue
+- disable
+- disableAttachments
+- enable
+- enableAttachments
+- enableOption
+- enableUIPolicyFields
+- fieldChanged
+- findV
+- flash
+- getAction
+- getActionName
+- getBooleanValue
+- getControl
+- getControlByForm
+- getDecimalValue
+- getDerivedFields
+- getDisplayBox
+- getDisplayValue
+- getEditableFields
+- getElement
+- getEncodedRecord
+- getField
+- getFieldNames
+- getFormElement
+- getGlideUIElement
+- getHelpTextControl
+- getIntValue
+- getLabel
+- getLabelOf
+- getMissingFields
+- getNiBox
+- getOption
+- getOptionControl
+- getParameter
+- getPrefixHandler
+- getReference
+- getRelatedListNames
+- getScope
+- getSectionNames
+- getSections
+- getSysId
+- getTableName
+- getTabNameForField
+- getTitle
+- getUniqueValue
+- getValue
+- getViewName
+- hasAttribute
+- hasField
+- hasFieldMsgs
+- hideAllFieldMsgs
+- hideErrorBox
+- hideFieldMsg
+- hideRelatedList
+- hideRelatedLists
+- isDatabaseView
+- isDisabled
+- isDisplayNone
+- isEditableField
+- isInteger
+- isLiveUpdating
+- isMandatory
+- isNewRecord
+- isNumeric
+- isReadOnly
+- isSectionVisible
+- isTemplateCompatible
+- isUserPersonalizedField
+- isVisible
+- mandatoryCheck
+- onSubmit
+- registerHandler
+- registerPrefixHandler
+- removeAllDecorations
+- removeContextItem
+- removeCurrentPrefix
+- refreshSlushbucket
+- removeDecoration
+- removeItem
+- removeOption
+- resetPersonalizeHiddenFields
+- resolveLabelNameMap
+- resolveNameMap
+- resolvePrettyNameMap
+- save
+- serialize
+- serializeChanged
+- serializeChangedAll
+- serializeTargetFields
+- setAction
+- setDisabled
+- setDisabledControl
+- setDisplay
+- setFieldPlaceholder
+- place holder
+- setLabel
+- setLabelOf
+- setLiveUpdating
+- setMandatory
+- setMandatoryOnlyIfModified
+- setReadOnly
+- setReadonly
+- setRequiredChecked
+- setScope
+- setSectionDisplay
+- setSensitiveDisplayValue
+- setStreamJournalFieldsDisplay
+- setTemplateValue
+- setUserDisplay
+- setValidation
+- setValue
+- setVariablesReadOnly
+- setVisible
+- showErrorBox
+- showFieldMsg
+- showRelatedList
+- showRelatedLists
+- submit
+- validate
+layout: page
+tags:
+- 'client-side-api'
+title: GlideForm
+url: '/g\_form/'
 ---
+
 # g\_form aka GlideForm
 
-g\_form is used very heavily all over in ServiceNow.  
-As such it has a lot of documented and undocumented functions.  
+g\_form is used very heavily all over in ServiceNow.\
+As such it has a lot of documented and undocumented functions.\
 Below I go over all of them;
-<!--more-->
 
-  - [Standard
+-   [Standard
     g\_form](https://docs.servicenow.com/bundle/kingston-application-development/page/app-store/dev_portal/API_reference/GlideForm/concept/c_GlideFormAPI.html)
-  - [Standard g\_form
+-   [Standard g\_form
     code](https://github.com/jacebenson/sndocs/blob/master/sources/jakarta/4/scripts/doctype/GlideForm14.js)
-  - [Mobile
+-   [Mobile
     g\_form](https://docs.servicenow.com/bundle/kingston-application-development/page/app-store/dev_portal/API_reference/MobileGlideForm/concept/c_MobileGlideForm_API.html)
-  - [Mobile g\_form
+-   [Mobile g\_form
     code](https://github.com/jacebenson/sndocs/blob/master/sources/jakarta/4/scripts/sn/common/clientScript/glideFormFactory.js)
 
-<!--Hiding underscore functions to reduce table size.-->
-
-<!--
-| _addDerivedWaiting                  | [Desktop](#addDerivedWaiting)              |                                       | No         |
-| _addDisabledField                   | [Desktop](#addDisabledField)               |                                       | No         |
-| _addFormMessage                     | [Desktop](#addFormMessage)                 |                                       | No         |
-| _checkModified                      | [Desktop](#checkModified)                  |                                       | No         |
-| _ensureDisplayValue                 | [Desktop](#ensureDisplayValue)             |                                       | No         |
-| _getDecorations                     | [Desktop](#getDecorations)                 |                                       | No         |
-| _getDecorationsEl                   | [Desktop](#getDecorationsEl)               |                                       | No         |
-| _getElementStyle                    | [Desktop](#getElementStyle)                |                                       | No         |
-| _getLabelEl                         | [Desktop](#getLabelEl)                     |                                       | No         |
-| _getLinkActionByAttribute           | [Desktop](#getLinkActionByAttribute)       |                                       | No         |
-| _getPersonalizeHiddenFields         | [Desktop](#getPersonalizeHiddenFields)     |                                       | No         |
-| _getRelatedListID                   | [Desktop](#getRelatedListID)               |                                       | No         |
-| _getSelectedIndex                   | [Desktop](#getSelectedIndex)               |                                       | No         |
-| _getTabNameForElement               | [Desktop](#getTabNameForElement)           |                                       | No         |
-| _getValueFromControl                | [Desktop](#getValueFromControl)            |                                       | No         |
-| _isDerivedWaiting                   | [Desktop](#isDerivedWaiting)               |                                       | No         |
-| _isMandatoryFieldEmpty              | [Desktop](#isMandatoryFieldEmpty)          |                                       | No         |
-| _isReadOnlyATF                      | [Desktop](#isReadOnlyATF)                  |                                       | No         |
-| _isVisibleATF                       | [Desktop](#isVisibleATF)                   |                                       | No         |
-| _opticsInspectorLog                 | [Desktop](#opticsInspectorLog)             |                                       | No         |
-| _positionCursorAtError              | [Desktop](#positionCursorAtError)          |                                       | No         |
-| _removeDerivedWaiting               | [Desktop](#removeDerivedWaiting)           |                                       | No         |
-| _removeDisabledField                | [Desktop](#removeDisabledField)            |                                       | No         |
-| _removeTableName                    | [Desktop](#removeTableName)                |                                       | No         |
-| _sanitizeFieldName                  | [Desktop](#sanitizeFieldName)              |                                       | No         |
-| _savePersonalizeHiddenFields        | [Desktop](#savePersonalizeHiddenFields)    |                                       | No         |
-| _scrollToElementTR                  | [Desktop](#scrollToElementTR)              |                                       | No         |
-| _serializeDisabled                  | [Desktop](#serializeDisabled)              |                                       | No         |
-| _serializeElement                   | [Desktop](#serializeElement)               |                                       | No         |
-| _setCaretPosition                   | [Desktop](#setCaretPosition)               |                                       | No         |
-| _setCaretPositionLineColumn         | [Desktop](#setCaretPositionLineColumn)     |                                       | No         |
-| _setDecorations                     | [Desktop](#setDecorations)                 |                                       | No         |
-| _setDisabledField                   | [Desktop](#setDisabledField)               |                                       | No         |
-| _setDisplay                         | [Desktop](#setDisplay)                     |                                       | No         |
-| _setFieldReadOnly                   | [Desktop](#setFieldReadOnly)               |                                       | No         |
-| _setReadonly                        | [Desktop](#setReadonly)                    |                                       | No         |
-| _setReadonly0                       | [Desktop](#setReadonly0)                   |                                       | No         |
-| _setReferenceSelect                 | [Desktop](#setReferenceSelect)             |                                       | No         |
-| _setValue                           | [Desktop](#setValue)                       |                                       | No         |
-| _tryLabelRow                        | [Desktop](#tryLabelRow)                    |                                       | No         |
-| _tryLabelRowElement                 | [Desktop](#tryLabelRowElement)             |                                       | No         |
--->
-
 | Property / Method             | Desktop                                   | Mobile/SP                             | Documented |
-| :---------------------------- | :---------------------------------------- | :------------------------------------ | :--------- |
+|:------------------------------|:------------------------------------------|:--------------------------------------|:-----------|
 | activateTab                   | [Desktop](#activatetab)                   |                                       | No         |
 | addAttribute                  | [Desktop](#addattribute)                  |                                       | No         |
 | addDecoration                 | [Desktop](#adddecoration)                 | [Mobile](#mobile-adddecoration)       | Both       |
@@ -263,7 +217,7 @@ Below I go over all of them;
 | getOption                     | [Desktop](#getoption)                     |                                       | Desktop    |
 | getOptionControl              | [Desktop](#getoptioncontrol)              |                                       | No         |
 | orderNow                      | [Desktop](#ordernow)                      |                                       | No         |
-| getField                      |                                           | [Mobile](#mobile-getfield)            | No            |
+| getField                      |                                           | [Mobile](#mobile-getfield)            | No         |
 | getParameter                  | [Desktop](#getparameter)                  |                                       | No         |
 | getPrefixHandler              | [Desktop](#getprefixhandler)              |                                       | No         |
 | getReference                  | [Desktop](#getreference)                  | [Mobile](#mobile-getreference)        | Desktop    |
@@ -352,8 +306,8 @@ Below I go over all of them;
 
 ## Mobile / Service Portal
 
-These methods I’ve found in the script that dictates it’s available on
-the portal/mobile clients.  
+These methods I've found in the script that dictates it's available on
+the portal/mobile clients.\
 At the time of this writing that is
 service-now.com[/scripts/sn/common/clientScript/glideFormFactory.js](https://github.com/jacebenson/sndocs/blob/master/sources/jakarta/4/scripts/sn/common/clientScript/glideFormFactory.js)
 
@@ -361,18 +315,19 @@ service-now.com[/scripts/sn/common/clientScript/glideFormFactory.js](https://git
 
 #### Mobile addDecoration
 
-Adds an icon on a field’s label. This method is available starting with
-the Fuji release.  Icons available
+Adds an icon on a field's label. This method is available starting with
+the Fuji release. Icons available
 [here](https://hi.service-now.com/styles/retina_icons/retina_icons.html)
-Adding the same item twice is prevented; however, you can add the same icon with a different title.
+Adding the same item twice is prevented; however, you can add the same
+icon with a different title.
 
-``` js
+``` {.js}
  g_form.addDecoration('caller_id', 'icon-star', 'VIP');
 ```
 
 #### Mobile getLabel
 
-``` js
+``` {.js}
  if (g_user.hasRole('itil')) {
     // getLabel returns the label for the field listed
     // I'd suggest using getLabelOf as it's supported
@@ -384,21 +339,21 @@ Adding the same item twice is prevented; however, you can add the same icon with
 
 #### Mobile hasField
 
-``` js
+``` {.js}
  // returns true if form has 'assignment group';
  g_form.hasField('assignment_group');
 ```
 
 #### Mobile removeDecoration
 
-``` js
+``` {.js}
  // this removes a decoration
  g_form.removeDecoration('caller_id', 'icon-star', 'VIP');
 ```
 
 #### Mobile setLabel
 
-``` js
+``` {.js}
  if (g_user.hasRole('itil')) {
     var oldLabel = g_form.getLabel('comments');
     g_form.setLabel('comments', oldLabel + ' (Customer visible)');
@@ -411,7 +366,7 @@ Adding the same item twice is prevented; however, you can add the same icon with
 
 Displays an error message at the top of the form
 
-``` js
+``` {.js}
  g_form.addErrorMessage('ERROR!');
 ```
 
@@ -419,18 +374,18 @@ Displays an error message at the top of the form
 
 Displays an informational message at the top of the form
 
-``` js
+``` {.js}
  g_form.addInfoMessage('The top five fields in this form are mandatory');
 ```
 
 #### Mobile addOption
 
-Adds a choice to a choice list field If the index is not specified,
-the choice is added to the end of the list.
+Adds a choice to a choice list field If the index is not specified, the
+choice is added to the end of the list.
 
 Optional: Use the index field to specify a particular place in the list
 
-``` js
+``` {.js}
  g_form.addOption('priority', '6', '6 - Really Low');
  g_form.addOption('priority', '2.5', '2.5 - Moderately High', 3);
 ```
@@ -442,7 +397,7 @@ Removes all informational and error messages from the top of the form.
 Removes informational and error messages added with
 `g_form.addInfoMessage()` and `g_form.addErrorMessage()`.
 
-``` js
+``` {.js}
  g_form.clearMessages();
 ```
 
@@ -450,7 +405,7 @@ Removes informational and error messages added with
 
 Removes all options from a choice list
 
-``` js
+``` {.js}
  g_form.clearOptions('priority');
 ```
 
@@ -458,15 +413,16 @@ Removes all options from a choice list
 
 Removes any value(s) from the specified field
 
-```js
+``` {.js}
 g_form.clearValue('short_desciption');
 ```
 
 #### Mobile getActionName
 
-Returns the most recent action name or, for a client script, the sys\_id of the UI Action clicked Note: not available to Wizard Client Scripts
+Returns the most recent action name or, for a client script, the sys\_id
+of the UI Action clicked Note: not available to Wizard Client Scripts
 
-``` js
+``` {.js}
  function onSubmit() {
    var action = g_form.getActionName();
    console.log('You pressed ' + action);
@@ -475,9 +431,11 @@ Returns the most recent action name or, for a client script, the sys\_id of the 
 
 #### Mobile getBooleanValue
 
-Returns false if the field’s value is false or undefined, otherwise true is returned. Useful with checkbox fields Returns true when the checkbox is checked
+Returns false if the field's value is false or undefined, otherwise true
+is returned. Useful with checkbox fields Returns true when the checkbox
+is checked
 
-``` js
+``` {.js}
  // Returns false if the field value is false or undefined;
  // otherwise returns true.
  var active = g_form.getBooleanValue('active');
@@ -485,7 +443,7 @@ Returns false if the field’s value is false or undefined, otherwise true is re
 
 #### Mobile getDecimalValue
 
-``` js
+``` {.js}
  function onChange(control, oldValue, newValue, isLoading) {
    console.log(g_form.getDecimalValue('percent_complete'));
  }
@@ -493,44 +451,46 @@ Returns false if the field’s value is false or undefined, otherwise true is re
 
 #### Mobile getDisplayValue
 
-``` js
+``` {.js}
  g_form.getDisplayValue();//returns record displayvalue, not field displayvalue
  g_form.getDispalyValue('caller_id');//returns record displayvalue, not field displayvalue
 ```
 
 #### Mobile getEncodedRecord
 
-``` js
+``` {.js}
  // returns '' or _options.encodedRecord normally that's null
  // I don't see when that would be set to something else.  Doesn't
  // seem to work on catalog items, or on form's in service portal.
  g_form.getEncodedRecord();
 ```
+
 #### Mobile getField
 
-This is undocumented and I havent been able to find or test this yet, however it comes from this source;
-[https://community.servicenow.com/community?id=community_question&sys_id=2a151ed0db262b4011762183ca961957$answer_fe97e3bfdb4ef304f21f5583ca961964#answer_fe97e3bfdb4ef304f21f5583ca961964](https://community.servicenow.com/community?id=community_question&sys_id=2a151ed0db262b4011762183ca961957$answer_fe97e3bfdb4ef304f21f5583ca961964#answer_fe97e3bfdb4ef304f21f5583ca961964)
+This is undocumented and I havent been able to find or test this yet,
+however it comes from this source;
+<https://community.servicenow.com/community?id=community_question&sys_id=2a151ed0db262b4011762183ca961957$answer_fe97e3bfdb4ef304f21f5583ca961964#answer_fe97e3bfdb4ef304f21f5583ca961964>
 
-``` js
+``` {.js}
 // this code is to limit a multirowvariableset to two rows
 function onLoad() {
-	var field = g_form.getField("uk_billing_invoice_details_new");
-	if (field != null) {
-		field.max_rows_size = 2;
-	}
+    var field = g_form.getField("uk_billing_invoice_details_new");
+    if (field != null) {
+        field.max_rows_size = 2;
+    }
 }
 ```
 
 #### Mobile getFieldNames
 
-``` js
+``` {.js}
  g_form.getFieldNames();
  // returns array of strings of fields (and derived fields)
 ```
 
 #### Mobile getIntValue
 
-``` js
+``` {.js}
  function onChange(control, oldValue, newValue, isLoading) {
    console.log(g_form.getIntValue('state'));
  }
@@ -538,7 +498,7 @@ function onLoad() {
 
 #### Mobile getLabelOf
 
-``` js
+``` {.js}
  if (g_user.hasRole('itil')) {
     var oldLabel = g_form.getLabelOf('comments');
     g_form.setLabelOf('comments', oldLabel + ' (Customer visible)');
@@ -547,7 +507,7 @@ function onLoad() {
 
 #### Mobile getReference
 
-``` js
+``` {.js}
  function onChange(control, oldValue, newValue, isLoading) {
    var caller = g_form.getReference('caller_id', function(reference){
        if (reference.vip == 'true') {
@@ -559,7 +519,7 @@ function onLoad() {
 
 #### Mobile getRelatedListNames
 
-``` js
+``` {.js}
  // Returns all related table.refernce related lists
  // This is in the form of an array of strings.
  g_form.getRelatedListNames();
@@ -567,7 +527,7 @@ function onLoad() {
 
 #### Mobile getSectionNames
 
-``` js
+``` {.js}
  // Returns all section names, whether visible or not.
  // This is in the form of an array of strings.
  g_form.getSectionNames();
@@ -575,7 +535,7 @@ function onLoad() {
 
 #### Mobile getSysId
 
-``` js
+``` {.js}
  function onLoad() {
     var incSysid = g_form.getSysId();
     console.log(incSysid);
@@ -584,7 +544,7 @@ function onLoad() {
 
 #### Mobile getTableName
 
-``` js
+``` {.js}
  function onLoad() {
     if (g_form.isNewRecord() {
          var tableName = g_form.getTableName(); //Get the table name
@@ -594,7 +554,7 @@ function onLoad() {
 
 #### Mobile getUniqueValue
 
-``` js
+``` {.js}
  function onLoad() {
     var incSysid = g_form.getUniqueValue();
     console.log(incSysid);
@@ -603,7 +563,7 @@ function onLoad() {
 
 #### Mobile getValue
 
-``` js
+``` {.js}
  function onSubmit() {
    if (g_form.getValue('source') == "url"){
        return true;
@@ -613,7 +573,7 @@ function onLoad() {
 
 #### Mobile getViewName
 
-``` js
+``` {.js}
  // Returns the view name
  // Doesn't seem to work on service portal
  g_form.getViewName();
@@ -621,14 +581,14 @@ function onLoad() {
 
 #### Mobile hideAllFieldMsgs
 
-``` js
+``` {.js}
  // Hides all field messages.
  g_form.hideAllFieldMsgs();
 ```
 
 #### Mobile hideErrorBox
 
-``` js
+``` {.js}
  // Hides the error message placed by showErrorBox().
  // Whenever possible, use hideFieldMsg() rather
  // than this method whenever possible.
@@ -637,14 +597,14 @@ function onLoad() {
 
 #### Mobile hideFieldMsg
 
-``` js
+``` {.js}
  g_form.hideFieldMsg('priority', false);//hides last message
  g_form.hideFieldMsg('priority', true);//hides all messages
 ```
 
 #### Mobile hideRelatedList
 
-``` js
+``` {.js}
 // This method is not available on the mobile platform.
 // If this method is run on a mobile platform, no action occurs.
 function onChange(control, oldValue, newValue, isLoading, isTemplate) {
@@ -665,7 +625,7 @@ function onChange(control, oldValue, newValue, isLoading, isTemplate) {
 
 #### Mobile hideRelatedLists
 
-``` js
+``` {.js}
  // This method is not available on the mobile platform.
  // If this method is run on a mobile platform, no action occurs.
  function onChange(control, oldValue, newValue, isLoading, isTemplate) {
@@ -686,48 +646,48 @@ function onChange(control, oldValue, newValue, isLoading, isTemplate) {
 
 #### Mobile isMandatory
 
-``` js
+``` {.js}
  // Returns true or false if field is mandatory.
  var isPriorityMandatory = g_form.isMandatory('priority');
 ```
 
 #### Mobile isNewRecord
 
-``` js
+``` {.js}
  // returns true if record has a sys_id of -1
  g_form.isNewRecord();
 ```
 
 #### Mobile isReadOnly
 
-``` js
+``` {.js}
  // returns true if field is read only
  g_form.isReadOnly('stage');
 ```
 
 #### Mobile isVisible
 
-``` js
+``` {.js}
  // returns true if field is visible
  g_form.isReadOnly('stage');
 ```
 
 #### Mobile removeOption
 
-``` js
+``` {.js}
  g_form.removeOption('field','value');
 ```
 
 #### Mobile save
 
-``` js
+``` {.js}
  // doesn't appear to work on service portal id=form
  // depends on g_form.submit
 ```
 
 #### Mobile serialize
 
-``` js
+``` {.js}
  // expects true/false
  // true = only "dirty" fields
  var serializedArr = g_form.serialize(false);
@@ -735,49 +695,49 @@ function onChange(control, oldValue, newValue, isLoading, isTemplate) {
 
 #### Mobile setDisabled
 
-``` js
+``` {.js}
  g_form.setDisabled('quantity',true);// changes field to disabled or not
 ```
 
 #### Mobile setDisplay
 
-``` js
+``` {.js}
  g_form.setDisplay('quantity',true);// changes field to displayed or not
 ```
 
 #### Mobile setFieldPlaceholder
 
-``` js
+``` {.js}
 g_form.setFieldPlaceholder('field','placeholder');
 ```
 
 #### Mobile setLabelOf
 
-``` js
+``` {.js}
  g_form.setLabelOf('stage','My custom stage');
 ```
 
 #### Mobile setMandatory
 
-``` js
+``` {.js}
 g_form.setMandatory('quantity',true);// changes field to required or not
 ```
 
 #### Mobile setReadOnly
 
-``` js
+``` {.js}
  g_form.setReadOnly('stage',false);// changes field to read only or not
 ```
 
 #### Mobile setReadonly
 
-``` js
+``` {.js}
  g_form.setReadonly('stage',false);// changes field to read only or not
 ```
 
 #### Mobile setSectionDisplay
 
-``` js
+``` {.js}
  // not sure how to test, depends on _options.sections which aren't set most the time
  // i'd guess it's called like this;
  g_form.setSectionDisplay();
@@ -785,13 +745,13 @@ g_form.setMandatory('quantity',true);// changes field to required or not
 
 #### Mobile setValue
 
-``` js
+``` {.js}
 g_form.setValue('quantity','10');// sets the value to 10
 ```
 
 #### Mobile setVisible
 
-``` js
+``` {.js}
 function onLoad() {
   if(this.location.pathname === "/support"){
     try{
@@ -819,18 +779,17 @@ function onLoad() {
 
 #### Mobile showErrorBox
 
-The `showErrorBox()` and `hideErrorBox()` are still available 
-but simply call the new methods with type of error. You should 
-use the new methods.
+The `showErrorBox()` and `hideErrorBox()` are still available but simply
+call the new methods with type of error. You should use the new methods.
 
-``` js
+``` {.js}
   var scroll = true;
   g_form.showErrorBox('field','message',scroll);
 ```
 
 #### Mobile showFieldMsg
 
-``` js
+``` {.js}
  // parameters are;
  // field, string, info||error, scrollToField
  g_form.showFieldMsg('stage', 'text info', 'info', false);
@@ -839,7 +798,7 @@ use the new methods.
 
 #### Mobile showRelatedList
 
-``` js
+``` {.js}
 function onChange(control, oldValue, newValue, isLoading, isTemplate) {
   if (isLoading || newValue === '') {
     return;
@@ -858,7 +817,7 @@ function onChange(control, oldValue, newValue, isLoading, isTemplate) {
 
 #### Mobile showRelatedLists
 
-``` js
+``` {.js}
  function onChange(control, oldValue, newValue, isLoading, isTemplate) {
    if (isLoading || newValue === '') {
       return;
@@ -877,7 +836,7 @@ function onChange(control, oldValue, newValue, isLoading, isTemplate) {
 
 #### Mobile submit
 
-``` js
+``` {.js}
  // doesn't appear to work on service portal id=form
 ```
 
@@ -887,14 +846,15 @@ function onChange(control, oldValue, newValue, isLoading, isTemplate) {
 
 #### addDecoration
 
-Adds an icon on a field’s label. This method is available starting with
-the Fuji release.  Icons available
+Adds an icon on a field's label. This method is available starting with
+the Fuji release. Icons available
 [here](https://hi.service-now.com/styles/retina_icons/retina_icons.html)
-Adding the same item twice is prevented; however, you can add the same icon with a different title.
+Adding the same item twice is prevented; however, you can add the same
+icon with a different title.
 
 Note: This method is not supported by Service Catalog.
 
-``` js
+``` {.js}
  g_form.addDecoration('caller_id', 'icon-star', 'preferred member');
  g_form.addDecoration('caller_id', 'icon-star', 'Mark as Favorite', 'color-green');
 ```
@@ -903,7 +863,7 @@ Note: This method is not supported by Service Catalog.
 
 Displays the error message at the top of the form.
 
-``` js
+``` {.js}
  g_form.addErrorMessage('This is an error');
 ```
 
@@ -911,18 +871,18 @@ Displays the error message at the top of the form.
 
 Displays an informational message at the top of the form
 
-``` js
+``` {.js}
  g_form.addInfoMessage('The top five fields in this form are mandatory');
 ```
 
 #### addOption
 
-Adds a choice to a choice list field If the index is not specified,
-the choice is added to the end of the list.
+Adds a choice to a choice list field If the index is not specified, the
+choice is added to the end of the list.
 
 Optional: Use the index field to specify a particular place in the list
 
-``` js
+``` {.js}
  g_form.addOption('priority', '6', '6 - Really Low');
  g_form.addOption('priority', '2.5', '2.5 - Moderately High', 3)
 ```
@@ -934,7 +894,7 @@ Removes all informational and error messages from the top of the form.
 Removes informational and error messages added with
 `g_form.addInfoMessage()` and `g_form.addErrorMessage()`.
 
-``` js
+``` {.js}
  g_form.clearMessages();
 ```
 
@@ -942,7 +902,7 @@ Removes informational and error messages added with
 
 Removes all options from a choice list
 
-``` js
+``` {.js}
  g_form.clearOptions('priority');
 ```
 
@@ -950,52 +910,57 @@ Removes all options from a choice list
 
 Removes any value(s) from the specified field
 
-```js
+``` {.js}
 g_form.clearValue('short_desciption');
 ```
 
 #### disableAttachments
 
-Prevents new file attachments from being added Hides the paperclip icon. See also: enableAttachments()
+Prevents new file attachments from being added Hides the paperclip icon.
+See also: enableAttachments()
 
-```js
+``` {.js}
 g_form.disableAttachments();
 ```
 
 #### enableAttachments
 
-Allows new file attachments to be added Shows the paperclip icon. See also: disableAttachments()
+Allows new file attachments to be added Shows the paperclip icon. See
+also: disableAttachments()
 
-```js
+``` {.js}
 g_form.enableAttachments();
 ```
 
 #### flash
 
-Flashes the specified color the specified number of times in the field. Used to draw attention to a particular field.
+Flashes the specified color the specified number of times in the field.
+Used to draw attention to a particular field.
 
 This method is not supported by Service Catalog.
 
-This method is not available on the mobile platform. If this method is run on a mobile platform, no action occurs.
+This method is not available on the mobile platform. If this method is
+run on a mobile platform, no action occurs.
 
 The third parameter operates with the following inputs;
 
-| Input | Action | 
-| ----- | ------ |
-| 2 | 1 second flash |
-| 0 | 2 second flash |
-| -2 | 3 second flash |
-| -4 | 4 second flash |
+| Input | Action         |
+|-------|----------------|
+| 2     | 1 second flash |
+| 0     | 2 second flash |
+| -2    | 3 second flash |
+| -4    | 4 second flash |
 
-```js
+``` {.js}
 g_form.flash('incident.caller_id','red',2);
 ```
 
 #### getActionName
 
-Returns the most recent action name or, for a client script, the sys\_id of the UI Action clicked Note: not available to Wizard Client Scripts
+Returns the most recent action name or, for a client script, the sys\_id
+of the UI Action clicked Note: not available to Wizard Client Scripts
 
-``` js
+``` {.js}
   function onSubmit() {
    var action = g_form.getActionName();
    console.log('You pressed ' + action);
@@ -1004,9 +969,11 @@ Returns the most recent action name or, for a client script, the sys\_id of the 
 
 #### getBooleanValue
 
-Returns false if the field’s value is false or undefined, otherwise true is returned. Useful with checkbox fields Returns true when the checkbox is checked
+Returns false if the field's value is false or undefined, otherwise true
+is returned. Useful with checkbox fields Returns true when the checkbox
+is checked
 
-``` js
+``` {.js}
  // Returns false if the field value is false or undefined;
  // otherwise returns true.
  var active = g_form.getBooleanValue('active');
@@ -1014,9 +981,11 @@ Returns false if the field’s value is false or undefined, otherwise true is re
 
 #### getControl
 
-Returns the HTML element for the specified field Compound fields may contain several HTML elements. Generally not necessary as there are built-in methods that use the fields on the form
+Returns the HTML element for the specified field Compound fields may
+contain several HTML elements. Generally not necessary as there are
+built-in methods that use the fields on the form
 
-``` js
+``` {.js}
   g_form.getControl('caller_id');//returns html element for field.
 ```
 
@@ -1024,15 +993,17 @@ Returns the HTML element for the specified field Compound fields may contain sev
 
 Returns the decimal value of the specified field
 
-```js
+``` {.js}
   g_form.getDecimalValue('percent_complete')
 ```
 
 #### getElement
 
-Returns the HTML element for the field specified via the ID Compound fields may contain several HTML elements. Generally not necessary as there are built-in methods that use the fields on the form
+Returns the HTML element for the field specified via the ID Compound
+fields may contain several HTML elements. Generally not necessary as
+there are built-in methods that use the fields on the form
 
-``` js
+``` {.js}
   g_form.getElement('caller_id');//returns html element for field.
 ```
 
@@ -1040,9 +1011,10 @@ Returns the HTML element for the field specified via the ID Compound fields may 
 
 Returns the HTML element for the form.
 
-This method is not available in mobile scripts or Service Portal scripts.
+This method is not available in mobile scripts or Service Portal
+scripts.
 
-``` js
+``` {.js}
  //Can't test, not available on the global scope in the console.
  g_form.getFormElement();
 ```
@@ -1053,41 +1025,48 @@ Returns the HTML element of the help text for the specified field.
 
 This method is applicable to service catalog variables only.
 
-``` js
+``` {.js}
  //Can't test, not available on the global scope in the console.
  g_form.getHelpTextControl('myspecialvariable');
 ```
 
 #### getIntValue
 
-Returns the value of the specified field as an integer An empty value returns 0
+Returns the value of the specified field as an integer An empty value
+returns 0
 
-``` js
+``` {.js}
  g_form.getIntValue('priority');//returns 4 as a interger
  g_form.getValue('priority');//returns 4 as a string
 ```
 
 #### getLabelOf
 
-Gets the plain text value of the field label. This method is available starting with the Fuji release
+Gets the plain text value of the field label. This method is available
+starting with the Fuji release
 
-``` js
+``` {.js}
  g_form.getLabelOf('caller_id');// returns the displayed label for field
 ```
 
 #### getOption
 
-Returns the `<option>` element for a select box named fieldName and where choiceValue matches the option value Returns null if the field is not found or the option is not found
+Returns the `<option>` element for a select box named fieldName and
+where choiceValue matches the option value Returns null if the field is
+not found or the option is not found
 
-``` js
+``` {.js}
  g_form.getOption('priority', 1);// returns html element for <option>
 ```
 
 #### getReference
 
-Returns the GlideRecord for a specified field getReference() accepts a second parameter, a callback function Warning: This requires a call to the server so using this function will require additional time and may introduce latency to your page
+Returns the GlideRecord for a specified field getReference() accepts a
+second parameter, a callback function Warning: This requires a call to
+the server so using this function will require additional time and may
+introduce latency to your page
 
-``` js
+``` {.js}
  function onChange(control, oldValue, newValue, isLoading) {
    var caller = g_form.getReference('caller_id', function(reference){
        if (reference.vip == 'true') {
@@ -1099,18 +1078,19 @@ Returns the GlideRecord for a specified field getReference() accepts a second pa
 
 #### getSectionNames
 
-Returns all section names, whether visible or not, in an array This method is available starting with the Fuji release
+Returns all section names, whether visible or not, in an array This
+method is available starting with the Fuji release
 
-``` js
+``` {.js}
  g_form.getSectionNames();//returns array of strings;
  // e.g. ["notes", "related_records", "closure_information"]
 ```
 
 #### getSections
 
-Returns the elements for the form’s sections in an array
+Returns the elements for the form's sections in an array
 
-``` js
+``` {.js}
   g_form.getSectionNames();//returns array of elements;
 ```
 
@@ -1118,7 +1098,7 @@ Returns the elements for the form’s sections in an array
 
 Returns the name of the table this record belongs to
 
-``` js
+``` {.js}
  g_form.getTableName();//returns string of table, e.g. "incident"
 ```
 
@@ -1126,7 +1106,7 @@ Returns the name of the table this record belongs to
 
 Returns the sys\_id of the record displayed in the form
 
-``` js
+``` {.js}
  g_form.getUniqueValue(); // returns sys_id of recrod
 ```
 
@@ -1134,7 +1114,7 @@ Returns the sys\_id of the record displayed in the form
 
 Returns the value of the specified field
 
-``` js
+``` {.js}
  g_form.getValue('caller_id');// returns value of field
 ```
 
@@ -1142,7 +1122,7 @@ Returns the value of the specified field
 
 Hides all field messages. `<type>` paramter is optional
 
-```js
+``` {.js}
 g_form.hideAllFieldMsgs('info');
 g_form.hideAllFieldMsgs();
 ```
@@ -1151,9 +1131,10 @@ g_form.hideAllFieldMsgs();
 
 Hides the error message placed by showErrorBox()
 
-Whenever possible, use hideFieldMsg() rather than this method whenever possible.
+Whenever possible, use hideFieldMsg() rather than this method whenever
+possible.
 
-```js
+``` {.js}
 g_form.hideErrorBox('caller_id');
 ```
 
@@ -1161,7 +1142,7 @@ g_form.hideErrorBox('caller_id');
 
 Hides the message placed by showFieldMsg();
 
-```js
+``` {.js}
   g_form.hideFieldMsg('caller_id');
   var clearAll = true;
   g_form.hideFieldMsg('caller_id', clearAll);
@@ -1171,7 +1152,7 @@ Hides the message placed by showFieldMsg();
 
 Hides the specified related list on the form
 
-``` js
+``` {.js}
 function onChange(control, oldValue, newValue, isLoading, isTemplate) {
   if (isLoading || newValue === '') {
     return;
@@ -1192,7 +1173,7 @@ function onChange(control, oldValue, newValue, isLoading, isTemplate) {
 
 Hides all related lists on the form
 
-``` js
+``` {.js}
 function onChange(control, oldValue, newValue, isLoading, isTemplate) {
   if (isLoading || newValue === '') {
     return;
@@ -1213,47 +1194,51 @@ function onChange(control, oldValue, newValue, isLoading, isTemplate) {
 
 #### isMandatory
 
-Returns true while a live update is being done on the record the form is showing.
+Returns true while a live update is being done on the record the form is
+showing.
 
-This can be used in an onChange() client script to determine if a change to the 
-record is because of a live update from another session. The client script can 
-then decide what action to take, or not to take. This applies to systems using 
-UI16 with live forms enabled.
+This can be used in an onChange() client script to determine if a change
+to the record is because of a live update from another session. The
+client script can then decide what action to take, or not to take. This
+applies to systems using UI16 with live forms enabled.
 
-```js
+``` {.js}
   g_form.isLiveUpdating();
 ```
 
 #### isNewRecord
 
-Returns true if the record has never been saved Returns false if the record has been saved
+Returns true if the record has never been saved Returns false if the
+record has been saved
 
-```js
+``` {.js}
 g_form.isNewRecord();
 ```
 
 #### isSectionVisible
 
-Returns true if the section is visible Returns false if the section is not visible or does not exist. This method is available starting with the Fuji release
+Returns true if the section is visible Returns false if the section is
+not visible or does not exist. This method is available starting with
+the Fuji release
 
-```js
+``` {.js}
 g_form.isSectionVisible('patching');
 ```
 
 #### refreshSlushbucket
 
-You can update a list collector variable. 
+You can update a list collector variable.
 
-```js
+``` {.js}
 g_form.refreshSlushbucket('bucket');
 ```
 
 #### removeDecoration
 
-Removes the icon from the specified field that matches the icon and title.
-Note: This method is not supported by Service Catalog.
+Removes the icon from the specified field that matches the icon and
+title. Note: This method is not supported by Service Catalog.
 
-```js
+``` {.js}
   g_form.removeDecoration('caller_id','fa-star','VIP');
 ```
 
@@ -1261,15 +1246,16 @@ Note: This method is not supported by Service Catalog.
 
 Removes a specific option from a choice list
 
-```js
+``` {.js}
 g_form.removeOption('priority','1');
 ```
 
 #### save
 
-Saves the record without navigating away from the record (update and stay)
+Saves the record without navigating away from the record (update and
+stay)
 
-```js
+``` {.js}
 g_form.save();
 ```
 
@@ -1277,25 +1263,28 @@ g_form.save();
 
 Grays out field and makes it unavailable
 
-```js
+``` {.js}
   var bool = true;
   g_form.setDisabled('caller_id', true);
 ```
 
 #### setDisplay
 
-Displays the field if true. Hides the field if false. This method cannot hide mandatory fields with no value. If the field is hidden, the space is used to display other items
+Displays the field if true. Hides the field if false. This method cannot
+hide mandatory fields with no value. If the field is hidden, the space
+is used to display other items
 
-```js
+``` {.js}
   var bool = true;
   g_form.setDisplay('caller_id', true);
 ```
 
 #### setLabelOf
 
-Sets the plain text value of the field label. This method is available starting with the Fuji release
+Sets the plain text value of the field label. This method is available
+starting with the Fuji release
 
-```js
+``` {.js}
 if (g_user.hasRole('itil')) {
   var oldLabel = g_form.getLabelOf('comments');
   g_form.setLabelOf('comments', oldLabel + ' (Customer visible)');
@@ -1304,17 +1293,20 @@ if (g_user.hasRole('itil')) {
 
 #### setMandatory
 
-Makes the field required if true. Makes the field optional if false. Best Practice: Use UI Policy rather than this method whenever possible
+Makes the field required if true. Makes the field optional if false.
+Best Practice: Use UI Policy rather than this method whenever possible
 
-```js
+``` {.js}
 g_form.setMandatory('quantity',true);// changes field to required or not
 ```
 
 #### setReadOnly
 
-Makes the field read-only if true Makes the field editable if false. Note: Both setReadOnly and setReadonly are functional. Best Practice: Use UI Policy rather than this method whenever possible
+Makes the field read-only if true Makes the field editable if false.
+Note: Both setReadOnly and setReadonly are functional. Best Practice:
+Use UI Policy rather than this method whenever possible
 
-```js
+``` {.js}
 g_form.setValue('milestone', milestone);
 g_form.setReadonly('end_date', milestone);
 g_form.setReadonly('duration', milestone);
@@ -1322,9 +1314,10 @@ g_form.setReadonly('duration', milestone);
 
 #### setSectionDisplay
 
-Shows or hides a section Works in both tab and flat modes. This method is available starting with the Fuji release
+Shows or hides a section Works in both tab and flat modes. This method
+is available starting with the Fuji release
 
-```js
+``` {.js}
 function onChange(control, oldValue, newValue, isLoading) {
    //this example was run on a form divided into sections (Change form)
    // and hid a section when the "state" field was changed
@@ -1339,17 +1332,20 @@ function onChange(control, oldValue, newValue, isLoading) {
 
 #### setValue
 
-Sets the value and the display value of a field Will display value if there is no displayValue
+Sets the value and the display value of a field Will display value if
+there is no displayValue
 
-``` js
+``` {.js}
 g_form.setValue('quantity','10');// sets the value to 10
 ```
 
 #### setVisible
 
-Displays the field if true. Hides the field if false. If the field is hidden, the space is left blank. This method cannot hide mandatory fields with no value
+Displays the field if true. Hides the field if false. If the field is
+hidden, the space is left blank. This method cannot hide mandatory
+fields with no value
 
-``` js
+``` {.js}
 function onLoad() {
   g_form.setVisible('u_environment', false);
 }
@@ -1357,18 +1353,30 @@ function onLoad() {
 
 #### showErrorBox
 
-Displays an error message under the specified form field (either a control object or the name of the field). If the control or field is currently scrolled off the screen, it will be scrolled to. A global property (glide.ui.scroll\_to\_message\_field) is available that controls automatic message scrolling when the form field is offscreen (scrolls the form to the control or field). The showFieldMsg() method is a similar method that requires a ‘type’ parameter
+Displays an error message under the specified form field (either a
+control object or the name of the field). If the control or field is
+currently scrolled off the screen, it will be scrolled to. A global
+property (glide.ui.scroll\_to\_message\_field) is available that
+controls automatic message scrolling when the form field is offscreen
+(scrolls the form to the control or field). The showFieldMsg() method is
+a similar method that requires a 'type' parameter
 
-```js
+``` {.js}
 var scroll = true;
 g_form.showErrorBox('caller_id','message',scroll)
 ```
 
 #### showFieldMsg
 
-Displays either an informational or error message under the specified form field (either a control object or the name of the field). Type may be either ‘info’ or ‘error.’ If the control or field is currently scrolled off the screen, it will be scrolled to. A global property (glide.ui.scroll\_to\_message\_field) is available that controls automatic message scrolling when the form field is offscreen (scrolls the form to the control or field)
+Displays either an informational or error message under the specified
+form field (either a control object or the name of the field). Type may
+be either 'info' or 'error.' If the control or field is currently
+scrolled off the screen, it will be scrolled to. A global property
+(glide.ui.scroll\_to\_message\_field) is available that controls
+automatic message scrolling when the form field is offscreen (scrolls
+the form to the control or field)
 
-``` js
+``` {.js}
  // parameters are;
  // field, string, info||error, scrollToField
  g_form.showFieldMsg('stage', 'text info', 'info', false);
@@ -1379,7 +1387,7 @@ Displays either an informational or error message under the specified form field
 
 Displays the specified related list on the form
 
-``` js
+``` {.js}
 function onChange(control, oldValue, newValue, isLoading, isTemplate) {
   if (isLoading || newValue === '') {
     return;
@@ -1400,7 +1408,7 @@ function onChange(control, oldValue, newValue, isLoading, isTemplate) {
 
 Displays all related lists on the form
 
-``` js
+``` {.js}
 function onChange(control, oldValue, newValue, isLoading, isTemplate) {
   if (isLoading || newValue === '') {
     return;
@@ -1419,57 +1427,14 @@ function onChange(control, oldValue, newValue, isLoading, isTemplate) {
 
 #### submit
 
-Saves the record User will be taken away from the form, returning them to where they were previously
+Saves the record User will be taken away from the form, returning them
+to where they were previously
 
-```js
+``` {.js}
 g_form.submit();
 ```
 
 ### Desktop Undocumented
-
-<!--
-#### _addDerivedWaiting
-#### _addDisabledField
-#### _addFormMessage
-#### _checkModified
-#### _ensureDisplayValue
-#### _getDecorations
-#### _getDecorationsEl
-#### _getElementStyle
-#### _getLabelEl
-#### _getLinkActionByAttribute
-#### _getPersonalizeHiddenFields
-#### _getRelatedListID
-#### _getSelectedIndex
-#### _getTabNameForElement
-#### _getValueFromControl
-#### _isDerivedWaiting
-#### _isMandatoryFieldEmpty
-#### _isReadOnlyATF
-#### _isVisibleATF
-#### _opticsInspectorLog
-#### _positionCursorAtError
-#### _removeDerivedWaiting
-#### _removeDisabledField
-#### _removeTableName
-#### _sanitizeFieldName
-#### _savePersonalizeHiddenFields
-#### _scrollToElementTR
-#### _serializeDisabled
-#### _serializeElement
-#### _setCaretPosition
-#### _setCaretPositionLineColumn
-#### _setDecorations
-#### _setDisabledField
-#### _setDisplay
-#### _setFieldReadOnly
-#### _setReadonly
-#### _setReadonly0
-#### _setReferenceSelect
-#### _setValue
-#### _tryLabelRow
-#### _tryLabelRowElement
- -->
 
 #### activateTab
 
@@ -1477,13 +1442,13 @@ g_form.submit();
 
 #### addGlideUIElement
 
-```js
+``` {.js}
 g_form.addGlideUIElement(glideUIElement);
 ```
 
 #### addNameMapEntry
 
-```js
+``` {.js}
 g_form.addNameMapEntry(nameElement);
 ```
 
@@ -1491,17 +1456,18 @@ g_form.addNameMapEntry(nameElement);
 
 #### addToCart
 
-This seems to be referenced by an error when using `g_form.submit()` from a catalog in a catalog client script.
+This seems to be referenced by an error when using `g_form.submit()`
+from a catalog in a catalog client script.
 
 #### addValidator
 
-```js
+``` {.js}
 g_form.addValidator(fld.id, validator.validate);
 ```
 
 #### 
 
-```js
+``` {.js}
 g_form.addWarningMessage('Warning! Please click "Update Application" above to update the application.&nbsp;<b>Otherwise some new features may be missing if the application is not updated.</b>');
 ```
 
@@ -1529,7 +1495,7 @@ g_form.addWarningMessage('Warning! Please click "Update Application" above to up
 
 #### getControlByForm
 
-```js
+``` {.js}
 g_form.getControlByForm('table').options;
 ```
 
@@ -1537,14 +1503,14 @@ g_form.getControlByForm('table').options;
 
 #### getDisplayBox
 
-``` js
+``` {.js}
  g_form.getDisplayBox('caller_id'); // returns html element for input
  g_form.getDisplayBox('caller_id').value; // returns html element attribute value
 ```
 
 #### getDisplayValue
 
-``` js
+``` {.js}
  g_form.getDisplayValue();//returns record displayvalue, not field displayvalue
  g_form.getDispalyValue('caller_id');//returns record displayvalue, not field displayvalue
 ```
@@ -1553,7 +1519,7 @@ g_form.getControlByForm('table').options;
 
 If the form is read only, just return.
 
-``` js
+``` {.js}
 var editableFields = g_form.getEditableFields();
 if (editableFields.indexOf("report_title") < 0) {
   console.log('editable fields contains report_title');
@@ -1562,20 +1528,20 @@ if (editableFields.indexOf("report_title") < 0) {
 
 #### getGlideUIElement
 
-``` js
+``` {.js}
  var serverURLElement = g_form.getGlideUIElement('server_url');
 ```
 
 #### getLabel
 
-``` js
+``` {.js}
 var label = g_form.getLabel('comments') + ' (' + getMessage('Customer visible') + ')';
 g_form.setLabel('comments', label);
 ```
 
 #### getMissingFields
 
-``` js
+``` {.js}
  g_form.getMissingFields();
 ```
 
@@ -1585,7 +1551,7 @@ g_form.setLabel('comments', label);
 
 We can access the option control to get the name of the operation.
 
-``` js
+``` {.js}
 var optionControl = g_form.getOptionControl('operation');
 var operationText;
 if (optionControl) {
@@ -1596,11 +1562,12 @@ if (optionControl) {
 
 #### orderNow
 
-This seems to be referenced by an error when using `g_form.submit()` from a catalog in a catalog client script.
+This seems to be referenced by an error when using `g_form.submit()`
+from a catalog in a catalog client script.
 
 #### getParameter
 
-``` js
+``` {.js}
 var tblName = g_form.getTableName();
 var fromRelList = g_form.getParameter('sysparm_from_related_list');
 var _module = g_form.getParameter('sysparm_userpref_module');
@@ -1613,7 +1580,7 @@ var returnUrl = deleteUrl ? deleteUrl : returnUrl;
 
 #### getPrefixHandler
 
-``` js
+``` {.js}
 var handler = g_form.getPrefixHandler(fieldName);
 handler.getObject().setReadOnly(handler.getFieldName(), show)
 ```
@@ -1628,7 +1595,7 @@ handler.getObject().setReadOnly(handler.getFieldName(), show)
 
 #### getViewName
 
-``` js
+``` {.js}
 if(g_form.getViewName() === "business_case_view"){
   g_form.setDisplay("state", false);
 }
@@ -1638,7 +1605,7 @@ if(g_form.getViewName() === "business_case_view"){
 
 #### hasField
 
-``` js
+``` {.js}
 if(g_form.hasField('schedule'))
   schedule = g_form.getValue('schedule');
 }
@@ -1650,9 +1617,9 @@ if(g_form.hasField('schedule'))
 
 #### isDisabled
 
-If the user can’t set the field, we shouldn’t touch it.
+If the user can't set the field, we shouldn't touch it.
 
-``` js
+``` {.js}
 if (g_form.isDisabled('element'))
   return;
 ```
@@ -1667,7 +1634,7 @@ if (g_form.isDisabled('element'))
 
 #### isReadOnly
 
-```js
+``` {.js}
 var taskTableCtrl = g_form.getControl("task_table");
 if (!taskTableCtrl || g_form.isReadOnly(taskTableEle, taskTableCtrl))
   return;
@@ -1679,7 +1646,7 @@ if (!taskTableCtrl || g_form.isReadOnly(taskTableEle, taskTableCtrl))
 
 #### isVisible
 
-``` js
+``` {.js}
  if(serverURLElement && serverURLControl && g_form.isVisible(serverURLElement, serverURLControl)) {
    var urlajax = new GlideAjax('LDAPURLClientUtils');
  }
@@ -1689,7 +1656,7 @@ if (!taskTableCtrl || g_form.isReadOnly(taskTableEle, taskTableCtrl))
 
 If we have unfilled mandatory fields then do not progress.
 
-``` js
+``` {.js}
 if (!g_form.mandatoryCheck()) {
   return;
 }
@@ -1699,7 +1666,7 @@ if (!g_form.mandatoryCheck()) {
 
 #### registerHandler
 
-``` js
+``` {.js}
 if(fieldName != null && fieldName !== undefined)
   g_form.registerHandler(fieldName, filterObj);
 ```
@@ -1718,14 +1685,14 @@ if(fieldName != null && fieldName !== undefined)
 
 #### resolveLabelNameMap
 
-``` js
+``` {.js}
 id = id.startsWith('IO:') ? id : 'IO:' + id;
 return g_form.resolveLabelNameMap(id);
 ```
 
 #### resolveNameMap
 
-```js
+``` {.js}
 var locElementId = "sys_display." + g_form.resolveNameMap(fieldMappings.location);
 ```
 
@@ -1733,7 +1700,7 @@ var locElementId = "sys_display." + g_form.resolveNameMap(fieldMappings.location
 
 #### serialize
 
-``` js
+``` {.js}
 ajax.addParam("sysparm_sys_id", g_form.getUniqueValue());
 ajax.addParam("sysparm_form_fields", g_form.serialize());
 ajax.addParam("sysparm_test_from_form", "true");
@@ -1741,7 +1708,7 @@ ajax.addParam("sysparm_test_from_form", "true");
 
 #### serializeChanged
 
-```js
+``` {.js}
 dd.setPreference('sysparm_notification_id', sysId);
 dd.setPreference('sysparm_changed_fields',g_form.serializeChangedAll());
 dd.render();
@@ -1749,7 +1716,7 @@ dd.render();
 
 #### serializeChangedAll
 
-``` js
+``` {.js}
 dd.setPreference('sysparm_notification_id', sysId);
 dd.setPreference('sysparm_changed_fields',g_form.serializeChangedAll());
 dd.render();
@@ -1767,7 +1734,7 @@ dd.render();
 
 #### setReadonly
 
-```js
+``` {.js}
 g_form.setValue('milestone', milestone);
 g_form.setReadonly('end_date', milestone);
 g_form.setReadonly('duration', milestone);
@@ -1781,14 +1748,14 @@ g_form.setReadonly('duration', milestone);
 
 #### setStreamJournalFieldsDisplay
 
-```js
+``` {.js}
 if(g_form.setStreamJournalFieldsDisplay)
- 		g_form.setStreamJournalFieldsDisplay(false);
+        g_form.setStreamJournalFieldsDisplay(false);
 ```
 
 #### setTemplateValue
 
-``` js
+``` {.js}
 if (window.g_form) {
   g_form.setTemplateValue("template", "");
 }
@@ -1798,13 +1765,13 @@ if (window.g_form) {
 
 #### setValidation
 
-``` js
+``` {.js}
  g_form.setValidation("after", false);
 ```
 
 #### setVariablesReadOnly
 
-```js
+``` {.js}
 g_form.setVariablesReadOnly(true);
 ```
 

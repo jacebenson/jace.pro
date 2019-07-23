@@ -1,48 +1,60 @@
 ---
-title: Custom Servicenow Property page
-date: 2018-06-11
+date: '2018-06-11'
 layout: post
 tags:
- - scoped app
+- scoped app
+title: Custom Servicenow Property page
 ---
 
-Sometimes you want a nice looking property page.  [Ben Phillips](https://community.servicenow.com/community?id=community_user_profile&user=68211265db981fc09c9ffb651f96192d) was nice enough to type this out in a slack channel.  So I took it and put it here so I wouldn't forget.
+Sometimes you want a nice looking property page. [Ben
+Phillips](https://community.servicenow.com/community?id=community_user_profile&user=68211265db981fc09c9ffb651f96192d)
+was nice enough to type this out in a slack channel. So I took it and
+put it here so I wouldn't forget.
 
-<!--more-->
-
-It is recommended/required to create a properties page for any custom applications you may make.
+It is recommended/required to create a properties page for any custom
+applications you may make.
 
 ## Setting up the module
 
-Setting this up is pretty simple if you don't need anything fancy.  Just point the link to "`system_properties_ui.do`" UI Page.
-Your link will look something like `system_properties_ui.do?sysparm_title=MyTitleHere&sysparm_category=MyCategoryHere`
+Setting this up is pretty simple if you don't need anything fancy. Just
+point the link to "`system_properties_ui.do`" UI Page. Your link will
+look something like
+`system_properties_ui.do?sysparm_title=MyTitleHere&sysparm_category=MyCategoryHere`
 
 ![Module Configuration](/uploads/custom-property-page-2.png)
 
 And the resulting properties page will look like this:
 
-![End Result of Module Configuration](/uploads/custom-property-page-3.png)
+![End Result of Module
+Configuration](/uploads/custom-property-page-3.png)
 
 ## Making a custom page
 
-What if this doesn't include all the things to verify you've configured your options, or doesn't look how you think it should?  No worries.
+What if this doesn't include all the things to verify you've configured
+your options, or doesn't look how you think it should? No worries.
 
-You can simply make a UI Page to handle this.  
+You can simply make a UI Page to handle this.
 
-To get your properties dynamically on your page, most of the magic is done with just one glide jelly include:
+To get your properties dynamically on your page, most of the magic is
+done with just one glide jelly include:
 
 `<g2:system_properties_categorized category="MyCategoryHere"/>`
 
-This automatically prints out some HTML with the properties and values from your property category.
-Since we don't have access to alter the elements this outputs and they are not styled like we want, I copied the CSS from the Style Guide and pasted them into my custom properties UI page. 
-Here we've copied the props box styling from `/login.do`.
+This automatically prints out some HTML with the properties and values
+from your property category. Since we don't have access to alter the
+elements this outputs and they are not styled like we want, I copied the
+CSS from the Style Guide and pasted them into my custom properties UI
+page. Here we've copied the props box styling from `/login.do`.
 
-The form tag with the action and method is important because that tells the form to run `system_properties_update.do` when the user clicks Save, more OOB functionality you can't seem to touch.
-The referer is also important to guide what page loads after they click save.
+The form tag with the action and method is important because that tells
+the form to run `system_properties_update.do` when the user clicks Save,
+more OOB functionality you can't seem to touch. The referer is also
+important to guide what page loads after they click save.
 
-Here's an agnostic version of Ben's markup in the HTML field of my UI Page. Client Script and Processing Script panes are empty.
+Here's an agnostic version of Ben's markup in the HTML field of my UI
+Page. Client Script and Processing Script panes are empty.
 
-```xml
+``` {.xml}
 <?xml version="1.0" encoding="utf-8" ?>
 <j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
     <script>
@@ -106,4 +118,6 @@ Here's an agnostic version of Ben's markup in the HTML field of my UI Page. Clie
 
 ![Screenshot](/uploads/custom-property-page-1.png)
 
-Special thanks to [Ben Phillips](https://community.servicenow.com/community?id=community_user_profile&user=68211265db981fc09c9ffb651f96192d) and @nabil for the work on this.
+Special thanks to [Ben
+Phillips](https://community.servicenow.com/community?id=community_user_profile&user=68211265db981fc09c9ffb651f96192d)
+and @nabil for the work on this.

@@ -1,17 +1,17 @@
 ---
-title: Print out variables
-date: 2018-02-15
-layout: post
 aliases:
- - "/Print-out-variables/"
+- '/Print-out-variables/'
+date: '2018-02-15'
+layout: post
+title: Print out variables
 ---
 
-Let me prefice this code with there is another way to do this but it's undocumented.  
-That is using the `GlideappVariablePoolQuestionSet` class as [posted here by Chuck Tomasi](https://community.servicenow.com/thread/245758).
+Let me prefice this code with there is another way to do this but it's
+undocumented.\
+That is using the `GlideappVariablePoolQuestionSet` class as [posted
+here by Chuck Tomasi](https://community.servicenow.com/thread/245758).
 
-<!--more-->
-
-```js
+``` {.js}
 /*jslint eqeq: true*/
 /*global GlideRecord, current*/
 var tablestart = '<div class="nmmcbg" width="100%" style="background-color: LightGoldenRodYellow;">';
@@ -141,4 +141,5 @@ wn += "</div>";
 
 ## Further Reading
 
-[Community Thread](https://community.servicenow.com/thread/149636#733514)
+[Community
+Thread](https://community.servicenow.com/thread/149636#733514)

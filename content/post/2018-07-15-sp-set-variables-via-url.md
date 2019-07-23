@@ -1,27 +1,29 @@
 ---
-title: Setting variables via URL Scheme on Service Portal
-date: 2018-07-15
+aliases:
+- '/sp-set-variables-via-url/'
+- '/2018/07/15/sp-set-variables-via-url/'
+date: '2018-07-15'
+keywords:
+- populate
+- set
+- widget
 layout: post
 tags:
- - service portal
-aliases: 
- - "/sp-set-variables-via-url/"
- - "/2018/07/15/sp-set-variables-via-url/"
-keywords:
- - "populate"
- - "set"
- - "widget"
+- service portal
+title: Setting variables via URL Scheme on Service Portal
 ---
-The other day, [a post was made, asking how to do this](https://community.servicenow.com/community?id=community_question&sys_id=d1de646cdbc7d74423f4a345ca961916)
-and I had to answer.  I knew you could read the URL via `$window` but that isn't available in client scripts.  So how can this be done?
 
-<!--more-->
+The other day, [a post was made, asking how to do
+this](https://community.servicenow.com/community?id=community_question&sys_id=d1de646cdbc7d74423f4a345ca961916)
+and I had to answer. I knew you could read the URL via `$window` but
+that isn't available in client scripts. So how can this be done?
 
 I came up with the following solution.
 
-Create a Variable type of macro, with a widget that has the following client script;
+Create a Variable type of macro, with a widget that has the following
+client script;
 
-```js
+``` {.js}
 function($scope, $window) {
   // This is the controller, we've included
   // $scope in the function above because
@@ -55,28 +57,30 @@ function($scope, $window) {
     }
   });
 }
-
-
 ```
 
-This will try to set all the attributes on the form so in the following url;
+This will try to set all the attributes on the form so in the following
+url;
 
 `https://dev32369.service-now.com/sp?id=sc_cat_item&sys_id=b480811a0f021300fc69cdbce1050ece&description=test`
 
 The following will tried to be set;
 
 | Parameter   | Value                              |
-| ----------- | ---------------------------------- |
+|-------------|------------------------------------|
 | id          | `sc_cat_item`                      |
-| sys_id      | `b480811a0f021300fc69cdbce1050ece` |
+| sys\_id     | `b480811a0f021300fc69cdbce1050ece` |
 | description | `test`                             |
 
-P.S.
-Laurent Chicoine pointed out another way to do this for an individual variable at a time instead of all of them by setting the default value, you can see his comment in the comments and mark his helpful if you find this shortened version helpful.
+P.S. Laurent Chicoine pointed out another way to do this for an
+individual variable at a time instead of all of them by setting the
+default value, you can see his comment in the comments and mark his
+helpful if you find this shortened version helpful.
 
-If you set the default value of the variable in question to this, then you can default it differently based on weather or not `$sp` exists.
+If you set the default value of the variable in question to this, then
+you can default it differently based on weather or not `$sp` exists.
 
-```js
+``` {.js}
 javascript: (function(){
   try{
     // Service Portal

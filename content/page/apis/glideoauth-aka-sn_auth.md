@@ -1,158 +1,166 @@
 ---
-title: GlideOAuth
-
-
-date: 2016-01-01
-layout: page
-url: "/glideoauth/"
-tags:
-- server-side-api
 aliases:
-- "/GlideOAuth/"
-- "/GlideOAuthClient/"
-- "/GlideOAuthClientRequest/"
-- "/GlideOAuthClientResponse/"
-- "/GlideOAuthToken/"
-- "/sn_auth/"
+- '/GlideOAuth/'
+- '/GlideOAuthClient/'
+- '/GlideOAuthClientRequest/'
+- '/GlideOAuthClientResponse/'
+- '/GlideOAuthToken/'
+- '/sn_auth/'
+date: '2016-01-01'
+layout: page
+tags:
+- 'server-side-api'
+title: GlideOAuth
+url: '/glideoauth/'
 ---
+
 # What is GlidOAuth
-<!--more-->
 
-[Developer Documentation](https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/security/concept/c_OAuthClientAPIs.html)
+[Developer
+Documentation](https://docs.servicenow.com/bundle/kingston-platform-administration/page/administer/security/concept/c_OAuthClientAPIs.html)
 
-> The OAuth client API provides methods to request and revoke OAuth tokens.
-> The OAuth client provides these classes:
-> - GlideOAuthClient: Methods for requesting and revoking the refresh and access tokens.
-> - GlideOAuthClientRequest: Methods for handling client requests.
-> - GlideOAuthClientResponse: Methods for handling client responses.
-> - GlideOAuthToken: Methods for retrieving the access token and information about the access token.
+> The OAuth client API provides methods to request and revoke OAuth
+> tokens. The OAuth client provides these classes: - GlideOAuthClient:
+> Methods for requesting and revoking the refresh and access tokens. -
+> GlideOAuthClientRequest: Methods for handling client requests. -
+> GlideOAuthClientResponse: Methods for handling client responses. -
+> GlideOAuthToken: Methods for retrieving the access token and
+> information about the access token.
 >
-> You can also customize the OAuthUtil script include to intercept the request parameters and also parse the responses from external OAuth providers.
+> You can also customize the OAuthUtil script include to intercept the
+> request parameters and also parse the responses from external OAuth
+> providers.
 >
-> When using OAuth classes in a scoped script, use the sn_auth namespace identifier.
-
+> When using OAuth classes in a scoped script, use the sn\_auth
+> namespace identifier.
 
 ## GlideOAuthClient
 
-### revokeToken 
+### revokeToken
 
-Revokes the access or refresh token for the client, with the request and optional header parameters set into a GlideOAuthClientRequest object 
+Revokes the access or refresh token for the client, with the request and
+optional header parameters set into a GlideOAuthClientRequest object
 
-### requestTokenByRequest 
+### requestTokenByRequest
 
-Retrieves the token for the client, with the request and optional header parameters set into a GlideOAuthClientRequest object                 
+Retrieves the token for the client, with the request and optional header
+parameters set into a GlideOAuthClientRequest object
 
-### requestToken 
+### requestToken
 
-Retrieves the token for the client, with the request parameters encoded in JSON format                                                        
-
+Retrieves the token for the client, with the request parameters encoded
+in JSON format
 
 ## GlideOAuthClientRequest
 
-### getRefreshToken 
+### getRefreshToken
 
-Retrieves the refresh token                                        
+Retrieves the refresh token
 
-### setPassword 
+### setPassword
 
-Sets the password with the string you provide                      
+Sets the password with the string you provide
 
-### getHeaders 
+### getHeaders
 
-Retrieves the HTTP headers                                         
+Retrieves the HTTP headers
 
-### setHeader 
+### setHeader
 
-Sets the HTTP headers for the nave:value pair that you provide     
+Sets the HTTP headers for the nave:value pair that you provide
 
-### getHeader 
+### getHeader
 
-Retrieves the HTTP headers for the string you provide              
+Retrieves the HTTP headers for the string you provide
 
-### getPassword 
+### getPassword
 
-Retrieves the password                                             
+Retrieves the password
 
-### setUserName 
+### setUserName
 
-Sets the user name with the string you provide                     
+Sets the user name with the string you provide
 
-### setParameter 
+### setParameter
 
-Sets the parameters for the name:value pair of strings you provide 
+Sets the parameters for the name:value pair of strings you provide
 
-### getGrantType 
+### getGrantType
 
-Retrieves the grant type                                           
+Retrieves the grant type
 
-### setGrantType 
+### setGrantType
 
-Sets the grant type with the string you provide                    
+Sets the grant type with the string you provide
 
-### getUserName 
+### getUserName
 
-Retrieves the user name                                            
+Retrieves the user name
 
-### setScope 
+### setScope
 
-Sets the scope with the string you provide                         
+Sets the scope with the string you provide
 
-### setRefreshToken 
+### setRefreshToken
 
-Sets the refresh token with the string you provide                 
+Sets the refresh token with the string you provide
 
-### getScope 
+### getScope
 
-Retrieves the scope                                                
+Retrieves the scope
 
-### getParameter 
+### getParameter
 
-Retrieves the parameter for the parameter name you provide         
-
+Retrieves the parameter for the parameter name you provide
 
 ## GlideOAuthClientResponse
 
-### getResponseParameters 
+### getResponseParameters
 
-Retrieves the response content from an external OAuth provider. The response is in a name:value pair 
+Retrieves the response content from an external OAuth provider. The
+response is in a name:value pair
 
-### getBody 
+### getBody
 
-Retrieves all of the response information, including instance information                            
+Retrieves all of the response information, including instance
+information
 
-### getToken 
+### getToken
 
-Retrieves the refresh token                                                                          
+Retrieves the refresh token
 
-### getResponseCode 
+### getResponseCode
 
-Retrieves the HTTP response code from the external OAuth provider                                    
+Retrieves the HTTP response code from the external OAuth provider
 
-### getContentType 
+### getContentType
 
-Retrieves the HTTP response content header from an external OAuth provider                           
+Retrieves the HTTP response content header from an external OAuth
+provider
 
-### getErrorMessage 
+### getErrorMessage
 
-Retrieves the error message if authentication is not successful                                      
-
+Retrieves the error message if authentication is not successful
 
 ## GlideOAuthToken
 
-### getRefreshToken 
+### getRefreshToken
 
-Retrieves the refresh token                                                    
+Retrieves the refresh token
 
-### getRefreshTokenSysID</a> | Retrieves the sys\_id of the refresh token                                     |
-### getExpiresIn 
+### getRefreshTokenSysID \| Retrieves the sys\_id of the refresh token \|
 
-Retrieves the lifespan of the access token in seconds                          
+### getExpiresIn
 
-### getAccessTokenSysID</a>  | Retrieves the sys\_id of the token ID                                          |
-### getScope 
+Retrieves the lifespan of the access token in seconds
 
-Retrieves the scope, which is the amount of access granted by the access token 
+### getAccessTokenSysID \| Retrieves the sys\_id of the token ID \|
 
-### getAccessToken 
+### getScope
+
+Retrieves the scope, which is the amount of access granted by the access
+token
+
+### getAccessToken
 
 Retrieves the access token

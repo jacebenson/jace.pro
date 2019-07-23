@@ -1,29 +1,30 @@
 ---
-title: Unsubscribing from notification preferences in email
-date: 2017-09-13
+aliases:
+- '/unsubscribe/'
+date: '2017-09-13'
+keywords:
+- mail
+- notification
+- subscription
+- unsub
 layout: post
 tags:
 - missing ootb
 - email
-aliases:
-- "/unsubscribe/"
-keywords:
-- "mail"
-- "notification"
-- "subscription"
-- "unsub"
+title: Unsubscribing from notification preferences in email
 ---
-I was asked to have users verify they actually want to unsubscribe from an email instead of just assuming they really want to unsubscribe.  To do this I made a simple UI Page.  Below is the code;
 
-<!--more--> 
+I was asked to have users verify they actually want to unsubscribe from
+an email instead of just assuming they really want to unsubscribe. To do
+this I made a simple UI Page. Below is the code;
 
 Below is the mailscript and ui page. They work together.
 
-```js
+``` {.js}
 ${mail_script:unsubscribe_emails}
 ```
 
-```js
+``` {.js}
 //name this unsubscribe_emails
 (function runMailScript(current, template, email, email_action, event) {
     var link = '';
@@ -43,7 +44,7 @@ ${mail_script:unsubscribe_emails}
 })(current, template, email, email_action, event);
 ```
 
-```xml
+``` {.xml}
 <!--Name: verify_unsubscribe-->
 <?xml version="1.0" encoding="utf-8" ?>
 <j:jelly trim="false" 

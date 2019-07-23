@@ -1,79 +1,86 @@
 ---
-title: Jelly
-date: 2016-01-01
+aliases:
+- '/Jelly/'
+date: '2016-01-01'
+keywords:
+- '\${}'
+- '\$\[\]'
+- Phase
+- 'j:'
+- 'g:'
+- set
+- 'set_if'
+- insert
+- inline
+- call
+- evaluate
+- if test
+- 'empty()'
+- RP
+- RenderProperties
+- getEncodedQuery
+- getListControl
+- getParameterValue
+- getReferringURL
+- getViewID
+- getViewName
+- getWindowProperties
+- isInDevStudio
+- isInteractive
+- isManyToMany
+- isRelatedList
 layout: page
 tags:
-- server-side-api
-url: "/jelly/"
-aliases:
-- "/Jelly/"
-keywords: 
-- "${}"
-- "$[]"
-- "Phase"
-- "j:"
-- "g:"
-- "set"
-- "set_if"
-- "insert"
-- "inline"
-- "call"
-- "evaluate"
-- "if test"
-- "empty()"
-- "RP"
-- "RenderProperties"
-- "getEncodedQuery"
-- "getListControl"
-- "getParameterValue"
-- "getReferringURL"
-- "getViewID"
-- "getViewName"
-- "getWindowProperties"
-- "isInDevStudio"
-- "isInteractive"
-- "isManyToMany"
-- "isRelatedList"
+- 'server-side-api'
+title: Jelly
+url: '/jelly/'
 ---
+
 # What is Jelly
 
-Jelly is executable XML.  Jelly maps "tags" to Java classes.
-Glide uses a two phase approach.
-<!--more-->
+Jelly is executable XML. Jelly maps "tags" to Java classes. Glide uses a
+two phase approach.
 
-- Phase 1 processes `${}`, `<g:namespace>`, and `<j:namespace>` things.
-- Phase 2 processes `$[]`, `<g2:namespace>`, and `<j2:namespace>` things.
+-   Phase 1 processes `${}`, `<g:namespace>`, and `<j:namespace>`
+    things.
+-   Phase 2 processes `$[]`, `<g2:namespace>`, and `<j2:namespace>`
+    things.
 
 This is light list of things I use in Jelly normally.
 
 I got this information from these places;
 
-- [SN Wiki Jelly](https://web.archive.org/web/20171107181401/http://wiki.servicenow.com/index.php?title=Extensions_to_Jelly_Syntax)
-- [SN Wiki Escaping Jelly](https://web.archive.org/web/20161210030255/http://wiki.servicenow.com:80/index.php?title=How_to_Escape_in_Jelly)
-- [SNAUG Jelly Cheat Sheet](http://snaug.com/?option=com_content&page_id=39)
-- [Rhino JS](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino)
+-   [SN Wiki
+    Jelly](https://web.archive.org/web/20171107181401/http://wiki.servicenow.com/index.php?title=Extensions_to_Jelly_Syntax)
+-   [SN Wiki Escaping
+    Jelly](https://web.archive.org/web/20161210030255/http://wiki.servicenow.com:80/index.php?title=How_to_Escape_in_Jelly)
+-   [SNAUG Jelly Cheat
+    Sheet](http://snaug.com/?option=com_content&page_id=39)
+-   [Rhino
+    JS](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino)
 
 ## Tags
 
-Here's a list of tags I generally use when working with Jelly.  There are other tags, but I find my use of them the exception, not the rule.
+Here's a list of tags I generally use when working with Jelly. There are
+other tags, but I find my use of them the exception, not the rule.
 
 ### Set
 
-```xml
+``` {.xml}
 <j:set var="jvar_element_id" value="I have value!"/>
 <label id="label">${jvar_element_id}</label>
 ```
 
 ### If
 
-```xml
+``` {.xml}
 <j:if test="${jvar_something}">...do something...</j:if>
 <j:if test="${!jvar_something}">...do something...</j:if>
 ```
 
-### ${empty()}
+### \${empty()}
 
-```xml
+``` {.xml}
 <j:if test="${empty(jvar_something)}">
     Only shows if jvar_something is empty!
 </j:if>
@@ -81,7 +88,7 @@ Here's a list of tags I generally use when working with Jelly.  There are other 
 
 ### Set If
 
-```xml
+``` {.xml}
 <g2:set_if var="jvar_style"
            test="$[gs.getPreference('table.compact') != 'false']"
            true="margin-top:0px; margin-bottom:0px;"
@@ -90,25 +97,31 @@ Here's a list of tags I generally use when working with Jelly.  There are other 
 
 ### Insert
 
-`<g:insert>`, inserts a jelly file into your jelly in a new context, meaning **you can not access** variables previously established in your Jelly.
+`<g:insert>`, inserts a jelly file into your jelly in a new context,
+meaning **you can not access** variables previously established in your
+Jelly.
 
-```xml
+``` {.xml}
 <g:insert template="get_target_form_function.xml" />
 ```
 
 ### Inline
 
-`<g:inline>`, inserts a jelly file into your jelly in the same context, meaning **you can acccess** variables previously established in your Jelly.
+`<g:inline>`, inserts a jelly file into your jelly in the same context,
+meaning **you can acccess** variables previously established in your
+Jelly.
 
-```xml
+``` {.xml}
 <g:inline template="element_default.xml" />
 ```
 
 ### Call
 
-`<g:call>`, has better encapulation than the above two.  In short, you can pass values, but **you can't access variables** previously established in your Jelly unless explicitly passed.
+`<g:call>`, has better encapulation than the above two. In short, you
+can pass values, but **you can't access variables** previously
+established in your Jelly unless explicitly passed.
 
-```xml
+``` {.xml}
 <g:call function="collapsing_image.xml"
         id="${jvar_section_id}"
         image="$[jvar_cimg]"
@@ -118,9 +131,13 @@ Here's a list of tags I generally use when working with Jelly.  There are other 
 
 ### Evaluate
 
-`<g:evaluate>` tag is used to evaluate an expression in [Rhino Javascript](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino).  The last statement in the expression is the value the variable will contain.  If you would like to have the evaluate return an object (for example an array), use the argument object="true".
+`<g:evaluate>` tag is used to evaluate an expression in [Rhino
+Javascript](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino).
+The last statement in the expression is the value the variable will
+contain. If you would like to have the evaluate return an object (for
+example an array), use the argument object="true".
 
-```xml
+``` {.xml}
 <g2:evaluate var="jvar_page" jelly="true" object="true">
      var users = [];
      var sys_user = new GlideRecord("sys_user");
@@ -136,20 +153,21 @@ Here's a list of tags I generally use when working with Jelly.  There are other 
 
 ## Escaping
 
-Escaping is hell with Jelly and XML.  Anything you'd think about escaping is probably wrong.  Here's the short of it.
+Escaping is hell with Jelly and XML. Anything you'd think about escaping
+is probably wrong. Here's the short of it.
 
 ### Characters
 
-| Desired Character | Phase 1     | Phase 2     |
-| :---------------: | ----------- | ----------- |
-| `&`               | `${AMP}`    | `$[AMP]`    |
-| `<`               | `${AMP}lt;` | `$[AMP]lt;` |
-| `>`               | `${AMP}gt;` | `$[AMP]gt;` |
-| ` `               | `${SP}`     | `$[SP]`     |
+|     Desired Character     | Phase 1     | Phase 2     |
+|:-------------------------:|-------------|-------------|
+|            `&`            | `${AMP}`    | `$[AMP]`    |
+|            `<`            | `${AMP}lt;` | `$[AMP]lt;` |
+|            `>`            | `${AMP}gt;` | `$[AMP]gt;` |
+| \` `|`${SP}` | `$\[SP\]\` |             |             |
 
 ### Values
 
-```xml
+``` {.xml}
 ${test.getHTMLValue()}
 ${JS:expression}
 ${HTML:expression}
@@ -158,20 +176,31 @@ ${HTML:expression}
 Sometimes you need to call `<g:no_escape>${jvar_t}</g:no_escape>`.
 
 ## RP aka RenderProperties
+
 [Docs](https://docs.servicenow.com/bundle/london-application-development/page/app-store/dev_portal/API_reference/RenderProperties/concept/RenderProperties-API.html)
 
 ### getEncodedQuery
+
 ### getListControl
+
 ### getParameterValue
 
-```js
+``` {.js}
 RP.getParameterValue('r');// would return url r= value
 ```
+
 ### getReferringURL
+
 ### getViewID
+
 ### getViewName
+
 ### getWindowProperties
+
 ### isInDevStudio
+
 ### isInteractive
+
 ### isManyToMany
+
 ### isRelatedList

@@ -1,25 +1,25 @@
 ---
-title: Service Portal - Accept/Reject Solution
+aliases:
+- '/sp-accept-reject/'
+date: '2017-10-26'
+keywords:
+- sp
+- widget
 layout: post
 tags:
 - service portal
 - widget
-date: 2017-10-26
-aliases:
- - "/sp-accept-reject/"
-keywords:
-- "sp"
-- "widget"
+title: 'Service Portal - Accept/Reject Solution'
 ---
-I created a widget and wanted to share that code. Should work on any instance unless you have a business rule blocking the update. 
+
+I created a widget and wanted to share that code. Should work on any
+instance unless you have a business rule blocking the update.
 
 ![sp-accept-reject](/uploads/sp-accept-reject.png)
 
-<!--more-->
-
 ## Client Script
 
-```js
+``` {.js}
 //Client Script
 function($scope) {
   /* widget controller */
@@ -41,7 +41,7 @@ function($scope) {
 
 ## Server Script
 
-```js
+``` {.js}
 //Server Script
 (function() {
   /* populate the 'data' object */
@@ -125,7 +125,7 @@ function($scope) {
 
 ## HTML
 
-```html
+``` {.html}
 <!--Template-->
 <div ng-if="data.canRead && data.show" class="panel panel-primary b">
   <div class="panel-heading">

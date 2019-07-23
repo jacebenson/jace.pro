@@ -1,14 +1,15 @@
 ---
-title: Service Portal 404s
-date: 2018-05-31
-layout: post
 aliases:
- - "/fourohfour/"
+- '/fourohfour/'
+date: '2018-05-31'
+layout: post
+title: Service Portal 404s
 ---
 
-This [post](https://community.servicenow.com/community?id=community_question&sys_id=80050f2ddbd8dbc01dcaf3231f96192e), inspired me to make a local copy of 404 pages from it and other places on the web to drive ideas to make new ones.
-
-<!--more-->
+This
+[post](https://community.servicenow.com/community?id=community_question&sys_id=80050f2ddbd8dbc01dcaf3231f96192e),
+inspired me to make a local copy of 404 pages from it and other places
+on the web to drive ideas to make new ones.
 
 ## niedziel's Chinese Cookie 404
 

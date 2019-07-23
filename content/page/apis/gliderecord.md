@@ -1,104 +1,109 @@
 ---
-title: GlideRecord
-date: 2016-01-01
-layout: page
-url: "/gliderecord/"
-tags:
-- server-side-api
 aliases:
-- "/Operators/"
-- "/GlideRecord/"
-- "/gr/"
-keywords: 
-- "getlasterrormessage"
-- "isvalid"
-- "operation"
-- "setabortaction"
-- "setworkflow"
-- "cancreate"
-- "candelete"
-- "canread"
-- "canwrite"
-- "addencodedquery"
-- "addjoinquery"
-- "addnotnullquery"
-- "addnullquery"
-- "addorcondition"
-- "addquery"
-- "choosewindow"
-- "get"
-- "getencodedquery"
-- "getrowcount"
-- "hasnext"
-- "next"
-- "orderby"
-- "orderbydesc"
-- "query"
-- "setlimit"
-- "setencodedquery"
-- "addfunction"
-- "getattribute"
-- "getcategory"
-- "getclassdisplayvalue"
-- "getdisplayname"
-- "getdisplayvalue"
-- "getelement"
-- "getlabel"
-- "getlink"
-- "getrecordclassname"
-- "gettablename"
-- "getvalue"
-- "autosysfields"
-- "deletemultiple"
-- "deleterecord"
-- "initialize"
-- "insert"
-- "isactionaborted"
-- "isnewrecord"
-- "isvalidfield"
-- "usvalidrecord"
-- "newrecord"
-- "setcategory"
-- "setforceupdate"
-- "setnewguid"
-- "setnewguidvalue"
-- "setvalue"
-- "update"
-- "updatemultiple"
-- "updatelazy"
+- '/Operators/'
+- '/GlideRecord/'
+- '/gr/'
+date: '2016-01-01'
+keywords:
+- getlasterrormessage
+- isvalid
+- operation
+- setabortaction
+- setworkflow
+- cancreate
+- candelete
+- canread
+- canwrite
+- addencodedquery
+- addjoinquery
+- addnotnullquery
+- addnullquery
+- addorcondition
+- addquery
+- choosewindow
+- get
+- getencodedquery
+- getrowcount
+- hasnext
+- next
+- orderby
+- orderbydesc
+- query
+- setlimit
+- setencodedquery
+- addfunction
+- getattribute
+- getcategory
+- getclassdisplayvalue
+- getdisplayname
+- getdisplayvalue
+- getelement
+- getlabel
+- getlink
+- getrecordclassname
+- gettablename
+- getvalue
+- autosysfields
+- deletemultiple
+- deleterecord
+- initialize
+- insert
+- isactionaborted
+- isnewrecord
+- isvalidfield
+- usvalidrecord
+- newrecord
+- setcategory
+- setforceupdate
+- setnewguid
+- setnewguidvalue
+- setvalue
+- update
+- updatemultiple
+- updatelazy
+layout: page
+tags:
+- 'server-side-api'
+title: GlideRecord
+url: '/gliderecord/'
 ---
+
 # What is GlideRecord
 
-A `GlideRecord` is a class of object that represents a table & offers a scriptable API to access records on that table
+A `GlideRecord` is a class of object that represents a table & offers a
+scriptable API to access records on that table
 
-`GlideRecord` is comprised of [`GlideElements`](/glideelement) as well as other methods and metadata that work together to allow you to query from and write to database tables
+`GlideRecord` is comprised of [`GlideElements`](/glideelement) as well
+as other methods and metadata that work together to allow you to query
+from and write to database tables
 
-[`GlideElement`](/glideelement) is a class of object that represents a column on a table
+[`GlideElement`](/glideelement) is a class of object that represents a
+column on a table
 
-There are two versions of GlideRecord, the client side version, and the server side version.
+There are two versions of GlideRecord, the client side version, and the
+server side version.
 [docs](https://developer.servicenow.com/app.do#!/api_doc?v=jakarta&id=c_GlideRecordScopedAPI)
-<!--more-->
 
 | Category | Method                                        | Brief Description                                                                                                                       |
-| -------- | --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+|----------|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | \*       | [getLastErrorMessage](#getlasterrormessage)   | Retrieves the last error message                                                                                                        |
 | \*       | [isValid](#isvalid)                           | Determines whether the table exists or not                                                                                              |
 | \*       | [operation](#operation)                       | Retrieves the current operation being performed, such as insert, update, or delete                                                      |
 | \*       | [setAbortAction](#setabortaction)             | Sets a flag to indicate if the next database action (insert, update, delete) is to be aborted                                           |
 | \*       | [setWorkflow](#setworkflow)                   | Flag to run or not run other business rules                                                                                             |
-| Access   | [canCreate](#cancreate)                       | Determines if the Access Control Rules which include the user’s roles permit inserting new records in this table                        |
-| Access   | [canDelete](#candelete)                       | Determines if the Access Control Rules which include the user’s roles permit deleting records in this table                             |
-| Access   | [canRead](#canread)                           | Determines if the Access Control Rules which include the user’s roles permit reading records in this table                              |
-| Access   | [canWrite](#canwrite)                         | Determines if the Access Control Rules which include the user’s roles permit editing records in this table                              |
+| Access   | [canCreate](#cancreate)                       | Determines if the Access Control Rules which include the user's roles permit inserting new records in this table                        |
+| Access   | [canDelete](#candelete)                       | Determines if the Access Control Rules which include the user's roles permit deleting records in this table                             |
+| Access   | [canRead](#canread)                           | Determines if the Access Control Rules which include the user's roles permit reading records in this table                              |
+| Access   | [canWrite](#canwrite)                         | Determines if the Access Control Rules which include the user's roles permit editing records in this table                              |
 | Query    | [addEncodedQuery](#addencodedquery)           | Specifies one of many querys encoded                                                                                                    |
 | Query    | [addJoinQuery](#addjoinquery)                 | Adds a filter to return records based on a relationship in a related table                                                              |
-| Query    | [addNotNullQuery](#addnotnullquery)           | Add’s a `^fielsISNOTNULL` condition                                                                                                     |
-| Query    | [addNullQuery](#addnullquery)                 | Add’s a `^fieldISNULL` condition                                                                                                        |
-| Query    | [addOrCondition](#addorcondition)             | Add’s a `^OR` condition                                                                                                                 |
+| Query    | [addNotNullQuery](#addnotnullquery)           | Add's a `^fielsISNOTNULL` condition                                                                                                     |
+| Query    | [addNullQuery](#addnullquery)                 | Add's a `^fieldISNULL` condition                                                                                                        |
+| Query    | [addOrCondition](#addorcondition)             | Add's a `^OR` condition                                                                                                                 |
 | Query    | [addQuery](#addquery)                         | Specifies one of many querys                                                                                                            |
 | Query    | [chooseWindow](#choosewindow)                 | Sets a range of rows to be returned by subsequent queries. If forceCount is true, getRowCount() method will return all possible records |
-| Query    | [get](#get)                                   | Get’s a single record                                                                                                                   |
-| Query    | [getEncodedQuery](#getencodedquery)           | Returns the query in it’s encoded form                                                                                                  |
+| Query    | [get](#get)                                   | Get's a single record                                                                                                                   |
+| Query    | [getEncodedQuery](#getencodedquery)           | Returns the query in it's encoded form                                                                                                  |
 | Query    | [getRowCount](#getrowcount)                   | Gets the number of rows, not recomeneded, use [GlideAggregate](/GlideAggregate) instead                                                 |
 | Query    | [hasNext](#hasnext)                           | Determines if there are any more records in the GlideRecord                                                                             |
 | Query    | [next](#next)                                 | Moves to the next record in the GlideRecord                                                                                             |
@@ -109,7 +114,7 @@ There are two versions of GlideRecord, the client side version, and the server s
 | Query    | [setEncodedQuery](#setencodedquery)           |                                                                                                                                         |
 | Read     | [addFunction](#addfunction)                   | Retrieve the specified platform function in addition of the field values                                                                |
 | Read     | [getAttribute](#getattribute)                 | Gets the attributes on the field in question from the dictionary                                                                        |
-| Read     | [getCategory](#getcategory)                   | Determines whether a category is set for a query.                                                                                                                                        |
+| Read     | [getCategory](#getcategory)                   | Determines whether a category is set for a query.                                                                                       |
 | Read     | [getClassDisplayValue](#getclassdisplayvalue) |                                                                                                                                         |
 | Read     | [getDisplayName](#getdisplayname)             | Retrieves the name of the display field                                                                                                 |
 | Read     | [getDisplayValue](#getdisplayvalue)           | Retrieves the display value for the current record                                                                                      |
@@ -137,7 +142,7 @@ There are two versions of GlideRecord, the client side version, and the server s
 | Write    | [setValue](#setvalue)                         | Sets the value for the specified field.                                                                                                 |
 | Write    | [update](#update)                             | Updates the current GlideRecord with any changes that have been made                                                                    |
 | Write    | [updateMultiple](#updatemultiple)             | Updates each GlideRecord in the list with any changes that have been made                                                               |
-| Write    | [updateLazy](#updatelazy)                     | Places update in a batch, doesn't happen immediately, code continues past it.  Undocumented.                                            |
+| Write    | [updateLazy](#updatelazy)                     | Places update in a batch, doesn't happen immediately, code continues past it. Undocumented.                                             |
 |          | [Operators](#operators)                       | Different Operators for GlideRecord                                                                                                     |
 
 ## \*
@@ -167,7 +172,7 @@ delete) is to be aborted.
 Enables or disables the running of business rules, script engines, and
 audit. *NOTE: This works on queries too*
 
-``` js
+``` {.js}
 var incident = new GlideRecord('incident');
 incident.newRecord();
 incident.setValue('short_description','This is text');
@@ -179,33 +184,33 @@ incident.insert();//returns the sys_id string of inserted record
 
 ### canCreate
 
-Determines if the Access Control Rules which include the user’s roles
+Determines if the Access Control Rules which include the user's roles
 permit inserting new records in this table.
 
 ### canDelete
 
-Determines if the Access Control Rules which include the user’s roles
+Determines if the Access Control Rules which include the user's roles
 permit deleting records in this table.
 
 ### canRead
 
-Determines if the Access Control Rules which include the user’s roles
+Determines if the Access Control Rules which include the user's roles
 permit reading records in this table
 
 ### canWrite
 
-Determines if the Access Control Rules which include the user’s roles
+Determines if the Access Control Rules which include the user's roles
 permit editing records in this table.
 
 ## Query
 
-Generally most of the calls you’ll make with this will be queries. See
+Generally most of the calls you'll make with this will be queries. See
 if you find a record, find all the records, find a lack of records, then
 do something else.
 
 ### addEncodedQuery
 
-``` js
+``` {.js}
 // available for server, if you want to use on client, use addQuery(string)
 // expects;
 // string e.g. .addEncodedQuery('number=INC12345');
@@ -229,19 +234,19 @@ table.
 ### addNotNullQuery
 
 I generally ignore any other method that modifies the query. These have
-documentation, but I have yet to use it and find it’s code more verbose.
+documentation, but I have yet to use it and find it's code more verbose.
 Also this only works on server side.
 
 ### addNullQuery
 
 I generally ignore any other method that modifies the query. These have
-documentation, but I have yet to use it and find it’s code more verbose.
+documentation, but I have yet to use it and find it's code more verbose.
 Also this only works on server side.
 
 ### addOrCondition
 
 I generally ignore any other method that modifies the query. These have
-documentation, but I have yet to use it and find it’s code more verbose.
+documentation, but I have yet to use it and find it's code more verbose.
 Also this only works on server side. To use this in your encoded query
 just put `^OR` between your query strings.
 
@@ -250,7 +255,7 @@ just put `^OR` between your query strings.
 This method is most common when coming across queries. Generally folks
 with either have many addQuery methods declared, or one addEncodedQuery.
 
-``` js
+``` {.js}
 // available for both client and server
 // expects;
 // string e.g. .addQuery('number=INC12345');
@@ -278,7 +283,7 @@ is true, `getRowCount()` method will return all possible records.
 This method is a shortcut to get the first record found that matches the
 parameters you pass in this method.
 
-``` js
+``` {.js}
 // available for both client and server
 // expects one of;
 // sys_id e.g. .get('asdf1234asdf1234asfd1234asdf1234');
@@ -296,7 +301,7 @@ if(incident.get('number','INC12345')){//returns true if found
 
 ### getEncodedQuery
 
-This is really helpful if debugging code. If you’re not sure why you’re
+This is really helpful if debugging code. If you're not sure why you're
 getting the records you are, I generally add this to my code before my
 `.query()` and try the query in the GUI. This works on client and server
 side code.
@@ -305,7 +310,7 @@ side code.
 
 This will return the number of rows in your returned object after your
 `.query()`. However, this is frowned on because it has some memory
-issues. I’m not sure exaclty why but generally if you need to know the
+issues. I'm not sure exaclty why but generally if you need to know the
 quantity of records, you should always use GlideAggregate.
 `getRowCount()` is available client and server side. `GlideAggregate` is
 only available server side.
@@ -320,10 +325,10 @@ Moves to the next record in the GlideRecord.
 
 ### orderBy
 
-This will return your set order ascending (a-z, 1-9) by the column
-name, and is opposite of orderByDesc.
+This will return your set order ascending (a-z, 1-9) by the column name,
+and is opposite of orderByDesc.
 
-``` js
+``` {.js}
 var incident = new GlideRecord('incident');
 incident.addEncodedQuery('active=true');
 incident.orderBy('number');
@@ -341,7 +346,7 @@ while(incident.next()){
 This will return your set order descending (z-a, 9-1) by the columne
 name, and is opposibe of orderBy.
 
-``` js
+``` {.js}
 var incident = new GlideRecord('incident');
 incident.addEncodedQuery('active=true');
 incident.orderByDesc('number');
@@ -361,18 +366,18 @@ Runs the query against the table based on the specified filters by
 
 ### setEncodedQuery
 
-This isn’t documented anywhere and I just came across this. Appears to
-be a way to set the encoded query on the client. I’d avoid using this as
-it isn’t documented, but you can read the code here on
+This isn't documented anywhere and I just came across this. Appears to
+be a way to set the encoded query on the client. I'd avoid using this as
+it isn't documented, but you can read the code here on
 [hi](https://hi.service-now.com/scripts/sn/common/clientScript/glideRecord.js).
 
 ### setLimit
 
-This is really useful if you’re running a one time script to update some
+This is really useful if you're running a one time script to update some
 records. Run a test against one record. This works on client and server
 side code.
 
-``` js
+``` {.js}
 var incident = new GlideRecord('incident');
 incident.addEncodedQuery('number=INC12345');
 incident.setLimit(1);
@@ -397,16 +402,16 @@ Gets the attributes on the field in question from the dictionary
 
 ### getCategory
 
-The setCategory and getCategory methods are available in GlideRecord 
-for working with query categories when routing to secondary database 
-pools, known as read replicas.
+The setCategory and getCategory methods are available in GlideRecord for
+working with query categories when routing to secondary database pools,
+known as read replicas.
 
-A read replica is a 100% copy of an instance's database (DB) that can
-be only queried against with the goal to reduce load on the primary
-database. It's a paid feature and requires an extra plugin that can 
-only be activated by ServiceNow. With setCategory you can route some 
-categories to the read replica, so queries for them will not go to 
-primary database anymore (effectively reducing load on primary 
+A read replica is a 100% copy of an instance's database (DB) that can be
+only queried against with the goal to reduce load on the primary
+database. It's a paid feature and requires an extra plugin that can only
+be activated by ServiceNow. With setCategory you can route some
+categories to the read replica, so queries for them will not go to
+primary database anymore (effectively reducing load on primary
 database).
 
 [Source](https://community.servicenow.com/community?id=community_question&sys_id=971f83e1dbdcdbc01dcaf3231f961927)
@@ -454,7 +459,7 @@ Retrieves the underlying value of a field
 
 Controls weather or not to set the sys\_\* fields.
 
-``` js
+``` {.js}
 var incident = new GlideRecord('incident');
 incident.newRecord();
 incident.setValue('short_description','This is text');
@@ -464,13 +469,13 @@ incident.insert();//returns the sys_id string of inserted record
 
 ### deleteMultiple
 
-Generally you don’t need to delete records, so this is less common to
+Generally you don't need to delete records, so this is less common to
 see in use, some places you might see it used are when storing things
-temporarily. Like the cart’s items, those things don’t stick around and
-I’ve seen it coded to clear it out in some cases. In any case, my point
+temporarily. Like the cart's items, those things don't stick around and
+I've seen it coded to clear it out in some cases. In any case, my point
 is, this is seen less often.
 
-This is shortcut to delete a lot of records, however it’s not
+This is shortcut to delete a lot of records, however it's not
 necessarily faster. To use this you can just specify your query, and
 then invoke `incident.deleteMultiple();`
 
@@ -478,16 +483,16 @@ This is available on server only.
 
 ### deleteRecord
 
-Generally you don’t need to delete records, so this is less common to
+Generally you don't need to delete records, so this is less common to
 see in use, some places you might see it used are when storing things
-temporarily. Like the cart’s items, those things don’t stick around and
-I’ve seen it coded to clear it out in some cases. In any case, my point
+temporarily. Like the cart's items, those things don't stick around and
+I've seen it coded to clear it out in some cases. In any case, my point
 is, this is seen less often.
 
 If you have a GlideRecord object, you can specify to delete the record
 like so;
 
-``` js
+``` {.js}
 incident.deleteRecord();
 ```
 
@@ -501,7 +506,7 @@ otherwise specified
 
 ### initialize
 
-``` js
+``` {.js}
 var incident = new GlideRecord('incident');
 incident.initialize();//ignores default values for columns
 incident.setValue('short_description','This is text');
@@ -510,7 +515,7 @@ incident.insert();//returns the sys_id string of inserted record
 
 ### Insert
 
-So to be absolutely clear, to insert or update a record it’s nearly the
+So to be absolutely clear, to insert or update a record it's nearly the
 same code, except you use `.insert();` or `.update();`. However you may
 want to use those with the following methods;
 
@@ -537,7 +542,7 @@ Determines if current record is a valid record
 
 ### newRecord
 
-``` js
+``` {.js}
 var incident = new GlideRecord('incident');
 incident.newRecord();//Creates a new GlideRecord record, sets the
 // default values for the fields, and assigns a unique ID to the record.
@@ -547,16 +552,16 @@ incident.insert();//returns the sys_id string of inserted record
 
 ### setCategory
 
-The setCategory and getCategory methods are available in GlideRecord 
-for working with query categories when routing to secondary database 
-pools, known as read replicas.
+The setCategory and getCategory methods are available in GlideRecord for
+working with query categories when routing to secondary database pools,
+known as read replicas.
 
-A read replica is a 100% copy of an instance's database (DB) that can
-be only queried against with the goal to reduce load on the primary
-database. It's a paid feature and requires an extra plugin that can 
-only be activated by ServiceNow. With setCategory you can route some 
-categories to the read replica, so queries for them will not go to 
-primary database anymore (effectively reducing load on primary 
+A read replica is a 100% copy of an instance's database (DB) that can be
+only queried against with the goal to reduce load on the primary
+database. It's a paid feature and requires an extra plugin that can only
+be activated by ServiceNow. With setCategory you can route some
+categories to the read replica, so queries for them will not go to
+primary database anymore (effectively reducing load on primary
 database).
 
 [Source](https://community.servicenow.com/community?id=community_question&sys_id=971f83e1dbdcdbc01dcaf3231f961927)
@@ -566,7 +571,7 @@ database).
 Normally if no update is detected, Servicenow will ignore the update.
 With this method, it will apply the update regardless.
 
-``` js
+``` {.js}
 var incident = new GlideRecord('incident');
 incident.setLimit(1);
 incident.query();
@@ -580,7 +585,7 @@ if(incident.next()){
 
 This sets the guid to a value before the record is saved.
 
-``` js
+``` {.js}
 var t = new GlideRecord('task');
 var tSysid = t.setNewGuid();
 // some fancy script with tSysid
@@ -589,10 +594,10 @@ var tSysid = t.setNewGuid();
 ### setNewGuidValue
 
 This allows you to manually set your `sys_id`. I used this to most
-recently try to fix some broken reference, but I don’t know other
+recently try to fix some broken reference, but I don't know other
 reasons it may be used.
 
-``` js
+``` {.js}
 var a = new GlideRecord('ticket');
 a.setNewGuidValue('14018b8cdb69a6403bddf1910f961926');
 a.insert();
@@ -604,7 +609,7 @@ Sets the value for the specified field.
 
 ### Update
 
-So to be absolutely clear, to insert or update a record it’s nearly the
+So to be absolutely clear, to insert or update a record it's nearly the
 same code, except you use `.insert();` or `.update();`. However you may
 want to use those with the following methods;
 
@@ -612,7 +617,7 @@ Updates the current GlideRecord with any changes that have been made.
 
 ### updateMultiple
 
-So to be absolutely clear, to insert or update a record it’s nearly the
+So to be absolutely clear, to insert or update a record it's nearly the
 same code, except you use `.insert();` or `.update();`. However you may
 want to use those with the following methods;
 
@@ -621,18 +626,18 @@ made.
 
 ## updateLazy
 
-Came up on sndevs slack.  According to sources there this does;
+Came up on sndevs slack. According to sources there this does;
 
-> puts the update into a batch, which means it might not happen right away.
-> Your code can then continue on, but side-effects like BRs and such might 
-> not happen for a short while, because the operation doesn't actually occur 
-> yet.
-> It is undocumented. It has consequences and isn't meant for casual use.
+> puts the update into a batch, which means it might not happen right
+> away. Your code can then continue on, but side-effects like BRs and
+> such might not happen for a short while, because the operation doesn't
+> actually occur yet. It is undocumented. It has consequences and isn't
+> meant for casual use.
 
 ## Operators
 
 | Operator label           | Equivalent query operator | Example query                                                                 |
-| ------------------------ | ------------------------- | ----------------------------------------------------------------------------- |
+|--------------------------|---------------------------|-------------------------------------------------------------------------------|
 | is not                   | `!=`                      | `short_description!=Network storage unavailable`                              |
 | and                      | `^`                       | `active=true^CallerISNOTEMPTY`                                                |
 | OR filter (new query)    | `^NQ`                     | `active=true^NQactive=false`                                                  |

@@ -1,46 +1,45 @@
 ---
-layout: page
-url: "/restapiresponse/"
-
-date: 2018-01-05
-cover: ''
-
-tags:
-- server-side-api
-title: RESTAPIResponse
 aliases:
-- "/RESTAPIResponse/"
+- '/RESTAPIResponse/'
+date: '2018-01-05'
+layout: page
+tags:
+- 'server-side-api'
+title: RESTAPIResponse
+url: '/restapiresponse/'
 ---
+
 ## What is RESTAPIResponse
-<!--more-->
 
 ### setHeaders
 
-Set response headers from the specified object                                                                                                                                                                 
+Set response headers from the specified object
 
 ### getStreamWriter
 
-Return stream writer. Caller responsible to set proper content type and status using setStatus and setHeader methods. Caller responsible to populate all headers on response before actually writing to stream 
+Return stream writer. Caller responsible to set proper content type and
+status using setStatus and setHeader methods. Caller responsible to
+populate all headers on response before actually writing to stream
 
 ### setLocation
 
-Set the Location header                                                                                                                                                                                        
+Set the Location header
 
 ### setError
 
-Set Response Error                                                                                                                                                                                             
+Set Response Error
 
 ### setContentType
 
-Set the Content-Type header                                                                                                                                                                                    |
+Set the Content-Type header \|
 
 ### setBody
 
-Use the specified object as the response body                                                                                                                                                                  
+Use the specified object as the response body
 
 ### setStatus
 
-Set response HTTP status code                                                                                                                                                                                  
+Set response HTTP status code
 
 ### setHeader
 

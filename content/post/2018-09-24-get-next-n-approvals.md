@@ -1,14 +1,15 @@
 ---
-title:   Get the next N approvals
-date:    2018-09-24
-layout:  post
+date: '2018-09-24'
+layout: post
+title: Get the next N approvals
 ---
 
-I was talking with someone they were asking how to get the next x approvals up to 10.  In my opinion that's just too many levels.  However you can't always control the environment you work in.  He was trying to get the next x approvals.
-<!--more-->
-I came up with this script;
+I was talking with someone they were asking how to get the next x
+approvals up to 10. In my opinion that's just too many levels. However
+you can't always control the environment you work in. He was trying to
+get the next x approvals. I came up with this script;
 
-```js
+``` {.js}
 // start debugging
 var current = {};
 current.variables = {};
@@ -47,21 +48,10 @@ for (var x=1; x<=10; x++) {
 gs.print(JSON.stringify(approvals,'','  '));
 ```
 
-{{<mermaid align="center">}}
-graph LR
-  S0(Start)
-  A(Approval N)
-  T1(Task 1)
-  RS(RS: Figure out next approval)
-  IF(IF: Has person to approve)
-  E0(End)
+{{}} graph LR S0(Start) A(Approval N) T1(Task 1) RS(RS: Figure out next
+approval) IF(IF: Has person to approve) E0(End)
 
-  S0-->RS
-  A--Approved-->RS
-  A--Rejected-->E0
-  RS-->IF
-  IF--No-->T1
-  IF--Yes-->A
-  T1-->E0
+S0--\>RS A--Approved--\>RS A--Rejected--\>E0 RS--\>IF IF--No--\>T1
+IF--Yes--\>A T1--\>E0
 
-{{< /mermaid >}}
+{{\< /mermaid \>}}

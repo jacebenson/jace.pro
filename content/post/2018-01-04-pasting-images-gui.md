@@ -1,36 +1,41 @@
 ---
-title: Pasting Images in the normal GUI
-date: 2018-01-04
+aliases:
+- '/Custom Solutions/Pasting-Images-Normal-GUI/'
+- '/pasting-images-gui'
+date: '2018-01-04'
+keywords:
+- paste
+- drag and drop
+- image
+- clipboard
 layout: post
 tags:
- - missing ootb
-aliases:
-- "/Custom Solutions/Pasting-Images-Normal-GUI/"
-- "/pasting-images-gui"
-keywords:
-- "paste"
-- "drag and drop"
-- "image"
-- "clipboard"
+- missing ootb
+title: Pasting Images in the normal GUI
 ---
 
-Sometime ago I looked for the ability to paste images onto a form and have it attach in both the [portal](/Service-Portal/Pasting-Images-on-the-Portal/), and the standard ui.  
+Sometime ago I looked for the ability to paste images onto a form and
+have it attach in both the
+[portal](/Service-Portal/Pasting-Images-on-the-Portal/), and the
+standard ui.
 
-<!--more-->
-
-I found this [post](https://community.servicenow.com/message/851339#851339) back then by Niklas Johansson.  I modified this some and got it to work by making the following modifications.
+I found this
+[post](https://community.servicenow.com/message/851339#851339) back then
+by Niklas Johansson. I modified this some and got it to work by making
+the following modifications.
 
 *This does not work on IE11 or IE Edge.*
 
 So this uses the following bits;
 
-1. UI Script (to load the functions to be called in client scripts)
-1. Client Script(s) (to add the ability on a form by form basis, or all when associated to `global`)
-1. Script Include (to handle the upload of the pasted file)
+1.  UI Script (to load the functions to be called in client scripts)
+2.  Client Script(s) (to add the ability on a form by form basis, or all
+    when associated to `global`)
+3.  Script Include (to handle the upload of the pasted file)
 
 ## UI Script
 
-```js
+``` {.js}
 // API Name: addPasteEvent
 // UI Type: Desktop
 // Global: Checked
@@ -134,7 +139,7 @@ function attachClipboardData(data) {
 
 ## Client Script
 
-```js
+``` {.js}
 function onLoad() {
     //Type appropriate comment here, and begin script below
     //will not work on service portal as it requires
@@ -144,7 +149,7 @@ function onLoad() {
 
 ## Script Include
 
-```js
+``` {.js}
 // Name pasteAttachment
 // Client Callable: Checked
 var pasteAttachment = Class.create();
@@ -164,5 +169,7 @@ pasteAttachment.prototype = Object.extendsObject(AbstractAjaxProcessor, {
 });
 ```
 
-- 2018-11-10 08:00 CST: This was updated to clarify options on the UI Script and the Script Include.
-- 2018-11-12 10:00 CST: Thanks Marius Kluften for the update about pasting the Microsoft things.
+-   2018-11-10 08:00 CST: This was updated to clarify options on the UI
+    Script and the Script Include.
+-   2018-11-12 10:00 CST: Thanks Marius Kluften for the update about
+    pasting the Microsoft things.

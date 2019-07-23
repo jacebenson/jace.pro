@@ -1,19 +1,22 @@
 ---
-title: Keeping HI on their toes
+date: '2018-09-05'
 layout: post
-date: 2018-09-05
+title: Keeping HI on their toes
 ---
-So more often now then before I have to open HI tickets and I just loathe how they've restricted the views and fields and the sorting.
 
-So I wrote a userscript (useable with plugins like tampermonkey) to give me a consistent list of things not updated in the time I want, or updated by someone other than me.
+So more often now then before I have to open HI tickets and I just
+loathe how they've restricted the views and fields and the sorting.
 
-<!--more-->
+So I wrote a userscript (useable with plugins like tampermonkey) to give
+me a consistent list of things not updated in the time I want, or
+updated by someone other than me.
 
 ![](/uploads/2018-09-05-keeping-hi-on-their-toes.png)
 
-Here's the [script](https://openuserjs.org/scripts/jacebenson/Get_HI_Updated_by_not_me/source).
+Here's the
+[script](https://openuserjs.org/scripts/jacebenson/Get_HI_Updated_by_not_me/source).
 
-```js
+``` {.js}
 // ==UserScript==
 // @name         Get HI Updated by not me
 // @namespace    https://blog.jace.pro/post/2018-09-05-keeping-hi-on-their-toes/
@@ -141,5 +144,4 @@ jQuery(document).ready(function(){
     }
 
 });
-
 ```

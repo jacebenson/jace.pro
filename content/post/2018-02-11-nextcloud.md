@@ -1,20 +1,23 @@
 ---
-title: Setting up NextCloud
-date: 2018-02-11
-layout: post
 aliases:
-- "/nextcloud/"
+- '/nextcloud/'
+date: '2018-02-11'
+layout: post
+title: Setting up NextCloud
 ---
-This is a quick how-to setup NextCloud.  Documented so I can do this later quickly.  I had used the SNAP to install it initially and that worked well until I tried to use a volume that I could expand easily.  It seems SNAPs don't have access to `/mnt` points.
 
-<!--more-->
+This is a quick how-to setup NextCloud. Documented so I can do this
+later quickly. I had used the SNAP to install it initially and that
+worked well until I tried to use a volume that I could expand easily. It
+seems SNAPs don't have access to `/mnt` points.
 
-1. Create LAMP 16.04 1-click install VPS on Digital Ocean $5/mo
-1. Set up networking for your domain
-1. In your new Droplet, create a Volume for VPS where you'll store the files
-1. SSH to VPS
+1.  Create LAMP 16.04 1-click install VPS on Digital Ocean \$5/mo
+2.  Set up networking for your domain
+3.  In your new Droplet, create a Volume for VPS where you'll store the
+    files
+4.  SSH to VPS
 
-```bash
+``` {.bash}
 MOUNTPOINT=yourVolumeNameHere
 DOMAIN=enter.your.domain.here
 
@@ -90,10 +93,10 @@ mysql> FLUSH PRIVILEGES;
 mysql> \q
 ```
 
-1. Navigate to your ${DOMAIN}
-1. Set up admin user/password
-1. Data folder should be the mountpoint e.g. /mnt/${MOUNTPOINT}
-1. Database user: nextcloud
-1. Database pass: whatever you put in IDENTIFIED BY line
-1. Database name: nextcloud
-1. Database server: localhost
+1.  Navigate to your \${DOMAIN}
+2.  Set up admin user/password
+3.  Data folder should be the mountpoint e.g. /mnt/\${MOUNTPOINT}
+4.  Database user: nextcloud
+5.  Database pass: whatever you put in IDENTIFIED BY line
+6.  Database name: nextcloud
+7.  Database server: localhost

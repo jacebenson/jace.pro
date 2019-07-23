@@ -1,21 +1,17 @@
 ---
-
-
-cover: ''
-date: 2018-02-01
-layout: page
-url: "/api-now-globalsearch/"
-title: Rest GlobalSearch
-tags:
-- client-side-api
 aliases:
-- "/api/now/globalsearch/"
+- '/api/now/globalsearch/'
+date: '2018-02-01'
+layout: page
+tags:
+- 'client-side-api'
+title: Rest GlobalSearch
+url: '/api-now-globalsearch/'
 ---
-So a long while ago I had a meeting with ServiceNow to gripe about
-not being able to get results of the zing search engine via script.
-Looks like in Jakarta, they made that possible, just failed to
-document it.
-<!--more-->
+
+So a long while ago I had a meeting with ServiceNow to gripe about not
+being able to get results of the zing search engine via script. Looks
+like in Jakarta, they made that possible, just failed to document it.
 
 I found out a few weeks ago and just haven't been able to share. The
 endpoint takes two URL parameters, `sysparm_search` for the term, and

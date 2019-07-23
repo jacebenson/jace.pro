@@ -1,27 +1,27 @@
 ---
-title: GlideSystem
-date: 2016-01-01
-layout: page
-url: "/gs/"
-tags:
-- server-side-api
 aliases:
-- "/GlideSystem/"
-- "/glidesystem/"
+- '/GlideSystem/'
+- '/glidesystem/'
+date: '2016-01-01'
+layout: page
+tags:
+- 'server-side-api'
+title: GlideSystem
+url: '/gs/'
 ---
+
 ## What is gs
 
 `gs` is very heavily used in Servicenow, and as such, knowing what it
-can, and cannot do is crucial. Below I go over the functions I’m aware
+can, and cannot do is crucial. Below I go over the functions I'm aware
 of and what they do. Below these things refer to the availability based
 on weather you are in [global
 scope](https://docs.servicenow.com/bundle/kingston-application-development/page/app-store/dev_portal/API_reference/GlideSystem/concept/c_GlideSystemAPI.html)
 or in [your own
 scope](https://docs.servicenow.com/bundle/kingston-application-development/page/app-store/dev_portal/API_reference/glideSystemScoped/concept/c_GlideSystemScopedAPI.html).
-<!--more-->
 
 | Property / Method                                                       | Documented    | Description                                                                                       |
-| ----------------------------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------- |
+|-------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------|
 | [addErrorMessage](#adderrormessage)                                     | Global/Scoped | Adds an error message for the current session.                                                    |
 | [addInfoMessage](#addinfomessage)                                       | Global/Scoped | Adds an info message for the current session.                                                     |
 | [addMessage](#addmessage)                                               | Global        | Adds a message for the current session. Can be called using getMessages(String).                  |
@@ -58,7 +58,7 @@ scope](https://docs.servicenow.com/bundle/kingston-application-development/page/
 | [getImpersonatingUserName](#getimpersonatingusername)                   | Global        | Returns the name of the impersonating user or null if not impersonating.                          |
 | [getInfoMessages](#getinfomessages)                                     | Global        | Gets the list of info messages for the session that were added via addInfoMessage(Object.         |
 | [getMessages](#getmessages)                                             | Global        | Gets the list of messages of the specified type for the session that were added via addMessage(). |
-| [getMessageS](#getmessages-translated)                                  | Global        | Retrieves translated messages to display in the UI and escapes all ticks (’).                     |
+| [getMessageS](#getmessages-translated)                                  | Global        | Retrieves translated messages to display in the UI and escapes all ticks (').                     |
 | [getMessage](#getmessage)                                               | Global/Scoped | Retrieves translated messages to display in the UI.                                               |
 | [getNodeName](#getnodename)                                             | Global        | Returns the node name for specified index.                                                        |
 | [getNodeValue](#getnodevalue)                                           | Global        | Gets the node value for specified index.                                                          |
@@ -118,7 +118,7 @@ scope](https://docs.servicenow.com/bundle/kingston-application-development/page/
 | [user\_id](#user_id)                                                    |               |                                                                                                   |
 | [warn](#warn)                                                           | Scoped        |                                                                                                   |
 | [workflowFlush](#workflowflush)                                         | Global        | Deletes all existing workflow operations for the specified GlideRecord.                           |
-| [xmlToJSON](#xmltojson)                                                 | Scoped        | Converts an xml string to json object. |                                                          |
+| [xmlToJSON](#xmltojson)                                                 | Scoped        | Converts an xml string to json object.                                                            |
 | [beginningOfLastMonth](#beginningoflastmonth)                           | Global/Scoped | Gets the date and time for the beginning of last month in GMT.                                    |
 | [beginningOfLastWeek](#beginningoflastweek)                             | Global/Scoped | Gets the date and time for the beginning of last week in GMT.                                     |
 | [beginningOfNextMonth](#beginningofnextmonth)                           | Global/Scoped | Gets the date and time for the beginning of next month in GMT.                                    |
@@ -172,13 +172,13 @@ scope](https://docs.servicenow.com/bundle/kingston-application-development/page/
 | [quartersAgoStart](#quartersstart)                                      | Global/Scoped | Gets a date and time for the first day of the quarter a certain number of quarters ago.           |
 | [quartersAgo](#quartersago)                                             | Global        | Gets a date and time for a certain number of quarters ago.                                        |
 | [yearsAgo](#yearsago)                                                   | Global/Scoped | Gets a date and time for a certain number of years ago.                                           |
-| [yesterday](#yesterday)                                                 | Global/Scoped | Gets yesterday’s time.                                                                            |
+| [yesterday](#yesterday)                                                 | Global/Scoped | Gets yesterday's time.                                                                            |
 
 ## addErrorMessage
 
 This is a way to display an error message to a user.
 
-``` js
+``` {.js}
 gs.addErrorMessage(gs.getMessage("To make a survey public, you need remove the signature"));
 ```
 
@@ -188,7 +188,7 @@ gs.addErrorMessage(gs.getMessage("To make a survey public, you need remove the s
 
 This is a way to display an infomational message to a user.
 
-``` js
+``` {.js}
 gs.addInfoMessage(gs.getMessage("{0}.  Hello!", 'I am no 1'));
 ```
 
@@ -196,11 +196,11 @@ gs.addInfoMessage(gs.getMessage("{0}.  Hello!", 'I am no 1'));
 
 ## addMessage
 
-This is a older method to add a message. I’d highly suggest not using
+This is a older method to add a message. I'd highly suggest not using
 this, however you can and if you want to see the result you can do so
 with the Xplore application.
 
-``` js
+``` {.js}
 //I don't suggest using this...
 gs.addMessage('test','again');
 gs.addMessage('test','again2');
@@ -210,23 +210,23 @@ gs.print(messages);//seems to work in Xplore but doesnt echo the contents in bac
 
 ## base64Decode
 
-There is a post on [John Anderson’s
+There is a post on [John Anderson's
 site](http://www.john-james-andersen.com/blog/service-now/easy-base64-encoding-in-servicenow.html)
 about base64 encoding and decoding.
 
-Here’s the bit;
+Here's the bit;
 
 > Base 64 encoding is a method used to convert binary data into ASCII
 > strings. This is especially helpful if you want to convert a file,
 > picture, or other object into a string in order to distribute it
 > through mechanisms such as web services or database storage.
-> 
+>
 > This type of encoding will convert any sort of data into a string of
 > case-sensitive letters and numbers. While the result will generally be
 > a longer string of text than its original counterpart, it offers
 > benefits such as taking a variety of types of data and converting it
 > to something that can be passed over a URL, or stored in a text field.
-> 
+>
 > While there is little documentation on converting data to base 64
 > format in ServiceNow, it can actually be done with a single line of
 > code. The following code snippet will take a string and convert it to
@@ -234,30 +234,30 @@ Here’s the bit;
 > new base64 string and decode back it its original format and write it
 > to the system log.
 
-``` js
+``` {.js}
 gs.base64Encode("My String");
 gs.base64Decode("ENCODEDSTRINGGOESHERE");
 ```
 
 ## base64Encode
 
-There is a post on [John Anderson’s
+There is a post on [John Anderson's
 site](http://www.john-james-andersen.com/blog/service-now/easy-base64-encoding-in-servicenow.html)
 about base64 encoding and decoding.
 
-Here’s the bit;
+Here's the bit;
 
 > Base 64 encoding is a method used to convert binary data into ASCII
 > strings. This is especially helpful if you want to convert a file,
 > picture, or other object into a string in order to distribute it
 > through mechanisms such as web services or database storage.
-> 
+>
 > This type of encoding will convert any sort of data into a string of
 > case-sensitive letters and numbers. While the result will generally be
 > a longer string of text than its original counterpart, it offers
 > benefits such as taking a variety of types of data and converting it
 > to something that can be passed over a URL, or stored in a text field.
-> 
+>
 > While there is little documentation on converting data to base 64
 > format in ServiceNow, it can actually be done with a single line of
 > code. The following code snippet will take a string and convert it to
@@ -265,14 +265,14 @@ Here’s the bit;
 > new base64 string and decode back it its original format and write it
 > to the system log.
 
-``` js
+``` {.js}
 gs.base64Encode("My String");
 gs.base64Decode("ENCODEDSTRINGGOESHERE");
 ```
 
 ## cacheFlush
 
-``` js
+``` {.js}
 gs.cacheFlush();
 /* Output
 Starting cache flush
@@ -285,9 +285,9 @@ Cache flush complete
 ## clearMessages
 
 This is related the [addMessage](#addmessage) method above. Like that
-one, I don’t see any reason to use this.
+one, I don't see any reason to use this.
 
-``` js
+``` {.js}
 gs.clearMessages()
 ```
 
@@ -297,7 +297,7 @@ This method was added around the time scoped apps were added as
 `gs.print` was made unavailable. In anycase, this is just a level of
 logging.
 
-``` js
+``` {.js}
 gs.debug('This is a message with {0}, {1}, {2}, {3}, {4} parameters','one','two','three','four','five');
 //*** Script: [DEBUG] This is a message with one, two, three, four, five parameters
 ```
@@ -306,7 +306,7 @@ gs.debug('This is a message with {0}, {1}, {2}, {3}, {4} parameters','one','two'
 
 ## dropColumnQuick
 
-``` js
+``` {.js}
 //this seems to be used by a business rule when a sys_dictionary element is deleted.
 if(GlideTableDescriptor.fieldExists(current.name.toString(), current.element.toString())) {
   var duplicates = new GlideRecord('sys_dictionary');
@@ -321,7 +321,7 @@ if(GlideTableDescriptor.fieldExists(current.name.toString(), current.element.toS
 
 ## dropTable
 
-``` js
+``` {.js}
 gs.dropTable(this.tableName);
 ```
 
@@ -333,7 +333,7 @@ This method was added around the time scoped apps were added as
 `gs.print` was made unavailable. In anycase, this is just a level of
 logging.
 
-``` js
+``` {.js}
 gs.error('This is a message with {0}, {1}, {2}, {3}, {4} parameters','one','two','three','four', 'five');
 //*** Script: This is a message with one, two, three, four, five parameters: no thrown error
 ```
@@ -346,14 +346,14 @@ specified date and time.
 This takes six properties, with the last being optional.
 
 | Parameter   | Description                                          |
-| ----------- | ---------------------------------------------------- |
+|-------------|------------------------------------------------------|
 | Parameter 1 | Event name, should be registered                     |
 | Parameter 2 | GlideRecord object the event gets access to          |
 | Parameter 3 | A string the event has access to via `parm1`         |
 | Parameter 4 | A string the event has access to via `parm2`         |
 | Parameter 5 | A GlideDateTime to set the `process_on` on the event |
 
-``` js
+``` {.js}
 var gdt = new GlideDateTime();
 gdt.addSeconds(100);
 var inc = new GlideRecord('incident');
@@ -370,26 +370,26 @@ if(inc.next()){
 This takes five properties, with the last being optional.
 
 | Parameter   | Description                                  |
-| ----------- | -------------------------------------------- |
+|-------------|----------------------------------------------|
 | Parameter 1 | Event name, should be registered             |
 | Parameter 2 | GlideRecord object the event gets access to  |
 | Parameter 3 | A string the event has access to via `parm1` |
 | Parameter 4 | A string the event has access to via `parm2` |
 | Parameter 5 | Optional. Event Queue to run this on         |
 
-``` js
+``` {.js}
 gs.eventQueue('cost_center.affected', current, itemSysID, itemName);
 ```
 
 ## executeNow
 
-``` js
+``` {.js}
 //gs.executeNow();
 ```
 
 ## fieldExists
 
-``` js
+``` {.js}
 gs.fieldExists('incident', 'rfc')
 ```
 
@@ -401,7 +401,7 @@ gs.fieldExists('incident', 'rfc')
 
 ## generateGUID
 
-``` js
+``` {.js}
 gs.generateGUID();
 ```
 
@@ -411,7 +411,7 @@ gs.generateGUID();
 
 ## getCssCacheVersionString
 
-``` js
+``` {.js}
 gs.getCssCacheVersionString();
 ```
 
@@ -421,7 +421,7 @@ gs.getCssCacheVersionString();
 
 ## getCurrentScopeName
 
-``` js
+``` {.js}
 gs.getCurrentScopeName();
 ```
 
@@ -434,7 +434,7 @@ gs.getCurrentScopeName();
 Returns the list of error messages for the session that were added by
 addInfoMessage().
 
-``` js
+``` {.js}
 gs.addErrorMessage('one');
 gs.addErrorMessage('two');
 gs.addErrorMessage('three');
@@ -448,7 +448,7 @@ gs.print(gs.getErrorMessages()); // returns [one, two, three, four];
 
 ## getImpersonatingUserDisplayName
 
-``` js
+``` {.js}
 //returns null if not impersonating
 //otherwise retruns string
 gs.getImpersonatingUserDisplayName();
@@ -456,7 +456,7 @@ gs.getImpersonatingUserDisplayName();
 
 ## getImpersonatingUserName
 
-``` js
+``` {.js}
 //returns null if not impersonating
 //otherwise retruns string
 gs.getImpersonatingUserName();
@@ -467,7 +467,7 @@ gs.getImpersonatingUserName();
 Returns the list of info messages for the session that were added by
 addInfoMessage().
 
-``` js
+``` {.js}
 gs.addInfoMessage('one');
 gs.addInfoMessage('two');
 gs.addInfoMessage('three');
@@ -479,9 +479,9 @@ gs.addInfoMessage('five');
 ## getMessages
 
 This is related the [addMessage](#addmessage) method above. Like that
-one, I don’t see any reason to use this.
+one, I don't see any reason to use this.
 
-``` js
+``` {.js}
 //I don't suggest using this...
 gs.addMessage('test','again');
 gs.addMessage('test','again2');
@@ -494,7 +494,7 @@ gs.print(messages);//seems to work in Xplore but doesnt echo the contents in bac
 ## getMessage
 
 This is related the [addMessage](#addmessage) method above. Like that
-one, I don’t see any reason to use this.
+one, I don't see any reason to use this.
 
 ## getNodeID
 
@@ -502,7 +502,7 @@ This is undocumented. This seems to return the `sys_id` of the
 `sys_cluster_state` the current script is running on. It can be found in
 the Scripted Web Service `InstanceInfo`.
 
-``` js
+``` {.js}
 // resp.result.node_id = ensure(gs.getNodeID());
 gs.print(gs.getNodeID());
 // 98a4fd3f0ede2c576c28d9b0a3a6073b
@@ -514,7 +514,7 @@ This is undocumented. This seems to return the `system_id` of the
 `sys_cluster_state` the current script is running on. It can be found in
 the Scripted Web Service `InstanceInfo`.
 
-``` js
+``` {.js}
 // resp.result.system_id = ensure(gs.getSystemID());
 gs.print(gs.getSystemID());
 // app128069.sin1.service-now.com:dev32369555
@@ -525,7 +525,7 @@ gs.print(gs.getSystemID());
 This is undocumented. This seems to return a IP address. It can be found
 in the Scripted Web Service `InstanceInfo`.
 
-``` js
+``` {.js}
 // resp.result.instance_ip = ensure(gs.getInstanceIP());
 gs.print(gs.getInstanceIP());
 // 10.132.128.69
@@ -535,26 +535,26 @@ gs.print(gs.getInstanceIP());
 
 ## getPreference
 
-``` js
+``` {.js}
 gs.getPreference('table.compact');
 ```
 
 ## getProperty
 
-This returns the value of a property, or if the property doesn’t exist,
+This returns the value of a property, or if the property doesn't exist,
 the second parameter.
 
-``` js
+``` {.js}
 //returns property or parm2
 gs.getProperty("glide.sc.checkout.twostep", "false");
 ```
 
 ## getScriptError
 
-This is undocumented. This however doesn’t seem to actually return
+This is undocumented. This however doesn't seem to actually return
 anything.
 
-``` js
+``` {.js}
 //var error = gs.getScriptError(current.script);
 var errorScript = 'var a = 1;var b = 0;console.log(a/b);';
 var error = gs.getScriptError(errorScript);
@@ -567,7 +567,7 @@ Returns the
 [GlideSession](https://developer.servicenow.com/app.do#!/api_doc?v=kingston&id=c_GlideSessionScopedAPI)
 Session ID.
 
-``` js
+``` {.js}
 gs.getSessionID();
 // FE2A72810F321300FC69CDBCE1050EBA
 ```
@@ -576,7 +576,7 @@ gs.getSessionID();
 
 This defines the [g\_ck](/g_ck) defined in most places.
 
-``` js
+``` {.js}
 gs.getSessionToken();
 ```
 
@@ -585,7 +585,7 @@ gs.getSessionToken();
 Gets a session object as [documented
 here](https://developer.servicenow.com/app.do#!/api_doc?v=kingston&id=c_GlideSessionScopedAPI).
 
-``` js
+``` {.js}
 gs.getSession();
 ```
 
@@ -599,19 +599,19 @@ I think this is part of GlideSession
 
 ## getUrlOnStack
 
-``` js
+``` {.js}
 gs.getUrlOnStack();
 ```
 
 ## getUserDisplayName
 
-``` js
+``` {.js}
 gs.getUserDisplayName();
 ```
 
 ## getUserID
 
-``` js
+``` {.js}
 var userID = gs.getUserID();
 gs.print(userID);
 // *** Script: d7004dd20f021300fc69cdbce1050eff
@@ -621,7 +621,7 @@ gs.print(userID);
 
 ## getUserName
 
-``` js
+``` {.js}
 gs.getUserName();
 ```
 
@@ -629,7 +629,7 @@ gs.getUserName();
 
 Gets a [user obj](/glideuser/).
 
-``` js
+``` {.js}
 gs.getUser();
 ```
 
@@ -639,7 +639,7 @@ gs.getUser();
 
 Gets the text of a xml node.
 
-```js
+``` {.js}
 var symbol = gs.getXMLText(current.payload, "//StockQuotes/Stock/Symbol");
 ```
 
@@ -647,7 +647,7 @@ var symbol = gs.getXMLText(current.payload, "//StockQuotes/Stock/Symbol");
 
 ## hasRole
 
-``` js
+``` {.js}
 gs.hasRole("mid_server");//returns true/false
 ```
 
@@ -659,26 +659,26 @@ This method was added around the time scoped apps were added as
 `gs.print` was made unavailable. In anycase, this is just a level of
 logging.
 
-``` js
+``` {.js}
 gs.info('This is a message with {0}, {1}, {2}, {3}, {4} parameters','one','two','three','four','five');
 //*** Script: This is a message with one, two, three, four, five parameters
 ```
 
 ## isCurrentApplicationCustom
 
-``` js
+``` {.js}
 gs.isCurrentApplicationCustom();//returns true/false
 ```
 
 ## isCurrentApplicationInGlobalScope
 
-``` js
+``` {.js}
 gs.isCurrentApplicationInGlobalScope();//returns true/false
 ```
 
 ## isDatabaseView
 
-``` js
+``` {.js}
 gs.isDatabaseView(ListProperties.getTable();//returns true/false
 ```
 
@@ -686,7 +686,7 @@ gs.isDatabaseView(ListProperties.getTable();//returns true/false
 
 ## isInteractive
 
-``` js
+``` {.js}
 gs.isInteractive();//returns true/false
 ```
 
@@ -694,85 +694,88 @@ gs.isInteractive();//returns true/false
 
 If you're logged in returns `true`, else, `false`.
 
-``` js
+``` {.js}
 gs.isLoggedIn();//returns true/false
 ```
 
 ## isMobile
 
-According to [this page](https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/administer/tablet_and_mobile_ui/reference/r_TestingForMobileDevicesInScripts.html)
-you should use `gs.isMobile()` to determine whether or not an action was taken through a mobile UI.
+According to [this
+page](https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/administer/tablet_and_mobile_ui/reference/r_TestingForMobileDevicesInScripts.html)
+you should use `gs.isMobile()` to determine whether or not an action was
+taken through a mobile UI.
 
-Additionally, you can use this to prevent a UI action from appearing in the mobile interface.
+Additionally, you can use this to prevent a UI action from appearing in
+the mobile interface.
 
-``` js
+``` {.js}
 gs.isMobile();//returns true/false
 ```
 
 ## isPaused
 
-``` js
+``` {.js}
 // if we're paused, then upgrade is running...
 if (gs.isPaused()) {}
 ```
 
 ## isTableInScope
 
-``` js
+``` {.js}
 gs.isTableInScope();//returns true/false
 ```
 
 ## isValidScript
 
-``` js
+``` {.js}
 gs.isValidScript(current.script);
 ```
 
 ## loadGlobalScripts
 
-``` js
+``` {.js}
 gs.loadGlobalScripts();
 ```
 
 ## logError
 
-This method is not available to scoped applications, so I’d suggest
+This method is not available to scoped applications, so I'd suggest
 using [gs.info()](#info) instead.
 
 This creates a record on the `syslog` table with a level of 2.
 
-``` js
+``` {.js}
 gs.logError('message','source');
 ```
 
 ## logWarning
 
-This method is not available to scoped applications, so I’d suggest
+This method is not available to scoped applications, so I'd suggest
 using [gs.info()](#info) instead.
 
 This creates a record on the `syslog` table with a level of 1.
 
-``` js
+``` {.js}
 gs.logWarning('message','source');
 ```
 
 ## log
 
-This method is not available to scoped applications, so I’d suggest
+This method is not available to scoped applications, so I'd suggest
 using [gs.info()](#info) instead.
 
 This creates a record on the `syslog` table with a level of 0.
 
-``` js
+``` {.js}
 gs.log('message','source');
 ```
 
 ## nil
 
-This is undocumented. It’s used all over though. Below is a ACL script
+This is undocumented. It's used all over though. Below is a ACL script
 on `kb_social_qa_subscribe`.
 
-``` js
+``` {.js}
 if(gs.nil(current.question) || current.operation() == 'insert')
   answer = true;
 else
@@ -781,21 +784,21 @@ else
 
 ## print
 
-This method is not available to scoped applications, so I’d suggest
+This method is not available to scoped applications, so I'd suggest
 using [gs.info()](#info) instead.
 
-``` js
+``` {.js}
 gs.print('hello world');
 ```
 
 ## sendRedirect
 
 This is undocumented. It appears to always be used when wanting to
-redirect the user. I’m not sure how its differetn then
+redirect the user. I'm not sure how its differetn then
 [`setRedirect`](#setredirect). You can see this in use on the UI Page
 `assessment_take2`.
 
-``` js
+``` {.js}
 // ...
 function saveAssessment() {
   if (!instance_sysID) {
@@ -810,7 +813,7 @@ function saveAssessment() {
 This is undocumented. It can be found a few places. The business rule
 "Set Current Application" seems self explantory;
 
-``` js
+``` {.js}
 gs.setCurrentApplicationId(current.sys_id);
 //...
 ```
@@ -820,7 +823,7 @@ gs.setCurrentApplicationId(current.sys_id);
 Sets the specified key to the specified value if the property is within
 the script's scope.
 
-``` js
+``` {.js}
 gs.setProperty("glide.foo","bar","foo");
 gs.info(gs.getProperty("glide.foo"));
 ```
@@ -830,7 +833,7 @@ gs.info(gs.getProperty("glide.foo"));
 Sets the redirect URI for this transaction, which then determines the
 next page the user will see.
 
-``` js
+``` {.js}
 var path = "com.glideapp.servicecatalog_cat_item_view.do?";
 path += "sysparm_id=d41ce5bac611227a0167f4bf8109bf70&";
 path += "sysparm_user=" + current.sys_id;
@@ -845,7 +848,7 @@ This is only available in `global`.
 Sets the return URI for this transaction. This determines what page the
 user will be directed to when they return from the next form.
 
-``` js
+``` {.js}
 gs.setReturn (current.getLink(true));
 ```
 
@@ -855,7 +858,7 @@ I am really suprised this is undocumented, but it is. It's used out of
 box a few places. This expects a number for the quantity of milleseconds
 to delay the server processing.
 
-``` js
+``` {.js}
 var timeInMS = 1000;//1 second in milleseconds
 gs.sleep(timeInMs);
 ```
@@ -865,7 +868,7 @@ gs.sleep(timeInMs);
 This is undocumented and found a few places, one of which is the UI Page
 `service_preview_generator`.
 
-``` xml
+``` {.xml}
 <?xml version="1.0" encoding="utf-8" ?>
 <j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
    <g:evaluate var="jvar_new_staged_id" jelly="true">
@@ -901,7 +904,7 @@ This is undocumented and found a few places, one of which is the UI Page
 This is undocumented and found a few places, one of which is the UI
 Action called, "Preview Service".
 
-``` js
+``` {.js}
 var newServiceID = '';
 var wasSuppressed = gs.suppressUpdateSynch(true);
 try {
@@ -921,7 +924,7 @@ if (newServiceID != '')
 
 Determines if a database table exists.
 
-``` js
+``` {.js}
 gs.tableExists('live_group_profile');
 // true if table exists, otherwise false.
 ```
@@ -930,7 +933,7 @@ gs.tableExists('live_group_profile');
 
 This is undocumented and found on the `catalog_item` UI Macro;
 
-``` xml
+``` {.xml}
 <g2:evaluate var="jvar_exists">
     var templateName ='com.glideapp.servicecatalog_' +
     sc_cat_item.sys_class_name + '.xml';
@@ -942,18 +945,18 @@ This is undocumented and found on the `catalog_item` UI Macro;
 
 This is not documented and found on the `Choices unload` business rule
 for Table `[sys_choice]`. I believe this is what adds all choices to an
-update set when the `sys_choice` gets modified. It’s just a guess.
+update set when the `sys_choice` gets modified. It's just a guess.
 
-``` js
+``` {.js}
 gs.unloadChoices(current.name, current.element, 'true');
 ```
 
 ## unWrap
 
 This is not documented and found on the `assesment_redirect` UI Page.
-Below I’ve listed the HTML and client script.
+Below I've listed the HTML and client script.
 
-``` xml
+``` {.xml}
 <?xml version="1.0" encoding="utf-8" ?>
 <j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
   <g2:evaluate var="jvar_unwrapped_url" jelly="true">
@@ -965,25 +968,24 @@ Below I’ve listed the HTML and client script.
 </j:jelly>
 ```
 
-``` js
+``` {.js}
 document.location.href = "$[JS:jvar_unwrapped_url]";
 ```
 
 ## updateSave
 
-``` js
+``` {.js}
 gs.updateSave(current);
 ```
 
 ## urlDecode
 
-This doesn’t seem to work. I tried the following script and it just sets
+This doesn't seem to work. I tried the following script and it just sets
 the variable to undefined. Below is what the docs say about this;
 
-> Replaces UTF-8 encoded characters with ASCII
-characters.
+> Replaces UTF-8 encoded characters with ASCII characters.
 
-``` js
+``` {.js}
 var decoded = gs.urlDecode('https://dev32369.service-now.com/nav_to.do?uri=%2Fsys.scripts.do');
 gs.print(decoded);
 // *** Script: undefined
@@ -991,15 +993,14 @@ gs.print(decoded);
 
 ## urlEncode
 
-This doesn’t seem to work. I tried the following script and it just sets
+This doesn't seem to work. I tried the following script and it just sets
 the variable to undefined. Below is what the docs say about this;
 
 > Encodes non-ASCII characters, unsafe ASCII characters, and spaces so
 > the returned string can be used on the Internet. Uses UTF-8 encoding.
-> Uses percent (%)
-encoding.
+> Uses percent (%) encoding.
 
-``` js
+``` {.js}
 var encoded = gs.urlEncode('https://dev32369.service-now.com/nav_to.do?uri=%2Fsys.scripts.do');
 gs.print(encoded);
 // *** Script: undefined
@@ -1007,9 +1008,9 @@ gs.print(encoded);
 
 ## userID
 
-This returns the logged in user’s `sys_id`.
+This returns the logged in user's `sys_id`.
 
-``` js
+``` {.js}
 var userID = gs.userID();
 gs.print(userID);
 // *** Script: d7004dd20f021300fc69cdbce1050eff
@@ -1017,7 +1018,7 @@ gs.print(userID);
 
 ## user\_id
 
-``` js
+``` {.js}
 var userID = gs.user_id();
 gs.print(userID);
 // *** Script: d7004dd20f021300fc69cdbce1050eff
@@ -1029,7 +1030,7 @@ This method was added around the time scoped apps were added as
 `gs.print` was made unavailable. In anycase, this is just a level of
 logging.
 
-``` js
+``` {.js}
 gs.warn('This is a message with {0}, {1}, {2}, {3}, {4} parameters','one','two','three','four', 'five');
 //*** Script: This is a message with one, two, three, four, five parameters
 ```
@@ -1038,11 +1039,12 @@ gs.warn('This is a message with {0}, {1}, {2}, {3}, {4} parameters','one','two',
 
 ## xmlToJSON
 
-Takes an XML string and returns a JSON object.  This seems to be similar to the 
-[XMLHelper](https://docs.servicenow.com/bundle/kingston-application-development/page/script/server-scripting/concept/c_XMLHelper.html) 
+Takes an XML string and returns a JSON object. This seems to be similar
+to the
+[XMLHelper](https://docs.servicenow.com/bundle/kingston-application-development/page/script/server-scripting/concept/c_XMLHelper.html)
 script include function, `toObject`.
 
-``` js
+``` {.js}
 var xmlStr = "";
 xmlStr += "<Names>";
 xmlStr += "  <Name>";
