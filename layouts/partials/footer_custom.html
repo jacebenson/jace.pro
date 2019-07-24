@@ -4,7 +4,11 @@
     console.log(currentOrigin + ' ? ' + baseURL);
     if(currentOrigin !== baseURL){// && location.origin !== "http://127.0.0.1" && location.origin !== "http://localhost"){
         console.log('want to go here....' + baseURL + location.pathname);
-        location.replace(baseURL + location.pathname);
+        if(location.pathname != '/'){
+            location.replace(baseURL);
+        } else {
+            location.replace(baseURL + location.pathname);
+        }
     } else {
         console.log("Already on correct domain: " + baseURL);
     }
