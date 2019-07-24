@@ -1,3 +1,14 @@
+<script>
+    console.log(location.hostname);
+    console.log(location.host);
+    console.log(location.origin);
+    var baseURL = new URL("{{ .Site.BaseURL }}");
+    console.log(baseURL.hostname);
+    if(location.origin !== "{{ .Site.BaseURL }}"){// && location.origin !== "http://127.0.0.1" && location.origin !== "http://localhost"){
+        console.log('want to go here....' + {{ .Site.BaseURL }});
+        //location.replace("{{ .Site.BaseURL }}");
+    }
+</script>
 <link href="{{"mermaid/mermaid.css" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}" type="text/css" rel="stylesheet" />
 <script src="{{"mermaid/mermaid.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}"></script>
 <script>
