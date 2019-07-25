@@ -160,3 +160,35 @@ go.render();
 | \_focusHandlerPrototype   | Unknown                        |
 | \_activateFocusTrap       | Unknown                        |
 | \_deactivateFocusTrap     | Unknown                        |
+
+## IFrame example
+
+``` {.js}
+var o = new GlideOverlay({
+    title : "Edit Metadata Request",
+    iframe : metadataservice_gui_url,
+    allowOverflowX : true,
+    height : 650,
+    width : 1000
+    //messages : ""
+});
+```
+
+## UI Page example
+
+``` {.js}
+new GlideOverlay({
+  title: new GwtMessage().getMessage('Run Fix Script'),
+  form: 'run_fix_script_dialog',
+  preferences: {
+  'sysparm_script_name': gr.u_notes,
+  'sysparm_sys_id': gr.sys_id
+  },
+  width: 600
+  }).render();
+```
+
+Further Reading:
+
+- https://community.servicenow.com/community?id=community_question&sys_id=36508924dbbd13800e3dfb651f96196f&view_source=searchResult
+- https://community.servicenow.com/community?id=community_question&sys_id=25a30f65dbd8dbc01dcaf3231f961951&view_source=searchResult

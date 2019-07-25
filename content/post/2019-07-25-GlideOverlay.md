@@ -12,7 +12,7 @@ I was on twitter and this came up;
 > --- Jonathan Jacob (@TheBurgerlution) [July 24,
 > 2019](https://twitter.com/TheBurgerlution/status/1154155650521456640)
 
-So I had to make a [page for it](https://blog.jace.pro/GlideOverlay).
+So I had to make a [page for it](/GlideOverlay).
 
 It appears to be a undocumented type of modal.
 
