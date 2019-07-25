@@ -1,0 +1,55 @@
+{{ define "header" }}
+  <header class="header-section ">
+    <div class="intro-header no-img">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="page-heading">
+              <h1>{{ if .Data.Singular }}#{{ end }}{{ .Title }}</h1>
+              <hr class="small">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+{{ end }}
+{{ define "main" }}
+  <div class="container-fluid" role="main">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {{ with .Content }}
+          <div class="well">
+            {{.}}
+          </div>
+        {{ end }}
+        <div class="posts-list">
+          <table>
+          {{ range .Paginator.Pages }}
+          <tr>
+              <td>
+                {{ if .Params.Link }}
+                <a href="{{ .Params.Link }}" class="post-read-more">
+                {{ end }}
+                  {{ .Title }}
+                {{ if .Params.Link }}
+                </a>
+                {{ end }}
+              </td>
+              <td>{{ .Description }}</td>
+              {{if gt (len (string .Params.Value)) 10}} 
+              <td>{{ substr .Params.Value 0 10}}...</td>
+              {{ end }}
+              {{if le (len (string .Params.Value)) 10}} 
+              <td>{{.Params.Value}}</td>
+              {{ end }}
+          </tr>
+          {{ end }}
+          
+      </table>
+        </div>
+      </div>
+    </div>
+  </div>
+{{ end }}
+
