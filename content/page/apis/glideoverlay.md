@@ -55,8 +55,6 @@ go.render();
 
 | Property/Method           | Description                    |
 |---------------------------|--------------------------------|
-| getGroupingSeparator      | Returns the decimal separator  |
-| getDecimalSeparator       | Returns the grouping separator |
 | \_escapeCloseHandler      | Unknown                        |
 | \_focusHandler            | Unknown                        |
 | initialize                | Unknown                        |
