@@ -25,18 +25,20 @@
         {{ end }}
         <div class="posts-list">
           <table>
-          {{ range .Paginator.Pages }}
+          
+          {{ range .Pages -}}
           <tr>
               <td>
-                {{ if .Params.Link }}
-                <a href="{{ .Params.Link }}" class="post-read-more">
-                {{ end }}
-                  {{ .Title }}
-                {{ if .Params.Link }}
+                <a href="{{ .Permalink }}" class="post-read-more">
+                  <code>{{ .Title }}</code>
                 </a>
-                {{ end }}
               </td>
-              <td>{{ .Description }}</td>
+              {{if gt (len (string .Params.Description)) 10}} 
+              <td>{{ substr .Params.Description 0 10}}...</td>
+              {{ end }}
+              {{if le (len (string .Params.Description)) 10}} 
+              <td>{{.Params.Description}}</td>
+              {{ end }}
               {{if gt (len (string .Params.Value)) 10}} 
               <td>{{ substr .Params.Value 0 10}}...</td>
               {{ end }}
