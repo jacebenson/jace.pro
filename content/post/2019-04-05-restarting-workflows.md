@@ -23,7 +23,7 @@ There are 2 ways to restart workflows.
 -   Click into the "Show Workflow Context" UI Action Link (above the
     related lists)
 -   Click Delete on the top right of the workflow context record !!! BE
-    SURE YOUR ON THE WF\_CONTEXT !!!
+    SURE YOU'RE ON THE WF\_CONTEXT !!!
 -   Goto the RITM and update the stage to `request_approved`
 -   That's it.
 
@@ -34,7 +34,7 @@ There are 2 ways to restart workflows.
 -   Click into the "Show Workflow Context" UI Action Link (above the
     related lists)
 -   Click Delete on the top right of the workflow context record !!! BE
-    SURE YOUR ON THE WF\_CONTEXT !!!
+    SURE YOU'RE ON THE WF\_CONTEXT !!!
 -   Goto the `wf_workflow.list` table and find the workflow you want to
     start, copy it's `sys_id`.
 -   Run this script in a background script;
