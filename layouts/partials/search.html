@@ -26,7 +26,7 @@
     //initialize autocomplete on search input (ID selector must match)
     autocomplete('#aa-search-input',
     { hint: true }, {
-        source: autocomplete.sources.hits(index, { hitsPerPage: 10 }),
+        source: autocomplete.sources.hits(index, { hitsPerPage: 20 }),
         //value to be displayed in input control after user's suggestion selection
         displayKey: 'name',
         //hash of templates used when rendering dataset
@@ -43,8 +43,8 @@
                     '<section class="col-xs-12 col-sm-6 col-md-12">' +
                     '<article class="search-result row">' +
                     '<div class="col-xs-8 excerpet">' +
-                    '<h4><a href="' + suggestion.url + '" title="">' + suggestion._highlightResult.title.value + '</a></h4>' +
-                    '<h6>' + suggestion.summary.replace(/<\/?[^>]+(>|$)/g, "").substring(0, 100) + '...</h6>' +
+                    '<h6><a href="' + suggestion.url + '" title="">' + suggestion.title + '</a></h6>' +
+                    //'<h6>' + suggestion.summary.replace(/<\/?[^>]+(>|$)/g, "").substring(0, 100) + '...</h6>' +
                     '</div>' +
                     //'<span>'+(suggestion.tags||'')+'</span>'+
                     //<span class="badge badge-secondary">New</span>
