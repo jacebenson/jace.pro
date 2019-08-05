@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1527
 layout: page
 title: glide.sc.lookup_select_box_width
-description: Lookup Select Box
-value: 50
+description: ""
+value: "50"
 ---

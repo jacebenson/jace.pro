@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1079
 layout: page
 title: glide.ui.advanced
-description: "Show \"Save\", \"Insert\" and \"Insert and Stay\" buttons on forms. "
-value: false
+description: ""
+value: "false"
 ---

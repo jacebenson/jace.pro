@@ -1,8 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 160
 layout: page
 title: google.maps.table
-description: "Table used by the map. The table needs the following fields: name, longitude, latitude."
-value: cmn_location
+description: ""
+value: "cmn_location"
 ---
-

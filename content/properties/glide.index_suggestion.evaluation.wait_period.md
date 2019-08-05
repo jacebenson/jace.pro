@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 273
 layout: page
 title: glide.index_suggestion.evaluation.wait_period
-description: Evaluation wait period (days) 
-value: 14 
+description: ""
+value: "14"
 ---

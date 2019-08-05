@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 152
 layout: page
 title: google.maps.latitude
-description: "Starting latitude of the map"
-value: 36.008522
+description: ""
+value: "36.008522"
 ---

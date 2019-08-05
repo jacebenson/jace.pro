@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 172
 layout: page
 title: com.glide.ui.virtual_host
-description: list of legacy virtual hosts
-value: pa,html,script,include scripts,glide,custprefix,_sn 
+description: ""
+value: "pa,html,script,include scripts,glide,custprefix,_sn"
 ---

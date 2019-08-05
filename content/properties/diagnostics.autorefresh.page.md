@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 525
 layout: page
 title: diagnostics.autorefresh.page
-description: Auto refresh the system_diagnostics_page after this many seconds
-value: 60 
+description: ""
+value: "60"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 346
 layout: page
 title: collaboration.polling_interval
-description: Amount of time to wait between polling for new messages.
-value: 60 
+description: ""
+value: "10"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 557
 layout: page
 title: glide.security.manager
-description: Security Manager`
-value: com.glide.sys.security.ContextualSecurityManager
+description: ""
+value: "com.glide.sys.security.ContextualSecurityManager"
 ---

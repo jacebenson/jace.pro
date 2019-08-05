@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 857
 layout: page
 title: glide.render.cache.max.age
-description: Maximum amount of time an entry stays in the render cache (in seconds)
-value: 60
+description: ""
+value: "60"
 ---

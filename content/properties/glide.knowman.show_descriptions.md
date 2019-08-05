@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1427
 layout: page
 title: glide.knowman.show_descriptions
-description: Show Knowledge section descriptions.
-value: true
+description: ""
+value: "true"
 ---

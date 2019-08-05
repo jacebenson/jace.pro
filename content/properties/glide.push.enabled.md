@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 190
 layout: page
 title: glide.push.enabled
-description: Enable the sending of push notifications.
-value: true
+description: ""
+value: "true"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1445
 layout: page
 title: glide.sc.log.variable_actions
-description: Log all client side actions on variable
-value: false
+description: ""
+value: "false"
 ---

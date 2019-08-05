@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1321
 layout: page
 title: glide.cmdb.health.metricProcessor.maxRunningTime
-description: Max time in minutes for which individual metric processor will run in each scheduled cycle
-value: 120
+description: ""
+value: "120"
 ---

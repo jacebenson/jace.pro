@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 409
 layout: page
 title: glide.schedules.log.debug
-description: Enable debug for schedule
-value: false
+description: ""
+value: "false"
 ---

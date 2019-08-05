@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1034
 layout: page
 title: glide.report.max.import.table.file.columns
-description: Max number of columns a user can import in an external source from report designer
-value: 25
+description: ""
+value: "25"
 ---

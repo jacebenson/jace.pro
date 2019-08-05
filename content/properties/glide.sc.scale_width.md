@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 748
 layout: page
 title: glide.sc.scale_width
-description: Numeric Scale
-value: 50
+description: ""
+value: "50"
 ---

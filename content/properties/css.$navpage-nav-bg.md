@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 349
 layout: page
 title: css.$navpage-nav-bg
-description: Navigation header/footer
-value: #303A46 
+description: ""
+value: "#293e40"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1507
 layout: page
 title: css.menu.font-size
-description: Navigator menu text font size default
-value:  
+description: ""
+value: "smaller"
 ---

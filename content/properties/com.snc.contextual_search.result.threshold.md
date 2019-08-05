@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 315
 layout: page
 title: com.snc.contextual_search.result.threshold
-description: Records returned above this threshold will log warnings 
-value: 10000
+description: ""
+value: "10000"
 ---

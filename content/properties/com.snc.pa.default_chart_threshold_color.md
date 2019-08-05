@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 713
 layout: page
 title: com.snc.pa.default_chart_threshold_color
-description: "Color of the threshold in a graph. Format: hexadecimal. Default: #666666 "
-value: #666666 
+description: ""
+value: "#506163"
 ---

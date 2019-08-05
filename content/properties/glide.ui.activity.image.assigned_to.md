@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1180
 layout: page
 title: glide.ui.activity.image.assigned_to
-description: "\"Assigned To\" image used in Activity formatter:" 
-value: images/icons/user.gifx 
+description: ""
+value: "images/icons/user.gifx"
 ---

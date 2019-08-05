@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 33
 layout: page
 title: css.nav.menu.background.color
-description: Application navigator header bar background color
-value:  
+description: ""
+value: "#eeeeee"
 ---

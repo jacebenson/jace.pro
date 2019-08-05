@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1027
 layout: page
 title: com.snc.platform.security.oauth.is.active
-description: This instance participates in OAuth 
-value: true 
+description: ""
+value: "true"
 ---

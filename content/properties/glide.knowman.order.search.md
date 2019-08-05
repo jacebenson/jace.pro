@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 140
 layout: page
 title: glide.knowman.order.search
-description: Knowledge search result order
-value: relevancy
+description: ""
+value: "relevancy"
 ---

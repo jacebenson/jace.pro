@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1306
 layout: page
 title: glide.installation.production
-description: Production instance (as opposed to a development instance). 
-value: false
+description: ""
+value: "true"
 ---

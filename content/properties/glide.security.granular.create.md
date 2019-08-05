@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1094
 layout: page
 title: glide.security.granular.create
-description: Enforce create (as opposed to write) rules on new records.
-value: true
+description: ""
+value: "true"
 ---

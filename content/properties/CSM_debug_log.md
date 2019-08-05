@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 120
 layout: page
 title: CSM_debug_log
-description: Use this property to log
-value: false
+description: ""
+value: "false"
 ---

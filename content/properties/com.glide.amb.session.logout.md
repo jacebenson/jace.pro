@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 970
 layout: page
 title: com.glide.amb.session.logout
-description:  
-value: true 
+description: ""
+value: "true"
 ---

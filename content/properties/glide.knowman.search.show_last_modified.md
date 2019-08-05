@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1233
 layout: page
 title: glide.knowman.search.show_last_modified
-description: Show last modified date and time in knowledge search results
-value: true
+description: ""
+value: "true"
 ---

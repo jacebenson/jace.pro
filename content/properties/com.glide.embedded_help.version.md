@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 223
 layout: page
 title: com.glide.embedded_help.version
-description: Determines for which version Help is shown. 
-value: Kingston 
+description: ""
+value: "New York"
 ---

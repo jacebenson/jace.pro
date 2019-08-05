@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 231
 layout: page
 title: glide.sys.time_format
-description: Time format 
-value: HH:mm:ss 
+description: ""
+value: "HH:mm:ss"
 ---

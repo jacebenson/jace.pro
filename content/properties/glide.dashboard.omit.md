@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1250
 layout: page
 title: glide.dashboard.omit
-description: Omit legacy dashboard icon. 
-value: true 
+description: ""
+value: "true"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 995
 layout: page
 title: glide.sms.database_name
-description: SQL Server database name
-value: SMS_CRICKET 
+description: ""
+value: "SMS_CRICKET"
 ---

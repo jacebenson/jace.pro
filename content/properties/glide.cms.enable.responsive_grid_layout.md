@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1457
 layout: page
 title: glide.cms.enable.responsive_grid_layout
-description: Enable responsive dashboard 
-value: true 
+description: ""
+value: "true"
 ---

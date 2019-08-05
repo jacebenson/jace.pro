@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 460
 layout: page
-title: password_reset.activity.monitor.incident.window
+title: password_reset.captcha.google.enabled
 description: ""
-value: true
+value: "true"
 ---

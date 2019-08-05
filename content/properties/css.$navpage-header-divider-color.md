@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 980
 layout: page
 title: css.$navpage-header-divider-color
-description: Header divider stripe color 
-value: #455464 
+description: ""
+value: "#5a7f71"
 ---

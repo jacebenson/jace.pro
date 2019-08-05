@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 393
 layout: page
 title: glide.ui.email_client.html
-description: Use HTML mode in the Email Client 
-value: true 
+description: ""
+value: "true"
 ---

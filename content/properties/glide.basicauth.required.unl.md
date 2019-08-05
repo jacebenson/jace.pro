@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 548
 layout: page
 title: glide.basicauth.required.unl
-description: Require authorization for incoming unload requests. 
-value: true 
+description: ""
+value: "true"
 ---

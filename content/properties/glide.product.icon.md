@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1057
 layout: page
 title: glide.product.icon
-description: Stores the favicon image displayed in bookmarks, tabs, and the browser address bar.
-value:  
+description: ""
+value: "favicon.ico?v=4"
 ---

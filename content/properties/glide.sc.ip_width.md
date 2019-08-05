@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 175
 layout: page
 title: glide.sc.ip_width
-description: IP Address
-value: 25
+description: ""
+value: "25"
 ---

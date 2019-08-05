@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 356
 layout: page
 title: glide.basicauth.required.api
-description:  
-value: true 
+description: ""
+value: "true"
 ---

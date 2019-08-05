@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1033
 layout: page
 title: com.glide.servicecatalog.log
-description:  
-value: info 
+description: ""
+value: "info"
 ---

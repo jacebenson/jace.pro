@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 90
 layout: page
 title: css.nav_header.font-size
-description: Font size for the header
-value: 160% 
+description: ""
+value: "24px"
 ---

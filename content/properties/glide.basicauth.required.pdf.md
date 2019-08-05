@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 671
 layout: page
 title: glide.basicauth.required.pdf
-description: Require authorization for incoming PDF requests.
-value: true 
+description: ""
+value: "true"
 ---

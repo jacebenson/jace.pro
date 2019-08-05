@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1140
 layout: page
 title: glide.performance_window.comparison.degradation
-description: Query execution percent degradation threshold
+description: ""
 value: "-10"
 ---

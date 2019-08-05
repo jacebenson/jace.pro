@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1393
 layout: page
 title: com.snc.pa.rangeselector_input_box_border_color
-description: "Background color of input fields. Format: hexadecimal. Default: #666666"
-value: #666666 
+description: ""
+value: "#666666"
 ---

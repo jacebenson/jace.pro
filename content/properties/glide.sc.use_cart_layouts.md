@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1103
 layout: page
 title: glide.sc.use_cart_layouts
-description: Use the sc_layout driven cart macros (default true)
-value: true
+description: ""
+value: "true"
 ---

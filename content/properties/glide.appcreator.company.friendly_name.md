@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1319
 layout: page
 title: glide.appcreator.company.friendly_name
-description:  
-value: dev32369 
+description: ""
+value: "dev74974"
 ---

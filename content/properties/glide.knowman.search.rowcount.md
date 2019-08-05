@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 993
 layout: page
 title: glide.knowman.search.rowcount
-description: Number of Knowledge search matches returned
-value: 30
+description: ""
+value: "30"
 ---

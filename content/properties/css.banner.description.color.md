@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 91
 layout: page
 title: css.banner.description.color
-description: Banner text color 
-value: #AAAAAA 
+description: ""
+value: "#808080"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1289
 layout: page
 title: glide.ui.auto.recovery
-description: Enable Auto Recovery
-value: true 
+description: ""
+value: "true"
 ---

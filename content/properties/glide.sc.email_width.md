@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 806
 layout: page
 title: glide.sc.email_width
-description: Email
-value: 25
+description: ""
+value: "25"
 ---

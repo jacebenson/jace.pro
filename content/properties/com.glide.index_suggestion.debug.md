@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 749
 layout: page
 title: com.glide.index_suggestion.debug
-description: Turn on debug logging for index suggestion
-value: false
+description: ""
+value: "false"
 ---

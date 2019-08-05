@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 461
 layout: page
 title: com.glide.hub.flow_trigger.enabled
-description: Enable or disable all Flow Triggers 
-value: true 
+description: ""
+value: "true"
 ---

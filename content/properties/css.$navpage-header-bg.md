@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 761
 layout: page
 title: css.$navpage-header-bg
-description: Sets the color for the header background
-value:  
+description: ""
+value: "#293e40"
 ---

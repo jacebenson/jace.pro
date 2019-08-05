@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 431
 layout: page
 title: glide.ngbsm.notification_display_time
-description: Amount of time in milliseconds a notification stays on the screen.
-value: 5000
+description: ""
+value: "5000"
 ---

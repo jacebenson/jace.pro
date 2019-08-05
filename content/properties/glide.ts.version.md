@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1529
 layout: page
 title: glide.ts.version
-description: Version of Zing currently used by the instance
-value: calgary
+description: ""
+value: "calgary"
 ---

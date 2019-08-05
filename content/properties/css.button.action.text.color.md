@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 40
 layout: page
 title: css.button.action.text.color
-description: Button text color
-value:  
+description: ""
+value: "${base.text.color}"
 ---

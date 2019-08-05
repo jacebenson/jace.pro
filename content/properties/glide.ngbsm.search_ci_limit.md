@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1188
 layout: page
 title: glide.ngbsm.search_ci_limit
-description: Maximum amount of results displayed when searching for CIs
-value: 10
+description: ""
+value: "10"
 ---

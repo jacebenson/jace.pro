@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 547
 layout: page
 title: css.$navpage-header-color
-description: Sets the color for the banner text
-value:  
+description: ""
+value: "#ffffff"
 ---

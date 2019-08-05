@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 78
 layout: page
 title: auxdb.db.user
-description: Auxiliary database username 
-value: root 
+description: ""
+value: "root"
 ---

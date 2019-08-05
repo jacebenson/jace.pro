@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1208
 layout: page
 title: glide.db.allow_unsafe_dbi_execute_sql
-description:  
-value: false
+description: ""
+value: "false"
 ---

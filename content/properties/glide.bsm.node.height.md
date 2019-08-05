@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1332
 layout: page
 title: glide.bsm.node.height
-description: Height of a node on the BSM Map 
-value: 50 
+description: ""
+value: "50"
 ---

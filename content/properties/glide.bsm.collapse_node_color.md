@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1426
 layout: page
 title: glide.bsm.collapse_node_color
-description: Color used for collapsed node when too many children exist for parent CI
-value: #008B8B 
+description: ""
+value: "#008B8B"
 ---

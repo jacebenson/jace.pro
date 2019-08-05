@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1573
 layout: page
-title: password_._reset.qa.num_enroll
-description: "Number of security questions required during enrollment"
-value: 5
+title: password_reset.qa.num_enroll
+description: ""
+value: "5"
 ---

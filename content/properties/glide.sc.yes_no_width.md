@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1186
 layout: page
 title: glide.sc.yes_no_width
-description: Yes/No
-value: 50
+description: ""
+value: "50"
 ---

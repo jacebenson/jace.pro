@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 11
 layout: page
 title: glide.log.client.script.on.change
-description:  
-value: false
+description: ""
+value: "false"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1546
 layout: page
 title: glide.knowman.search.show_category
-description: Show category in knowledge search results
-value: true
+description: ""
+value: "true"
 ---

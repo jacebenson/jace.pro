@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1360
 layout: page
 title: glide.register_server_url
-description: Internal property, used for instance registration.
-value: https://noderegister.service-now.com/
+description: ""
+value: "https://noderegister.service-now.com/"
 ---

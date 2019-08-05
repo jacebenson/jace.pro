@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1246
 layout: page
 title: glide.knowman.section_sort_direction
-description: Knowledge Base section sort direction
-value: descending
+description: ""
+value: "descending"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 12
 layout: page
 title: mid.version
-description: "Mid server build version"
-value: madrid-12-18-2018__patch4-05-29-2019_06-05-2019_1042
+description: ""
+value: "newyork-06-26-2019__patch0-hotfix2-07-10-2019_07-16-2019_1636"
 ---

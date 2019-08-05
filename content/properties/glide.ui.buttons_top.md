@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1081
 layout: page
 title: glide.ui.buttons_top
-description: Show buttons in form header (Submit, Update, etc.)
-value: true 
+description: ""
+value: "true"
 ---

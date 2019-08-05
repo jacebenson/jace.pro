@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1342
 layout: page
 title: glide.amb.servlet.uri
-description: Relative path for amb messages
-value: amb/ 
+description: ""
+value: "amb/"
 ---

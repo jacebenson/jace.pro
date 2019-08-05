@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1465
 layout: page
 title: glide.security.explain.write.locks
-description: Display an explanation on locked form elements.
-value: false
+description: ""
+value: "false"
 ---

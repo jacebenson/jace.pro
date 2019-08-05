@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 540
 layout: page
 title: glide.management.host
-description: Management host server
-value: https://hi.service-now.com/
+description: ""
+value: "https://hi.service-now.com/"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1421
 layout: page
 title: glide.knowman.section_limit
-description: Number of Knowledge Base items to preview in a section
-value: 5
+description: ""
+value: "5"
 ---

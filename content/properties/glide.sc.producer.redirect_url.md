@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 939
 layout: page
 title: glide.sc.producer.redirect_url
-description: Specifies the default behavior of record producer after record generation
-value: generated_record
+description: ""
+value: "generated_record"
 ---

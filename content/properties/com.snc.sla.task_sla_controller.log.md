@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 268
 layout: page
 title: com.snc.sla.task_sla_controller.log
-description: "Logging level for TaskSLAController (default: Notice) "
-value: notice 
+description: ""
+value: "notice"
 ---

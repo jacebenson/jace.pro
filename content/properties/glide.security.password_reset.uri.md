@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1095
 layout: page
 title: glide.security.password_reset.uri
-description: This URI will be used for password reset
-value: $pwd_reset.do?sysparm_url=ss_default
+description: ""
+value: "/$pwd_reset.do?sysparm_url=ss_default"
 ---

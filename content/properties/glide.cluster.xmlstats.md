@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 361
 layout: page
 title: glide.cluster.xmlstats
-description: XMLStats components to record in the cluster state record
-value: scheduler,memory,servlet,lazy,sessionsummary,jvm,status,instance,database,semaphores,diagnostic_events
+description: ""
+value: "scheduler,memory,servlet,lazy,sessionsummary,jvm,status,instance,database,semaphores,diagnostic_events"
 ---

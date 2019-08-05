@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 868
 layout: page
 title: glide.sc.url_width
-description: URL
-value: 50
+description: ""
+value: "50"
 ---

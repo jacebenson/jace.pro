@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 334
 layout: page
 title: help.base.servicenow
-description: "The base URL for help contexts in which ServiceNow Wiki = true"
-value: http://docs.servicenow.com/?context=
+description: ""
+value: "http://docs.servicenow.com/?context="
 ---

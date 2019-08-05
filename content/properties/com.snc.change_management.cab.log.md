@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 653
 layout: page
 title: com.snc.change_management.cab.log
-description: Controls at which level logging should be displayed (Defaults to Info)
-value: info 
+description: ""
+value: "info"
 ---

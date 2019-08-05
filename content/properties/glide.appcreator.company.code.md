@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 877
 layout: page
 title: glide.appcreator.company.code
-description: Application development unique vendor key 
-value: 8821 
+description: ""
+value: "8821"
 ---

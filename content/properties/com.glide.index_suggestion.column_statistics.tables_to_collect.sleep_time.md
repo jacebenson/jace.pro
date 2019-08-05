@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 469
 layout: page
 title: com.glide.index_suggestion.column_statistics.tables_to_collect.sleep_time
-description: Sleep time (ms) 
-value: 50 
+description: ""
+value: "50"
 ---

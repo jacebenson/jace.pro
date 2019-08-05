@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1481
 layout: page
 title: glide.email.provision_retry_duration
-description: Specifies the duration in between email provisioning request attempts in the case of a failed request (in seconds). 
-value: 1800 
+description: ""
+value: "1800"
 ---

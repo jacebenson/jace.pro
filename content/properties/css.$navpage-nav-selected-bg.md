@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 275
 layout: page
 title: css.$navpage-nav-selected-bg
-description: Sets the color for navigator selected tab background
-value:  
+description: ""
+value: "#2f4f4e"
 ---

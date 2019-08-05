@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 687
 layout: page
 title: glide.email.body_html_validation_rule
-description:  
-value: basic
+description: ""
+value: "basic"
 ---

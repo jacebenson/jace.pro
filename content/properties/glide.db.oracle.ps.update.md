@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 512
 layout: page
 title: glide.db.oracle.ps.update
-description: For Oracle, use prepared statements for system-executed updates.
-value: true 
+description: ""
+value: "true"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 344
 layout: page
 title: com.snc.pa.dc.max_breakdown_elements_limit
-description: Maximum number of breakdown elements for a breakdown to be included in data collection
-value: 10000
+description: ""
+value: "10000"
 ---

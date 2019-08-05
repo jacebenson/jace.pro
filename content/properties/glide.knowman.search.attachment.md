@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 585
 layout: page
 title: glide.knowman.search.attachment
-description: How to display attachments in Knowledge Search Results.
-value: LINK_SNIPPET
+description: ""
+value: "LINK_SNIPPET"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1542
 layout: page
 title: glide.knowman.submission.workflow
-description: Use submission workflow.
-value: false
+description: ""
+value: "false"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1267
 layout: page
 title: glide.ui.filters
-description: Enable UI filters.
-value: true 
+description: ""
+value: "true"
 ---

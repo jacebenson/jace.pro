@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 902
 layout: page
 title: glide.email.watermark.parse_restrictive
-description: Only recognize the current watermark type in an inbound email. ('glide.email.watermark.generate_random' determines which type is current)) 
-value: true 
+description: ""
+value: "true"
 ---

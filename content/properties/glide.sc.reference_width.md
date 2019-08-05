@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 311
 layout: page
 title: glide.sc.reference_width
-description: Reference
-value: 50
+description: ""
+value: "50"
 ---

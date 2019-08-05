@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1297
 layout: page
 title: css.list.row.vertical.align
-description: List cell vertical alignment (top, middle, bottom, etc.)
-value: top
+description: ""
+value: "top"
 ---

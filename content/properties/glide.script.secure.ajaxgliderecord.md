@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 500
 layout: page
 title: glide.script.secure.ajaxgliderecord
-description: Apply standard security ACLs to AJAXGlideRecord calls
-value: true
+description: ""
+value: "true"
 ---

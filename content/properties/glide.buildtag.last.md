@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1549
 layout: page
 title: glide.buildtag.last
-description:  
-value: glide-kingston-10-17-2017__patch6-05-16-2018 
+description: ""
+value: "glide-newyork-06-26-2019__patch0-hotfix2-07-10-2019"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 856
 layout: page
 title: glide.render.cache.enable
-description: Enable homepage render cache.
-value: true
+description: ""
+value: "true"
 ---

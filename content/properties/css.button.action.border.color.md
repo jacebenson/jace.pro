@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 39
 layout: page
 title: css.button.action.border.color
-description: Button border color
-value:  
+description: ""
+value: "#666666"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 485
 layout: page
 title: com.snc.pa.navigator_line_color
-description: "Color of the Line in the graph navigator. Format: RGBA. Default: 106,183,239,1"
-value: 106,183,239,1
+description: ""
+value: "106,183,239,1"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 38
 layout: page
 title: css.nav.menu.text.color
-description: Application Navigator text color
-value:  
+description: ""
+value: "black"
 ---

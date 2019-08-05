@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 466
 layout: page
 title: glide.sc.request_for.query
-description: Query for matches for the "request for" Service Catalog widget.
-value: active=true
+description: ""
+value: "active=true"
 ---

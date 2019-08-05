@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 41
 layout: page
 title: css.button.action.border.width
-description: Button border width
-value:  
+description: ""
+value: "1px"
 ---

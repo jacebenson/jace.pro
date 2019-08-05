@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 864
 layout: page
 title: com.snc.sla.repair.log
-description: "Logging level for SLARepair (default: Notice) "
-value: notice 
+description: ""
+value: "notice"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1014
 layout: page
 title: css.sc.button.image
-description: Service Catalog button image
-value: sc_button_image.pngx 
+description: ""
+value: "sc_button_image.pngx"
 ---

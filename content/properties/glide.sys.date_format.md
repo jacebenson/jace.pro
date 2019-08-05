@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 213
 layout: page
 title: glide.sys.date_format
-description: Date format 
-value: yyyy-MM-dd 
+description: ""
+value: "yyyy-MM-dd"
 ---

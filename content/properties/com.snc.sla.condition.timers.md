@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 889
 layout: page
 title: com.snc.sla.condition.timers
-description: Enable all SLACondition timers (use for testing only) 
-value: false
+description: ""
+value: "false"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 886
 layout: page
 title: glide.email.append.timezone
-description: Specifies whether to append the time zone to all dates and times in outbound emails.
-value:  
+description: ""
+value: "true"
 ---

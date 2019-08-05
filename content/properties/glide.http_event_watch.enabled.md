@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 317
 layout: page
 title: glide.http_event_watch.enabled
-description:  
-value: true 
+description: ""
+value: "true"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 108
 layout: page
 title: glide.ldap.authentication
-description: Use LDAP for password authentication
-value: true
+description: ""
+value: "true"
 ---

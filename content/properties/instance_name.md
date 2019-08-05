@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1196
 layout: page
 title: instance_name
-description: "Instance name"
-value: dev74974
+description: ""
+value: "dev74974"
 ---

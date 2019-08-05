@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 693
 layout: page
 title: glide.sys.upgrade_script
-description: Upgrade script. 
-value: upgrade.js 
+description: ""
+value: "upgrade.js"
 ---

@@ -1,8 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1519
 layout: page
 title: google.maps.version
-description: "Google Maps Version"
-value: 3.14
+description: ""
+value: "3.14"
 ---
-

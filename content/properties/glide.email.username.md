@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1515
 layout: page
 title: glide.email.username
-description: Specifies the display name for the email address you use for SMTP mail. 
-value:  
+description: ""
+value: "IT Service Desk"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1209
 layout: page
 title: glide.product.description.style
-description: Style for product description next to banner.
+description: ""
 value: "padding-bottom: 0px; padding-top: 4px;"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1100
 layout: page
 title: css.label.mandatory_populated.background.color
-description: Mandatory field status indicator color (populated)
-value: #cc7777 
+description: ""
+value: "#cc7777"
 ---

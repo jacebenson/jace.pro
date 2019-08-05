@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 770
 layout: page
 title: glide.sc.multi_line_text_width
-description: Multi Line Text
-value: 100
+description: ""
+value: "100"
 ---

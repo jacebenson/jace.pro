@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1273
 layout: page
 title: com.snc.change_request.attach.enable_copy
-description: Copy attachments from originating change
-value: true 
+description: ""
+value: "true"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 623
 layout: page
 title: glide.bsm.layout_horizontal_spacing_y
-description: Minimum vertical distance between nodes in horizontal layout
-value: 100
+description: ""
+value: "100"
 ---

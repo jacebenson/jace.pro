@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 476
 layout: page
 title: glide.installation.name
-description: Server name that goes in the topmost blue line
-value: Jaces awesome server 
+description: ""
+value: "Demo Server"
 ---

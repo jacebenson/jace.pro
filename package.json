@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jacebenson/blog#readme",
   "dependencies": {
-    "atomic-algolia": "^0.3.15"
+    "atomic-algolia": "^0.3.15",
+    "yargs": "^13.3.0"
   }
 }

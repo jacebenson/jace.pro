@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1028
 layout: page
 title: glide.secury.event.send.forced
-description:  
-value: true 
+description: ""
+value: "true"
 ---

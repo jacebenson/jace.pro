@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1044
 layout: page
 title: glide.sc.lookup_multiple_choice_width
-description: Lookup Multiple Choice
-value: 50
+description: ""
+value: "50"
 ---

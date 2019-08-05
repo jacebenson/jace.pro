@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 881
 layout: page
 title: glide.sc.ui_page_width
-description: UI Page
-value: 100
+description: ""
+value: "100"
 ---

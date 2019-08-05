@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 821
 layout: page
 title: glide.email.smtp.active
-description: Specifies whether to enable or disable the outgoing mail server.
-value: false
+description: ""
+value: "false"
 ---

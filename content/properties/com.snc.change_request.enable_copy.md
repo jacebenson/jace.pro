@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1434
 layout: page
 title: com.snc.change_request.enable_copy
-description: Enable Copy Change feature
-value: true 
+description: ""
+value: "true"
 ---

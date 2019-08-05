@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 227
 layout: page
 title: glide.basicauth.required.importprocessor
-description: Require authorization for incoming import requests. 
-value: true 
+description: ""
+value: "true"
 ---

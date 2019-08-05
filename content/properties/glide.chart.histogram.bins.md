@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1076
 layout: page
 title: glide.chart.histogram.bins
-description: Number of bins in a histogram chart (minimum 1, maximum 20) 
-value: 10 
+description: ""
+value: "10"
 ---

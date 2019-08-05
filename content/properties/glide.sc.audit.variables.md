@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1581
 layout: page
 title: glide.sc.audit.variables
-description: Audit changes to service catalog variables.
-value: true
+description: ""
+value: "true"
 ---

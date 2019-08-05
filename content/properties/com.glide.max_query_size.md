@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1418
 layout: page
 title: com.glide.max_query_size
-description: Maximum amount of queries from client script. 
-value: 500
+description: ""
+value: "500"
 ---

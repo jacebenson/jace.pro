@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 21
 layout: page
 title: glide.db.pooler.connections.max
-description:  
-value: 32 
+description: ""
+value: "32"
 ---

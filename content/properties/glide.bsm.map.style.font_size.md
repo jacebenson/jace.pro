@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1213
 layout: page
 title: glide.bsm.map.style.font_size
-description: Font size for CI node text (typically 8 to 20)
-value: 14 
+description: ""
+value: "14"
 ---

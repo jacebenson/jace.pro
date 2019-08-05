@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 990
 layout: page
 title: glide.sc.macro_width
-description: Macro
-value: 100
+description: ""
+value: "100"
 ---

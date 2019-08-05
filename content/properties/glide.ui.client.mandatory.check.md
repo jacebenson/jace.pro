@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 50
 layout: page
 title: glide.ui.client.mandatory.check
-description: Client validates mandatory field population.
-value: true 
+description: ""
+value: "true"
 ---

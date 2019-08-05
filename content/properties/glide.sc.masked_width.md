@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1415
 layout: page
 title: glide.sc.masked_width
-description: Masked
-value: 50
+description: ""
+value: "50"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1047
 layout: page
 title: css.$nav-highlight-main
-description: Sets the color for the navigation expanded items highlight background 
-value:  
+description: ""
+value: "#576667"
 ---

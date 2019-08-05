@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 957
 layout: page
 title: glide.knowman.search.show_relevancy
-description: Show relevancy in knowledge search results
-value: false
+description: ""
+value: "false"
 ---

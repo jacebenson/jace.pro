@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1420
 layout: page
 title: glide.knowman.columns
-description: Number of columns on Knowledge portal pages.
-value: 2
+description: ""
+value: "2"
 ---

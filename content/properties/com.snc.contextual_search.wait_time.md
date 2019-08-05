@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 430
 layout: page
 title: com.snc.contextual_search.wait_time
-description: Number of milliseconds that a configured field will wait before triggering a search 
-value: 500
+description: ""
+value: "500"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1191
 layout: page
 title: glide.smtp.encryption
-description: SMTP Encryption 
-value: None 
+description: ""
+value: "None"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 387
 layout: page
 title: change.conflict.blackout
-description: When checking change request conflicts, check against blackout windows
-value: true 
+description: ""
+value: "true"
 ---

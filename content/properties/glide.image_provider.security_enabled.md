@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1259
 layout: page
 title: glide.image_provider.security_enabled
-description: This property controls the security behavior of ImageContentProvider, which is responsible for rendering iix content. 
-value: true 
+description: ""
+value: "true"
 ---

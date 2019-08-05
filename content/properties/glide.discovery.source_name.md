@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 863
 layout: page
 title: glide.discovery.source_name
-description:  
-value: ServiceNow 
+description: ""
+value: "ServiceNow"
 ---

@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 211
 layout: page
 title: glide.ui.doctype
-description: Enable UI14 
-value: true 
+description: ""
+value: "true"
 ---

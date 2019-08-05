@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 918
 layout: page
 title: glide.db.foreign_suport
-description:  
-value: false
+description: ""
+value: "false"
 ---

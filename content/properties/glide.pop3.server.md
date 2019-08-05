@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1323
 layout: page
 title: glide.pop3.server
-description: Specifies the URL of the incoming POP mail server.
-value:  
+description: ""
+value: ""
 ---

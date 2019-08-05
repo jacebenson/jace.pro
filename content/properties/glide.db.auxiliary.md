@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1183
 layout: page
 title: glide.db.auxiliary
-description: Auxiliary support enabled 
-value: true 
+description: ""
+value: "true"
 ---

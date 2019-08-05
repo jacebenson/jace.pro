@@ -1,7 +1,7 @@
 ---
-date: '2016-01-01'
+weight: 1538
 layout: page
 title: glide.sp.socialqa.enabled
-description: Enable Social Q&A in Service Portal 
-value: true 
+description: ""
+value: "true"
 ---
