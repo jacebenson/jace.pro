@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.email.append.timezone
-description: ""
+description: "Append timezone to dates and times in sent email"
 ---
 true

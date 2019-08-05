@@ -1,5 +1,5 @@
 ---
 layout: page
 title: glide.hthd.http.password
-description: ""
+description: "SOAP authentication password for Help The Help Desk script."
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.record.count
-description: ""
+description: "Number of rows to display in lists:"
 ---
 20

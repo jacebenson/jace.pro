@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.multi_line_text_width
-description: ""
+description: "Multi Line Text"
 ---
 100

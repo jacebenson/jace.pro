@@ -1,5 +1,5 @@
 ---
 layout: page
 title: glide.product.help_icon
-description: ""
+description: "Icon used for the 'Help' link in the welcome banner (must be uploaded first):"
 ---

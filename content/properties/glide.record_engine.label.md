@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.record_engine.label
-description: ""
+description: "Label engine"
 ---
 com.glide.labels.LabelEngine

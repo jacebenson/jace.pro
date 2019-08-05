@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.bsm.new_node_color
-description: ""
+description: "Color for recently expanded nodes"
 ---
 PaleGreen

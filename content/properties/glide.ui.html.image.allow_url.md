@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.html.image.allow_url
-description: ""
+description: "Show URL option for HTML field images"
 ---
 false

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.select_box_width
-description: ""
+description: "Select Box"
 ---
 50

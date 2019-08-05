@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.buttons_top
-description: ""
+description: "Show buttons in form header (Submit, Update, etc.)"
 ---
 true

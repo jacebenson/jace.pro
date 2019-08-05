@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sys.upgrade_script
-description: ""
+description: "Upgrade script."
 ---
 upgrade.js

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sp.socialqa.enabled
-description: ""
+description: "Enable Social Q&A in Service Portal"
 ---
 true

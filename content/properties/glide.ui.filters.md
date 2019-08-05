@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.filters
-description: ""
+description: "Enable UI filters."
 ---
 true

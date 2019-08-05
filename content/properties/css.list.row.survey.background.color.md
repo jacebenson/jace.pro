@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.list.row.survey.background.color
-description: ""
+description: "Survey question background color:"
 ---
 khaki

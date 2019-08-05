@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.performance_window.comparison.improvement
-description: ""
+description: "Query execution percent improvement threshold"
 ---
 20

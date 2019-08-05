@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.home.refresh_disabled
-description: ""
+description: "Disable automatic homepage refreshing."
 ---
 false

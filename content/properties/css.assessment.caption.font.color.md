@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.assessment.caption.font.color
-description: ""
+description: "Assessment caption font color"
 ---
 #485563

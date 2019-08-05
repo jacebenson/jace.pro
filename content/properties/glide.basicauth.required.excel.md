@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.basicauth.required.excel
-description: ""
+description: "Require authorization for incoming Excel requests."
 ---
 true

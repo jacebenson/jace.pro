@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ldap.paging
-description: ""
+description: "Use paging if supported by the LDAP server to retrieve results."
 ---
 true

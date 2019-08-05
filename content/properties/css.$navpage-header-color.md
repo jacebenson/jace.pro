@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.$navpage-header-color
-description: ""
+description: "Banner text color"
 ---
 #ffffff

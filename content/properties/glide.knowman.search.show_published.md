@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.knowman.search.show_published
-description: ""
+description: "Show publish date in knowledge search results"
 ---
 false

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sys.date_format
-description: ""
+description: "Date format"
 ---
 yyyy-MM-dd

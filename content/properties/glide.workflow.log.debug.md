@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.workflow.log.debug
-description: ""
+description: "Log workflow debug messages."
 ---
 false

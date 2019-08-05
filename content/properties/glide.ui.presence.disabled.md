@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.presence.disabled
-description: ""
+description: "Disable Presence"
 ---
 false

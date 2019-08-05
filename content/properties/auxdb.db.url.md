@@ -1,6 +1,6 @@
 ---
 layout: page
 title: auxdb.db.url
-description: ""
+description: "Auxiliary database URL"
 ---
 jdbc:mysql://localhost/

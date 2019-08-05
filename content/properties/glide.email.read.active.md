@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.email.read.active
-description: ""
+description: "Email receiving enabled"
 ---
 false

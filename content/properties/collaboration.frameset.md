@@ -1,6 +1,6 @@
 ---
 layout: page
 title: collaboration.frameset
-description: ""
+description: "Enable Connect in the frameset"
 ---
 true

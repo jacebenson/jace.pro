@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.soapfault.display_stack_trace
-description: ""
+description: "Display stack trace in SOAP fault detail element"
 ---
 false

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.glide.cs.branding.category_bg_color
-description: ""
+description: "Category Background"
 ---
 #efeff4

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.table.column.head.background.color
-description: ""
+description: "List and form caption color override:"
 ---
 ${base.color}

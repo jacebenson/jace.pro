@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.list_edit
-description: ""
+description: "Enable list editing."
 ---
 true

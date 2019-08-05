@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.snc.incident.copy.attach
-description: ""
+description: "Copy attachments from originating incident"
 ---
 true

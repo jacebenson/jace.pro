@@ -1,5 +1,5 @@
 ---
 layout: page
 title: glide.hthd.http.username
-description: ""
+description: "SOAP authentication username for Help The Help Desk script."
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.logfilemonitor.prevlines
-description: ""
+description: "For logfile monitor, number of lines to return before a match:"
 ---
 5

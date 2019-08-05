@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.glide.cs.branding.bg_color
-description: ""
+description: "Chat Background"
 ---
 #ffffff

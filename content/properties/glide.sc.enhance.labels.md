@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.enhance.labels
-description: ""
+description: "Append pricing information to option labels."
 ---
 true

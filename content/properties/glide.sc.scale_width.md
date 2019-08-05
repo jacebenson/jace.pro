@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.scale_width
-description: ""
+description: "Numeric Scale"
 ---
 50

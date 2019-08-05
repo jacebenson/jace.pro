@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ts.version
-description: ""
+description: "Version of Zing currently used by the instance"
 ---
 calgary

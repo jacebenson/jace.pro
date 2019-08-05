@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.knowman.search.rowcount
-description: ""
+description: "Number of Knowledge search matches returned"
 ---
 30

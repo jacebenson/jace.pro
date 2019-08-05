@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.label.refresh
-description: ""
+description: "Label refresh period (seconds):"
 ---
 60

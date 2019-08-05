@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.reference_width
-description: ""
+description: "Reference"
 ---
 50

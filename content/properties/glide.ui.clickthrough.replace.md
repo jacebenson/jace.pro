@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.clickthrough.replace
-description: ""
+description: "Allow replacing the current screen for a related object."
 ---
 false

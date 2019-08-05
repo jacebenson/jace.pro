@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.smtp.port
-description: ""
+description: "SMTP server port (25)"
 ---
 25

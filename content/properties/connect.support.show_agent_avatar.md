@@ -1,6 +1,6 @@
 ---
 layout: page
 title: connect.support.show_agent_avatar
-description: ""
+description: "Show agent avatar in Connect Support conversations."
 ---
 true

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.glide.security.strict_read_roles
-description: ""
+description: "Enforces strict read roles ACLs."
 ---
 true

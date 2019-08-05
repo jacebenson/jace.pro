@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.glide.cs.branding.support_email_label
-description: ""
+description: "Email"
 ---
 Send Email to Customer Support

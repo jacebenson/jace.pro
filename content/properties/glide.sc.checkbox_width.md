@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.checkbox_width
-description: ""
+description: "CheckBox"
 ---
 50

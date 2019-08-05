@@ -1,6 +1,6 @@
 ---
 layout: page
 title: diagnostics.condition.node.reportedAgo
-description: ""
+description: "Condition used to flag a node's Last Reporting Time value:"
 ---
 > 180

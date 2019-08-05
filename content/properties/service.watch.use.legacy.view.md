@@ -1,6 +1,6 @@
 ---
 layout: page
 title: service.watch.use.legacy.view
-description: ""
+description: "Fallback to legacy service view"
 ---
 false

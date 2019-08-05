@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sys.time_format
-description: ""
+description: "Time format"
 ---
 HH:mm:ss

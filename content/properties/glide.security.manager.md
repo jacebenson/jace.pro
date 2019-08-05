@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.security.manager
-description: ""
+description: "Security Manager "
 ---
 com.glide.sys.security.ContextualSecurityManager

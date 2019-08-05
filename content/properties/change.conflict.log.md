@@ -1,6 +1,6 @@
 ---
 layout: page
 title: change.conflict.log
-description: ""
+description: "Logging level for ChangeCheckConflict (default: Notice)"
 ---
 notice

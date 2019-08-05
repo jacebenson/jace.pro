@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.knowman.enable_multi_language_search
-description: ""
+description: "Enable multi language search"
 ---
 false

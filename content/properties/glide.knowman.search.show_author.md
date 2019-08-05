@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.knowman.search.show_author
-description: ""
+description: "Show author in knowledge search results"
 ---
 true

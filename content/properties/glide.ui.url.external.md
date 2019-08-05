@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.url.external
-description: ""
+description: "Enable Connect to render external links"
 ---
 true

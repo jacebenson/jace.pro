@@ -1,6 +1,6 @@
 ---
 layout: page
 title: sn_atf.jasmine.versions
-description: ""
+description: "Jasmine versions supported by the system (comma-separated list)"
 ---
 3.1

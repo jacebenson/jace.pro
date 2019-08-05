@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.search.suggestions
-description: ""
+description: "Specify whether search suggestions should be enabled"
 ---
 true

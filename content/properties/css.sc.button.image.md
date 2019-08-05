@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.sc.button.image
-description: ""
+description: "Service Catalog button image"
 ---
 sc_button_image.pngx

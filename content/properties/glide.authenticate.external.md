@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.authenticate.external
-description: ""
+description: "Enable external authentication."
 ---
 false

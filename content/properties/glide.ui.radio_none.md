@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.radio_none
-description: ""
+description: "Display '-- None --' radio button."
 ---
 false

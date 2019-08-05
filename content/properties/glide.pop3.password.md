@@ -1,5 +1,5 @@
 ---
 layout: page
 title: glide.pop3.password
-description: ""
+description: "POP3 account password"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.amb.servlet.uri
-description: ""
+description: "Relative path for amb messages"
 ---
 amb/

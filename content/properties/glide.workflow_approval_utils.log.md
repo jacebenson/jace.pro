@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.workflow_approval_utils.log
-description: ""
+description: "Log workflow approval utility class actions."
 ---
 false

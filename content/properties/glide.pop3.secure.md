@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.pop3.secure
-description: ""
+description: "Connect to POP3 server using SSL encryption"
 ---
 false

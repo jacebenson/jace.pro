@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.live_feed.my_feed_enabled
-description: ""
+description: "Enables user access to My Feed capabilities"
 ---
 true

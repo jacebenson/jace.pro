@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.glide.cs.branding.msg_delay
-description: ""
+description: "Minimum delay between bot messages (ms)"
 ---
 500

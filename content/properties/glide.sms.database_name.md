@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sms.database_name
-description: ""
+description: "SQL Server database name:"
 ---
 SMS_CRICKET

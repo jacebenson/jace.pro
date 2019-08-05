@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.incident_activity.style.comments
-description: ""
+description: "Incident additional comments style."
 ---
 background-color: WhiteSmoke

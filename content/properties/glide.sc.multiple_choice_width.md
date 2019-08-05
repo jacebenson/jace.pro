@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.multiple_choice_width
-description: ""
+description: "Multiple Choice"
 ---
 50

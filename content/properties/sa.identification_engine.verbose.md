@@ -1,6 +1,6 @@
 ---
 layout: page
 title: sa.identification_engine.verbose
-description: ""
+description: "Enable verbose mode for identification engine"
 ---
 false

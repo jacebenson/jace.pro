@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.duration_width
-description: ""
+description: "Duration"
 ---
 50

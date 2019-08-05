@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.activity.image.assigned_to
-description: ""
+description: "'Assigned To' image used in Activity formatter:"
 ---
 images/icons/user.gifx

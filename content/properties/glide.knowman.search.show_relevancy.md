@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.knowman.search.show_relevancy
-description: ""
+description: "Show relevancy in knowledge search results"
 ---
 false

@@ -1,5 +1,5 @@
 ---
 layout: page
 title: glide.banner.style
-description: ""
+description: "Style for banner containing company logo and product name"
 ---

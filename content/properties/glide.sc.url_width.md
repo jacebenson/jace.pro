@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.url_width
-description: ""
+description: "URL"
 ---
 50

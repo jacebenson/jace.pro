@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.use_magellan_navigator
-description: ""
+description: "Enable the Magellan navigator replacement."
 ---
 true

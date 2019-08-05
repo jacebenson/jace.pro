@@ -1,6 +1,6 @@
 ---
 layout: page
 title: google.maps.version
-description: ""
+description: "Google Maps Version"
 ---
 3.14

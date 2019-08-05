@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.log.formatter
-description: ""
+description: "Class name of log formatter:"
 ---
 com.glide.misc.VerboseLogFormatter

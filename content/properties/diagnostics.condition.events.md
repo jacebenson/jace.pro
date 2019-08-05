@@ -1,6 +1,6 @@
 ---
 layout: page
 title: diagnostics.condition.events
-description: ""
+description: "Condition used to flag Pending Events value:"
 ---
 > 1000

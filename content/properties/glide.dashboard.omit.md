@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.dashboard.omit
-description: ""
+description: "Omit legacy dashboard icon."
 ---
 true

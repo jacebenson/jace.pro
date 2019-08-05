@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.basicauth.required.rss
-description: ""
+description: "Require authorization for incoming RSS requests."
 ---
 true

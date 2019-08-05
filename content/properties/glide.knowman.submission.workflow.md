@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.knowman.submission.workflow
-description: ""
+description: "Use submission workflow."
 ---
 false

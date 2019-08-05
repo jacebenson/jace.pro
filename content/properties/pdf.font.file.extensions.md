@@ -1,6 +1,6 @@
 ---
 layout: page
 title: pdf.font.file.extensions
-description: ""
+description: "List of font file extensions"
 ---
 otf,ttf

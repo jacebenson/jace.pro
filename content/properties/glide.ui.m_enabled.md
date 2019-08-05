@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.m_enabled
-description: ""
+description: "Enable mobile web UI"
 ---
 true

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.ip_width
-description: ""
+description: "IP Address"
 ---
 25

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.connect.chat.disabled
-description: ""
+description: "Disable Connect and hide all UI elements related to Connect."
 ---
 false

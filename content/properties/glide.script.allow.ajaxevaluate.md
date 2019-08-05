@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.script.allow.ajaxevaluate
-description: ""
+description: "Enable the AJAXEvaluate processor"
 ---
 false

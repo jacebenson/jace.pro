@@ -1,5 +1,5 @@
 ---
 layout: page
 title: glide.db.replicate_user
-description: ""
+description: "User ID to use to connect to the replication master"
 ---

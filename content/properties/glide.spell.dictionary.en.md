@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.spell.dictionary.en
-description: ""
+description: "Spell checker dictionary to use for English users:"
 ---
 en.dic

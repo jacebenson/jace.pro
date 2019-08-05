@@ -1,6 +1,6 @@
 ---
 layout: page
 title: auxdb.db.name
-description: ""
+description: "Auxiliary database name"
 ---
 auxdb

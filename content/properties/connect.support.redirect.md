@@ -1,6 +1,6 @@
 ---
 layout: page
 title: connect.support.redirect
-description: ""
+description: "Allows $chat_support.do to exist within the frameset"
 ---
 false

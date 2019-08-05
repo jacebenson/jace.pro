@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.$navpage-nav-border
-description: ""
+description: "Border color for UI16"
 ---
 #7a828a

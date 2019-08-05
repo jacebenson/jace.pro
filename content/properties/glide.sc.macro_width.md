@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.macro_width
-description: ""
+description: "Macro"
 ---
 100

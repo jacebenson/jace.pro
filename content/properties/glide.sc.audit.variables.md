@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.audit.variables
-description: ""
+description: "Audit changes to service catalog variables."
 ---
 true

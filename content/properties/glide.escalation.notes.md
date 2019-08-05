@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.escalation.notes
-description: ""
+description: "Escalation engine logs activity in task work notes."
 ---
 false

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: sn_communities.enable_gamification
-description: ""
+description: "This Property Controls if any Gamification Related Widgets show up on the Service Portal"
 ---
 true

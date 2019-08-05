@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.glide.cs.branding.type_presence_delay
-description: ""
+description: "Minimum Delay before displaying typing Animation (ms)"
 ---
 1000

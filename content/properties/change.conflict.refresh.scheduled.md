@@ -1,6 +1,6 @@
 ---
 layout: page
 title: change.conflict.refresh.scheduled
-description: ""
+description: "Enable the scheduled change conflict checker"
 ---
 true

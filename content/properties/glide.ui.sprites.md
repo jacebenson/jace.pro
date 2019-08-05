@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.sprites
-description: ""
+description: "Use sprites for navigator images"
 ---
 true

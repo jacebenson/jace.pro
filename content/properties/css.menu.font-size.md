@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.menu.font-size
-description: ""
+description: "Navigator menu text font size default:"
 ---
 smaller

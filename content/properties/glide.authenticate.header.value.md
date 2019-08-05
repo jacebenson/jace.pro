@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.authenticate.header.value
-description: ""
+description: "ServiceNow field name to match against the incoming header"
 ---
 user_name

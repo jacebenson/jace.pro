@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.button.action.border.color
-description: ""
+description: "Button border color:"
 ---
 #666666

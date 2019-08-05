@@ -1,6 +1,6 @@
 ---
 layout: page
 title: sm.flapper.detection_enabled
-description: ""
+description: "Enable CI change flapper detection mechanism"
 ---
 true

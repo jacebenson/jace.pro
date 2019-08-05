@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.knowman.search.show_category
-description: ""
+description: "Show category in knowledge search results"
 ---
 true

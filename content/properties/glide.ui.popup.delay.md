@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.popup.delay
-description: ""
+description: "Record popup delay (milliseconds):"
 ---
 100

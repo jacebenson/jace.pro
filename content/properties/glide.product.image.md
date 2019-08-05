@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.product.image
-description: ""
+description: "Banner image"
 ---
 images/logos/logo_service-now.png?v=6

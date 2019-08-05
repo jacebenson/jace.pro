@@ -1,6 +1,6 @@
 ---
 layout: page
 title: ci.change.unplanned.send_notification
-description: ""
+description: "Send a notification on an un-planned CI change "
 ---
 true

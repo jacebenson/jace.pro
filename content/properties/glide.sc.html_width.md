@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.html_width
-description: ""
+description: "HTML"
 ---
 100

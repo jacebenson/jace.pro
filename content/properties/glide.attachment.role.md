@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.attachment.role
-description: ""
+description: "List of roles (comma-separated) that can create attachments:"
 ---
 public

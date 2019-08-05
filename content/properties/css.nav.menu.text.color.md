@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.nav.menu.text.color
-description: ""
+description: "Application Navigator text color:"
 ---
 black

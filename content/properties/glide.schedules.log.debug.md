@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.schedules.log.debug
-description: ""
+description: "Enable debug for schedule"
 ---
 false

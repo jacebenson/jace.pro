@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.workflow.log
-description: ""
+description: "Log details of workflow actions."
 ---
 false

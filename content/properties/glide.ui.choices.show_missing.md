@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.choices.show_missing
-description: ""
+description: "Display missing choice list entries."
 ---
 true

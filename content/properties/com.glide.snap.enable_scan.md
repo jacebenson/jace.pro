@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.glide.snap.enable_scan
-description: ""
+description: "Enable Antivirus scanning"
 ---
 true

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ts.attachment.title.default.weight
-description: ""
+description: "Text Search attachment title weight for V4 format."
 ---
 1

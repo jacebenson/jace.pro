@@ -1,5 +1,5 @@
 ---
 layout: page
 title: diagnostics.condition.emailsSent
-description: ""
+description: "Condition used to flag Emails Sent value:"
 ---

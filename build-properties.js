@@ -5,7 +5,7 @@ var options = {
   "method": "GET",
   "hostname": process.env.INSTANCE,
   "port": null,
-  "path": "/api/now/table/sys_properties?sysparm_fields=sys_name%2Cvalue%2Cdescription^ORDERBYsys_name",
+  "path": "/api/now/table/sys_properties?sysparm_fields=sys_name%2Cvalue%2Cdescription",
   "headers": {
     "authorization": "Basic " + Buffer.from(process.env.INSTANCEUSERNAME + ":" + process.env.INSTANCEPASSWORD).toString("base64")
   }
@@ -22,18 +22,16 @@ var req = http.request(options, function (res) {
     //console.log(body.toString());
     var responseObj = JSON.parse(body.toString());
     //console.log(responseObj);
-    var dateToStart = new Date();
     responseObj.result.forEach(function(property, index){
-      date = new Date(dateToStart.getDate() + index);
-      date = date.getFullYear() + "-" + (date.getMonth() + 1) + "-" +date.getDate();
-      console.log(property.sys_name);
-      console.log(property.value);
-      console.log(property.description);
+      console.log(property);
       if(property.sys_name){
         property.sys_name = property.sys_name.replace(/\//gm,'');
       }
       if(property.description){
-        property.description = property.description.replace( /[\:\n]+/gm, ' ');
+        property.description = property.description.replace( /\n+/gm, ' ');// Replace new lines with spaces
+        property.description = property.description.replace( /\"/gm, '\'');// Replace " wit '
+        // property.description = property.description.replace(/<\/?[^>]+(>|$)/g, "");//Remove HTML Tags
+        property.description = property.description.replace(/\\/g, "\\\\");// Replace \ with \\
         //property.description = property.description.replace( /[\s\s]+/gm, ' ');
       } else {
         property.description = "";

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.security.explain.write.locks
-description: ""
+description: "Display an explanation on locked form elements."
 ---
 false

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.assessment.caption.background.color
-description: ""
+description: "Assessment caption background color"
 ---
 #e6e8ea

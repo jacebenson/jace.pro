@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sp.cache.enabled
-description: ""
+description: "Enables Cache in Service Portal"
 ---
 true

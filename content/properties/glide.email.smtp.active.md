@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.email.smtp.active
-description: ""
+description: "Email sending enabled"
 ---
 false

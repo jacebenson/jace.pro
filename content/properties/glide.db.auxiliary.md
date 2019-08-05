@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.db.auxiliary
-description: ""
+description: "Auxiliary support enabled"
 ---
 true

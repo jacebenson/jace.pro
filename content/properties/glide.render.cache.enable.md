@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.render.cache.enable
-description: ""
+description: "Enable homepage render cache."
 ---
 true

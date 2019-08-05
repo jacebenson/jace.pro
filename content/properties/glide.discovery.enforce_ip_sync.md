@@ -1,7 +1,6 @@
 ---
-date: '2016-01-01'
 layout: page
 title: glide.discovery.enforce_ip_sync
-description: Enforce syncing of IP addresses Sets the first IP address. Each time a computer with multiple NICs is discovered, one of the IP addresses associated with the NICs is chosen as the IP Address field of the CI. A value of false collects all NIC IP addresses. 
-value:  
+description: "<b>Enforce syncing of IP addresses:</b> if set to yes, then each time a computer is discovered, and that device has multiple NICs, one of the IP addresses associated with the NICs will be chosen as the IP Address field of the CI."
 ---
+true

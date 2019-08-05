@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.snc.platform.security.oauth.is.active
-description: ""
+description: "This instance participates in OAuth"
 ---
 true

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.$navpage-header-bg
-description: ""
+description: "Header background color"
 ---
 #293e40

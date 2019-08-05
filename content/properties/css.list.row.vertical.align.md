@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.list.row.vertical.align
-description: ""
+description: "List cell vertical alignment (top, middle, bottom, etc.):"
 ---
 top

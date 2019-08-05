@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.knowman.show_descriptions
-description: ""
+description: "Show Knowledge section descriptions."
 ---
 true

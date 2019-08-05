@@ -1,6 +1,6 @@
 ---
 layout: page
 title: auxdb.db.rdbms
-description: ""
+description: "Auxiliary database RDBMS"
 ---
 mysql

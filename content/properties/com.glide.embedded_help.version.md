@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.glide.embedded_help.version
-description: ""
+description: "Determines for which version Help is shown."
 ---
 New York

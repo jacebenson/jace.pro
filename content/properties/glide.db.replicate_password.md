@@ -1,5 +1,5 @@
 ---
 layout: page
 title: glide.db.replicate_password
-description: ""
+description: "Password to use to connect to the replication master"
 ---

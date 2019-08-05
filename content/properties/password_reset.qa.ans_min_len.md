@@ -1,6 +1,6 @@
 ---
 layout: page
 title: password_reset.qa.ans_min_len
-description: ""
+description: "Minimum length requirement for security answers"
 ---
 4

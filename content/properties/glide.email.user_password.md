@@ -1,5 +1,5 @@
 ---
 layout: page
 title: glide.email.user_password
-description: ""
+description: "SMTP account password"
 ---

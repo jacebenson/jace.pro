@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.$nav-highlight-main
-description: ""
+description: "Navigation expanded items highlight background"
 ---
 #576667

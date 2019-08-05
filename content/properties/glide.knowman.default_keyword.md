@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.knowman.default_keyword
-description: ""
+description: "Default keyword for getting pinned articles"
 ---
 homepage

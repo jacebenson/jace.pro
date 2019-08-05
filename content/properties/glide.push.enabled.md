@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.push.enabled
-description: ""
+description: "Enable the sending of push notifications."
 ---
 true

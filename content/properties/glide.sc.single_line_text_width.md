@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.single_line_text_width
-description: ""
+description: "Single Line Text"
 ---
 50

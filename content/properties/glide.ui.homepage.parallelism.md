@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.homepage.parallelism
-description: ""
+description: "Maximum number of rendering threads for a single home page"
 ---
 2

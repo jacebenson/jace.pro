@@ -1,7 +1,7 @@
 ---
 layout: page
 title: glide.ui.syntax_editor.linter.eslint_config
-description: ""
+description: "ESlint configuration"
 ---
 {
   "rules": {

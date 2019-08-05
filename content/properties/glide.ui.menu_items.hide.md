@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.menu_items.hide
-description: ""
+description: "Hide 'Menu Items' in navigator."
 ---
 true

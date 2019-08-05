@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.authenticate.multifactor
-description: ""
+description: "Enable Multi-factor authentication"
 ---
 false

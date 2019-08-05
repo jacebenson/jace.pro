@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.button.action.background.color
-description: ""
+description: "Button background color:"
 ---
 ${base.color}

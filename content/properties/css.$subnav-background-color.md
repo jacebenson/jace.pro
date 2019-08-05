@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.$subnav-background-color
-description: ""
+description: "Navigation background expanded items"
 ---
 #213234

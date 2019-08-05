@@ -1,5 +1,5 @@
 ---
 layout: page
 title: glide.upgrade.blame.logger.debug
-description: ""
+description: "Enable the debug logging of the upgrade blame tool"
 ---

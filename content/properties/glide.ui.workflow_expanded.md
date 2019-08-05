@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.workflow_expanded
-description: ""
+description: "Expand the workflow widget on lists by default."
 ---
 false

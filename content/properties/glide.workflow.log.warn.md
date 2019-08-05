@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.workflow.log.warn
-description: ""
+description: "Log workflow warning messages."
 ---
 true

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.approval.hover
-description: ""
+description: "Show the current pending approver's name in the stage widget mouseover."
 ---
 true

@@ -1,5 +1,5 @@
 ---
 layout: page
 title: glide.pop3.user
-description: ""
+description: "POP3 account"
 ---

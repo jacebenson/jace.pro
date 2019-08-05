@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.snc.sla.workflow.log
-description: ""
+description: "Logging level for TaskSLAworkflow (default: Notice)"
 ---
 notice

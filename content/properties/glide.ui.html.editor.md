@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.html.editor
-description: ""
+description: "HTML field editor to use"
 ---
 tinymce

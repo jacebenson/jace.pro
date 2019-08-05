@@ -1,6 +1,6 @@
 ---
 layout: page
 title: auxdb.db.user
-description: ""
+description: "Auxiliary database username"
 ---
 root

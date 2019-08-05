@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.form_annotations
-description: ""
+description: "Enable form annotations"
 ---
 true

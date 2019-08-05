@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.smtp.encryption
-description: ""
+description: "SMTP Encryption"
 ---
 None

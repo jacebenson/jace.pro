@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.cs.company_name
-description: ""
+description: "Your company name"
 ---
 Service Now

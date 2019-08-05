@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.yes_no_width
-description: ""
+description: "Yes/No"
 ---
 50

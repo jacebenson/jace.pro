@@ -1,6 +1,6 @@
 ---
 layout: page
 title: change.conflict.refresh.conflicts
-description: ""
+description: "Run conflict detection automatically after changes to Configuration item, Planned start date, Planned end date or State when a change request is updated"
 ---
 true

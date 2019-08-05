@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.glide.outbound_tracking.disabled
-description: ""
+description: "Disables outbound usage metrics tracking"
 ---
 false

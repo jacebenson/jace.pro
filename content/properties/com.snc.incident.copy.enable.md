@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.snc.incident.copy.enable
-description: ""
+description: "Enable copy incident feature"
 ---
 true

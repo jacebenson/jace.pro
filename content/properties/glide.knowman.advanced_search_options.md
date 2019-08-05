@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.knowman.advanced_search_options
-description: ""
+description: "Display advanced search options:"
 ---
 display

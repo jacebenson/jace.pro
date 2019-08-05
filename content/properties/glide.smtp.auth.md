@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.smtp.auth
-description: ""
+description: "SMTP server requires username and password authentication"
 ---
 false

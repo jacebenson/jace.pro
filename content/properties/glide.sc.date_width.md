@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.date_width
-description: ""
+description: "Date"
 ---
 25

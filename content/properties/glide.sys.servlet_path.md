@@ -1,5 +1,5 @@
 ---
 layout: page
 title: glide.sys.servlet_path
-description: ""
+description: "The prefix path to use when accessing your instance:"
 ---

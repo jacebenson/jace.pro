@@ -1,7 +1,7 @@
 ---
 layout: page
 title: com.glide.cs.rich_converter_incident_html
-description: ""
+description: "null"
 ---
 <table class="card" style="background-color:var(--button-background-color);padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px;width:80vw;max-width:500px;" >
             <tr><td class="name" style="font-family: 'SourceSansProBold'; font-weight:bold;" >@@@number@@@</td><td class = "value"><a class = "link" target="_blank" href="___href___" style="color:--client-link-color;" >###number###</a></td></tr>

@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.security.csrf_previous.allow
-description: ""
+description: "Allow usage of an expired secure token to identify and validate incoming requests.  This token is used to prevent cross site request forgery attacks."
 ---
 false

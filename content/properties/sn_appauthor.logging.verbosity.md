@@ -1,6 +1,6 @@
 ---
 layout: page
 title: sn_appauthor.logging.verbosity
-description: ""
+description: "Logging level - debug, info, warn, error"
 ---
 info

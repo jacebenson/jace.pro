@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.cluster.cache
-description: ""
+description: "Enable the Cluster Cache Synchronizer."
 ---
 true

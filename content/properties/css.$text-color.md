@@ -1,6 +1,6 @@
 ---
 layout: page
 title: css.$text-color
-description: ""
+description: "Main text color"
 ---
 #485563

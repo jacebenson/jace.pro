@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.workflow.log.error
-description: ""
+description: "Log workflow error messages."
 ---
 true

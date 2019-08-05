@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.banner.image.url
-description: ""
+description: "URL used when clicking the banner image"
 ---
 home.do

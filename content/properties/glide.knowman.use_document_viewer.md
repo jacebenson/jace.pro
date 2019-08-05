@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.knowman.use_document_viewer
-description: ""
+description: "Use document viewer to display attachments."
 ---
 false

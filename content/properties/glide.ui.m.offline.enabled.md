@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.m.offline.enabled
-description: ""
+description: "Enable mobile offline syncing."
 ---
 false

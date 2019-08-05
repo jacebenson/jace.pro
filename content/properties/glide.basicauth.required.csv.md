@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.basicauth.required.csv
-description: ""
+description: "Require authorization for incoming CSV requests."
 ---
 true

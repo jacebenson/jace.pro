@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.snc.sla.repair.log
-description: ""
+description: "Logging level for SLARepair (default: Notice)"
 ---
 notice

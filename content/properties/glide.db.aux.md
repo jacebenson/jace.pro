@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.db.aux
-description: ""
+description: "Auxiliary database property prefix"
 ---
 auxdb

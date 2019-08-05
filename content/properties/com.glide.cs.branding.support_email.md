@@ -1,6 +1,6 @@
 ---
 layout: page
 title: com.glide.cs.branding.support_email
-description: ""
+description: "Email Address"
 ---
 support@example.com

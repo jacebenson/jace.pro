@@ -1,6 +1,6 @@
 ---
 layout: page
 title: sn_customerservice.consumer_max_products
-description: ""
+description: "Maximum registered products per consumer"
 ---
 25

@@ -1,5 +1,5 @@
 ---
 layout: page
 title: glide.product.name
-description: ""
+description: "Browser tab title"
 ---

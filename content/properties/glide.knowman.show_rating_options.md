@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.knowman.show_rating_options
-description: ""
+description: "Show article rating section, which may optionally include yes/no rating, star rating, and flagging options."
 ---
 true

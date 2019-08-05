@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.basicauth.required.pdf
-description: ""
+description: "Require authorization for incoming PDF requests."
 ---
 true

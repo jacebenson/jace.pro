@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.macro_with_label_width
-description: ""
+description: "Macro with Label"
 ---
 100

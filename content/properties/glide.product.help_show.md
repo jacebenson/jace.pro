@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.product.help_show
-description: ""
+description: "Display the help icon in the welcome banner."
 ---
 true

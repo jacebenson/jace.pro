@@ -4,7 +4,7 @@
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <a href="https://github.com/jacebenson/blog/edit/master/content/{{ .File.Path }}"><i class="fa fa-pencil"></i> &nbsp;Improve this page</a>
       <article role="main" class="blog-post">
-        <p>Description: {{ .Params.Description}}</p>
+        <p>Description: {{ .Params.Description | safeHTML}}</p>
         <p>Default Value: {{ .Params.Value }}</p>
 
         {{ .Content }}

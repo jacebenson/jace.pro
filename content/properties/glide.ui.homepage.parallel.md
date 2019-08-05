@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.ui.homepage.parallel
-description: ""
+description: "Enable parallel rendering of home page content"
 ---
 true

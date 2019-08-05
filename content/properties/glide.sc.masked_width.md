@@ -1,6 +1,6 @@
 ---
 layout: page
 title: glide.sc.masked_width
-description: ""
+description: "Masked"
 ---
 50
