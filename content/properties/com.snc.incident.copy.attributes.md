@@ -1,5 +1,5 @@
 ---
-weight: 98
+weight: 106
 layout: page
 title: com.snc.incident.copy.attributes
 description: ""

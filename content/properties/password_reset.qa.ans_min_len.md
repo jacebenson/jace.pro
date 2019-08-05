@@ -1,5 +1,5 @@
 ---
-weight: 562
+weight: 605
 layout: page
 title: password_reset.qa.ans_min_len
 description: ""

@@ -1,7 +1,7 @@
 ---
-weight: 1525
+weight: 1642
 layout: page
 title: glide.sc.use_user_criteria
 description: ""
-value: "true"
+value: "false"
 ---

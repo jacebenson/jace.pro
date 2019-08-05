@@ -1,5 +1,5 @@
 ---
-weight: 814
+weight: 876
 layout: page
 title: glide.chart.animation
 description: ""

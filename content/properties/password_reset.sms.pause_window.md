@@ -1,5 +1,5 @@
 ---
-weight: 842
+weight: 904
 layout: page
 title: password_reset.sms.pause_window
 description: ""

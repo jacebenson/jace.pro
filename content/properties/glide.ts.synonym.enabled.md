@@ -1,5 +1,5 @@
 ---
-weight: 146
+weight: 162
 layout: page
 title: glide.ts.synonym.enabled
 description: ""

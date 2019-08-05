@@ -1,5 +1,5 @@
 ---
-weight: 327
+weight: 355
 layout: page
 title: glide.ui.tablet.title
 description: ""

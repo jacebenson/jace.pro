@@ -1,5 +1,5 @@
 ---
-weight: 951
+weight: 1026
 layout: page
 title: sm.flapper.repeating.values.strategy.hits_threshold
 description: ""

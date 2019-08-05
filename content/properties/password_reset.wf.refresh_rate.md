@@ -1,5 +1,5 @@
 ---
-weight: 253
+weight: 275
 layout: page
 title: password_reset.wf.refresh_rate
 description: ""

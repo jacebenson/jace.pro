@@ -1,5 +1,5 @@
 ---
-weight: 580
+weight: 626
 layout: page
 title: glide.connect.chat.disabled
 description: ""

@@ -1,5 +1,5 @@
 ---
-weight: 1363
+weight: 1471
 layout: page
 title: sm.flapper.strategy.job_interval_in_hours
 description: ""

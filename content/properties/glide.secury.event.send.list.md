@@ -1,5 +1,5 @@
 ---
-weight: 968
+weight: 1043
 layout: page
 title: glide.secury.event.send.list
 description: ""

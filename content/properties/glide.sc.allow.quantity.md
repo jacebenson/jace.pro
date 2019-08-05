@@ -1,5 +1,5 @@
 ---
-weight: 1493
+weight: 1608
 layout: page
 title: glide.sc.allow.quantity
 description: ""

@@ -1,5 +1,5 @@
 ---
-weight: 1280
+weight: 1377
 layout: page
 title: sa.map.MAX_EDGES_FOR_FULL_LAYOUT
 description: ""

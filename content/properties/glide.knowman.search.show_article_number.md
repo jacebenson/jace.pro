@@ -1,5 +1,5 @@
 ---
-weight: 971
+weight: 1047
 layout: page
 title: glide.knowman.search.show_article_number
 description: ""

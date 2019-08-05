@@ -1,5 +1,5 @@
 ---
-weight: 1230
+weight: 1326
 layout: page
 title: com.snc.change_management.enforce_data_requirements
 description: ""

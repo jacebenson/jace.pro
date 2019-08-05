@@ -1,5 +1,5 @@
 ---
-weight: 222
+weight: 244
 layout: page
 title: glide.authenticate.secret_key
 description: ""

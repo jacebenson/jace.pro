@@ -1,7 +1,7 @@
 ---
-weight: 1437
+weight: 1550
 layout: page
 title: glide.email.reply_subject_prefix
 description: ""
-value: "re:,aw:,r:,Accepted:,Tentative:,Declined:"
+value: "re:,aw:,r:,Accepted:,Tentative:,Declined:,Case:"
 ---

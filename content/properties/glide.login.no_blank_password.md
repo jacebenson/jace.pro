@@ -1,5 +1,5 @@
 ---
-weight: 910
+weight: 983
 layout: page
 title: glide.login.no_blank_password
 description: ""

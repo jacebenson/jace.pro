@@ -1,5 +1,5 @@
 ---
-weight: 801
+weight: 863
 layout: page
 title: glide.sc.variable.snapshot
 description: ""

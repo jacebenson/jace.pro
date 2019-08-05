@@ -1,5 +1,5 @@
 ---
-weight: 704
+weight: 760
 layout: page
 title: glide.live.chat_html_card_template
 description: ""

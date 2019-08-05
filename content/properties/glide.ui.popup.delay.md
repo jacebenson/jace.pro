@@ -1,5 +1,5 @@
 ---
-weight: 1374
+weight: 1484
 layout: page
 title: glide.ui.popup.delay
 description: ""

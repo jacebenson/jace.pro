@@ -1,5 +1,5 @@
 ---
-weight: 308
+weight: 335
 layout: page
 title: glide.ui.homepage.parallel
 description: ""

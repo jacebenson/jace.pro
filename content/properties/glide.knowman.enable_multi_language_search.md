@@ -1,5 +1,5 @@
 ---
-weight: 1530
+weight: 1648
 layout: page
 title: glide.knowman.enable_multi_language_search
 description: ""

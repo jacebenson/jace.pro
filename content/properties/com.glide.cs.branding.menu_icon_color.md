@@ -1,0 +1,7 @@
+---
+weight: 1427
+layout: page
+title: com.glide.cs.branding.menu_icon_color
+description: ""
+value: "#ffffff"
+---

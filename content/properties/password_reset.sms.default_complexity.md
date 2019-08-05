@@ -1,5 +1,5 @@
 ---
-weight: 381
+weight: 413
 layout: page
 title: password_reset.sms.default_complexity
 description: ""

@@ -1,5 +1,5 @@
 ---
-weight: 94
+weight: 100
 layout: page
 title: glide.cmdb.qb.suggestedRelations.fullRefresh.interval
 description: ""

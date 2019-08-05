@@ -1,5 +1,5 @@
 ---
-weight: 862
+weight: 927
 layout: page
 title: com.snc.incident.copy.enable
 description: ""

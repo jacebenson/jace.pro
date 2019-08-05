@@ -1,5 +1,5 @@
 ---
-weight: 310
+weight: 337
 layout: page
 title: glide.bsm.node.width
 description: ""

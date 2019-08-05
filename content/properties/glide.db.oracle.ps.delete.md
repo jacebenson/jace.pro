@@ -1,5 +1,5 @@
 ---
-weight: 513
+weight: 554
 layout: page
 title: glide.db.oracle.ps.delete
 description: ""

@@ -1,5 +1,5 @@
 ---
-weight: 1216
+weight: 1311
 layout: page
 title: glide.ui.permitted_tables
 description: ""

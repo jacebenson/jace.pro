@@ -1,5 +1,5 @@
 ---
-weight: 1067
+weight: 1150
 layout: page
 title: glide.knowman.text.check_can_read
 description: ""

@@ -1,5 +1,5 @@
 ---
-weight: 668
+weight: 720
 layout: page
 title: problem.closed.cancel_open_tasks
 description: ""

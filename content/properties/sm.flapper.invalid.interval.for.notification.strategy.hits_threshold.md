@@ -1,5 +1,5 @@
 ---
-weight: 802
+weight: 864
 layout: page
 title: sm.flapper.invalid.interval.for.notification.strategy.hits_threshold
 description: ""

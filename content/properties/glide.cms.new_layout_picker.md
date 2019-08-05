@@ -1,5 +1,5 @@
 ---
-weight: 1348
+weight: 1456
 layout: page
 title: glide.cms.new_layout_picker
 description: ""

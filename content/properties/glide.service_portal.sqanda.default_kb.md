@@ -1,5 +1,5 @@
 ---
-weight: 649
+weight: 699
 layout: page
 title: glide.service_portal.sqanda.default_kb
 description: ""

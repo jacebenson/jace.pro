@@ -1,5 +1,5 @@
 ---
-weight: 1378
+weight: 1488
 layout: page
 title: sn_appclient.logging.destination
 description: ""

@@ -1,5 +1,5 @@
 ---
-weight: 1463
+weight: 1577
 layout: page
 title: glide.db.replicate_slave
 description: ""

@@ -1,5 +1,5 @@
 ---
-weight: 216
+weight: 238
 layout: page
 title: glide.ui.report.datasets.default_palettes
 description: ""

@@ -1,5 +1,5 @@
 ---
-weight: 964
+weight: 1039
 layout: page
 title: glide.ui.incident_activity.style.comments
 description: ""

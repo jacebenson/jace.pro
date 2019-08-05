@@ -1,5 +1,5 @@
 ---
-weight: 32
+weight: 35
 layout: page
 title: password_reset.enroll_reminder.email_template
 description: ""

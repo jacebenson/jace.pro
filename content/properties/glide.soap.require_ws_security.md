@@ -1,5 +1,5 @@
 ---
-weight: 1174
+weight: 1265
 layout: page
 title: glide.soap.require_ws_security
 description: ""

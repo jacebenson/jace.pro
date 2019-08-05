@@ -1,5 +1,5 @@
 ---
-weight: 850
+weight: 915
 layout: page
 title: glide.knowman.search.operator
 description: ""

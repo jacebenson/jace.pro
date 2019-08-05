@@ -1,5 +1,5 @@
 ---
-weight: 1396
+weight: 1509
 layout: page
 title: connect.support.show_agent_avatar
 description: ""

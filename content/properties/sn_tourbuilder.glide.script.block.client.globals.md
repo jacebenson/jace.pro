@@ -1,5 +1,5 @@
 ---
-weight: 1368
+weight: 1477
 layout: page
 title: sn_tourbuilder.glide.script.block.client.globals
 description: ""

@@ -1,5 +1,5 @@
 ---
-weight: 1304
+weight: 1405
 layout: page
 title: glide.knowman.search.show_knowledgebase
 description: ""

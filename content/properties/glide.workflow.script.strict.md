@@ -1,5 +1,5 @@
 ---
-weight: 166
+weight: 185
 layout: page
 title: glide.workflow.script.strict
 description: ""

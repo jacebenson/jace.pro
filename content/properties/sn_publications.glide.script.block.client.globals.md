@@ -1,5 +1,5 @@
 ---
-weight: 678
+weight: 731
 layout: page
 title: sn_publications.glide.script.block.client.globals
 description: ""

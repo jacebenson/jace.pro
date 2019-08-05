@@ -1,5 +1,5 @@
 ---
-weight: 52
+weight: 56
 layout: page
 title: glide.ui.client.integer.check
 description: ""

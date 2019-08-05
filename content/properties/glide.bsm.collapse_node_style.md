@@ -1,5 +1,5 @@
 ---
-weight: 1400
+weight: 1513
 layout: page
 title: glide.bsm.collapse_node_style
 description: ""

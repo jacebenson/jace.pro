@@ -1,5 +1,5 @@
 ---
-weight: 588
+weight: 635
 layout: page
 title: glide.security.csrf.strict.validation.mode
 description: ""

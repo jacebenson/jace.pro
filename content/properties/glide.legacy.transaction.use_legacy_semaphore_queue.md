@@ -1,5 +1,5 @@
 ---
-weight: 1523
+weight: 1640
 layout: page
 title: glide.legacy.transaction.use_legacy_semaphore_queue
 description: ""

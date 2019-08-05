@@ -1,5 +1,5 @@
 ---
-weight: 1074
+weight: 1157
 layout: page
 title: glide.ui.activity.style.work_notes
 description: ""

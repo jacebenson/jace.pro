@@ -1,5 +1,5 @@
 ---
-weight: 518
+weight: 559
 layout: page
 title: diagnostics.condition.node.reportedAgo
 description: ""

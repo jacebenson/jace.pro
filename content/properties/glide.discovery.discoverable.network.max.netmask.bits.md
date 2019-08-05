@@ -1,5 +1,5 @@
 ---
-weight: 1389
+weight: 1501
 layout: page
 title: glide.discovery.discoverable.network.max.netmask.bits
 description: ""

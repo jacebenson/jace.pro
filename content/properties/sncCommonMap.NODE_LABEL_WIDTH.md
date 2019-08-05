@@ -1,5 +1,5 @@
 ---
-weight: 896
+weight: 969
 layout: page
 title: sncCommonMap.NODE_LABEL_WIDTH
 description: ""

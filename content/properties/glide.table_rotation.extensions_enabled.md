@@ -1,5 +1,5 @@
 ---
-weight: 1299
+weight: 1399
 layout: page
 title: glide.table_rotation.extensions_enabled
 description: ""

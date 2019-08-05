@@ -1,5 +1,5 @@
 ---
-weight: 510
+weight: 551
 layout: page
 title: glide.db.oracle.ps.query
 description: ""

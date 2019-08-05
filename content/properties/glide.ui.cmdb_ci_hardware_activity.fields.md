@@ -1,5 +1,5 @@
 ---
-weight: 1276
+weight: 1373
 layout: page
 title: glide.ui.cmdb_ci_hardware_activity.fields
 description: ""

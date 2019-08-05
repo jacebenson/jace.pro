@@ -1,5 +1,5 @@
 ---
-weight: 1320
+weight: 1426
 layout: page
 title: glide.ui.autoclose.time
 description: ""

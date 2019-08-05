@@ -1,5 +1,5 @@
 ---
-weight: 1369
+weight: 1478
 layout: page
 title: glide.banner.image.title
 description: ""

@@ -1,5 +1,5 @@
 ---
-weight: 219
+weight: 241
 layout: page
 title: glide.chart.box.mean.color
 description: ""

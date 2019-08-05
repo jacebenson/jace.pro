@@ -1,5 +1,5 @@
 ---
-weight: 1547
+weight: 1666
 layout: page
 title: com.snc.pa.text.trendline_points_for.frequency
 description: ""

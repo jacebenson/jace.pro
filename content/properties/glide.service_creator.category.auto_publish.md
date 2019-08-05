@@ -1,5 +1,5 @@
 ---
-weight: 648
+weight: 698
 layout: page
 title: glide.service_creator.category.auto_publish
 description: ""

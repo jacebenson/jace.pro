@@ -1,5 +1,5 @@
 ---
-weight: 830
+weight: 892
 layout: page
 title: change.conflict.mode
 description: ""

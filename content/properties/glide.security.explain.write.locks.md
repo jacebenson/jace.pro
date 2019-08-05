@@ -1,5 +1,5 @@
 ---
-weight: 1465
+weight: 1579
 layout: page
 title: glide.security.explain.write.locks
 description: ""

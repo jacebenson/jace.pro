@@ -1,5 +1,5 @@
 ---
-weight: 1385
+weight: 1496
 layout: page
 title: glide.security.scoped_administration
 description: ""

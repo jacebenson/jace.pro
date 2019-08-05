@@ -1,5 +1,5 @@
 ---
-weight: 388
+weight: 420
 layout: page
 title: change.conflict.currentci
 description: ""

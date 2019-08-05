@@ -1,5 +1,5 @@
 ---
-weight: 757
+weight: 815
 layout: page
 title: glide.ngbsm.search_service_limit
 description: ""

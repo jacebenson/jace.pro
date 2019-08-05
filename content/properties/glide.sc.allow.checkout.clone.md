@@ -1,5 +1,5 @@
 ---
-weight: 1229
+weight: 1325
 layout: page
 title: glide.sc.allow.checkout.clone
 description: ""

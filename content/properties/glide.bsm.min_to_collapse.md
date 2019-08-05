@@ -1,5 +1,5 @@
 ---
-weight: 92
+weight: 98
 layout: page
 title: glide.bsm.min_to_collapse
 description: ""

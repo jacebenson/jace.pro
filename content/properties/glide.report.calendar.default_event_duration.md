@@ -1,5 +1,5 @@
 ---
-weight: 672
+weight: 725
 layout: page
 title: glide.report.calendar.default_event_duration
 description: ""

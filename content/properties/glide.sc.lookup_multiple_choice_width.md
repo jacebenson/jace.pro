@@ -1,5 +1,5 @@
 ---
-weight: 1044
+weight: 1127
 layout: page
 title: glide.sc.lookup_multiple_choice_width
 description: ""

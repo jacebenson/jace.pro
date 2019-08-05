@@ -1,5 +1,5 @@
 ---
-weight: 1404
+weight: 1517
 layout: page
 title: glide.sc.render_order_guide_column
 description: ""

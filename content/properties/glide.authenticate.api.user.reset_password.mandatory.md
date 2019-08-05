@@ -1,5 +1,5 @@
 ---
-weight: 1578
+weight: 1700
 layout: page
 title: glide.authenticate.api.user.reset_password.mandatory
 description: ""

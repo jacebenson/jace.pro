@@ -1,5 +1,5 @@
 ---
-weight: 80
+weight: 86
 layout: page
 title: glide.ts.query.and_or_limit
 description: ""

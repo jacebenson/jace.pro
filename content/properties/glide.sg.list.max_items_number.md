@@ -1,5 +1,5 @@
 ---
-weight: 1500
+weight: 1615
 layout: page
 title: glide.sg.list.max_items_number
 description: ""

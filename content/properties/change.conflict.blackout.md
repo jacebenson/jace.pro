@@ -1,5 +1,5 @@
 ---
-weight: 387
+weight: 419
 layout: page
 title: change.conflict.blackout
 description: ""

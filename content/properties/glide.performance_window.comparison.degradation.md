@@ -1,5 +1,5 @@
 ---
-weight: 1140
+weight: 1228
 layout: page
 title: glide.performance_window.comparison.degradation
 description: ""

@@ -1,5 +1,5 @@
 ---
-weight: 533
+weight: 574
 layout: page
 title: glide.expert.checkout.twostep
 description: ""

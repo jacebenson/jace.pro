@@ -1,5 +1,5 @@
 ---
-weight: 938
+weight: 1011
 layout: page
 title: glide.sc.checkbox_width
 description: ""

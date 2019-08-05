@@ -1,5 +1,5 @@
 ---
-weight: 937
+weight: 1010
 layout: page
 title: glide.system.locale
 description: ""

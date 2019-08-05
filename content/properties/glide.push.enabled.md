@@ -1,5 +1,5 @@
 ---
-weight: 190
+weight: 210
 layout: page
 title: glide.push.enabled
 description: ""

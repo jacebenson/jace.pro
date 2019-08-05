@@ -1,5 +1,5 @@
 ---
-weight: 379
+weight: 411
 layout: page
 title: glide.schema.colors
 description: ""

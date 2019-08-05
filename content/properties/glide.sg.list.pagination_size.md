@@ -1,5 +1,5 @@
 ---
-weight: 565
+weight: 608
 layout: page
 title: glide.sg.list.pagination_size
 description: ""

@@ -1,5 +1,5 @@
 ---
-weight: 1307
+weight: 1410
 layout: page
 title: glide.ui.html.editor.toolbar.valid.buttons
 description: ""

@@ -1,5 +1,5 @@
 ---
-weight: 1062
+weight: 1145
 layout: page
 title: glide.ui.chart.default.colors
 description: ""

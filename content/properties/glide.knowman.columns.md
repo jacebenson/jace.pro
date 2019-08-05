@@ -1,5 +1,5 @@
 ---
-weight: 1420
+weight: 1533
 layout: page
 title: glide.knowman.columns
 description: ""

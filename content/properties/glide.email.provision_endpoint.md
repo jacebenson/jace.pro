@@ -1,5 +1,5 @@
 ---
-weight: 869
+weight: 935
 layout: page
 title: glide.email.provision_endpoint
 description: ""

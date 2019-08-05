@@ -1,5 +1,5 @@
 ---
-weight: 526
+weight: 567
 layout: page
 title: glide.history.max_entries
 description: ""

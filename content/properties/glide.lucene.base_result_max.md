@@ -1,5 +1,5 @@
 ---
-weight: 1007
+weight: 1088
 layout: page
 title: glide.lucene.base_result_max
 description: ""

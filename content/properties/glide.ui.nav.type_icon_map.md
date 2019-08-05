@@ -1,5 +1,5 @@
 ---
-weight: 1122
+weight: 1207
 layout: page
 title: glide.ui.nav.type_icon_map
 description: ""

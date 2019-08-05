@@ -1,5 +1,5 @@
 ---
-weight: 903
+weight: 976
 layout: page
 title: password_reset.request.expiry
 description: ""

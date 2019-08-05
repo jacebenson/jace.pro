@@ -1,5 +1,5 @@
 ---
-weight: 542
+weight: 583
 layout: page
 title: sm.ci_field_data_table.size_limit
 description: ""

@@ -1,5 +1,5 @@
 ---
-weight: 259
+weight: 281
 layout: page
 title: glide.ui.textarea_sizer
 description: ""

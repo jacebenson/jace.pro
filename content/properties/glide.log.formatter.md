@@ -1,5 +1,5 @@
 ---
-weight: 1046
+weight: 1129
 layout: page
 title: glide.log.formatter
 description: ""

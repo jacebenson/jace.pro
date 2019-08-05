@@ -1,5 +1,5 @@
 ---
-weight: 693
+weight: 747
 layout: page
 title: glide.sys.upgrade_script
 description: ""

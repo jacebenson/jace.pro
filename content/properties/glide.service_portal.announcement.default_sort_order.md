@@ -1,5 +1,5 @@
 ---
-weight: 1477
+weight: 1592
 layout: page
 title: glide.service_portal.announcement.default_sort_order
 description: ""
