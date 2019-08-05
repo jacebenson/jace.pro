@@ -1,5 +1,4 @@
 ---
-weight: 1633
 layout: page
 title: glide.notification.email.default_template_sys_id
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 1469
 layout: page
 title: glide.chart.label.legend.truncate_to.large
 description: ""

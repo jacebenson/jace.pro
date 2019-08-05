@@ -1,5 +1,4 @@
 ---
-weight: 960
 layout: page
 title: com.snc.sla.condition.timers
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 882
 layout: page
 title: glide.knowman.create_incident_link.display
 description: ""

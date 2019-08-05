@@ -1,5 +1,4 @@
 ---
-weight: 1500
 layout: page
 title: com.glide.cs.portal_url_mapping.csp._default
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 1050
 layout: page
 title: glide.ui.syntax_editor.linter.eslint_config
 description: ""

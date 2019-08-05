@@ -1,5 +1,4 @@
 ---
-weight: 1090
 layout: page
 title: glide.ts.widget.top_search_tables
 description: ""

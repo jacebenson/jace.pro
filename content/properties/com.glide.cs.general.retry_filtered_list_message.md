@@ -1,5 +1,4 @@
 ---
-weight: 17
 layout: page
 title: com.glide.cs.general.retry_filtered_list_message
 description: ""

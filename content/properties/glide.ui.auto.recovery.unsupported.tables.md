@@ -1,5 +1,4 @@
 ---
-weight: 252
 layout: page
 title: glide.ui.auto.recovery.unsupported.tables
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 788
 layout: page
 title: css.version
 description: ""

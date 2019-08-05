@@ -1,5 +1,4 @@
 ---
-weight: 191
 layout: page
 title: sn_openframe.cross.origin.access
 description: ""

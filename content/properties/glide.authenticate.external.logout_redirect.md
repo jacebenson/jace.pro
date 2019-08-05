@@ -1,5 +1,4 @@
 ---
-weight: 897
 layout: page
 title: glide.authenticate.external.logout_redirect
 description: ""

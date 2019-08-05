@@ -1,5 +1,4 @@
 ---
-weight: 858
 layout: page
 title: com.glide.cs.rich_converter_case_html
 description: ""

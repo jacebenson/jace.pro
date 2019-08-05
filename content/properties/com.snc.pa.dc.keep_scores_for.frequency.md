@@ -1,5 +1,4 @@
 ---
-weight: 1289
 layout: page
 title: com.snc.pa.dc.keep_scores_for.frequency
 description: ""

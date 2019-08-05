@@ -1,5 +1,4 @@
 ---
-weight: 579
 layout: page
 title: glide.graphql.property.whitelist
 description: ""

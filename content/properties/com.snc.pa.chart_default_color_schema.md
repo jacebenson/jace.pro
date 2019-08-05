@@ -1,5 +1,4 @@
 ---
-weight: 57
 layout: page
 title: com.snc.pa.chart_default_color_schema
 description: ""

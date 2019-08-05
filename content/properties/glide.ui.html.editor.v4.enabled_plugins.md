@@ -1,5 +1,4 @@
 ---
-weight: 1689
 layout: page
 title: glide.ui.html.editor.v4.enabled_plugins
 description: ""

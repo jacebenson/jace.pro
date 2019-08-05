@@ -1,5 +1,4 @@
 ---
-weight: 1296
 layout: page
 title: glide.ui.homepage.enforce_app_menu_roles
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 416
 layout: page
 title: com.snc.incident.clone_fields_on_reopen
 description: ""

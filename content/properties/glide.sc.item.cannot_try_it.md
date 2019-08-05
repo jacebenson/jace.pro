@@ -1,5 +1,4 @@
 ---
-weight: 32
 layout: page
 title: glide.sc.item.cannot_try_it
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 625
 layout: page
 title: com.glide.cs.topic_choice_list_message
 description: ""

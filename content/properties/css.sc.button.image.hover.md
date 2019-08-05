@@ -1,5 +1,4 @@
 ---
-weight: 912
 layout: page
 title: css.sc.button.image.hover
 description: ""

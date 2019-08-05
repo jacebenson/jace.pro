@@ -1,5 +1,4 @@
 ---
-weight: 1693
 layout: page
 title: com.glide.cs.global_configuration
 description: ""

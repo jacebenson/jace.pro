@@ -1,5 +1,4 @@
 ---
-weight: 591
 layout: page
 title: com.glide.cs.portal_url_mapping._default.sn_publications_publication
 description: ""

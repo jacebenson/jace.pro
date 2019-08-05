@@ -1,5 +1,4 @@
 ---
-weight: 888
 layout: page
 title: com.snc.problem.create_from_incident.attributes
 description: ""

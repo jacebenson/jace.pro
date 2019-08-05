@@ -1,5 +1,4 @@
 ---
-weight: 1004
 layout: page
 title: glide.db.replicate_date
 description: ""

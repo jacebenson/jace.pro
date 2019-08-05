@@ -1,5 +1,4 @@
 ---
-weight: 889
 layout: page
 title: glide.ui.list_edit_ignore_types
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 128
 layout: page
 title: css.$nav-hr-color
 description: ""

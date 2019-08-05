@@ -1,5 +1,4 @@
 ---
-weight: 1395
 layout: page
 title: glide.sg.button_instance.color_theme.destructive
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 1244
 layout: page
 title: css.$highlight-color
 description: ""

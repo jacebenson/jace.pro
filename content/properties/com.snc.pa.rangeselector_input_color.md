@@ -1,5 +1,4 @@
 ---
-weight: 214
 layout: page
 title: com.snc.pa.rangeselector_input_color
 description: ""

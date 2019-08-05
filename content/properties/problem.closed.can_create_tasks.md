@@ -1,5 +1,4 @@
 ---
-weight: 827
 layout: page
 title: problem.closed.can_create_tasks
 description: ""

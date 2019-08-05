@@ -1,5 +1,4 @@
 ---
-weight: 680
 layout: page
 title: glide.email.digest.default_interval
 description: ""

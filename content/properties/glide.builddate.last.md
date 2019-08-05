@@ -1,5 +1,4 @@
 ---
-weight: 999
 layout: page
 title: glide.builddate.last
 description: ""

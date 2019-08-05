@@ -1,5 +1,4 @@
 ---
-weight: 793
 layout: page
 title: glide.knowman.show_yn_rating.roles
 description: ""

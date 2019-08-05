@@ -1,5 +1,4 @@
 ---
-weight: 333
 layout: page
 title: glide.request_manager.always_cancel
 description: ""

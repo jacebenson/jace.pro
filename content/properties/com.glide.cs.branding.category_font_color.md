@@ -1,5 +1,4 @@
 ---
-weight: 183
 layout: page
 title: com.glide.cs.branding.category_font_color
 description: ""

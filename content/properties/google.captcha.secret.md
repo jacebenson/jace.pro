@@ -1,5 +1,4 @@
 ---
-weight: 194
 layout: page
 title: google.captcha.secret
 description: ""

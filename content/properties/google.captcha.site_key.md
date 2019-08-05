@@ -1,5 +1,4 @@
 ---
-weight: 1172
 layout: page
 title: google.captcha.site_key
 description: ""

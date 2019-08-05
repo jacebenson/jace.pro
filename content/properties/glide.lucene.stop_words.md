@@ -1,5 +1,4 @@
 ---
-weight: 705
 layout: page
 title: glide.lucene.stop_words
 description: ""

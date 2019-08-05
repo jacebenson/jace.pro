@@ -1,5 +1,4 @@
 ---
-weight: 243
 layout: page
 title: glide.ui.clickthrough.popup.direct
 description: ""

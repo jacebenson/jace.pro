@@ -1,5 +1,4 @@
 ---
-weight: 117
 layout: page
 title: glide.ldap.authentication
 description: ""

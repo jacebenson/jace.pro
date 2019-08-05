@@ -1,5 +1,4 @@
 ---
-weight: 471
 layout: page
 title: glide.ui.cmdb_ci_business_app_activity.fields
 description: ""

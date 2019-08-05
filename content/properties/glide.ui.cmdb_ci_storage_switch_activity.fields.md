@@ -1,5 +1,4 @@
 ---
-weight: 1099
 layout: page
 title: glide.ui.cmdb_ci_storage_switch_activity.fields
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 477
 layout: page
 title: glide.ui.strict_customer_uploaded_content_types
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 466
 layout: page
 title: glide.ui.alm_asset_activity.fields
 description: ""

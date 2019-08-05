@@ -1,5 +1,4 @@
 ---
-weight: 954
 layout: page
 title: com.glide.cs.branding.va_profile
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 825
 layout: page
 title: glide.email.journal.lines
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 124
 layout: page
 title: glide.ui.m_agents
 description: ""

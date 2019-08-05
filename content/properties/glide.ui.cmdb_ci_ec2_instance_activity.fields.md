@@ -1,5 +1,4 @@
 ---
-weight: 366
 layout: page
 title: glide.ui.cmdb_ci_ec2_instance_activity.fields
 description: ""

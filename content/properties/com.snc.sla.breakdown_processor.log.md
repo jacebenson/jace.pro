@@ -1,5 +1,4 @@
 ---
-weight: 1522
 layout: page
 title: com.snc.sla.breakdown_processor.log
 description: ""

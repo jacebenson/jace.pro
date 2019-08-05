@@ -1,5 +1,4 @@
 ---
-weight: 1002
 layout: page
 title: glide.war
 description: ""

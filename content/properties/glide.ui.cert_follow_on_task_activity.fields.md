@@ -1,5 +1,4 @@
 ---
-weight: 1345
 layout: page
 title: glide.ui.cert_follow_on_task_activity.fields
 description: ""

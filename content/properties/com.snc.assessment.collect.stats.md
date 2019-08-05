@@ -1,5 +1,4 @@
 ---
-weight: 501
 layout: page
 title: com.snc.assessment.collect.stats
 description: ""

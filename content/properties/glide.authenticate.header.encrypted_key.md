@@ -1,5 +1,4 @@
 ---
-weight: 242
 layout: page
 title: glide.authenticate.header.encrypted_key
 description: ""

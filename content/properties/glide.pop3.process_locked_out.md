@@ -1,5 +1,4 @@
 ---
-weight: 143
 layout: page
 title: glide.pop3.process_locked_out
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 1448
 layout: page
 title: glide.sc.item.not_normal_cart_item
 description: ""

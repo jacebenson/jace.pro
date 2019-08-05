@@ -1,5 +1,4 @@
 ---
-weight: 1418
 layout: page
 title: glide.sc.item.order_guide_exclusion
 description: ""

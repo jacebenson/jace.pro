@@ -1,5 +1,4 @@
 ---
-weight: 1315
 layout: page
 title: com.glide.cs.portal_url_mapping.csp.sn_customerservice_case
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 43
 layout: page
 title: css.button.action.text.color
 description: ""

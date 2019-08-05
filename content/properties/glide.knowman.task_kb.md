@@ -1,5 +1,4 @@
 ---
-weight: 525
 layout: page
 title: glide.knowman.task_kb
 description: ""

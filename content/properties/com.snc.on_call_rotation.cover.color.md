@@ -1,5 +1,4 @@
 ---
-weight: 277
 layout: page
 title: com.snc.on_call_rotation.cover.color
 description: ""

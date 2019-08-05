@@ -1,5 +1,4 @@
 ---
-weight: 651
 layout: page
 title: glide.knowman.section.view_roles.draft
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 1636
 layout: page
 title: com.glide.cs.branding.system_message_color
 description: ""

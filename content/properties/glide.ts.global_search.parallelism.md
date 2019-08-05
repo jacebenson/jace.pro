@@ -1,5 +1,4 @@
 ---
-weight: 113
 layout: page
 title: glide.ts.global_search.parallelism
 description: ""

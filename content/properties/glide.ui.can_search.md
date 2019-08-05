@@ -1,5 +1,4 @@
 ---
-weight: 1224
 layout: page
 title: glide.ui.can_search
 description: ""

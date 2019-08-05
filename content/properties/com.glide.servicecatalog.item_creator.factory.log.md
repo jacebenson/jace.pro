@@ -1,5 +1,4 @@
 ---
-weight: 461
 layout: page
 title: com.glide.servicecatalog.item_creator.factory.log
 description: ""

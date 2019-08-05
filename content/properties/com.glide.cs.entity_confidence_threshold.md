@@ -1,5 +1,4 @@
 ---
-weight: 1489
 layout: page
 title: com.glide.cs.entity_confidence_threshold
 description: ""

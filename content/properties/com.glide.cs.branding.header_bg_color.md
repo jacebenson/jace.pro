@@ -1,5 +1,4 @@
 ---
-weight: 319
 layout: page
 title: com.glide.cs.branding.header_bg_color
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 1061
 layout: page
 title: com.snc.pa.dc.keep_snapshots_for.frequency
 description: ""

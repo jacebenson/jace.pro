@@ -1,5 +1,4 @@
 ---
-weight: 1422
 layout: page
 title: com.glide.quickactions.dispatchaction_whitelist
 description: ""

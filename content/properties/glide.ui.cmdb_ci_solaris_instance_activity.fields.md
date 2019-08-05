@@ -1,5 +1,4 @@
 ---
-weight: 826
 layout: page
 title: glide.ui.cmdb_ci_solaris_instance_activity.fields
 description: ""

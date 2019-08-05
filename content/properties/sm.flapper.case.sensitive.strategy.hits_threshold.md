@@ -1,5 +1,4 @@
 ---
-weight: 783
 layout: page
 title: sm.flapper.case.sensitive.strategy.hits_threshold
 description: ""

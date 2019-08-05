@@ -1,5 +1,4 @@
 ---
-weight: 164
 layout: page
 title: sm.flapper.affected.services_range
 description: ""

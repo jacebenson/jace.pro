@@ -1,5 +1,4 @@
 ---
-weight: 1570
 layout: page
 title: glide.ui.mobile.activity.initial_limit
 description: ""

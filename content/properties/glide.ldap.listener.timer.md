@@ -1,5 +1,4 @@
 ---
-weight: 115
 layout: page
 title: glide.ldap.listener.timer
 description: ""

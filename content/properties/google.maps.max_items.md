@@ -1,5 +1,4 @@
 ---
-weight: 506
 layout: page
 title: google.maps.max_items
 description: ""

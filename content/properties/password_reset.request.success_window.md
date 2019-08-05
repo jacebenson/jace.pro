@@ -1,5 +1,4 @@
 ---
-weight: 1437
 layout: page
 title: password_reset.request.success_window
 description: ""

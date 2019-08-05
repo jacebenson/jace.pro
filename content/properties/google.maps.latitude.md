@@ -1,5 +1,4 @@
 ---
-weight: 168
 layout: page
 title: google.maps.latitude
 description: ""

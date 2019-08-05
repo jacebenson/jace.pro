@@ -1,5 +1,4 @@
 ---
-weight: 29
 layout: page
 title: com.glide.cs.javascript.reserved_words
 description: ""

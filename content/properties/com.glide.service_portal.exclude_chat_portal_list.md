@@ -1,5 +1,4 @@
 ---
-weight: 1188
 layout: page
 title: com.glide.service_portal.exclude_chat_portal_list
 description: ""

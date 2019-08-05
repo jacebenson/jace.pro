@@ -1,5 +1,4 @@
 ---
-weight: 1556
 layout: page
 title: glide.soap.require_content_type_xml
 description: ""

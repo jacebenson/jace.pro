@@ -1,5 +1,4 @@
 ---
-weight: 879
 layout: page
 title: glide.duplicate_ci_remediator.related_items_blacklist
 description: ""

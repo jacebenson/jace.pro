@@ -1,5 +1,4 @@
 ---
-weight: 1135
 layout: page
 title: glide.schedules.repeat_nth
 description: ""

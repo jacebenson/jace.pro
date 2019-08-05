@@ -1,5 +1,4 @@
 ---
-weight: 1681
 layout: page
 title: glide.ui.cmdb_ci_hyper_v_instance_activity.fields
 description: ""

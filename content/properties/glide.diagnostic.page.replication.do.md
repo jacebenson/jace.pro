@@ -1,5 +1,4 @@
 ---
-weight: 1092
 layout: page
 title: glide.diagnostic.page.replication.do
 description: ""

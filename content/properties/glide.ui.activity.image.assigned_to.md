@@ -1,5 +1,4 @@
 ---
-weight: 1272
 layout: page
 title: glide.ui.activity.image.assigned_to
 description: ""

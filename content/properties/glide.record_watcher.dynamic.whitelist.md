@@ -1,5 +1,4 @@
 ---
-weight: 403
 layout: page
 title: glide.record_watcher.dynamic.whitelist
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 25
 layout: page
 title: instance_id
 description: ""

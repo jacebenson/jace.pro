@@ -1,5 +1,4 @@
 ---
-weight: 1107
 layout: page
 title: sn_atf.snc_read_only_role_exemptions
 description: ""

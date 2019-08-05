@@ -1,5 +1,4 @@
 ---
-weight: 1147
 layout: page
 title: connect.notification.audio_alert
 description: ""

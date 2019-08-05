@@ -1,5 +1,4 @@
 ---
-weight: 1075
 layout: page
 title: com.glide.cs.no_topic_found_message
 description: ""

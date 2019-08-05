@@ -1,5 +1,4 @@
 ---
-weight: 922
 layout: page
 title: glide.render.cache.max.age
 description: ""

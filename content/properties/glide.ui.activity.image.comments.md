@@ -1,5 +1,4 @@
 ---
-weight: 1154
 layout: page
 title: glide.ui.activity.image.comments
 description: ""

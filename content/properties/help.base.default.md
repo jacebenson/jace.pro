@@ -1,5 +1,4 @@
 ---
-weight: 1520
 layout: page
 title: help.base.default
 description: ""

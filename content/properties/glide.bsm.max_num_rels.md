@@ -1,5 +1,4 @@
 ---
-weight: 21
 layout: page
 title: glide.bsm.max_num_rels
 description: ""

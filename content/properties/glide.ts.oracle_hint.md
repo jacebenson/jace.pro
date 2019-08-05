@@ -1,5 +1,4 @@
 ---
-weight: 350
 layout: page
 title: glide.ts.oracle_hint
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 641
 layout: page
 title: glide.cmdb.suggested_relationship.enabled
 description: ""

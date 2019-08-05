@@ -1,5 +1,4 @@
 ---
-weight: 846
 layout: page
 title: glide.ui.m.apple-app-site-association-file
 description: ""

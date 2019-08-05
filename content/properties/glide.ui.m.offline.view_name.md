@@ -1,5 +1,4 @@
 ---
-weight: 427
 layout: page
 title: glide.ui.m.offline.view_name
 description: ""

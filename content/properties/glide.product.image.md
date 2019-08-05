@@ -1,5 +1,4 @@
 ---
-weight: 761
 layout: page
 title: glide.product.image
 description: ""

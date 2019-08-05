@@ -1,5 +1,4 @@
 ---
-weight: 519
 layout: page
 title: glide.ui.no_text_search
 description: ""

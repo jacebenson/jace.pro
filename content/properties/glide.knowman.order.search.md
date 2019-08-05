@@ -1,5 +1,4 @@
 ---
-weight: 155
 layout: page
 title: glide.knowman.order.search
 description: ""

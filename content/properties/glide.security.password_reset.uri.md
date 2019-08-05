@@ -1,5 +1,4 @@
 ---
-weight: 1178
 layout: page
 title: glide.security.password_reset.uri
 description: ""

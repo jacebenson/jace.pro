@@ -1,5 +1,4 @@
 ---
-weight: 855
 layout: page
 title: glide.sc.search.exclude_catalogs
 description: ""

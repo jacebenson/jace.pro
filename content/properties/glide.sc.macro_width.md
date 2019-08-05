@@ -1,5 +1,4 @@
 ---
-weight: 1069
 layout: page
 title: glide.sc.macro_width
 description: ""

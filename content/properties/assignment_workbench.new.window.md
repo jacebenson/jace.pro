@@ -1,5 +1,4 @@
 ---
-weight: 215
 layout: page
 title: assignment_workbench.new.window
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 665
 layout: page
 title: glide.ui.nav.colors
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 708
 layout: page
 title: glide.dv.search_ci.excluded_table
 description: ""

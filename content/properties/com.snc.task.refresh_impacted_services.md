@@ -1,5 +1,4 @@
 ---
-weight: 1610
 layout: page
 title: com.snc.task.refresh_impacted_services
 description: ""

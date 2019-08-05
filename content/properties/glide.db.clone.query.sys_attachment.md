@@ -1,5 +1,4 @@
 ---
-weight: 803
 layout: page
 title: glide.db.clone.query.sys_attachment
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 1574
 layout: page
 title: password_reset.stylesheet
 description: ""

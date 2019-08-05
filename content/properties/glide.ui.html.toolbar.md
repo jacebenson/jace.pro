@@ -1,5 +1,4 @@
 ---
-weight: 274
 layout: page
 title: glide.ui.html.toolbar
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 53
 layout: page
 title: glide.guest.session_timeout
 description: ""

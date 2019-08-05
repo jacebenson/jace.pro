@@ -1,5 +1,4 @@
 ---
-weight: 321
 layout: page
 title: com.glide.cs.portal_url_mapping.csm.kb_knowledge
 description: ""

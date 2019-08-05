@@ -1,5 +1,4 @@
 ---
-weight: 70
 layout: page
 title: glide.platform_ml.api.csv_split_days
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 152
 layout: page
 title: glide.ui.cmdb_ci_netgear_activity.fields
 description: ""

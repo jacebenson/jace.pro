@@ -1,5 +1,4 @@
 ---
-weight: 1000
 layout: page
 title: glide.sg.hide_applications_screen_image
 description: ""

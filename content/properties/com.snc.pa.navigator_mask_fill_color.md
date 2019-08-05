@@ -1,5 +1,4 @@
 ---
-weight: 467
 layout: page
 title: com.snc.pa.navigator_mask_fill_color
 description: ""

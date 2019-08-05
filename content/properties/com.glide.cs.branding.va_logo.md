@@ -1,5 +1,4 @@
 ---
-weight: 135
 layout: page
 title: com.glide.cs.branding.va_logo
 description: ""

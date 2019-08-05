@@ -1,5 +1,4 @@
 ---
-weight: 1521
 layout: page
 title: com.snc.change_request.copy.rl.task_ci.attributes
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 112
 layout: page
 title: sn_ext_usr_reg.csm_portal.pwd_cred_store
 description: ""

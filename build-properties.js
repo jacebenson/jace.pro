@@ -48,7 +48,6 @@ var req = http.request(options, function (res) {
         property.value = "";
       }
       var content = `---
-weight: ${index}
 layout: page
 title: ${property.sys_name}
 description: "${property.description}"

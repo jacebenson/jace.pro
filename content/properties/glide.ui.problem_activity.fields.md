@@ -1,5 +1,4 @@
 ---
-weight: 1152
 layout: page
 title: glide.ui.problem_activity.fields
 description: ""

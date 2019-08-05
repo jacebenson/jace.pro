@@ -1,5 +1,4 @@
 ---
-weight: 916
 layout: page
 title: glide.service_portal.default_search_sources
 description: ""

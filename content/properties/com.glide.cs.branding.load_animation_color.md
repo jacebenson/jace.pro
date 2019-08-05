@@ -1,5 +1,4 @@
 ---
-weight: 1430
 layout: page
 title: com.glide.cs.branding.load_animation_color
 description: ""

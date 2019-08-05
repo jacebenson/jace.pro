@@ -1,5 +1,4 @@
 ---
-weight: 111
 layout: page
 title: glide.notification.preference.ui.connect_category_id
 description: ""

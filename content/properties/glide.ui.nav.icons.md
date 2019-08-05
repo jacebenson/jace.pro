@@ -1,5 +1,4 @@
 ---
-weight: 607
 layout: page
 title: glide.ui.nav.icons
 description: ""

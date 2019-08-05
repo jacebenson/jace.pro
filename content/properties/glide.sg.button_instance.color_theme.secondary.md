@@ -1,5 +1,4 @@
 ---
-weight: 399
 layout: page
 title: glide.sg.button_instance.color_theme.secondary
 description: ""

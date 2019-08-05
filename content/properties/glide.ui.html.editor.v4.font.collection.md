@@ -1,5 +1,4 @@
 ---
-weight: 1601
 layout: page
 title: glide.ui.html.editor.v4.font.collection
 description: ""

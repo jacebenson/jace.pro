@@ -1,5 +1,4 @@
 ---
-weight: 37
 layout: page
 title: css.base.color
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 78
 layout: page
 title: glide.user.default_password
 description: ""

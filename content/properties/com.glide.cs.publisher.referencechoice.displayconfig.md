@@ -1,5 +1,4 @@
 ---
-weight: 758
 layout: page
 title: com.glide.cs.publisher.referencechoice.displayconfig
 description: ""

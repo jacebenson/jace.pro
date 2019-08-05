@@ -1,5 +1,4 @@
 ---
-weight: 659
 layout: page
 title: sa.mapping.user.manual.citype.blacklist
 description: ""

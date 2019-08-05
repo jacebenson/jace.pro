@@ -1,5 +1,4 @@
 ---
-weight: 1524
 layout: page
 title: css.$navpage-nav-border
 description: ""

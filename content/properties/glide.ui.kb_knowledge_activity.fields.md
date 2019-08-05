@@ -1,5 +1,4 @@
 ---
-weight: 742
 layout: page
 title: glide.ui.kb_knowledge_activity.fields
 description: ""

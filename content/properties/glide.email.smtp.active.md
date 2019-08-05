@@ -1,5 +1,4 @@
 ---
-weight: 883
 layout: page
 title: glide.email.smtp.active
 description: ""

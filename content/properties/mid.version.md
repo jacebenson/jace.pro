@@ -1,5 +1,4 @@
 ---
-weight: 12
 layout: page
 title: mid.version
 description: ""

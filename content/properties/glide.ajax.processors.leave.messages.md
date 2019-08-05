@@ -1,5 +1,4 @@
 ---
-weight: 1165
 layout: page
 title: glide.ajax.processors.leave.messages
 description: ""

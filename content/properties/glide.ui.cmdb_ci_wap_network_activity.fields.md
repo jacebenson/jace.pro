@@ -1,5 +1,4 @@
 ---
-weight: 1612
 layout: page
 title: glide.ui.cmdb_ci_wap_network_activity.fields
 description: ""

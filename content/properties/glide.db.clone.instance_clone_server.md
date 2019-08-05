@@ -1,5 +1,4 @@
 ---
-weight: 706
 layout: page
 title: glide.db.clone.instance_clone_server
 description: ""

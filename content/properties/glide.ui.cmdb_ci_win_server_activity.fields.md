@@ -1,5 +1,4 @@
 ---
-weight: 1447
 layout: page
 title: glide.ui.cmdb_ci_win_server_activity.fields
 description: ""

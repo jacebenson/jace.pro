@@ -1,5 +1,4 @@
 ---
-weight: 349
 layout: page
 title: glide.ts.max_duration
 description: ""

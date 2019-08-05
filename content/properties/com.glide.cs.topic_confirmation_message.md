@@ -1,5 +1,4 @@
 ---
-weight: 437
 layout: page
 title: com.glide.cs.topic_confirmation_message
 description: ""

@@ -1,5 +1,4 @@
 ---
-weight: 948
 layout: page
 title: com.glide.cs.live_agent_queue
 description: ""

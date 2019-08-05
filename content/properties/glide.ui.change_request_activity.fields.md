@@ -1,5 +1,4 @@
 ---
-weight: 732
 layout: page
 title: glide.ui.change_request_activity.fields
 description: ""

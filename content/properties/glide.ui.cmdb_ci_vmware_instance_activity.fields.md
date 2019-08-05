@@ -1,5 +1,4 @@
 ---
-weight: 847
 layout: page
 title: glide.ui.cmdb_ci_vmware_instance_activity.fields
 description: ""

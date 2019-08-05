@@ -1,5 +1,4 @@
 ---
-weight: 444
 layout: page
 title: glide.ui.html.editor.convert_urls
 description: ""
