@@ -5,9 +5,8 @@
         <a href="https://github.com/jacebenson/blog/edit/master/content/{{ .File.Path }}"><i class="fa fa-pencil"></i> &nbsp;Improve this page</a>
       <article role="main" class="blog-post">
         <p>Description: {{ .Params.Description | safeHTML}}</p>
-        <p>Default Value: {{ .Params.Value }}</p>
-
-        {{ .Content }}
+        
+        Default Value: {{ .Content }}
 
       </article>
       {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (.Site.Params.comments)) }}
