@@ -37,16 +37,16 @@
                   <code>{{ .Title }}</code>
                 </a>
               </td>
-              {{if gt (len (string .Params.Description)) 10}} 
-              <td>{{ substr .Params.Description 0 10}}...</td>
+              {{if gt (len (string .Params.Description | plainify )) 10}} 
+              <td>{{ substr (.Params.Description | plainify) 0 10 }}...</td>
               {{ end }}
-              {{if le (len (string .Params.Description)) 10}} 
-              <td>{{.Params.Description}}</td>
+              {{if le (len (string .Params.Description | plainify )) 10}} 
+              <td>{{.Params.Description | plainify }}</td>
               {{ end }}
-              {{if gt (len (string .Content)) 10}} 
+              {{if gt (len (string .Content | plainify )) 10}} 
               <td>{{ substr .Content 0 10 | plainify }} ...</td>
               {{ end }}
-              {{if le (len (string .Content)) 10 }} 
+              {{if le (len (string .Content | plainify )) 10 }} 
               <td>{{.Content | plainify}}</td>
               {{ end }}
           </tr>
