@@ -170,7 +170,11 @@ delete) is to be aborted.
 ### setWorkflow
 
 Enables or disables the running of business rules, script engines, and
-audit. *NOTE: This works on queries too*
+audit. 
+
+This does not stop **flows** for scoped applications.  [Source](https://community.servicenow.com/community?id=community_question&sys_id=f5c4e8cedb1a7380190dfb2439961969#answer_92dd6e02db667f045129a851ca961939)
+
+*NOTE: This works on queries too*
 
 ``` {.js}
 var incident = new GlideRecord('incident');

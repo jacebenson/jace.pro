@@ -2,6 +2,7 @@
 aliases:
 - '/glideform/'
 - '/GlideForm/'
+- '/g_form'
 date: '2016-01-01'
 keywords:
 - activateTab

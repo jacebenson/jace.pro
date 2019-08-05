@@ -79,7 +79,7 @@ scope](https://docs.servicenow.com/bundle/kingston-application-development/page/
 | [getUser](#getuser)                                                     | Global/Scoped | Returns a reference to the User object for the current user. More information is available here.  |
 | [getXMLNodeList](#getxmlnodelist)                                       | Global        | Constructs an Array of all the nodes and values in an XML document.                               |
 | [getXMLText](#getxmltext)                                               | Global        | Gets the xml text for the first node in the xml string that matches the path query.               |
-| [hasRoleInGroup](hasroleingroup)                                        | Global        | Determines if the current user has the specified role within a specified group.                   |
+| [hasRoleInGroup](#hasroleingroup)                                        | Global        | Determines if the current user has the specified role within a specified group.                   |
 | [hasRole](#hasrole)                                                     | Global/Scoped | Determines if the current user has the specified role.                                            |
 | [include](#include)                                                     | Scoped        |                                                                                                   |
 | [info](#info)                                                           | Scoped        |                                                                                                   |

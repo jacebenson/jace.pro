@@ -31,8 +31,9 @@ Subject: ServiceNow Customer Satification Survey for \[RECORD\]
 >
 > ## \[Person's name\] \[Role, Department\] \[Company\]
 >
-> Resolved by: \[Resolvers Name\] Short description: \[Short
-> Description\]
+> Resolved by: \[Resolvers Name\]
+> 
+> Short description: \[Short Description\]
 
 ## Survey 2
 
@@ -47,18 +48,33 @@ Subject: Survey invitation: New Survey on Customer Satisfaction Survey
 
 ## Record Commented
 
-Subject: \[Priority\] \[Record Class\] Commented - \[Company\] -
-\[Record\]: \[Short Description\]
+Subject: \[Priority\] \[Record Class\] Commented \- \[Company\] - \[Record\]: \[Short Description\]
 
 > \[Record Updated\] \[Priority\] \[Record Class\]: \[Record\]
-> ------------------------------------- Hi \[Record Class\] \[Record\]
-> has been updated. ------------------------------------- \[Record
-> Class\]: \[Record\] Priority: \[Priority\] Short Description: \[Short
-> Description\] Comments -------------------------------------
-> \[Comments\] Steps to reproduce: \[Steps to reproduce\] Business
-> Cricality: \[Imact\] Affected Users: \[Quantity of users\] Start Date:
-> \[Start Date\] End Date: \[End Date\]
-> ------------------------------------ Click here to view \[Record
-> Class\] \[Record\]
+>
+> ------------------------------------- 
+> Hi \[Record Class\] \[Record\] has been updated. 
+> ------------------------------------- 
+> \[Record Class\]: \[Record\] 
+> Priority: \[Priority\] 
+> Short Description: \[Short Description\] 
+> 
+> Comments
+> -------------------------------------
+> \[Comments\] 
+>
+> Steps to reproduce: \[Steps to reproduce\] 
+>
+> Business Cricality: \[Impact\] 
+>
+> Affected Users: \[Quantity of users\] 
+>
+> Start Date: \[Start Date\] 
+>
+> End Date: \[End Date\]
+>
+> ------------------------------------ 
+>
+> Click here to view \[Record Class\] \[Record\]
 >
 > Sincerely, ServiceNow Customer Support
