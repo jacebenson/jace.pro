@@ -43,11 +43,11 @@
               {{if le (len (string .Params.Description)) 10}} 
               <td>{{.Params.Description}}</td>
               {{ end }}
-              {{if gt (len (string .Params.Value)) 10}} 
-              <td>{{ substr .Params.Value 0 10}}...</td>
+              {{if gt (len (string .Content)) 10}} 
+              <td>{{ substr .Content 0 10 | plainify }} ...</td>
               {{ end }}
-              {{if le (len (string .Params.Value)) 10}} 
-              <td>{{.Params.Value}}</td>
+              {{if le (len (string .Content)) 10 }} 
+              <td>{{.Content | plainify}}</td>
               {{ end }}
           </tr>
           {{ end }}

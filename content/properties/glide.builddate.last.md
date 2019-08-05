@@ -2,5 +2,5 @@
 layout: page
 title: glide.builddate.last
 description: ""
-value: "07-16-2019_1636"
 ---
+07-16-2019_1636

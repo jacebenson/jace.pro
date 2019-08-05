@@ -2,5 +2,5 @@
 layout: page
 title: glide.knowman.show_flag.roles
 description: ""
-value: "itil,knowledge,knowledge_admin"
 ---
+itil,knowledge,knowledge_admin

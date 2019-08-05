@@ -2,5 +2,5 @@
 layout: page
 title: sn_appclient.repository_base_url
 description: ""
-value: "https://apprepo.service-now.com/"
 ---
+https://apprepo.service-now.com/

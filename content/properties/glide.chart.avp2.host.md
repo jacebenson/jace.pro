@@ -2,5 +2,5 @@
 layout: page
 title: glide.chart.avp2.host
 description: ""
-value: "http://avp2"
 ---
+http://avp2

@@ -2,5 +2,5 @@
 layout: page
 title: sn_atf.schedule.suite_result_email.error_color
 description: ""
-value: "#ffdcc6"
 ---
+#ffdcc6

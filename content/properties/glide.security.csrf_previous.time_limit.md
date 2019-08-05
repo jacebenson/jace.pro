@@ -2,5 +2,5 @@
 layout: page
 title: glide.security.csrf_previous.time_limit
 description: ""
-value: "86400"
 ---
+86400

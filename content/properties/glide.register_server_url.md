@@ -2,5 +2,5 @@
 layout: page
 title: glide.register_server_url
 description: ""
-value: "https://noderegister.service-now.com/"
 ---
+https://noderegister.service-now.com/

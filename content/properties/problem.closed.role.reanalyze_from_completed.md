@@ -2,5 +2,5 @@
 layout: page
 title: problem.closed.role.reanalyze_from_completed
 description: ""
-value: "problem_manager"
 ---
+problem_manager

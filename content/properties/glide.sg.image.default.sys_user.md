@@ -2,5 +2,5 @@
 layout: page
 title: glide.sg.image.default.sys_user
 description: ""
-value: "no_picture.jpg"
 ---
+no_picture.jpg

@@ -2,5 +2,5 @@
 layout: page
 title: sn_atf.jasmine.versions
 description: ""
-value: "3.1"
 ---
+3.1

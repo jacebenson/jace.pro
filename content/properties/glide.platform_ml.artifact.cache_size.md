@@ -2,5 +2,5 @@
 layout: page
 title: glide.platform_ml.artifact.cache_size
 description: ""
-value: "25"
 ---
+25

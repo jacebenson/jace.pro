@@ -2,5 +2,5 @@
 layout: page
 title: diagnostics.condition.pop3Status
 description: ""
-value: ".indexOf('Connected') == -1"
 ---
+.indexOf('Connected') == -1

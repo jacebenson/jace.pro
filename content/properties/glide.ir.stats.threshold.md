@@ -2,5 +2,5 @@
 layout: page
 title: glide.ir.stats.threshold
 description: ""
-value: "3000"
 ---
+3000

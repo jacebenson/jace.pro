@@ -2,5 +2,5 @@
 layout: page
 title: glide.product.image
 description: ""
-value: "images/logos/logo_service-now.png?v=6"
 ---
+images/logos/logo_service-now.png?v=6

@@ -2,5 +2,5 @@
 layout: page
 title: css.$navpage-header-divider-color
 description: ""
-value: "#5a7f71"
 ---
+#5a7f71

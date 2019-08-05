@@ -39,11 +39,6 @@ var req = http.request(options, function (res) {
         property.description = "";
       }
       if(property.value){
-        if(property.sys_name.indexOf('regex')>=0 || property.sys_name.indexOf('sn_communities.supported_videos') >= 0){
-          property.body = property.value.toString();
-          property.value = "See page";
-        }
-        property.value = property.value.replace( /[\"]+/gm, '\\"');
       } else {
         property.value = "";
       }
@@ -51,12 +46,10 @@ var req = http.request(options, function (res) {
 layout: page
 title: ${property.sys_name}
 description: "${property.description}"
-value: "${property.value}"
----`
-if(property.body){
-  content += '\n' + property.body;
-}
-      // look for file
+---
+${property.value}`
+
+// look for file
       fs.writeFile("./content/properties/" + property.sys_name + ".md", content, function(error){
         if(error){
           return console.log(error);

@@ -2,5 +2,5 @@
 layout: page
 title: glide.sc.producer.add_to_wish_list_label
 description: ""
-value: "Save Producer"
 ---
+Save Producer

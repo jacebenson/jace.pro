@@ -2,5 +2,5 @@
 layout: page
 title: css.banner.description.color
 description: ""
-value: "#808080"
 ---
+#808080

@@ -2,5 +2,5 @@
 layout: page
 title: glide.xml.entity.whitelist
 description: ""
-value: "http://java.sun.com/j2ee/dtds/"
 ---
+http://java.sun.com/j2ee/dtds/

@@ -2,5 +2,5 @@
 layout: page
 title: glide.knowman.show_star_rating.roles
 description: ""
-value: "public"
 ---
+public

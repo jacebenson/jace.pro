@@ -2,5 +2,5 @@
 layout: page
 title: glide.product.description.style
 description: ""
-value: "padding-bottom: 0px; padding-top: 4px;"
 ---
+padding-bottom: 0px; padding-top: 4px;

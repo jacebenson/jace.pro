@@ -2,5 +2,5 @@
 layout: page
 title: glide.ui.incident_activity.image.comments
 description: ""
-value: "images/icons/edit.gifx"
 ---
+images/icons/edit.gifx

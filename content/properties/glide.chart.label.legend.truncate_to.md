@@ -2,5 +2,5 @@
 layout: page
 title: glide.chart.label.legend.truncate_to
 description: ""
-value: "14"
 ---
+14

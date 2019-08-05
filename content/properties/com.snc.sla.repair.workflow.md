@@ -2,5 +2,5 @@
 layout: page
 title: com.snc.sla.repair.workflow
 description: ""
-value: "Default SLA Repair workflow"
 ---
+Default SLA Repair workflow

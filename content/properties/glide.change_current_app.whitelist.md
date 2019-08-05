@@ -2,5 +2,5 @@
 layout: page
 title: glide.change_current_app.whitelist
 description: ""
-value: "localhost:8080"
 ---
+localhost:8080

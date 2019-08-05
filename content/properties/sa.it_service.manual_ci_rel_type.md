@@ -2,5 +2,5 @@
 layout: page
 title: sa.it_service.manual_ci_rel_type
 description: ""
-value: "1a9cb166f1571100a92eb60da2bce5c5"
 ---
+1a9cb166f1571100a92eb60da2bce5c5

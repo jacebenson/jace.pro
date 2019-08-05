@@ -2,5 +2,5 @@
 layout: page
 title: glide.schema.colors
 description: ""
-value: "#00FA9A,yellow,khaki,orange,aqua"
 ---
+#00FA9A,yellow,khaki,orange,aqua

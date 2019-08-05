@@ -2,5 +2,5 @@
 layout: page
 title: glide.wordvector.upgrade_time_frame
 description: ""
-value: "180"
 ---
+180

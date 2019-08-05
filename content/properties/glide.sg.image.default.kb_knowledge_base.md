@@ -2,5 +2,5 @@
 layout: page
 title: glide.sg.image.default.kb_knowledge_base
 description: ""
-value: "icon-article-document.png"
 ---
+icon-article-document.png

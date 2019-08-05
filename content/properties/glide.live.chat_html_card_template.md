@@ -2,7 +2,8 @@
 layout: page
 title: glide.live.chat_html_card_template
 description: ""
-value: "<style>
+---
+<style>
   .vac-header {
     border-bottom: solid 1px #c7c7c7;
     padding-bottom: 4px;
@@ -45,15 +46,14 @@ font-size: 12px;
 
 
 </style>
-<div class = \"vac-card\">                 
-<div class = \"vac-body\">                     
-<div class = \"vac-header\">                        
-       <div class =\"vac-header-title\">{{title}} </div>                       
-       <div class=\"vac-header-subtitle\"> <a class = \"vac-link\" href=\"{{url}}\">{{subtitle}}</a> </div>   
+<div class = "vac-card">                 
+<div class = "vac-body">                     
+<div class = "vac-header">                        
+       <div class ="vac-header-title">{{title}} </div>                       
+       <div class="vac-header-subtitle"> <a class = "vac-link" href="{{url}}">{{subtitle}}</a> </div>   
 </div>                                    
-     <div class = \"vac-content\">              
-        <div class= \"vac-fields\">   {{fields}} </div>                     
+     <div class = "vac-content">              
+        <div class= "vac-fields">   {{fields}} </div>                     
       </div>                            
 </div>        
- </div>    "
----
+ </div>    

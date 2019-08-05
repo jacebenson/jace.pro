@@ -2,5 +2,5 @@
 layout: page
 title: com.glide.attachment.max_size
 description: ""
-value: "1024"
 ---
+1024

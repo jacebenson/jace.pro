@@ -2,5 +2,5 @@
 layout: page
 title: sa.map.MAX_NODES_FOR_LAYOUT
 description: ""
-value: "5000"
 ---
+5000

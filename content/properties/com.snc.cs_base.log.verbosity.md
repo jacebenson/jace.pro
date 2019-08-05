@@ -2,5 +2,5 @@
 layout: page
 title: com.snc.cs_base.log.verbosity
 description: ""
-value: "1"
 ---
+1

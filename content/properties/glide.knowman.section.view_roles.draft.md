@@ -2,5 +2,5 @@
 layout: page
 title: glide.knowman.section.view_roles.draft
 description: ""
-value: "knowledge_admin,admin"
 ---
+knowledge_admin,admin
