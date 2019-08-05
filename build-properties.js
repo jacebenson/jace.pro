@@ -39,7 +39,7 @@ var req = http.request(options, function (res) {
         property.description = "";
       }
       if(property.value){
-        if(property.sys_name.indexOf('regex')>=0){
+        if(property.sys_name.indexOf('regex')>=0 || property.sys_name.indexOf('sn_communities.supported_videos') >= 0){
           property.body = property.value.toString();
           property.value = "See page";
         }
