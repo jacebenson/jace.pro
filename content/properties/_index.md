@@ -12,7 +12,7 @@ tags:
 title: Properties
 ---
 
-This is the list of `sys_properties` on my PDI today.\
+This is the list of `sys_properties` I know of.\
 Sometimes I want to search these and yhey aren't all listed on the docs
 or developer sites. Also It's a place where I can put gems if I find em.
 
