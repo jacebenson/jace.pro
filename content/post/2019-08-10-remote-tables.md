@@ -59,7 +59,7 @@ So here's the steps I'm taking in order (in global)
 ```js
 (function executeQuery(v_table, v_query) {
 	function getKey(){
-		return "9H2G0R6OHWD1WOHG";
+		return "";
 	}
 	function getStock(ticker){
 		var endpoint = "https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=";
