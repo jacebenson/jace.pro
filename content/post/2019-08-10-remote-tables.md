@@ -56,6 +56,7 @@ So here's the steps I'm taking in order (in global)
     So I defaulted it to load 5 stocks and if a search occured, I returned those results.  But pretty much if your data is rate limited, or doesn't allow return of > 5 records, this becomes really painful.
   - Also if you need it to work with searches, it seems that the only way to get field searches is to get the encoded query and parse the bits out.  There is no helper function for that if the search is a field STARTSWITH, ENDSWITH or CONTAINS which is used if you have the inputs on the headers of the list.
   - Feel free to try this out yourself with this code;
+
 ```js
 (function executeQuery(v_table, v_query) {
 	function getKey(){
