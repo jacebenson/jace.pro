@@ -3,7 +3,7 @@
   {{ partial "head.html" . }}
   <body>
     {{ partialCached "nav.html" . }}
-    {{ block "header" . }}{{ partialCached "header.html" . }}{{ end }}
+    {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
     {{ block "main" . }}{{ end }}
     {{ partialCached "footer.html" . }}
   </body>
