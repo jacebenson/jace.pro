@@ -51,9 +51,7 @@ https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 
 1.  What release are you guys currently on?
 2.  How many licensed users are on the environment?
-3.  What are next major inititives of the team?
-
-### Team Questions
+3.  What are next major initiatives of the team?
 
 1.  What is your role in relation to the team?
 2.  How many people are on the team I'll be working on?
