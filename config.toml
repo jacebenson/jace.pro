@@ -416,7 +416,13 @@ disqusShortname = "gggr"
     name = "Code Collab Tool"
     url = "https://code.jace.pro"
     weight = 4075
-    
+
+[[menu.main]]
+    parent = "docs"
+    name = "Request Bin"
+    url = "http://bin.jace.pro"
+    weight = 4076
+       
 [[menu.main]]
     parent = "docs"
     name = "Bootstrap form builder"
