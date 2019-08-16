@@ -1,6 +1,0 @@
----
-layout: page
-title: com.snc.on_call_rotation.calendar_read_roles
-description: "List of roles (comma-separated) that can read the calendar."
----
-itil,roster_admin,rota_admin,rota_manager,sn_incident_read

@@ -2,10 +2,10 @@
 <html lang="{{ .Lang }}">
   {{ partial "head.html" . }}
   <body>
-    {{ partialCached "nav.html" . }}
+    {{ partial "nav.html" . }}
     {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
     {{ block "main" . }}{{ end }}
-    {{ partialCached "footer.html" . }}
+    {{ partial "footer.html" . }}
   </body>
 </html>
 

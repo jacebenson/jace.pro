@@ -343,7 +343,7 @@ disqusShortname = "gggr"
 [[menu.main]]
     parent = "resources"
     name = "Properties"
-    url = "properties"
+    url = "https://sn.jace.pro/properties"
     weight = 2040
 
 [[menu.main]]
