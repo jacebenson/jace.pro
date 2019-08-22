@@ -141,7 +141,7 @@ With all this being said, I also did some quick math;
 | Certs                                |           3 |           9 | 3            | 9            |
 | Class Cost                           |           0 |       2,000 | 0            | 2,000        |
 | Total Class Cost                     |           0 |      18,000 | 0            | 1,350,000    |
-| Exam Cost                            |         150 |             | 150          | 150          |
-| Total Exam Cost                      |         450 |             | 33,750       | 101,250      |
+| Exam Cost                            |         150 |         150 | 150          | 150          |
+| Total Exam Cost                      |         450 |       1,350 | 33,750       | 101,250      |
 | Maintainence Cost (every 3 releases) |           0 |         100 | 0            | 100          |
 | Total Maintainence Cost              |           0 |         900 | 0            | 67,500       |
