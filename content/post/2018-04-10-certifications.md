@@ -144,4 +144,4 @@ With all this being said, I also did some quick math;
 | Exam Cost                            |         150 |             | 150          | 150          |
 | Total Exam Cost                      |         450 |             | 33,750       | 101,250      |
 | Maintainence Cost (every 3 releases) |           0 |         100 | 0            | 100          |
-| Total Maintainence Cost              |           0 |       21100 | 0            | 67,500       |
+| Total Maintainence Cost              |           0 |         900 | 0            | 67,500       |
