@@ -135,13 +135,13 @@ some folks have said
 
 With all this being said, I also did some quick math;
 
-| When                                 | 2018 Cost | 2019 Cost |
-|--------------------------------------|-----------|-----------|
-| People                               | 75        | 75        |
-| Certs                                | 3         | 9         |
-| Class Cost                           | 0         | 2000      |
-| Total Class Cost                     | 0         | 1,350,000 |
-| Exam Cost                            | 150       | 150       |
-| Total Exam Cost                      | 33,750    | 101,250   |
-| Maintainence Cost (every 3 releases) | 0         | 100       |
-| Total Maintainence Cost              | 0         | 67,500    |
+| When                                 | 2018 Cost 1 | 2019 Cost 1 | 2018 Cost 75 | 2019 Cost 75 |
+|--------------------------------------|-------------|-------------|--------------|--------------|
+| People                               |           1 |           1 | 75           | 75           |
+| Certs                                |           3 |           9 | 3            | 9            |
+| Class Cost                           |           0 |        2000 | 0            | 2000         |
+| Total Class Cost                     |           0 |       18000 | 0            | 1,350,000    |
+| Exam Cost                            |         150 |             | 150          | 150          |
+| Total Exam Cost                      |         450 |             | 33,750       | 101,250      |
+| Maintainence Cost (every 3 releases) |           0 |         100 | 0            | 100          |
+| Total Maintainence Cost              |           0 |       21100 | 0            | 67,500       |
