@@ -110,6 +110,7 @@ some folks have said
 > --- Jace Benson [Jun 16,
 > 2019](https://twitter.com/jacebenson/status/1140379382248345600)
 
+
 | Option                    | Result |
 |---------------------------|--------|
 | class+cert+delta(current) | 20%    |
@@ -125,9 +126,10 @@ some folks have said
 > --- Jace Benson [Jul 1,
 > 2019](https://twitter.com/jacebenson/status/1145689658791272448)
 
+
 | Option                   | Result |
 |--------------------------|--------|
-| SN Certification 17%     |        |
+| SN Certification         | 17%    |
 | A bunch of side-projects | 83%    |
 | 29 votes                 |        |
 
