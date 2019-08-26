@@ -25,21 +25,10 @@ you about the technology, team, and the expectations they'll have.  The
 expectations should have been set on the job posting, but it's good to
 ask specifics about any you question. With that being said, when the
 technical questions are being asked, you should be able to see they
-understand the question and answer.  If they don't
+understand the question and answer.
 
 Interviews... So you want to interview for a job as a Servicenow
 Developer.
-
-so I remember my interview here it was so horrible, because no 1 knew
-the questions to ask... They literally asked "Do you know what
-GlideRecord is?" every answer I gave I could see it on their faces that
-they had no clue what the system did or was capable of... so in light of
-that I remember having conversations about interview questions and you
-posted saying to have them atleast know that snguru jedi post... that
-does seem like a good base of what they should know, but I think they
-should also be quizzed on scripting knowledge and other tricks of the
-trade that you should know when applying for a sort of "SME" position...
-what do you think?
 
 ## Before you continue I urge you to read this first
 
@@ -91,11 +80,13 @@ https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 
 #### General Programming Questions
 
+In all my interviews, I think I've only had a few of these, however
+they show up all the time on Glassdoor.  
+
 1.  How do you iterate over an array?
 2.  How can you give an object a dynamic property?
 3.  Given an array as an input: \[1,2,3,4,5\], return an array of
     modified values \* 2 \[1,4,6,8,10\] e.g.
-    `var arr = [1,2,3,4,5];arr.map(function(n){return n*2;})`
 4.  Sum the first n Fibonacci numbers
     \[0,1,1,2,34,8,13,21,34,55,89,144,...\]
 5.  find the first non repeating character from the string. e.g.
