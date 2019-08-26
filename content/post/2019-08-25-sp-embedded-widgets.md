@@ -5,7 +5,6 @@ keywords:
 - "custom form"
 - "embedded form"
 layout: post
-draft: true
 title: 'Embedding a widget form in a widget on Service Portal'
 ---
 
@@ -77,9 +76,10 @@ function(spModal)
 			widget: 'rating_form', 
 			widgetInput: {}
 		}).then(function () {
-			console.log(shared);
-            //missing bits here
-		})
+					console.log(shared);
+					c.data.bookrating=shared;
+					c.server.update()		
+})
 	}
 }
 ```
@@ -88,7 +88,18 @@ function(spModal)
 //Server Script
 (function() {
 	/* populate the 'data' object */
-	/* e.g., data.table = $sp.getValue('table'); */
+	/* e.g., data.table = $sp.getValue('table'); */	
+	if (input) {//if submitted rating
+		console.log(input)
+		var rating=new GlideRecord('x_86691_heardit_ratings')
+		rating.newRecord();
+		rating.book=input.bookrating.title;
+		rating.stars=input.bookrating.stars;
+		rating.author=input.bookrating.input;
+		rating.genre=input.bookrating.genre;
+		rating.u_comments=input.bookrating.comments;
+		rating.insert()
+	}
 	data.books = [];
 	var countRatings = new GlideAggregate('x_86691_heardit_ratings');
 	//parm1: COUNT, MIN, MAX, parm2: field
@@ -105,6 +116,8 @@ function(spModal)
 			ratingCount: ratingCount
 		});
 	}
+
+
 })();
 ```
 
