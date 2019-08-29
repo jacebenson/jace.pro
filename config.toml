@@ -51,9 +51,14 @@ disqusShortname = "gggr"
 
 [[menu.main]]
     identifier = "contact"
+    name = "Hello"
+    weight = 3
+    
+[[menu.main]]
+    parent = "contact"
     name = "Contact Me"
-    weight = 900
     url = "contact"
+    weight = 3
 
 [[menu.main]]
     identifier = "blogs"
