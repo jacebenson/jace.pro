@@ -11,7 +11,7 @@ url: '/contact/'
 <fieldset>
 
 <!-- Form Name -->
-<legend>Form Name</legend>
+<legend>Contact me</legend>
 
 <!-- Text input-->
 <div class="form-group">
