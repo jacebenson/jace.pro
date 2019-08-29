@@ -10,9 +10,6 @@ url: '/contact/'
 
 <fieldset>
 
-<!-- Form Name -->
-<legend>Contact me</legend>
-
 <!-- Text input-->
 <div class="form-group">
   <label class="col-md-4 control-label" for="email">Email</label>  
@@ -29,7 +26,13 @@ url: '/contact/'
     <textarea class="form-control" id="message" name="message"></textarea>
   </div>
 </div>
-
+<!-- -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="submit"></label>
+  <div class="col-md-4">
+    <div data-netlify-recaptcha="true"></div>
+  </div>
+</div>
 <!-- Button -->
 <div class="form-group">
   <label class="col-md-4 control-label" for="submit"></label>
@@ -37,7 +40,6 @@ url: '/contact/'
     <button type="submit" id="submit" name="submit" class="btn btn-primary">Submit</button>
   </div>
 </div>
-  <div data-netlify-recaptcha="true"></div>
 
 </fieldset>
 </form>
