@@ -11,9 +11,8 @@
             {{ range .Data.Pages.GroupByDate "2006" -}}
             <section>
               {{ if ge .Key "2001"}}
-              <h1 class="site-date-catalog">....{{ .Key }}</h1>
-  
-              {{ range .Pages -}}
+              <h1 class="site-date-catalog">{{ .Key }}</h1>
+              {{ range where .Pages "Layout" "post"}}
                 {{ if eq .Layout "post"}}
                 <div class="row post-line">
                   <div class="posts-date col-xs-2">
