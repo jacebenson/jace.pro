@@ -13,9 +13,6 @@ url: '/contact/'
 
   <input type="hidden" name="_to" value="27b1ee301d101ae72dfa12">
 <fieldset>
-<p class="hidden">
-    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-  </p>
 <!-- Text input-->
 <div class="form-group">
   <label class="col-md-4 control-label" for="email">Email</label>  
@@ -33,12 +30,7 @@ url: '/contact/'
   </div>
 </div>
 <!-- -->
-<div class="form-group">
-  <label class="col-md-4 control-label" for="submit"></label>
-  <div class="col-md-4">
-    <div data-netlify-recaptcha="true"></div>
-  </div>
-</div>
+<input type="text" name="_honeypot" value="" style="display:none">
 <!-- Button -->
 <div class="form-group">
   <label class="col-md-4 control-label" for="submit"></label>
