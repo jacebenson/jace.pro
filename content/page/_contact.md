@@ -6,10 +6,16 @@ layout: page
 title: Contact me
 url: '/contact/'
 ---
+<!--
 <form class="form-horizontal" name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
+-->
+<form class="form-horizontal" name="contact" method="POST" action="https://c2zr7oqhnh.execute-api.eu-west-1.amazonaws.com/dev/" >
 
+  <input type="hidden" name="_to" value="20b5cd3f52111aa72ee713412ad71c32afa70131f6">
 <fieldset>
-
+<p class="hidden">
+    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
+  </p>
 <!-- Text input-->
 <div class="form-group">
   <label class="col-md-4 control-label" for="email">Email</label>  
@@ -37,7 +43,7 @@ url: '/contact/'
 <div class="form-group">
   <label class="col-md-4 control-label" for="submit"></label>
   <div class="col-md-4">
-    <button type="submit" id="submit" name="submit" class="btn btn-primary">Submit</button>
+  <input type="submit" value="send" class="btn btn-primary" />
   </div>
 </div>
 
