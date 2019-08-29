@@ -9,7 +9,7 @@ url: '/contact/'
 <!--
 <form class="form-horizontal" name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
 -->
-<form class="form-horizontal" name="contact" method="POST" action="https://c2zr7oqhnh.execute-api.eu-west-1.amazonaws.com/dev/" >
+<form class="form-horizontal" name="contact" method="POST" action="https://ea7sbyfo74.execute-api.us-east-1.amazonaws.com/dev/" >
 
   <input type="hidden" name="_to" value="27b1ee301d101ae72dfa12">
 <fieldset>
