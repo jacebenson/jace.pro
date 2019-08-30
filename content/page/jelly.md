@@ -163,7 +163,7 @@ is probably wrong. Here's the short of it.
 |            `&`            | `${AMP}`    | `$[AMP]`    |
 |            `<`            | `${AMP}lt;` | `$[AMP]lt;` |
 |            `>`            | `${AMP}gt;` | `$[AMP]gt;` |
-| \` `|`${SP}` | `$\[SP\]\` |             |             |
+|            ` `            | `${SP}`     | `$[SP]`     |
 
 ### Values
 
