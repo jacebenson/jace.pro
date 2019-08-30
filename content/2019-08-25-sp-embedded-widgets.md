@@ -46,6 +46,10 @@ Below is a Home widget which makes the call to spModal.open.  That has a promise
 to handle the response in the `then` bit.  That's where this magic happens.  It
 wasn't in the docs.  Thankfully this markdown file was still out on [Github](https://github.com/service-portal/x-archive/blob/master/documentation/spModal.md#example-5-embedded-widget-with-shared-data).
 
+End result was this;
+
+![](/uploads/2019-08-25-sp-embedded-widgets.png)
+
 That example shows how to do this for variable, and I wanted to do this for five.
 
 ### Home Widget
