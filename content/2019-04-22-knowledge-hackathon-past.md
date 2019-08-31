@@ -101,7 +101,7 @@ here. Below is that list.
     \| innovation - app that brings together kids awaiting organ
     transplants and people who want to grant their wish and donate
     money.
--   [LifeNow](https://www.youtube.com/watch?v=4MbyvYW_bvk&feature=youtu.be)
+-   [LifeNow](https://www.youtube.com/watch?v=4MbyvYW_bvk&feature=youtu.be) [Slidedeck](https://www.slideshare.net/KathrynBlackburn/snug20160822?qid=1af6f62c-6c73-4164-bda7-7599dda50cd0&v=&b=&from_search=55)
     -   platform - app for employee health tracking with wearables, and
         gamification for challenges and points redemption for fitness
         products
