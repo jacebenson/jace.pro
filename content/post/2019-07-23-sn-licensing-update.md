@@ -204,9 +204,19 @@ Development Considerations
 7.  Leave enough rool for furture developement needs
 8.  Be aware of the custom field limits for a table
 
+
+## New York Pricing
+
+I came across a [shared pdf file](/uploads/new_york_one_pager.pdf) on Slack.
+[![](/uploads/new_york_one_pager-page-001.jpg)](/uploads/new_york_one_pager-page-001.jpg)
+[![](/uploads/new_york_one_pager-page-002.jpg)](/uploads/new_york_one_pager-page-002.jpg)
+[![](/uploads/new_york_one_pager-page-003.jpg)](/uploads/new_york_one_pager-page-003.jpg)
+
+
 ## Further Reading
 
 -   [New license model from Servicenow by Michael
     Bankwitz](https://www.michael-bankwitz.de/en/2019/03/20/new-license-model-from-servicenow/)
 -   [Understanding your servicenow
     licensing](https://blog.jace.pro/post/2017-12-02-licensing/)
+-   [New York One Pager](/uploads/new_york_one_pager.pdf)
