@@ -1,7 +1,7 @@
 
 # Created by https://www.gitignore.io/api/node,hugo
 # Edit at https://www.gitignore.io/?templates=node,hugo
-
+.DS_Store
 ### Hugo ###
 # Generated files by hugo
 /public/
