@@ -3,7 +3,7 @@
 
 title: "Servicenow System Administrator Day"
 event: "Servicenow System Administrator Day"
-event_url: "https://www.eventbrite.ca/e/sys-admin-day-tickets-69446746087"
+#event_url: "https://www.eventbrite.ca/e/sys-admin-day-tickets-69446746087"
 location: 1315 Tyler Street Northeast, Minneapolis, MN 55413, Bauhaus Brew Labs
 summary: "Become a master in Automated Test Framework (ATF) for Service Portal by learning how to use the new and cutting-edge functionality recently added to the platform."
 abstract: "Become a master in Automated Test Framework (ATF) for Service Portal by learning how to use the new and cutting-edge functionality recently added to the platform.<br/>
@@ -46,10 +46,10 @@ links:
   icon_pack: fab
   icon: 
 
-- name: Signup
-  url: "https://www.eventbrite.ca/e/sys-admin-day-tickets-69446746087"
-  icon_pack: fab
-  icon: 
+#- name: Signup
+#  url: "https://www.eventbrite.ca/e/sys-admin-day-tickets-69446746087"
+#  icon_pack: fab
+#  icon: 
 
 
 # Optional filename of your slides within your talk's folder or a URL.
