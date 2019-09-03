@@ -57,7 +57,7 @@ url_slides:
 
 url_code:
 url_pdf:
-url_video:
+# url_video: "https://players.brightcove.net/5703385908001/HJG7XuFAiG_default/index.html?videoId=6034024906001"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
