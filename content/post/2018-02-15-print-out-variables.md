@@ -33,11 +33,11 @@ v.query();
 while (v.next()) {
   if (vtp.length >= 0) {
     /*****************************
-    This code dynamically pulls the questions from the forms in the order they 
-    are presented (numerically) and then displays them in a consistant readable 
-    format.
-    Right now nothing links to any records but can with some slight changes to 
-    this code.
+    This code dynamically pulls the questions from the forms in the order 
+    they are presented (numerically) and then displays them in a 
+    consistant readable format.
+    Right now nothing links to any records but can with some slight 
+    changes to this code.
   *****************************/
     var questionType = v.sc_item_option.item_option_new.type;
     var question = '<p><b>';
@@ -72,7 +72,8 @@ while (v.next()) {
         referencegr.addQuery('sys_id', '=', v.sc_item_option.value);
         referencegr.query();
         while (referencegr.next()) {
-          vtp += question + ': ' + referencegr.getDisplayValue() + '\n';
+          vtp += question + ': ' + referencegr.getDisplayValue();
+          vtb += '\n';
         }
       }
       if (questionType == 9) { //Date
@@ -107,7 +108,8 @@ while (v.next()) {
     }
     */
       if (questionType == 18) { //Lookup Select Box
-        var lsbgr = new GlideRecord(v.sc_item_option.item_option_new.lookup_table);
+        var lstable = v.sc_item_option.item_option_new.lookup_table;
+        var lsbgr = new GlideRecord(lstable);
         lsbgr.addQuery('sys_id', '=', v.sc_item_option.value);
         lsbgr.query();
         while (lsbgr.next()) {
@@ -149,7 +151,8 @@ wn += tablestart;
 wn += vtp;
 wn += "</div>";
 
-//then either write wn pre and appended with [code] tags in a journal field, or put it in a mail script.
+// then either write wn pre and appended with [code] tags in a journal 
+// field, or put it in a mail script.
 ```
 
 ## Further Reading
