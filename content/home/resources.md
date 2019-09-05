@@ -87,3 +87,4 @@ subtitle = ""
 - [Version Tracker](https://sndocs.jace.pro)
 - [My Docs](https://sn.jace.pro/)
 - [Properties](https://sn.jace.pro/properties)
+- [Learning Site](https://nowlearning.service-now.com/lxp)
