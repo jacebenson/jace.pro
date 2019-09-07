@@ -13,7 +13,7 @@ So in my case I wanted the following;
 
 -   2 Masked Password fields that verified they matched and that they
     match a regex expression.
--   Store the password as a [encrpyted](/glideencrypter/) value so I can
+-   Store the password as a [encrpyted](https://sn.jace.pro/glideencrypter/) value so I can
     use is later but keep it *secure*.
 
 Here's the end result;
