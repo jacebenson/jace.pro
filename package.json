@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "algolia": "atomic-algolia"
+    "algolia": "atomic-algolia",
+    "post": "echo \"hugo new --kind post post/post-name\"",
+    "talk": "echo \"hugo new  --kind talk talk/my-talk-name\""
   },
   "repository": {
     "type": "git",
