@@ -14,8 +14,16 @@
   {{/* Suggest recently published pages to the user. */}}
 
   <p>{{ i18n "404_recommendations" }}</p>
-
-  <h2>Recently I moved documentation to <a href="https://sn.jace.pro/">sn.jace.pro</a> It's possible the page you are looking for is there.</h2>
+<script>
+    var a = new URL(window.location.href);
+    var snUrl = 'https://sn.jace.pro' + a.pathname;
+    jQuery('#snLink').attr('href', snUrl);
+</script>
+  <h2>Recently I moved documentation to <a href="https://sn.jace.pro/">sn.jace.pro</a> </h2>
+  <p>
+        It's possible the page you are looking for is there.  Try this <a href="#" id="snLink">link</a>.
+  </p>
+    
   {{ $query := site.RegularPages }}
   {{ $count := len $query }}
   {{ if gt $count 0 }}
