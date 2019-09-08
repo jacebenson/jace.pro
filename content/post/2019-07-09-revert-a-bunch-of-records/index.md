@@ -18,7 +18,7 @@ fix, but I think others might find it useful.
 
 Without any delay here it is;
 
-``` {.js}
+```js
 var stories = new GlideRecord('rm_story');
 var query = 'closed_by=eb8562c6b52c3000bb05d180e2312616^';
 query += 'sys_updated_onONToday@javascript:gs.beginningOfToday()@javascript:gs.endOfToday()^';

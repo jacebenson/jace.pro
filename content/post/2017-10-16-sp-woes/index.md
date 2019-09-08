@@ -79,7 +79,7 @@ it from list view.
 You can use window object to detect if your catalog item is being used
 in Service Portal or CMS (Rest of platform).
 
-``` {.js}
+```js
 if (window) {
     // you are in CMS
 } else {

@@ -20,7 +20,7 @@ really, this should be part of the offering Servicenow provides.
 Below is my business rule, and fix script to catch new records and fix
 old records.
 
-``` {.js}
+```js
 // Business Rule
 // Table: Task [task]
 // Active: true
@@ -46,7 +46,7 @@ current.business_duration = gs.calDateDiff(opened, closed, false);
 
 Here's my fix script.
 
-``` {.js}
+```js
 var log = 'calc. old durations';
 var query = '';
 query += 'calendar_durationISEMPTY^';

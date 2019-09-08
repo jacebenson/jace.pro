@@ -45,7 +45,7 @@ We added some javascript to prefill the initials, and date for
 consistency on the name field. Below makes the following output;
 `JB-2018-09-20`
 
-``` {.js}
+```js
 javascript: (function(){
   var r = '';
   var u = gs.getUser();

@@ -1,26 +1,16 @@
 ---
-aliases:
-- '/General/Logtail-a-node-in-Servicenow/'
-- '/2017-09-26-logtail/'
-date: '2017-09-26'
-keywords:
-- tail
-- logtail
-- node
-layout: post
-tags:
-- black boxed
-- glideajax
-- logs
-- undocumented
-title: Logtail a node in Servicenow
-authors: ["jace"]
----
-
-Have you ever wanted to look at your logs, like all your logs but didn't
+title: "Logtail a node in Servicenow"
+subtitle: "Have you ever wanted to look at your logs, like all your logs but didn't
 want to have to search the syslog table, or need to watch the node log
-but don't want to search it. A way has been found.
-
+but don't want to search it. A way has been found."
+summary: "Tailing logs can be really useful for quick debugging.  This is undocumented."
+authors: ['jace']
+date: 2017-09-26T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
+---
 Point your browser to `/channel.do?sysparm_channel=logtail`
 
 What does this load?

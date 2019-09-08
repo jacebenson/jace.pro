@@ -33,7 +33,7 @@ Steps
 -   Insert and stay on the notification for (`sc_task`)
 -   Create the business rules below;
 
-``` {.js}
+```js
 //Name: push comments to ritm
 //Table: Catalog Task
 //When: Before
@@ -65,7 +65,7 @@ Steps
 })(current, previous);
 ```
 
-``` {.js}
+```js
 //Name: push comments to tasks
 //Table: Request Item
 //When: Before

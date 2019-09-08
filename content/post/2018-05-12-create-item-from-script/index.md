@@ -16,7 +16,7 @@ Toss it in a fix script and adjust the bottom to your details while in
 the correct scope/update set. Then you just have to figure out
 containers.
 
-``` {.js}
+```js
 function createCatalog(name) {
     /*
      * Expecting a string (name)

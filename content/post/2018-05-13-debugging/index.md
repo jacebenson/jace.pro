@@ -43,7 +43,7 @@ function.
 
 ### Business Rules
 
-``` {.js}
+```js
 var table = 'incident';//pick a table here
 var sysId = '';//pick a record with a sysid here
 
@@ -63,7 +63,7 @@ try {
 
 ### Inbound Emails
 
-``` {.js}
+```js
 var emailSysId = '';//pick a sys_email record's sysid here
 
 var email = new GlideRecord('sys_email');
@@ -87,7 +87,7 @@ try {
 
 ### Script Actions
 
-``` {.js}
+```js
 var eventSysId = '';//pick a sysevent record's sysid here
 
 var event = new GlideRecord('sysevent');
@@ -107,7 +107,7 @@ try {
 
 ### Workflow Activity
 
-``` {.js}
+```js
 var workflowContextSysId = '';
 var workflowContext = new GlideRecord('wf_context');
 if(workflowContext.get(workflowContextSysId)){
@@ -129,7 +129,7 @@ try {
 
 ### Transform Scripts
 
-``` {.js}
+```js
 var importSetRowSysId = '';//sysid from your import table
 var targetTable = '';// table to set the field on
 var targetSysId = null; // doesn't need to be set but if you know the record, you can set this sysid
@@ -157,7 +157,7 @@ try {
 
 ## Relationship Scripts
 
-``` {.js}
+```js
 /* global GlideAggregate, GlideRecord, gs */
 var parent = new GlideRecord('');//applies to table
 parent.get('ad6ce161db560740d9ca72ec0f9619f5');//specific record to test.
@@ -178,7 +178,7 @@ current.query();
 
 ## Mail Scripts
 
-``` {.js}
+```js
 var table = '';//set the current table name
 var sysid = '';//set the current sysid
 var eventsysid = '';//set to the event sysid on a past sysevent

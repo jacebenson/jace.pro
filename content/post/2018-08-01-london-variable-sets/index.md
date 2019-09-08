@@ -20,7 +20,7 @@ Here's a video showing the parts of this.
 It's pretty neat the content if you do a
 `g_form.getValue('variableSetName');` is a stringified JSON array.
 
-``` {.js}
+```js
 g_form.getValue('questions'); returns below
 /*
 "[

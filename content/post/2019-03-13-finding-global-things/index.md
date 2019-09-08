@@ -144,7 +144,7 @@ view all the globally accessible things?"
 
 Turns out, you can.
 
-``` {.js}
+```js
 Object.keys(this).forEach(function(thing){
 try {
   var type_of_thing = eval('typeof ' + thing);
@@ -166,12 +166,12 @@ In an out of box instance I get a big output. Alot of these are old
 # Globally available
 
 -   SNString
-    -   ``` {.js}
+    -   ```js
           function String() {"[native code for String.String, arity=1]" }
         ```
 
 -   SNRegExp
-    -   ``` {.js}
+    -   ```js
           function RegExp() {
             "[native code, arity=0]"
           }

@@ -48,7 +48,7 @@ Here's how I did it, and how you can do it too;
 
 5.  Add onChange script like so to form;
 
-    ``` {.js}
+    ```js
     function onChange(control, oldValue, newValue, isLoading, isTemplate) {
       /** Run on load and on change.
       if (isLoading || newValue === '') {

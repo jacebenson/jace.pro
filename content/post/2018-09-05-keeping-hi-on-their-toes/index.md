@@ -17,7 +17,7 @@ updated by someone other than me.
 Here's the
 [script](https://openuserjs.org/scripts/jacebenson/Get_HI_Updated_by_not_me/source).
 
-``` {.js}
+```js
 // ==UserScript==
 // @name         Get HI Updated by not me
 // @namespace    https://blog.jace.pro/post/2018-09-05-keeping-hi-on-their-toes/

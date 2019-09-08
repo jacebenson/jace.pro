@@ -16,11 +16,11 @@ this I made a simple UI Page. Below is the code;
 
 Below is the mailscript and ui page. They work together.
 
-``` {.js}
+```js
 ${mail_script:unsubscribe_emails}
 ```
 
-``` {.js}
+```js
 //name this unsubscribe_emails
 (function runMailScript(current, template, email, email_action, event) {
     var link = '';

@@ -16,7 +16,7 @@ In this post you'll see the code that was used to generate the responses
 it is missing the actual processor code. However it literally just
 called this script include below.
 
-``` {.js}
+```js
 //serviceObj - Script Include
 
 /*global GlideGuid, Cart, Class, gs, GlideRecord, GlideAggregate*/

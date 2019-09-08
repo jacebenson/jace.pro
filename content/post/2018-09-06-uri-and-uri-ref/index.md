@@ -11,7 +11,7 @@ learned about using `${URI_REF}` instead of `${URI}`. It's magical.
 -   `${URI_REF}` creates a link to the current record using the records
     display value. So it's essentially... the same as;
 
-    ``` {.js}
+    ```js
     var url = 'https://' + gs.getProperty('instance_name') + '.service-now.com/';
     url += current.getLink();
     template.print('<a href="' + url + '">' + current.getDisplayValue() + '</a>');

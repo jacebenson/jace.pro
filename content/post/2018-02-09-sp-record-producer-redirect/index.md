@@ -20,7 +20,7 @@ The
 [docs](https://docs.servicenow.com/bundle/kingston-it-service-management/page/product/service-catalog-management/concept/c_PopulatingRecordData.html)
 say it should just be a simple line of code like;
 
-``` {.js}
+```js
 producer.url_redirect="home.do";//for CMS and GUI redirects
 producer.portal_redirect="?id=page";//for Service Portal redirects
 ```

@@ -12,7 +12,7 @@ string of context-specific APIs. The JSON returned is invalid and
 incorrectly escapes `"'"` as `"\'"`. The script below fixes this and
 outputs formatted JSON.
 
-``` {.js}
+```js
 var tables = [
   "catalog_client_script",
   "sys_script_email",
@@ -42,7 +42,7 @@ tables.map(function(table) {
 I've used this code in the past to generate markdown tables for these
 things in the past;
 
-``` {.js}
+```js
 for(var thing in api){
     getThings(api[thing])
 }

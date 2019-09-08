@@ -15,7 +15,7 @@ This was my suggestion. Using the hint field on the sys\_choice table.
 Just have a client script onChange check for the value, if one is set,
 clear the message for this field, and show the newly found message.
 
-``` {.js}
+```js
 //script include global.choiceUtil
 //client callable true
 var choiceUtil = Class.create();
@@ -44,7 +44,7 @@ choiceUtil.prototype = Object.extendsObject(AbstractAjaxProcessor, {
 });
 ```
 
-``` {.js}
+```js
 function onChange(control, oldValue, newValue, isLoading, isTemplate) {
     if (isLoading || newValue === '') {
         return;

@@ -68,7 +68,7 @@ down.
 
 **What you should say:** Below are examples of how to flatten JSON.
 
-``` {.js}
+```js
 var flatten = function(data) {
     var result = {};
     function recurse (cur, prop) {

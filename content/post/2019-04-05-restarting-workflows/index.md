@@ -40,7 +40,7 @@ There are 2 ways to restart workflows.
     start, copy it's `sys_id`.
 -   Run this script in a background script;
 
-``` {.js}
+```js
   var current = new GlideRecord('sc_req_item');
   current.get('number','RITM0012345');
   var id = 'cfe7a62f13958340f415345fd144b075';//wf_workflow sys_id here

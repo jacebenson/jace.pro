@@ -50,7 +50,7 @@ Things you should do with you PDI when you zboot it.
 
 ## Background Script To Do This
 
-``` {.js}
+```js
 // This will make a user with and id of slack
 // password of password with appropriate roles.
 var users = [{

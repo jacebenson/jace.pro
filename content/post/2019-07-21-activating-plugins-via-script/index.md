@@ -14,7 +14,7 @@ keep your screen busy, you can script it, here's how.
 Some smart person named Ashby posted about this. I haven't tested it
 out, but this seems promsing and likely undocumented.
 
-``` {.js}
+```js
 //Partial Version
 //you can check following URL to see if the work is finished. It is finished when the completion time is set and the percent complete is 100.
 //<instance>/sys_execution_tracker_list.do?sysparm_query=name%3DPlugin%20Installer

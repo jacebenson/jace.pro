@@ -83,7 +83,7 @@ To make this follow these steps;
 
     **Client Script**
 
-    ``` {.js}
+    ```js
     function($scope) {
       //This is the controller, we've included $scope in the function above because it's easy to work with
       var c = this;
@@ -123,7 +123,7 @@ To make this follow these steps;
 
     **Server Script**
 
-    ``` {.js}
+    ```js
     (function() {
         if(input && input.passwordInput){
             var encrypter = new GlideEncrypter();

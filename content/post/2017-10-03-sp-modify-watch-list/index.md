@@ -17,7 +17,7 @@ authors: ["jace"]
 I created a widget and wanted to share that code. Should work on any
 instance unless you have a business rule blocking the update.
 
-``` {.js}
+```js
 //Client Script
 function($scope, spUtil) {
   var c = this;
@@ -41,7 +41,7 @@ function($scope, spUtil) {
 }
 ```
 
-``` {.js}
+```js
 //Server Script
 (function() {
   if(input && input.sys_id && input.table && input.watch_list){

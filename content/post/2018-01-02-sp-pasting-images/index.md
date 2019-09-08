@@ -40,7 +40,7 @@ So on the top level div that is displayed, you need to add
 `ng-paste="paste($event)"` and then in the client script you need to add
 the following function;
 
-``` {.js}
+```js
 $scope.paste = function(event){
   var files = [];
   var clipData = event.originalEvent.clipboardData;

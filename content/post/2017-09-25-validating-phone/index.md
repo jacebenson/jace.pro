@@ -1,19 +1,16 @@
 ---
-date: '2017-09-25'
-aliases:
-- '/2017-09-25-validating-phone/'
-keywords:
-- client script
-- valid
-layout: post
-tags:
-- client side api
-title: Validating Phone numbers
-authors: ["jace"]
+title: "Validating phone numbers, a client script"
+subtitle: "There is no 'phone' type of variable, so to validate this we'll have to manually do it."
+summary: "There is no 'phone' type of variable, so to validate this we'll have to manually do it."
+authors: ['jace']
+date: 2017-09-25T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
 ---
 
-There is no "phone" type of variable, so to validate this we'll have to
-manually do it.
+
 
 There are two real ways to verify the data meets the needs you have.
 
@@ -28,7 +25,7 @@ where you need to;
 -   Specify the error that will appear
 -   Specify how the number should be broken up
 
-``` {.js}
+```js
 function onChange(control, oldValue, newValue, isLoading) {
     var config = {
         field: 'phone',

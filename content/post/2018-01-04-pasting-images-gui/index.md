@@ -37,7 +37,7 @@ So this uses the following bits;
 
 ## UI Script
 
-``` {.js}
+```js
 // API Name: addPasteEvent
 // UI Type: Desktop
 // Global: Checked
@@ -141,7 +141,7 @@ function attachClipboardData(data) {
 
 ## Client Script
 
-``` {.js}
+```js
 function onLoad() {
     //Type appropriate comment here, and begin script below
     //will not work on service portal as it requires
@@ -151,7 +151,7 @@ function onLoad() {
 
 ## Script Include
 
-``` {.js}
+```js
 // Name pasteAttachment
 // Client Callable: Checked
 var pasteAttachment = Class.create();

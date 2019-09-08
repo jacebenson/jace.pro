@@ -13,7 +13,7 @@ I created a UI page to do this, you just have to pass it a context
 
 ## UI Action
 
-``` {.js}
+```js
 /*
 Name: Show Mermaid
 Table: Workflow Context[wf_context]

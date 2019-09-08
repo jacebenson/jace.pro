@@ -54,7 +54,7 @@ Endpoint;
 
 Post Body;
 
-``` {.js}
+```js
 {
     "entries":[
         {
@@ -66,7 +66,7 @@ Post Body;
 
 Post Response;
 
-``` {.js}
+```js
 {
   "display_value": "Incident",
   "entries": [

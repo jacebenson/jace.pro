@@ -102,7 +102,7 @@ the items and update each account\_id.
 
 This is my understanding of the payloadObj structure;
 
-``` {.js}
+```js
 {
     items: [
         {
@@ -116,7 +116,7 @@ This is my understanding of the payloadObj structure;
 
 So the way I handled it was a pre script
 
-``` {.js}
+```js
 /*
 * 1. Pre sensor: You can change payload before it will be proccesed by Identification Engine.
 *     Use IEJsonUtility in order to add relevant information to the payload

@@ -10,7 +10,7 @@ approvals up to 10. In my opinion that's just too many levels. However
 you can't always control the environment you work in. He was trying to
 get the next x approvals. I came up with this script;
 
-``` {.js}
+```js
 // start debugging
 var current = {};
 current.variables = {};

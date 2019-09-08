@@ -27,7 +27,7 @@ https://hi.service-now.com/scripts/calendar.js.
 
 Then all your old calls ought to work as described in other posts.
 
-``` {.js}
+```js
 // returns a date object you can test against for date/time 
 // variables/fields
 new Date(getDateFromFormat(newValue, g_user_date_time_format));

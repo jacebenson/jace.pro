@@ -47,7 +47,7 @@ Other examples just around and about angular include;
 But this is the jist of it, create a Angular Provider. Associate it to
 all the appropriate widgets. Below is the code from the lab above;
 
-``` {.js}
+```js
 function(amb) {
   var watcher;
   var dataUpdatedHandlers = [];
@@ -81,7 +81,7 @@ function(amb) {
 Then Add this javascript to each client controller on the widgets that
 will update the data;
 
-``` {.js}
+```js
 workspaceData.initRecordWatcher(c.options.table, c.options.filter);
 workspaceData.onDataUpdated(function() {
   c.data.rows = [];
@@ -94,7 +94,7 @@ workspaceData.onDataUpdated(function() {
 Add this javascript to the client controller ont he widget that is
 displaying this data;
 
-``` {.js}
+```js
 workspaceData.onDataUpdated(function(){
   c.counters.forEach(function(counter){ runCounter(counter); });
 });

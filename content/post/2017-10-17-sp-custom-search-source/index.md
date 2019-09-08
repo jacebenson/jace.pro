@@ -32,7 +32,7 @@ So first lets look at the out of box "Service Catalog" search source,
 specifically it's data fetch (shows up when you select,
 `Is scripted source`)
 
-``` {.js}
+```js
 (function(query) {
     var results = [];
     //Here goes the logic. Compute results however you want!
@@ -99,7 +99,7 @@ specifically it's data fetch (shows up when you select,
 There's a lot going on there, but what I picked out was, it returns an
 array of objects where the object has the following properties;
 
-``` {.js}
+```js
 {
     score:"-100",
     label:resultMsg,
@@ -138,7 +138,7 @@ widget they use this in the defined url.
 
 Below is my search source script.
 
-``` {.js}
+```js
 (function(query) {
     var resultMsg = "Search KB for " + query;
     var results = [{

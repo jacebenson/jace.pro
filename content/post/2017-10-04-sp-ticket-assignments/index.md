@@ -19,7 +19,7 @@ update.
 
 ![SP Ticket assignments](/uploads/sp-ticket-assignments.png)
 
-``` {.js}
+```js
 //Client Script
 function() {
   /* widget controller */
@@ -27,7 +27,7 @@ function() {
 }
 ```
 
-``` {.js}
+```js
 //Server Script
 (function() {
   /* populate the 'data' object */

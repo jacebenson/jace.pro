@@ -1,21 +1,14 @@
 ---
-aliases:
-- '/Custom Solutions/Validating-emails/'
-- '/2017-09-25-validating-emails/'
-date: '2017-09-25'
-keywords:
-- client script
-- valid
-layout: post
-tags:
-- client side api
-title: Validating emails
-authors: ["jace"]
+title: "Validating emails, a client script"
+subtitle: "There's an 'email' variable type, but it's not supported on mobile, or service portal."
+summary: "There's an 'email' variable type, but it's not supported on mobile, or service portal."
+authors: ['jace']
+date: 2017-09-25T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
 ---
-
-So there is an "email" type of variable but it's not supported on
-mobile, or service portal. The field will load but it won't validate its
-data.
 
 I suggest you don't use it as you can't ensure the data.
 
@@ -26,7 +19,7 @@ There are two real ways to verify the data meets the needs you have.
 
 This will use all client-side validation.
 
-``` {.js}
+```js
 // Name: Validate email
 // Type: onSubmit
 // UI Type: All

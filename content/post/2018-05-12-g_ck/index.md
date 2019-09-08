@@ -27,7 +27,7 @@ First, you have to make sure you have it, once you understand what it
 is, you can generate it if you don't have access to it with the
 following code server side;
 
-``` {.js}
+```js
 var g_ck = gs.getSession().getSessionToken();
 ```
 
@@ -39,7 +39,7 @@ it, you will be asked to authenticate.
 
 Below is a slightly modified script generated from the API Explorer.
 
-``` {.js}
+```js
 var requestBody = "";
 var endpoint = document.location.origin + "/api/now/table/sys_user?";
 endpoint += "sysparm_query=active%3Dtrue&";

@@ -24,7 +24,7 @@ I came up with the following solution.
 Create a Variable type of macro, with a widget that has the following
 client script;
 
-``` {.js}
+```js
 function($scope, $window) {
   // This is the controller, we've included
   // $scope in the function above because
@@ -81,7 +81,7 @@ helpful if you find this shortened version helpful.
 If you set the default value of the variable in question to this, then
 you can default it differently based on weather or not `$sp` exists.
 
-``` {.js}
+```js
 javascript: (function(){
   try{
     // Service Portal

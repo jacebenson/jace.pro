@@ -21,7 +21,7 @@ instance unless you have a business rule blocking the update.
 
 ## Client Script
 
-``` {.js}
+```js
 //Client Script
 function($scope) {
   /* widget controller */
@@ -43,7 +43,7 @@ function($scope) {
 
 ## Server Script
 
-``` {.js}
+```js
 //Server Script
 (function() {
   /* populate the 'data' object */

@@ -39,6 +39,6 @@ what I came up with. A UI page with the following code does it.
 
 Client Script
 
-``` {.js}
+```js
 document.location.href = "$[JS:jvar_unwrapped_url]";
 ```

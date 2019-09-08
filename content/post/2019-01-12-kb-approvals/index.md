@@ -17,7 +17,7 @@ list of things they did;
     event for the state based on the table. So searching for
     `kb_knowledge.approval.inserted` comes up empty. Here's the code;
 
-    ``` {.js}
+    ```js
     sendEventsNonTask();
 
     function sendEventsNonTask() {

@@ -21,7 +21,7 @@ stackoverlow](https://stackoverflow.com/questions/386845/http-headers-for-file-d
 
 However, with processors this is a non-issue. Here's how to do it.
 
-``` {.js}
+```js
 // Processor code
 (function process(g_request, g_response, g_processor) {
     try{
@@ -53,7 +53,7 @@ However, with processors this is a non-issue. Here's how to do it.
 
 UI Action
 
-``` {.js}
+```js
 // Client side ui action
 downloadXML();
 function downloadXML() {
