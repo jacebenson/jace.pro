@@ -15,9 +15,13 @@
 
   <p>{{ i18n "404_recommendations" }}</p>
 <script>
-    var a = new URL(window.location.href);
+    document.addEventListener("DOMContentLoaded", function(){
+  // Handler when the DOM is fully loaded
+  var a = new URL(window.location.href);
     var snUrl = 'https://sn.jace.pro' + a.pathname;
-    jQuery('#snLink').attr('href', snUrl);
+    document.getElementById('snLink').href = snUrl;
+});
+   
 </script>
   <h2>Recently I moved documentation to <a href="https://sn.jace.pro/">sn.jace.pro</a> </h2>
   <p>
