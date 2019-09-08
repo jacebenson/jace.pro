@@ -1,19 +1,13 @@
 ---
-aliases:
-- '/unsubscribe/'
-- '/2017-09-13-unsubscribe/'
-date: '2017-09-13'
-keywords:
-- mail
-- notification
-- subscription
-- unsub
-layout: post
-tags:
-- missing ootb
-- email
-title: Unsubscribing from notification preferences in email
-authors: ["jace"]
+title: "Unsubscribing from notification preferences in email"
+subtitle: ""
+summary: "A double opt-out process, that way there aren't accidental unsubs"
+authors: ['jace']
+date: 2017-09-13T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
 ---
 
 I was asked to have users verify they actually want to unsubscribe from

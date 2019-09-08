@@ -1,18 +1,13 @@
 ---
-date: '2017-09-15'
-aliases:
-- '/2017-09-15-search-code-and-wf-activities/'
-keywords:
-- workflow
-- search
-- code
-layout: post
-tags:
-- workflow
-- search
-- code
-title: Search for specific code and sys ids in code and workflow activities
-authors: ["jace"]
+title: "Search for specific code and sys ids in code and workflow activities"
+subtitle: ""
+summary: "Looking for this stuff is tough"
+authors: ['jace']
+date: 2017-09-15T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: ['sn-code']
 ---
 
 Seaching for code is crucial to understand how something works. As such

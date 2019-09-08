@@ -1,23 +1,15 @@
 ---
-date: '2016-03-24'
-aliases:
-- '/2017-09-15-5-rules-for-emails/'
-keywords:
-- rfedoruk
-- email
-- mail
-- pop3
-- smtp
-- events
-- workflow activities
-- workflow activity
-- notification
-- notifications
-layout: post
-tags:
-- email
-title: 5 rules for emails
-authors: ["jace"]
+title: "5 rules for emails"
+subtitle: ""
+summary: "Generally, only send actionable emails"
+authors: ['jace']
+tags: []
+categories: []
+date: 2016-03-24T20:25:56-05:00
+lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
 ---
 
 Rules to follow for emails in Servicenow.

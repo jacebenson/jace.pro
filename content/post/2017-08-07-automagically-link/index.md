@@ -1,16 +1,15 @@
 ---
-aliases:
-- '/2017/08/28/automagically-link/'
-- '/2017-08-28-automagically-link/'
-date: '2017-08-07'
-keywords:
-- journal
-- link
-layout: post
-tags:
-- server side
-title: Automagically Link
-authors: ["jace"]
+title: "Automagically Link records from journaled fields."
+subtitle: ""
+summary: "This should be part ot the OOTB activity formatter"
+authors: ['jace']
+tags: []
+categories: []
+date: 2017-08-07T20:25:56-05:00
+lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: ['sn-osaf']
 ---
 
 Automagically Link records from journaled fields.
@@ -33,7 +32,7 @@ The only places I've seen this not work well.
 
 Below is the script.
 
-``` {.js}
+```js
 /*Business Rule: Automagically Link*/
 /*Table: sys_journal_field*/
 /*When: After*/

@@ -1,24 +1,14 @@
 ---
-aliases:
-- '/notification-troubleshooting/'
-- '/2017-09-18-notification-troubleshooting/'
-
-date: '2017-09-18'
-keywords:
-- email
-- mail
-- notification
-layout: post
-tags:
-- email
-title: 10 Point Checklist for Notification troubleshooting
-authors: ["jace"]
+title: "10 Point Checklist for Notification troubleshooting"
+subtitle: "Working with emails is no fun. It's easy to miss a step, as there's a lot to make them work."
+summary: "It's easy to miss one of these."
+authors: ['jace']
+date: 2017-09-18T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
 ---
-
-Working with emails is no fun. It's easy to miss a step, as there's a
-lot to make them work.
-
-# Notification Troubleshooting
 
 Check these things.
 

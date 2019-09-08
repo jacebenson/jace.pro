@@ -1,18 +1,16 @@
 ---
-aliases:
-- '/syncing-comments/'
-- '/2017-09-06-syncking-comments/'
-date: '2017-09-06'
-keywords:
-- sync
-- comments
-- 'sc\_req\_item'
-- 'sc\_task'
-layout: post
-tags:
-- 'server-side'
-title: Syncing Comments between Requested Item and Catalog Task
-authors: ["jace"]
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Syncing Comments between Requested Item and Catalog Task"
+subtitle: ""
+summary: "This is a terrible requirement to fulfill."
+authors: ['jace']
+tags: []
+categories: []
+date: 2017-09-06T23:25:56-05:00
+lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
 ---
 
 To me, this is a terrible requirement to fulfill. This is generally to

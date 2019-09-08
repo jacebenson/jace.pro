@@ -1,15 +1,13 @@
 ---
-date: '2017-09-08'
-aliases:
-- '/2017-09-08-show-hints-for-choice-lists/'
-keywords:
-- hints
-layout: post
-tags:
-- client side api
-- server side
-title: Show Hints for choice lists
-authors: ["jace"]
+title: "Show Hints for choice lists"
+subtitle: ""
+summary: "This could be interesting..."
+authors: ['jace']
+date: 2017-09-08T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
 ---
 
 The other day I was asked to show hints in a more obvious way on a form.

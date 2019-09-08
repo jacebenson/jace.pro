@@ -50,18 +50,19 @@ gs.print(JSON.stringify(approvals,'','  '));
 ```
 
 ```mermaid
-graph LR 
-S0(Start)
-A(Approval N) 
-T1(Task 1) 
-RS(RS: Figure out next approval) 
-IF(IF: Has person to approve) E0(End)
+graph TD;
+  S0(Start);
+  A(Approval N);
+  T1(Task 1); 
+  RS(RS: Figure out next approval);
+  IF(IF: Has person to approve);
+  E0(End);
 
-S0-->RS 
-A--Approved-->RS 
-A--Rejected-->E0 
-RS-->IF 
-IF--No-->T1
-IF--Yes-->A 
-T1-->E0
+  S0-->RS;
+  A--Approved-->RS;
+  A--Rejected-->E0;
+  RS-->IF;
+  IF--No-->T1;
+  IF--Yes-->A;
+  T1-->E0;
 ```

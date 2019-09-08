@@ -1,38 +1,31 @@
 ---
-aliases:
-- '/2017-08-15-workflow/'
-date: '2017-08-15'
-keywords:
-- workflow
-- workflow best practices
-- initialize
-- startFlow
-- startFlowFromContextInsert
-- startFlowRetroactive
-- runFlows
-- getReturnValue
-- getVersion
-- getVersionFromName
-- getWorkflowFromName
-- hasWorkflow
-- fireEvent
-- fireEventById
-- broadcastEvent
-- cancel
-- cancelContext
-- getRunningFlows
-- getContexts
-- restartWorkflow
-- deleteWorkflow
-- sortStages
-- getEstimatedDeliveryTime
-- getEstimatedDeliveryTimeFromWFVersion
-layout: post
-tags:
-- 'server-side-api'
-title: Workflow
-url: '/workflow/'
-authors: ["jace"]
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Workflow considerations"
+subtitle: ""
+summary: "There are a few things I always think should be considered when using a workflow."
+authors: ['jace']
+tags: []
+categories: []
+date: 2017-08-15T23:25:56-05:00
+lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
 
 There are a few things I always think should be considered when using a
@@ -101,48 +94,48 @@ Below is an example Switch Workflow and it in the If pattern.
 ```
 
 ```mermaid
-    graph LR 
-    S0[Begin] 
-    T0[Timer]
-    I1[If Egonomic Split]
-    I2[If Egonomic] 
-    I3[If Gaming] 
-    I4[If Standard] 
-    T1[Task 1]
-    T2[Task 2]
-    T3[Task 3] 
-    T4[Task 4] 
-    B1[Branch 1] 
-    B2[Branch 2]
-    B3[Branch 3] 
-    B4[Branch 4]
-    J0[Join]
-    R1[Run Script]
-    E0[End]
-    
-    S0-->T0 
-    T0-->I1 
-    T0-->I2 
-    T0-->I3 
-    T0-->I4 
-    I1--No -->B1 
-    I1--Yes-->T1
-    I2--No -->B2 
-    I2--Yes-->T2 
-    I3--No -->B3 
-    I3--Yes-->T3 
-    I4--No -->B4
-    I4--Yes-->T4 
-    T1-->B1 
-    T2-->B2 
-    T3-->B3 
-    T4-->B4 
-    B1-->J0 
-    B2-->J0
-    B3-->J0 
-    B4-->J0 
-    J0-->R1 
-    R1-->E0
+graph LR;
+  S0[Begin];
+  T0[Timer];
+  I1[If Egonomic Split];
+  I2[If Egonomic];
+  I3[If Gaming];
+  I4[If Standard];
+  T1[Task 1];
+  T2[Task 2];
+  T3[Task 3];
+  T4[Task 4];
+  B1[Branch 1];
+  B2[Branch 2];
+  B3[Branch 3];
+  B4[Branch 4];
+  J0[Join];
+  R1[Run Script];
+  E0[End];
+
+  S0-->T0;
+  T0-->I1;
+  T0-->I2;
+  T0-->I3;
+  T0-->I4;
+  I1--No -->B1;
+  I1--Yes-->T1;
+  I2--No -->B2;
+  I2--Yes-->T2;
+  I3--No -->B3;
+  I3--Yes-->T3;
+  I4--No -->B4;
+  I4--Yes-->T4;
+  T1-->B1;
+  T2-->B2;
+  T3-->B3;
+  T4-->B4;
+  B1-->J0;
+  B2-->J0;
+  B3-->J0;
+  B4-->J0;
+  J0-->R1;
+  R1-->E0;
 ```
 
 Last but not least, because I think you should avoid checking out

@@ -1,25 +1,16 @@
 ---
-aliases:
-- '/wfh/'
-- '/2017-09-21-wfh/'
-date: '2017-09-21'
-keywords:
-- wfh
-- remote
-- working remote
-layout: post
-tags:
-- other
-title: Working from home
-authors: ["jace"]
+title: "Working from home"
+subtitle: "This is more a guide, things I think I needed or wished I had when working from home."
+summary: "A guide, things I needed when I worked from home"
+authors: ['jace']
+date: 2017-09-21T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
 ---
 
-This is more a guide, things I think I needed or wished I had when
-working from home.
-
-# Working From Home
-
-I think theoatmeal.com's \"[Why working from home is both awesome and
+I think theoatmeal.com's [Why working from home is both awesome and
 HORRIBLE](http://theoatmeal.com/comics/working_home) sum's up a lot of
 the social considerations to keep in mind. I'll breakdown my opinion of
 these things and how to combat them and add a few below.

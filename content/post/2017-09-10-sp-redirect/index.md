@@ -1,16 +1,13 @@
 ---
-aliases:
-- '/Service-Portal/Redirect-old-CMS-pages-to-your-Service-Portal/'
-- '/2017-09-10-sp-redirect/'
-date: '2017-09-10'
-keywords:
-- sp
-- widget
-layout: post
-tags:
-- service portal
-title: Redirect old CMS pages to your Service Portal
-authors: ["jace"]
+title: "Redirect old CMS pages to your Service Portal"
+subtitle: ""
+summary: "Useful when migrating from CMS to SP"
+authors: ['jace']
+date: 2017-09-10T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
 ---
 
 After your go live (belated congratulations) if you made the mistake I

@@ -1,31 +1,27 @@
 ---
-aliases:
-- '/General/Integrations-Flow/'
-- '/2017/09/06/integrations/'
-- '/2017-09-06-integrations-flow/'
-date: '2017-09-06'
-keywords:
-- integrations
-- inbound
-- outbound
-- rest
-- soap
-layout: post
-tags:
-- integrations
-title: Integrations Flow
-authors: ["jace"]
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Integrations Flow"
+subtitle: ""
+summary: "There are a few things I always think should be considered when using a workflow."
+authors: ['jace']
+tags: []
+categories: []
+date: 2017-09-06T23:25:56-05:00
+lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
 ---
 
 I'm recalling this from memory and this is old and could be updated for
 Scripted Rest APIs and such, but Just want to get this out here.
 
-![Flow One](/uploads/integrations-1.png)
+[![Flow Decisions](./Capture.PNG)](https://workflow.jace.pro/?flow=integrate)
 
 That is really verbose but really all you need to know is what your
 doing, and what is preferred like so;
 
-![Flow Two](/uploads/integrations-2.png)
+![Flow Decisions](./Capture2.PNG)
 
 Generally if you are doing a "one time" import, it is almost always
 easiest to do a file import, however, sometimes, a database connection
