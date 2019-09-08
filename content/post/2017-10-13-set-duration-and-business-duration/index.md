@@ -1,18 +1,16 @@
 ---
-aliases:
-- '/set-duration-and-business-duration/'
-- '/2017-10-13-set-duration-and-business-duration/'
-date: '2017-10-13'
-layout: post
-tags:
-- missing ootb
-- server side
-title: Set Duration and Business Duration
-authors: ["jace"]
+title: "Set Duration and Business Duration"
+subtitle: "You'd think these would be set on all tasks the same way. Turns out it's
+not."
+summary: "You'd think these would be set on all tasks the same way. Turns out it's
+not."
+authors: ['jace']
+date: 2017-10-13T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
 ---
-
-You'd think these would be set on all tasks the same way. Turns out it's
-not.
 
 I recently had to add some code to set this for some reporting needs but
 really, this should be part of the offering Servicenow provides.

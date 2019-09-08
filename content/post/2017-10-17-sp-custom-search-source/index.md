@@ -1,20 +1,16 @@
 ---
-aliases:
-- '/sp-custom-search-source/'
-- '/2017-10-17-sp-custom-search-source/'
-date: '2017-10-17'
-keywords:
-- sp
-layout: post
-tags:
-- service portal
-- search
-title: Service Portal Add a Custom Search Source
-authors: ["jace"]
+title: "Service Portal Add a Custom Search Source"
+subtitle: "Now I'm not sure the best way to do this but I did find that this is
+probably they way I'll push for this."
+summary: "Now I'm not sure the best way to do this but I did find that this is
+probably they way I'll push for this."
+authors: ['jace']
+date: 2017-10-17T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
 ---
-
-Now I'm not sure the *best* way to do this but I did find that this is
-probably they way I'll push for this.
 
 We have multiple knowledge bases at my work and as such the default
 search is very limited. I wanted to add to the type ahead a result like

@@ -1,14 +1,14 @@
 ---
-aliases:
-- '/pdi/'
-- '/2017/10/24/pdi/'
-- '/2017-10-24-pdi/'
-date: '2017-10-24'
-layout: post
-tags:
-- pdi
-title: Things to do with your PDI
-authors: ["jace"]
+title: "Things to do with your PDI"
+subtitle: "A simple list of things to do to your PDI"
+summary: "A simple list of things to do to your PDI"
+authors: ['jace']
+date: 2017-10-24T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
+aliases: ['/pdi']
 ---
 
 Things you should do with you PDI when you zboot it.

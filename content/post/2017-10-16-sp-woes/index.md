@@ -1,19 +1,18 @@
 ---
-aliases:
-- '/Serice-Portal/Woes/'
-- '/sp-woes/'
-- '/2017-10-16-sp-woes/'
-date: '2017-10-16'
-layout: post
-tags:
-- service portal
-title: Service Portal Woes
-authors: ["jace"]
+title: "Service Portal Woes"
+subtitle: "These are all important things that seemed to have changed from the
+standard UI to the Service Portal. Be cautious."
+summary: "These are all important things that seemed to have changed from the
+standard UI to the Service Portal. Be cautious."
+authors: ['jace']
+date: 2017-10-16T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: ['sn-version-tracker']
 ---
 
-These are all important things that seemed to have changed from the
-standard UI to the Service Portal. Be cautious. Two things I have to
-call out. First, this was insired by [Ratesh Shah's
+Two things I have to call out. First, this was insired by [Ratesh Shah's
 post](https://community.servicenow.com/thread/282244). Second, you can
 read "Offical" client script restrictions here on the
 [docs](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/build/service-portal/concept/unsupported_client_scripts.html).
