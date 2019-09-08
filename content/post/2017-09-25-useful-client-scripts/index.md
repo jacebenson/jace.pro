@@ -1,15 +1,13 @@
 ---
-aliases:
-- '/useful-catalog-client-scripts/'
-- '/2017-09-25-useful-client-scripts/'
-date: '2017-09-25'
-keywords:
-- getDateFromFormat
-layout: post
-tags:
-- client side api
-title: Useful catalog client scripts
-authors: ["jace"]
+title: "Useful catalog client scripts"
+subtitle: "Here's a number of old client scripts I've found useful."
+summary: "Here's a number of old client scripts I've found useful."
+authors: ['jace']
+date: 2017-09-25T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
 ---
 
 These are my useful catalog client scripts, I've found/written over the
@@ -19,7 +17,7 @@ documented and won't work in all places.
 
 ## Run code on order guides in and out of the portal
 
-``` {.js}
+```js
 function onLoad() {
   /**
   * So here is the case, I have a variable set being used in an order guide and catalog item.
@@ -48,7 +46,7 @@ function onLoad() {
 
 ## Validate Date is after today
 
-``` {.js}
+```js
 //Validate Date is after today
 //GwtDate not available on service portal
 function onSubmit() {
@@ -70,7 +68,7 @@ function onSubmit() {
 
 ## Validate Date is after a set time
 
-``` {.js}
+```js
 //Validate Date is after set time
 function onSubmit() {
     var returnVal = false;
@@ -114,7 +112,7 @@ date:Mon Sep 25 2017 08:47:32 GMT-0500 (Central Daylight Time)[1506347252815]
 
 ## Validate Date is after a variable
 
-``` {.js}
+```js
 //Validate Date is after variable
 function onSubmit() {
     //validate that the start date is before the end date
@@ -131,7 +129,7 @@ function onSubmit() {
 
 ## Require Checkboxes
 
-``` {.js}
+```js
 //require checkboxes
 
 function onSubmit() {
@@ -175,7 +173,7 @@ function forceMandatoryCheckboxes(mandatory, count) {
 
 ## Show field if x are checked
 
-``` {.js}
+```js
 //show field if x are chekced
 
 /*
@@ -203,7 +201,7 @@ function onChange(control, oldValue, newValue, isLoading) {
 
 ## Validate numbers only
 
-``` {.js}
+```js
 //validated numbers only
 function onChange(control, oldValue, newValue, isLoading, isTemplate) {
     if (isLoading || newValue == '') {
@@ -222,7 +220,7 @@ function onChange(control, oldValue, newValue, isLoading, isTemplate) {
 
 This is unneeded after Jakarta
 
-``` {.js}
+```js
 //set place holder
 //this is unnecessary in Jakarta see https://servicenow.implementation.blog/great-ui-trick-html-placeholders/
 function onLoad() {
@@ -242,7 +240,7 @@ function u_addPlaceholderAttribute(variableName, hint) {
 
 ## Make variables Read Only
 
-``` {.js}
+```js
 //make variables read only
 function onLoad() {
     try {
@@ -266,7 +264,7 @@ function onLoad() {
 
 ## Flash variable
 
-``` {.js}
+```js
 //flash variable
 function flashVar(v) {
     g_form.nameMap.map(function (rec) {
@@ -280,7 +278,7 @@ flashVar('server_decom_prepinfo');
 
 ## Require Attachment
 
-``` {.js}
+```js
 //require attachment
 function onSubmit() {
     'use strict';
@@ -297,7 +295,7 @@ function onSubmit() {
 
 ## Set Server fields
 
-``` {.js}
+```js
 //ser server fields
 function onChange(control, oldValue, newValue, isLoading) {
     try {
