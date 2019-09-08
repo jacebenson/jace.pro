@@ -1,23 +1,20 @@
 ---
-date: '2017-10-04'
-aliases:
-- '/2017-10-04-sp-ticket-assignments/'
-keywords:
-- sp
-- widget
-layout: post
-tags:
-- service portal
-- widget
-title: 'Service Portal - Ticket Assignments'
-authors: ["jace"]
+title: "Service Portal - Ticket Assignments"
+subtitle: "A widget to allow watch lists updates"
+summary: "A widget to allow watch lists updates"
+authors: ['jace']
+date: 2017-10-04T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
 ---
 
 I created a ticket assignments and wanted to share that code. Should
 work on any instance unless you have a business rule blocking the
 update.
 
-![SP Ticket assignments](/uploads/sp-ticket-assignments.png)
+![SP Ticket assignments](./sp-ticket-assignments.png)
 
 ```js
 //Client Script
@@ -63,7 +60,7 @@ function() {
 })();
 ```
 
-``` {.html}
+```html
 <!--Template-->
 <div ng-if="data.canRead && data.sc_task.length>0 && data.table == 'sc_req_item'" class="panel b">
   <div class="panel-heading bg-primary">

@@ -1,18 +1,14 @@
 ---
-aliases:
-- '/kingston/'
-- '/2017-10-16-kingston/'
-date: '2017-10-16'
-layout: post
-tags:
-- versions
-title: 'Quick Guide: Kingston'
-authors: ["jace"]
+title: "Quick Guide: Kingston"
+subtitle: "Here's my take of what's new with Kingston"
+summary: "Here's my take of what's new with Kingston"
+authors: ['jace']
+date: 2017-10-16T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: ['sn-version-tracker']
 ---
-
-Here's my take of whats new with Kingston
-
-# Kingston
 
 | Section                            | Link                                |
 |------------------------------------|-------------------------------------|

@@ -1,18 +1,14 @@
 ---
-aliases:
-- '/istanbul/'
-- '/2017-10-16-istanbul/'
-date: '2017-10-16'
-layout: post
-tags:
-- versions
-title: 'Quick Guide: Istanbul'
-authors: ["jace"]
+title: "Quick Guide: Istanbul"
+subtitle: "Here's my take of what's new with Istanbul"
+summary: "Here's my take of what's new with Istanbul"
+authors: ['jace']
+date: 2017-10-16T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: ['sn-version-tracker']
 ---
-
-Here's my take of whats new with Istanbul
-
-# Istanbul
 
 | Section                       | Link                                |
 |-------------------------------|-------------------------------------|

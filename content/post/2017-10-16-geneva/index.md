@@ -1,19 +1,14 @@
 ---
-aliases:
-- '/Geneva/'
-- '/geneva/'
-- '/2017-10-16-geneva/'
-date: '2017-10-16'
-layout: post
-tags:
-- versions
-title: 'Quick Guide: Geneva'
-authors: ["jace"]
+title: "Quick Guide: Geneva"
+subtitle: "Here's my take of what's new with Geneva"
+summary: "Here's my take of what's new with Geneva"
+authors: ['jace']
+date: 2017-10-16T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: ['sn-version-tracker']
 ---
-
-Here's my take of whats new with Geneva
-
-# Geneva
 
 Video Review of this;
 

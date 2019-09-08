@@ -1,19 +1,13 @@
 ---
-aliases:
-- '/2017/09/30/undocumented-scripts/'
-- '/2017/09/30/undocumented-scripts.html'
-- '/undocumented-scripts/'
-- '/2017-09-30-undocumented-scripts/'
-
-date: '2017-09-30'
-keywords:
-- getDateFromFormat
-- 'g\_user\_date\_format'
-layout: post
-tags:
-- undocumented
-title: Undocumented Scripts
-authors: ["jace"]
+title: "Undocumented Scripts"
+subtitle: "A simple place I can toss stuff that isn't documented"
+summary: "A simple place I can toss stuff that isn't documented"
+authors: ['jace']
+date: 2017-09-30T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: ['sn-docs']
 ---
 
 I am starting to make a page I can easily reference with things that

@@ -1,17 +1,13 @@
 ---
-aliases:
-- '/sp-modify-watch-list/'
-- '/2017-10-03-sp-modify-watch-list/'
-date: '2017-10-03'
-keywords:
-- sp
-- widget
-layout: post
-tags:
-- service portal
-- widget
-title: 'Service Portal - Modify Watch List'
-authors: ["jace"]
+title: "Service Portal - Modify Watch List"
+subtitle: "A widget to allow watch lists updates"
+summary: "A widget to allow watch lists updates"
+authors: ['jace']
+date: 2017-10-03T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: []
 ---
 
 I created a widget and wanted to share that code. Should work on any
@@ -74,7 +70,7 @@ function($scope, spUtil) {
 })();
 ```
 
-``` {.html}
+```html
 <!--Template-->
 <div ng-if="data.canRead" class="panel panel-primary b">
   <div class="panel-heading">
@@ -85,21 +81,23 @@ function($scope, spUtil) {
   </div>
   <div class="panel-body">
     <div class="text-center text-italic text-muted" id="watch_list_div">
-      <sn-record-picker ng-blur="updateRecord()"
-                        field="watch_list"
-                        sn-disabled="!data.canWrite"
-                        table="'sys_user'"
-                        display-field="'name'"
-                        search-fields="'name'"
-                        value-field="'sys_id'"
-                        default-query="'active=true^name!=NULL'"
-                        multiple="true">
+      <sn-record-picker 
+        ng-blur="updateRecord()"
+        field="watch_list"
+        sn-disabled="!data.canWrite"
+        table="'sys_user'"
+        display-field="'name'"
+        search-fields="'name'"
+        value-field="'sys_id'"
+        default-query="'active=true^name!=NULL'"
+        multiple="true">
       </sn-record-picker>
       <p></p>
-      <button type="button"
-              ng-click="updateRecord()"
-              ng-if="data.canWrite"
-              class="btn btn-default ng-scope">
+      <button 
+        type="button"
+        ng-click="updateRecord()"
+        ng-if="data.canWrite"
+        class="btn btn-default ng-scope">
         Update Watch List
       </button>
     </div>

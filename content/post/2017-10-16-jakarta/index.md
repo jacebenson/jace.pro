@@ -1,18 +1,14 @@
 ---
-aliases:
-- '/jakarta/'
-- '/2017-10-16-jakarta/'
-date: '2017-10-16'
-layout: post
-tags:
-- versions
-title: 'Quick Guide: Jakarta'
-authors: ["jace"]
+title: "Quick Guide: Jakarta"
+subtitle: "Here's my take of what's new with Jakarta"
+summary: "Here's my take of what's new with Jakarta"
+authors: ['jace']
+date: 2017-10-16T20:25:56-05:00
+#lastmod: 2019-09-07T23:25:56-05:00
+featured: false
+draft: false
+projects: ['sn-version-tracker']
 ---
-
-Here's my take of whats new with Jakarta
-
-# Jakarta
 
 -   In the left hand search field, `table.config` has been added.
 -   In journaled fields, now videos are added like image files in the
