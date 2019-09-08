@@ -37,6 +37,7 @@ If you're unfamiliar with PWA's they can be installed on Desktops, Tablets, and 
 </video>
 
 Further Reading:
+
  - [Installing PWAs on Android](https://www.techrepublic.com/article/how-to-use-progressive-web-apps-on-android/)
  - [Installing PWAs on iOS](https://www.idownloadblog.com/2018/07/19/howto-progressive-web-apps-iphone-ipad/)
  - [What is a PWA](https://developers.google.com/web/progressive-web-apps/)
