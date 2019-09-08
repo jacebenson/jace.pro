@@ -3,7 +3,7 @@
 
 title: "SN Docs"
 summary: "My Version of Docs"
-authors: []
+authors: ['jace']
 tags: []
 categories: []
 date: 2019-08-31T23:53:42-05:00

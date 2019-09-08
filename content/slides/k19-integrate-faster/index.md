@@ -1,7 +1,7 @@
 ---
 title: Slides
 summary: An introduction to using Academic's Slides feature.
-authors: []
+authors: ['jace']
 tags: []
 categories: []
 date: "2019-02-05T00:00:00Z"

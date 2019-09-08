@@ -3,7 +3,7 @@
 
 title: "Workflow"
 summary: "Diagramming Tool"
-authors: []
+authors: ['jace']
 tags: []
 categories: []
 date: 2019-08-31T23:52:45-05:00
@@ -46,7 +46,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-This is my version of a diagramming tool as it seems most eventaully go offline.
+This is my version of a diagramming tool and is installable as an offline PWA.
 
 It's a simple implementation of [mermaidjs](https://mermaidjs.github.io/)
 
