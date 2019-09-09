@@ -85,7 +85,7 @@ Rules to follow for emails in Servicenow.
 
 ## Memorize this diagram
 
-![Inboung Action processing](5-rules-for-emails.png)
+![Inboung Action processing](./5-rules-for-emails.png)
 
 Above is a diagram from this
 [docs](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/administer/notification/concept/inbound-action-processing.html)

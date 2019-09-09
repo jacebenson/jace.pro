@@ -9,7 +9,7 @@ date: 2017-10-16T20:25:56-05:00
 #lastmod: 2019-09-07T23:25:56-05:00
 featured: false
 draft: false
-projects: ['sn-version-tracker']
+projects: []
 ---
 
 Two things I have to call out. First, this was insired by [Ratesh Shah's

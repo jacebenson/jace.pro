@@ -47,7 +47,7 @@ So follow these steps;
 
 Here's what that could look like.  
 
-![animation of item](/uploads/2019-08-14-sp-own-your-form.gif)
+![animation of item](./2019-08-14-sp-own-your-form.gif)
 
 Here's the code used for that example;
 

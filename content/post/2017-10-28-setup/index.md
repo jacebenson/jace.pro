@@ -55,7 +55,7 @@ a workspaces in it for my personal API's, Servicenow's API's and more.
 Here's what it looks like, you can see also it's variable stuff where I
 have the `twitch.key` but it's not visible.
 
-![Insomia Rest Client](/uploads/setup-insomnia.png)
+![Insomia Rest Client](./setup-insomnia.png)
 
 ### Soap Client
 
@@ -67,7 +67,7 @@ projects, just goto the target table
 e.g. dev12345.service-now.com/ticket.do?WSDL, save the page as a file,
 and make a new Project using that file.
 
-![SOAPUI](/uploads/setup-soapui.png)
+![SOAPUI](./setup-soapui.png)
 
 ### Screen capture
 
@@ -78,7 +78,7 @@ do any kind of notation or video, I use Screencast-o-matic. I initially
 used this as it supported Linux, Windows, and Mac, but now they only
 support Windows, and Mac.
 
-![Screencast-o-matic](/uploads/setup-screencastomatic.png)
+![Screencast-o-matic](./setup-screencastomatic.png)
 
 If you're on windows this pairs well with
 [KeyPosé](http://jungsbluth.de/magnus/blog/2008/08/01/keypose-flavour-your-screencasts-with-shortcuts/)

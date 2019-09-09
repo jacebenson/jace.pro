@@ -33,7 +33,7 @@ make a pull request.
 
 So enjoy!
 
-![screenshot](/uploads/glideutils-screenshot.png)
+![screenshot](./glideutils-screenshot.png)
 
 [Github
 Source](https://github.com/jacebenson/servicenow-glideutils/tree/docs)

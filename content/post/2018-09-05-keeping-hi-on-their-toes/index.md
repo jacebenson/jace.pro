@@ -12,7 +12,7 @@ So I wrote a userscript (useable with plugins like tampermonkey) to give
 me a consistent list of things not updated in the time I want, or
 updated by someone other than me.
 
-![](/uploads/2018-09-05-keeping-hi-on-their-toes.png)
+![](./2018-09-05-keeping-hi-on-their-toes.png)
 
 Here's the
 [script](https://openuserjs.org/scripts/jacebenson/Get_HI_Updated_by_not_me/source).

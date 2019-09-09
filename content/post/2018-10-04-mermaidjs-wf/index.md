@@ -138,4 +138,4 @@ graph TD;
   a633b949cb020200d71cb9c0c24c9c21(End);
 ```
 
-![mermaidjs-wf-1.png](/uploads/mermaidjs-wf-1.png)
+![mermaidjs-wf-1.png](./mermaidjs-wf-1.png)

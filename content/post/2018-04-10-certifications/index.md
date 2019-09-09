@@ -19,7 +19,7 @@ things together.
 
 UPDATE \[July 1, 2018\]: As of 7/1/2018 you're need to take a class to
 register for the exams [according to this
-pdf](/uploads/certifications-faq.pdf).
+pdf](./certifications-faq.pdf).
 
 I was looking for a list of the certifications SN offers. As of today
 This is all I can find. Here's my sources;
@@ -56,7 +56,7 @@ This is all I can find. Here's my sources;
 one exists [on the Certification
 Guide](https://www.servicenow.com/content/dam/servicenow/other-documents/training/tp-certification-guide.pdf)
 [locally incase SN updates/takes down
-original](/uploads/certifications-guide.pdf).
+original](./certifications-guide.pdf).
 
 Learning Resources
 

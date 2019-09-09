@@ -14,7 +14,7 @@ can impersonate by pasting the `sys_id`? I didn't.
 
 Thanks cmclendon for sharing this!
 
-![2019-07-21-impersonate.png](/uploads/2019-07-21-impersonate.png)
+![2019-07-21-impersonate.png](./2019-07-21-impersonate.png)
 
 Source:
 https://community.servicenow.com/community?id=community\_article&sys\_id=9a177495db44f348f7fca851ca961961

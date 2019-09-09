@@ -23,7 +23,7 @@ Here's the goals of this [project](https://github.com/jacebenson/osaf),
 to have a starting point to up and replace the OOB formatter;
 
 Today, here's the state of it;
-![2018-12-31-open-source-activity-formatter](/uploads/2018-12-31-open-source-activity-formatter.png)
+![2018-12-31-open-source-activity-formatter](./2018-12-31-open-source-activity-formatter.png)
 
 So to do that we need the following features;
 

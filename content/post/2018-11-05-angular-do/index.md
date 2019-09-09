@@ -8,7 +8,7 @@ authors: ["jace"]
 The other day I got a report of slowness when using the "Post" button on
 incident.
 
-![2018-11-05-angular-do.png](/uploads/2018-11-05-angular-do.png)
+![2018-11-05-angular-do.png](./2018-11-05-angular-do.png)
 
 Turns out this little functionality uses some undocumented api to
 `/angular.do` . In this post I go over what I found out about it and how
@@ -42,7 +42,7 @@ Really, in my opinion all these transactions should be captured but it
 seems servicenow doesn't seem to share this opinion.
 
 I've [attached (raw JSONP) the HAR
-record](/uploads/2018-11-05-angular-do.har) and found a tool online to
+record](./2018-11-05-angular-do.har) and found a tool online to
 easily here on
 [https://softwareishard.com/har/viewer](http://www.softwareishard.com/har/viewer/).
 

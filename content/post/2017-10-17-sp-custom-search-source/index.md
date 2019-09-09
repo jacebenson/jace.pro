@@ -20,7 +20,7 @@ I looked at the search sources and found it has a scripted bit but it's
 [not documented
 well](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/build/service-portal/task/add-table-search-source.html).
 
-![Finished Product](/uploads/sp-custom-search-source.png)
+![Finished Product](./sp-custom-search-source.png)
 
 ## OOB Search Source
 

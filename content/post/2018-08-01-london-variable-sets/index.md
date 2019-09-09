@@ -13,7 +13,7 @@ authors: ["jace"]
 I had to try this out and since the
 [docs](https://docs.servicenow.com/bundle/london-it-service-management/page/product/service-catalog-management/task/t_CreateAVariableSet.html)
 don't really show how it works here's screenshot and video. ![London
-variable set](/uploads/longon-variable-sets-1.png)
+variable set](./longon-variable-sets-1.png)
 
 Here's a video showing the parts of this.
 

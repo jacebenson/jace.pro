@@ -44,5 +44,3 @@ who may have that role.
 Blog](https://community.servicenow.com/community?id=community_blog&sys_id=1a4e66addbd0dbc01dcaf3231f96192f)
 for further reading. [Further
 Reading](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/other-document/nowforum/sydney/hands-on-lab2-automated-testing-framework.pdf)
-- [Saved Off on
-2018-12-26](/uploads/hands-on-lab2-automated-testing-framework.pdf)

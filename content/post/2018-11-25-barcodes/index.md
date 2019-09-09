@@ -41,10 +41,10 @@ Here's how I did it, and how you can do it too;
     ```
 
 3.  Create UI Formatter calling UI Macro name plus .xml
-    ![2018-11-25-barcodes-formatter.png](/uploads/2018-11-25-barcodes-formatter.png)
+    ![2018-11-25-barcodes-formatter.png](./2018-11-25-barcodes-formatter.png)
 
 4.  Add UI Formatter to form.
-    ![2018-11-25-barcodes-add-formatter-to-form.png](/uploads/2018-11-25-barcodes-add-formatter-to-form.png)
+    ![2018-11-25-barcodes-add-formatter-to-form.png](./2018-11-25-barcodes-add-formatter-to-form.png)
 
 5.  Add onChange script like so to form;
 
@@ -74,4 +74,4 @@ Here's how I did it, and how you can do it too;
     ```
 
 6.  Which should result in something like this;
-    ![2018-11-25-barcodes-add-formatter-on-form.png](/uploads/2018-11-25-barcodes-add-formatter-on-form.png)
+    ![2018-11-25-barcodes-add-formatter-on-form.png](./2018-11-25-barcodes-add-formatter-on-form.png)

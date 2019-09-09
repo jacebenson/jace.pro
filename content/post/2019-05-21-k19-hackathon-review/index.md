@@ -81,7 +81,7 @@ on some beta unnamed version with a build tag of
 Well Madrid wasn't done then and the Mobile stuff wasn't working by
 then.
 
-![hackathon-version.png](/uploads/hackathon-version.png)
+![hackathon-version.png](./hackathon-version.png)
 
 ## The recovery
 
@@ -113,4 +113,4 @@ Thanks! Now I know. The **hackathon** isn't a hackathon at the knowledge
 events. It's a "Did you bring something cool that we can make a product
 out of" event.
 
-[Link of Ideas](/uploads/2019-app-list.xlsx)
+[Link of Ideas](./2019-app-list.xlsx)

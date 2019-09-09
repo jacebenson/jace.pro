@@ -222,7 +222,7 @@ I love the idea of having a simple "How can we make this page better for
 you?" as pictured below. However, I'd have it have a thumbs up, and
 thumbs down to submit, and on press of enter submit w/out thumb up or
 down value. ![Immediate
-Feedback](/uploads/surveys-immediate-feedback.png)
+Feedback](./surveys-immediate-feedback.png)
 
 ### After an Event
 
@@ -327,17 +327,17 @@ quarterly.
 This survey isn't short, and asks more than one question at a time. It
 also asks questions regardless of answers. Don't do this.
 
-![Wordpress Survey](/uploads/surveys-wp.png)
+![Wordpress Survey](./surveys-wp.png)
 
 ### Upgrade Instance Survey
 
 This survey is consice and satisfying.
 
-![Concise Survey](/uploads/surveys-pheedbaq-1.png) ![Concise
-Survey](/uploads/surveys-pheedbaq-2.png) ![Concise
-Survey](/uploads/surveys-pheedbaq-3.png) ![Concise
-Survey](/uploads/surveys-pheedbaq-4.png) ![Concise
-Survey](/uploads/surveys-pheedbaq-5.png)
+![Concise Survey](./surveys-pheedbaq-1.png) ![Concise
+Survey](./surveys-pheedbaq-2.png) ![Concise
+Survey](./surveys-pheedbaq-3.png) ![Concise
+Survey](./surveys-pheedbaq-4.png) ![Concise
+Survey](./surveys-pheedbaq-5.png)
 
 I know at a past place, I set up a business rule on a question to notify
 the manager of the incident that spawned the survey to followup. That

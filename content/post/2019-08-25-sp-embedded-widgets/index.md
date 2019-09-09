@@ -51,7 +51,7 @@ wasn't in the docs.  Thankfully this markdown file was still out on [Github](htt
 
 End result was this;
 
-![](/uploads/2019-08-25-sp-embedded-widgets.gif)
+![](./2019-08-25-sp-embedded-widgets.gif)
 
 That example shows how to do this for variable, and I wanted to do this for five.
 

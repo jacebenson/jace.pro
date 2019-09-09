@@ -22,4 +22,4 @@ This uses the table, `sys_broadcast_message` and that creates a message
 as depicted in this
 [thread](https://community.servicenow.com/message/1193491#1193491).
 
-![Screenshot](/uploads/megaphone-screenshot.png)
+![Screenshot](./megaphone-screenshot.png)

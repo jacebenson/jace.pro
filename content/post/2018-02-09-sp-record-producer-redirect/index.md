@@ -29,7 +29,7 @@ However this *does not* work unless you modify the Instance Options
 (control-right click, to get to "Instance Options").
 
 ![Instance
-Options](/uploads/sp-record-producer-redirect-instance-options.png)
+Options](./sp-record-producer-redirect-instance-options.png)
 
 This however is the same widget that renders your other catalog items
 and all of them will redirect too.

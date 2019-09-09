@@ -18,7 +18,7 @@ So in my case I wanted the following;
 
 Here's the end result;
 
-![2019-01-17-catalog-password-variable.gif](/uploads/2019-01-17-catalog-password-variable.gif)
+![2019-01-17-catalog-password-variable.gif](./2019-01-17-catalog-password-variable.gif)
 
 To make this follow these steps;
 

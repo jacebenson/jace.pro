@@ -22,12 +22,12 @@ point the link to "`system_properties_ui.do`" UI Page. Your link will
 look something like
 `system_properties_ui.do?sysparm_title=MyTitleHere&sysparm_category=MyCategoryHere`
 
-![Module Configuration](/uploads/custom-property-page-2.png)
+![Module Configuration](./custom-property-page-2.png)
 
 And the resulting properties page will look like this:
 
 ![End Result of Module
-Configuration](/uploads/custom-property-page-3.png)
+Configuration](./custom-property-page-3.png)
 
 ## Making a custom page
 
@@ -117,7 +117,7 @@ Page. Client Script and Processing Script panes are empty.
 </j:jelly>
 ```
 
-![Screenshot](/uploads/custom-property-page-1.png)
+![Screenshot](./custom-property-page-1.png)
 
 Special thanks to [Ben
 Phillips](https://community.servicenow.com/community?id=community_user_profile&user=68211265db981fc09c9ffb651f96192d)

@@ -40,7 +40,7 @@ Here's my take of whats new with New York
   - [Retrieve external data using remote tables and scripts](https://docs.servicenow.com/bundle/newyork-servicenow-platform/page/administer/remote-tables/concept/remote-tables.html)
         -  retrieve the data from external sources or from another instance with REST or SOAP services. The external data lives in the memory in read-only mode, which makes the data temporary, or transient, within the Now Platform. You can then view and manipulate the external data without importing or storing it. 
         - Plugin: "Remote Tables" or "com.glide.script.vtable" 
-        ![2019-07-26-new-york-remote-tables-1.png](/uploads/2019-07-26-new-york-remote-tables-1.png)
+        ![2019-07-26-new-york-remote-tables-1.png](./2019-07-26-new-york-remote-tables-1.png)
         - Recomended limit is 1000 records
         - example use cases;
           - weather-related data that appears on a homepage when a user logs in.

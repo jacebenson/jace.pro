@@ -28,21 +28,21 @@ Take a look into the past
 
 ## Wiki \~2006
 
-![Wiki 2006](/uploads/rip-wiki-2007.png)
+![Wiki 2006](./rip-wiki-2007.png)
 
 [wiki.service-now.com circa
 2006](https://web.archive.org/web/20060818164044/http://wiki.service-now.com:80/index.php?title=Main_Page)
 
 ## Wiki \~2012
 
-![Wiki 2012](/uploads/rip-wiki-2012.png)
+![Wiki 2012](./rip-wiki-2012.png)
 
 [wiki.servicenow.com circa
 2012](https://web.archive.org/web/20120630005208/http://wiki.servicenow.com:80/index.php?title=Main_Page)
 
 ## Wiki \~2017
 
-![Wiki 2017](/uploads/rip-wiki-2017.png)
+![Wiki 2017](./rip-wiki-2017.png)
 
 [wiki.serivcenow.com circa
 2017](https://web.archive.org/web/20171208185714/http://wiki.servicenow.com/index.php?title=Main_Page#gsc.tab=0)

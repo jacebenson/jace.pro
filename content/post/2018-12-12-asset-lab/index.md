@@ -12,8 +12,8 @@ about Software Asset Management. It seems quite involved.
 Here's the files from the lab provided instance;
 
 -   Update Sets
-    -   [Lab1405](/uploads/Lab1405.xml)
+    -   [Lab1405](./Lab1405.xml)
     -   [Normalization Suggestion Demo
-        Data](/uploads/Normalization-Suggestion-Demo-Data.xml)
+        Data](./Normalization-Suggestion-Demo-Data.xml)
 -   Excel Import:
-    -   [entitlement\_import.xls](/uploads/entitlement_import.xlsx)
+    -   [entitlement\_import.xls](./entitlement_import.xlsx)

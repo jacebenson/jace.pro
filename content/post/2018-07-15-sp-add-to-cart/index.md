@@ -23,7 +23,7 @@ here's the steps I've followed to set it up;
 1.  On your catalog item widget, ctrl + right click the widget and open
     the widget instance options.
 2.  Check "Show Add Cart Button" ![What you should
-    see](/uploads/sp-add-to-cart-1.png)
+    see](./sp-add-to-cart-1.png)
 
 ## Adding "Cart" on the header
 

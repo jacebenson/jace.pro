@@ -15,7 +15,7 @@ Point your browser to `/channel.do?sysparm_channel=logtail`
 
 What does this load?
 
-![Logtail](/uploads/logtail.png)
+![Logtail](./logtail.png)
 
 So this was recently posted on
 [servicenowgems.com](https://servicenowgems.com/2017/09/25/accessing-apache-tomcat-logs-in-real-time/)
