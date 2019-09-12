@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
-subtitle = ""
+title = "Certificates"
+subtitle = "and accomplishments"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "January 2, 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -19,13 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Fruition Partners"
-  organization_url = "https://www.coursera.org"
+  organization = "Loyalist"
+  organization_url = "http://www.loyalistexamservices.com/"
   title = "ITIL v3 Foundations"
-  url = ""
+  url = "https://en.wikipedia.org/wiki/ITIL#ITIL_2007_edition"
   certificate_url = "./uploads/itil-cert.pdf"
   date_start = "2012-01-19"
   date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "ServiceNow"
+  organization_url = "https://www.servicenow.com/"
+  title = "Certified System Administrator"
+  url = "https://www.servicenow.com/services/training-and-certification/certified-system.html"
+  certificate_url = "./uploads/sn-csa.pdf"
+  date_start = "2012-04-05"
+  date_end = "2018-07-01"
+  description = ""
+
+[[item]]
+  organization = "ServiceNow"
+  organization_url = "https://www.servicenow.com/"
+  title = "Certified Application Developer"
+  url = "https://www.servicenow.com/services/training-and-certification/certified-application-developer.html"
+  certificate_url = "./uploads/sn-cad.pdf"
+  date_start = "2015-04-23"
+  date_end = "2018-07-01"
+  description = ""
+
+[[item]]
+  organization = "ServiceNow"
+  organization_url = "https://www.servicenow.com/"
+  title = "Certified Implementation Specialist"
+  url = "https://www.servicenow.com/services/training-and-certification/certified-implementation-specialist.html"
+  certificate_url = "./uploads/sn-cis.pdf"
+  date_start = "2012-12-31"
+  date_end = "2018-07-01"
   description = ""
 
 [[item]]

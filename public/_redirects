@@ -1,3 +1,4 @@
 # http and https need separate rules if you don't force_ssl!
-http://blog.jace.pro/* https://jace.pro/blog/:splat 301!
 https://blog.jace.pro/* https://jace.pro/:splat 301!
+https://jacebenson.com/* https://jace.pro/:splat 301!
+https://blog.jacebenson.com/* https://jace.pro/:splat 301!
