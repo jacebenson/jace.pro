@@ -69,3 +69,11 @@ user_groups:
 - Visitors
 ---
 
+I work on web technogies every day with ambition to learn more about what makes the web work. I love working on new/new to me libraries and all things Javascript.
+
+A few other things that is good to know;
+
+- I love me some sci-fi and lit-rpg audiobooks (my favorite characters are used on the [Code Collab tool](./project/code/) as random names when you load in.)
+- I have two kids under the age of 5, so all things kids are big right now.
+- I hate the weather in Minnesota, but the people are great.
+- I miss my friends in Washington, but the traffic was terrible.

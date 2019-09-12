@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -47,44 +47,50 @@ subtitle = ""
  css_class = ""
 +++
 
-
-### Tools 
-
-- [Workflow Diagrammer](https://workflow.jace.pro)
-- [Code Collab Tool](https://code.jace.pro)
-- [Request Bin](http://bin.jace.pro)
-- [Bootstrap form builder](http://bootsnipp.com/forms)
-- [Scoped ATF Tests](https://atf.jace.com/)
-- [Scoped Dev Toolbox](http://devtoolbox.jace.pro/)
-- [Alt. Activity Formatter](https://osaf.jace.pro/)
-
-### Community
-
-- [StackOverflow](https://stackoverflow.com/questions/tagged/servicenow)
-- [r/servicenow](https://reddit.com/r/servicenow)
-- [Developer Meetups](https://www.meetup.com/pro/servicenowdevprogram/)
-- [Discord](https://discord.gg/QaMwnGd)
-- [Slack](https://sndevs.slack.com/)
-
-### Shared Code and Labs
-
-- [Share](https://developer.servicenow.com/app.do#!/share)
-- [Platform Innovation Widgets](https://sc.service-now.com/snds?state=widget-overview&recent=true)
-- [K18 Lab Guides](https://developer.servicenow.com/app.do#!/event/knowledge18)
-- [K18 CreatorCon Lab Guides](https://developer.servicenow.com/app.do#!/event/creatorcon18)
-- [K19 Labs and CCWs](https://developer.servicenow.com/app.do#!/event/knowledge19)
-
-### Documentation
-
-- [developer.servicenow.com](https://developer.servicenow.com/app.do#!/api_doc)
-- [docs.servicenow.com](https://docs.servicenow.com/bundle/london-application-development/page/build/applications/concept/api-javascript.html)
-- [Style Guide What](http://styleguide.servicenow.com/)
-- [Style Guide How](https://hi.service-now.com/styles/heisenberg/styleguide/docs/index.html)
-- [Retina Icons](https://hi.service-now.com/styles/retina_icons/retina_icons.html)
-- [Angular 1.5.x](https://code.angularjs.org/1.5.3/docs/api)
-- [Bootstrap 3.3](https://getbootstrap.com/docs/3.3/components/)
-- [UI Bootstrap](https://angular-ui.github.io/bootstrap/)
-- [Version Tracker](https://sndocs.jace.pro)
-- [My Docs](https://sn.jace.pro/)
-- [Properties](https://sn.jace.pro/properties)
-- [Learning Site](https://nowlearning.service-now.com/lxp)
+<div class="row">
+  <div class="col-md-6">
+    <h3>Tools</h3>
+    <ul>
+      <li><a href="http://bootsnipp.com/forms" target="_blank">Bootstrap form builder</a></li>
+      <li><a href="https://workflow.jace.pro" target="_blank">Workflow Diagrammer</a></li>
+      <li><a href="https://code.jace.pro" target="_blank">Code Collab Tool</a></li>
+      <li><a href="http://bin.jace.pro" target="_blank">Request Bin</a></li>
+      <li><a href="https://atf.jace.com/" target="_blank">Scoped ATF Tests</a></li>
+      <li><a href="http://devtoolbox.jace.pro/" target="_blank">Scoped Dev Toolbox</a></li>
+      <li><a href="https://osaf.jace.pro/" target="_blank">Alt. Activity Formatter</a></li>
+    </ul>
+    <h3>Shared Code and Labs</h3>
+    <ul>
+      <li><a href="https://developer.servicenow.com/app.do#!/share" target="_blank">Share</a></li>
+      <li><a href="https://sc.service-now.com/snds?state=widget-overview&recent=true" target="_blank">Platform Innovation Widgets</a></li>
+      <li><a href="https://developer.servicenow.com/app.do#!/event/knowledge18" target="_blank">K18 Lab Guides</a></li>
+      <li><a href="https://developer.servicenow.com/app.do#!/event/creatorcon18" target="_blank">K18 CreatorCon Lab Guides</a></li>
+      <li><a href="https://developer.servicenow.com/app.do#!/event/knowledge19" target="_blank">K19 Labs and CCWs</a></li>
+    </ul>
+  </div>
+  <div class="col-md-6">
+    <h3>Community</h3>
+    <ul>
+      <li><a href="https://stackoverflow.com/questions/tagged/servicenow" target="_blank">StackOverflow</a></li>
+      <li><a href="https://reddit.com/r/servicenow" target="_blank">r/servicenow</a></li>
+      <li><a href="https://www.meetup.com/pro/servicenowdevprogram/" target="_blank">Developer Meetups</a></li>
+      <li><a href="https://discord.gg/QaMwnGd" target="_blank">Discord</a></li>
+      <li><a href="https://sndevs.slack.com/" target="_blank">Slack</a></li>
+    </ul>
+    <h3>Documentation</h3>
+    <ul>
+      <li><a href="https://developer.servicenow.com/app.do#!/api_doc" target="_blank">developer.servicenow.com</a></li>
+      <li><a href="https://docs.servicenow.com/bundle/london-application-development/page/build/applications/concept/api-javascript.html" target="_blank">docs.servicenow.com</a></li>
+      <li><a href="http://styleguide.servicenow.com/" target="_blank">Style Guide What</a></li>
+      <li><a href="https://hi.service-now.com/styles/heisenberg/styleguide/docs/index.html" target="_blank">Style Guide How</a></li>
+      <li><a href="https://hi.service-now.com/styles/retina_icons/retina_icons.html" target="_blank">Retina Icons</a></li>
+      <li><a href="https://code.angularjs.org/1.5.3/docs/api" target="_blank">Angular 1.5.x</a></li>
+      <li><a href="https://getbootstrap.com/docs/3.3/components/" target="_blank">Bootstrap 3.3</a></li>
+      <li><a href="https://angular-ui.github.io/bootstrap/" target="_blank">UI Bootstrap</a></li>
+      <li><a href="https://sndocs.jace.pro" target="_blank">Version Tracker</a></li>
+      <li><a href="https://sn.jace.pro/" target="_blank">My Docs</a></li>
+      <li><a href="https://sn.jace.pro/properties" target="_blank">Properties</a></li>
+      <li><a href="https://nowlearning.service-now.com/lxp" target="_blank">Learning Site</a></li>
+    </ul>
+  </div>
+</div>
