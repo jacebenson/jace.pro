@@ -49,22 +49,17 @@ Now that you're here we can quickly test this out.
 
 ## Disallow past dates
 
-Create a UI Policy with the condition, `Date Before Today`.
-Check "Run Scripts" and add this code to "Execute if true"
-
-```js
-function onCondition() {
-	g_form.hideAllFieldMsgs();
-	g_form.showFieldMsg('Date','Date cannot be in the past.');
-}
-```
-
-Add the field `Date` and check the `clear value` checkbox.
+1. Create a UI Policy with the condition, `Date Before Today`.
+   ![UI Policy](./ui-policy.png)
+2. Add a UI Policy action for the field `Date` and check the `clear value` checkbox.
+   ![UI Policy](./ui-policy-action.png)
+3. Update the variable `Date` to have `Example text` of "Date cannot be in the past."
+   ![Variable](./update-variable.png)
 
 Try it out.
 
 <video width="320" height="240" controls>
-  <source src="disallow_past.mp4" type="video/mp4">
+  <source src="disallow_past-v2.mp4" type="video/mp4">
 </video>
 
 Now that you've seen it, it should be pretty clear how to apply this to a number of different situations.  I just wanted to share as this is a great way for me to remember.
