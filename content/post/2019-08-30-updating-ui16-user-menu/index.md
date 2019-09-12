@@ -34,9 +34,7 @@ customize the sections of the user preferences?  Here's one way.
 So it seems ServiceNow is built on jelly, and if you know the names of the 
 macros and ui pages you can overwrite them.  So I was able to find the name 
 of the macro.  How?  That's a day for another post.  I'll just go over the
-`concourse_user_menu` today.  Below this image I pasted the code.
-
-![](./2019-08-30-updating-ui16-user-menu.png)
+`concourse_user_menu` today.  In the image on top, I pasted the code.
 
 So you want to add something to it.  Make a UI Macro called `concourse_user_menu`
 with the following xml.  I added a link to DuckDuckGo.  But you can see how

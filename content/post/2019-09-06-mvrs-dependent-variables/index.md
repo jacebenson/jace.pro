@@ -18,7 +18,7 @@ draft: false
 image:
   caption: "MVRS Dependent Variables"
   focal_point: "Top"
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
