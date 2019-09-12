@@ -34,7 +34,7 @@ links:
    icon: 
 
 
-url_code: ""
+url_code: "https://github.com/jacebenson/sndocs"
 url_pdf: ""
 url_slides: ""
 url_video: ""

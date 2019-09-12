@@ -5,6 +5,8 @@ date: '2019-07-21'
 layout: post
 title: 'Quick Guide: Madrid'
 authors: ["jace"]
+
+projects: ['sn-version-tracker']
 ---
 
 Here's my take of whats new with Madrid

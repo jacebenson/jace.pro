@@ -9,6 +9,7 @@ tags:
 - versions
 title: 'Quick Guide: New York'
 authors: ["jace"]
+projects: ['sn-version-tracker']
 ---
 
 Here's my take of whats new with New York
