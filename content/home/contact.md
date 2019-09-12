@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 130  # Order that this section will appear.
 
-title = "Contact"
+title = "Contact me"
 subtitle = ""
 
 # Automatically link email and phone?
@@ -16,5 +16,13 @@ autolink = true
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
 email_form = 2
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1" # not respected
+
+[design.background]
+  #gradient_start = "DarkGreen"
+  #gradient_end = "ForestGreen"
 +++
 
