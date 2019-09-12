@@ -53,7 +53,7 @@ image:
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides: 
 
-url_code:
+url_code: "https://github.com/jacebenson/mn-snug-feb-2019.git"
 url_pdf:
 url_video:
 
