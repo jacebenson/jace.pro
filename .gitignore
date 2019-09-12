@@ -4,9 +4,11 @@
 .DS_Store
 ### Hugo ###
 # Generated files by hugo
-/public/
+/public/*
+!public/_redirects
 /resources/_gen/
 
+!/public/_redirects
 # Executable may be added to repository
 hugo.exe
 hugo.darwin
