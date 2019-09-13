@@ -189,7 +189,7 @@ sharing = true
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
   [search.algolia]
-    app_id = ""
-    api_key = ""
-    index_name = ""
-    show_logo = false
+    app_id = "Q6ACD3L390"
+    api_key = "79d3c022a12882ebc26052a98a499232"
+    index_name = "blog.jacebenson.com"
+    show_logo = true
