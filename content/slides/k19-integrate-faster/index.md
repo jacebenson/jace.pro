@@ -23,7 +23,7 @@ slides:
 
 ---
 
-## Why: Intregrations is a big part of what we do.  
+## Why: Integrations are a big part of what we do.  
 
 <p>If we follow a few simple steps it can save us a lot of time.</p>
 
