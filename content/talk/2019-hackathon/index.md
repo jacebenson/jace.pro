@@ -66,11 +66,11 @@ projects: ['2019-hacktoberfest']
 ---
 This is a different type of event. Bring your laptop and ideas. Any opensource project that relates in anyway to ServiceNow is what we're looking for. Lets all hack on something collectively.
 
-- Hacktoberfest details: https://hacktoberfest.digitalocean.com/
-- Meetup RSVP: https://www.meetup.com/Minneapolis-ServiceNow-Developer-Meetup/events/261674348/
+- [Hacktoberfest details](https://hacktoberfest.digitalocean.com/)
+- [Meetup RSVP](https://www.meetup.com/Minneapolis-ServiceNow-Developer-Meetup/events/261674348/)
 
-- Hackathon Ideas: https://docs.google.com/spreadsheets/d/1OBKZ0Y-E4jBsjCpZcfBKKd0KWc6dyNGiZ_Xhkg4j6mc/edit?usp=sharing
-- Hackathon Idea form: https://docs.google.com/forms/d/e/1FAIpQLScuETH1NqC2RO3FkD8_OFNvgMHa1-B2R7AnQ4zoeoun1S7Z2g/viewform
+- [Hackathon Ideas](https://docs.google.com/spreadsheets/d/1OBKZ0Y-E4jBsjCpZcfBKKd0KWc6dyNGiZ_Xhkg4j6mc/edit?usp=sharing)
+- [Hackathon Idea form](https://docs.google.com/forms/d/e/1FAIpQLScuETH1NqC2RO3FkD8_OFNvgMHa1-B2R7AnQ4zoeoun1S7Z2g/viewform)
 
 ## Agenda
 
