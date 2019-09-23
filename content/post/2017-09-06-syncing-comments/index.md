@@ -40,7 +40,7 @@ Steps
 //Insert: false
 //Author: 'jace'
 //Update:true
-(function executeRule(current, previous /-null when async-/) {
+(function executeRule(current, previous /*null when async*/) {
     try{
         var sc_req_item = new GlideRecord('sc_req_item');
         if(sc_req_item.get(current.request_item)){
@@ -72,7 +72,7 @@ Steps
 //Insert: false
 //Author: 'jace'
 //Update:true
-(function executeRule(current, previous /-null when async-/) {
+(function executeRule(current, previous /*null when async*/) {
     try{
         var sc_task = new GlideRecord('sc_task');
         sc_task.addQuery('request_item', current.sys_id);
