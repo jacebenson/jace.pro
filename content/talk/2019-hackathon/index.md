@@ -4,7 +4,7 @@
 title: "2019 Hackathon"
 event: "2019 Hackathon"
 event_url: "https://www.meetup.com/Minneapolis-ServiceNow-Developer-Meetup/events/261674348/"
-location: TBD
+location: Mattersight, 7700 France Ave S \# 210, Minneapolis, MN
 summary: This is a different type of event. Bring your laptop and ideas. Any opensource project that relates in anyway to ServiceNow is what we're looking for. Lets all hack on something collectively.
 abstract:
 
