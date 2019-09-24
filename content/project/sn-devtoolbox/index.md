@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "SN DevToolBox"
-summary: ""
+summary: "A catch all for other SN stuff"
 authors: []
 tags: []
 categories: []
@@ -21,13 +21,13 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: Website
-  url: https://devtoolbox.jace.pro/
-  icon_pack: fas
-  icon: 
+#links:
+#- name: Website
+#  url: https://devtoolbox.jace.pro/
+#  icon_pack: fas
+#  icon: 
 
-url_code: "https://github.com/jacebenson/devtoolbox"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -39,43 +39,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-# Features
-
-- Rewrite Journal content
-- Variable Helper
-- Add Data to Table
-- Create Module from this Query
-- GlideRecord Script - Background Script
-- GlideRecord Script - Preview
-- "Email Scripts" Related List
-- "Set Name from Question" Tool
-- "Set Value from Label" Tool
-- "Set Value from Text" Tool
-- "Show Contents of g_scratchpad" Tool
-- "Show Schema Map" Tools
-
-# Rewrite Journal Content
-
-This adds a UI Action for admins to replace text on `task` for users with the `admin` role. This is what the feature looks like in action;
-![Animation of rewriting journal content](./rewrite-journal-content.gif)
-
-# Variable Helper
-
-```js
-//example mail script
-(function runMailScript(current, template, email, email_action, event) {
-  template.print("");
-  template.print("Additional details:<br />");
-  printVars();
-  function printVars(){
-    var vh = new x_8821_glide_utils.variableHelper();
-    var vars = vh.getVariables(current);
-    for (var i = 0; i < vars.length; i++) {
-      template.space(6);
-      template.print(" " + "<b>" + vars[i].label + ": " + "</b>");
-      template.print(vars[i].value + "\n" + "<br/>");
-    }
-  }
-})(current, template, email, email_action, event); 
-```
