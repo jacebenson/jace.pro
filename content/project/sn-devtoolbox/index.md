@@ -9,7 +9,7 @@ categories: []
 date: 2019-09-12T01:29:04-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://devtoolbox.jace.pro/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
