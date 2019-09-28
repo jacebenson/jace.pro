@@ -1,6 +1,6 @@
 ---
-title: "Projects are better than Certificates everyday"
-subtitle: ""
+title: "Projects are better than Certificates"
+subtitle: "Every. Single. Day."
 summary: ""
 authors: ['jace']
 tags: []
