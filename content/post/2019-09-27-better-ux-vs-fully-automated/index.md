@@ -50,7 +50,7 @@ might seem like a simple item, but lets consider the kinds of questions on this 
 
 Now of the 7K items that I can see in our system 80% are to add a user.  If we had only made this item 
 to add users, 8 out of 10 requests we could have avoided that question.  Additionally, asking "Why is 
-access needed is only filled out 1/2 the time and normally doesn't make any difference on the request.  
+access needed" is only filled out 1/2 the time and normally doesn't make any difference on the request.  
 
 What does this form look like when it's simplified?
 
