@@ -45,7 +45,7 @@ what is entailed in getting, and maintaining the certificate.  They are not chea
 
 Let's follow one of my... Twitter threads;
 
-<a class="twitter-timeline" href="https://twitter.com/jacebenson/timelines/1177817203917430784?ref_src=twsrc%5Etfw">Servicenow Certifications - Curated tweets by jacebenson</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-theme="dark" href="https://twitter.com/jacebenson/timelines/1177817203917430784?ref_src=twsrc%5Etfw">SN Certs Sept 14 - Curated tweets by jacebenson</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Let me just say this one more time.  If I were hiring, and as the top survey had shown, showing results is better than a certificate any day.  I'd suggest creating something instead of getting certified.  If, you have to get certified, just realize it's likely not what you think it is.  
 
