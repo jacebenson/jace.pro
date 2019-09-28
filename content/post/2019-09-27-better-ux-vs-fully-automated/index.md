@@ -26,6 +26,10 @@ image:
 projects: []
 ---
 
+I posted a survey on Twitter a few weeks ago;
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What&#39;s better? Fully Automated with many questions, or nearly automated process with very simple inputs? <a href="https://twitter.com/hashtag/ServiceNowDev?src=hash&amp;ref_src=twsrc%5Etfw">#ServiceNowDev</a> <a href="https://twitter.com/hashtag/ServiceNow?src=hash&amp;ref_src=twsrc%5Etfw">#ServiceNow</a> <a href="https://twitter.com/hashtag/Survey?src=hash&amp;ref_src=twsrc%5Etfw">#Survey</a> <br>One means, make it and forget, the other means a better user experience.</p>&mdash; Jace Benson 👨‍💻⚙️ (@jacebenson) <a href="https://twitter.com/jacebenson/status/1174684663861956609?ref_src=twsrc%5Etfw">September 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Once I came to this realization that User Experience(UX) is literally more imporant then getting
 all the details from an end user, it literally took me three days to sort it interally.
 
