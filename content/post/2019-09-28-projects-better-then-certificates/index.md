@@ -1,5 +1,5 @@
 ---
-title: "Projects > Certificates everyday"
+title: "Projects are better than Certificates everyday"
 subtitle: ""
 summary: ""
 authors: ['jace']
