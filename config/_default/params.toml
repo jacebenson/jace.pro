@@ -168,7 +168,8 @@ sharing = true
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 1
+  #   3: Utterances (https://utteranc.es/)
+  engine = 3
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
@@ -177,6 +178,12 @@ sharing = true
   [comments.disqus]
     shortname = "gggr"  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
+
+  [comments.utterances]
+    repo = "jacebenson/jace.pro" # repo where comments will live
+    issueterm = "pathname" # how to match comments to post
+    label = "comment" #label the issues will have
+    theme = "github-dark" #github theme they will follow
 
 # Search.
 [search]
