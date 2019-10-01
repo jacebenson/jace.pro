@@ -67,3 +67,5 @@ Ha, I was even able to make a preloaded form with some text for you, but you hav
 to already be logged in.
 
 [Open a Hi ticket](https://hi.service-now.com/hisp?id=cssp_irp&description=When%20will%20form%20annoations%20be%20supported%20on%20Service%20Portal%20and%20Agent%20Workspace%3F)
+
+Further Reading: [Community post from 2016 by mdobner](https://community.servicenow.com/community?id=community_question&sys_id=231ccf25db9cdbc01dcaf3231f9619d9)
