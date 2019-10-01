@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+First, I have to say, thank you @paige for making me aware.  I really appreciate you and this info. 
+
 [Form annotations](https://docs.servicenow.com/bundle/newyork-platform-administration/page/administer/form-administration/concept/c_FormAnnotation.html)
 can be really helpful and powerful.  You can use them help users enter the 
 right information and users can turn them off when they feel comforatable.  
