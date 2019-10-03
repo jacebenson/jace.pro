@@ -12,7 +12,6 @@ Attendees will learn how to;<br/>
 <br/>
 • Test portal pages against existing ATF tests with newly improved to Custom UI testing capability<br/>
 • Easily check if your Service Portal pages can be accurately tested by ATF and if not, learn how to make the necessary updates to ensure accurate tests<br/>
-<br/>
 • Use parameterized testing to quickly improve the coverage and efficiency of your ATF tests on the Service Portal"
 
 # Talk start and end times.
@@ -73,7 +72,8 @@ slides: "k19-sp-atf"
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-About this Event
+
+## About this Event
 Do you work on the ServiceNow Platform? Then this event is for you!
 
 We invite all of our local customers to get their developers and admins in the same room to participate in hands-on lab activities, conversations around best practices, sharing of lessons learned, and more!
