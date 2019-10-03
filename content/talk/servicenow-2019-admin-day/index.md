@@ -45,10 +45,10 @@ links:
   icon_pack: fab
   icon: 
 
-#- name: Signup
-#  url: "https://www.eventbrite.ca/e/sys-admin-day-tickets-69446746087"
-#  icon_pack: fab
-#  icon: 
+- name: Signup
+  url: "https://www.eventbrite.ca/e/sys-admin-day-tickets-69446746087"
+  icon_pack: fab
+  icon: 
 
 
 # Optional filename of your slides within your talk's folder or a URL.
