@@ -3,7 +3,7 @@
 
 title: "Servicenow System Administrator Day"
 event: "Servicenow System Administrator Day"
-#event_url: "https://www.eventbrite.ca/e/sys-admin-day-tickets-69446746087"
+event_url: "https://www.eventbrite.ca/e/sys-admin-day-tickets-69446746087"
 location: 1315 Tyler Street Northeast, Minneapolis, MN 55413, Bauhaus Brew Labs
 summary: "Become a master in Automated Test Framework (ATF) for Service Portal by learning how to use the new and cutting-edge functionality recently added to the platform."
 abstract: "Become a master in Automated Test Framework (ATF) for Service Portal by learning how to use the new and cutting-edge functionality recently added to the platform.<br/>
@@ -73,3 +73,18 @@ slides: "k19-sp-atf"
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+About this Event
+Do you work on the ServiceNow Platform? Then this event is for you!
+
+We invite all of our local customers to get their developers and admins in the same room to participate in hands-on lab activities, conversations around best practices, sharing of lessons learned, and more!
+
+* Information Share
+* Hands-On Lab
+* System Admin Panel
+* Customer Presentations (Awesome prizes will be awarded!)
+* Happy Hour 3:30-5:00PM
+* Have you done something cool this year? It is time to show it off!
+
+We will be asking for volunteers to share their cool custom application, configuration, workflow, or something else, and giving prizes to the best of the bunch!
+
+Thanks for all that you do! We can't wait to see you!
