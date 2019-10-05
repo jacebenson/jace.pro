@@ -44,7 +44,7 @@ workflow.
 
 Here I have a diagram showing a timer added after the Begin activity.
 This timer returns the user's session so it seems immediately which is
-great for user experience. However, it makes your workflow dependent on
+great for user experience. But, it makes your workflow dependent on
 the events queue. If that goes down, this is the least of your worries.
 
 ```mermaid
@@ -63,7 +63,7 @@ variable/field values of "Standard" to "Mechanical" the workflow
 activity won't know to use the new value until you check it out, then
 recreate the switch, and check it back in. Because of this, I use If
 activities. It is more activities but, because the If activities are
-scripted, they won't break when you modify the variable. If activities
+scripted, they won't break when you change the variable. If activities
 used to allow you to create any number of "result" boxes below, one of
 them being an "else" but now If's only allow yes and no for results.
 Below is an example Switch Workflow and it in the If pattern.
@@ -138,9 +138,9 @@ graph LR;
   R1-->E0;
 ```
 
-Last but not least, because I think you should avoid checking out
+Last but not least, because you should avoid checking out
 workflows, always use events in workflows if you need a workflow to
-generate a notification. There are some additional steps to take to do
+generate a notification. There are some extra steps to take to do
 this but it's well worth it because now you can use the notification
 records how they are for the rest of the system, you can generate the
 notification without the workflow by running the following in a business
@@ -149,7 +149,7 @@ rule or any server-side script;
 `gs.eventQueue('custom.notification', current, 'parm1', 'parm2');`
 
 Now if you were using variables and are not sure how to pass more than
-two parameters, don't fear. Just make your first parm a `JSON.stringify`
+two parameters, don't fear. Make your first parm a `JSON.stringify`
 object. Sure you'll need to `JSON.parse` the object in the notification,
 but now you can pass everything in a way not dependent on the workflow.
 

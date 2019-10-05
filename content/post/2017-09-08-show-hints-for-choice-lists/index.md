@@ -10,10 +10,10 @@ draft: false
 projects: []
 ---
 
-The other day I was asked to show hints in a more obvious way on a form.
-This was my suggestion. Using the hint field on the sys\_choice table.
-Just have a client script onChange check for the value, if one is set,
-clear the message for this field, and show the newly found message.
+A stakeholder asked me to show hints in a more obvious way on a form.
+This was my suggestion. Using the hint field on the `sys_choice` table.
+Have a client script onChange check for the value, if one is set,
+clear the message for this field, and show the found message.
 
 ```js
 //script include global.choiceUtil

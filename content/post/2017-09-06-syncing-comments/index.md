@@ -13,12 +13,10 @@ featured: false
 draft: false
 ---
 
-To me, this is a terrible requirement to fulfill. This is generally to
-try to avoid licensing when Managers want their staff to communicate to
-the end users via the catalog task updates. I think the best way to
-handle this is to have those fulfillers goto the requested item and
-communicate that way as that was how it was intended. However, you may
-not have that option because of one reason or another.
+To me, this is a terrible request to fulfill. The best 
+way to handle this is to have fulfillers goto the 
+requested item and communicate there. You may not have 
+that option because of one reason or another.
 
 Steps
 

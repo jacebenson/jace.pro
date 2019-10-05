@@ -14,6 +14,7 @@ projects: []
 
 Rules to follow for emails in Servicenow.
 
+
 ## Do not use the Servicenow provided email address
 
 -   [Always set up your own
@@ -22,22 +23,20 @@ Rules to follow for emails in Servicenow.
     it, at least now you can get rid of it or change it accordingly.
 -   Changing the "From" on notifications can't be set without setting
     this up.
--   This puts all the content submitted on your own servers, not
-    Servicenow's and that makes it much easier to deal with if any legal
-    trouble should arise, you have the source and control it.
+-   This puts all the content submitted on your own servers where you 
+    can control it.  Otherwise they are all on ServiceNow's servers 
+    where you don't have the same type of control.
 
 ## Events or Workflow Activities? Always Events and here's a list of reasons why
 
-1.  Allows the triggering of the notification from any server side
-    script by just triggering the event.
-2.  Faster prototyping of the notification because you won't need to
-    complete the 28 step request to get the last email, you can just
+1.  Ability to trigger the notification from any server side script.
+2.  Faster prototyping of the notification.  Why?  Because you can 
     trigger the notification on sysevent.
 3.  Events can also trigger Script Actions which allow you to run server
     scripts.
-4.  Workflow notifications, in the past at least, haven't been the same
-    as notifications you can define outside of workflows.
-5.  Workflow notifications require you to checkout the workflow to
+4.  Workflow notifications are more limited in options than the same 
+    outside of workflow.
+5.  Workflow notifications need you to checkout the workflow to 
     update the notification.
 
 ## Only send email notifications if you have to
