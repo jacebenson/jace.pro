@@ -48,7 +48,7 @@ subtitle = ""
 +++
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-4">
     <h3>Tools</h3>
     <ul>
       <li><a href="http://bootsnipp.com/forms" target="_blank">Bootstrap form builder</a></li>
@@ -62,13 +62,13 @@ subtitle = ""
     <h3>Shared Code and Labs</h3>
     <ul>
       <li><a href="https://developer.servicenow.com/app.do#!/share" target="_blank">Share</a></li>
-      <li><a href="https://sc.service-now.com/snds?state=widget-overview&recent=true" target="_blank">Platform Innovation Widgets</a></li>
+      <li><a href="https://sc.service-now.com/snds?state=widget-overview&recent=true" target="_blank">Innovation Widgets</a></li>
       <li><a href="https://developer.servicenow.com/app.do#!/event/knowledge18" target="_blank">K18 Lab Guides</a></li>
       <li><a href="https://developer.servicenow.com/app.do#!/event/creatorcon18" target="_blank">K18 CreatorCon Lab Guides</a></li>
       <li><a href="https://developer.servicenow.com/app.do#!/event/knowledge19" target="_blank">K19 Labs and CCWs</a></li>
     </ul>
   </div>
-  <div class="col-md-6">
+  <div class="col-md-4">
     <h3>Community</h3>
     <ul>
       <li><a href="https://stackoverflow.com/questions/tagged/servicenow" target="_blank">StackOverflow</a></li>
@@ -91,6 +91,25 @@ subtitle = ""
       <li><a href="https://sn.jace.pro/" target="_blank">My Docs</a></li>
       <li><a href="https://sn.jace.pro/properties" target="_blank">Properties</a></li>
       <li><a href="https://nowlearning.service-now.com/lxp" target="_blank">Learning Site</a></li>
+    </ul>
+  </div>
+    <div class="col-md-4">
+    <h3>Blogs</h3>
+    <ul>
+      <li><a href="https://www.acorio.com/blog/" target="_blank">Acrorio</a></li>
+      <li><a href="http://anerrantprogrammer.com" target="_blank">An Errant Programmer</a></li>
+      <li><a href="http://www.cloudminus89.com/" target="_blank">CloudMinus89</a></li>
+      <li><a href="https://codecreative.io" target="_blank">CodeCreative.io</a></li>
+      <li><a href="https://garrettnow.com/" target="_blank">GarrettNow</a></li>
+      <li><a href="http://www.john-james-andersen.com/" target="_blank">John Andersen's Blog</a></li>
+      <li><a href="http://www.servicenowblogs.com" target="_blank">ServiceNowBlogs</a></li>
+      <li><a href="https://servicenowgems.com" target="_blank">ServiceNowGems</a></li>
+      <li><a href="https://servicenowthink.wordpress.com" target="_blank">ServiceNowThink</a></li>
+      <li><a href="https://sncdevelopment.com/" target="_blank">SNCDevelopment</a></li>
+      <li><a href="http://www.snc-blog.com/" target="_blank">SNC-Blog</a></li>
+      <li><a href="https://snprotips.com" target="_blank">SNProTips</a></li>
+      <li><a href="https://www.servicenowelite.com/blog" target="_blank">ServiceNowElite</a></li>
+      <li><a href="https://github.com/jacebenson/jace.pro/issues/new?title=Add%20a%20new%20blog" target="_blank">Add one here!</a></li>
     </ul>
   </div>
 </div>
