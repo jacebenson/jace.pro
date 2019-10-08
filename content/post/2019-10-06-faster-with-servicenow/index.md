@@ -71,8 +71,8 @@ You don't have to go into each record to change the data.
 
 ## Control the data you see with the cog
 
-smash the cog to decide what columns you will see
-experiment with this as you can always reset
+- smash the cog to decide what columns you will see
+- experiment with this as you can always reset
 
 # Accessing your stuff fast
 
