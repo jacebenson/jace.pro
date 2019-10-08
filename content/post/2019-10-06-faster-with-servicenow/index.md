@@ -33,7 +33,7 @@ Source: [Youtube](https://www.youtube.com/watch?v=UvwA4_9ajX8)
 
 I feel like this should be searchable and isn't today.  So I am making a post to share that content.
 
-There's a few things people should now to going fast.  All the shortcuts, and accessing your stuff.
+There's a few things people should know to going fast.  All the shortcuts, and accessing your stuff.
 
 # List Management
 
