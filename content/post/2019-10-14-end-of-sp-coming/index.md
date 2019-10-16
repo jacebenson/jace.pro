@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Service Portal is going the way of the Dodo by Orlando"
+title: "Service Portal is going the way of the mammoth"
 subtitle: ""
 summary: ""
 authors: ["jace"]
@@ -18,7 +18,7 @@ draft: false
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-That's my prediction.  Service Portal will no longer get updates by the Orlando release. 
+That's my prediction.  Service Portal will no longer get updates by the Orlando release.  It will be like Workflow, Execution plans, Homepages, and the Content Management System.  It will still *work* but will not get future development.
 
 I know it's only been out since [Helsinki](https://docs.servicenow.com/bundle/helsinki-release-notes/page/release-notes/servicenow-platform/r_ServicePortalRN.html)
 and that means since April 2016 which is ~4 years. But after you look at these findings, you'll agree.
