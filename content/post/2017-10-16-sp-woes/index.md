@@ -56,7 +56,7 @@ for re-usable utility functions.
 
 ### ScriptLoader
 
-Another way would be to add a [ScriptLoader](/scriptloader) to the
+Another way would be to add a [ScriptLoader](https://sn.jace.pro/docs/scripting/scriptloader/) to the
 client script.
 
 ## UI Type for Catalog Client Scripts and Catalog UI Policies
