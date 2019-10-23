@@ -15,7 +15,7 @@ Check these things.
 1.  On the notification, verify the notification table is correct.
 2.  On the notification, verify the conditions are met.
     [KB0528655](https://hi.service-now.com/kb_view.do?sysparm_article=KB0528655)
-3.  On the notification, verify the "Send to event creator" is correct.
+3.  On the notification, verify the "Send to event creator" is correct. This doesn't care how the event creator is included if scripted, parm1 or 2 it will include if checked and exclude if unchecked. 
 4.  On the notification, verify the "Send To" or "Send to Event Parm1"
     or "Send to Event Parm2".
 5.  On the notification, verify there is something in the Body of the
