@@ -44,6 +44,7 @@ I'm going to compare the following file syncr's
 | ServiceNow® Extension for VS Code | [VS Code Installer](https://marketplace.visualstudio.com/items?itemName=ServiceNow.now-vscode) | NA |
 
 I'm not going to look at these as they either haven't been updated or require software I'm not going to stand up.  That is to say I respect the work done on these and these may have helped others make their tools, so to all of you who wrote these, good job. I do follow your work.
+
 - [DynamicDan's Filesync](https://github.com/dynamicdan/sn-filesync)
 - [cern-snow's Codesync](https://github.com/cern-snow/codesync)
 - [theconnectiv's Now-sync](https://github.com/theconnectiv/now-sync)
