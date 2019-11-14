@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Comparing VS Code Extensions"
-subtitle: "Comparing Extensions by Sal Costa, Nate Andersen and ServiceNow"
-summary: "Comparing Extensions by Sal Costa, Nate Andersen and ServiceNow"
+subtitle: "Comparing Extensions by Sal Costa, Nate Anderson and ServiceNow"
+summary: "Comparing Extensions by Sal Costa, Nate Anderson and ServiceNow"
 authors: ["jace"]
 tags: []
 categories: []
@@ -55,7 +55,7 @@ I'm not going to look at these as they either haven't been updated or require so
 
 ## DynamicDan's Filesync
 
-Many years ago I worked at Fruition Partners and was aware of the Filesync project near the time of my departure.  I never used it while there but did try it out after Dynamic Dan started maintaining it.  Originally written by [John Caruso](https://github.com/johncaruso) [here https://github.com/fruition-partners/filesync](https://github.com/fruition-partners/filesync), then forked and maintained by Dynamic Dan.  This is great, it has a lot of room for configuration and wasn't tied to any editor.  Since Dynamic Dan's fork has existed it's been forked 54 times, and stared 66 times.
+Many years ago I worked at Fruition Partners and was aware of the Filesync project near the time of my departure.  I never used it while there but did try it out after Dynamic Dan started maintaining it.  Originally written by [John Caruso](https://github.com/johncaruso) here on [github.com/fruition-partners/filesync](https://github.com/fruition-partners/filesync), then [forked and maintained by Dynamic Dan](https://github.com/dynamicdan/sn-filesync).  This is great, it has a lot of room for configuration and wasn't tied to any editor.  Since Dynamic Dan's fork has existed it's been forked 54 times, and stared 66 times.
 
 This tool is not dependant on any text editor like the rest but I believe this was and still is a source of inspiration for all of these tools.  Because this tool has no required editor, it in my opinion is going to be more available to more systems and users likes.
 
