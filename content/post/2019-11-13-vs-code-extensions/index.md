@@ -118,11 +118,15 @@ The good;
 - Link to open file in browser
 - Can set your update set (Must be a new undocumented api)
 - Can set your scope
+- Works with Scoped applications
 
 The bad;
 
-- Table configurations not modifiable
-- Only works for Scoped Applications
+- ~~Table configurations not modifiable~~
+- Table configurations do not allow you to modify preconfigured tables e.g. UI Pages, Business Rules
+- ~~Only works for Scoped Applications~~
+- Can work with global records if you know the plugin that includes the record in question
+- Seems to have authentication issues (as seen in video, see comments for updates)
 
 <video width="320" height="240" controls>
   <source src="now-off.mp4" type="video/mp4">
@@ -132,16 +136,27 @@ The bad;
 
 Lets look at it in a table format
 
+Legend;\
+✅ = Yes\
+❌ = No\
+😕 = Sort of
+
 | Feature                            | Servicenow Sync | S.N.I.C.H. | ServiceNow Official |
 | ---------------------------------- | --------------- | ---------- | ------------------- |
 | Can Update ServiceNow from VS Code | ✅              | ✅         | ✅                 |
 | Compare file to server             | ✅              | ✅         | ✅                 |
 | Preconfigured Setup                | ❌              | ✅         | ✅                 |
-| Customizable Setup                 | ✅              | ✅         | ❌                 |
+| Customizable Setup                 | ✅              | ✅         | 😕                 |
 | Intellisense                       | ❌              | ✅         | ✅                 |
 | Can set your scope                 | ✅              | ❌         | ✅                 |
 | Can set your update set            | ❌              | ❌         | ✅                 |
 | Can open file in the instance      | ✅              | ❌         | ✅                 |
-| Works with Global                  | ✅              | ✅         | ❌                 |
+| Works with Global                  | ✅              | ✅         | ❌😕               |
 | Works with Scopes                  | ✅              | ✅         | ✅                 |
 | Open Source                        | ✅              | ✅         | ❌                 |
+
+Changelog;\
+
+|Date|Notes|
+|--- |--- |
+| 2019-11-18|Changed "ServiceNow Official" Customizable Setup from No, to Sort of<br/>Changed "ServiceNow Official" Customizable Works with Global from No, to No and Sort of<br/>Changed "ServiceNow Official" The bad to be more clear that table configurations are possible but only if not already configured<br/>Changed "ServiceNow Official" The bad to be more clear that table configurations are possible but only if not already configured<br/>Changed "ServiceNow Official" The good to include "Works with scoped application"<br/>Added "ServiceNow Official" The bad to include "Authentication issues" after following recomendations and docs to remediate issue and they persisted.|
