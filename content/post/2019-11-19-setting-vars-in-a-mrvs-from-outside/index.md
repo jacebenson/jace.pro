@@ -45,17 +45,18 @@ After talking about these options it was really clear that there should be anoth
 This uses user preferences to solve this issue.  On change of the main form's variable, set the preference.  On the MRVS set the defualt value based on that preference.  With no futher ado here's how to test and set this up if you want to see it in action.
 
 1.  Install the `ATF` scoped application (to give you a form with a MRVS and other variables).  We'll be using the MRVS and the `Date` variable.
-2.  On the Test Item, look at the related variable set.  Update the "Question" variable's default value to this script;
-    ```js
+1.  On the Test Item, look at the related variable set.  Update the "Question" variable's default value to this script;
+    
+    ```
     //default value on variable in mvrs
     javascript: (function(){
       var currentUser = gs.getUser(); 
       return currentUser.getPreference('atf.customform.date');
     })()
     ```
-3.  Now we can't set a preference in a client script, but we need to.  So we'll need to create a script include that's client callable.  Here's mine.
 
-    ```js
+1.  Now we can't set a preference in a client script, but we need to.  So we'll need to create a script include that's client callable.  Here's mine.
+    ```
     //script include
     var CatalogMVRSHelper = Class.create();
     CatalogMVRSHelper.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
@@ -72,8 +73,10 @@ This uses user preferences to solve this issue.  On change of the main form's va
       type: 'CatalogMVRSHelper'
     });
     ```
+    
 4.  After that's created we can set the preference with a client script.  Here's that code.
-    ```js
+
+    ```
     function onChange(control, oldValue, newValue, isLoading) {
       if (isLoading || newValue == '') {
         return;
