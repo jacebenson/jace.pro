@@ -75,6 +75,8 @@ You'll notice this doesn't appear to work.  It seems this is as designed 😭.
 
 ![docs_ss.png](docs_ss.png)
 
+**UPDATE:** I posted about using variables from outside the MRVS in the MRVS.  Here's the link: https://jace.pro/post/2019-11-19-setting-vars-in-a-mrvs-from-outside/
+
 Further Reading: 
 
 - [Community Post](https://community.servicenow.com/community?id=community_question&sys_id=9b19bc91dba7bfc0414eeeb5ca96199d)
