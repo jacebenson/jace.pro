@@ -166,7 +166,7 @@ Changelog;\
 
 | Date       | Notes |
 | ---------- | ----- |
-| 2019-11-21 | Can create records from VS Code |
+| 2019-11-21 | Added "Can create records from VS Code" |
 | 2019-11-21 | Added "Allows Basic Auth" |
 | 2019-11-21 | Added "Allows OAuth" |
 | 2019-11-21 | Added "Can execute code on server" |
