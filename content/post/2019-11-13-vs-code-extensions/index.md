@@ -80,9 +80,10 @@ The bad;
 - No Intellisense
 - No way to download all files from a scope
 - No way to set your update set (No api made available)
+- Works in your current Scope/Update set that is associated to user
 
 <video width="320" height="240" controls>
-  <source src="sal-vs-code.mp4" type="video/mp4">
+  <source src="sal-vs-code-v2.mp4" type="video/mp4">
 </video>
 
 ## IntegrateNate's S.N.I.C.H.
@@ -100,9 +101,10 @@ The bad;
 - No link to the file on server
 - No way to set your scope
 - No way to set your update set (No api made available)
+- Works in your current Scope/Update set that is associated to user
     
 <video width="320" height="240" controls>
-  <source src="nates-snich.mp4" type="video/mp4">
+  <source src="nates-snich-v2.mp4" type="video/mp4">
 </video>
 
 
@@ -115,7 +117,7 @@ The good;
 - Compare file to server
 - Intellisense
 - Run highlighted code in or out of scope
-- Link to open file in browser
+- ~~Link to open file in browser~~
 - Can set your update set (Must be a new undocumented api)
 - Can set your scope
 - Works with Scoped applications
@@ -126,10 +128,10 @@ The bad;
 - Table configurations do not allow you to modify preconfigured tables e.g. UI Pages, Business Rules
 - ~~Only works for Scoped Applications~~
 - Can work with global records if you know the plugin that includes the record in question
-- Seems to have authentication issues (as seen in video, see comments for updates)
+- Has interesting way to configure initially (shown in video)
 
 <video width="320" height="240" controls>
-  <source src="now-off.mp4" type="video/mp4">
+  <source src="now-off-v2.mp4" type="video/mp4">
 </video>
 
 # Summary 
@@ -141,22 +143,38 @@ Legend;\
 ❌ = No\
 😕 = Sort of
 
-| Feature                            | Servicenow Sync | S.N.I.C.H. | ServiceNow Official |
-| ---------------------------------- | --------------- | ---------- | ------------------- |
-| Can Update ServiceNow from VS Code | ✅              | ✅         | ✅                 |
-| Compare file to server             | ✅              | ✅         | ✅                 |
-| Preconfigured Setup                | ❌              | ✅         | ✅                 |
-| Customizable Setup                 | ✅              | ✅         | 😕                 |
-| Intellisense                       | ❌              | ✅         | ✅                 |
-| Can set your scope                 | ✅              | ❌         | ✅                 |
-| Can set your update set            | ❌              | ❌         | ✅                 |
-| Can open file in the instance      | ✅              | ❌         | ✅                 |
-| Works with Global                  | ✅              | ✅         | ❌😕               |
-| Works with Scopes                  | ✅              | ✅         | ✅                 |
-| Open Source                        | ✅              | ✅         | ❌                 |
+| Feature                         | Servicenow Sync | S.N.I.C.H. | ServiceNow Official |
+| ------------------------------- | --------------- | ---------- | ------------------- |
+| Updates ServiceNow from VS Code | ✅              | ✅         | ✅                 |
+| Can create records from VS Code | ❌              | ❌         | ✅                 |
+| Works with proxy                | ✅              | ❌         | ❌                 |
+| Sets your scope                 | ✅              | ❌         | ✅                 |
+| Sets your update set            | ❌              | ❌         | ✅                 |
+| Opens file in the instance      | ✅              | ❌         | ❌                 |
+| Executes code on server         | ✅              | ❌         | ✅                 |
+| Compares file to server         | ✅              | ✅         | ✅                 |
+| Preconfigured Setup             | ❌              | ✅         | ✅                 |
+| Customizable Setup              | ✅              | ✅         | 😕                 |
+| Has Intellisense                | ❌              | ✅         | ✅                 |
+| Works with Global               | ✅              | ✅         | ❌                 |
+| Works with Scopes               | ✅              | ✅         | ✅                 |
+| Allows Basic Auth               | ✅              | ✅         | ✅                 |
+| Allows OAuth                    | ❌              | ✅         | ✅                 |
+| Open Source                     | ✅              | ✅         | ❌                 |
 
 Changelog;\
 
-|Date|Notes|
-|--- |--- |
-| 2019-11-18|Changed "ServiceNow Official" Customizable Setup from No, to Sort of<br/>Changed "ServiceNow Official" Customizable Works with Global from No, to No and Sort of<br/>Changed "ServiceNow Official" The bad to be more clear that table configurations are possible but only if not already configured<br/>Changed "ServiceNow Official" The bad to be more clear that table configurations are possible but only if not already configured<br/>Changed "ServiceNow Official" The good to include "Works with scoped application"<br/>Added "ServiceNow Official" The bad to include "Authentication issues" after following recomendations and docs to remediate issue and they persisted.|
+| Date       | Notes |
+| ---------- | ----- |
+| 2019-11-21 | Can create records from VS Code |
+| 2019-11-21 | Added "Allows Basic Auth" |
+| 2019-11-21 | Added "Allows OAuth" |
+| 2019-11-21 | Added "Can execute code on server" |
+| 2019-11-21 | Changed "ServiceNow Official" video to show all features and how to set it up. |
+| 2019-11-21 | Changed "ServiceNow Official" Can open file in the instance as I just had that wrong. |
+| 2019-11-21 | Changed "ServiceNow Official" Works with Global to No because although global files can be retrieved in scope, it's not simple to do and will be in scope if you change it. |
+| 2019-11-18 | Changed "ServiceNow Official" Customizable Setup from No, to Sort of|
+| 2019-11-18 | Changed "ServiceNow Official" Works with Global from No, to No and Sort of|
+| 2019-11-18 | Changed "ServiceNow Official" The bad to be more clear that table configurations are possible but only if not already configured | 
+| 2019-11-18 | Changed "ServiceNow Official" The good to include "Works with scoped application" |
+| 2019-11-18 | Added "ServiceNow Official" The bad to include "Authentication issues" |
