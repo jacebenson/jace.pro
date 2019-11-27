@@ -150,7 +150,7 @@ Legend;\
 | Works with proxy                | ✅              | ❌         | ❌                 |
 | Sets your scope                 | ✅              | ❌         | ✅                 |
 | Sets your update set            | ❌              | ❌         | ✅                 |
-| Opens file in the instance      | ✅              | ❌         | ❌                 |
+| Opens file in the instance      | ✅              | ❌         | 😕❌               |
 | Executes code on server         | ✅              | ❌         | ✅                 |
 | Compares file to server         | ✅              | ✅         | ✅                 |
 | Preconfigured Setup             | ❌              | ✅         | ✅                 |
@@ -164,17 +164,18 @@ Legend;\
 
 Changelog;\
 
-| Date       | Notes |
-| ---------- | ----- |
-| 2019-11-21 | Added "Can create records from VS Code" |
-| 2019-11-21 | Added "Allows Basic Auth" |
-| 2019-11-21 | Added "Allows OAuth" |
-| 2019-11-21 | Added "Can execute code on server" |
-| 2019-11-21 | Changed "ServiceNow Official" video to show all features and how to set it up. |
-| 2019-11-21 | Changed "ServiceNow Official" Can open file in the instance as I just had that wrong. |
-| 2019-11-21 | Changed "ServiceNow Official" Works with Global to No because although global files can be retrieved in scope, it's not simple to do and will be in scope if you change it. |
-| 2019-11-18 | Changed "ServiceNow Official" Customizable Setup from No, to Sort of|
-| 2019-11-18 | Changed "ServiceNow Official" Works with Global from No, to No and Sort of|
-| 2019-11-18 | Changed "ServiceNow Official" The bad to be more clear that table configurations are possible but only if not already configured | 
-| 2019-11-18 | Changed "ServiceNow Official" The good to include "Works with scoped application" |
-| 2019-11-18 | Added "ServiceNow Official" The bad to include "Authentication issues" |
+Date       | Notes
+---------- | -----
+2019-11-18 | Changed "ServiceNow Official" Customizable Setup from No, to Sort of|
+2019-11-18 | Changed "ServiceNow Official" Works with Global from No, to No and Sort of|
+2019-11-18 | Changed "ServiceNow Official" The bad to be more clear that table configurations are possible but only if not already configured | 
+2019-11-18 | Changed "ServiceNow Official" The good to include "Works with scoped application" |
+2019-11-18 | Added "ServiceNow Official" The bad to include "Authentication issues" |
+2019-11-21 | Added "Can create records from VS Code" |
+2019-11-21 | Added "Allows Basic Auth" |
+2019-11-21 | Added "Allows OAuth" |
+2019-11-21 | Added "Can execute code on server" |
+2019-11-21 | Changed "ServiceNow Official" video to show all features and how to set it up. |
+2019-11-21 | Changed "ServiceNow Official" Can open file in the instance as I just had that wrong. |
+2019-11-21 | Changed "ServiceNow Official" Works with Global to No because although global files can be retrieved in scope, it's not simple to do and will be in scope if you change it. |
+2019-11-27 | Changed "ServiceNow Official" Opens files in instance to Sort of No because some things pull down with a `.now` and those open in the instance
