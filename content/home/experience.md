@@ -28,13 +28,14 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Rewrote how server patching is evaluated from Servicenow
-  * Automated the CSR and KEY file generation for certificates
-  * Worked directly with end users to resolve support issues within ServiceNow
-  * Pointed, accepted, worked and released functionality in 2 week sprints
+  * Automated the SSL Certificate from ServiceNow to Comodo
+  * Wrote tools to help streamline release process (build release notes, gather update sets, etc)
   * Automated the request of thousands of server decoms using Jelly and later AngularJS
   * Automated the access requests for Foreman with REST
-  * Upgraded the instance over multiple patches and versions (Helsinki->Jakarta)
   * Implemented Service Portal
+  * Worked directly with end users to resolve support issues within ServiceNow
+  * Pointed, accepted, worked and released functionality in 2 week sprints
+  * Upgraded the instance over multiple patches and versions starting with Helsinki
 
   """
 
