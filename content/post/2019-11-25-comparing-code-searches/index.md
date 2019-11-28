@@ -37,7 +37,7 @@ Now that I've said my peace about it I'm going to compare all the code searcher'
 
 ## Global Code Search by Rick Marsha 
 
-> A portable search utility that leverages the 'sn_codesearch' application (App Studio) for performing string searches across multiple tables and fields. Based on the OOTB sample page 'CodeSearchExampleUse', but rather than only searching within custom application scopes, this page performs a system-wide search across all scopes, including GLOBAL. 
+> A portable search utility that leverages the 'sn_codesearch' application (App Studio) for performing string searches across multiple tables and fields. Based on the out-of-box sample page 'CodeSearchExampleUse', but rather than only searching within custom application scopes, this page performs a system-wide search across all scopes, including GLOBAL. 
 
 Downloads as of 2019-11-25: 196
 
@@ -61,7 +61,7 @@ This is a very pretty search that uses that `/api/sn_codesearch/` apis. It is in
 
 ## MS CodeSearch by Sebastian Reinmann
 
-> This is a Code Search application based on the sn_codesearch REST API and provides a quick and easy way to lookup code in the entiry servicenow instance.
+> This is a Code Search application based on the sn_codesearch REST API and provides a quick and easy way to lookup code in the entirety ServiceNow instance.
 
 Downloads as of 2019-11-25: 188
 
@@ -78,7 +78,7 @@ Download:
 
 ![](ms-codesearch-1.png)
 
-This is in a scoped app so it can be removed entirely, has a nice UI. A satisfying progress bar, collapsable search results, and syntax highlighted results.
+This is in a scoped app so it can be removed entirely, has a nice UI. A satisfying progress bar, collapsible search results, and syntax highlighted results.
 
 ## FetchCode by Brent Llewellyn
 
@@ -119,7 +119,7 @@ This includes 8 files;
 - 1 service portal (`/code`)
 - 1 scripted rest api
 
-This does the standard search api, but then also does a lookup on the workflow activity to update results for workflow activies that are only active and marking old ones "Inactive"
+This does the standard search api, but then also does a lookup on the workflow activity to update results for workflow activities that are only active and marking old ones "Inactive"
 
 This also has an opt-in feature to tell you about bad code.
 
@@ -156,17 +156,17 @@ Downloads as of 2019-11-25: ♾️
 
 ## Summary
 
-|                             | Global Code Search | MS CodeSearch      | FetchCode          | Code Tools         | Studio Search 
-| --------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------- 
-| Installed OOB               | :no_entry:         | :no_entry:         | :no_entry:         | :no_entry:         | :white_check_mark:
-| Scoped App                  | :no_entry:         | :white_check_mark: | :no_entry:         | :white_check_mark: | :white_check_mark:
-| UI16 navigator links        | :white_check_mark: | :white_check_mark: | :white_check_mark: | :no_entry:         | :no_entry:
-| UI Action to open Search    | :white_check_mark: | :no_entry:         | :no_entry:         | :no_entry:         | :no_entry:
-| Installable from Git        | :no_entry:         | :white_check_mark: | :no_entry:         | :white_check_mark: | :no_entry:
-| Advanced Query function     | :no_entry:         | :no_entry:         | :white_check_mark: | :no_entry:         | :no_entry:
-| Code Analysis               | :no_entry:         | :no_entry:         | :no_entry:         | :white_check_mark: | :no_entry:
-| Searches extra tables       | :no_entry:         | :white_check_mark: | :white_check_mark: | :white_check_mark: | :no_entry:
-| Looks up Active WF activies | :no_entry:         | :no_entry:         | :no_entry:         | :white_check_mark: | :no_entry:
-| Tables used                 | 0                  | 0                  | 5                  | 0                  | 0
+|                               | Global Code Search | MS CodeSearch      | FetchCode          | Code Tools         | Studio Search 
+| ----------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------- 
+| Installed OOB                 | :no_entry:         | :no_entry:         | :no_entry:         | :no_entry:         | :white_check_mark:
+| Scoped App                    | :no_entry:         | :white_check_mark: | :no_entry:         | :white_check_mark: | :white_check_mark:
+| UI16 navigator links          | :white_check_mark: | :white_check_mark: | :white_check_mark: | :no_entry:         | :no_entry:
+| UI Action to open Search      | :white_check_mark: | :no_entry:         | :no_entry:         | :no_entry:         | :no_entry:
+| Install-able from Git          | :no_entry:         | :white_check_mark: | :no_entry:         | :white_check_mark: | :no_entry:
+| Advanced Query function       | :no_entry:         | :no_entry:         | :white_check_mark: | :no_entry:         | :no_entry:
+| Code Analysis                 | :no_entry:         | :no_entry:         | :no_entry:         | :white_check_mark: | :no_entry:
+| Searches extra tables         | :no_entry:         | :white_check_mark: | :white_check_mark: | :white_check_mark: | :no_entry:
+| Looks up Active WF activities | :no_entry:         | :no_entry:         | :no_entry:         | :white_check_mark: | :no_entry:
+| Tables used                   | 0                  | 0                  | 5                  | 0                  | 0
 
 With all this being said, I'd love to combine my efforts into a project with any of the maintainers of the code here.

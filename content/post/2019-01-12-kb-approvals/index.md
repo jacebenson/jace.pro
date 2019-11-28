@@ -7,7 +7,7 @@ authors: ["jace"]
 
 A few days ago Derek was asking about approvals, specifically approvals
 for Knowledge articles and why they don't work out of the box. It's
-weird and here I'll go through it. So it seems Servicenow started to
+weird and here I'll go through it. So it seems ServiceNow started to
 make this work out of the box but just never finished it. Here's the
 list of things they did;
 
@@ -113,4 +113,4 @@ list of things they did;
 
 They made it really close. Just never finished it.
 
-In anycase, thanks Derek for the idea for the post.
+In any case, thanks Derek for the idea for the post.

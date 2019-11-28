@@ -13,7 +13,7 @@ Making a remote table could be less work but as it is, it's better than what was
 
 If you are okay with *read only* data from another system then this is actually pretty good.  
 
-To use this you'll need to create a Table still that will have columns for the columns defined in the script.  So the real benefit is just keeping the data up to date and OUT of servicenow.
+To use this you'll need to create a Table still that will have columns for the columns defined in the script.  So the real benefit is just keeping the data up to date and OUT of ServiceNow.
 
 For this example I'm going to use https://www.alphavantage.co/ to get Stock information.
 
@@ -56,7 +56,7 @@ So here's the steps I'm taking in order (in global)
   - `u_change_percent`     - Floating Point Number
 3. Create a Remote Table Definition(`sys_script_vtable`)
   - This is not as simple as I'd like.  I was hoping to use some simple stock price for the NYSE however, there is not a good source for that in its entirety.
-    So I defaulted it to load 5 stocks and if a search occured, I returned those results.  But pretty much if your data is rate limited, or doesn't allow return of > 5 records, this becomes really painful.
+    So I defaulted it to load 5 stocks and if a search occurred, I returned those results.  But pretty much if your data is rate limited, or doesn't allow return of > 5 records, this becomes really painful.
   - Also if you need it to work with searches, it seems that the only way to get field searches is to get the encoded query and parse the bits out.  There is no helper function for that if the search is a field STARTSWITH, ENDSWITH or CONTAINS which is used if you have the inputs on the headers of the list.
   - Feel free to try this out yourself with this code;
 

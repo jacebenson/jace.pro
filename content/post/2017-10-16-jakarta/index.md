@@ -44,7 +44,7 @@ order, one at a time.
 [Release
 Notes](https://docs.servicenow.com/bundle/jakarta-release-notes/page/release-notes/servicenow-platform/system-update-sets-rn.html)
 
-## Service Portal enchancements
+## Service Portal enhancements
 
 [Release
 Notes](https://docs.servicenow.com/bundle/jakarta-release-notes/page/release-notes/servicenow-platform/service-portal-rn.html)
@@ -54,7 +54,7 @@ Notes](https://docs.servicenow.com/bundle/jakarta-release-notes/page/release-not
 Prior to Jakarta you could lock portals, pages, widgets, and widget
 instances with a role and not User Criteria. Now you can.
 
-### Lists widget have fitler builder
+### Lists widget have filter builder
 
 Use the platform UI condition builder in the Data table from URL
 definition widget to create more complex table searches. The condition
@@ -91,8 +91,7 @@ Helsinki release. In the Jakarta release, administrators can use the new
 Embedded Help application to create customized embedded help and develop
 guided tours.
 
-[Release
-Notes](https://docs.servicenow.com/bundle/jakarta-release-notes/page/release-notes/application-development/embedded-help-guided-tours-rn.html)
+[Release Notes](https://docs.servicenow.com/bundle/jakarta-release-notes/page/release-notes/application-development/embedded-help-guided-tours-rn.html)
 
 ## Communities
 
@@ -112,5 +111,4 @@ Use Communities to:
 -   communicate product updates
 -   increase engagement with existing customers and lure prospects
 
-[Release
-Notes](https://docs.servicenow.com/bundle/jakarta-release-notes/page/release-notes/service-management/communities-rn.html)
+[Release Notes](https://docs.servicenow.com/bundle/jakarta-release-notes/page/release-notes/service-management/communities-rn.html)

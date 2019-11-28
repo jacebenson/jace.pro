@@ -16,7 +16,7 @@ it's not measured like others.
 
 First place I looked at this report is the very helpful transactions
 table `syslog_transactions_list.do`, however transactions to this
-endpoint seem to **not** be tracked there or in the new Active Clust
+endpoint seem to **not** be tracked there or in the new Active Cluster
 Transactions `loading_transactions.do`. Which is really unfortunate,
 because that at least shows quickly where the delay is tracked weather
 it's on a server-side transaction or something on the client or
@@ -39,7 +39,7 @@ the info in the console of the browser as the user, which is not likely
 going to happen.
 
 Really, in my opinion all these transactions should be captured but it
-seems servicenow doesn't seem to share this opinion.
+seems ServiceNow doesn't seem to share this opinion.
 
 I've [attached (raw JSONP) the HAR
 record](./2018-11-05-angular-do.har) and found a tool online to
@@ -428,5 +428,4 @@ Post Response;
 }
 ```
 
-KB0655923:
-https://hi.service-now.com/kb\_view.do?sysparm\_article=KB0655923
+KB0655923: <https://hi.service-now.com/kb_view.do?sysparm_article=KB0655923>

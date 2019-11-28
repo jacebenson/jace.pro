@@ -26,7 +26,7 @@ Don't use the same name space
 So what I did to correct what I could was the following;
 
 -   Correct links in outbound messages
--   Create a ui page for each page the cms had. E.g. cmssearchpage.do
+-   Create a ui page for each page the cms had. E.g. `cmssearchpage.do`
 
 This page you can toss a HTML redirect to the appropriate Service
 Portal page.

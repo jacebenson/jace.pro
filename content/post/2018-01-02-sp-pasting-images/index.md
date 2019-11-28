@@ -20,7 +20,7 @@ authors: ["jace"]
 
 In the past I've tried to set up image pasting before with [Lars Tange's
 solution](https://share.servicenow.com/app.do#/detailV2/4fa0b76f137826001d2abbf18144b065/overview),
-but that didnt look how I liked it, as it had a specific field for
+but that didn't look how I liked it, as it had a specific field for
 pasting attachments.
 
 I am cleaning up some of my former stories and thought I'd do a cusory
@@ -30,7 +30,7 @@ Christopher Decugis about how he modified it to work. It works great.
 Below I'll go over what you need to do if you want this on your portal
 as well.
 
-Unfortuantly we don't have access to the body tag or the top level div,
+Unfortunately we don't have access to the body tag or the top level div,
 so you will have to do this for every page you want it to work on. We
 use three forms on our portal, so `sc_cat_item`, `ticket`, and `form`.
 You might have more, just be aware you might have to add it for each

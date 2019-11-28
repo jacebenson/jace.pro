@@ -15,7 +15,7 @@ projects: []
 There are two real ways to verify the data meets the needs you have.
 
 1.  Client script to do entire validation
-2.  Client script to ask servier if data is valid
+2.  Client script to ask server if data is valid
 
 This will use all client-side validation. I set up a config variable
 where you need to;

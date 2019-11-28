@@ -14,7 +14,7 @@ authors: ["jace"]
 
 I was very lucky to get to go to Knowledge19. Now that it's over, before
 I leave I want to jot down my thoughts. Of the labs, I attended I had no
-technical difficulty with the wifi or content. Others did, but somehow
+technical difficulty with the WIFI or content. Others did, but somehow
 not me.
 
 Below I'll go over the parts I think notable.
@@ -31,7 +31,7 @@ I got a lot out of this so I'll get the boring bits out of the way;
 ## Registration
 
 Looks like they used g2planet.com again and this year it was better than
-last. This I thought was okay, but it could be improved. It also didnt
+last. This I thought was okay, but it could be improved. It also didn't
 help that the schedule kept changing after I had been signed up for
 things.
 
@@ -50,8 +50,8 @@ expected being a night club and all.
 
 ## Things learned from networking
 
--   Wework bought meetup.com and does free hosting for paid meetups
--   Servicenow is upping Flow Designer free transactions to 1 Million
+-   WeWork bought meetup.com and does free hosting for paid meetups
+-   ServiceNow is upping Flow Designer free transactions to 1 Million
 -   No one is happy with the new licensing model with Madrid
 -   I found 14 unused \#know19 passes this year. Next year I'm going to
     try to do something with that.
@@ -68,11 +68,9 @@ update a bike borrowing application. I don't think I can properly
 explain this but, in short this is what I think it is. A better way to
 let others replace code in a scope.
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/knowledge19/CCW1630)
+[Lab URL](https://developer.servicenow.com/app.do#!/event/knowledge19/CCW1630)
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_article&sys_id=5c66ef9cdb9d3b0422e0fb2439961903)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_article&sys_id=5c66ef9cdb9d3b0422e0fb2439961903)
 
 ### CCB1089 Making the most of the ServiceNow MID Server
 
@@ -85,25 +83,19 @@ R to determine if a photo is a hotdog or not a hotdog just like they did
 in Silicon Valley on HBO.
 
 In my opinion this was the best session I went to. (If you all have a
-recording of this on youtube let me know and I'll add a link.)
+recording of this on YouTube let me know and I'll add a link.)
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_article&sys_id=6246e75cdb9d3b0422e0fb2439961979)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_article&sys_id=6246e75cdb9d3b0422e0fb2439961979)
 
 ### CCB1419 ServiceNow Developer Meetup and community Building
 
-This was a really open discussion between [Andrew
-Barnes](https://www.meetup.com/RDU-ServiceNow-Developer-Meetup/members/215745765/profile/),
-[Lily
-Li](https://www.meetup.com/Orlando-ServiceNow-Developer-Meetup/members/212809016/profile),
-[Todd
-Volpe](https://www.meetup.com/South-Florida-ServiceNow-Developer-Meetup/members/189027559/profile/),
-[Melhem
-El-Achkar](https://www.meetup.com/Munchen-ServiceNow-Developer-Meetup/members/203263765/profile/),
-and [Fernando Luiz
-Goulart](https://www.meetup.com/Sao-Paulo-ServiceNow-Developer-Meetup/members/189217600/profile/).
+This was a really open discussion between [Andrew Barnes](https://www.meetup.com/RDU-ServiceNow-Developer-Meetup/members/215745765/profile/),
+[Lily Li](https://www.meetup.com/Orlando-ServiceNow-Developer-Meetup/members/212809016/profile),
+[Todd Volpe](https://www.meetup.com/South-Florida-ServiceNow-Developer-Meetup/members/189027559/profile/),
+[Melhem El-Achkar](https://www.meetup.com/Munchen-ServiceNow-Developer-Meetup/members/203263765/profile/),
+and [Fernando Luiz Goulart](https://www.meetup.com/Sao-Paulo-ServiceNow-Developer-Meetup/members/189217600/profile/).
 
-It was great. We all introduced ourselves and talked about the stuggles
+It was great. We all introduced ourselves and talked about the struggles
 and the best way to do things in the meetup. I had been due to talk on
 the 1st floor 1/2 way through this talk. One of the attendees followed
 me down and I met her after my talk. She's from Mexico and wants to have
@@ -111,7 +103,7 @@ one in her area. I hope it starts up. I'd love to go and see it happen.
 
 ### BRE1340 - A city in the cloud: How Minneapolis is driving digital transformation on the Now Platform
 
-I lived in Minnneapolis and know the speaker and some of the developers
+I lived in Minneapolis and know the speaker and some of the developers
 who did a lot of the work featured in this talk.
 
 I just have this to say about the talk. Gina F. did a great job! I loved
@@ -119,8 +111,7 @@ the slide where you could here her passion for the city.
 
 Also all the business problems they solved were amazing.
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_article&sys_id=4846235cdb9d3b0422e0fb24399619e2)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_article&sys_id=4846235cdb9d3b0422e0fb24399619e2)
 
 ### CCDT0335 - Influence and learn by running a local developer Meetup
 
@@ -133,23 +124,20 @@ Phayre., and Andrew Colson
 I ran too fast but there were plenty of time for questions and there
 were a number of great questions.
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_article&sys_id=d246a75cdb9d3b0422e0fb24399619a5)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_article&sys_id=d246a75cdb9d3b0422e0fb24399619a5)
 
 ### CCW1547 -- Full-stack adventures in ServiceNow-land: part one
 
 This lab was a large lab. A lot of content to make your way through.
 However it is a lab where you make end to end peer review application.
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/knowledge19/CCW1547)
+[Lab URL](https://developer.servicenow.com/app.do#!/event/knowledge19/CCW1547)
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_article&sys_id=b3462f5cdb9d3b0422e0fb2439961953)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_article&sys_id=b3462f5cdb9d3b0422e0fb2439961953)
 
-### CCB0433 Under the hood of Flow Designer and IntegrationHub witht he engine developers
+### CCB0433 Under the hood of Flow Designer and IntegrationHub with the engine developers
 
-I've been a big advocate that instead of flow designer Servicenow should
+I've been a big advocate that instead of flow designer ServiceNow should
 have improved the workflow engine. With that being said that isn't
 happening.
 
@@ -161,21 +149,16 @@ happening.
 
 ### CCDT1827 Advanced GlideRecord Techniques
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_article&sys_id=7e66abdcdb9d3b0422e0fb243996190d)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_article&sys_id=7e66abdcdb9d3b0422e0fb243996190d)
 
-### LAB1413 Quickly implement an awesome walk-up service channel for improved employee experiecne
+### LAB1413 Quickly implement an awesome walk-up service channel for improved employee experience
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/knowledge19/LAB1413)
+[Lab URL](https://developer.servicenow.com/app.do#!/event/knowledge19/LAB1413)
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_article&sys_id=b056639cdb9d3b0422e0fb243996193d)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_article&sys_id=b056639cdb9d3b0422e0fb243996193d)
 
 ### LAB1542 Probe to pattern migration
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/knowledge19/LAB1542)
+[Lab URL](https://developer.servicenow.com/app.do#!/event/knowledge19/LAB1542)
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_article&sys_id=6866ef9cdb9d3b0422e0fb24399619c2)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_article&sys_id=6866ef9cdb9d3b0422e0fb24399619c2)

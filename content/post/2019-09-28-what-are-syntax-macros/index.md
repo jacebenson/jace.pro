@@ -38,11 +38,11 @@ at the examples provided on the docs site.
 
 ```js
 var gr = new GlideRecord("");
-                gr.addQuery("name", "value");
-                gr.query();
-                if (gr.next()) {
-                
-                }
+gr.addQuery("name", "value");
+gr.query();
+if (gr.next()) {
+
+}
 ```
 
 As much as I dislike the use of variable name `gr` as using just that name can cause issues, its nice!
@@ -50,7 +50,7 @@ As much as I dislike the use of variable name `gr` as using just that name can c
 You can change the code up so if you want to ensure a [`glideAjax`](https://sn.jace.pro/docs/scripting/glideajax/)
 call always uses some format like I use cause for me consistency is key.
 
-Additionally, because I dont believe anything is permanent online I'll include links and Wayback links to these next
+Additionally, because I don't believe anything is permanent online I'll include links and Wayback links to these next
 resources.  
 
 This *shark711* person form Australia has had a ["sn-syntax-editor-macro"](https://shark711.github.io/sn-syntax-editor-macro/)

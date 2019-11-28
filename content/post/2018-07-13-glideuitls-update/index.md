@@ -21,7 +21,7 @@ repo](https://github.com/jacebenson/x_8821_dev_toolbox/tree/docs)
 
 So I was working on some things this week and came across some time. I
 updated GlideUtils to add a `variableHelper` script include to help
-getting variables as that doesnt seem possible in scope with
+getting variables as that doesn't seem possible in scope with
 `GlideappVariablePoolQuestionSet`. As such, this was born.
 
 In anycase, I wanted to post that this is getting updates.

@@ -8,7 +8,7 @@ title: Print out variables
 authors: ["jace"]
 ---
 
-Let me prefice this code with there is another way to do this but it's
+Let me preface this code with there is another way to do this but it's
 undocumented.\
 That is using the `GlideappVariablePoolQuestionSet` class as [posted
 here by Chuck Tomasi](https://community.servicenow.com/thread/245758).
@@ -157,5 +157,4 @@ wn += "</div>";
 
 ## Further Reading
 
-[Community
-Thread](https://community.servicenow.com/thread/149636#733514)
+[Community Thread](https://community.servicenow.com/thread/149636#733514)

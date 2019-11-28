@@ -35,8 +35,7 @@ an ecosystem of reusable content available to any flow. Reduce upgrade
 times and technical debt by replacing customized business logic with
 native Now Platform actions.
 
-[Release
-Notes](https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/servicenow-platform/flow-designer-rn.html)
+[Release Notes](https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/servicenow-platform/flow-designer-rn.html)
 
 ## Agent Intelligence
 
@@ -48,8 +47,7 @@ creation such as setting the incident category based on the short
 description. Train predictive models to act as an agent to categorize
 and route work based on your past record-handling experience.
 
-[Release
-Notes](https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/servicenow-platform/agent-intelligence-rn.html)
+[Release Notes](https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/servicenow-platform/agent-intelligence-rn.html)
 
 ## Function Fields
 
@@ -63,8 +61,7 @@ let application developers and administrators use those functions in the
 platform in an integrated and familiar way without requiring any
 knowledge of SQL or RDBMS specifics.
 
-[Release
-Notes](https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/servicenow-platform/platform-support-functions-rn.html)
+[Release Notes](https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/servicenow-platform/platform-support-functions-rn.html)
 
 ## Email Digests
 
@@ -76,8 +73,7 @@ during a short time period. Admins create the email digest format for a
 notification and control the digest intervals that users can choose when
 enabling a digest in their notification preferences.
 
-[Release
-Notes](https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/servicenow-platform/notifications-rn.html)
+[Release Notes](https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/servicenow-platform/notifications-rn.html)
 
 ## Service Portal
 
@@ -87,8 +83,7 @@ Kingston release.
 Service Portal is a portal framework that helps you build a
 mobile-friendly self-service experience.
 
-[Release
-Notes](https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/servicenow-platform/service-portal-rn.html)
+[Release Notes](https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/servicenow-platform/service-portal-rn.html)
 
 ### Order Guide Widget
 
@@ -111,4 +106,4 @@ announcement widget instance.
 
 Announcements are active on new instances. To activate announcements
 after upgrade, activate the Service Portal Announcements
-(com.glide.service-portal.announcements) plugin.
+(`com.glide.service-portal.announcements`) plugin.

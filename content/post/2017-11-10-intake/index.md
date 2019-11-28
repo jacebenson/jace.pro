@@ -10,7 +10,7 @@ authors: ["jace"]
 ---
 
 This is just the different team intake processes I've seen during my
-work with Servicenow.
+work with ServiceNow.
 
 # Intake Process
 
@@ -22,7 +22,7 @@ every third week.
 
 ### Light Agile Sprint Ceremonies
 
-| Ceremonies   | Freqency                       | Attendees                                          |
+| Ceremonies   | Frequency                      | Attendees                                          |
 |--------------|--------------------------------|----------------------------------------------------|
 | Team Standup | Monday Every Week              | Development Team and Manager                       |
 | Team Standup | Wednesday, Thursday Every Week | Development Team                                   |
@@ -30,7 +30,7 @@ every third week.
 
 ### Light Agile Support Sprint
 
-| Responsiblities                       | Frequency             |
+| Responsibilities                      | Frequency             |
 |---------------------------------------|-----------------------|
 | Handle Incoming incidents             | As needed             |
 | Verify new story requirements         | When available        |
@@ -41,7 +41,7 @@ every third week.
 
 ### Light Agile Development Sprint
 
-| Responsiblities                    | Frequency      |
+| Responsibilities                   | Frequency      |
 |------------------------------------|----------------|
 | Assign Stories to self             | When available |
 | Develop Features                   | All the time   |
@@ -56,7 +56,7 @@ every four weeks.
 
 ### Heavy Agile Sprint Ceremonies
 
-| Ceremonies    | Freqency                   | Attendees                                           |
+| Ceremonies    | Frequency                  | Attendees                                           |
 |---------------|----------------------------|-----------------------------------------------------|
 | Team Standup  | Every day                  | Development Team, and Scrum Master                  |
 | Planning      | Wednesday Every Third Week | Development Team, Process Owners, and Product Owner |
@@ -79,7 +79,7 @@ outside the Scrum Process and to assist the Release Team.
 
 ### Heavy Agile Development Sprint
 
-| Responsiblities               | Frequency      |
+| Responsibilities              | Frequency      |
 |-------------------------------|----------------|
 | Assign Stories to self        | When available |
 | Develop Features              | All the time   |
@@ -87,7 +87,7 @@ outside the Scrum Process and to assist the Release Team.
 
 ### Heavy Agile Support and Release Group
 
-| Responsiblities                      | Frequency             |
+| Responsibilities                     | Frequency             |
 |--------------------------------------|-----------------------|
 | Handle Incoming incidents            | As needed             |
 | Move update sets to test and sandbox | Every other Tuesday   |

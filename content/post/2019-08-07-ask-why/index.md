@@ -15,7 +15,7 @@ A long long time ago a [Chuck Tomasi wrote this great post](https://community.se
 
 I think it's so important, I ought to write one too.
 
-I've been on most sides of the equation when it comes to this.  I was a help desk techncian way way back when.  Then I tried to help define the requirements that we needed.  I've been a consultant where I fulfilled the requirements.  Now I'm a customer again.  When you're a customer, you really don't care how it works, just that it works.  Or at least that was my opinion back then.  Now, however.  I push back.  I ask why.  I get the details that drive to the question, "**What business problem does this solve?**"  You should to.
+I've been on most sides of the equation when it comes to this.  I was a help desk technician way way back when.  Then I tried to help define the requirements that we needed.  I've been a consultant where I fulfilled the requirements.  Now I'm a customer again.  When you're a customer, you really don't care how it works, just that it works.  Or at least that was my opinion back then.  Now, however.  I push back.  I ask why.  I get the details that drive to the question, "**What business problem does this solve?**"  You should to.
 
 ## You are the expert
 
@@ -40,7 +40,7 @@ I'll go over adding that field above.
 > I've done this in the past, and knowing **why** is crucial to ensuring this is the right thing to solve the problem.\
 > When you don't present a problem, it's concerning because you might not be considering other factors.\
 > Customer : Like what?\
-> **You**  : Licensing, whose maintaing the value of the field, what is going to keep it in check, and setting an expectation that anyone can add an arbitrary number of fields on incident.\
+> **You**  : Licensing, whose maintaining the value of the field, what is going to keep it in check, and setting an expectation that anyone can add an arbitrary number of fields on incident.\
 > Customer : This is just for reporting.  We want to know when and for what customers an incident is considered an outage.
 > **You**  : ...
 

@@ -32,7 +32,7 @@ Well here I'm going to go over the them.
 
 ## HTML auto-suggestions
 
-Well this is a very overdue convience.  But at least it's here... Or it's allegedly here.  When I tried it by going toa new UI page, modify the XML adding `<div>test` then starting to type `</` nothing came up.. so maybe this isn't here.
+Well this is a very overdue convenience.  But at least it's here... Or it's allegedly here.  When I tried it by going toa new UI page, modify the XML adding `<div>test` then starting to type `</` nothing came up.. so maybe this isn't here.
 
 ## JS Beautify
 
@@ -100,7 +100,7 @@ Also thanks [Dominik Simunek](https://twitter.com/DoomaSimunek/status/1157404260
 
 ## Context Menus for script fields
 
-I noticed the context menu thing before I read about it.  If you have a script include or client script where you invoke some script include, they now show up **bold** and *italicied*.  If you right-click on anything like that, you'll get a few options;
+I noticed the context menu thing before I read about it.  If you have a script include or client script where you invoke some script include, they now show up **bold** and *italicized*.  If you right-click on anything like that, you'll get a few options;
 
 - Show Documentation (which will bring you to docs.servicenow.com for that object)
 - Show Definition (which will bring you to the table definition of the content)

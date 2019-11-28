@@ -14,7 +14,7 @@ projects: ['sn-version-tracker']
 
 Here's my take of whats new with New York
 
-[Depricated things](https://docs.servicenow.com/bundle/newyork-release-notes/page/release-notes/summary/rn-summary-removed-features.html)
+[Deprecated things](https://docs.servicenow.com/bundle/newyork-release-notes/page/release-notes/summary/rn-summary-removed-features.html)
 
 - [Processors-Listed under changes](https://docs.servicenow.com/bundle/newyork-application-development/page/script/processors/concept/c_Processors.html)
   - Note: This feature is deprecated. While legacy, 
@@ -42,7 +42,7 @@ Here's my take of whats new with New York
         -  retrieve the data from external sources or from another instance with REST or SOAP services. The external data lives in the memory in read-only mode, which makes the data temporary, or transient, within the Now Platform. You can then view and manipulate the external data without importing or storing it. 
         - Plugin: "Remote Tables" or "com.glide.script.vtable" 
         ![2019-07-26-new-york-remote-tables-1.png](./2019-07-26-new-york-remote-tables-1.png)
-        - Recomended limit is 1000 records
+        - Recommended limit is 1000 records
         - example use cases;
           - weather-related data that appears on a homepage when a user logs in.
           - customer details that are stored in an external Customer Relationship Management

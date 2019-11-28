@@ -12,10 +12,7 @@ draft: false
 projects: []
 ---
 
-Two things I have to call out. First, this was insired by [Ratesh Shah's
-post](https://community.servicenow.com/thread/282244). Second, you can
-read "Offical" client script restrictions here on the
-[docs](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/build/service-portal/concept/unsupported_client_scripts.html).
+Two things I have to call out. First, this was inspired by [Ratesh Shah's post](https://community.servicenow.com/thread/282244). Second, you can read "Official" client script restrictions here on the [docs](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/build/service-portal/concept/unsupported_client_scripts.html).
 
 ## Client Scripting issues
 

@@ -15,17 +15,13 @@ Surveys are great, if they make them concise and to the point.
 
 -   [What makes a great survey](#What-Makes-a-Great-Survey)
     -   [Keep it short, stupid](#Keep-it-short-stupid)
-    -   [Ask only questions that fulfill your end
-        goal](#Ask-only-questions-that-fulfill-your-end-goal)
-    -   [Construct smart, open-ended
-        questions](#Construct-smart-open-ended-questions)
+    -   [Ask only questions that fulfill your end goal](#Ask-only-questions-that-fulfill-your-end-goal)
+    -   [Construct smart, open-ended questions](#Construct-smart-open-ended-questions)
     -   [Ask one question at a time](#Ask-one-question-at-a-time)
     -   [Make rating scales consistent](#Make-rating-scales-consistent)
-    -   [Avoid leading and loaded
-        questions](#Avoid-leading-and-loaded-questions)
+    -   [Avoid leading and loaded questions](#Avoid-leading-and-loaded-questions)
     -   [Make use of Yes/No questions](#Make-use-of-Yes/No-questions)
-    -   [Get specific and avoid
-        assumptions](#Get-specific-and-avoid-assumptions)
+    -   [Get specific and avoid assumptions](#Get-specific-and-avoid-assumptions)
     -   [Timing is important](#Timing-is-important)
     -   [Give them a bonus](#Give-them-a-bonus)
 -   [Ways of Surveying](#Ways-of-Surveying)
@@ -35,10 +31,8 @@ Surveys are great, if they make them concise and to the point.
 -   [Examples](#Examples)
     -   [List of questions seen](#List-of-questions-seen)
     -   [Most Common Survey](#Most-Common-Survey)
-    -   [Survey used after the close of an
-        incident](#Survey-used-after-the-close-of-an-incident)
-    -   [Survey used by Servicenow
-        internally](#Survey-used-by-Servicenow-internally)
+    -   [Survey used after the close of an incident](#Survey-used-after-the-close-of-an-incident)
+    -   [Survey used by ServiceNow internally](#Survey-used-by-Servicenow-internally)
     -   [Wordpress Minneapolis 2017](#Wordpress-Minneapolis-2017)
     -   [Upgrade Instance Survey](#Upgrade-Instance-Survey)
 -   [Sources](#Sources)
@@ -62,7 +56,7 @@ You need to be ruthless when it comes to cutting unnecessary questions
 from your surveys.
 
 Ask this question about every question you include, "Does this question
-drive action once recieved?" If the answer is no, why are you asking it?
+drive action once received?" If the answer is no, why are you asking it?
 The action doesn't have to get you calling the surveyee, but should
 drive trends to changes you want to make.
 
@@ -253,12 +247,12 @@ quarterly.
 | Overall satisfaction         | How the customer felt overall    | Was the incident/issue resolved to your satisfaction?                                          |
 | Overall satisfaction         | How the customer felt overall    | Was this ticket resolved to your satisfaction?                                                 |
 | Overall satisfaction         | How the customer felt overall    | How would you rate your overall satisfaction?                                                  |
-| Overall satisfaction         | How the customer felt overall    | What changes could we make thatwould have improved your experience?                            |
+| Overall satisfaction         | How the customer felt overall    | What changes could we make that would have improved your experience?                            |
 | Overall satisfaction         | How the customer felt overall    | How likely is it that you would recommend our services to your peers?                          |
 | Overall satisfaction         | How the customer felt overall    | How likely is it that you would recommend us to a colleague?                                   |
 | Overall satisfaction         | How the customer felt overall    | How likely are you to recommend this website to a colleague?                                   |
 | Overall satisfaction         | How the customer felt overall    | How would you describe your experience?                                                        |
-| Overall satisfaction         | How the customer felt overall    | What wouldyou like us to know about this experience?                                           |
+| Overall satisfaction         | How the customer felt overall    | What would you like us to know about this experience?                                           |
 | Quality of products/services |                                  | How satisfied were you with \_\_\_\_\_ product?                                                |
 | Quality of products/services |                                  | Do you have any suggestions for improving our products/services?                               |
 | Quality of products/services |                                  | Which of the following words best describe our products?                                       |
@@ -288,7 +282,7 @@ quarterly.
 | Self-support experience      | Portal design                    | Rate the Layout/design                                                                         |
 | Self-support experience      | Portal design                    | Rate the Customer support                                                                      |
 | Self-support experience      | marketing/evangelism             | How did you learn about this site?                                                             |
-| Self-support experience      | use & effectiveness              | Did you try to solve this issue using the knowledgebase before opening this ticket?            |
+| Self-support experience      | use & effectiveness              | Did you try to solve this issue using the knowledge base before opening this ticket?            |
 | Self-support experience      |                                  | How would you rate the ease of use when creating your service catalog request?                 |
 | Change Requests              |                                  | Were there any issues created by the implementation of this change request?                    |
 | Change Requests              |                                  | How satisfied were you with your overall change request experience?                            |
@@ -345,13 +339,8 @@ was a easy big win
 
 ## Further Reading
 
--   [The 5 Best Ways to Get Feedback from Your
-    Customers](https://blog.kissmetrics.com/best-ways-to-get-feedback/)
--   [Survey Question
-    Examples](https://community.servicenow.com/docs/DOC-4451)
--   [CSAT Question and Answer Option
-    Menu](https://community.servicenow.com/docs/DOC-6393)
--   [Servicenow Survey
-    Docs](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/administer/survey-administration/concept/c_SurveyServicePortal.html)
--   [Wordpress
-    Survey](http://wcminneapolis.polldaddy.com/s/wordcamp-minneapolis-st-paul-2017-survey)
+-   [The 5 Best Ways to Get Feedback from Your Customers](https://blog.kissmetrics.com/best-ways-to-get-feedback/)
+-   [Survey Question Examples](https://community.servicenow.com/docs/DOC-4451)
+-   [CSAT Question and Answer Option Menu](https://community.servicenow.com/docs/DOC-6393)
+-   [ServiceNow Survey Docs](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/administer/survey-administration/concept/c_SurveyServicePortal.html)
+-   [Wordpress Survey](http://wcminneapolis.polldaddy.com/s/wordcamp-minneapolis-st-paul-2017-survey)

@@ -15,7 +15,7 @@ So this weekend I had the opportunity to help someone out with an issue
 on their side project.  They had this list they wanted to access from 
 a phone, and wanted the ability to add a new record from a phone.
 
-Simple enought I though.  Just make a [bootstrap list](https://getbootstrap.com/docs/3.3/components/#list-group)
+Simple enough I though.  Just make a [bootstrap list](https://getbootstrap.com/docs/3.3/components/#list-group)
 of sorts and add a button, to open a [spModal](https://developer.servicenow.com/app.do#!/api_doc?v=madrid&id=SPM-open_O)
 to the OOB form widget.
 
@@ -31,7 +31,7 @@ in a bunch of UI Bootstrap directives.
 
 Enter `<uib-rating>`
 
-This get's a little fuzzy here, but essentially, if you have a numeric scale;
+This gets a little fuzzy here, but essentially, if you have a numeric scale;
 1-10 or less, you can represent it with stars or other icons.  You cannot do 
 this with the OOB widgets you'll need your own input form.  That's where this 
 post really shines for me.  I need to remember how I did this.
@@ -42,8 +42,8 @@ is this UIB Rating thing.  Then when the [OK] is pressed, send the data back
 up to the parent widget, and make a new Rating record, and refresh the list.
 
 When sorting this out, I didn't have that last paragraph.  So it took me a bit
-to find how to pass the data but here's the cruicial bits if you find yourself
-in a similiar situation.
+to find how to pass the data but here's the crucial bits if you find yourself
+in a similar situation.
 
 Below is a Home widget which makes the call to spModal.open.  That has a promise
 to handle the response in the `then` bit.  That's where this magic happens.  It

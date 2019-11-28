@@ -22,7 +22,7 @@ So this was recently posted on
 but I have to cover it too.
 
 I was wondering how this worked. This is a logtail for the logs in
-servicenow in the system on the UI page
+ServiceNow in the system on the UI page
 `channel.do?sysparm_channel=logtail`.
 
 This is called via the UI page channel.do which make a
@@ -30,4 +30,4 @@ This is called via the UI page channel.do which make a
 things that make this work, and I was able to create a new channel, but
 I was unable to direct any logs to it. Below are all the exposed files I
 could find that made this work. This points to `channel_stream.do` and
-`threads.do` which are both blackboxed.
+`threads.do` which are both black boxed.

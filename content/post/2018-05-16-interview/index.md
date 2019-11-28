@@ -13,12 +13,12 @@ authors: ["jace"]
 ---
 
 This is a extensive list of questions for both interviewers and
-interviewees when Servicenow Development is involved.
+interviewees when ServiceNow Development is involved.
 
-# Interview Preperation
+# Interview Preparation
 
 So interviewing is exciting.  It's a way to get uncomfortable and see
-what is available in jobland.  Something to keep in mind, interviews are
+what is available in job-land.  Something to keep in mind, interviews are
 a way for you and your employer to find a great fit for this position. 
 The employer may be happy to have you, but you may not be happy in that
 position, so it's crucial to get information from the interview to tell
@@ -28,7 +28,7 @@ ask specifics about any you question. With that being said, when the
 technical questions are being asked, you should be able to see they
 understand the question and answer.
 
-Interviews... So you want to interview for a job as a Servicenow
+Interviews... So you want to interview for a job as a ServiceNow
 Developer.
 
 ## Before you continue I urge you to read this first
@@ -74,7 +74,7 @@ https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 6.  What do you see that would be challenges working here?
 7.  Why should we hire you over the next candidate?
 8.  Why do you want to work here?
-9.  Have you worked on a oncall capacity before?
+9.  Have you worked on a on-call capacity before?
 10. How do you educate yourself?
 
 ### Technical Questions
@@ -82,7 +82,7 @@ https://www.kalzumeus.com/2012/01/23/salary-negotiation/
 #### General Programming Questions
 
 In all my interviews, I think I've only had a few of these, however
-they show up all the time on Glassdoor.  
+they show up all the time on GlassDoor.  
 
 1.  How do you iterate over an array?
 2.  How can you give an object a dynamic property?
@@ -163,7 +163,7 @@ they show up all the time on Glassdoor.
 3.  What protocol does REST use?
 4.  What are the differences between REST and SOAP?
 
-#### Servicenow Service Catalog Questions
+#### ServiceNow Service Catalog Questions
 
 1.  What does Order guide refer to in Service Catalog?
 2.  What is the use of an Order Guide?
@@ -178,7 +178,7 @@ they show up all the time on Glassdoor.
 10. Which module is used for create a new Catalog item?
 11. What is types of things are generally on a catalog?
 
-#### Servicenow Workflow Questions
+#### ServiceNow Workflow Questions
 
 1.  Where are workflow versions captured?
 2.  If workflow is not published, only checked out will it be captured
@@ -195,7 +195,7 @@ they show up all the time on Glassdoor.
 9.  What is the true about SlushBucket?
 10. Can you restart a workflow at a specific activity?
 
-#### Servicenow Update Sets Questions
+#### ServiceNow Update Sets Questions
 
 1.  Which field should be there in table that identifies that it should
     be captured in Update Sets?
@@ -207,14 +207,14 @@ they show up all the time on Glassdoor.
     set?
 7.  What changes are not captured in update sets?
 
-#### Servicenow Email Questions
+#### ServiceNow Email Questions
 
 1.  What is the default email size limit of inbound emails?
-2.  How Servicenow system is configured to send an email notification
+2.  How ServiceNow system is configured to send an email notification
     after system Upgrade?
 3.  What all actions can be performed with inbound email?
 
-#### Servicenow GUI Questions
+#### ServiceNow GUI Questions
 
 1.  Scenario when an Interceptor can be used?
 2.  How to make an UI Policy global?
@@ -237,7 +237,7 @@ they show up all the time on Glassdoor.
 19. How to change the Development and Production instance color?
 20. In which place admin can edit the HomePage?
 
-#### Servicenow Security Questions
+#### ServiceNow Security Questions
 
 1.  What is security\_admin role?
 2.  What do you mean by Elevated Privileges?
@@ -252,7 +252,7 @@ they show up all the time on Glassdoor.
 9.  What is a SSO integration?
 10. What is Delegate User?
 
-#### Servicenow Database/Integrations Questions
+#### ServiceNow Database/Integrations Questions
 
 1.  What is Coalesce in import set?
 2.  Which is parent table for INC, CHG, PRB?
@@ -261,11 +261,11 @@ they show up all the time on Glassdoor.
 5.  What is a Column and row in a table?
 6.  What is there stored in CMDB?
 7.  Where is data stored?
-8.  How can you import data into servicenow?
+8.  How can you import data into ServiceNow?
 9.  What is a sys\_id?
 10. Which module is used to see column structure in a table?
 
-#### Servicenow Service Level Agreement Questions
+#### ServiceNow Service Level Agreement Questions
 
 1.  What is SLA-Retroactive start?
 2.  What is Pause condition in SLA?
@@ -274,19 +274,17 @@ they show up all the time on Glassdoor.
 5.  SLA, OLA and UC are configured in which module?
 6.  What is the benefit of SLA?
 
-#### Servicenow Other
+#### ServiceNow Other
 
 1.  How to arrange the Applications in left navigation to user?
 2.  How to see the current version of instance as an Admin?
-3.  Where can scripting occur in servicenow?
+3.  Where can scripting occur in ServiceNow?
 4.  What is the difference between GlideRecord and GlideAggregate
 5.  Can you describe the different types of business rules?
 6.  What is the difference between a UI policy and UI action?
 
 ## Inspired by
 
--   [Are YOU a Servicenow
-    jedi?](https://www.servicenowguru.com/showcase/service-now-jedi/)
--   [ServiceNow Interview Question &
-    Answers](https://tekslate.com/servicenow-interview-questions-and-answers)
+-   [Are YOU a ServiceNow jedi?](https://www.servicenowguru.com/showcase/service-now-jedi/)
+-   [ServiceNow Interview Question & Answers](https://tekslate.com/servicenow-interview-questions-and-answers)
 -   [servicenowstar](https://servicenowstar.wordpress.com/2016/03/13/servicenow-intertview-question-anwers/)

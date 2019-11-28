@@ -31,8 +31,8 @@ In this session, I will share how we've;
 
 -   Improved device tracking (azure intune) for compliance, and security
     reasons.\
--   Solarwinds import to improve discovery
--   Crashplan import to drive compliance of legalholds and status in a
+-   SolarWinds import to improve discovery
+-   CrashPlan import to drive compliance of legal holds and status in a
     central system
 
 ### Attendees will learn how to:
@@ -50,7 +50,7 @@ can save you a lot of time and trouble.
 
 1.  You can follow a common import pattern to drive most integrations to
     simplify development and further customizations
-2.  Rest API integrations that Servicenow has to ask for data from can
+2.  Rest API integrations that ServiceNow has to ask for data from can
     follow this pattern
 3.  After you do it once or twice you can easily do it for other
     integrations
@@ -69,15 +69,15 @@ baseline for future upgrades.
 ### Approach and Results
 
 In this session, I will share how I started to maintain a repo for test
-suites in Servicnow. I found I was participating in my second
-\#hacktoberfest and a thought occured. How can I get other people to
+suites in ServiceNow. I found I was participating in my second
+\#hacktoberfest and a thought occurred. How can I get other people to
 build tests so I don't have to? And it was simple. Make a repo, share it
 and spread the word.
 
 ## Attendees will learn how to:
 
 -   Contribute to an open source project for scoped applications
--   Avoid nuiances for servicenow's repos branches
+-   Avoid nuances for ServiceNow's repos branches
 -   Accept and Reject Pull Requests without breaking and losing data.
 -   Make a project site for the project with Netlify
 
@@ -100,7 +100,7 @@ time.
 
 ### Introduction and Problem Statement
 
-Two years ago I started a Developer Meetup for servicenow talent to do
+Two years ago I started a Developer Meetup for ServiceNow talent to do
 ad-hoc labs and have happy hours. I didn't want what happened to the
 SNUG's happening to this event so I volunteered.
 
@@ -124,6 +124,6 @@ information to form their own OR assist their local meetup.
 
 1.  You don't have to host or run the event to help. There are lot's of
     opportunity to help out.
-2.  Attend it, it's smaller and less formal then your servicenow user
+2.  Attend it, it's smaller and less formal then your ServiceNow user
     groups.
 3.  Provide feedback, it's always useful.

@@ -10,18 +10,13 @@ draft: false
 projects: ['sn-code']
 ---
 
-Seaching for code is crucial to understand how something works. As such
+Searching for code is crucial to understand how something works. As such
 there's a number of a ways to do it
 
--   SNC Guru's "[Find All System References to a Specific
-    Record](https://www.servicenowguru.com/system-definition/find-references-specific-record/)"
--   SN Pro Tip's, "[Locate any record in any table by
-    sysid](https://snprotips.com/blog/sncprotips/2015/12/locate-any-record-in-any-table-by-sysidhtml)"
--   GarretNow's "[Developer
-    Search](https://garrettnow.com/2014/08/12/developer-search/)"
--   [Servicenow's Studio's Code
-    Search](https://community.servicenow.com/community/develop/blog/2017/01/15/where-did-i-write-that-piece-of-code)
-    as described by Goran Lundqvist
+-   SNC Guru's "[Find All System References to a Specific Record](https://www.servicenowguru.com/system-definition/find-references-specific-record/)"
+-   SN Pro Tip's, "[Locate any record in any table by sysid](https://snprotips.com/blog/sncprotips/2015/12/locate-any-record-in-any-table-by-sysidhtml)"
+-   GarretNow's "[Developer Search](https://garrettnow.com/2014/08/12/developer-search/)"
+-   [Servicenow's Studio's Code Search](https://community.servicenow.com/community/develop/blog/2017/01/15/where-did-i-write-that-piece-of-code) as described by Goran Lundqvist
 
 One thing none of these do is find Workflow Activities using that value.
 

@@ -31,30 +31,22 @@ and breadcrumbs and what you can see and do as a System Administrator.
 
 Both of these end up on the same videos as listed in sub sections.
 
--   [Servicenow Foundations
-    eLearning](https://www.servicenow.com/services/training-and-certification/foundations-elearning.html)
--   [Servicenow Foundations
-    Videos](https://community.servicenow.com/community?id=community_article&sys_id=a2dc2a65dbd0dbc01dcaf3231f96197e)
+-   [ServiceNow Foundations eLearning](https://www.servicenow.com/services/training-and-certification/foundations-elearning.html)
+-   [ServiceNow Foundations Videos](https://community.servicenow.com/community?id=community_article&sys_id=a2dc2a65dbd0dbc01dcaf3231f96197e)
 
 ### User Experience
 
--   [What is ServiceNow and How Can It Help Me Do My
-    Job?](https://www.youtube.com/watch?v=yDmGTeEDp5g)
--   [Quick Tour of the ServiceNow
-    Platform](https://www.youtube.com/watch?v=FiDEWppxPdQ)
--   [How to Request
-    Something](https://www.youtube.com/watch?v=8hXXvimSw5c)
--   [How to Report an
-    Issue](https://www.youtube.com/watch?v=cCFPFqcAftk)
--   [How to Use the Knowledge
-    Base](https://www.youtube.com/watch?v=Ly3wjS0W4RI)
+-   [What is ServiceNow and How Can It Help Me Do My Job?](https://www.youtube.com/watch?v=yDmGTeEDp5g)
+-   [Quick Tour of the ServiceNow Platform](https://www.youtube.com/watch?v=FiDEWppxPdQ)
+-   [How to Request Something](https://www.youtube.com/watch?v=8hXXvimSw5c)
+-   [How to Report an Issue](https://www.youtube.com/watch?v=cCFPFqcAftk)
+-   [How to Use the Knowledge Base](https://www.youtube.com/watch?v=Ly3wjS0W4RI)
 
 ### Getting Started
 
 -   [Platform Architecture](https://www.youtube.com/watch?v=CHlGvbqirQs)
 -   [Platform Applications](https://www.youtube.com/watch?v=IFBNuBQsip0)
--   [Tables, Records, and
-    Fields](https://www.youtube.com/watch?v=wSqg05k65Ew)
+-   [Tables, Records, and Fields](https://www.youtube.com/watch?v=wSqg05k65Ew)
 -   [Locating Resources](https://www.youtube.com/watch?v=RPUCUwvpfPE)
 
 ### User Interface
@@ -66,35 +58,24 @@ Both of these end up on the same videos as listed in sub sections.
 
 ### Process User and Manager Capabilities
 
--   [Getting Started with the ITIL
-    Role](https://www.youtube.com/watch?v=9qWgCOx50Tk)
+-   [Getting Started with the ITIL Role](https://www.youtube.com/watch?v=9qWgCOx50Tk)
 
 ### System Configuration
 
--   [Performing Basic Setup in your
-    instance](https://www.youtube.com/watch?v=w_WYRJJ7Sho)
--   [Application Menus and
-    Modules](https://www.youtube.com/watch?v=EofCa_bXy28)
--   [Form Layout and
-    Design](https://www.youtube.com/watch?v=147I32N8hyk)
--   [Overview
-    Pages(Homepages)](https://www.youtube.com/watch?v=bc5EUz51qu4)
+-   [Performing Basic Setup in your instance](https://www.youtube.com/watch?v=w_WYRJJ7Sho)
+-   [Application Menus and Modules](https://www.youtube.com/watch?v=EofCa_bXy28)
+-   [Form Layout and Design](https://www.youtube.com/watch?v=147I32N8hyk)
+-   [Overview Pages(Homepages)](https://www.youtube.com/watch?v=bc5EUz51qu4)
 -   [Business Rules](https://www.youtube.com/watch?v=VUQwql3Rki8)
--   [Inbound Email Actions and
-    Notifications](https://www.youtube.com/watch?v=C2FMo3l1swk)
+-   [Inbound Email Actions and Notifications](https://www.youtube.com/watch?v=C2FMo3l1swk)
 
 ### Service Catalog
 
--   [Service Catalog Administration
-    Overview](https://www.youtube.com/watch?v=Q25mSVIycaQhttp://)
--   [Creating Service Catalog
-    Categories](http://www.youtube.com/watch?v=tWnC37-UmqA)
--   [Creating Service Catalog
-    Items](https://www.youtube.com/watch?v=mVGOzQcNme0)
--   [Creating Service Catalog Record
-    Producers](https://www.youtube.com/watch?v=zeaOTmDmLf4)
--   [Creating Service Catalog Execution Plans and
-    Workflows](https://www.youtube.com/watch?v=2_Fvw5wqRD8)
+-   [Service Catalog Administration Overview](https://www.youtube.com/watch?v=Q25mSVIycaQhttp://)
+-   [Creating Service Catalog Categories](http://www.youtube.com/watch?v=tWnC37-UmqA)
+-   [Creating Service Catalog Items](https://www.youtube.com/watch?v=mVGOzQcNme0)
+-   [Creating Service Catalog Record Producers](https://www.youtube.com/watch?v=zeaOTmDmLf4)
+-   [Creating Service Catalog Execution Plans and Workflows](https://www.youtube.com/watch?v=2_Fvw5wqRD8)
 
 ### IT Service Management
 
@@ -104,7 +85,7 @@ Both of these end up on the same videos as listed in sub sections.
 
 ## Community and Chat
 
-Need to talk to someone, the commmunity has people on it all the time.
+Need to talk to someone, the community has people on it all the time.
 Also there's a few unofficial chat systems in use.
 
 -   [Discord](https://discord.gg/QaMwnGd)
@@ -123,59 +104,40 @@ Self-paced developer training modules are available with the ServiceNow
 Developer program. They are step-by-step, guides on how parts of the
 platform work.
 
-[Landing
-Page](https://developer.servicenow.com/app.do#!/training/landing)
+[Landing Page](https://developer.servicenow.com/app.do#!/training/landing)
 
 This interactive course has things like;
 
--   [Developer Site
-    Walkthrough](https://developer.servicenow.com/app.do#!/trainlist/app_store_learn_dev_site_walkthrough_kingston_c_DeveloperSiteIntro)
--   [Build the NeedIt
-    Application](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_buildneedit_kingston_build_the_needit_application?v=kingston)
--   [Securing
-    Applicaitons](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_securingapps_kingston_securing_applications?v=kingston)
--   [Automating Application
-    logic](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_automatingapps_kingston_automating_application_logic?v=kingston)
--   [Automated Test
-    Framework](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_atf_kingston_automated_test_framework?v=kingston)
--   [Building Apps with
-    AngularJS](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_angularjs_kingston_building_apps_with_angularjs?v=kingston)
--   [Build My First
-    Application](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_buildmyfirstapp_kingston_build_my_first_application?v=kingston)
--   [Scripting in
-    ServiceNow](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_scripting_kingston_scripting_in_servicenow?v=kingston)
--   [Importing Data into
-    ServiceNow](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_importingdata_kingston_importing_data_into_servicenow?v=kingston)
--   [REST
-    Integrations](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_rest_kingston_rest_integrations?v=kingston)
--   [Service
-    Portal](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_serviceportal_kingston_service_portal?v=kingston)
+-   [Developer Site Walkthrough](https://developer.servicenow.com/app.do#!/trainlist/app_store_learn_dev_site_walkthrough_kingston_c_DeveloperSiteIntro)
+-   [Build the NeedIt Application](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_buildneedit_kingston_build_the_needit_application?v=kingston)
+-   [Securing Applicaitons](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_securingapps_kingston_securing_applications?v=kingston)
+-   [Automating Application logic](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_automatingapps_kingston_automating_application_logic?v=kingston)
+-   [Automated Test Framework](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_atf_kingston_automated_test_framework?v=kingston)
+-   [Building Apps with AngularJS](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_angularjs_kingston_building_apps_with_angularjs?v=kingston)
+-   [Build My First Application](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_buildmyfirstapp_kingston_build_my_first_application?v=kingston)
+-   [Scripting in ServiceNow](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_scripting_kingston_scripting_in_servicenow?v=kingston)
+-   [Importing Data into ServiceNow](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_importingdata_kingston_importing_data_into_servicenow?v=kingston)
+-   [REST Integrations](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_rest_kingston_rest_integrations?v=kingston)
+-   [Service Portal](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_serviceportal_kingston_service_portal?v=kingston)
 
-## Youtube Channels
+## YouTube Channels
 
--   [TechNow spans videos on two channels, NowCommunity, and
-    Nowsupport](https://community.servicenow.com/community?id=community_blog&sys_id=4d6eaeaddbd0dbc01dcaf3231f961964)
--   [Ask the Expert
-    Sessions](https://community.servicenow.com/community?id=community_forum&sys_id=d6295a2ddbd897c068c1fb651f9619f1)
+-   [TechNow spans videos on two channels, NowCommunity, and Nowsupport](https://community.servicenow.com/community?id=community_blog&sys_id=4d6eaeaddbd0dbc01dcaf3231f961964)
+-   [Ask the Expert Sessions](https://community.servicenow.com/community?id=community_forum&sys_id=d6295a2ddbd897c068c1fb651f9619f1)
 -   [nowSupport](https://www.youtube.com/user/servicenowdemo)
 -   [nowCommunity](https://www.youtube.com/user/ServiceNowCommunity)
--   [ServiceNow Dev
-    Program](https://www.youtube.com/channel/UCdXorgCT87YlFRN9n8oJ7_A)
+-   [ServiceNow Dev Program](https://www.youtube.com/channel/UCdXorgCT87YlFRN9n8oJ7_A)
 
 ## Other Resources
 
--   [Udemy ServiceNow System Admin and App Developer Udemy
-    Courses](https://www.udemy.com/courses/search/?q=ServiceNow)
--   [System Administration Exam
-    Flashcards](https://quizlet.com/class/2490040/)
--   [Application Developer Exam
-    Flashcards](https://quizlet.com/217493821/servicenow-application-developer-certification-flash-cards/)
--   [Practice Exam - Classmarker Practice
-    Exam](https://www.classmarker.com/online-test/start/?quiz=yb752a207d482ecf)
+-   [Udemy ServiceNow System Admin and App Developer Udemy Courses](https://www.udemy.com/courses/search/?q=ServiceNow)
+-   [System Administration Exam Flashcards](https://quizlet.com/class/2490040/)
+-   [Application Developer Exam Flashcards](https://quizlet.com/217493821/servicenow-application-developer-certification-flash-cards/)
+-   [Practice Exam - Classmarker Practice Exam](https://www.classmarker.com/online-test/start/?quiz=yb752a207d482ecf)
 
-## Prepare for the certifiaction
+## Prepare for the certification
 
-Servicenow does offer classes for the certifications, I wrote about them
+ServiceNow does offer classes for the certifications, I wrote about them
 on [/certifications](/certifications). But in short I'd suggest studying
 the appropriate blueprint;
 
@@ -208,8 +170,8 @@ Update \[July 1, 2018\]: As of 7/1/2018, its stated you need to take the
 class prior to testing for the certification. However, the webassesor
 link still works and lists the classes for me.
 
-Servicenow uses onsite testing and at home testing. For the at home
-testing you'll need a detacted webcam.
+ServiceNow uses onsite testing and at home testing. For the at home
+testing you'll need a detached webcam.
 
 At this time the cost is \$150 per certification.
 

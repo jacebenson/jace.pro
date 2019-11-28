@@ -12,7 +12,7 @@ date.\
 As much as I'd like to think that list will always exist, I've been
 burnt before, so this is my copy.
 
-# Best Practces
+# Best Practices
 
 Source:
 https://community.servicenow.com/community?id=community\_blog&sys\_id=6e7d6269dbd0dbc01dcaf3231f9619c0

@@ -29,9 +29,9 @@ is better, really its the same work. You'll set up a import table, and a
 transform map.
 
 If you are setting up a recurring import like from the stock market or
-some weather source the following questions ahve to be asked;
+some weather source the following questions have to be asked;
 
-## What triggers this data coming into Servicenow
+## What triggers this data coming into ServiceNow
 
 -   If what triggers this data is an interval, then it's just a matter
     of making a scheduled job/workflow that runs on that interval.
@@ -46,17 +46,17 @@ some weather source the following questions ahve to be asked;
     try to disable rules to allow you make these changes, or you can
     just trigger the event.
 
-## What data comes into servicenow, a full pull or just what's requested
+## What data comes into ServiceNow, a full pull or just what's requested
 
--   If the data that comes into Serivcenow is an individual record, it
+-   If the data that comes into ServiceNow is an individual record, it
     probably makes the most sense to do a outbound web service call like
     a REST or SOAP Call, that response you get back will have to be
-    parsed and then dealt with. I'd recomend dealing with it on a
+    parsed and then dealt with. I'd recommend dealing with it on a
     transform table because then you can just deal with the data and
     massage it like any other imported data.
--   If the data that comes into Servicenow is a full set of the data, it
+-   If the data that comes into ServiceNow is a full set of the data, it
     probably doesn't make sense to do it over a web service, as those
-    are genearlly paginated and that can be a pain to deal with,
+    are generally paginated and that can be a pain to deal with,
     ideally, you would have read access to their database, and you can
     pull it in.
 -   If not, the next best thing would be if they can prepare a single

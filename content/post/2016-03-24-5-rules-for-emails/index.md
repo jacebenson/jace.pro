@@ -12,13 +12,12 @@ draft: false
 projects: []
 ---
 
-Rules to follow for emails in Servicenow.
+Rules to follow for emails in ServiceNow.
 
 
-## Do not use the Servicenow provided email address
+## Do not use the ServiceNow provided email address
 
--   [Always set up your own
-    mailbox](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/administer/reference-pages/concept/c_AlternateEmailConfigurations.html)
+-   [Always set up your own mailbox](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/administer/reference-pages/concept/c_AlternateEmailConfigurations.html)
 -   Once someone knows about the email address, they never, ever, forget
     it, at least now you can get rid of it or change it accordingly.
 -   Changing the "From" on notifications can't be set without setting
@@ -31,7 +30,7 @@ Rules to follow for emails in Servicenow.
 
 1.  Ability to trigger the notification from any server side script.
 2.  Faster prototyping of the notification.  Why?  Because you can 
-    trigger the notification on sysevent.
+    trigger the notification on `sysevent`.
 3.  Events can also trigger Script Actions which allow you to run server
     scripts.
 4.  Workflow notifications are more limited in options than the same 
@@ -84,7 +83,7 @@ Rules to follow for emails in Servicenow.
 
 ## Memorize this diagram
 
-![Inboung Action processing](./5-rules-for-emails.png)
+![Inbound Action processing](./5-rules-for-emails.png)
 
 Above is a diagram from this
 [docs](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/administer/notification/concept/inbound-action-processing.html)

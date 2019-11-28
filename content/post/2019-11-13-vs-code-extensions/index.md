@@ -29,7 +29,7 @@ projects: []
 ---
 This post is about the state of code syncing tools for the VS Code tool.
 
-Recently [Andrew announced the new VS Code extension](https://developer.servicenow.com/blog.do?p=/post/vscode/).  I knew something was going to be released eventually because at K19 on the creatorcon keynote they briefly showed the creation of web components being built locally.  To do that you need something locally.  
+Recently [Andrew announced the new VS Code extension](https://developer.servicenow.com/blog.do?p=/post/vscode/).  I knew something was going to be released eventually because at K19 on the CreatorCon keynote they briefly showed the creation of web components being built locally.  To do that you need something locally.  
 
 With all that out of the way I want to show what is currently out there, and compare features.
 
@@ -37,11 +37,11 @@ Also it's worth noting once ServiceNow seems to release something most generally
 
 I'm going to compare the following file syncr's
 
-| Name | Installer | Source |
-| --- | --- | --- |
-| Sal Costa's Servicenow Sync | [VS Code Installer](https://marketplace.visualstudio.com/items?itemName=anerrantprogrammer.servicenow-sync) | [Source](https://github.com/salcosta/vsc-servicenow-sync) |
-| IntegrateNate's S.N.I.C.H. | [VS Code Installer](https://marketplace.visualstudio.com/items?itemName=integrateNate.snich) | [Source](https://github.com/RaynorUE/snich) |
-| ServiceNow® Extension for VS Code | [VS Code Installer](https://marketplace.visualstudio.com/items?itemName=ServiceNow.now-vscode) | NA |
+Name                              | Installer | Source
+--------------------------------- | --------- | ------
+Sal Costa's Servicenow Sync       | [VS Code Installer](https://marketplace.visualstudio.com/items?itemName=anerrantprogrammer.servicenow-sync) | [Source](https://github.com/alcosta/vsc-servicenow-sync)
+IntegrateNate's S.N.I.C.H.        | [VS Code Installer](https://marketplace.visualstudio.com/items?itemName=integrateNate.snich) | [Source](https://github.com/RaynorUE/snich)
+ServiceNow® Extension for VS Code | [VS Code Installer](https://marketplace.visualstudio.com/items?itemName=ServiceNow.now-vscode) | NA
 
 I'm not going to look at these as they either haven't been updated or require software I'm not going to stand up.  That is to say I respect the work done on these and these may have helped others make their tools, so to all of you who wrote these, good job. I do follow your work.
 
@@ -59,16 +59,16 @@ Many years ago I worked at Fruition Partners and was aware of the Filesync proje
 
 This tool is not dependant on any text editor like the rest but I believe this was and still is a source of inspiration for all of these tools.  Because this tool has no required editor, it in my opinion is going to be more available to more systems and users likes.
 
-This was originally written before scopes, so you literally had to set up what tables and columns you wanted and this will fetch the files and update the values in Servicenow in your current scope and update set.  
+This was originally written before scopes, so you literally had to set up what tables and columns you wanted and this will fetch the files and update the values in ServiceNow in your current scope and update set.  
 
 ## Sal Costa's Servicenow Sync
-I'm pretty partial to Sal's work as it to me has always been of very high quality.  As such I tried this out.  This reminded me very much of when I had used DynamicDan's fork.  It is more intuitive, but that is because the commands are all available in command palatte.  This extension has these features;
+I'm pretty partial to Sal's work as it to me has always been of very high quality.  As such I tried this out.  This reminded me very much of when I had used DynamicDan's fork.  It is more intuitive, but that is because the commands are all available in command palette.  This extension has these features;
 
 The good;
 
 
-- No preconfigured tables to start with, you have to specify what you want
-- Preconfigured fields for tables are set up once you add a table
+- No pre-configured tables to start with, you have to specify what you want
+- Pre-configured fields for tables are set up once you add a table
 - Can download records regardless of scope/application
 - Link to open the file in the browser
 - Compare file to server
@@ -76,7 +76,7 @@ The good;
 
 The bad;
 
-- No preconfigured tables to start with, you have to specify what you want
+- No pre-configured tables to start with, you have to specify what you want
 - No Intellisense
 - No way to download all files from a scope
 - No way to set your update set (No api made available)
@@ -91,7 +91,7 @@ Nate's extension had something many people wanted, Intellisense.  Somehow Nate h
 
 The good;
 
-- Preconfigured (also customizable) to download many system files and fields
+- Pre-configured (also customizable) to download many system files and fields
 - A way to download records regardless of scope/application
 - Compare file to server
 - Intellisense
@@ -113,11 +113,11 @@ Enter ServiceNow® Extension for VS Code extension.  I think they have a great p
 
 The good;
 
-- Preconfigured (*not customizable*) to download many system files and fields
+- Pre-configured (*not customizable*) to download many system files and fields
 - Compare file to server
 - Intellisense
 - Run highlighted code in or out of scope
-- ~~Link to open file in browser~~
+- Link to open file in browser (sometimes)
 - Can set your update set (Must be a new undocumented api)
 - Can set your scope
 - Works with Scoped applications
@@ -125,7 +125,7 @@ The good;
 The bad;
 
 - ~~Table configurations not modifiable~~
-- Table configurations do not allow you to modify preconfigured tables e.g. UI Pages, Business Rules
+- Table configurations do not allow you to modify pre-configured tables e.g. UI Pages, Business Rules
 - ~~Only works for Scoped Applications~~
 - Can work with global records if you know the plugin that includes the record in question
 - Has interesting way to configure initially (shown in video)
@@ -153,7 +153,7 @@ Legend;\
 | Opens file in the instance      | ✅              | ❌         | 😕❌               |
 | Executes code on server         | ✅              | ❌         | ✅                 |
 | Compares file to server         | ✅              | ✅         | ✅                 |
-| Preconfigured Setup             | ❌              | ✅         | ✅                 |
+| Pre-configured Setup            | ❌              | ✅         | ✅                 |
 | Customizable Setup              | ✅              | ✅         | 😕                 |
 | Has Intellisense                | ❌              | ✅         | ✅                 |
 | Works with Global               | ✅              | ✅         | ❌                 |

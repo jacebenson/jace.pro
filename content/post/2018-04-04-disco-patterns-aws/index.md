@@ -13,7 +13,7 @@ title: Discovery Patterns for AWS
 authors: ["jace"]
 ---
 
-Patterns are a new and interesting thing in Servicenow.
+Patterns are a new and interesting thing in ServiceNow.
 
 # Discovery Patterns
 
@@ -30,7 +30,7 @@ Also heres a link to the
 
 This
 [post](https://community.servicenow.com/community?id=community_question&sys_id=c5ec8b29db9cdbc01dcaf3231f9619bf)
-and this [youtube video](https://www.youtube.com/watch?v=R_49vxeGz78)
+and this [YouTube video](https://www.youtube.com/watch?v=R_49vxeGz78)
 really helped me understand how to get started.
 
 1.  Create a Process Classifier
@@ -38,10 +38,10 @@ really helped me understand how to get started.
 -   Relate the Horizontal Pattern and the *specific pattern* listed on
     the same line.
 
-1.  Create a New Web Servcie/Region/Logical Data Center
+1.  Create a New Web Service/Region/Logical Data Center
 
 -   Default endpoint `https://rds.amazonaws.com`
-    -   Regional endpoing `us-west`
+    -   Regional endpoint `us-west`
 -   Logical Data Center \[`cmp_discovery_ldc_config`\] record with the
     aws account, data center related.
 
@@ -84,7 +84,7 @@ Patterns are limited to following actions;
 | Find Matching URL         | ?                                                                                       |
 | Parse URL                 | ?                                                                                       |
 | Put File                  | ?                                                                                       |
-| Set Parameter Value       | This allows you to set easily referencable variables in `EVAL` scripts and other fields |
+| Set Parameter Value       | This allows you to set easily reference-able variables in `EVAL` scripts and other fields |
 | Unchange User             | ?                                                                                       |
 | Cloud REST Call           | This allows SN to make REST calls via the midserver to get data for this pattern        |
 

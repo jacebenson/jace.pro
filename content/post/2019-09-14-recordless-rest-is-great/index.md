@@ -28,10 +28,10 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-It seems this page was lost in the rearrangeing of files.  I pulled it out
+It seems this page was lost in the rearranging of files.  I pulled it out
 of storage
 
-I often use the recordless rest calls to test things. I didn't see it on
+I often use the record-less rest calls to test things. I didn't see it on
 my blog, so here's an example so I can find it in the future.\
 
 ```js

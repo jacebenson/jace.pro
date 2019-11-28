@@ -13,7 +13,7 @@ projects: []
 ---
 
 I recently had to add some code to set this for some reporting needs but
-really, this should be part of the offering Servicenow provides.
+really, this should be part of the offering ServiceNow provides.
 
 Below is my business rule, and fix script to catch new records and fix
 old records.

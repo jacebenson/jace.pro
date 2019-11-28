@@ -49,13 +49,13 @@ page. Here we've copied the props box styling from `/login.do`.
 
 The form tag with the action and method is important because that tells
 the form to run `system_properties_update.do` when the user clicks Save,
-more OOB functionality you can't seem to touch. The referer is also
+more OOB functionality you can't seem to touch. The referrer is also
 important to guide what page loads after they click save.
 
 Here's an agnostic version of Ben's markup in the HTML field of my UI
 Page. Client Script and Processing Script panes are empty.
 
-``` {.xml}
+```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
     <script>

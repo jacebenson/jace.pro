@@ -17,7 +17,7 @@ XML file for each incident. I knew of a way to do this, but it's
 
 So if you ever have a need to make something auto-download, that would
 seem pretty difficult as you need to set headers as mentioned [here on
-stackoverlow](https://stackoverflow.com/questions/386845/http-headers-for-file-downloads#386904).
+StackOverlow](https://stackoverflow.com/questions/386845/http-headers-for-file-downloads#386904).
 
 However, with processors this is a non-issue. Here's how to do it.
 

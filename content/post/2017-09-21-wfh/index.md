@@ -10,10 +10,7 @@ draft: false
 projects: []
 ---
 
-I think theoatmeal.com's [Why working from home is both awesome and
-HORRIBLE](http://theoatmeal.com/comics/working_home) sum's up a lot of
-the social considerations to keep in mind. I'll breakdown my opinion of
-these things and how to combat them and add a few below.
+I think theoatmeal.com's [Why working from home is both awesome and HORRIBLE](http://theoatmeal.com/comics/working_home) sum's up a lot of the social considerations to keep in mind. I'll breakdown my opinion of these things and how to combat them and add a few below.
 
 ## Degradation of social skills
 
@@ -61,8 +58,7 @@ these things and how to combat them and add a few below.
 -   Here's the things I'd suggest having;
     1.  Computer Chair (you'll be logging hundreds, if not thousands of
         hours in this thing, get one that's comfortable)
-    2.  [Active Noise Cancelling
-        headset](https://www.amazon.com/Plantronics-Voyager-Focus-B825-Headset/dp/B013F4LJTI)
+    2.  [Active Noise Cancelling headset](https://www.amazon.com/Plantronics-Voyager-Focus-B825-Headset/dp/B013F4LJTI)
     3.  Webcam (sometimes you just need to see someone's face, sometimes
         someone needs to see yours)
     4.  Mouse and Keyboard (again you'll be spending a lot of time with

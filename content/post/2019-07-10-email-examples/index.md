@@ -16,7 +16,7 @@ installations... this post is just that;
 
 ## Survey 1
 
-Subject: ServiceNow Customer Satification Survey for \[RECORD\]
+Subject: ServiceNow Customer Satisfaction Survey for \[RECORD\]
 
 > We would like to thank you again for being our customer.
 >
@@ -66,7 +66,7 @@ Subject: \[Priority\] \[Record Class\] Commented \- \[Company\] - \[Record\]: \[
 >
 > Steps to reproduce: \[Steps to reproduce\] 
 >
-> Business Cricality: \[Impact\] 
+> Business Criticality: \[Impact\] 
 >
 > Affected Users: \[Quantity of users\] 
 >

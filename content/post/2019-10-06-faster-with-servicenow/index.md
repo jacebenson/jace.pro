@@ -52,7 +52,7 @@ filter out
 This will load a textbox below each column, they work with text like so;
 
 - `text` defaults to starts with
-- `=text` is the exact match (case insensitve)
+- `=text` is the exact match (case insensitive)
 - `*text` is the text contains
 
 ## Jump around with breadcrumbs

@@ -21,11 +21,11 @@ that option because of one reason or another.
 Steps
 
 -   Comments are not on Catalog Task, so add that first.
--   Then Register an event called, custom.catalog.ritm.commented
+-   Then Register an event called, `custom.catalog.ritm.commented`
 -   Copy your Request Item Commented Notification.
 -   Change your notification to be triggered by event,
     `custom.catalog.ritm.commented` instead of by update or insert.
--   Change your notification so that the Who Will Recieve is unset, and
+-   Change your notification so that the Who Will Receive is unset, and
     check the box, Event parm 1 contains recipient
 -   Insert and stay on the notification for (`sc_req_item`)
 -   Insert and stay on the notification for (`sc_task`)

@@ -13,7 +13,7 @@ title: Megaphone
 authors: ["jace"]
 ---
 
-Megaphone is some hidden application Servicenow made but didn't release.
+Megaphone is some hidden application ServiceNow made but didn't release.
 
 This is not visible unless you change the module roles from `maint` to
 `admin`.

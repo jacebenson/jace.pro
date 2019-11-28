@@ -28,7 +28,7 @@ projects: []
 
 I posted a survey on Twitter a few weeks ago;
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Prosective <a href="https://twitter.com/hashtag/servicenow?src=hash&amp;ref_src=twsrc%5Etfw">#servicenow</a> employers, what do you find more telling of a quality applicant? <a href="https://twitter.com/hashtag/servicenowdev?src=hash&amp;ref_src=twsrc%5Etfw">#servicenowdev</a>. If it&#39;s something else, reply to this.</p>&mdash; Jace Benson 👨‍💻⚙️ (@jacebenson) <a href="https://twitter.com/jacebenson/status/1145689658791272448?ref_src=twsrc%5Etfw">July 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Prospective <a href="https://twitter.com/hashtag/servicenow?src=hash&amp;ref_src=twsrc%5Etfw">#servicenow</a> employers, what do you find more telling of a quality applicant? <a href="https://twitter.com/hashtag/servicenowdev?src=hash&amp;ref_src=twsrc%5Etfw">#servicenowdev</a>. If it&#39;s something else, reply to this.</p>&mdash; Jace Benson 👨‍💻⚙️ (@jacebenson) <a href="https://twitter.com/jacebenson/status/1145689658791272448?ref_src=twsrc%5Etfw">July 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Why does this matter?
 
@@ -49,4 +49,4 @@ Let's follow one of my... Twitter threads;
 
 Let me just say this one more time.  If I were hiring, and as the top survey had shown, showing results is better than a certificate any day.  I'd suggest creating something instead of getting certified.  If, you have to get certified, just realize it's likely not what you think it is.  
 
-None of these things garentee employement and at least if you have something you made, you can have that in a portfolio which is better than a piece of paper saying you know ITSM.
+None of these things guarantee employment and at least if you have something you made, you can have that in a portfolio which is better than a piece of paper saying you know ITSM.

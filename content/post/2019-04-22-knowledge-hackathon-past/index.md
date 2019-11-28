@@ -17,14 +17,12 @@ authors: ["jace"]
 ---
 
 This year I'm fortunate enough to go to knowledge, and one of my
-favorite SN people, Robert Fedoruk, posted a [youtube video about
-winning
-hackathons](https://www.youtube.com/watch?v=ctzX-ANG_Sk&feature=youtu.be).
+favorite SN people, Robert Fedoruk, posted a [YouTube video about winning hackathons](https://www.youtube.com/watch?v=ctzX-ANG_Sk&feature=youtu.be).
 
 In the spirit of sharing I'm adding a list I compiled after some
 searching to see what's won previously as it wasn't aggregated anywhere
 I could see. I'd love to see these shared in an open way after wards but
-if this just make the competeition better, than that's great and my goal
+if this just make the competition better, than that's great and my goal
 here. Below is that list.
 
 # Knowledge Things
@@ -48,7 +46,7 @@ here. Below is that list.
     the ServiceNow Content Management System (CMS), and wrote driver
     software to link the tablet with the ServiceNow platform.
 -   [KickITnow (video)](https://youtu.be/NSWwunAHhjA) - Winner - a
-    kind-of "corporate Kickstarter" for incubating projects within an
+    kind-of "corporate KickStarter" for incubating projects within an
     enterprise
 
 ## 2014
@@ -56,12 +54,12 @@ here. Below is that list.
 [Post](https://community.servicenow.com/community?id=community_blog&sys_id=a76caea1dbd0dbc01dcaf3231f961993)
 
 -   [SchoolHub (video)](https://vimeo.com/96734925) - Winner - App to
-    structure the interaction between teachers (give assigments and
+    structure the interaction between teachers (give assignments and
     grades), faculty (biographies, tracking attendance), parents (check
     the grades, fill out all kinds of forms --- absence, dietary,
     holiday requests) and students (survey teachers, get assignments)
 -   SociaLoop - Finalist - a Social Media Campaign Management
-    application, enabling organisations to activate all employees around
+    application, enabling organizations to activate all employees around
     social media.
 -   Password Vault - Finalist - The app generates a secured password and
     we use orchestration to make the change a reality. The credentials
@@ -81,8 +79,7 @@ here. Below is that list.
 
 [Post](https://community.servicenow.com/community?id=community_blog&sys_id=0a3daae5dbd0dbc01dcaf3231f9619f9)
 
--   [FEMA Victim Assistance (cube talk
-    video)](https://youtu.be/Kpgqp1otikY?t=54) - First - ServiceNow
+-   [FEMA Victim Assistance (cube talk video)](https://youtu.be/Kpgqp1otikY?t=54) - First - ServiceNow
     Saving Lives. It will be something very special.
 -   Cinema food ordering - Finalist - app that would allow movie
     audience to scan a QR code on their seat, complete and submit an
@@ -97,8 +94,7 @@ here. Below is that list.
 
 [Post](https://community.servicenow.com/community?id=community_blog&sys_id=26ac6625dbd0dbc01dcaf3231f96191d)
 
--   [Happiness
-    Service](https://www.linium.com/research/news-updates/vote-team-smiles-to-win-servicenow-knowledge16-hackathon)
+-   [Happiness Service](https://www.linium.com/research/news-updates/vote-team-smiles-to-win-servicenow-knowledge16-hackathon)
     \| innovation - app that brings together kids awaiting organ
     transplants and people who want to grant their wish and donate
     money.

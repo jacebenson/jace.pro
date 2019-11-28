@@ -10,7 +10,7 @@ authors: ["jace"]
 ---
 
 I was asked to present a lab I submitted to
-[K19](/post/2018-12-02-k19-proposals/) at the local Minnesota Servicenow
+[K19](/post/2018-12-02-k19-proposals/) at the local Minnesota ServiceNow
 User Group. I thought this would be great so I went down the path of
 making this small lab about using import sets.
 
@@ -21,16 +21,16 @@ The short version of this is;
 
 Always use import sets for data from another system, and always store
 all the data you can see in that import set so you don't have to get
-into the integration to do modificaitons.
+into the integration to do modifications.
 
 You may hear reasons to not do this;
 
-**Objection:** "This is just a small Solarwinds import to add to our
+**Objection:** "This is just a small SolarWinds import to add to our
 network devices, It would be just as fast to write to the table in a
 script include."
 
 **What you should think:** "Sure, but then the moment they change their
-data or want to coalesc on something else, you'll have to re-interogate
+data or want to coalesce on something else, you'll have to re-interrogate
 the data to map it."
 
 **What you should say:** \"Any integration needs to come in to a import

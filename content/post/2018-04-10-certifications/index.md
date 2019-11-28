@@ -121,7 +121,7 @@ some folks have said
 | Follow Comptia Model      | 20%    |
 | 10 votes                  |        |
 
-> Prosective \#servicenow employers, what do you find more telling of a
+> Prospective \#servicenow employers, what do you find more telling of a
 > quality applicant? \#servicenowdev. If it's something else, reply to
 > this.
 >
@@ -145,5 +145,5 @@ With all this being said, I also did some quick math;
 | Total Class Cost                     |           0 |      18,000 | 0            | 1,350,000    |
 | Exam Cost                            |         150 |         150 | 150          | 150          |
 | Total Exam Cost                      |         450 |       1,350 | 33,750       | 101,250      |
-| Maintainence Cost (every 3 releases) |           0 |         100 | 0            | 100          |
-| Total Maintainence Cost              |           0 |         900 | 0            | 67,500       |
+| Maintenance Cost (every 3 releases) |           0 |         100 | 0            | 100          |
+| Total Maintenance Cost              |           0 |         900 | 0            | 67,500       |

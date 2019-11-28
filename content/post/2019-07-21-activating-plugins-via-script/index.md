@@ -12,7 +12,7 @@ Sometimes you have a whole bunch of plugins to install. No reason to
 keep your screen busy, you can script it, here's how.
 
 Some smart person named Ashby posted about this. I haven't tested it
-out, but this seems promsing and likely undocumented.
+out, but this seems promising and likely undocumented.
 
 ```js
 //Partial Version

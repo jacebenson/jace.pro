@@ -6,11 +6,11 @@ authors: ["jace"]
 ---
 
 A long time ago, before `sn_sc`, before Scripted Rest APIs, could only
-use processors to make these things. My colleuges and I made one to meet
+use processors to make these things. My colleagues and I made one to meet
 the needs of some other team.
 
 I think it's still better than the out of box `sn_sc`, however since
-Servicenow has their own I haven't maintained it.
+ServiceNow has their own I haven't maintained it.
 
 In this post you'll see the code that was used to generate the responses
 it is missing the actual processor code. However it literally just

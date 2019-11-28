@@ -19,7 +19,7 @@ in the past which have no "claimed by" yet and are in a state of ready.
 It orders by "process on" and limits to 100 at a time.
 
 So the 100 "oldest" unprocessed events are claimed and a worker start
-going through them sequenctially. As they are completed, the state
+going through them sequentially. As they are completed, the state
 changes. When all 100 are done, the thread goes back to slep and waits
 to be woken again by the scheduled job.
 

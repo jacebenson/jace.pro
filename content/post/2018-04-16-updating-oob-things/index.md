@@ -10,7 +10,7 @@ authors: ["jace"]
 This is something I've been told differently how to manage out of the
 box records. I go over the pros and cons of them here.
 
-# Ways to work with Out of Box things in Servicenow
+# Ways to work with Out of Box things in ServiceNow
 
 ## Jakarta and later
 
@@ -36,7 +36,7 @@ the following pros/cons
 | Pros                                                             | Cons                           |
 |------------------------------------------------------------------|--------------------------------|
 | Least amount of work                                             | Upgrade would show any changes |
-| No referncing newly created scripts as new code is in oob record |                                |
+| No referencing newly created scripts as new code is in oob record |                                |
 
 ### Inactive and make new
 

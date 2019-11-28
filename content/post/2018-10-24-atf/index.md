@@ -12,7 +12,7 @@ DigitalOcean and Github for the last few years have put together an
 event called "Hactoberfest" where you can sign up and get a shirt after
 5 pull requests.
 
-I've made a repo to build out tests for all of servicenow's tool to help
+I've made a repo to build out tests for all of ServiceNow's tool to help
 everyone get there.
 
 Check it out [on Github](https://atf.jace.pro).

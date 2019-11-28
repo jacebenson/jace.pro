@@ -23,7 +23,7 @@ Report type: List
 | manual\_labor | `true`                                  |
 | form          | `list`                                  |
 | query         | encoded query                           |
-| field\_list   | comma seperated list of fields you want |
+| field\_list   | comma separated list of fields you want |
 | type          | `list`                                  |
 | table         | `table`                                 |
 

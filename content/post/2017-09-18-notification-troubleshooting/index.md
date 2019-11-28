@@ -28,7 +28,7 @@ Check these things.
     [KB0528671](https://hi.service-now.com/kb_view.do?sysparm_article=KB0528671)
 9.  On the user, verify they have an email account, is active, has no
     notification issues
-10. On the user's notification devices (cmn\_notif\_device\_list.do),
+10. On the user's notification devices (`cmn_notif_device_list.do`),
     verify the user has a "Primary Email" device and it it correct.
     [KB0528667](https://hi.service-now.com/kb_view.do?sysparm_article=KB0528667)
 11. On the user's notification subscriptions, verify they haven't
@@ -45,8 +45,7 @@ Check these things.
     [Youtube](https://www.youtube.com/watch?v=gYVwq8pH0-A)
 
 1.  Validate any mail is working
-2.  Validate the system is not sending to the debug user. [Outbound Mail
-    Configuration](https://docs.servicenow.com/bundle/helsinki-servicenow-platform/page/administer/reference-pages/reference/r_OutboundMailConfiguration.html)
+2.  Validate the system is not sending to the debug user. [Outbound Mail Configuration](https://docs.servicenow.com/bundle/helsinki-servicenow-platform/page/administer/reference-pages/reference/r_OutboundMailConfiguration.html)
 3.  Validate the system is enabled to send email
     [KB0524529](https://hi.service-now.com/kb_view.do?sysparm_article=KB0524529)
 

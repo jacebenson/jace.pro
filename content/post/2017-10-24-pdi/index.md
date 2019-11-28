@@ -13,29 +13,16 @@ aliases: ['/pdi']
 
 Things you should do with you PDI when you zboot it.
 
-1.  [Create Local Account with your
-    name/email](https://.service-now.com/nav_to.do?uri=%2Fsys_user_list.do)
-
--   Give your account `admin` and `security_admin` roles
--   [Script To do this](#background-script-to-do-this)
-
-1.  [Lockout all other
-    users](https://.service-now.com/nav_to.do?uri=%2Fsys_user_list.do)
-2.  [Activate
-    Plugins](https://.service-now.com/nav_to.do?uri=%2Fv_plugin_list.do)
-
--   [User Registration
-    Request](https://.service-now.com/v_plugin.do?sys_id=com.snc.user_registration)
-
-1.  [Disable any "application"
-    menus](https://.service-now.com/nav_to.do?uri=%2Fsys_app_application_list.do)
-    you don't intend to use.
-2.  [Update dictionary on task.wf\_activity to be
-    "active"](https://.service-now.com/nav_to.do?uri=%2Fsys_dictionary_list.do%3Fsysparm_query%3Dname%253Dtask%255Eelement%253Dwf_activity)
-3.  [Set up Oauth with Github for faster
-    login](https://community.servicenow.com/community/develop/developer-relations/blog/2017/03/10/live-coding-happy-hour-recap-for-march-10-2017-oauth-part-3-github-api-and-one-token-per-user)
-4.  [Load any update
-    sets/applications/shares](https://.service-now.com/nav_to.do?uri=%2Fsys_remote_update_set_list.do)
+1.  [Create Local Account with your name/email](https://.service-now.com/nav_to.do?uri=%2Fsys_user_list.do)
+    -   Give your account `admin` and `security_admin` roles
+    -   [Script To do this](#background-script-to-do-this)
+1.  [Lockout all other users](https://.service-now.com/nav_to.do?uri=%2Fsys_user_list.do)
+1.  [Activate Plugins](https://.service-now.com/nav_to.do?uri=%2Fv_plugin_list.do)
+    -   [User Registration Request](https://.service-now.com/v_plugin.do?sys_id=com.snc.user_registration)
+1.  [Disable any "application" menus](https://.service-now.com/nav_to.do?uri=%2Fsys_app_application_list.do) you don't intend to        use.
+2.  [Update dictionary on task.wf\_activity to be "active"](https://.service-now.com/nav_to.do?uri=%2Fsys_dictionary_list.do%3Fsysparm_query%3Dname%253Dtask%255Eelement%253Dwf_activity)
+3.  [Set up Oauth with Github for faster login](https://community.servicenow.com/community/develop/developer-relations/blog/2017/03/10/live-coding-happy-hour-recap-for-march-10-2017-oauth-part-3-github-api-and-one-token-per-user)
+4.  [Load any update sets/applications/shares](https://.service-now.com/nav_to.do?uri=%2Fsys_remote_update_set_list.do)
     you have saved off locally or in git repositories.
 
 # Useful Share/Applications/Update Sets

@@ -30,12 +30,12 @@ I posted a survey on Twitter a few weeks ago;
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What&#39;s better? Fully Automated with many questions, or nearly automated process with very simple inputs? <a href="https://twitter.com/hashtag/ServiceNowDev?src=hash&amp;ref_src=twsrc%5Etfw">#ServiceNowDev</a> <a href="https://twitter.com/hashtag/ServiceNow?src=hash&amp;ref_src=twsrc%5Etfw">#ServiceNow</a> <a href="https://twitter.com/hashtag/Survey?src=hash&amp;ref_src=twsrc%5Etfw">#Survey</a> <br>One means, make it and forget, the other means a better user experience.</p>&mdash; Jace Benson 👨‍💻⚙️ (@jacebenson) <a href="https://twitter.com/jacebenson/status/1174684663861956609?ref_src=twsrc%5Etfw">September 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Once I came to this realization that User Experience(UX) is literally more imporant then getting
-all the details from an end user, it literally took me three days to sort it interally.
+Once I came to this realization that User Experience(UX) is literally more important then getting
+all the details from an end user, it literally took me three days to sort it internally.
 
 But like a good survey, a good form should only ask the very bare minimum to get the request going.
 If 80% of the requests for a complicated item are in favor of one type of response, I'd argue, you
-should either assume every request is for that option, or make a seperate item for the other option.
+should either assume every request is for that option, or make a separate item for the other option.
 
 ## Why?
 
@@ -61,14 +61,14 @@ What does this form look like when it's simplified?
 - What group needs this new member?
 - Who is this new member?
 
-Now about the removing of a user, I'd say it would make more sense to seperate that into a seperate 
-item.  Once items are simplified you can have other systems potiently digest them.  Imagine searching 
+Now about the removing of a user, I'd say it would make more sense to separate that into a separate 
+item.  Once items are simplified you can have other systems potentially digest them.  Imagine searching 
 for "how to add a user to a group" and being asked by Clippy if you'd like to add a user to a group, 
 without leaving search, and having it render this simple item.  
 
 To me that sounds delightful.  It just bothers me so much that I've been all about full end-to-end 
 automation until now.  I'm not saying that those details are not needed.  Sometimes those details will
-require someone to actaully talk to the person who asked for this item.  That is not so bad.
+require someone to actually talk to the person who asked for this item.  That is not so bad.
 
 ## What about more complex items?
 
@@ -83,7 +83,7 @@ So sure, lets talk about two other more complex items.
    Again I'd argue we probably don't need the why, and should leave that up to the telephony group to 
    ask the requester.  
 1. Requesting a certificate, you know like SSL certificates\
-   Here things that are needed are the domain, the type of certifacate (e.g. Standard, SAN, Wildcard),
+   Here things that are needed are the domain, the type of certificate (e.g. Standard, SAN, Wildcard),
    a password, an responsible group.  I'd argue this should be an item per type as most the requests
    are likely standard certificate.  
 

@@ -38,13 +38,11 @@ these tests to confirm that the instance still works as designed.
 Initially it could only open a form, set field values, validate values,
 and submit the form.
 
-[Release
-Notes](https://docs.servicenow.com/bundle/istanbul-release-notes/page/release-notes/servicenow-platform/automated-test-framework-rn.html)
+[Release Notes](https://docs.servicenow.com/bundle/istanbul-release-notes/page/release-notes/servicenow-platform/automated-test-framework-rn.html)
 
 ## Email REST API
 
-[Release
-Notes](https://docs.servicenow.com/bundle/istanbul-release-notes/page/release-notes/servicenow-platform/email-service-rn.html)
+[Release Notes](https://docs.servicenow.com/bundle/istanbul-release-notes/page/release-notes/servicenow-platform/email-service-rn.html)
 
 ## Script Debugger
 
@@ -64,14 +62,12 @@ developer to:
 -   View the transaction the system is processing.
 -   Turn off the script debugger to resume running paused scripts.
 
-[Release
-Notes](https://docs.servicenow.com/bundle/istanbul-release-notes/page/release-notes/application-development/script-debugger-rn.html)
+[Release Notes](https://docs.servicenow.com/bundle/istanbul-release-notes/page/release-notes/application-development/script-debugger-rn.html)
 
-## HR Serivce Management (Scoped)
+## HR Service Management (Scoped)
 
 Prior to Istanbul the HRSM was a "global" application. After Istanbul it
-is now scoped. They are really seperate, but going forward the scoped
+is now scoped. They are really separate, but going forward the scoped
 version has been getting all the attention.
 
-[Releast
-Notes](https://docs.servicenow.com/bundle/istanbul-release-notes/page/release-notes/service-management/human-resources-rn.html)
+[Release Notes](https://docs.servicenow.com/bundle/istanbul-release-notes/page/release-notes/service-management/human-resources-rn.html)

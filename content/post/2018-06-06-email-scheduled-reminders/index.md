@@ -8,7 +8,7 @@ authors: ["jace"]
 ---
 
 This has come up often enough that it merits a post. Reminders of sorts
-can be set up a few ways in Servicenow. This is just the pros and cons
+can be set up a few ways in ServiceNow. This is just the pros and cons
 of each.
 
 So there's a few ways I know of doing this;
@@ -27,7 +27,7 @@ scheduled report.
 
 | Pro                                        | Con                                        |
 |--------------------------------------------|--------------------------------------------|
-| Only requires Report, and Scheduled Report | Only occures at the frequency it scheduled |
+| Only requires Report, and Scheduled Report | Only occurs at the frequency it scheduled  |
 | No coding required                         | Less configurable                          |
 | No email template to set up                | Email is set based on report sharing       |
 
@@ -35,14 +35,14 @@ scheduled report.
 
 | Pro                | Con                                        |
 |--------------------|--------------------------------------------|
-| No coding required | Only occures at the frequency it scheduled |
+| No coding required | Only occurs at the frequency it scheduled |
 |                    | Specific to tasks                          |
 
 ## Scheduled Job
 
 | Pro                                             | Con                                        |
 |-------------------------------------------------|--------------------------------------------|
-| Only Requires Scheduled Job, Event, Notificiton | Only occures at the frequency it scheduled |
+| Only Requires Scheduled Job, Event, Notification | Only occurs at the frequency it scheduled |
 | Very configurable due to coding                 | Requires coding                            |
 
 ## Scheduled Events

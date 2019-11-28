@@ -32,7 +32,7 @@ First, I have to say, thank you @paige for making me aware.  I really appreciate
 
 [Form annotations](https://docs.servicenow.com/bundle/newyork-platform-administration/page/administer/form-administration/concept/c_FormAnnotation.html)
 can be really helpful and powerful.  You can use them help users enter the 
-right information and users can turn them off when they feel comforatable.  
+right information and users can turn them off when they feel comfortable.  
 The other day on [slack](https://sndevs.com) I think Paige mentioned they 
 just flat out do not work on service portal.  This is a real shame.  
 

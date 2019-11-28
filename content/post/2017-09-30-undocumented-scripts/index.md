@@ -11,7 +11,7 @@ projects: ['sn-docs']
 ---
 
 I am starting to make a page I can easily reference with things that
-Servicenow just omits about their code.
+ServiceNow just omits about their code.
 
 -   Server-Side APIs (gathered using
     [Xplore](https://share.servicenow.com/app.do#/detailV2/9a1be70e13800b000de935528144b04c/overview)

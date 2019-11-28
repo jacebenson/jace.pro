@@ -23,7 +23,7 @@ function($scope, spUtil) {
       jQuery(this).attr('style','');
     });
   });
-  //works if run in the console after page load but not ehre
+  //works if run in the console after page load but not here
   */
   $scope.watch_list = {
     displayValue: c.data.watch_list.displayValue,

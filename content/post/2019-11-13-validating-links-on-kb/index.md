@@ -35,10 +35,10 @@ Got me thinking, I should share this, cause someone might find it useful.
 
 > Jace: You'd need to do the following steps;\
 > 1  Gather the outbound links\
-> 2  Make a http request to the endpoint to ensure it returns whatever is valid (is a 301 okay, taht's a redirect?)\
+> 2  Make a http request to the endpoint to ensure it returns whatever is valid (is a 301 okay, that's a redirect?)\
 > 3  Once you get the response, do something when you have an issue.\
 > To do 1, you could GlideRecord over the KB records and use regex to extract the links.  \
-> You'll probably want to make an object where the link name is the property, and store the KB article as an array so if multiple articles use the same link you dont need to test repeatedly.  \
+> You'll probably want to make an object where the link name is the property, and store the KB article as an array so if multiple articles use the same link you don't need to test repeatedly.  \
 > You're output will look like\
 > 
 ```json
@@ -70,4 +70,4 @@ function doRestCall(url){
 }
 ``` 
 
-This could easily be adapted to a business rule or scheduled job to verify sites are available.  One thing that would be intereseting would be having this process check if the site is on the wayback machine, if it is rewrite the link, if it is not, request it there and rewrite it to there.
+This could easily be adapted to a business rule or scheduled job to verify sites are available.  One thing that would be interesting would be having this process check if the site is on the [Wayback machine](https://archive.org/web/web.php), if it is rewrite the link, if it is not, request it there and rewrite it to there.

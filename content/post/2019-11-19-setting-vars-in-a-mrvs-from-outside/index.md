@@ -30,9 +30,9 @@ projects: []
 
 A while ago [I wrote about](https://jace.pro/post/2019-09-06-mvrs-dependent-variables/) using Dependent variables in a Multi Row Variable Set (MRVS).  In there something always bothered me.  The whole bit about how you can not access the variables outside of the MRVS.
 
-Today a former collegue of mine asked me, "How do you get a value from the main form variable onto the mrsv field?"
+Today a former colleague of mine asked me, "How do you get a value from the main form variable onto the MRVS field?"
 
-I wanted to help, so I talked through the options available that I have not tested.  In his case he was trying to use a "date" varialbe on the main form, and then allow many things to default to that date and allow that date to be different if need be.
+I wanted to help, so I talked through the options available that I have not tested.  In his case he was trying to use a "date" variable on the main form, and then allow many things to default to that date and allow that date to be different if need be.
 
 The options as I saw them were these (none of these work);
 
@@ -42,19 +42,17 @@ The options as I saw them were these (none of these work);
 
 After talking about these options it was really clear that there should be another way.  I found one.  Here it is, it is not as elegant as I'd like.
 
-This uses user preferences to solve this issue.  On change of the main form's variable, set the preference.  On the MRVS set the defualt value based on that preference.  With no futher ado here's how to test and set this up if you want to see it in action.
+This uses user preferences to solve this issue.  On change of the main form's variable, set the preference.  On the MRVS set the default value based on that preference.  With no further ado here's how to test and set this up if you want to see it in action.
 
 1.  Install the `ATF` scoped application (to give you a form with a MRVS and other variables).  We'll be using the MRVS and the `Date` variable.
 1.  On the Test Item, look at the related variable set.  Update the "Question" variable's default value to this script;
-    
     ```
-    //default value on variable in mvrs
+    //default value on variable in MRVS
     javascript: (function(){
       var currentUser = gs.getUser(); 
-      return currentUser.getPreference('atf.customform.date');
+      return currentUser.getPreference('customform.date');
     })()
     ```
-
 1.  Now we can't set a preference in a client script, but we need to.  So we'll need to create a script include that's client callable.  Here's mine.
     ```
     //script include
@@ -76,7 +74,7 @@ This uses user preferences to solve this issue.  On change of the main form's va
     
 4.  After that's created we can set the preference with a client script.  Here's that code.
 
-    ```
+    ```js
     function onChange(control, oldValue, newValue, isLoading) {
       if (isLoading || newValue == '') {
         return;
@@ -95,7 +93,7 @@ This uses user preferences to solve this issue.  On change of the main form's va
     }
     ```
 
-So now that those parts are happening here's what's occuring;
+So now that those parts are happening here's what's occurring;
 
 When your user sets the "Date" variable, you are creating or updating that user's `sys_user_preference`.  Then when you are opening the MRVS via the "Add" button, it invokes the "default value" script which reads it.  Really it's pretty simple once you boil it down.
 

@@ -9,7 +9,7 @@ aliases:
 
 So I decided to take a look at the new licensing. Here's my notes;
 
-## Why platform licensing is changins
+## Why platform licensing is changing
 
 Create Custom tables and extend functionality.
 
@@ -20,8 +20,8 @@ Create Custom tables and extend functionality.
 -   Unlimited custom tables can be created for the purpose of
     **configuring and customizing the owned products.**
 
-Issues with this are; - Identifing what is **"an app"** and if it was
-**"within the same buisness purpose"** is time consuming and difficult.
+Issues with this are; - Identifying what is **"an app"** and if it was
+**"within the same business purpose"** is time consuming and difficult.
 - The definitions of **"an app"** and **"business purpose"** are
 **subjective**.
 
@@ -29,7 +29,7 @@ Issues with this are; - Identifing what is **"an app"** and if it was
 
 -   Per User model with one **simple, transparent, and objective meter**
     for the extensibility of the platform -- **custom tables**
--   While ensuring we **do no harm** to our products and contiue to
+-   While ensuring we **do no harm** to our products and continue to
     **enable configuration and customization freedom**.
 -   This no longer uses business purpose or application definitions.
 
@@ -37,7 +37,7 @@ Issues with this are; - Identifing what is **"an app"** and if it was
 
 ### Bundled Subscription Entitlements
 
-| New Subscription Package | Custom Tables | Custom Fields | Mobile Studio | Performance Analitics | Virtual Agent | Agent Intelligence |
+| New Subscription Package | Custom Tables | Custom Fields | Mobile Studio | Performance Analytics | Virtual Agent | Agent Intelligence |
 |--------------------------|---------------|---------------|---------------|-----------------------|---------------|--------------------|
 | ITSM Standard            | 25            | X             | 50            |                       |               |                    |
 | ITSM Pro                 | 50            | X             | 50            | X                     | X             | X                  |
@@ -50,24 +50,24 @@ Issues with this are; - Identifing what is **"an app"** and if it was
 
 ### User Licenses
 
-| Product Bundles | Type                    | Licensed By             |
-|-----------------|-------------------------|-------------------------|
-| ITSM \*         | User                    | Named (ITSM) Fulillers  |
-| ITSM \*         | User                    | Named (ITSM) Approvers  |
-| ITSM \*         | User                    | Named (ITSM) Requesters |
-| HR \*           | User                    | HR Users                |
-| ITAM            | Unrestricted User Model | ?                       |
-| ITBM            | ?                       | ?                       |
-| ITOM            | Unrestricted User Model | ?                       |
-| SecOps          | Unrestricted User Model | ?                       |
-| GRC             | ?                       | ?                       |
-| DevOps          | ?                       | ?                       |
+| Product Bundles | Type                    | Licensed By              |
+|-----------------|-------------------------|--------------------------|
+| ITSM \*         | User                    | Named (ITSM) Fulfillers  |
+| ITSM \*         | User                    | Named (ITSM) Approvers   |
+| ITSM \*         | User                    | Named (ITSM) Requesters  |
+| HR \*           | User                    | HR Users                 |
+| ITAM            | Unrestricted User Model | ?                        |
+| ITBM            | ?                       | ?                        |
+| ITOM            | Unrestricted User Model | ?                        |
+| SecOps          | Unrestricted User Model | ?                        |
+| GRC             | ?                       | ?                        |
+| DevOps          | ?                       | ?                        |
 
 #### Personas Concepts
 
 For ITSM;
 
--   ITSM Fullfiller has access to all the 50 custom tables to create,
+-   ITSM Fulfiller has access to all the 50 custom tables to create,
     read, update, and delete any records.
 -   ITSM Requester has access to all 50 custom tables to create, read,
     update, and delete **their** records only.
@@ -108,12 +108,12 @@ Each custom table under the bundle can have up to 50 custom fields
 | Professional | 200           | 50            | X             | X                     | X             | X                  |
 | Enterprise   | 4000          | 100           | X             | X                     | X             | X                  |
 
--   Platform User's are not differented like ITSM's fulfillers,
+-   Platform User's are not differentiated like ITSM's fulfillers,
     approvers, requesters.
 -   Platform User's consume a entitlement if you have access to a custom
     table. By Access, we mean, "Create Read Update rights".
     -   The following User Actions on a custom table request a
-        subscrition
+        subscription
     -   Read/View: Look at the custom table or a record in a custom
         table directly
     -   Create/Insert: Create a new record in the custom table, directly
@@ -125,7 +125,7 @@ Each custom table under the bundle can have up to 50 custom fields
 -   The 5 tables can be different on a user-by-user basis. E.g. If is in
     Marketing and Bill is in HR. They may access 5 **different tables**
     and still be valid Starter Users
--   If the table has Agent Inteligence, Virtual Agent, or Performance
+-   If the table has Agent Intelligence, Virtual Agent, or Performance
     Analytics, the user **must** have the Professional, or Enterprise
     entitlement.
 -   For the starter package, you need to get one for every active
@@ -183,14 +183,14 @@ application.
 -   sf\_state\_flow
 -   sc\_cat\_item\_delivery\_task
 
-## Developement Implcations
+## Development Implications
 
 Applications are either Paid or Free
 
 | Paid Apps                                                                           | Free Apps                                                    |
 |-------------------------------------------------------------------------------------|--------------------------------------------------------------|
 | Custom tables are covered in the Application Price.                                 | Custom tables are **not covered** in the Application Price.  |
-| Tables that are extended fromt he origianal store app tables require a subscription | App Store will list the number of tables in the app.         |
+| Tables that are extended from the original store app tables require a subscription | App Store will list the number of tables in the app.         |
 |                                                                                     | Custom tables that are supporting Integrations are excluded. |
 
 Development Considerations
@@ -201,7 +201,7 @@ Development Considerations
 4.  Be aware of how many tables are available within a bundle
 5.  Extensions of core tables are counted (e.g. extending incident)
 6.  AI on a custom table requires a Pro or higher subscription
-7.  Leave enough rool for furture developement needs
+7.  Leave enough room for future development needs
 8.  Be aware of the custom field limits for a table
 
 
@@ -215,8 +215,6 @@ I came across a [shared pdf file](./new_york_one_pager.pdf) on Slack.
 
 ## Further Reading
 
--   [New license model from Servicenow by Michael
-    Bankwitz](https://www.michael-bankwitz.de/en/2019/03/20/new-license-model-from-servicenow/)
 -   [Understanding your servicenow
     licensing](https://blog.jace.pro/post/2017-12-02-licensing/)
 -   [New York One Pager](./new_york_one_pager.pdf)

@@ -27,7 +27,7 @@ Here's what I mean.  Imagine you have a item to request a Single Board Computer.
 Lets say those options are;
 
 - Raspberry Pi Zero
-- Raspverry Pi 4
+- Raspberry Pi 4
 - Paperclip
 
 And you want to show the spec differences.  Normally you'd have to let 

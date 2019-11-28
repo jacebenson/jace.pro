@@ -9,7 +9,7 @@ authors: ["jace"]
 ---
 
 Dev Toolbox is a scoped app to capture tests for all the Out of Box
-servicenow applications. This is a scoped application for Service-now to
+ServiceNow applications. This is a scoped application for Service-now to
 allow some utilities to be easily added and maintained on instances.
 
 Now the difference between Jim's and mine is, well was, I haven't

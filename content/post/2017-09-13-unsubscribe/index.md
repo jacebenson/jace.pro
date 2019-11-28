@@ -14,7 +14,7 @@ A stakeholder asked to have users verify they actually want to unsubscribe from
 an email instead of assuming they want to unsubscribe. To do
 this I made a simple UI Page. Below is the code;
 
-Below is the mailscript and ui page. They work together.
+Below is the mail script and ui page. They work together.
 
 ```js
 ${mail_script:unsubscribe_emails}

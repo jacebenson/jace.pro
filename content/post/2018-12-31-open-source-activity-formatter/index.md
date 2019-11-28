@@ -5,7 +5,7 @@ title: Open Source Activity Formatter
 authors: ["jace"]
 ---
 
-The Out of Box activity formatter is... somthing... isn't it? It has a
+The Out of Box activity formatter is... something... isn't it? It has a
 lot of features, but with those features it has a number of issues and
 it's one of the things HI's never given out.
 
@@ -16,7 +16,7 @@ It was really a short post but the idea started before then when I was
 asked to control specifically what emails could and could not show up on
 the formatter. I thought the formatter respected ACLs and Before
 Business Rules, but it does not. I opened a HI ticket as this seems like
-a bug, if I add an ACL or a before business rule to restict access to
+a bug, if I add an ACL or a before business rule to restrict access to
 something it should be restricted however it's called.
 
 Here's the goals of this [project](https://github.com/jacebenson/osaf),
@@ -32,7 +32,7 @@ So to do that we need the following features;
 -   [ ] Show appropriate fields of the current record to the logged in
     user
 
-I'd like to enchance this to allow these features;
+I'd like to enhance this to allow these features;
 
 -   [ ] Respect ACLs or Business Rules of other tables/references
     e.g. emails

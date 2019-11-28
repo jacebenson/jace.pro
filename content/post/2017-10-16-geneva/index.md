@@ -36,38 +36,35 @@ This is a great api to reintroduce. Previously you had to use the
 AttachmentCreator SOAP web service. There are a few limitations to the
 API that the SOAP call doesn't have. Like, you can't create an
 attachment without a record to attach it to. You might think that's
-trival, until you try to do some catalog stuff via REST. But for the
+trivial, until you try to do some catalog stuff via REST. But for the
 most part this is a great api.
 
 ### CORS support
 
-Allows customers to specify which REST APIs on their Servicenow instance
+Allows customers to specify which REST APIs on their ServiceNow instance
 allow cross-domain AJAX requests from specified whitelisted domains.
 
 ## Service Watch -\> ServiceMapping
 
-Before this release Serivce Watch was a seperate product requiring a
-stand alone product. After this release it was rebranded as
-ServiceMapping and is now built into Servicenow.
+Before this release Service Watch was a separate product requiring a
+stand alone product. After this release it was re-branded as
+ServiceMapping and is now built into ServiceNow.
 
-[Release
-Notes](https://docs.servicenow.com/bundle/geneva-release-notes/page/release-notes/it_operations_mgmt/r_ServiceMappingRN.html)
+[Release Notes](https://docs.servicenow.com/bundle/geneva-release-notes/page/release-notes/it_operations_mgmt/r_ServiceMappingRN.html)
 
 ## Security Operations
 
-This is a new line of business that Servicenow can sell to clients for
+This is a new line of business that ServiceNow can sell to clients for
 tracking vulnerability responses, configuration compliance, threat
-intelligence, and trusted security circles within Servicenow.
+intelligence, and trusted security circles within ServiceNow.
 
-[Release
-Notes](https://docs.servicenow.com/bundle/geneva-release-notes/page/release-notes/security_management/c_SecurityOpsManagementRN.html)
+[Release Notes](https://docs.servicenow.com/bundle/geneva-release-notes/page/release-notes/security_management/c_SecurityOpsManagementRN.html)
 
 ## Edge Encryption
 
-A seperate line of business Servicneow can sell to clients to allow the
+A separate line of business ServiceNow can sell to clients to allow the
 encryption of sensitive data on your company premises before sending it
 over the Internet to your ServiceNow instance (encrypted in flight)
 where it remains encrypted at rest.
 
-[Release
-Notes](https://docs.servicenow.com/bundle/geneva-release-notes/page/release-notes/servicenow_platform/r_EdgeEncryptionRN.html)
+[Release Notes](https://docs.servicenow.com/bundle/geneva-release-notes/page/release-notes/servicenow_platform/r_EdgeEncryptionRN.html)

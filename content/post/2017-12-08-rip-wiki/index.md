@@ -8,13 +8,13 @@ title: 'RIP Wiki 2006-2017'
 authors: ["jace"]
 ---
 
-With all the annoucements that Servicenow is ending their Wiki, it makes
+With all the announcements that ServiceNow is ending their Wiki, it makes
 me a little sad. I had once contributed to the pages before it locked
 down. With that being said, I learned a lot from the wiki. It was
 probably the second best resource next to the old joomla forum. With
 times of change, things go away though.
 
-Many nights at my helpdesk job I remember visiting the Recent Changes to
+Many nights at my help desk job I remember visiting the Recent Changes to
 see new features that were made before they could get locked down. I
 found so many things a little earlier than I should have because of
 this.
@@ -22,7 +22,7 @@ this.
 To get ready for this post I took a trip down memory lane and looked at
 the wayback machine.
 
-Servicenow Wiki, you will be missed.
+ServiceNow Wiki, you will be missed.
 
 Take a look into the past
 

@@ -24,7 +24,7 @@ The way I set up my workspace for development
 -   [Software](#software)
     -   [Rest Client](#rest-client)
     -   [Soap Client](#soap-client)
-    -   [Screencapture](#screencapture)
+    -   [Screen-capture](#screencapture)
     -   [Password Manager](#password-manager)
     -   [Android Studio](#android-studio)
     -   [Git](#git)
@@ -46,23 +46,23 @@ and my personal applications I use.
 
 ### Rest Client
 
-A seperate Rest Client is really important because otherwise you may
+A separate Rest Client is really important because otherwise you may
 login as the *test* account you're using.
 
 Today I use [insomnia.rest](https://insomnia.rest/). It's great. I have
-a workspaces in it for my personal API's, Servicenow's API's and more.
+a workspaces in it for my personal APIs, ServiceNow's APIs and more.
 
 Here's what it looks like, you can see also it's variable stuff where I
 have the `twitch.key` but it's not visible.
 
-![Insomia Rest Client](./setup-insomnia.png)
+![Insomnia Rest Client](./setup-insomnia.png)
 
 ### Soap Client
 
 Sometimes you are forced to use SOAP. There is a pretty good tool for
 testing those connections locally called
 [SOAPUI](https://www.soapui.org/downloads/soapui.html). It does have
-REST and SOAP things but I just use it for SOAP. For servicenow
+REST and SOAP things but I just use it for SOAP. For ServiceNow
 projects, just goto the target table
 e.g. dev12345.service-now.com/ticket.do?WSDL, save the page as a file,
 and make a new Project using that file.
@@ -82,14 +82,14 @@ support Windows, and Mac.
 
 If you're on windows this pairs well with
 [KeyPosé](http://jungsbluth.de/magnus/blog/2008/08/01/keypose-flavour-your-screencasts-with-shortcuts/)
-to show keypresses.
+to show key presses.
 
 ### Password Manager
 
 When I did consulting I had to remember hundreds of logins. That's not
 an easy feat. It was then I decided I'm going to use a password manager.
 I've never looked back. [Bitwarden](https://bitwarden.com) has been
-great for me. You have to make a few setting modifications so it doesnt
+great for me. You have to make a few setting modifications so it doesn't
 set fields automatically (because you don't want it to update a password
 value accidentally). Outside of that it's pretty great.
 
@@ -131,7 +131,7 @@ better.~~ It's so slow. I've given up on WSL.
 I've used [ConEmu](https://conemu.github.io/) for quite a while and it's
 pretty great.
 
-### Clipbaord Manager
+### Clipboard Manager
 
 I really like the cross-platform versions of these things and as such I
 use [1Clipbaord](http://1clipboard.io/)
@@ -142,8 +142,7 @@ You gotta have at least the 3 major players;
 
 -   [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 -   [Chrome](https://www.google.com/chrome/)
--   [Internet
-    Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads)
+-   [Internet Explorer](https://support.microsoft.com/en-us/help/17621/internet-explorer-downloads)
 
 ## Accounts
 
@@ -166,7 +165,7 @@ Currently I use;
 -   [Delete Merge
     Branch](https://probot.github.io/apps/delete-merged-branch/)
 
-### Servicenow
+### ServiceNow
 
 You need one of [these accounts](https://developer.servicenow.com) for a
 Personal Developer Instance.

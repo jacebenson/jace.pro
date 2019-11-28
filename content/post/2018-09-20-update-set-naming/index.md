@@ -7,7 +7,7 @@ authors: ["jace"]
 
 Update set names should be somewhat meaningful without having to look at
 the contents of the XML.\
-ServiceNow has some recomendations on
+ServiceNow has some recommendations on
 [HI](https://hi.service-now.com/kb_view.do?sysparm_article=KB0552854)
 and on the
 [Docs](https://docs.servicenow.com/bundle/kingston-application-development/page/build/system-update-sets/reference/get-started-update-sets.html)
@@ -41,7 +41,7 @@ With that being said, generally best to have initials, date, some key
     -   Developer's initials
     -   Example: `JB-2018-09-20 Combine both inc record producers`
 
-We added some javascript to prefill the initials, and date for
+We added some javascript to pre-fill the initials, and date for
 consistency on the name field. Below makes the following output;
 `JB-2018-09-20`
 

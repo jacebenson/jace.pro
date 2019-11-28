@@ -28,9 +28,8 @@ Tests should also follow these as well
 -   Tests should be part of the estimate of work when sizing work.
 -   Tests should run on a schedule.
 
-[Community
-Blog](https://community.servicenow.com/community?id=community_blog&sys_id=1a4e66addbd0dbc01dcaf3231f96192f)
-for further reading. [Further
-Reading](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/other-document/nowforum/sydney/hands-on-lab2-automated-testing-framework.pdf)
-- [Saved Off on
-2018-12-26](./hands-on-lab2-automated-testing-framework.pdf)
+[Community Blog](https://community.servicenow.com/community?id=community_blog&sys_id=1a4e66addbd0dbc01dcaf3231f96192f)
+for further reading. 
+
+[Further Reading](https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/other-document/nowforum/sydney/hands-on-lab2-automated-testing-framework.pdf)
+- [Saved Off on 2018-12-26](./hands-on-lab2-automated-testing-framework.pdf)

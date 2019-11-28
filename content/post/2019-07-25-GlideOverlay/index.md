@@ -19,4 +19,4 @@ So I had to make a [page for it](https://sn.jace.pro/GlideOverlay).
 
 It appears to be a undocumented type of modal.
 
-It's used throughout servicenow on VTB, Change, and Surveys.
+It's used throughout ServiceNow on VTB, Change, and Surveys.

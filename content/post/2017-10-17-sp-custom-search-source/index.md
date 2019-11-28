@@ -151,5 +151,4 @@ Below is my search source script.
 
 ## Further Reading
 
-[Community
-Thread](https://community.servicenow.com/community/develop/blog/2017/03/29/using-scripted-search-sources-to-search-external-websites-and-applications)
+[Community Thread](https://community.servicenow.com/community/develop/blog/2017/03/29/using-scripted-search-sources-to-search-external-websites-and-applications)

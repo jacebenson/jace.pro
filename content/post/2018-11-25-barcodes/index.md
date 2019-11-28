@@ -6,7 +6,7 @@ authors: ["jace"]
 ---
 
 A while ago I answered a question about how to show barcodes on forms in
-servicenow. I'm just reposting it here as well as I think it's useful.
+ServiceNow. I'm just re-posting it here as well as I think it's useful.
 
 So I was able to do this with the help of the
 [JsBarcode](https://github.com/lindell/JsBarcode/) library.

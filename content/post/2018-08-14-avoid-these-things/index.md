@@ -3,7 +3,7 @@ date: '2018-08-14'
 keywords:
 - gotchas
 layout: post
-title: Avoid these types of things when working in Servicenow
+title: Avoid these types of things when working in ServiceNow
 authors: ["jace"]
 ---
 
@@ -29,7 +29,7 @@ For example, setting the field as mandatory or read-only on
 
 -   Problem with this is that this is yet another place to control this.
     You have the following already;
--   Field Settingsc d
+-   Field Settings
 -   Data Policy (best as it controls the field in both the backend and
     the front end w/a checkbox)
 -   ACL ()
@@ -55,7 +55,7 @@ and not for any other purpose.
     [this](https://snprotips.com/blog/2018/3/15/video-custom-output-transition-conditions-from-a-single-workflow-script-activity) \>
     Just had an issue where a workflow started with a begin then switch,
     and the switch did not build the context records properly so the
-    workflow just hung. Just another reason to avoid Switchs.
+    workflow just hung. Just another reason to avoid Switches.
 
 ## Execution Plans
 
@@ -105,12 +105,12 @@ Issues I've been told of;
 
 ## Storing credientials in code
 
-Always store these in system properties as passwords or as credintial
-records. If you store them in code the are in cleartext and that's never
-a good idea. At least if you put them in a crediential record or a
+Always store these in system properties as passwords or as credential
+records. If you store them in code the are in clear text and that's never
+a good idea. At least if you put them in a credential record or a
 system property additional steps have to occur to decrypt the value.
 
-## Outbound Rest Records (go recordless)
+## Outbound Rest Records (go record-less)
 
 This is just extra stuff to configure in my opinion. More places to
 check for errors.
@@ -123,7 +123,7 @@ are also unsupported on Service portal and Mobile.
 ## Avoid using `$`
 
 It's come up often enough that when folks see `$` in UI Scripts, UI
-Pages, and other parts of Servicenow, they thing jQuery because that
-became really popular and started to use that, however, Servicenow
+Pages, and other parts of ServiceNow, they thing jQuery because that
+became really popular and started to use that, however, ServiceNow
 assigned `$` to prototypeJS, and not jQuery, as such, I'd just spell out
 `jQuery()` instead to be clear about what you are expecting to use.
