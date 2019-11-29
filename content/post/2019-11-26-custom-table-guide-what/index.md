@@ -56,11 +56,11 @@ Exection Plan Task [`sc_cat_item_delivery_task`]        | Design Choice - has a 
 
 I can categorize my opinions about when and why to extend a table into three reasons
 
-### Usablity
+### Usability
 
 Assuming you have a table in mind;
 Does it make sense to have/modify a "type" or "class" field and have one the table?
-Also, does the new type inheritly change the the record that it is very different?  
+Also, does the new type inherently change the the record that it is very different?  
 
 If yes to both, extend, if not make new.  
 
@@ -87,6 +87,10 @@ data closets, supply rooms, etc.  In these cases in my opinion extending cmdb_ci
 
 Knowledge is an interesting table to have here.  On one hand you could argue some Knowledge articles should be typed/classd differently, but on the other
 I believe Knowledge already has this.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think a lot of them are so you can extend inside of app scopes. kb_knowledge is likely for Article Templates, which extend with each new template.</p>&mdash; Tim Deniston (@tdeniston) <a href="https://twitter.com/tdeniston/status/1200226098589687809?ref_src=twsrc%5Etfw">November 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Further Reading: <https://docs.servicenow.com/bundle/newyork-servicenow-platform/page/product/knowledge-management/concept/knowledge-article-templates.html>
 
 ## Location
 
@@ -149,6 +153,9 @@ I don't think this makes any sense.  I can't imagine why this would be extended.
 ## Scheduled Job
 
 These are already extended to a number of types of jobs, but I'm not sure why I'd extend it.
+
+@killswitch
+> Sysauto I extended all the time.  Specifically `sysauto_script` for many integrations.  Including the SCCM integration that is close to what we have today.  And I used that same design for the all the integrations for security vulnerability.
 
 ## Data Lookup Definition
 
