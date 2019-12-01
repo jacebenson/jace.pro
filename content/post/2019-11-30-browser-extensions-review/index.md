@@ -56,7 +56,7 @@ Legend;\
 | FireFox                 | ✅          | ✅       | ❌       |
 | Open Source             | ✅          | ✅       | ❌       |
 | Tabs customizations     | ✅          | ❌       | ❌       |
-| Docs and API searches   | ✅          | ❌       | ❌       |
+| Docs and API searches   | ✅          | Sortof   | ❌       |
 | Node Switching          | ✅          | ✅       | ✅       |
 | Links to many instances | ✅          | ❌       | ✅       |
 | Export Settings         | ✅          | ❌       | ❌       |
@@ -97,6 +97,11 @@ This is the only other extension I could find was this one.
 
 This one is also about jumping around instances and as such has some nice links around them including a very handy compare function, however, I can't find the source.  So I downloaded the `.crx` file and unzipped it.  Looked around at the code for any odd calls but I didn't find any.  So thats great.
 
+# Change Log
+
+| Date       | Action |
+| ---------- | ------ |
+| 2019-12-01 | Changed SN Utils - Docs and API searches to Sortof (configurable) |
 
 
 [1]: https://addons.mozilla.org/en-US/firefox/addon/servicenow-utils2/
