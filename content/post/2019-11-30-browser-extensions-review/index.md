@@ -75,19 +75,24 @@ Legend;\
 | Compare Records         | ❌          | ❌       | ✅       |
 
 
-## SN Tool belt
-
-I've been a fan of this repository for years now.  It isn't the biggest project but was the only one I found to be open source when I first looked.  
-
-With that being said, it's all about giving you links to quickly jump around instances.  I assume we all do that because I do that.
-
 ## SN Utils 
 
 Unfortunately I've never looked at this extension in depth until I started writing this post.  With that being said, holy cow.
 
 Arnoud, good job.
 
-Some of the things I don't think should be in the extension but others, man I wish they were part of the platform.
+~~Some of the things I don't think should be in the extension but others, man I wish they were part of the platform.~~
+
+I think the CTRL-S / CMD-S and CTRL-V / CMD-V should be something Servicenow Proper should add to the platform making them unneeded.
+
+After comments added to this post it's clear to see slash commands can add any search including docs/api stuff. So I changed that to Sort of as they need to be configured.
+
+
+## SN Tool belt
+
+I've been a fan of this repository for years now.  It isn't the biggest project but was the only one I found to be open source when I first looked.  
+
+With that being said, it's all about giving you links to quickly jump around instances.  I assume we all do that because I do that.
 
 ## SwissNow
 
