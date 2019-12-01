@@ -38,8 +38,8 @@ Now that I have that out of the way, let's talk about the extensions for Firefox
 
 | Extension   | Firefox           | Chrome            | Github            | Author              |
 | ----------- | ----------------- | ----------------- | ----------------- | ------------------- |
-| SN Toolbelt | Yes<sup>[1]</sup> | Yes<sup>[2]</sup> | Yes<sup>[3]</sup> | Arnoud Kooi         |
-| SN Utils    | Yes<sup>[4]</sup> | Yes<sup>[5]</sup> | Yes<sup>[6]</sup> | Mac Morning         |
+| SN Utils    | Yes<sup>[1]</sup> | Yes<sup>[2]</sup> | Yes<sup>[3]</sup> | Arnoud Kooi         |
+| SN Toolbelt | Yes<sup>[4]</sup> | Yes<sup>[5]</sup> | Yes<sup>[6]</sup> | Mac Morning         |
 | SwissNow    | No                | Yes<sup>[7]</sup> | No                | Łukasz Krzaczkowski |
 
 ## Features we're comparing
