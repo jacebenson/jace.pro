@@ -137,11 +137,29 @@ Downloads as of 2019-11-25: 115
 
 > Introducing Developer Search 2.0, the comprehensive utility to search every script field in the system for that troublesome piece of code.
 
-I'd like to give this a try but I can't get the code as the share site migrated.
 
-Source: https://garrettnow.com/2014/08/12/developer-search
 
-Downloads as of 2019-11-25: 
+This includes 6 files;
+
+- 2 Application Module Links
+- 1 script include
+- 2 UI Pages
+
+I love the short url for this, `/ds.do`
+
+I also love that you can share the link to the results.
+
+It searches custom tables and fields normally which is great.  The UI is a little difficult to read but is very functional.  
+
+It also features a "Deep Search" which appears to search other fields not traditionally scripting fields.
+
+![](garrett-search.png)
+
+Download:
+
+- [Share](https://developer.servicenow.com/app.do#!/share/contents/9326002_developer_search?t=PRODUCT_DETAILS)
+
+Downloads as of 2019-11-25: 47
 
 ## Studio Search by ServiceNow
 
