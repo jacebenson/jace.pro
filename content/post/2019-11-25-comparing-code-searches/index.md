@@ -133,11 +133,9 @@ Downloads as of 2019-11-25: 115
 ![](jace-code-search-1.png)
 ![](jace-code-search-2.png)
 
-## Dev Search by Garrett Griffin
+## Developer Search by Garrett Griffin
 
 > Introducing Developer Search 2.0, the comprehensive utility to search every script field in the system for that troublesome piece of code.
-
-
 
 This includes 6 files;
 
