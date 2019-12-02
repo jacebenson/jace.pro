@@ -25,7 +25,7 @@ choiceUtil.prototype = Object.extendsObject(AbstractAjaxProcessor, {
             var returnObj = {};
             var hint = new GlideRecord('sys_choice');
             hint.addQuery('name', this.getParameter('sysparm_table'));
-            hint.addQuery('field', this.getParameter('sysparm_field'));
+            hint.addQuery('element', this.getParameter('sysparm_field'));
             hint.addQuery('value', this.getParameter('sysparm_val'));
             hint.addQuery('inactive', 'false');
             hint.query();
@@ -35,6 +35,7 @@ choiceUtil.prototype = Object.extendsObject(AbstractAjaxProcessor, {
                 returnObj.error = 'no choice found for ';
                 returnObj.error += hint.getEncodedQuery();
             }
+			//returnObj.query = hint.getEncodedQuery();
             return JSON.stringify(returnObj);
         } catch (error) {
             return JSON.stringify(error, '', '  ');
@@ -49,17 +50,17 @@ function onChange(control, oldValue, newValue, isLoading, isTemplate) {
     if (isLoading || newValue === '') {
         return;
     }
-    var field = 'category';
-    var ga = new GlideAjax('global.choiceUtil');
+    var field = 'state';
+
+	var ga = new GlideAjax('global.choiceUtil');
     ga.addParam('sysparm_name', 'getHint');
-    ga.addParam('sysparm_table', 'incident');
+    ga.addParam('sysparm_table', g_form.getTableName());
     ga.addParam('sysparm_field', field);
     ga.addParam('sysparm_val', newValue);
     ga.getXML(HintParse);
 
     function HintParse(response) {
         var answer = JSON.parse(response.responseXML.documentElement.getAttribute("answer"));
-        //console.log(answer);
         g_form.hideFieldMsg(field, true);
         if (answer.hint) {
             g_form.showFieldMsg(field, answer.hint, 'info', true);
