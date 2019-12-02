@@ -153,6 +153,8 @@ It searches custom tables and fields normally which is great.  The UI is a littl
 
 It also features a "Deep Search" which appears to search other fields not traditionally scripting fields.
 
+One thing it does really well is find Workflow Activity results.
+
 ![](garrett-search.png)
 
 Download:
@@ -174,17 +176,17 @@ Downloads as of 2019-11-25: ♾️
 
 ## Summary
 
-|                               | Global Code Search | MS CodeSearch      | FetchCode          | Code Tools         | Studio Search 
-| ----------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------- 
-| Installed OOB                 | :no_entry:         | :no_entry:         | :no_entry:         | :no_entry:         | :white_check_mark:
-| Scoped App                    | :no_entry:         | :white_check_mark: | :no_entry:         | :white_check_mark: | :white_check_mark:
-| UI16 navigator links          | :white_check_mark: | :white_check_mark: | :white_check_mark: | :no_entry:         | :no_entry:
-| UI Action to open Search      | :white_check_mark: | :no_entry:         | :no_entry:         | :no_entry:         | :no_entry:
-| Install-able from Git          | :no_entry:         | :white_check_mark: | :no_entry:         | :white_check_mark: | :no_entry:
-| Advanced Query function       | :no_entry:         | :no_entry:         | :white_check_mark: | :no_entry:         | :no_entry:
-| Code Analysis                 | :no_entry:         | :no_entry:         | :no_entry:         | :white_check_mark: | :no_entry:
-| Searches extra tables         | :no_entry:         | :white_check_mark: | :white_check_mark: | :white_check_mark: | :no_entry:
-| Looks up Active WF activities | :no_entry:         | :no_entry:         | :no_entry:         | :white_check_mark: | :no_entry:
-| Tables used                   | 0                  | 0                  | 5                  | 0                  | 0
+|                               | Global Code Search | MS CodeSearch      | FetchCode          | Code Tools         | Developer Search   | Studio Search      |
+| ----------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
+| Installed OOB                 | :no_entry:         | :no_entry:         | :no_entry:         | :no_entry:         | :no_entry:         | :white_check_mark: |
+| Scoped App                    | :no_entry:         | :white_check_mark: | :no_entry:         | :white_check_mark: | :no_entry:         | :no_entry:         |
+| UI16 navigator links          | :white_check_mark: | :white_check_mark: | :white_check_mark: | :no_entry:         | :white_check_mark: | :no_entry:         |
+| UI Action to open Search      | :white_check_mark: | :no_entry:         | :no_entry:         | :no_entry:         | :no_entry:         | :no_entry:         |
+| Install-able from Git         | :no_entry:         | :white_check_mark: | :no_entry:         | :white_check_mark: | :no_entry:         | :no_entry:         |
+| Advanced Query function       | :no_entry:         | :no_entry:         | :white_check_mark: | :no_entry:         | :no_entry:         | :no_entry:         |
+| Code Analysis                 | :no_entry:         | :no_entry:         | :no_entry:         | :white_check_mark: | :no_entry:         | :no_entry:         |
+| Searches extra tables         | :no_entry:         | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :no_entry:         |
+| Looks up Active WF activities | :no_entry:         | :no_entry:         | :no_entry:         | :white_check_mark: | :white_check_mark: | :no_entry:         |
+| Tables used                   | 0                  | 0                  | 5                  | 0                  | 0                  | 0                  |
 
 With all this being said, I'd love to combine my efforts into a project with any of the maintainers of the code here.
