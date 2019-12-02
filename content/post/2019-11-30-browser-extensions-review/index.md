@@ -56,7 +56,7 @@ Legend;\
 | FireFox                 | ✅          | ✅       | ❌       |
 | Open Source             | ✅          | ✅       | ❌       |
 | Tabs customizations     | ✅          | ❌       | ❌       |
-| Docs and API searches   | ✅          | Configurable   | ❌       |
+| Docs and API searches   | ✅          | ✅       | ❌       |
 | Node Switching          | ✅          | ✅       | ✅       |
 | Links to many instances | ✅          | Configurable   | ✅       |
 | Export Settings         | ✅          | ❌       | ❌       |
@@ -106,7 +106,7 @@ This one is also about jumping around instances and as such has some nice links 
 
 | Date       | Action |
 | ---------- | ------ |
-| 2019-12-01 | Changed SN Utils - Docs and API searches to configurable was no.|
+| 2019-12-01 | Changed SN Utils - Docs and API searches to yes (via `/dev searchterm`) was no.|
 | 2019-12-01 | Changed SN Utils - Links to many instances to configurable was no.|
 
 
