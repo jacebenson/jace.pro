@@ -56,9 +56,9 @@ Legend;\
 | FireFox                 | ✅          | ✅       | ❌       |
 | Open Source             | ✅          | ✅       | ❌       |
 | Tabs customizations     | ✅          | ❌       | ❌       |
-| Docs and API searches   | ✅          | Sortof   | ❌       |
+| Docs and API searches   | ✅          | Configurable   | ❌       |
 | Node Switching          | ✅          | ✅       | ✅       |
-| Links to many instances | ✅          | ❌       | ✅       |
+| Links to many instances | ✅          | Configurable   | ✅       |
 | Export Settings         | ✅          | ❌       | ❌       |
 | Slash commands          | ❌          | ✅       | ❌       |
 | Edit scripts in VS Code | ❌          | ✅       | ❌       |
@@ -106,7 +106,8 @@ This one is also about jumping around instances and as such has some nice links 
 
 | Date       | Action |
 | ---------- | ------ |
-| 2019-12-01 | Changed SN Utils - Docs and API searches to Sortof (configurable) |
+| 2019-12-01 | Changed SN Utils - Docs and API searches to configurable was no.|
+| 2019-12-01 | Changed SN Utils - Links to many instances to configurable was no.|
 
 
 [1]: https://addons.mozilla.org/en-US/firefox/addon/servicenow-utils2/
