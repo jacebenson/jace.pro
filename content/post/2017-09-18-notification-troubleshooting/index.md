@@ -36,11 +36,11 @@ Check these things.
     [KB0516987](https://hi.service-now.com/kb_view.do?sysparm_article=KB0516987)
 12. If event generated
 
--   Verify the event exists on
+    -   Verify the event exists on
     `sysevent_list.do?sysparm_query=sys_id=-1`.
     [KB0523579](https://hi.service-now.com/kb_view.do?sysparm_article=KB0523579)
--   Check the Event record table is table is correct.
--   Verify the Events Process job is running
+    -   Check the Event record table is table is correct.
+    -   Verify the Events Process job is running
     [KB0523580](https://hi.service-now.com/kb_view.do?sysparm_article=KB0523580)
     [Youtube](https://www.youtube.com/watch?v=gYVwq8pH0-A)
 
