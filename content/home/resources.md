@@ -51,7 +51,8 @@ subtitle = ""
   <div class="col-md-4">
     <h3>Tools</h3>
     <ul>
-      <li><a href="http://bootsnipp.com/forms" target="_blank">Bootstrap form builder</a></li>
+      <!--<li><a href="http://bootsnipp.com/forms" target="_blank">Bootstrap form builder</a></li>-->
+      <li><a href="https://form.jace.pro" target="_blank">Bootstrap form builder</a></li>
       <li><a href="https://workflow.jace.pro" target="_blank">Workflow Diagrammer</a></li>
       <li><a href="https://code.jace.pro" target="_blank">Code Collab Tool</a></li>
       <li><a href="http://bin.jace.pro" target="_blank">Request Bin</a></li>
