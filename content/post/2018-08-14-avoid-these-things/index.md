@@ -37,6 +37,13 @@ For example, setting the field as mandatory or read-only on
 -   UI Policy
 -   Client Script
 
+## Be careful with "Reverse if false" on UI Policies
+
+If you have multiple UI policies condition that is based on the value of a select variable
+you will likely have problems as they will evaluate in weird ways.
+
+Instead uncheck reverse if false, and make those ui policy work well when the condition is met.<sup>Thanks Mav and Monicask</sup>
+
 ## Using stage fields for any logic
 
 I've found that this field is not as clearly set as you might think. So
