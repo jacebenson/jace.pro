@@ -32,7 +32,7 @@ The other day I was looking at the [licensing training](https://nowlearning.serv
 Table                                                   | Reason 
 ------------------------------------------------------- | ------- 
 Configuration Items [`cmdb_*`]                          | Design Choice - has a Class field and it's in use
-Location [`cmn_location`]                               | 
+Location [`cmn_location`]                               | See notes below
 Knowledge [`kb_knowlege`]                               | 
 Import Set Row [`sys_import_set_row`]                   | Design Choice - has a Class field and it's in use
 Transform Map Script [`sys_transform_script`]           | I cannot find a reason this is included
@@ -101,6 +101,8 @@ I'm trying to imagine a situation where you might have different location types,
 In these cases I can't imagine a situation you would need this extended.  Now scoped apps cannot write to some common tables,
 if that is the reason this is here that may make sense.  If a scoped app needs a place to write to that is like location, but different
 extend it and write to the extension.  If that is the case though then I'd expect the same for Group Memberships
+
+> With all that being said, on initial look of the table, it does not sport a `sys_class_name` field.  However it also has "Extensible" as `false`.  If you change "Extensible" to `true`, then BOOM, now there's a `sys_class_name` field.  I'm still not sure I agree with the all the ideas of this.  That being said it seems like a **Design Descision** now. - Jace 2019-12-16
 
 ## Import Set Row
 
