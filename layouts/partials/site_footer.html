@@ -12,7 +12,8 @@
     {{ end }}
   
     <p class="powered-by">
-      {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
+      {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; <a href="/index.xml">RSS <i class="fa fa-rss" aria-hidden="true"></i>
+      </a>{{ end }} 
   
       <!--Powered by the
       <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
