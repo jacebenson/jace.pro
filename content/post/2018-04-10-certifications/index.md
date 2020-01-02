@@ -17,7 +17,7 @@ things together.
 
 # Certifications
 
-UPDATE \[July 1, 2018\]: As of 7/1/2018 you're need to take a class to
+As of 7/1/2018 you're need to take a class to
 register for the exams [according to this
 pdf](./certifications-faq.pdf).
 
@@ -107,6 +107,7 @@ Changelog;\
 
 Date       | Notes
 ---------- | -----
+2018-07-01 | As of 7/1/2018 you’re need to take a class to register for the exams according to this pdf.
 2020-01-02 | Removed Poll Tweet re: how should ServiceNow Training should be
 2020-01-02 | Added Links to Paths on NowLearning for CSA, CIS, and CAD 
 2020-01-02 | Rewrote pricing table to include new lines for 2020 and 17 certs
