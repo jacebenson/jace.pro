@@ -24,6 +24,7 @@ Here's my take of whats new with New York
   following information is left in the documentation 
   for existing processors only.
   - **You can still create them, so it's just a recommendation**
+  - <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Deprecated does not mean that we’re disabling it. You can still create processors. Though, we suggest using Scripted REST APIs. <br><br>-MS</p>&mdash; ServiceNow Support (@Nowsupport) <a href="https://twitter.com/Nowsupport/status/1171491796397879297?ref_src=twsrc%5Etfw">September 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 - [Mid server property mid.download.through.instance](/properties/mid.download.through.instance/)
   - In previous releases, this property was set to true to force all MID Servers to upgrade through the instance and was configurable by customers. In the New York release, auto-upgrades are performed by the MID Server host computer and not by the instance. To implement this behavior, the default value of this property was changed to **false**, and the property was concealed to protect the setting. DO NOT change the value of this property.
 
