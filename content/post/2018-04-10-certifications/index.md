@@ -19,7 +19,7 @@ things together.
 
 As of 7/1/2018 you're need to take a class to
 register for the exams [according to this
-pdf](./certifications-faq.pdf).
+pdf Old version](./certifications-faq.pdf) [SN FAQ].
 
 I was looking for a list of the certifications SN offers. As of today
 This is all I can find. Here's my sources;
@@ -111,7 +111,9 @@ Date       | Notes
 2020-01-02 | Removed Poll Tweet re: how should ServiceNow Training should be
 2020-01-02 | Added Links to Paths on NowLearning for CSA, CIS, and CAD 
 2020-01-02 | Rewrote pricing table to include new lines for 2020 and 17 certs
+2020-01-13 | Added link to SN's FAQ
 
+[SN FAQ]:                                              https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/other-document/servicenow-certification-faq.pdf
 [Certification Guide]:                                 https://www.servicenow.com/content/dam/servicenow/other-documents/training/tp-certification-guide.pdf
 [post]:                                                https://community.servicenow.com/community?id=community_question&sys_id=9a376af4db017f4014d6fb2439961901&anchor=answer_48f25e0ddbc57780e0e80b55ca96197c
 
