@@ -37,6 +37,7 @@ Handling errors on update set batches.
 Sometimes this is due to a missing plugin or some other update set that needs to wait.  How do you correct this?  With help from @paige and @ajb I will answer this;
 
 Quotes;
+
 > ... delete the previewed update sets (all of them, including parent).  Remove it from the parent in the source instance and bring it all back over. - @paige
 
 > ... un-parent it, or as Paige said - delete the whole thing - and re-parent in development - @ajb
@@ -46,8 +47,8 @@ When I've done the delete way in the past I've had issues and now reading throug
 Going forward now that I've had success doing this are these steps;
 
 1. Delete the Target Instance Update Sets, & Batch Update set
-1. Unparent in source
-1. Reimport?
+1. Un-parent in source
+1. Re-import?
 
 Can issues still arise?  Sure, keep this in mind;
 
