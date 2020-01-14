@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Backing Out an Update Set From a Batch"
-subtitle: ""
+subtitle: "aka - Removing an update set from a batch before commit"
 summary: "Update Set Batches are amazing, until you have a problem."
 authors: ["jace"]
 tags: []
@@ -27,6 +27,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Author's Note: I know backing out isn't the right term but it's how I think of it.  
 
 ## Backing out update sets can be a pain.
 
