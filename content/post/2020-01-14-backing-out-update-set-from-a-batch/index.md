@@ -50,11 +50,11 @@ Going forward now that I've had success doing this are these steps;
 
 1. Delete the Target Instance Update Sets, & Batch Update set
 1. Un-parent in source
-1. Re-import?
+1. Re-import
 
 Can issues still arise?  Sure, keep this in mind;
 
-So update sets can fail 2 ways in regards to batching;
+So update sets can fail two ways in regards to batching;
 
 - An update set completed can be pulled before it's associated with a batch.  If you want that to be included in the batch it needs to be removed from the target instance.
 - An update set was included but before applying it you want to exclude it.  To do this, delete batch's related update sets, then the parent(batch) update set.  Change the source update set batch and re-import.
