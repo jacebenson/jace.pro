@@ -33,3 +33,10 @@ projects: []
     Edit application files linked to a source control integration using an editor other than Studio. To ensure that the application files remain usable, the instance validates and sanitizes application files edited by other editing applications. Application files that fail XML schema validation either abort the current source control operation or are skipped. The instance generates an upgrade log entry for each sanitization action taken.
 
 [Edit source control integration files outside of Studio]: https://docs.servicenow.com/bundle/orlando-application-development/page/build/applications/concept/c_SourceControlIntegration.html
+
+
+
+it works great., you can see the file structure there now app path is defined by root file sn_source_control.properties
+
+Then I tried editing an application file (based on the notes it wasnt clear how that works to me) there's upposed to be some... sanitization process but i guess that allows for editing of app files out of sn as well.
+ScreenShot-2020-Jan-27-248-PM.png 
