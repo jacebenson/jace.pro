@@ -98,6 +98,7 @@ subtitle = ""
     <div class="col-md-4">
     <h3>Blogs</h3>
     <ul>
+      <li><a href="https://womennow.dev/" target="_blank">Women of ServiceNow</a></li>
       <li><a href="https://mavembry.info" target="_blank">Mav's blog</a></li>
       <li><a href="http://anerrantprogrammer.com" target="_blank">An Errant Programmer</a></li>
       <li><a href="http://www.cloudminus89.com/" target="_blank">CloudMinus89</a></li>
