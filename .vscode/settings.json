@@ -1,5 +1,12 @@
 {
     "cSpell.words": [
-        "lastmod"
-    ]
+        "lastmod",
+        "servicenow"
+    ],
+    "now.instance.authentication.type": "",
+    "now.instance.user.name": "",
+    "now.instance.host.url": "",
+    "now.instance.oAuth.client.id": "",
+    "now.instance.user.password": "",
+    "now.instance.oAuth.client.secret": ""
 }
