@@ -4,13 +4,13 @@
 title: "Ok Orlando - Automated Testing Framework changes"
 subtitle: ""
 summary: ""
-authors: []
+authors: ["jace"]
 tags: []
 categories: []
-date: 2020-01-27T13:15:24-06:00
-lastmod: 2020-01-27T13:15:24-06:00
+date: 2020-02-29T00:55:24-06:00
+lastmod: 2020-02-29T00:55:24-06:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
