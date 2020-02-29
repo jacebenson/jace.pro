@@ -98,13 +98,14 @@ subtitle = ""
     <div class="col-md-4">
     <h3>Blogs</h3>
     <ul>
+      <li><a href="https://womennow.dev/" target="_blank">Women of ServiceNow</a></li>
       <li><a href="https://mavembry.info" target="_blank">Mav's blog</a></li>
       <li><a href="http://anerrantprogrammer.com" target="_blank">An Errant Programmer</a></li>
       <li><a href="http://www.cloudminus89.com/" target="_blank">CloudMinus89</a></li>
       <li><a href="https://codecreative.io" target="_blank">CodeCreative.io</a></li>
       <li><a href="https://garrettnow.com/" target="_blank">GarrettNow</a></li>
       <li><a href="http://www.john-james-andersen.com/" target="_blank">John Andersen's Blog</a></li>
-      <li><a href="http://www.servicenowblogs.com" target="_blank">ServiceNowBlogs</a></li>
+      <!--<li><a href="http://www.servicenowblogs.com" target="_blank">ServiceNowBlogs</a></li>--><!--no longer up-->
       <li><a href="https://servicenowgems.com" target="_blank">ServiceNowGems</a></li>
       <li><a href="https://servicenowthink.wordpress.com" target="_blank">ServiceNowThink</a></li>
       <li><a href="https://sncdevelopment.com/" target="_blank">SNCDevelopment</a></li>
