@@ -68,6 +68,7 @@ subtitle = ""
       <li><a href="https://developer.servicenow.com/app.do#!/event/knowledge18" target="_blank">K18 Lab Guides</a></li>
       <li><a href="https://developer.servicenow.com/app.do#!/event/creatorcon18" target="_blank">K18 CreatorCon Lab Guides</a></li>
       <li><a href="https://developer.servicenow.com/app.do#!/event/knowledge19" target="_blank">K19 Labs and CCWs</a></li>
+      <li><a href="https://developer.servicenow.com/app.do#!/event/naw19" target="_blank">Now at work '19 Lab Guides</a></li>
     </ul>
   </div>
   <div class="col-md-4">
@@ -98,6 +99,7 @@ subtitle = ""
     <div class="col-md-4">
     <h3>Blogs</h3>
     <ul>
+      <li><a href="https://dev.alburydor.com/posts/" target="_blank">Andrew Albury-Dor Blog</a></li>
       <li><a href="https://womennow.dev/" target="_blank">Women of ServiceNow</a></li>
       <li><a href="https://mavembry.info" target="_blank">Mav's blog</a></li>
       <li><a href="http://anerrantprogrammer.com" target="_blank">An Errant Programmer</a></li>
