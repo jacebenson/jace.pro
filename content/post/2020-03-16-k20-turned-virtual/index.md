@@ -26,7 +26,7 @@ ServiceNow just annouced it has gone digital for this event.  Below is the state
 
 > Over the past few weeks, we have been closely monitoring the evolving COVID-19 pandemic. In order to protect the health and safety of our Knowledge 2020 attendees, partners, and community, we have made the decision to make Knowledge 2020 a digital community event that will launch on May 5 in place of the in-person event in Orlando, FL.
 > 
-> As a Knowledge 2020 registrant, you will receive a full refund of your pass to the original form of payment. This will take 5-7 business days to complete and an email confirmation will be sent to you.
+> ~~As a Knowledge 2020 registrant, you will receive a full refund of your pass to the original form of payment. This will take 5-7 business days to complete and an email confirmation will be sent to you.~~
 > 
 > The Knowledge 2020 digital experience will showcase all the ways you can unlock productivity through modern digital workflows, highlight the latest customer and platform innovations, and inspire the ServiceNow community to continue to create great experiences for businesses.
 >
@@ -76,6 +76,6 @@ Since everything will be digital, all streaming of ServiceNow stuff is nearly eq
 | 2020-03-17 | Passes are now stated to be rolled to K21 and not refunded unless asked.
 | 2020-03-17 | Digital event will be free.  https://knowledge.servicenow.com/faq.html#reg_1 <br/>Will there be a cost for digital participation?<br/>We will not be charging for attending the Knowledge 2020 digital experience. Stay tuned for more information on how to register. |
 | 2020-03-17 | Airfare will not be reimbursed. https://knowledge.servicenow.com/faq.html#speaker_1<br/>Will I receive reimbursement for airfare?<br/>Airfare and hotel is the sole responsibility of the individual and will not be reimbursed. |
-
+| 2020-03-17 | "Learn More" FAQ removed block of text regarding refunds.
 
 
