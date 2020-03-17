@@ -44,7 +44,7 @@ It seems that ServiceNow has taken a page from Google's book here.  That's fine.
 
 | Item  | Google Cloud Next [FAQ](https://cloud.withgoogle.com/next/sf/faq) | ServiceNow [FAQ](https://knowledge.servicenow.com/faq.html#hotel_1) |
 | ----- | ----------------- | ---------- |
-| Price | Refunded, and waived | Refunded, and waived |
+| Price | Refunded, and waived | ~~Refunded~~ Rolled to K21 |
 | Hotel | Cancelled automatically | Cancelled automatically | 
 | Keynotes | Still happening | Not addressed, but I imagine they will show this like they have previously |
 | Sessions | Listed, not scheduled (Maybe they were scheduled, but I wasn't watching then) | They were listed, not anymore, and not scheduled |
@@ -68,3 +68,9 @@ Here we get into what could be.  If we look at other conferences that went digit
 ## How can we capitalize on this change?
 
 Since everything will be digital, all streaming of ServiceNow stuff is nearly equal.  If you're a small partner, spinning up Youtube Live or Twitch, you are not much different than however ServiceNow official will handle it in my opinion.  With that being said I expect to see a lot of steaming video coming up out of this.
+
+# Changes
+
+| Date | Changed |
+| ---- | ------- |
+| 2020-03-17 | Passes are now stated to be rolled to K21 and not refunded unless asked.
