@@ -50,7 +50,7 @@ It seems that ServiceNow has taken a page from Google's book here.  That's fine.
 | Sessions | Listed, not scheduled (Maybe they were scheduled, but I wasn't watching then) | They were listed, not anymore, and not scheduled |
 | Attendence | Everyone can join for free | ~~Not addressed~~ Everyone can join for free |
 | Swag? | There will not be swag | Not addressed |
-| Flight | You are on your own | Not addressed |
+| Flight | You are on your own | ~~Not addressed~~ You are on your own |
 
 - Full refunds of your pass.  If you booked a hotel through Knowlege 2020 website, the reservation will be cancelled. 
 - A "digital experience" was mentioned three times in this short FAQ.  It should engage, inspire, and connect individuals.
@@ -75,6 +75,7 @@ Since everything will be digital, all streaming of ServiceNow stuff is nearly eq
 | ---- | ------- |
 | 2020-03-17 | Passes are now stated to be rolled to K21 and not refunded unless asked.
 | 2020-03-17 | Digital event will be free.  https://knowledge.servicenow.com/faq.html#reg_1 <br/>Will there be a cost for digital participation?<br/>We will not be charging for attending the Knowledge 2020 digital experience. Stay tuned for more information on how to register. |
+| 2020-03-17 | Airfare will not be reimbursed. https://knowledge.servicenow.com/faq.html#speaker_1<br/>Will I receive reimbursement for airfare?<br/>Airfare and hotel is the sole responsibility of the individual and will not be reimbursed. |
 
 
 
