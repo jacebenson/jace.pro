@@ -48,7 +48,7 @@ It seems that ServiceNow has taken a page from Google's book here.  That's fine.
 | Hotel | Cancelled automatically | Cancelled automatically | 
 | Keynotes | Still happening | Not addressed, but I imagine they will show this like they have previously |
 | Sessions | Listed, not scheduled (Maybe they were scheduled, but I wasn't watching then) | They were listed, not anymore, and not scheduled |
-| Attendence | Everyone can join for free | Not addressed |
+| Attendence | Everyone can join for free | ~~Not addressed~~ Everyone can join for free |
 | Swag? | There will not be swag | Not addressed |
 | Flight | You are on your own | Not addressed |
 
@@ -74,3 +74,7 @@ Since everything will be digital, all streaming of ServiceNow stuff is nearly eq
 | Date | Changed |
 | ---- | ------- |
 | 2020-03-17 | Passes are now stated to be rolled to K21 and not refunded unless asked.
+| 2020-03-17 | Digital event will be free.  https://knowledge.servicenow.com/faq.html#reg_1 <br/>Will there be a cost for digital participation?<br/>We will not be charging for attending the Knowledge 2020 digital experience. Stay tuned for more information on how to register. |
+
+
+
