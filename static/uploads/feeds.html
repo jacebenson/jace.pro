@@ -24,6 +24,14 @@
     <script src="https://unpkg.com/rss-parser@3.7.3/dist/rss-parser.min.js"></script>
     <!--<h1 ng-repeat="x in records">{{x}}</h1>-->
     <div class="container">
+        <div class="row font-weight-bold">
+            <div class="col-3">Publish Date</div>
+            <div class="col-3">Feed Name</div>
+            <div class="col-6">
+                <a href="{{feed.link}}">Feed Link</a>
+            </div>
+        </div>
+        <hr />
         <div class="row" ng-repeat="feed in records | orderBy: '-time'">
             <div class="col-3">{{feed.pubDate}}</div>
             <div class="col-3">{{feed.feedName}}</div>
