@@ -73,6 +73,10 @@
             ];
             var promises = [];
             feeds.map(function parseFeeds([feedName, url], idx) {
+                var fullURL = CORS_PROXY + url;
+                if(url.indexOf('jace.pro')>=0){
+                    fullUrl = url;
+                }
                 var promise = parser.parseURL(CORS_PROXY + url, (error, feed) => {
                     //console.log('feed', feed);
                     if (error) {
