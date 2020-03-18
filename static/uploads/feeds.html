@@ -77,7 +77,7 @@
                 if(url.indexOf('jace.pro')>=0){
                     fullUrl = url;
                 }
-                var promise = parser.parseURL(CORS_PROXY + url, (error, feed) => {
+                var promise = parser.parseURL(fullURL, (error, feed) => {
                     //console.log('feed', feed);
                     if (error) {
                         console.log("error", url, error);
