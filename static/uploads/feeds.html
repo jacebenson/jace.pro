@@ -1,106 +1,118 @@
 <!DOCTYPE html>
-<html lang="ja">
-
-<head>
-    <meta charset="utf-8">
-    <title>One HTML Page RSS Reader</title>
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css" />
-    <link rel="stylesheet" type="text/css" href="https://unpkg.com/bulma-prefers-dark" />
-    <style>
-        a:visited {
-            color: hsl(271, 100%, 71%);
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<script
+			  src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+			  integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
+			  crossorigin="anonymous"></script>
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
+<script>
+    Array.prototype.sortOn = function(key){
+    this.sort(function(a, b){
+        if(a[key] < b[key]){
+            return -1;
+        }else if(a[key] > b[key]){
+            return 1;
         }
-    </style>
+        return 0;
+    });
+}
+</script>
+<body id="myApp" ng-app="myApp" ng-controller="myCtrl">
     <script src="https://unpkg.com/rss-parser@3.7.3/dist/rss-parser.min.js"></script>
-    <script type="module">
-        const CORS_PROXY = 'https://cors-anywhere.herokuapp.com/'
-        const parser = new RSSParser
-        document.getElementById("menu").append(...[
-            /*['dev.to', 'https://dev.to/feed'],
-            ['hackernoon', 'https://hackernoon.com/feed'],
-            ['hatena', 'https://b.hatena.ne.jp/hotentry/it.rss'],
-            ['hn', 'https://news.ycombinator.com/rss'],
-            ['r/javascript', 'https://www.reddit.com/r/javascript/.rss'],
-            ['r/programming', 'https://www.reddit.com/r/programming/.rss'],
-            ['reddit', 'https://www.reddit.com/.rss'],
-            ['slashdot', 'http://rss.slashdot.org/Slashdot/slashdotMain'],
-            ['srad', 'https://srad.jp/sradjp.rss'],*/
-
-            ["Sal", "http://anerrantprogrammer.com/?feed=rss2"],
-            ["YT1", "https://www.youtube.com/feeds/videos.xml?channel_id=UC2ey_HG743-CrxOTPU_ft7g"],
-            ["YT2", "https://www.youtube.com/feeds/videos.xml?channel_id=UCH1byb2cbzlFrYndyKic_Lg"],
-            ["YT3", "https://www.youtube.com/feeds/videos.xml?channel_id=UCpXBKCVchJqXo08OyD0i2eQ"],
-            ["SNElite", "http://www.servicenowelite.com/blog?format=rss"],
-            ["CodeMinus89", "http://www.cloudminus89.com/feeds/posts/default?alt=rss"],
-            ["YT4", "https://www.youtube.com/feeds/videos.xml?channel_id=UCmwKZdMYyUD4AWnAIrx5JVw"],
-            ["CodeCreative", "https://codecreative.io/index.xml"],
-            ["JJA", "http://john-james-andersen.com/feed"],
-            ["YT5", "https://www.youtube.com/feeds/videos.xml?channel_id=UCysyuAe0q31GOOedkJja67Q"],
-            ["Mav", "https://mavembry.info/index.xml"],
-            ["YT6", "https://www.youtube.com/feeds/videos.xml?channel_id=UCfhKNeCYiaJQaaKuACKt0Sg"],
-            ["Jace.pro", "https://jace.pro/index.xml"],
-            ["YT7", "https://www.youtube.com/feeds/videos.xml?channel_id=UCdXorgCT87YlFRN9n8oJ7_A"],
-            ["SNGems", "http://servicenowgems.com/feed"],
-            ["YT8", "https://www.youtube.com/feeds/videos.xml?channel_id=UCCBQU8mlFrElxQNR2mo-gLg"],
-            ["YT9", "https://www.youtube.com/feeds/videos.xml?channel_id=UCQjE37R-Y4DTq7kUWPO83Wg"],
-            ["SNThink", "https://servicenowthink.wordpress.com/feed"],
-            ["SNWorkflow", "https://workflow.servicenow.com/feed/"],
-            ["SNProtips", "https://snprotips.com/?format=rss"],
-            ["SNCBlog", "http://www.snc-blog.com/feed"],
-            ["SNDevelopment", "https://sncdevelopment.com/feed"],
-            ["WomenNow", "https://womennow.dev/?feed=rss2"],
-            ["Pathway", "https://pathwayscg.com/feed/"],
-            ["Reddit", "http://reddit.com/r/servicenow/.rss"],
-            ["StackOverflow", "https://stackoverflow.com/feeds/tag?tagnames=servicenow&sort=newest"],
-            ["#ServiceNow", "https://twitter.com/hashtag/ServiceNow?src=hash&f=live"],
-            ["#ServiceNowDev", "https://twitter.com/search?q=%23ServiceNowDev&src=typed_query&f=live"],
-            ['COvid', "https://twitter.com/search?q=COVID&src=typed_query&f=live"]
-        ].map(([feedName, url], idx) => {
-            const button = document.importNode(document.getElementById("buttons").content, true).querySelector("button")
-            button.textContent = feedName
-            idx === 0 && (button.className = "button is-primary")
-            const ul = document.createElement("ul")
-            parser.parseURL(CORS_PROXY + url, (error, feed) => {
-                !error && feed.items.map(({ link, title }) => {
-                    const listEntry = document.importNode(document.getElementById("listEntries").content, true).querySelector("li")
-                    const a = listEntry.querySelectorAll("a")
-                    const img = listEntry.querySelector("img")
-                    a[0].href = a[1].href = link
-                    a[0].textContent = title
-                    img.src = `https://b.hatena.ne.jp/entry/image/${link}`
-                    ul.appendChild(listEntry)
-                    idx === 0 && document.getElementById("content").appendChild(listEntry.cloneNode(true))
-                })
-            })
-            button.onclick = () => {
-                [...document.querySelectorAll("button")].map(b => b.className = "button")
-                button.className = "button is-primary"
-                document.getElementById("content").innerHTML = ul.innerHTML
-            }
-            return button
-        }))
-    </script>
-</head>
-
-<body>
-    <section class="section">
-        <a href="https://github.com/oooooooo/one-html-page-rss-reader"><img width="149" height="149"
-                src="https://github.blog/wp-content/uploads/2008/12/forkme_right_darkblue_121621.png?resize=149%2C149"
-                class="is-pulled-right attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1"></a>
-        <div class="container content">
-            <div id="menu" class="buttons has-addons"> </div>
-            <template id="buttons">
-                <button class="button"> </button>
-            </template>
-            <div id="content"> </div>
-            <template id="listEntries">
-                <li>
-                    <a></a>
-                    <a><img /></a>
-                </li>
-            </template>
+    <!--<h1 ng-repeat="x in records">{{x}}</h1>-->
+    <div class="container">
+        <div class="row" ng-repeat="feed in records | orderBy: '-time'">
+            <div class="col-3">{{feed.pubDate}}</div>
+            <div class="col-3">{{feed.feedName}}</div>
+            <div class="col-6">
+                <a href="{{feed.link}}">{{feed.title}}</a>
+            </div>
         </div>
-    </section>
+    </div>
+    <script>
+        var app = angular.module("myApp", []);
+        app.controller("myCtrl", function ($scope, $q) {
+            $scope.records = [];
+
+            //const CORS_PROXY = 'https://cors-anywhere.herokuapp.com/'
+            const CORS_PROXY = 'https://cors-anywhere-jace.herokuapp.com/'
+            const parser = new RSSParser;
+            var feeds = [
+                ["Sal", "http://anerrantprogrammer.com/?feed=rss2"],
+                ["YT1", "https://www.youtube.com/feeds/videos.xml?channel_id=UC2ey_HG743-CrxOTPU_ft7g"],
+                ["YT2", "https://www.youtube.com/feeds/videos.xml?channel_id=UCH1byb2cbzlFrYndyKic_Lg"],
+                ["YT3", "https://www.youtube.com/feeds/videos.xml?channel_id=UCpXBKCVchJqXo08OyD0i2eQ"],
+                ["SNElite", "http://www.servicenowelite.com/blog?format=rss"],
+                ["CodeMinus89", "http://www.cloudminus89.com/feeds/posts/default?alt=rss"],
+                ["YT4", "https://www.youtube.com/feeds/videos.xml?channel_id=UCmwKZdMYyUD4AWnAIrx5JVw"],
+                ["CodeCreative", "https://codecreative.io/index.xml"],
+                ["JJA", "http://john-james-andersen.com/feed"],
+                ["YT5", "https://www.youtube.com/feeds/videos.xml?channel_id=UCysyuAe0q31GOOedkJja67Q"],
+                ["Mav", "https://mavembry.info/index.xml"],
+                ["YT6", "https://www.youtube.com/feeds/videos.xml?channel_id=UCfhKNeCYiaJQaaKuACKt0Sg"],
+                ["Jace.pro", "https://jace.pro/index.xml"],
+                ["YT7", "https://www.youtube.com/feeds/videos.xml?channel_id=UCdXorgCT87YlFRN9n8oJ7_A"],
+                ["SNGems", "http://servicenowgems.com/feed"],
+                ["YT8", "https://www.youtube.com/feeds/videos.xml?channel_id=UCCBQU8mlFrElxQNR2mo-gLg"],
+                ["YT9", "https://www.youtube.com/feeds/videos.xml?channel_id=UCQjE37R-Y4DTq7kUWPO83Wg"],
+                ["SNThink", "https://servicenowthink.wordpress.com/feed"],
+                ["SNWorkflow", "https://workflow.servicenow.com/feed/"],
+                ["SNProtips", "https://snprotips.com/?format=rss"],
+                ["SNCBlog", "http://www.snc-blog.com/feed"],
+                ["SNDevelopment", "https://sncdevelopment.com/feed"],
+                ["WomenNow", "https://womennow.dev/?feed=rss2"],
+                ["Pathway", "https://pathwayscg.com/feed/"],
+                ["Reddit", "http://reddit.com/r/servicenow/.rss"],
+                ["StackOverflow", "https://stackoverflow.com/feeds/tag?tagnames=servicenow&amp;sort=newest"],
+                //["#ServiceNow", "https://twitter.com/hashtag/ServiceNow?src=hash&amp;f=live"],
+                //["#ServiceNowDev", "https://twitter.com/search?q=%23ServiceNowDev&amp;src=typed_query&amp;f=live"],
+                //['COvid', "https://twitter.com/search?q=COVID&src=typed_query&amp;f=live"]
+            ];
+            var promises = [];
+            feeds.map(function parseFeeds([feedName, url], idx) {
+                var promise = parser.parseURL(CORS_PROXY + url, (error, feed) => {
+                    //console.log('feed', feed);
+                    if (error) {
+                        console.log("error", url, error);
+                    } else if (feed) {
+                        feed.items.map(({ link, title, pubDate }) => {
+                            const d = new Date(pubDate)
+                            const dStr = d.toLocaleDateString() + ' ' + d.toLocaleTimeString()
+                            if(title.length>70){
+                                title = title.substring(0,60);
+                                title+=" ...";
+                            }
+                            $scope.records.push({
+                                feedName: feedName,
+                                time: d.getTime(),
+                                pubDate: dStr,
+                                title: title,
+                                link: link
+                            });
+                        });
+                    } else {
+                        console.log(url, "has issue with feed", feed);
+                    }
+
+                });
+                promises.push(promise);
+            })
+            $q.all(promises).then(function(){
+                $scope.records = $scope.records.reverse();
+                console.log('done', $scope.records);
+            })
+            /*[
+              "Alfreds Futterkiste",
+              "Berglunds snabbköp",
+              "Centro comercial Moctezuma",
+              "Ernst Handel",
+            ]*/
+        });
+    </script>
+
 </body>
 
 </html>
