@@ -1,292 +1,106 @@
-<!DOCTYPE html><html><head>
-<script>
-	var rss = [
-		
+<!DOCTYPE html>
+<html lang="ja">
 
-"http://anerrantprogrammer.com/?feed=rss2",
-"https://www.youtube.com/feeds/videos.xml?channel_id=UC2ey_HG743-CrxOTPU_ft7g",
-"https://www.youtube.com/feeds/videos.xml?channel_id=UCH1byb2cbzlFrYndyKic_Lg",
-"https://www.youtube.com/feeds/videos.xml?channel_id=UCpXBKCVchJqXo08OyD0i2eQ",
-"http://www.servicenowelite.com/blog?format=rss",
-"http://www.cloudminus89.com/feeds/posts/default?alt=rss",
-"https://www.youtube.com/feeds/videos.xml?channel_id=UCmwKZdMYyUD4AWnAIrx5JVw",
-"https://codecreative.io/index.xml",
-"http://john-james-andersen.com/feed",
-"https://www.youtube.com/feeds/videos.xml?channel_id=UCysyuAe0q31GOOedkJja67Q",
-"https://mavembry.info/index.xml",
-"https://www.youtube.com/feeds/videos.xml?channel_id=UCfhKNeCYiaJQaaKuACKt0Sg",
-"https://jace.pro/index.xml",
-"https://www.youtube.com/feeds/videos.xml?channel_id=UCdXorgCT87YlFRN9n8oJ7_A",
-"http://servicenowgems.com/feed",
-"https://www.youtube.com/feeds/videos.xml?channel_id=UCCBQU8mlFrElxQNR2mo-gLg",
-"https://www.youtube.com/feeds/videos.xml?channel_id=UCQjE37R-Y4DTq7kUWPO83Wg",
-"https://servicenowthink.wordpress.com/feed",
-"https://workflow.servicenow.com/feed/",
-"https://snprotips.com/?format=rss",
-"http://www.snc-blog.com/feed",
-"https://sncdevelopment.com/feed",
-"https://womennow.dev/?feed=rss2",
-"https://pathwayscg.com/feed/",
-"http://reddit.com/r/servicenow/.rss",
-"https://stackoverflow.com/feeds/tag?tagnames=servicenow&sort=newest",
-"https://twitter.com/hashtag/ServiceNow?src=hash&f=live",
-"https://twitter.com/search?q=%23ServiceNowDev&src=typed_query&f=live"
+<head>
+    <meta charset="utf-8">
+    <title>One HTML Page RSS Reader</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/bulma-prefers-dark" />
+    <style>
+        a:visited {
+            color: hsl(271, 100%, 71%);
+        }
+    </style>
+    <script src="https://unpkg.com/rss-parser@3.7.3/dist/rss-parser.min.js"></script>
+    <script type="module">
+        const CORS_PROXY = 'https://cors-anywhere.herokuapp.com/'
+        const parser = new RSSParser
+        document.getElementById("menu").append(...[
+            /*['dev.to', 'https://dev.to/feed'],
+            ['hackernoon', 'https://hackernoon.com/feed'],
+            ['hatena', 'https://b.hatena.ne.jp/hotentry/it.rss'],
+            ['hn', 'https://news.ycombinator.com/rss'],
+            ['r/javascript', 'https://www.reddit.com/r/javascript/.rss'],
+            ['r/programming', 'https://www.reddit.com/r/programming/.rss'],
+            ['reddit', 'https://www.reddit.com/.rss'],
+            ['slashdot', 'http://rss.slashdot.org/Slashdot/slashdotMain'],
+            ['srad', 'https://srad.jp/sradjp.rss'],*/
 
-	];
-</script>
+            ["Sal", "http://anerrantprogrammer.com/?feed=rss2"],
+            ["YT1", "https://www.youtube.com/feeds/videos.xml?channel_id=UC2ey_HG743-CrxOTPU_ft7g"],
+            ["YT2", "https://www.youtube.com/feeds/videos.xml?channel_id=UCH1byb2cbzlFrYndyKic_Lg"],
+            ["YT3", "https://www.youtube.com/feeds/videos.xml?channel_id=UCpXBKCVchJqXo08OyD0i2eQ"],
+            ["SNElite", "http://www.servicenowelite.com/blog?format=rss"],
+            ["CodeMinus89", "http://www.cloudminus89.com/feeds/posts/default?alt=rss"],
+            ["YT4", "https://www.youtube.com/feeds/videos.xml?channel_id=UCmwKZdMYyUD4AWnAIrx5JVw"],
+            ["CodeCreative", "https://codecreative.io/index.xml"],
+            ["JJA", "http://john-james-andersen.com/feed"],
+            ["YT5", "https://www.youtube.com/feeds/videos.xml?channel_id=UCysyuAe0q31GOOedkJja67Q"],
+            ["Mav", "https://mavembry.info/index.xml"],
+            ["YT6", "https://www.youtube.com/feeds/videos.xml?channel_id=UCfhKNeCYiaJQaaKuACKt0Sg"],
+            ["Jace.pro", "https://jace.pro/index.xml"],
+            ["YT7", "https://www.youtube.com/feeds/videos.xml?channel_id=UCdXorgCT87YlFRN9n8oJ7_A"],
+            ["SNGems", "http://servicenowgems.com/feed"],
+            ["YT8", "https://www.youtube.com/feeds/videos.xml?channel_id=UCCBQU8mlFrElxQNR2mo-gLg"],
+            ["YT9", "https://www.youtube.com/feeds/videos.xml?channel_id=UCQjE37R-Y4DTq7kUWPO83Wg"],
+            ["SNThink", "https://servicenowthink.wordpress.com/feed"],
+            ["SNWorkflow", "https://workflow.servicenow.com/feed/"],
+            ["SNProtips", "https://snprotips.com/?format=rss"],
+            ["SNCBlog", "http://www.snc-blog.com/feed"],
+            ["SNDevelopment", "https://sncdevelopment.com/feed"],
+            ["WomenNow", "https://womennow.dev/?feed=rss2"],
+            ["Pathway", "https://pathwayscg.com/feed/"],
+            ["Reddit", "http://reddit.com/r/servicenow/.rss"],
+            ["StackOverflow", "https://stackoverflow.com/feeds/tag?tagnames=servicenow&sort=newest"],
+            ["#ServiceNow", "https://twitter.com/hashtag/ServiceNow?src=hash&f=live"],
+            ["#ServiceNowDev", "https://twitter.com/search?q=%23ServiceNowDev&src=typed_query&f=live"],
+            ['COvid', "https://twitter.com/search?q=COVID&src=typed_query&f=live"]
+        ].map(([feedName, url], idx) => {
+            const button = document.importNode(document.getElementById("buttons").content, true).querySelector("button")
+            button.textContent = feedName
+            idx === 0 && (button.className = "button is-primary")
+            const ul = document.createElement("ul")
+            parser.parseURL(CORS_PROXY + url, (error, feed) => {
+                !error && feed.items.map(({ link, title }) => {
+                    const listEntry = document.importNode(document.getElementById("listEntries").content, true).querySelector("li")
+                    const a = listEntry.querySelectorAll("a")
+                    const img = listEntry.querySelector("img")
+                    a[0].href = a[1].href = link
+                    a[0].textContent = title
+                    img.src = `https://b.hatena.ne.jp/entry/image/${link}`
+                    ul.appendChild(listEntry)
+                    idx === 0 && document.getElementById("content").appendChild(listEntry.cloneNode(true))
+                })
+            })
+            button.onclick = () => {
+                [...document.querySelectorAll("button")].map(b => b.className = "button")
+                button.className = "button is-primary"
+                document.getElementById("content").innerHTML = ul.innerHTML
+            }
+            return button
+        }))
+    </script>
+</head>
 
-<style>
-	@import url("https://fonts.googleapis.com/css?family=Jaldi");
-	
-	body {
-		color: white;
-		font-weight: 700;
-		font-family: "Jaldi";
-		line-height: 1em;
-	}
+<body>
+    <section class="section">
+        <a href="https://github.com/oooooooo/one-html-page-rss-reader"><img width="149" height="149"
+                src="https://github.blog/wp-content/uploads/2008/12/forkme_right_darkblue_121621.png?resize=149%2C149"
+                class="is-pulled-right attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1"></a>
+        <div class="container content">
+            <div id="menu" class="buttons has-addons"> </div>
+            <template id="buttons">
+                <button class="button"> </button>
+            </template>
+            <div id="content"> </div>
+            <template id="listEntries">
+                <li>
+                    <a></a>
+                    <a><img /></a>
+                </li>
+            </template>
+        </div>
+    </section>
+</body>
 
-	.rss-container {
-		position: relative;
-		width: 100%;
-		height: 1.1em;
-	}
-	
-	.rss-label {
-		display: inline-block;
-		width: 14ex;
-		white-space: nowrap;
-		overflow: hidden;
-		text-overflow: ellipsis;
-		line-height: 1.1em;
-		padding: 0 12px 0 4px;
-		border-radius: 2px 8px 8px 2px;
-	}
-	
-	.rss-list {
-		display: inline-block;
-		position: absolute;
-		left: 16ex;
-		right: 0;
-		height: 1.1em;
-		line-height: 1.1em;
-		
-		white-space: nowrap;
-		overflow: hidden;
-		list-style: none;
-		margin: 0 0 0 2px;
-		-webkit-margin-before: 0;
-		-webkit-padding-start: 0;
-		-webkit-margin-after: 0;
-	}
-	
-	.feed-item {
-		display: block;
-		position: absolute;
-		height: 1em;
-		
-		list-style-type: none;
-		padding: 0;
-		
-		white-space: nowrap;
-		
-		animation-timing-function: linear;
-		
-		visibility: hidden;
-	}
-	
-	.item-author, 
-	.item-category,
-	.item-summary,
-	.item-description,
-	.item-content{
-		display: none;
-	}
-	
-	.previous-item {
-		visibility: visible;
-		top: -100%;
-		transition: top 1s;
-		animation-name: current;
-		animation-iteration-count: infinite;
-		animation-duration: 12s;
-		animation-fill-mode: forwards;
-	}
-	.current-item {
-		visibility: visible;
-		top: 0;
-		transition: top 1s;
-		animation-name: current;
-		animation-iteration-count: infinite;
-		animation-duration: 12s;
-		animation-fill-mode: forwards;
-	}
-	.next-item {
-		visibility: visible;
-		top: 100%;
-		transition: top 1s;
-	}
-	
-	@keyframes current {
-		0% {
-			visibility: visible;
-			left: 0;
-			transform: translate3d(0,0,0);
-		}
-		20% {
-			left: 0;
-			transform: translate3d(0,0,0);
-		}
-		60% {
-			left: 0;
-			transform: translate3d(-100%,0,0);
-		}
-		60.1% {
-			visibility: hidden;
-			left: 0;
-			transform: translate3d(-100%,0,0);
-		}
-		60.2% {
-			visibility: hidden;
-			left: 0;
-			transform: translate3d(-100%,0,0);
-		}
-		60.3% {
-			visibility: visible;
-			left: 100%;
-			transform: translate3d(0,0,0);
-		}
-		100% {
-			left: 0;
-			transform: translate3d(0,0,0);
-		}
-	}
-	
-	.rss-container {
-		/*
-		background: linear-gradient(to bottom, rgba(97,100,255,1) 0%, rgba(53,46,255,1) 100%);
-		*/
-		
-		background: linear-gradient(to right, rgba(0,22,168,1) 0%, rgba(0,22,168,1) 10%, rgba(0,22,168,0) 75%);
-		
-		border-radius: 2px;
-	}
-	
-	.rss-label {
-		background: rgba(78,86,249,1);
-		background: -moz-linear-gradient(top, rgba(78,86,249,1) 0%, rgba(2,13,212,1) 50%, rgba(0,8,168,1) 51%, rgba(31,42,255,1) 100%);
-		background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(78,86,249,1)), color-stop(50%, rgba(2,13,212,1)), color-stop(51%, rgba(0,8,168,1)), color-stop(100%, rgba(31,42,255,1)));
-		background: -webkit-linear-gradient(top, rgba(78,86,249,1) 0%, rgba(2,13,212,1) 50%, rgba(0,8,168,1) 51%, rgba(31,42,255,1) 100%);
-		background: -o-linear-gradient(top, rgba(78,86,249,1) 0%, rgba(2,13,212,1) 50%, rgba(0,8,168,1) 51%, rgba(31,42,255,1) 100%);
-		background: -ms-linear-gradient(top, rgba(78,86,249,1) 0%, rgba(2,13,212,1) 50%, rgba(0,8,168,1) 51%, rgba(31,42,255,1) 100%);
-		background: linear-gradient(to bottom, rgba(78,86,249,1) 0%, rgba(2,13,212,1) 50%, rgba(0,8,168,1) 51%, rgba(31,42,255,1) 100%);
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4e56f9', endColorstr='#1f2aff', GradientType=0 );
-	}
-	
-</style>
-
-<meta charset='utf-8'>
-<title>RSS Ticker</title>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script type="text/javascript">
-jQuery(document).ready(function(){
-	loadFeedRecursive(rss, 0, 30000);
-});
-
-/**
- *	Continuously moves through the list of RSS feeds, rendering each item in each one.
- */
-function loadFeedRecursive(listRSS, curRSS, itemTime = 60000){
-	if (curRSS >= listRSS.length) {
-		curRSS = 0;
-	}
-	
-	loadFeed(listRSS[curRSS], function(feed){
-		displayFeed(feed, function(){loadFeedRecursive(listRSS, curRSS+1, itemTime);}, itemTime);
-	});
-}
-
-/**
- *	Pulls an RSS Feed, and returns it to the given callback function
- */
-function loadFeed(url, callback){
-	jQuery.ajax({
-		url: "https://query.yahooapis.com/v1/public/yql",
-		method: 'get',
-		dataType: "jsonp",
-		jsonp: "callback",
-		data: {
-			q:	 "select * "
-				+"from feednormalizer "
-				+"where url='"+url+"' "
-				+"and output='atom_1.0'",
-			format: "json",
-			env: 'store://datatables.org/alltableswithkeys'
-		},
-		success: function(response){
-			callback(response.query.results.feed);
-		}
-	});
-}
-
-/**
- *	Displays a given Feed, and calls a callback function when complete
- */
-function displayFeed(feed, callback, itemTime = 60000){
-	// ensure the feed area exists
-	if (jQuery('.rss-container').length == 0) {
-		jQuery('body').append("<div class='rss-container'><span class='rss-label'></span><ul class='rss-list'></ul></div>");
-	}
-	
-	jQuery('.rss-label').text(feed.title);
-	
-	// remove excess feed items
-	jQuery('.rss-list li:nth-last-child(n+10)').remove();
-	
-	// add all items from feed over time
-	var count = feed.entry.length;
-	for (var i = 0; i < count; i++) {
-		window.setTimeout(displayItem, itemTime*i, feed.entry[i]); 
-	}
-	
-	// cue callback after feed is done
-	window.setTimeout(callback, count*itemTime);
-}
-
-/**
- *	Displays one RSS item on the screen
- */
-function displayItem(item){
-	// rotate our presentation order tags
-	jQuery('.feed-item.previous-item').removeClass('previous-item');
-	jQuery('.feed-item.current-item').removeClass('current-item').addClass('previous-item');
-	jQuery('.feed-item.next-item').removeClass('next-item').addClass('current-item');
-	
-	// construct as much info as we can pull from the feed
-	var itemHTML = "<li class='feed-item next-item'>";
-	
-	if (item.title) {
-		itemHTML += "<span class='item-title'>"+item.title+"</span>";
-	}
-	if (item.author && item.author.name) {
-		itemHTML += "<span class='item-author'>"+item.author.name+"</span>";
-	}
-	if (item.category && item.category.term) {
-		itemHTML += "<span class='item-category'>"+item.category.term+"</span>";
-	}
-	if (item.summary && item.summary.content) {
-		itemHTML += "<span class='item-summary'>"+item.summary.content+"</span>";
-	}
-	if (item.description) {
-		itemHTML += "<span class='item-description'>"+item.description+"</span>";
-	}
-	if (item.content && item.content.content) {
-		itemHTML += "<span class='item-content'>"+item.content.content+"</span>";
-	}
-	
-	itemHTML += "</li>";
-	
-	// push next item
-	jQuery('.rss-list').append(itemHTML);
-}
-</script>
-</head><body></body></html>
+</html>
