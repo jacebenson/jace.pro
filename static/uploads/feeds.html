@@ -8,38 +8,28 @@
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous" />
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js" integrity="sha384-6khuMg9gaYr5AxOqhkVIODVIvm9ynTT5J4V1cfthmT+emCG6yVmEZsRHdxlotUnm" crossorigin="anonymous"></script>
-<script>
-    Array.prototype.sortOn = function(key){
-    this.sort(function(a, b){
-        if(a[key] < b[key]){
-            return -1;
-        }else if(a[key] > b[key]){
-            return 1;
-        }
-        return 0;
-    });
-}
-</script>
 <body id="myApp" ng-app="myApp" ng-controller="myCtrl">
     <script src="https://unpkg.com/rss-parser@3.7.3/dist/rss-parser.min.js"></script>
-    <!--<h1 ng-repeat="x in records">{{x}}</h1>-->
-    <div class="container">
-        <div class="row font-weight-bold">
-            <div class="col-3">Publish Date</div>
-            <div class="col-3">Feed Name</div>
-            <div class="col-6">
-                <a href="{{feed.link}}">Feed Link</a>
-            </div>
-        </div>
-        <hr />
-        <div class="row" ng-repeat="feed in records | orderBy: '-time'">
-            <div class="col-3">{{feed.pubDate}}</div>
-            <div class="col-3">{{feed.feedName}}</div>
-            <div class="col-6">
+    
+    <table class="table table-hover">
+        <thead>
+          <tr>
+            <th>Publish Date</th>
+            <th>Feed Name</th>
+            <th>Feed Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr scope="row" ng-repeat="feed in records | orderBy: '-time'">
+            <td>{{feed.pubDate}}</td>
+            <td>{{feed.feedName}}</td>
+            <td>
                 <a href="{{feed.link}}">{{feed.title}}</a>
-            </div>
+            </td>
         </div>
-    </div>
+        </tbody>
+      </table>
+
     <script>
         var app = angular.module("myApp", []);
         app.controller("myCtrl", function ($scope, $q) {
