@@ -6,6 +6,9 @@
   HUGO_VERSION = "0.55.6"
   HUGO_ENABLEGITINFO = "true"
 
+[[headers]]
+Access-Control-Allow-Origin = "*"
+
 [context.production.environment]
   HUGO_ENV = "production"
 
