@@ -111,7 +111,7 @@
                                 title += " ...";
                             }
                             $scope.records.push({
-                                feedName: feed.title,
+                                feedName: feed.title || rss.title,
                                 type: rss.type,
                                 time: d.getTime(),
                                 pubDate: dStr,
