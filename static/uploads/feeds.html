@@ -92,7 +92,7 @@
             feeds.map(function parseFeeds(feed, idx) {
                 var fullURL = CORS_PROXY + feed.url;
                 if (feed.url.toLowerCase().indexOf('jace.pro') >= 0) {
-                    fullURL = url;
+                    fullURL = feed.url;
                 }
                 //console.log('using', fullURL)
                 var promise = parser.parseURL(fullURL, (error, feed) => {
