@@ -102,7 +102,7 @@
                     if (error) {
                         console.log("error", url, error);
                     } else if (feed) {
-                        feed.items.map(({ link, title, pubDate }) => {
+                        feed.items.map(({ link, title, pubDate, type }) => {
                             const d = new Date(pubDate)
                             const dStr = d.toLocaleDateString() + ' ' + d.toLocaleTimeString()
                             if (title.length > 70) {
@@ -110,8 +110,8 @@
                                 title += " ...";
                             }
                             $scope.records.push({
-                                feedName: feed.title,
-                                type: feed.type,
+                                feedName: title,
+                                type: type,
                                 time: d.getTime(),
                                 pubDate: dStr,
                                 title: title,
