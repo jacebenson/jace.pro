@@ -100,7 +100,7 @@
                 var promise = parser.parseURL(fullURL, (error, feed) => {
                     //console.log('feed', feed);
                     if (error) {
-                        console.log("error", url, error);
+                        console.log("error", feed.url, error);
                     } else if (feed) {
                         feed.items.map(({ link, title, pubDate, type }) => {
                             const d = new Date(pubDate)
