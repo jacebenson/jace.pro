@@ -20,12 +20,14 @@
             <tr>
                 <th>Publish Date</th>
                 <th>Feed Name</th>
+                <th>Feed Type</th>
                 <th>Feed Link</th>
             </tr>
         </thead>
         <tbody>
             <tr scope="row" ng-repeat="feed in records | orderBy: '-time'">
                 <td>{{feed.pubDate}}</td>
+                <td>{{feed.type}}</td>
                 <td>{{feed.feedName}}</td>
                 <td>
                     <a href="{{feed.link}}">{{feed.title}}</a>
@@ -109,6 +111,7 @@
                             }
                             $scope.records.push({
                                 feedName: feed.title,
+                                type: feed.type,
                                 time: d.getTime(),
                                 pubDate: dStr,
                                 title: title,
