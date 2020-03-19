@@ -107,6 +107,9 @@
                                 title = title.substring(0, 60);
                                 title += " ...";
                             }
+                            if(feed.title.length > 70){
+                                feed.title = rss.title;
+                            }
                             $scope.records.push({
                                 feedName: feed.title || rss.title,
                                 type: rss.type,
