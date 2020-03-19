@@ -44,7 +44,7 @@
             //const CORS_PROXY = 'https://cors-anywhere.herokuapp.com/'
             const CORS_PROXY = 'https://cors-anywhere-jace.herokuapp.com/'
             const parser = new RSSParser;
-            var feeds = [
+            var rssFeeds = [
                 {
                     "title": "An Errant Programmer",
                     "type": "Blog",
@@ -91,18 +91,18 @@
                 //['COvid', "https://twitter.com/search?q=COVID&src=typed_query&amp;f=live"]
             ];
             var promises = [];
-            feeds.map(function parseFeeds(feed, idx) {
-                var fullURL = CORS_PROXY + feed.url;
-                if (feed.url.toLowerCase().indexOf('jace.pro') >= 0) {
-                    fullURL = feed.url;
+            rssFeeds.map(function parseFeeds(rss, idx) {
+                var fullURL = CORS_PROXY + rss.url;
+                if (rss.url.toLowerCase().indexOf('jace.pro') >= 0) {
+                    fullURL = rss.url;
                 }
                 //console.log('using', fullURL)
                 var promise = parser.parseURL(fullURL, (error, feed) => {
                     //console.log('feed', feed);
                     if (error) {
-                        console.log("error", feed.url, error);
+                        console.log("error", url, error);
                     } else if (feed) {
-                        feed.items.map(({ link, title, pubDate, type }) => {
+                        feed.items.map(({ link, title, pubDate }) => {
                             const d = new Date(pubDate)
                             const dStr = d.toLocaleDateString() + ' ' + d.toLocaleTimeString()
                             if (title.length > 70) {
@@ -110,8 +110,8 @@
                                 title += " ...";
                             }
                             $scope.records.push({
-                                feedName: title,
-                                type: type,
+                                feedName: feed.title,
+                                type: feed.type,
                                 time: d.getTime(),
                                 pubDate: dStr,
                                 title: title,
