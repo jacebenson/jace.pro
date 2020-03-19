@@ -92,13 +92,14 @@
             ];
             var promises = [];
             rssFeeds.map(function parseFeeds(rss, idx) {
+                console.log('rss', rss);
                 var fullURL = CORS_PROXY + rss.url;
                 if (rss.url.toLowerCase().indexOf('jace.pro') >= 0) {
                     fullURL = rss.url;
                 }
                 //console.log('using', fullURL)
                 var promise = parser.parseURL(fullURL, (error, feed) => {
-                    //console.log('feed', feed);
+                    console.log('feed', feed);
                     if (error) {
                         console.log("error", url, error);
                     } else if (feed) {
