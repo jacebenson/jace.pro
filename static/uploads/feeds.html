@@ -19,9 +19,9 @@
         <thead>
             <tr>
                 <th>Publish Date</th>
-                <th>Feed Name</th>
-                <th>Feed Type</th>
-                <th>Feed Link</th>
+                <th>Type</th>
+                <th>Name</th>
+                <th>Link</th>
             </tr>
         </thead>
         <tbody>
@@ -45,16 +45,9 @@
             const CORS_PROXY = 'https://cors-anywhere-jace.herokuapp.com/'
             const parser = new RSSParser;
             var rssFeeds = [
-                {
-                    "title": "An Errant Programmer",
-                    "type": "Blog",
-                    "url": "http://anerrantprogrammer.com/?feed=rss2"
-                }, {
-                    "title": "An Errant Programmer",
-                    "type": "YouTube",
-                    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2ey_HG743-CrxOTPU_ft7g"
-                },
-                { "title": "Andrew Albury-Dor", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH1byb2cbzlFrYndyKic_Lg" },
+                { "title": "An Errant Programmer", "type": "Blog", "url": "http://anerrantprogrammer.com/?feed=rss2"}, 
+                { "title": "An Errant Programmer", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2ey_HG743-CrxOTPU_ft7g" },
+                { "title": "Andrew Albury-Dor",    "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH1byb2cbzlFrYndyKic_Lg" },
                 { "title": "Ben Hollifield", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpXBKCVchJqXo08OyD0i2eQ" },
                 { "title": "ServiceNow Elite", "type": "Blog", "url": "http://www.servicenowelite.com/blog?format=rss" },
                 { "title": "CloudMinus89", "type": "Blog", "url": "http://www.cloudminus89.com/feeds/posts/default?alt=rss" },
@@ -77,7 +70,11 @@
                 { "title": "ServiceNow Community Podcasts", "type": "Podcast", "url": "https://omny.fm/shows/servicenow-cloudcast/playlists/servicenow-podcasts.rss" },
                 { "title": "ServiceNow Think", "type": "Blog", "url": "https://servicenowthink.wordpress.com/feed" },
                 { "title": "Acorio - Candid Podcast", "type": "Podcast", "url": "https://feeds.buzzsprout.com/457558.rss" },
-                { "title": "ServiceShart Podcast", "type": "Podcast", "url": "https://anchor.fm/s/a71217c/podcast/rss" },
+                { "title": "Finite Partners", "type": "Blog", "url": "https://finite-partners.com/feed" },
+                { "title": "Sumo IT", "type": "Blog", "url": "https://hiresumo.com/home?format=rss" },
+                { "title": "SNGuru", "type": "Blog", "url": "https://www.servicenowguru.com/feed/" },
+                { "title": "Linium Blog", "type": "Blog", "url": "https://www.linium.com/blog/rss.xml"},
+                { "title": "ServiceStart Podcast", "type": "Podcast", "url": "https://anchor.fm/s/a71217c/podcast/rss" },
                 { "title": "Workflow", "type": "Newsletter", "url": "https://workflow.servicenow.com/feed/" },
                 { "title": "SNProtips", "type": "Blog", "url": "https://snprotips.com/?format=rss" },
                 { "title": "SNC-Blog", "type": "Blog", "url": "http://www.snc-blog.com/feed" },
