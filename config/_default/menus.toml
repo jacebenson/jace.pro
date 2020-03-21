@@ -33,6 +33,12 @@
   url = "#resources"
   weight = 60
 
+
+[[main]]
+  name = "News"
+  url = "/news"
+  weight = 65
+
 [[main]]
   name = "Contact"
   url = "#contact"
