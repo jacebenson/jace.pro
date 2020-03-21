@@ -1,0 +1,121 @@
+{{- define "main" -}}
+{{ $feeds := site.Data.feeds }}
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $bg := $page.Params.design.background }}
+
+<h1 class="hero-title">
+    GHelloa
+  {{ with $page.Title }}{{ . | markdownify }}{{ end }}
+</h1>
+
+<table>
+  <thead>
+    <td>Publish Date</td>
+    <td>Type</td>
+    <td>Name</td>
+    <td>Link</td>
+  </thead>
+  {{ range sort $feeds "date" "desc" }}
+  {{ $patches := (.patches) }}
+  {{ $patchScratch := newScratch }}
+  {{ $patchScratch.Add "total" 0 }}
+
+  {{ range $patches }}
+  {{ $patchScratch.Add "total" 1 }}
+  {{ end }}
+
+  <tr>
+    <td colspan="1">
+      {{ if .url }}
+        {{ $url := urls.Parse .url }}
+        {{ if ne $url.Host "docs.servicenow.com" }}
+          <a href="https://web.archive.org/web/{{ .url }}"
+             class="text-light">
+            <u>{{ .name }}</u>
+          </a>
+        {{ else }}
+          <a class="text-light" href=" {{ .url }} ">
+            <u>{{ .name }}</u>
+          </a>
+        {{ end }}
+      {{ else }}
+        {{ .name }}
+      {{ end }}
+    </td>
+    <td colspan="42">
+      {{ if .endDate }}
+        {{ .date }} - {{ .endDate}}
+      {{ else }}
+        {{ .date }} - Current
+    {{ end }}
+    </td>
+  </tr>
+  <tr class="collapse show" id="collapsePatches" aria-expanded="true" >
+    <td></td>
+    <td>Patches</td>
+    {{ $patches := (.patches) }}
+    {{ $patchScratch.Add "currentDoc" 0 }}
+    {{ range $patches }}
+      {{ $patchScratch.Add "currentDoc" 1 }}
+    <td {{ if eq ($patchScratch.Get "currentDoc")  ($patchScratch.Get "total") }} colspan="42" {{else}} colspan="1" {{end}}>
+      <div >
+      {{ if .url }}
+        {{ $url := urls.Parse .url }}
+        {{ if ne $url.Host "docs.servicenow.com" }}
+          <a href="https://web.archive.org/web/{{ .url }}">{{.number}}</a>
+        {{ else }}
+          <a href="{{ .url }}">{{.number}}</a>
+        {{ end }}
+      {{ else }}
+        {{ .number }}
+      {{ end }}
+      </div>
+    </td>
+    {{ end }}
+  </tr>
+  <tr class="collapse show" id="collapsePatches" aria-expanded="true" >
+    <td></td>
+    <td>Security Fixes</td>
+    {{ $patchScratch.Add "currentKB" 0 }}
+    {{ range $patches }}
+      {{ $patchScratch.Add "currentKB" 1 }}
+    <td {{ if eq ($patchScratch.Get "currentKB")  ($patchScratch.Get "total") }} colspan="42" {{else}} colspan="1" {{end}}>
+    {{ if .hi }}
+        <a href="https://hi.service-now.com/kb_view.do?sysparm_article={{ .hi }}">
+        <i class="fa fa-power-off"
+            data-toggle="tooltip" 
+            data-placement="top" 
+            title="{{ .hi }}"
+        ></i>
+        </a>
+      
+    {{ end }}
+  </td>
+  {{ end }}
+  </tr>
+  <tr class="collapse show" id="collapseFeatures" aria-expanded="true">
+    <td></td>
+    <td>Features</td>
+    
+    <td colspan="42">
+        {{ if .features }}
+        <ul>
+          {{ range .features }}
+          <li>{{ . }} </li>
+          {{ end }}
+        </ul>
+        {{ end }}
+    </td>
+  </tr>
+    
+  </tr>
+  {{ end }}
+</table>
+
+
+{{ if $page.Params.hero_media }}
+</div>
+</div>
+{{ end }}
+{{- end -}}

@@ -1,0 +1,32 @@
+{{- define "main" -}}
+{{ $feeds := site.Data.feeds }}
+<div class="container">
+  <section id="news" class="home-section wg-pages">
+    
+<h1 class="hero-title">
+  News from many ServiceNow blogs
+</h1>
+
+<table>
+  <thead>
+    <td>Publish Date</td>
+    <td>Type</td>
+    <td>Name</td>
+    <td>Link</td>
+  </thead>
+  {{ range sort $feeds "date" "desc" }}
+  <tr>
+    <td alt='{{ dateFormat "02 Jan 2006 15:04" .date }}'>{{ dateFormat "02 Jan 2006" .date }}</td>
+    <td>{{ .category }}</td>
+    <td>{{ .site }}</td>
+    <td>
+      <a href="{{ .link }}">{{ .title }} </a>
+    </td>
+  </tr>
+  {{ end }}
+</table>
+
+</section>
+
+</div>
+{{- end -}}
