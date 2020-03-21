@@ -110,6 +110,7 @@ subtitle = ""
         <ul>
             
             <li><a href="./uploads/2020-03-16-1441-sn.opml" target="_blank">RSS OPML import</a></li>
+            <li><a href="/news">News from many sources</a></li>
             <li><a href="https://dev.alburydor.com/posts/" target="_blank">Andrew Albury-Dor Blog</a></li>
             <li><a href="https://womennow.dev/" target="_blank">Women of ServiceNow</a></li>
             <li><a href="https://mavembry.info" target="_blank">Mav's blog</a></li>
