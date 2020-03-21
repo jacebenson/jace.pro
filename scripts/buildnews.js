@@ -6,6 +6,7 @@ const fs = require('fs');
 let feeds = [
     { "title": "An Errant Programmer", "type": "Blog", "url": "http://anerrantprogrammer.com/?feed=rss2" },
     { "title": "An Errant Programmer", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2ey_HG743-CrxOTPU_ft7g" },
+    { "title": "Andrew Albury-Dor", "type": "Blog", "url": "https://andrew.alburydor.com/posts/index.xml"},
     { "title": "Andrew Albury-Dor", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCH1byb2cbzlFrYndyKic_Lg" },
     { "title": "Ben Hollifield", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpXBKCVchJqXo08OyD0i2eQ" },
     { "title": "ServiceNow Elite", "type": "Blog", "url": "http://www.servicenowelite.com/blog?format=rss" },
