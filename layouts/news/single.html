@@ -4,7 +4,9 @@
   <section id="news" class="home-section wg-pages">
     
 <h1 class="hero-title">
-  News from many ServiceNow blogs
+  All ServiceNow news updated on <span>
+    <a href="https://app.netlify.com/sites/flamboyant-sinoussi-bbae45/deploys">{{ dateFormat "2006-01-02" now }}</a>
+  </span>
 </h1>
 
 <table>
@@ -14,6 +16,11 @@
     <td>Site</td>
     <td>Link</td>
   </thead>
+  <tr>
+    <td colspan="4">
+      Is your content missing here?  Open a <a href="https://github.com/jacebenson/jace.pro/issues/new?template=add_news.md">issue</a>
+    </td>
+  </tr>
   {{ range sort $feeds "date" "desc" }}
   <tr>
     <td alt='{{ dateFormat "02 Jan 2006 15:04" .date }}'>{{ dateFormat "02 Jan 2006" .date }}</td>
