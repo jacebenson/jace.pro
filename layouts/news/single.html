@@ -9,16 +9,16 @@
 
 <table>
   <thead>
-    <td>Publish Date</td>
+    <td>Date</td>
     <td>Type</td>
-    <td>Name</td>
+    <td>Site</td>
     <td>Link</td>
   </thead>
   {{ range sort $feeds "date" "desc" }}
   <tr>
     <td alt='{{ dateFormat "02 Jan 2006 15:04" .date }}'>{{ dateFormat "02 Jan 2006" .date }}</td>
     <td>{{ .category }}</td>
-    <td>{{ .site }}</td>
+    <td>{{ .site }} - {{ .author }}</td>
     <td>
       <a href="{{ .link }}" target="_blank">{{ .title }} </a>
     </td>

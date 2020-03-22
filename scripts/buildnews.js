@@ -70,7 +70,8 @@ let feeds = [
                         site: rssFeed.title,
                         category: rssFeed.type,
                         title: item.title,
-                        link: item.link
+                        link: item.link,
+                        author: item.author || item.creator || ""
                     });
                     //console.log(item);
                     //console.log(item.title + ':' + item.link);
