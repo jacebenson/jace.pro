@@ -39,8 +39,8 @@ var getNowBlogs = function(urlParams, callback){
             var body = Buffer.concat(chunks);
             //console.log(body.toString());
             var responseObj = JSON.parse(body);
-            console.log(JSON.stringify(responseObj.result, '', ' '));
-            console.log('all feeds loaded, writing to feeds.json');
+            //console.log(JSON.stringify(responseObj.result, '', ' '));
+            //console.log('all feeds loaded, writing to feeds.json');
             // loop over the contens and distill it to;
             // author
             // link
@@ -55,7 +55,10 @@ var getNowBlogs = function(urlParams, callback){
                     category: "Blog",
                     title: post.title,
                     author: post.userAvatarObject.name,
-                    link: "https://community.servicenow.com" + post.url
+                    link: "https://community.servicenow.com/community?id=community_blog&sys_id=" + post.sys_id
+                    //https://community.servicenow.com/community?id=community_blog&sys_id=bed58beb1ba3c8d4fff162c4bd4bcb89 
+                    //https://community.servicenow.com/sn_communities_blog.do?sys_id=bed58beb1ba3c8d4fff162c4bd4bcb89
+                    //
                 });
             });
             if(responseObj.hasMoreRecords){
