@@ -6083,5 +6083,165 @@
   "title": "Upgrading From Express to Enterprise: What's Missing",
   "link": "https://snprotips.com/blog/2018/4/17/upgrading-express-to-enterprise-whats-missing",
   "author": "Tim Woodruff"
+ },
+ {
+  "date": "2020-03-21T03:17:23.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Requested Item Variables in Activity Formatter",
+  "author": "Tanaji Patil",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=d1a9a0b3db6388d413b5fb24399619bd"
+ },
+ {
+  "date": "2020-03-20T20:01:24.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Managing in a Hybrid World",
+  "author": "James",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=bed58beb1ba3c8d4fff162c4bd4bcb89"
+ },
+ {
+  "date": "2019-06-25T12:04:11.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Event collection from ThousandEyes",
+  "author": "Jean-Francois (JF) Muller",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=79f408c9db5e7b40e0e80b55ca961923"
+ },
+ {
+  "date": "2018-01-19T08:47:43.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Service Portal - Tabbed List Widget ( Hi Portal - My Issues ) (Up to 5 tabs supported)",
+  "author": "Gurpreet",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=3e0d2ea5dbd0dbc01dcaf3231f96190f"
+ },
+ {
+  "date": "2011-10-12T13:05:15.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "How to Create a Login Terms and Conditions Dialog That Really Works!",
+  "author": "Mark Stanger",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=7a8c2ae1dbd0dbc01dcaf3231f9619a8"
+ },
+ {
+  "date": "2011-09-14T12:21:35.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "How to add a Highlight to the Selected Navigation Module in ServiceNow",
+  "author": "Mark Stanger",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=1bcce265dbd0dbc01dcaf3231f961951"
+ },
+ {
+  "date": "2018-08-06T00:46:54.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Email Client & Client Templates",
+  "author": "Sanjiv Meher",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=df609af8dbbbdb405ed4a851ca961928"
+ },
+ {
+  "date": "2020-03-13T19:22:23.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Update on COVID-19",
+  "author": "Dan Bruhn",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=c7c97615db238c14d58ea345ca96191c"
+ },
+ {
+  "date": "2018-01-14T22:34:05.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Auto-populating and validating date fields",
+  "author": "Sanjiv Meher",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=467c62e1dbd0dbc01dcaf3231f9619ad"
+ },
+ {
+  "date": "2016-06-01T14:22:23.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "How to Integrate Webhooks Into ServiceNow",
+  "author": "shaunmillin",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=886d2a29dbd0dbc01dcaf3231f9619b0"
+ },
+ {
+  "date": "2017-07-20T07:23:19.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Unlearn Series - Auto Populate List Collectors",
+  "author": "Kalaiarasan Pushpanathan",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=1bdd6ae9dbd0dbc01dcaf3231f96194a"
+ },
+ {
+  "date": "2013-03-05T16:28:50.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Training Formats Explained",
+  "author": "Andy Ho",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=808c26e1dbd0dbc01dcaf3231f961983"
+ },
+ {
+  "date": "2020-01-13T18:17:37.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Now Learning Blog – Let’s Get Certified!",
+  "author": "Julie",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=1d9b6946db9a8410d82ffb2439961920"
+ },
+ {
+  "date": "2020-03-10T11:53:16.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Now Learning Blog – So you want to be a ServiceNow Architect Part 3",
+  "author": "Julie",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=43363518db6f84d0d58ea345ca961931"
+ },
+ {
+  "date": "2020-03-03T11:40:55.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Now Learning Blog – So you want to be a ServiceNow Architect Part 2",
+  "author": "Julie",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=8240790edbd7cc10d58ea345ca961905"
+ },
+ {
+  "date": "2020-01-27T16:38:20.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Now Learning Blog – Micro-Certifications Equal Big Impact!",
+  "author": "Julie",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=6f1b956edb660c142be0a851ca9619cf"
+ },
+ {
+  "date": "2017-10-11T21:05:17.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Filling PDF forms in ServiceNow",
+  "author": "dylan.lindgren",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=4acc6265dbd0dbc01dcaf3231f961949"
+ },
+ {
+  "date": "2019-10-16T18:06:06.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Introducing the Idea Portal on Now Community - why we did it and what's next?",
+  "author": "lawrence.eng",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=f4735f19db684cd45ed4a851ca961942"
+ },
+ {
+  "date": "2019-06-17T13:31:44.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Rob's ServiceNow Videos for Admins, Devs, Architects, & More",
+  "author": "Robert Fedoruk",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=c64c8b9edb06bb005d782183ca96191d"
+ },
+ {
+  "date": "2020-01-08T11:08:46.000Z",
+  "site": "ServiceNow Community Blogs",
+  "category": "Blog",
+  "title": "Security Top Tips Part 4: Keeping to your lanes - Getting the most out of access controls",
+  "author": "ashok-sn",
+  "link": "https://community.servicenow.com/sn_communities_blog.do?sys_id=7a795690db5a4450190dfb243996197d"
  }
 ]

@@ -70,7 +70,7 @@ var getNowBlogs = function(urlParams, callback){
     req.end(); 
 }
 getNowBlogs(null,function(){
-    fs.readFile('./data/snblogs.json', (err, data) => {
+    fs.readFile('./data/feeds.json', (err, data) => {
         if (err) {
             throw err;
         }
@@ -80,6 +80,6 @@ getNowBlogs(null,function(){
         var uniqueArray = newArr.filter(function(item, pos) {
             return newArr.indexOf(item) == pos;
         })
-        fs.writeFileSync('./data/snblogs.json', JSON.stringify(uniqueArray, '', ' '));
+        fs.writeFileSync('./data/feeds.json', JSON.stringify(uniqueArray, '', ' '));
       });
 });

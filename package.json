@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "post": "echo \"hugo new --kind post post/post-name\"",
     "talk": "echo \"hugo new  --kind talk talk/my-talk-name\"",
-    "build": "node ./scripts/buildnews.js"
+    "build": "node ./scripts/buildnews.js && node ./scripts/buildsnblogs.js"
   },
   "repository": {
     "type": "git",
