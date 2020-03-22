@@ -83,7 +83,16 @@ let feeds = [
             
             if (outputObj.feeds.length === feeds.length) {
                 console.log('all feeds loaded, writing to feeds.json', outputObj.news.length);
-                fs.writeFileSync('./data/feeds.json', JSON.stringify(outputObj.news, '', ' '));
+                fs.exists('./data/feeds.json', function(exists) {
+                    if(exists) {//overwrite
+                        console.log('updating feeds.json')
+                        fs.writeFileSync('./data/feeds.json', JSON.stringify(outputObj.news, '', ' '));
+                    } else {//create
+                        console.log('creating feeds.json')
+                        fs.writeFileSync('./data/feeds.json', JSON.stringify(outputObj.news, '', ' '));
+                    }
+                  });
+                
             }
         });
         promises.push(promise);
