@@ -39,7 +39,7 @@ let feeds = [
     { "title": "Ahead LLC", "type": "Blog", "url": "https://www.thinkahead.com/feed" },
     { "title": "Aeritae Blog", "type": "Blog", "url": "https://aeritae.com/blog/feed" },
     { "title": "ServicePortal.io", "type": "Blog", "url": "https://serviceportal.io/feed" },
-    { "title": "GlideFast", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZNM56LyLhmba73FtDsyaAw"}
+    { "title": "GlideFast", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZNM56LyLhmba73FtDsyaAw"},
     { "title": "ServiceStart Podcast", "type": "Podcast", "url": "https://anchor.fm/s/a71217c/podcast/rss" },
     { "title": "Workflow", "type": "Newsletter", "url": "https://workflow.servicenow.com/feed/" },
     { "title": "SNProtips", "type": "Blog", "url": "https://snprotips.com/?format=rss" },
