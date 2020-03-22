@@ -63,7 +63,7 @@ let feeds = [
         var promise = parser.parseURL(rssFeed.url, (error, feed) => {
             outputObj.feeds.push(rssFeed.title);
             console.log(outputObj.feeds.length, '/', feeds.length, rssFeed.title);
-            console.log(feed.items.length>0);
+            //console.log(feed.items.length>0);
                 feed.items.forEach(function(item) {
                     outputObj.news.push({
                         date: item.isoDate,
