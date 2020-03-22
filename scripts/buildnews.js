@@ -48,6 +48,7 @@ let feeds = [
     { "title": "WomenNow", "type": "Blog", "url": "https://womennow.dev/?feed=rss2" },
     { "title": "Pathway", "type": "Blog", "url": "https://pathwayscg.com/feed/" },
     { "title": "Man Myth and Legend", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT3ONLZwnTIfmVqRiDsRMVA" },
+    { "title": "PhilGoesDeep", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCTmjY6H5roYkGQmwAQAcgQ"}
     //{ "title": "Reddit", "type": "Questions", "url": "http://reddit.com/r/servicenow/.rss" },
     //{ "title": "StackOverflow", "type": "Questions", "url": "https://stackoverflow.com/feeds/tag?tagnames=servicenow&amp;sort=newest" },
 ];
@@ -71,7 +72,7 @@ let feeds = [
                         category: rssFeed.type,
                         title: item.title,
                         link: item.link,
-                        author: item.author || item.creator || ""
+                        author: ""//item.author || item.creator || ""
                     });
                     //console.log(item);
                     //console.log(item.title + ':' + item.link);

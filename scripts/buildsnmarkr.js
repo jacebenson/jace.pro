@@ -10,9 +10,8 @@ var getNowBlogs = function(start, callback){
     var options = {
         method: "GET",
         hostname: "community.servicenow.com",
-        //path: "/api/sn_communities/v1/community/contents?last=80&stFrom=60&before=&forum=a6299a2ddbd897c068c1fb651f961926&type=cc3fcaa0dbd26600b1f6f78eaf96192e&sort=publish&filters=undefined",
-        // https://community.servicenow.com/api/sn_communities/v1/community/contents?all=true&type=cc3fcaa0dbd26600b1f6f78eaf96192e&forum=a6299a2ddbd897c068c1fb651f961926&last=10000
-        path: "/api/sn_communities/v1/community/contents?last="+end+"&stFrom="+start+"&before="+new Date().toISOString()+"&forum=a6299a2ddbd897c068c1fb651f961926&type=cc3fcaa0dbd26600b1f6f78eaf96192e&sort=publish&filters=undefined",
+        //5c101a25db581fc09c9ffb651f961978
+        path: "/api/sn_communities/v1/community/contents?last="+end+"&stFrom="+start+"&before="+new Date().toISOString()+"&forum=&type=5eaa334a5f10030069c587dc3f73130b&user=e5cf8aeddb181fc09c9ffb651f961930&state=all&filters=undefined",
         headers: {
             "Accept": "*/*",
             "Cache-Control": "no-cache",
@@ -46,7 +45,7 @@ var getNowBlogs = function(start, callback){
                     category: "Blog",
                     title: post.title,
                     author: post.userAvatarObject.name,
-                    link: "https://community.servicenow.com/community?id=community_blog&sys_id=" + post.sys_id
+                    link: "https://community.servicenow.com/community?id=community_article&sys_id=" + post.sys_id
                 });
             });
             
@@ -55,8 +54,6 @@ var getNowBlogs = function(start, callback){
                     console.log('outputArr.length',outputArr.length)
                 });
             } else {
-                callback();
-                //function(){
                     fs.readFile('./data/feeds.json', (err, data) => {
                         if (err) {
                             throw err;
@@ -69,7 +66,6 @@ var getNowBlogs = function(start, callback){
                         })
                         fs.writeFileSync('./data/feeds.json', JSON.stringify(uniqueArray, '', ' '));
                       });
-                //}
             }
         });
     });
