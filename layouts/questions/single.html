@@ -1,0 +1,36 @@
+{{- define "main" -}}
+{{ $feeds := site.Data.questions }}
+<div class="container">
+  <section id="news" class="home-section wg-pages">
+    
+<h1 class="hero-title">
+  20 questions <span>
+    <a href="https://app.netlify.com/sites/flamboyant-sinoussi-bbae45/deploys">{{ dateFormat "2006-01-02" now }}</a>
+  </span>
+</h1>
+
+<table>
+  <thead>
+    <td>Created</td>
+    <td>Updated</td>
+    <td>Replies</td>
+    <td>Forum</td>
+    <td>Link</td>
+  </thead>
+  {{ range sort $feeds "replies" "desc" }}
+  <tr>
+    <td alt='{{ dateFormat "02 Jan 2006 15:04" .created }}'>{{ dateFormat "02 Jan 15:04 AM CST" .created }}</td>
+    <td alt='{{ dateFormat "02 Jan 2006 15:04" .updated }}'>{{ dateFormat "02 Jan 15:04 AM CST" .updated }}</td>
+    <td>{{ .replies }}</td>
+    <td>{{ .forum }}</td>
+    <td>
+      <a href="{{ .link }}" target="_blank">{{ .title }} </a>
+    </td>
+  </tr>
+  {{ end }}
+</table>
+
+</section>
+
+</div>
+{{- end -}}

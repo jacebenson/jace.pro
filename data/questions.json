@@ -1,0 +1,2002 @@
+[
+ {
+  "created": "2020-03-16T09:22:35.000Z",
+  "updated": "2020-03-24T20:57:24.000Z",
+  "category": "Question",
+  "title": "Dependent Variable on catalog fom",
+  "author": "priyarao",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=4e4d8c1adbef0c14d82ffb24399619ad",
+  "replies": "33",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-01-03T04:16:30.000Z",
+  "updated": "2020-03-24T22:49:20.000Z",
+  "category": "Question",
+  "title": "How to call email script from the flow designer",
+  "author": "Akshay Magadum",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=ae2b0be6db020cd85129a851ca961950",
+  "replies": "15",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2019-10-30T19:25:50.000Z",
+  "updated": "2020-03-24T21:56:41.000Z",
+  "category": "Question",
+  "title": "Need to show 'Add' button only for few states. ",
+  "author": "archie",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=11fba7f1dbf884d02be0a851ca961970",
+  "replies": "15",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2019-09-25T09:51:02.000Z",
+  "updated": "2020-03-24T22:01:14.000Z",
+  "category": "Question",
+  "title": "Cannot edit unpublished workflow",
+  "author": "Milan",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=08c85da6db0444d40be6a345ca961942",
+  "replies": "13",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-02-26T21:23:38.000Z",
+  "updated": "2020-03-24T23:58:53.000Z",
+  "category": "Question",
+  "title": "Unable to Discover with Terraform Cloud",
+  "author": "Brent Langdon",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=cf1c7c941bdb80d0d01143f6fe4bcb11",
+  "replies": "12",
+  "forum": "IT Operations Management"
+ },
+ {
+  "created": "2020-03-24T09:37:21.000Z",
+  "updated": "2020-03-24T22:14:07.000Z",
+  "category": "Question",
+  "title": "Both decodeURIComponent() and decodeURI() not work on scoped application",
+  "author": "Antonio",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=906d55301b3b44107a5933f2cd4bcb1b",
+  "replies": "12",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-20T05:46:29.000Z",
+  "updated": "2020-03-24T23:39:19.000Z",
+  "category": "Question",
+  "title": "Personal Instance issues",
+  "author": "Vinay",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=eb22c46fdb6b0c94414eeeb5ca9619b6",
+  "replies": "11",
+  "forum": "Instance Help"
+ },
+ {
+  "created": "2020-03-23T14:13:25.000Z",
+  "updated": "2020-03-24T23:31:24.000Z",
+  "category": "Question",
+  "title": "Variable Date no less than 5 business days",
+  "author": "booher04",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=22f21de8dbf780d4d82ffb24399619f7",
+  "replies": "11",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-19T11:51:37.000Z",
+  "updated": "2020-03-24T23:12:48.000Z",
+  "category": "Question",
+  "title": "Change tasks need to generate approval.",
+  "author": "morrix",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=6e2c4c17db2300944819fb24399619bd",
+  "replies": "11",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T02:11:10.000Z",
+  "updated": "2020-03-24T22:01:20.000Z",
+  "category": "Question",
+  "title": "How can I Apply UI policy on Multiple catalog items",
+  "author": "Heisenberg",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=a8477b2cdb3b80d42be0a851ca9619bf",
+  "replies": "11",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2018-11-14T22:23:17.000Z",
+  "updated": "2020-03-24T21:14:08.000Z",
+  "category": "Question",
+  "title": "Make an attachment mandatory based on a variable selection on a catalog item",
+  "author": "heidiyablonski",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=50287111db796b402737e15b8a9619fe",
+  "replies": "11",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-02-18T16:14:12.000Z",
+  "updated": "2020-03-24T23:09:53.000Z",
+  "category": "Question",
+  "title": "forms usage activity",
+  "author": "Kishore Babu S",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=2498ea65db47c4506064eeb5ca961913",
+  "replies": "10",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-20T08:40:23.000Z",
+  "updated": "2020-03-24T20:28:29.000Z",
+  "category": "Question",
+  "title": "Limit assignment group choices based on user's group",
+  "author": "Alberto",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=cbf96427dbeb0c9423f4a345ca96195e",
+  "replies": "10",
+  "forum": "Customer Service Management"
+ },
+ {
+  "created": "2020-03-24T01:47:16.000Z",
+  "updated": "2020-03-24T23:50:46.000Z",
+  "category": "Question",
+  "title": "Set Requested for from email body",
+  "author": "Narendra Kota",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=92c13f28db73cc941cd8a345ca961997",
+  "replies": "9",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T05:49:22.000Z",
+  "updated": "2020-03-24T22:19:36.000Z",
+  "category": "Question",
+  "title": "How to add a condition in contextual search for resolved incidents ",
+  "author": "deepak",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=fc39a4701b770010ada243f6fe4bcb22",
+  "replies": "9",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2018-12-04T08:06:29.000Z",
+  "updated": "2020-03-24T20:28:11.000Z",
+  "category": "Question",
+  "title": "How do a insert a default image to the results in the carousel of the Virtual agent,  the pre-defined topic \"Order an item\" has this carousel.",
+  "author": "ajithnandish",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=2cd371ebdb06eb80f0612183ca9619b5",
+  "replies": "9",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2017-12-12T16:50:40.000Z",
+  "updated": "2020-03-25T00:57:59.000Z",
+  "category": "Question",
+  "title": "IE/service portal copy paste",
+  "author": "bshaw",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=e2014fa5db98dbc01dcaf3231f9619a3",
+  "replies": "8",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-09T05:51:38.000Z",
+  "updated": "2020-03-24T22:01:18.000Z",
+  "category": "Question",
+  "title": "how to use and statement in if condition?",
+  "author": "kumar",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=73d953bbdbdb84901cd8a345ca96199a",
+  "replies": "8",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T10:06:52.000Z",
+  "updated": "2020-03-24T21:28:27.000Z",
+  "category": "Question",
+  "title": "Or condition in variable reference Qualifier",
+  "author": "akhila",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=7c24edf4dbbf40186064eeb5ca9619b9",
+  "replies": "8",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2019-09-27T09:22:26.000Z",
+  "updated": "2020-03-24T21:09:02.000Z",
+  "category": "Question",
+  "title": "Software Entitlement Import functionality in SAM professional",
+  "author": "shanks",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=7c65af43db08c010414eeeb5ca9619f3",
+  "replies": "8",
+  "forum": "Software Asset Management"
+ },
+ {
+  "created": "2020-03-24T11:32:12.000Z",
+  "updated": "2020-03-24T20:28:06.000Z",
+  "category": "Question",
+  "title": "business rule",
+  "author": "sharmi",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=7aa73d701b3b4010ada243f6fe4bcb25",
+  "replies": "8",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T11:05:36.000Z",
+  "updated": "2020-03-24T20:25:19.000Z",
+  "category": "Question",
+  "title": "List Collector Array in Run Script on Workflow",
+  "author": "NonaJohnson",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=d591bdfcdb778cd45ed4a851ca961955",
+  "replies": "8",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-23T19:01:27.000Z",
+  "updated": "2020-03-25T00:40:31.000Z",
+  "category": "Question",
+  "title": "Business rule script to limit query on incident table for HR services",
+  "author": "sas",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=cae49eac1b7fc4d4d01143f6fe4bcbdd",
+  "replies": "7",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-18T14:07:54.000Z",
+  "updated": "2020-03-24T23:22:02.000Z",
+  "category": "Question",
+  "title": "Business Rule to run when a user is added to a certain group?",
+  "author": "bracken91",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=cdc1a73edb230094414eeeb5ca961915",
+  "replies": "7",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-20T10:27:09.000Z",
+  "updated": "2020-03-24T22:25:05.000Z",
+  "category": "Question",
+  "title": "Open a request item from UI Action is not working",
+  "author": "Jose A Colin",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=4b628d67db6b4c94414eeeb5ca961938",
+  "replies": "7",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T12:13:13.000Z",
+  "updated": "2020-03-24T20:08:46.000Z",
+  "category": "Question",
+  "title": "Send notification for all open incidents based on a condition",
+  "author": "Vijay",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=bb014238dbbf8cd45ed4a851ca96193c",
+  "replies": "7",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T17:05:53.000Z",
+  "updated": "2020-03-25T01:18:51.000Z",
+  "category": "Question",
+  "title": "How to use the onChange() method within the onLoad() method",
+  "author": "mkader",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=f20483f8dbb380945129a851ca96199a",
+  "replies": "6",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-24T08:44:47.000Z",
+  "updated": "2020-03-24T23:12:23.000Z",
+  "category": "Question",
+  "title": "Configuring a new translator for dynamic translation",
+  "author": "Deepak",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=925199b81b7f8058fff162c4bd4bcbb1",
+  "replies": "6",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-12T15:44:43.000Z",
+  "updated": "2020-03-24T23:09:45.000Z",
+  "category": "Question",
+  "title": "What if you don't see Windows-OS Information in your ecc queue?",
+  "author": "John Vo",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=386eb08ddbe3801414d6fb2439961936",
+  "replies": "6",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-22T11:31:22.000Z",
+  "updated": "2020-03-24T23:07:06.000Z",
+  "category": "Question",
+  "title": "Show Attach button on contextual search results??",
+  "author": "Kiddy",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=0b44e780dbb38c94d82ffb24399619dc",
+  "replies": "6",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T12:58:42.000Z",
+  "updated": "2020-03-24T21:10:29.000Z",
+  "category": "Question",
+  "title": "Creation of Dynamic Filter - Not Pulling Back Results",
+  "author": "Chris Armstrong",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=ce7b4af0db7744d42be0a851ca961958",
+  "replies": "6",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-23T14:32:11.000Z",
+  "updated": "2020-03-24T20:47:47.000Z",
+  "category": "Question",
+  "title": "UI policy to activate based on date selected",
+  "author": "JJG",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=294711641bbb40107a5933f2cd4bcb96",
+  "replies": "6",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2019-04-02T05:33:24.000Z",
+  "updated": "2020-03-24T19:17:23.000Z",
+  "category": "Question",
+  "title": "Auto Approval of Service Request via Flow/Flow Designer",
+  "author": "Natalie",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=06f5cab1db64b340fff8a345ca961911",
+  "replies": "6",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-24T16:21:04.000Z",
+  "updated": "2020-03-25T00:59:53.000Z",
+  "category": "Question",
+  "title": "Assign To Me UI Action ",
+  "author": "Andrew",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=dec93a78db7f481813b5fb24399619ac",
+  "replies": "5",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-23T17:47:29.000Z",
+  "updated": "2020-03-25T00:56:15.000Z",
+  "category": "Question",
+  "title": "How to set \"Assigned to\" field to empty in asset table when a employee state is Terminated",
+  "author": "nishtha",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=26f38eecdb3b0c545129a851ca9619b1",
+  "replies": "5",
+  "forum": "Software Asset Management"
+ },
+ {
+  "created": "2020-03-24T10:42:32.000Z",
+  "updated": "2020-03-25T00:39:05.000Z",
+  "category": "Question",
+  "title": "Employee self-report App HR Tasks",
+  "author": "Sree",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=534ca5b8db7f00d41cd8a345ca9619be",
+  "replies": "5",
+  "forum": "COVID-19 Resources"
+ },
+ {
+  "created": "2020-03-24T15:24:44.000Z",
+  "updated": "2020-03-24T22:59:28.000Z",
+  "category": "Question",
+  "title": "Only a certain group needs to be able to see the buttons \"New\" and \"Edit\" from the related links tab",
+  "author": "josenava",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=09ec6a70dbb384d42be0a851ca9619bd",
+  "replies": "5",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-23T10:10:29.000Z",
+  "updated": "2020-03-24T22:41:36.000Z",
+  "category": "Question",
+  "title": "Agent Mobile App - Search configuration for Incidents, changes, request items ",
+  "author": "Harsha Pappala",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=c86b18a81bf388d4ada243f6fe4bcb15",
+  "replies": "5",
+  "forum": "Mobile Apps & Platform"
+ },
+ {
+  "created": "2020-03-18T10:32:45.000Z",
+  "updated": "2020-03-24T22:02:29.000Z",
+  "category": "Question",
+  "title": "COMMENTS RELATED QUERY",
+  "author": "Nagesh",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=65803af6db6388544819fb24399619d6",
+  "replies": "5",
+  "forum": "IT Business Management"
+ },
+ {
+  "created": "2020-03-24T10:14:08.000Z",
+  "updated": "2020-03-24T21:59:55.000Z",
+  "category": "Question",
+  "title": "Ho to set Priority to High for VIP User",
+  "author": "hongsok",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=cbc5a1f4db378cd4414eeeb5ca961910",
+  "replies": "5",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T08:53:56.000Z",
+  "updated": "2020-03-24T21:59:54.000Z",
+  "category": "Question",
+  "title": "How can I add Company field in user profile?",
+  "author": "VLee",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=dc7311b4db7bcc545129a851ca9619c0",
+  "replies": "5",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-24T11:23:21.000Z",
+  "updated": "2020-03-24T21:38:10.000Z",
+  "category": "Question",
+  "title": "My instance is showing as it is under hibernating duration everyday",
+  "author": "sriteja",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=19a5bd70db3b8cd45ed4a851ca9619b3",
+  "replies": "5",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2017-10-27T14:49:25.000Z",
+  "updated": "2020-03-24T21:19:37.000Z",
+  "category": "Question",
+  "title": "GMSA supported?",
+  "author": "anthonybarghout",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=2bf50761db1cdbc01dcaf3231f9619a2",
+  "replies": "5",
+  "forum": "IT Operations Management"
+ },
+ {
+  "created": "2020-03-23T08:43:34.000Z",
+  "updated": "2020-03-24T21:06:21.000Z",
+  "category": "Question",
+  "title": "Comments field not visible for approvers with no ITIL role in the approval form of \"Approval\" widget (Service Portal)",
+  "author": "rajeshselvam",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=6a7788641b7b8410a59033f2cd4bcba9",
+  "replies": "5",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T08:59:42.000Z",
+  "updated": "2020-03-24T19:30:43.000Z",
+  "category": "Question",
+  "title": "Rest Integation",
+  "author": "RajuThelu",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=70c45974dbb784d4f7fca851ca961954",
+  "replies": "5",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-23T11:13:15.000Z",
+  "updated": "2020-03-24T19:16:08.000Z",
+  "category": "Question",
+  "title": "Can not get widget button to clear without refreshing the page",
+  "author": "jsnmllr1981",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=9bb9eca4dbb7c8941cd8a345ca9619aa",
+  "replies": "5",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-24T00:28:32.000Z",
+  "updated": "2020-03-25T01:20:50.000Z",
+  "category": "Question",
+  "title": "i am having two fields requester name and requester Email  if i selected requester name requester Email should b auto populate ",
+  "author": "Uday",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=d1cf1768dbbf041813b5fb243996195d",
+  "replies": "4",
+  "forum": "Knowledge Conference"
+ },
+ {
+  "created": "2020-03-24T16:42:51.000Z",
+  "updated": "2020-03-25T01:20:34.000Z",
+  "category": "Question",
+  "title": "Hide attachement button in service portal",
+  "author": "akhila",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=4dcefa74db7f04186064eeb5ca961987",
+  "replies": "4",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2018-04-09T04:02:05.000Z",
+  "updated": "2020-03-25T01:19:02.000Z",
+  "category": "Question",
+  "title": "How to Hide attachment icon on portal for closed incidents?",
+  "author": "rohiniawakirkar",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=4ee7c62edb511700fc5b7a9e0f96194a",
+  "replies": "4",
+  "forum": "Service Management"
+ },
+ {
+  "created": "2020-01-30T15:33:57.000Z",
+  "updated": "2020-03-25T00:59:34.000Z",
+  "category": "Question",
+  "title": "add KB article body text in \"Notification: Article created \"",
+  "author": "varunp",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=59292c6bdbae40d4f7fca851ca9619b2",
+  "replies": "4",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T15:49:57.000Z",
+  "updated": "2020-03-25T00:24:35.000Z",
+  "category": "Question",
+  "title": "How to see itil user counts over time.",
+  "author": "jmiller0666",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=26a27e301bb7c010a59033f2cd4bcb53",
+  "replies": "4",
+  "forum": "Analytics, Intelligence, and Reporting"
+ },
+ {
+  "created": "2020-03-21T11:17:59.000Z",
+  "updated": "2020-03-25T00:07:31.000Z",
+  "category": "Question",
+  "title": "How to pass the  CSA  Orlando  Delta Exam",
+  "author": "ajay",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=a5a716fbdbe708942be0a851ca961935",
+  "replies": "4",
+  "forum": "Training and Certifications"
+ },
+ {
+  "created": "2020-03-10T10:53:00.000Z",
+  "updated": "2020-03-24T23:35:10.000Z",
+  "category": "Question",
+  "title": "How do you associate a \"subscribable\" notification to a user when they subscribe to it?",
+  "author": "maynartt",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=9c78659c1b2bc0d0d01143f6fe4bcbd6",
+  "replies": "4",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-23T17:38:17.000Z",
+  "updated": "2020-03-24T23:34:37.000Z",
+  "category": "Question",
+  "title": "Query sys_app_module table",
+  "author": "Tomer Harpaz",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=abd1c2e01b3f0810a59033f2cd4bcbc8",
+  "replies": "4",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2018-11-29T03:35:24.000Z",
+  "updated": "2020-03-24T23:11:02.000Z",
+  "category": "Question",
+  "title": "Facing challenge to bundle the Crypto-js.js file.",
+  "author": "guptashalini0412",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=2cd5c7f5db0e6304fb115583ca9619ab",
+  "replies": "4",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-20T18:06:56.000Z",
+  "updated": "2020-03-24T23:07:46.000Z",
+  "category": "Question",
+  "title": "Crisis Dashboard - Emergency Self Report App",
+  "author": "Saumya",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=fdabeaa7dba380d46064eeb5ca96195e",
+  "replies": "4",
+  "forum": "COVID-19 Resources"
+ },
+ {
+  "created": "2020-03-20T14:44:17.000Z",
+  "updated": "2020-03-24T23:07:45.000Z",
+  "category": "Question",
+  "title": "HTML widget Iframe pointing to a second Instance",
+  "author": "E.B",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=114db167dbab44d4feb1a851ca961980",
+  "replies": "4",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-20T19:21:15.000Z",
+  "updated": "2020-03-24T22:59:56.000Z",
+  "category": "Question",
+  "title": "Set short description of request item that is bundled in an order guide",
+  "author": "othomas",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=26acf2efdb670c9414d6fb24399619bd",
+  "replies": "4",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T09:25:26.000Z",
+  "updated": "2020-03-24T22:52:55.000Z",
+  "category": "Question",
+  "title": "How to hide field on the widget onload",
+  "author": "shaik.irfan",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=79aa59b4dbf304d42be0a851ca96190e",
+  "replies": "4",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-24T15:26:19.000Z",
+  "updated": "2020-03-24T22:35:55.000Z",
+  "category": "Question",
+  "title": "How do we include workflows in a clone for proper upgrade testing?",
+  "author": "Stace Graham",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=104da2f8dbffccd4414eeeb5ca96190d",
+  "replies": "4",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T14:01:41.000Z",
+  "updated": "2020-03-24T22:33:49.000Z",
+  "category": "Question",
+  "title": "Deploy dynamic translator for work notes and additional comments",
+  "author": "Eric DEFAUX",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=5ce91e78db7f4c94190dfb24399619d9",
+  "replies": "4",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2017-10-10T15:35:19.000Z",
+  "updated": "2020-03-24T22:19:32.000Z",
+  "category": "Question",
+  "title": "WebKit HTML to PDF error message, \"Service not available yet\"",
+  "author": "chennessy",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=859e7665db58dbc01dcaf3231f961986",
+  "replies": "4",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T11:26:24.000Z",
+  "updated": "2020-03-24T22:17:36.000Z",
+  "category": "Question",
+  "title": "PPM user and roles",
+  "author": "Steven Chaparro",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=4a567dbc1b7fc058fff162c4bd4bcbbb",
+  "replies": "4",
+  "forum": "IT Business Management"
+ },
+ {
+  "created": "2020-03-24T12:39:33.000Z",
+  "updated": "2020-03-24T21:09:50.000Z",
+  "category": "Question",
+  "title": "When will we have List Collector Functionality in ATF?",
+  "author": "Kristi",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=d1178afcdbff80186064eeb5ca961950",
+  "replies": "4",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2018-10-29T08:48:57.000Z",
+  "updated": "2020-03-24T21:01:12.000Z",
+  "category": "Question",
+  "title": "Can you change the Service Portal character limit for 'short description' on the 'icon link' widget",
+  "author": "RichardSaunders",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=6b44a048db6d23042737e15b8a96195b",
+  "replies": "4",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T13:00:08.000Z",
+  "updated": "2020-03-24T20:47:33.000Z",
+  "category": "Question",
+  "title": "issue with the script",
+  "author": "lakng",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=7acb4efcdbb74c94190dfb24399619ec",
+  "replies": "4",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T11:33:54.000Z",
+  "updated": "2020-03-24T20:19:58.000Z",
+  "category": "Question",
+  "title": "All Checkboxes visible over portsl even if they are not visible while raising request.",
+  "author": "geet",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=b7083d781bff44107a5933f2cd4bcbde",
+  "replies": "4",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T11:37:29.000Z",
+  "updated": "2020-03-24T19:35:48.000Z",
+  "category": "Question",
+  "title": "What role controls the access to the search functionality in CSM?",
+  "author": "Markpetras",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=98e83d3cdb3700945129a851ca961962",
+  "replies": "4",
+  "forum": "Customer Service Management"
+ },
+ {
+  "created": "2020-03-24T17:58:00.000Z",
+  "updated": "2020-03-25T01:09:49.000Z",
+  "category": "Question",
+  "title": "How can we test the performance of database index created on table?",
+  "author": "Adarsh Singh",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=92ffc770dbf74418d58ea345ca9619ef",
+  "replies": "3",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T15:32:13.000Z",
+  "updated": "2020-03-25T01:08:50.000Z",
+  "category": "Question",
+  "title": "How to make a copy of an existing Indicator",
+  "author": "Robert Haugland",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=e69e26f01bb3c4107a5933f2cd4bcb37",
+  "replies": "3",
+  "forum": "Analytics, Intelligence, and Reporting"
+ },
+ {
+  "created": "2020-03-17T17:31:17.000Z",
+  "updated": "2020-03-25T00:44:39.000Z",
+  "category": "Question",
+  "title": "is there a way to disable the download button of the ServiceNow Document Viewer?",
+  "author": "Leonardo Chávez",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=62b643e2dbe7885414d6fb2439961907",
+  "replies": "3",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T16:02:32.000Z",
+  "updated": "2020-03-25T00:24:20.000Z",
+  "category": "Question",
+  "title": "How can i delete ci with sysid = \"-1\".",
+  "author": "emsaikum",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=3e85f6fcdb3bccd423f4a345ca961960",
+  "replies": "3",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-24T10:51:49.000Z",
+  "updated": "2020-03-25T00:00:07.000Z",
+  "category": "Question",
+  "title": "Make fields required on a catalog item for certain users/groups",
+  "author": "mkader",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=766ea5b4db378cd45ed4a851ca9619db",
+  "replies": "3",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-20T21:03:21.000Z",
+  "updated": "2020-03-24T23:45:56.000Z",
+  "category": "Question",
+  "title": "Have Global Updates In Scoped App? ",
+  "author": "JDX7913",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=d204936bdb2f84942be0a851ca9619af",
+  "replies": "3",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-23T19:57:13.000Z",
+  "updated": "2020-03-24T23:28:20.000Z",
+  "category": "Question",
+  "title": "Emergency Self Report - ACLs + non-roled users",
+  "author": "Doug Rezabek",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=3ea1e2e8db738cd46064eeb5ca9619ed",
+  "replies": "3",
+  "forum": "COVID-19 Resources"
+ },
+ {
+  "created": "2020-03-23T18:50:41.000Z",
+  "updated": "2020-03-24T22:50:24.000Z",
+  "category": "Question",
+  "title": "Dictionary override to make a field not-unique",
+  "author": "Khaled",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=dc725aec1bb78c18fff162c4bd4bcb11",
+  "replies": "3",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2019-07-11T18:05:30.000Z",
+  "updated": "2020-03-24T22:50:11.000Z",
+  "category": "Question",
+  "title": "SLA Percentage timer activity completes without waiting when SLA duration longer than 115 days",
+  "author": "Sebastian Gonzalez-Garcia",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=de11fbcadb2a7b4413b5fb243996192a",
+  "replies": "3",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T14:58:36.000Z",
+  "updated": "2020-03-24T22:49:24.000Z",
+  "category": "Question",
+  "title": "Background Script question",
+  "author": "Enzo_25",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=5ee6a6f4dbb304186064eeb5ca961939",
+  "replies": "3",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T13:37:27.000Z",
+  "updated": "2020-03-24T22:43:19.000Z",
+  "category": "Question",
+  "title": "Requested For default value",
+  "author": "Tramaine",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=615456fcdb3bccd45ed4a851ca96191e",
+  "replies": "3",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T14:05:10.000Z",
+  "updated": "2020-03-24T22:42:15.000Z",
+  "category": "Question",
+  "title": "I received an email saying SN is going to reclaim my instance, but when I log into the Developers site, it says I still have 10 days.  Which is it?",
+  "author": "mikltaylornc",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=72aad2fcdb7f4c94190dfb243996198b",
+  "replies": "3",
+  "forum": "Instance Help"
+ },
+ {
+  "created": "2020-03-24T12:35:04.000Z",
+  "updated": "2020-03-24T22:22:45.000Z",
+  "category": "Question",
+  "title": "Interactive Filter - \"All\" option selecting all values not filtered list",
+  "author": "Stephen Frederick",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=fb060a3cdbbfc4d4d82ffb243996196f",
+  "replies": "3",
+  "forum": "Analytics, Intelligence, and Reporting"
+ },
+ {
+  "created": "2020-03-24T00:38:24.000Z",
+  "updated": "2020-03-24T22:11:54.000Z",
+  "category": "Question",
+  "title": "Script to mark closed/active ritms inactive is only updating a single record",
+  "author": "johannaS",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=f1026f6cdb73ccd46064eeb5ca961913",
+  "replies": "3",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-21T15:22:50.000Z",
+  "updated": "2020-03-24T21:48:48.000Z",
+  "category": "Question",
+  "title": "Trying to create a new record from a related list using an action type script, how can I get the sys_id of the related list parent?",
+  "author": "Lucas Fontanilla",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=c0bfcfb7db6f40d45ed4a851ca96191e",
+  "replies": "3",
+  "forum": "Mobile Apps & Platform"
+ },
+ {
+  "created": "2020-03-23T13:52:02.000Z",
+  "updated": "2020-03-24T21:31:16.000Z",
+  "category": "Question",
+  "title": "Look up date field from table, add 7 days to it",
+  "author": "JJG",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=9d1e09681bf740107a5933f2cd4bcb92",
+  "replies": "3",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-03T14:54:49.000Z",
+  "updated": "2020-03-24T21:31:00.000Z",
+  "category": "Question",
+  "title": "How to populate Business Service on Incident record when Configuration Item is a Business Service",
+  "author": "Cory Hitchings",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=f1ac168adb93cc1013b5fb24399619b2",
+  "replies": "3",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-10T12:01:39.000Z",
+  "updated": "2020-03-24T21:21:39.000Z",
+  "category": "Question",
+  "title": "How do you remove false variables from the Portal view? ",
+  "author": "Cory Hitchings",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=f5283990dbab40d0f7fca851ca96198a",
+  "replies": "3",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-23T17:26:08.000Z",
+  "updated": "2020-03-24T21:19:21.000Z",
+  "category": "Question",
+  "title": "Assessments - turn them off?",
+  "author": "Julia Allen",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=e91ff964db7bc0d4d82ffb2439961995",
+  "replies": "3",
+  "forum": "IT Business Management"
+ },
+ {
+  "created": "2020-03-23T21:46:38.000Z",
+  "updated": "2020-03-24T20:58:53.000Z",
+  "category": "Question",
+  "title": "Group By returns wrong count in Trend Report partie deux",
+  "author": "ericgilmore",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=adbaba2cdb7304d4f7fca851ca96190f",
+  "replies": "3",
+  "forum": "Analytics, Intelligence, and Reporting"
+ },
+ {
+  "created": "2020-03-24T12:32:51.000Z",
+  "updated": "2020-03-24T20:34:54.000Z",
+  "category": "Question",
+  "title": "Field(sys_dictionary) got auto deleted and moved to \"sys_metadata_delete\" during it's creation.",
+  "author": "Akshay Magadum",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=5f854270dbff80186064eeb5ca9619ff",
+  "replies": "3",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T12:42:35.000Z",
+  "updated": "2020-03-24T20:17:37.000Z",
+  "category": "Question",
+  "title": "Redirect to custom page after submitting a catalog item",
+  "author": "krr",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=fdc746bcdbfb00945129a851ca96199e",
+  "replies": "3",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-24T08:51:11.000Z",
+  "updated": "2020-03-24T20:14:09.000Z",
+  "category": "Question",
+  "title": "Agile 2.0",
+  "author": "VLee",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=48d215f0db7bcc545129a851ca961993",
+  "replies": "3",
+  "forum": "IT Business Management"
+ },
+ {
+  "created": "2020-03-21T17:23:09.000Z",
+  "updated": "2020-03-24T20:11:33.000Z",
+  "category": "Question",
+  "title": "Changing Stage when Catalog Task is Assigned in Workflow",
+  "author": "PatNOregon",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=a23bef3bdbe784941cd8a345ca9619ab",
+  "replies": "3",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-23T08:42:38.000Z",
+  "updated": "2020-03-24T19:44:36.000Z",
+  "category": "Question",
+  "title": "Agent WorkSpace ",
+  "author": "paulsheraton",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=d1474c2cdbb304d414d6fb2439961988",
+  "replies": "3",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-23T20:39:58.000Z",
+  "updated": "2020-03-24T19:40:29.000Z",
+  "category": "Question",
+  "title": "Emergency Self Report - Map Page",
+  "author": "Doug Rezabek",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=cd7b62a4dbff88d45ed4a851ca961994",
+  "replies": "3",
+  "forum": "COVID-19 Resources"
+ },
+ {
+  "created": "2020-03-24T10:36:14.000Z",
+  "updated": "2020-03-24T19:26:56.000Z",
+  "category": "Question",
+  "title": "Options label in checkboxes",
+  "author": "Mary Mationg",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=7ada69b8db7388d414d6fb24399619b9",
+  "replies": "3",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-18T02:33:59.000Z",
+  "updated": "2020-03-24T19:23:50.000Z",
+  "category": "Question",
+  "title": "Emergency Self Report - Monitor your employee status",
+  "author": "VLee",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=58f281761b6f4094ada243f6fe4bcb84",
+  "replies": "3",
+  "forum": "COVID-19 Resources"
+ },
+ {
+  "created": "2020-03-24T15:17:54.000Z",
+  "updated": "2020-03-25T01:01:23.000Z",
+  "category": "Question",
+  "title": "Emergency self report - Report issues",
+  "author": "Sree",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=815bee38dbf380d41cd8a345ca96190e",
+  "replies": "2",
+  "forum": "COVID-19 Resources"
+ },
+ {
+  "created": "2020-03-24T16:57:14.000Z",
+  "updated": "2020-03-25T00:48:56.000Z",
+  "category": "Question",
+  "title": "How to get fields listed on Create New Incident form via REST API",
+  "author": "Phillip",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=7b02cb30dbf3c4d44819fb2439961913",
+  "replies": "2",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T17:11:56.000Z",
+  "updated": "2020-03-25T00:45:22.000Z",
+  "category": "Question",
+  "title": "How to manipulate data in servicenow for an external application attached.",
+  "author": "Tommy",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=57654ff41bfbc010a59033f2cd4bcb49",
+  "replies": "2",
+  "forum": "Service Management"
+ },
+ {
+  "created": "2020-03-24T16:27:38.000Z",
+  "updated": "2020-03-25T00:15:06.000Z",
+  "category": "Question",
+  "title": "Are the Emergency Response apps available for install in the personal development instances?",
+  "author": "KeithM",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=264b7eb4dbf784d42be0a851ca961909",
+  "replies": "2",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-24T08:32:51.000Z",
+  "updated": "2020-03-25T00:02:18.000Z",
+  "category": "Question",
+  "title": "Can ITBM support multiple currencies?",
+  "author": "V SH Lee",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=fb9e01bcdbf7cc545129a851ca961997",
+  "replies": "2",
+  "forum": "IT Business Management"
+ },
+ {
+  "created": "2020-03-24T08:29:43.000Z",
+  "updated": "2020-03-24T23:56:37.000Z",
+  "category": "Question",
+  "title": "Does ITBM support multiple currencies?",
+  "author": "V SH Lee",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=71edc178dbf7cc545129a851ca961954",
+  "replies": "2",
+  "forum": "IT Business Management"
+ },
+ {
+  "created": "2020-03-20T15:17:43.000Z",
+  "updated": "2020-03-24T23:47:25.000Z",
+  "category": "Question",
+  "title": "Html on UIPage is showing the tags",
+  "author": "Nohemi",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=6be48ae31b6b08d4fff162c4bd4bcbd9",
+  "replies": "2",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T12:37:49.000Z",
+  "updated": "2020-03-24T23:35:21.000Z",
+  "category": "Question",
+  "title": "Article Workflow Activity",
+  "author": "Harpreet",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=00b6c6fcdbb38cd423f4a345ca961974",
+  "replies": "2",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T15:46:22.000Z",
+  "updated": "2020-03-24T23:18:35.000Z",
+  "category": "Question",
+  "title": "Add days to a date field/ variable",
+  "author": "neha.chauhan@infosys",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=f5d1fafcdb3f08d4f7fca851ca96190e",
+  "replies": "2",
+  "forum": "Human Resources Service Delivery"
+ },
+ {
+  "created": "2020-02-12T12:25:18.000Z",
+  "updated": "2020-03-24T23:16:38.000Z",
+  "category": "Question",
+  "title": "Okta Spoke - Multiple Tenants",
+  "author": "Austin Rion",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=b8aa3623dbfac8dcd82ffb24399619d8",
+  "replies": "2",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-24T00:33:24.000Z",
+  "updated": "2020-03-24T23:16:03.000Z",
+  "category": "Question",
+  "title": "Script to mark closed/active ritms inactive is only updating a single record",
+  "author": "johannaS",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=54e02f28db73ccd46064eeb5ca961929",
+  "replies": "2",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-22T17:48:02.000Z",
+  "updated": "2020-03-24T23:09:16.000Z",
+  "category": "Question",
+  "title": "Is the SIG/SIG Lite available in any other languages other than English?",
+  "author": "hkeaton",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=348af8dcdb7b08941cd8a345ca961924",
+  "replies": "2",
+  "forum": "Governance, Risk, and Compliance (GRC)"
+ },
+ {
+  "created": "2020-03-24T14:27:23.000Z",
+  "updated": "2020-03-24T22:20:45.000Z",
+  "category": "Question",
+  "title": "issue with script",
+  "author": "shrikanth",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=b4cfd23cdb3784d44819fb2439961906",
+  "replies": "2",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2018-10-28T20:15:27.000Z",
+  "updated": "2020-03-24T22:02:29.000Z",
+  "category": "Question",
+  "title": "Dynamic themes in single portal",
+  "author": "scottl",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=3dd7b5b7db5de304b1b102d5ca9619d2",
+  "replies": "2",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2019-04-08T04:46:17.000Z",
+  "updated": "2020-03-24T22:02:25.000Z",
+  "category": "Question",
+  "title": "Error com.glide.db.impex.datasource.DataSourceException: org.apache.poi.poifs.filesystem.OfficeXmlFileException: The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need ",
+  "author": "Kiddy",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=a6b4303bdb2cfb0423f4a345ca9619c3",
+  "replies": "2",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T09:25:08.000Z",
+  "updated": "2020-03-24T21:59:54.000Z",
+  "category": "Question",
+  "title": "Create a related list and display records in the related list in a single related list.",
+  "author": "Denise",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=999a51bc1b3f4010a59033f2cd4bcb86",
+  "replies": "2",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2018-12-03T08:03:21.000Z",
+  "updated": "2020-03-24T21:58:33.000Z",
+  "category": "Question",
+  "title": "Service Portal Header menu items count color",
+  "author": "Anil",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=3489641fdbc663802e8c2183ca9619d1",
+  "replies": "2",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T14:33:36.000Z",
+  "updated": "2020-03-24T21:55:09.000Z",
+  "category": "Question",
+  "title": "GRC: Policy and Compliance Management unable to find Plugin in PDI",
+  "author": "developer",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=c03126b8db7f44d42be0a851ca96192e",
+  "replies": "2",
+  "forum": "Governance, Risk, and Compliance (GRC)"
+ },
+ {
+  "created": "2020-03-24T14:31:40.000Z",
+  "updated": "2020-03-24T21:55:05.000Z",
+  "category": "Question",
+  "title": "SaveResponseBodyAsAttachment() method failing with Unable to save response body as attachment: User not authorized . ",
+  "author": "rahulyamgar",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=6bb0eabcdb338c94190dfb2439961949",
+  "replies": "2",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-24T13:42:52.000Z",
+  "updated": "2020-03-24T21:33:51.000Z",
+  "category": "Question",
+  "title": "Choice List keeps reverting changes",
+  "author": "tahnalos",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=4d9512b8db7bccd45ed4a851ca96193c",
+  "replies": "2",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T12:55:08.000Z",
+  "updated": "2020-03-24T21:14:10.000Z",
+  "category": "Question",
+  "title": "Data Driven Task Board w/ multiple tables",
+  "author": "clhess",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=39aa8a701b7fc8d4d01143f6fe4bcb85",
+  "replies": "2",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-12T07:56:03.000Z",
+  "updated": "2020-03-24T21:08:35.000Z",
+  "category": "Question",
+  "title": "SolarWind integration with Servicenow",
+  "author": "pooja",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=7713d77cdb23ccd0414eeeb5ca9619c3",
+  "replies": "2",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T13:10:06.000Z",
+  "updated": "2020-03-24T21:08:02.000Z",
+  "category": "Question",
+  "title": "ServiceNow Developer Meetup Online Tuesday, March 31st",
+  "author": "Omar Martinez",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=741e02fcdbf3c0186064eeb5ca961958",
+  "replies": "2",
+  "forum": "ServiceNow User Group - US - TX - San Antonio"
+ },
+ {
+  "created": "2020-03-24T13:22:23.000Z",
+  "updated": "2020-03-24T20:44:44.000Z",
+  "category": "Question",
+  "title": "Moving table data from one PDI to another PDI",
+  "author": "Kishore",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=f4e01ab01bb38010ada243f6fe4bcbe2",
+  "replies": "2",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T13:04:11.000Z",
+  "updated": "2020-03-24T20:41:47.000Z",
+  "category": "Question",
+  "title": "Service Now instances integration.",
+  "author": "niveditakumari",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=56bccaf4dbbf88d414d6fb24399619d8",
+  "replies": "2",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T12:55:39.000Z",
+  "updated": "2020-03-24T20:29:42.000Z",
+  "category": "Question",
+  "title": "Is there an out of box table in servicenow CMDB for maintaining AWS Workspace?",
+  "author": "arunv",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=41ca46b4dbfb44d44819fb243996192c",
+  "replies": "2",
+  "forum": "IT Operations Management"
+ },
+ {
+  "created": "2019-12-06T10:52:47.000Z",
+  "updated": "2020-03-24T19:46:42.000Z",
+  "category": "Question",
+  "title": "How to get the saml2 attribute statement object with New York MultiSSOv2",
+  "author": "Sebastian R.",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=b65998bddb21c010f7fca851ca96198d",
+  "replies": "2",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-12T13:00:14.000Z",
+  "updated": "2020-03-24T19:36:57.000Z",
+  "category": "Question",
+  "title": "Having issues with the ServiceNow Agent app. List applets and filtering the list.",
+  "author": "Madison",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=17b8d8cddba70cd05ed4a851ca961944",
+  "replies": "2",
+  "forum": "Mobile Apps & Platform"
+ },
+ {
+  "created": "2020-03-23T18:22:32.000Z",
+  "updated": "2020-03-24T19:33:27.000Z",
+  "category": "Question",
+  "title": "Service Catalog API",
+  "author": "Brian Lancaster",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=800cca2cdbfb0c545129a851ca961993",
+  "replies": "2",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T11:48:04.000Z",
+  "updated": "2020-03-24T19:29:05.000Z",
+  "category": "Question",
+  "title": "How can we open UI Pages in new Tab in UI Actions",
+  "author": "Raj",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=1f4bf5fcdb3fc41813b5fb2439961929",
+  "replies": "2",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T17:53:23.000Z",
+  "updated": "2020-03-25T01:20:26.000Z",
+  "category": "Question",
+  "title": "How can I dynamically (in real time) update a value from another value on a form?",
+  "author": "Dan Berger",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=a6ee83f4db3f0018414eeeb5ca9619c7",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T12:59:48.000Z",
+  "updated": "2020-03-25T01:15:51.000Z",
+  "category": "Question",
+  "title": "Reverse Change Request Form Type",
+  "author": "Bruce",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=46bb86bc1bfb0458fff162c4bd4bcb0f",
+  "replies": "1",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T18:07:19.000Z",
+  "updated": "2020-03-25T01:12:12.000Z",
+  "category": "Question",
+  "title": "How do you enable auditing on fields created by a third-party?",
+  "author": "Dan Berger",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=aa121bf8db7f0018414eeeb5ca96197f",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T17:51:26.000Z",
+  "updated": "2020-03-25T01:03:01.000Z",
+  "category": "Question",
+  "title": "Survey Request to fill out another Request?",
+  "author": "klf1123",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=b17e8fbcdb3f48d4d82ffb24399619b8",
+  "replies": "1",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T16:20:54.000Z",
+  "updated": "2020-03-25T00:18:23.000Z",
+  "category": "Question",
+  "title": "how to hide or attachment button in a page.",
+  "author": "Sooraj",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=37b93afcdbff08d4f7fca851ca961955",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T16:34:38.000Z",
+  "updated": "2020-03-24T23:59:05.000Z",
+  "category": "Question",
+  "title": "Not able to access developer instance dev62116. ",
+  "author": "aj",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=49ecfa30dbff481813b5fb24399619ee",
+  "replies": "1",
+  "forum": "Instance Help"
+ },
+ {
+  "created": "2020-03-24T10:14:56.000Z",
+  "updated": "2020-03-24T23:53:23.000Z",
+  "category": "Question",
+  "title": "Duplicate CI's due to incorrect coalesce field in Transform map ",
+  "author": "Abhinav",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=83f56970dbf704d42be0a851ca9619fa",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T15:09:01.000Z",
+  "updated": "2020-03-24T23:37:12.000Z",
+  "category": "Question",
+  "title": "Emergency Outreach responses being categorized as \"New\" instead of \"Reply\" in inbound actions",
+  "author": "mark.scott.phx",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=b249a2fcdb378c94190dfb24399619c3",
+  "replies": "1",
+  "forum": "COVID-19 Resources"
+ },
+ {
+  "created": "2020-03-24T16:22:32.000Z",
+  "updated": "2020-03-24T23:30:13.000Z",
+  "category": "Question",
+  "title": "mailto.approval tag in email",
+  "author": "Ravish Shetty",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=b31a3ef41bff0cd4d01143f6fe4bcb26",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T13:42:46.000Z",
+  "updated": "2020-03-24T23:28:18.000Z",
+  "category": "Question",
+  "title": "Instance Offline",
+  "author": "NW",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=af851eb01b730cd4d01143f6fe4bcb28",
+  "replies": "1",
+  "forum": "Instance Help"
+ },
+ {
+  "created": "2020-03-24T16:03:47.000Z",
+  "updated": "2020-03-24T23:21:26.000Z",
+  "category": "Question",
+  "title": "Trim data from field",
+  "author": "othomas",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=ddd53a3c1b3300107a5933f2cd4bcbfa",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T13:50:12.000Z",
+  "updated": "2020-03-24T23:12:00.000Z",
+  "category": "Question",
+  "title": "AZURE DISCOERY FAILURE ON RESOURCE INVENTORY IDENTIFICATION STEP FROM Azure Resource Inventory PATTERN",
+  "author": "randytangco",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=84471634db3f4c94190dfb24399619b5",
+  "replies": "1",
+  "forum": "IT Operations Management"
+ },
+ {
+  "created": "2019-05-22T13:53:29.000Z",
+  "updated": "2020-03-24T23:01:42.000Z",
+  "category": "Question",
+  "title": "Entitlement - Microsoft 365 Enterprise Application ",
+  "author": "Sharieff",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=c3e7514edb61b344190dfb2439961980",
+  "replies": "1",
+  "forum": "Software Asset Management"
+ },
+ {
+  "created": "2020-03-24T15:32:56.000Z",
+  "updated": "2020-03-24T22:53:07.000Z",
+  "category": "Question",
+  "title": "Checking how a user is logging in.",
+  "author": "Nitesh Balusu",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=01cea6bcdbb384d42be0a851ca961972",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T10:11:41.000Z",
+  "updated": "2020-03-24T22:50:16.000Z",
+  "category": "Question",
+  "title": "How to Import / Expert Test Suites from ServiceNow Test Management v1.0?",
+  "author": "KennethDizon",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=17352d74dbfb04d44819fb243996194a",
+  "replies": "1",
+  "forum": "IT Business Management"
+ },
+ {
+  "created": "2020-03-24T10:33:21.000Z",
+  "updated": "2020-03-24T22:32:05.000Z",
+  "category": "Question",
+  "title": "Access Incident table fields for current incident in work notes",
+  "author": "Sean Sivils",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=6c3aad7cdb7f84d4f7fca851ca96193f",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T08:52:22.000Z",
+  "updated": "2020-03-24T22:24:18.000Z",
+  "category": "Question",
+  "title": "Rest Integration ",
+  "author": "Raju",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=dd13ddf8db7784d4f7fca851ca96198d",
+  "replies": "1",
+  "forum": "Service Management"
+ },
+ {
+  "created": "2020-03-24T15:04:27.000Z",
+  "updated": "2020-03-24T22:20:51.000Z",
+  "category": "Question",
+  "title": "List control - edit condition script not working",
+  "author": "Colleen",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=8448a634db7fccd4414eeeb5ca961951",
+  "replies": "1",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-24T05:47:54.000Z",
+  "updated": "2020-03-24T22:20:36.000Z",
+  "category": "Question",
+  "title": "Check user if he is part of one of multiple groups",
+  "author": "Harish",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=2fd8e474db3f0cd45ed4a851ca9619ec",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T12:13:46.000Z",
+  "updated": "2020-03-24T22:11:41.000Z",
+  "category": "Question",
+  "title": "Alerts : Not able to handle Alerts using Servicenow ATF. ",
+  "author": "Bharath G",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=e3218638dbb34c94190dfb2439961991",
+  "replies": "1",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T13:47:36.000Z",
+  "updated": "2020-03-24T22:07:37.000Z",
+  "category": "Question",
+  "title": "New call description is not copying to request item from call in servicenow",
+  "author": "1415",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=9ea65674dbb340945129a851ca961966",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T14:23:14.000Z",
+  "updated": "2020-03-24T22:02:01.000Z",
+  "category": "Question",
+  "title": "Worknotes should get moved to additional comments",
+  "author": "servicenow2017s@gmail",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=80de92b0dbbfc0186064eeb5ca9619d7",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T14:19:28.000Z",
+  "updated": "2020-03-24T21:37:12.000Z",
+  "category": "Question",
+  "title": "Offboarding through the Service Catalog - How should I set up the workflow?",
+  "author": "David Sloan",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=78fd5278db7fc0186064eeb5ca9619ed",
+  "replies": "1",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-24T14:02:01.000Z",
+  "updated": "2020-03-24T21:34:12.000Z",
+  "category": "Question",
+  "title": "Wrong amount of the expense line Project Task",
+  "author": "Lylys",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=19f9d23cdbf340945129a851ca96190a",
+  "replies": "1",
+  "forum": "IT Business Management"
+ },
+ {
+  "created": "2020-03-24T14:01:04.000Z",
+  "updated": "2020-03-24T21:12:59.000Z",
+  "category": "Question",
+  "title": "What is meant by the green color coding for hr case number?",
+  "author": "Naresh",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=ebb952f8dbf340945129a851ca961906",
+  "replies": "1",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-23T21:58:09.000Z",
+  "updated": "2020-03-24T21:11:01.000Z",
+  "category": "Question",
+  "title": "Can I default 15 minutes in time worked when user his 'record time' or 'new' for time worked?",
+  "author": "Stacy",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=da5d7e6cdb3f40d42be0a851ca9619a4",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T13:48:10.000Z",
+  "updated": "2020-03-24T21:04:29.000Z",
+  "category": "Question",
+  "title": "Checkbox on record producer should show in description field",
+  "author": "kam",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=2ec616bcdb7b8cd423f4a345ca961923",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-19T14:46:41.000Z",
+  "updated": "2020-03-24T20:59:45.000Z",
+  "category": "Question",
+  "title": "What is the format for OU when creating an AD Group with integrationhub?",
+  "author": "swnewton",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=fa343813db27089423f4a345ca9619d9",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T13:45:37.000Z",
+  "updated": "2020-03-24T20:52:18.000Z",
+  "category": "Question",
+  "title": " Outlook does not receive email",
+  "author": "Isaac Vicentini",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=0536def4dbb3c8d414d6fb2439961945",
+  "replies": "1",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-23T17:01:45.000Z",
+  "updated": "2020-03-24T20:52:08.000Z",
+  "category": "Question",
+  "title": "Relationship between Procurement/Contract Management/Software Asset Management",
+  "author": "Tamara Aguilar",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=d489f124db774c941cd8a345ca9619aa",
+  "replies": "1",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T10:58:39.000Z",
+  "updated": "2020-03-24T20:40:10.000Z",
+  "category": "Question",
+  "title": "Pull latest event(no duplicates) using Rest API",
+  "author": "Ash",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=a7ff65f0db3bc41813b5fb24399619c5",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T11:35:43.000Z",
+  "updated": "2020-03-24T19:39:36.000Z",
+  "category": "Question",
+  "title": "If we remove postmaster condition in the email filters, Can anyone let me know what are the impacts on the platform?",
+  "author": "Sivakumar",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=26783978db7f4cd423f4a345ca9619d8",
+  "replies": "1",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T11:26:23.000Z",
+  "updated": "2020-03-24T19:21:24.000Z",
+  "category": "Question",
+  "title": "How do I create a breakdown report to list total number of assets by Tags?",
+  "author": "Gonzo J",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=2956f9b0dbbf0c94190dfb2439961906",
+  "replies": "1",
+  "forum": "Analytics, Intelligence, and Reporting"
+ },
+ {
+  "created": "2020-03-24T18:20:55.000Z",
+  "updated": "2020-03-25T01:20:58.000Z",
+  "category": "Question",
+  "title": "Mobile Studio Action UI parameter wont stay 'mandatory' when checked. Why?",
+  "author": "Chad",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=0a35d334db7b4418d58ea345ca961987",
+  "replies": "0",
+  "forum": "Mobile Apps & Platform"
+ },
+ {
+  "created": "2020-03-24T18:16:52.000Z",
+  "updated": "2020-03-25T01:16:53.000Z",
+  "category": "Question",
+  "title": "Can you make one variable on a Catalog Request form mandatory if another variable is selected?",
+  "author": "Joe Taylor",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=ea449f3cdbbb0cd414d6fb2439961934",
+  "replies": "0",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T17:59:59.000Z",
+  "updated": "2020-03-25T00:59:59.000Z",
+  "category": "Question",
+  "title": "Demand process flow not working",
+  "author": "gjz",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=8b6017f01bfbc010ada243f6fe4bcb13",
+  "replies": "0",
+  "forum": "IT Business Management"
+ },
+ {
+  "created": "2020-03-24T17:09:58.000Z",
+  "updated": "2020-03-25T00:09:58.000Z",
+  "category": "Question",
+  "title": "How do you @mention everyone who's part of a Live Feed (so everyone gets the notification or realizes you're directing the comment to everyone who's a member?",
+  "author": "kristytupper",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=6ef403781bf300107a5933f2cd4bcb48",
+  "replies": "0",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-24T12:45:28.000Z",
+  "updated": "2020-03-25T00:07:08.000Z",
+  "category": "Question",
+  "title": "Need help with Metric definition should capture only ticket transferred from group A to group B",
+  "author": "cherry",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=d0784e74db37081813b5fb24399619c7",
+  "replies": "0",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T16:30:27.000Z",
+  "updated": "2020-03-25T00:01:58.000Z",
+  "category": "Question",
+  "title": "How can I get only the selected fields on the 'Create New Incident' form?",
+  "author": "Phillip",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=baebfef0db33c4d44819fb2439961987",
+  "replies": "0",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T16:49:21.000Z",
+  "updated": "2020-03-24T23:49:22.000Z",
+  "category": "Question",
+  "title": "Adding duration fields from 2 records",
+  "author": "edwin",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=38400734db33881813b5fb24399619e8",
+  "replies": "0",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T16:49:17.000Z",
+  "updated": "2020-03-24T23:49:18.000Z",
+  "category": "Question",
+  "title": "How to transform multiple JSON files attached to the data source ",
+  "author": "rahulyamgar",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=af300b70dbff8c94190dfb24399619fc",
+  "replies": "0",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-24T16:39:04.000Z",
+  "updated": "2020-03-24T23:39:04.000Z",
+  "category": "Question",
+  "title": "Create an icon for a mobile navigation tab",
+  "author": "epinetti",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=75ed3e3cdb7b80d41cd8a345ca96194a",
+  "replies": "0",
+  "forum": "Mobile Apps & Platform"
+ },
+ {
+  "created": "2020-03-24T16:22:27.000Z",
+  "updated": "2020-03-24T23:22:28.000Z",
+  "category": "Question",
+  "title": "Create form Template with name Create NDA Contract",
+  "author": "Siddhnath Pandey",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=a61afa3cdb7748d4d82ffb24399619cb",
+  "replies": "0",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T15:50:01.000Z",
+  "updated": "2020-03-24T23:05:30.000Z",
+  "category": "Question",
+  "title": "Configuring a ServiceNow Instance & Excel VBA for OAuth2.0 Authentication via REST",
+  "author": "JosephW",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=17a2fe741b33c010ada243f6fe4bcb76",
+  "replies": "0",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T15:54:37.000Z",
+  "updated": "2020-03-24T22:54:37.000Z",
+  "category": "Question",
+  "title": "How to enter entitlements for Microsoft 365 E5",
+  "author": "esebasti",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=7eb33eb8db3784d42be0a851ca961937",
+  "replies": "0",
+  "forum": "Software Asset Management"
+ },
+ {
+  "created": "2020-03-23T20:04:59.000Z",
+  "updated": "2020-03-24T22:50:21.000Z",
+  "category": "Question",
+  "title": "Article Redirect",
+  "author": "GinaHoover",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=f473e2e0db73041813b5fb2439961923",
+  "replies": "0",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T06:43:11.000Z",
+  "updated": "2020-03-24T22:50:15.000Z",
+  "category": "Question",
+  "title": "Storage Discovery not happening?",
+  "author": "Ragav",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=8d85bcb0dbf74cd4414eeeb5ca96197c",
+  "replies": "0",
+  "forum": "IT Operations Management"
+ },
+ {
+  "created": "2020-03-24T06:50:58.000Z",
+  "updated": "2020-03-24T22:50:14.000Z",
+  "category": "Question",
+  "title": "Urakoitsijaportaali? ",
+  "author": "Riikka Salonen",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=4347f0341b774010a59033f2cd4bcb33",
+  "replies": "0",
+  "forum": "ServiceNow User Group - FI - Finland"
+ },
+ {
+  "created": "2020-03-24T06:51:53.000Z",
+  "updated": "2020-03-24T22:50:11.000Z",
+  "category": "Question",
+  "title": "Outbound REST API message for nonstandard Oauth",
+  "author": "CristianUiPath",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=e0873474db73cc545129a851ca9619e3",
+  "replies": "0",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T08:35:06.000Z",
+  "updated": "2020-03-24T22:50:05.000Z",
+  "category": "Question",
+  "title": "Multi-level Pivot to show Users with the same asset type only.",
+  "author": "Mike Ramos",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=942f41701b3744107a5933f2cd4bcb2f",
+  "replies": "0",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T08:40:57.000Z",
+  "updated": "2020-03-24T22:50:02.000Z",
+  "category": "Question",
+  "title": "Multi-level pivot showing the Users with both asset types",
+  "author": "Mike Ramos",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=c67055f41b3744107a5933f2cd4bcb4a",
+  "replies": "0",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T08:41:18.000Z",
+  "updated": "2020-03-24T22:50:00.000Z",
+  "category": "Question",
+  "title": "Portal and attachments",
+  "author": "PeteM",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=1f8059bcdb7700d41cd8a345ca961946",
+  "replies": "0",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T08:47:04.000Z",
+  "updated": "2020-03-24T22:49:57.000Z",
+  "category": "Question",
+  "title": "Portal and attachments",
+  "author": "PeteM",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=00e15574dbb700d41cd8a345ca961958",
+  "replies": "0",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T15:47:54.000Z",
+  "updated": "2020-03-24T22:47:54.000Z",
+  "category": "Question",
+  "title": "Search - One particular Catalog Item fails during the search in ITIL view",
+  "author": "rajinis",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=5c32b2f8db3b8c94190dfb243996190b",
+  "replies": "0",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-23T22:06:53.000Z",
+  "updated": "2020-03-24T22:47:23.000Z",
+  "category": "Question",
+  "title": "Help  (Insert/Update) External SQL table from ServiceNow Business rule (JDBC probe)",
+  "author": "Service Manager",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=525f76a81b3fcc18fff162c4bd4bcb3e",
+  "replies": "0",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-23T10:54:46.000Z",
+  "updated": "2020-03-24T22:02:32.000Z",
+  "category": "Question",
+  "title": "SLA start from table value",
+  "author": "Patryk",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=6c85ace4db7740d4d82ffb243996194a",
+  "replies": "0",
+  "forum": "Now Platform"
+ },
+ {
+  "created": "2020-03-23T23:20:22.000Z",
+  "updated": "2020-03-24T22:02:30.000Z",
+  "category": "Question",
+  "title": "Can Workflow be created in service now ,based of the input given in the custom variable from the form ? without writing script",
+  "author": "RYU",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=e6209f641b370010a59033f2cd4bcba1",
+  "replies": "0",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T00:35:16.000Z",
+  "updated": "2020-03-24T22:02:29.000Z",
+  "category": "Question",
+  "title": "How to get user id from variable description",
+  "author": "KPS",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=b7412be0db37c8d423f4a345ca961950",
+  "replies": "0",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T06:13:35.000Z",
+  "updated": "2020-03-24T22:02:26.000Z",
+  "category": "Question",
+  "title": "Dynamically display theme on Service Portal based on user company",
+  "author": "Snow User",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=67be247cdbbf8c545129a851ca9619ba",
+  "replies": "0",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-23T18:06:37.000Z",
+  "updated": "2020-03-24T22:01:22.000Z",
+  "category": "Question",
+  "title": "How to trigger an assessment to be taken on the record that triggers it?",
+  "author": "Simran",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=e6580228db3fc0d4d82ffb24399619fc",
+  "replies": "0",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T10:12:30.000Z",
+  "updated": "2020-03-24T22:01:18.000Z",
+  "category": "Question",
+  "title": "GRC Controls and Policy Statements",
+  "author": "Hugh Fraser",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=9365e970db3f84d4f7fca851ca9619a8",
+  "replies": "0",
+  "forum": "New Policy & Compliance, Risk customers"
+ },
+ {
+  "created": "2020-03-24T05:28:00.000Z",
+  "updated": "2020-03-24T22:01:18.000Z",
+  "category": "Question",
+  "title": "Check user if is part of one of multiple groups",
+  "author": "Harish",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=f34420b0dbfb0cd45ed4a851ca96195e",
+  "replies": "0",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T10:51:23.000Z",
+  "updated": "2020-03-24T21:59:54.000Z",
+  "category": "Question",
+  "title": "Is there any way to get all fields value in one object so that for loop can be use to compare all fields with other values using business rule",
+  "author": "Archana Dudhani",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=fc5e25b4dbbb8018d58ea345ca9619c4",
+  "replies": "0",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T14:51:02.000Z",
+  "updated": "2020-03-24T21:51:56.000Z",
+  "category": "Question",
+  "title": "Inbound Email Action: Create new Case on Reply if original Case is closed.",
+  "author": "jofre",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=ab252274db370418d58ea345ca961979",
+  "replies": "0",
+  "forum": "Customer Service Management"
+ },
+ {
+  "created": "2020-03-24T14:20:54.000Z",
+  "updated": "2020-03-24T21:20:54.000Z",
+  "category": "Question",
+  "title": "customerservice.partner_admin access to customer cases",
+  "author": "CDB - OSPN",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=f14e9e30dbbb08d4d82ffb243996190b",
+  "replies": "0",
+  "forum": "Customer Service Management"
+ },
+ {
+  "created": "2020-03-24T13:31:14.000Z",
+  "updated": "2020-03-24T20:31:15.000Z",
+  "category": "Question",
+  "title": "Location is not populating correctly for GUEST user.  Issue happened after upgrade to New York.",
+  "author": "Randy",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=d6e21ef8dbffc4d4f7fca851ca9619bc",
+  "replies": "0",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T13:31:02.000Z",
+  "updated": "2020-03-24T20:31:02.000Z",
+  "category": "Question",
+  "title": "Scheduling with Inbound Actions - 'hour' value not calculating correctly.",
+  "author": "Austin Martinez",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=d3d2d2741b3f8010a59033f2cd4bcbc2",
+  "replies": "0",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T13:26:27.000Z",
+  "updated": "2020-03-24T20:26:27.000Z",
+  "category": "Question",
+  "title": "WebKit HTML to PDF - Global Homepages",
+  "author": "Patrick Quinlan",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=24d15a34db3340945129a851ca961974",
+  "replies": "0",
+  "forum": "Instance Help"
+ },
+ {
+  "created": "2020-03-24T13:08:34.000Z",
+  "updated": "2020-03-24T20:08:34.000Z",
+  "category": "Question",
+  "title": "Operational Plans and allocations/capacity planning",
+  "author": "Julia Allen",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=9ebd46f4dbb308d4d82ffb2439961951",
+  "replies": "0",
+  "forum": "IT Business Management"
+ },
+ {
+  "created": "2020-03-24T12:40:34.000Z",
+  "updated": "2020-03-24T19:40:35.000Z",
+  "category": "Question",
+  "title": "Agent workspace Inbox assign to a group",
+  "author": "Alexis S",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=14574a70db33c0186064eeb5ca961943",
+  "replies": "0",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T12:39:38.000Z",
+  "updated": "2020-03-24T19:39:38.000Z",
+  "category": "Question",
+  "title": "Why the multi row values will be auto-deleted after catalog task is set to 'Closed Complete'?",
+  "author": "Danny Sun",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=b617c2fc1bfbc8d4d01143f6fe4bcbc7",
+  "replies": "0",
+  "forum": "Developer Community"
+ },
+ {
+  "created": "2020-03-24T11:51:19.000Z",
+  "updated": "2020-03-24T19:38:53.000Z",
+  "category": "Question",
+  "title": "GlideDialogWindow.get().destroy();   not working in Agent Workspace",
+  "author": "chanikya",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=360cf9bc1b730458fff162c4bd4bcbc7",
+  "replies": "0",
+  "forum": "IT Service Management"
+ },
+ {
+  "created": "2020-03-24T12:36:24.000Z",
+  "updated": "2020-03-24T19:36:24.000Z",
+  "category": "Question",
+  "title": "Restricting Admin to delete attachment on custom table",
+  "author": "Aparna Macharla",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=0b56ca301bbf4010ada243f6fe4bcb6f",
+  "replies": "0",
+  "forum": "Customer Service Management"
+ },
+ {
+  "created": "2020-03-24T12:28:50.000Z",
+  "updated": "2020-03-24T19:28:50.000Z",
+  "category": "Question",
+  "title": "how can i enable emergency self report to all users",
+  "author": "Rakhy",
+  "link": "https://community.servicenow.com/community?id=community_question&sys_id=18a48278db33ccd45ed4a851ca961989",
+  "replies": "0",
+  "forum": "Customer Service Management"
+ }
+]
