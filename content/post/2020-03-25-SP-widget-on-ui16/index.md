@@ -38,8 +38,14 @@ The way to do this (again thanks to Andrew) is this;
     ```xml
       <?xml version="1.0" encoding="utf-8" ?>
       <j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
-        <iframe src="widgetOnly?id=pageForHelloWorld" width="100%" height="400"></iframe>
+        <iframe src="widgetOnly?id=pageForHelloWorld" 
+                width="100%" 
+                scrolling="no"
+                style="border:none;min-height:400px;"
+                >
+        </iframe>
       </j:jelly>
     ```
+
 5. Create a UI Formatter with the formatter called "spHelloWorld.xml" and set the table you want.
 6. Add the formatter on the form (same way you'd add a field, via form layout)
