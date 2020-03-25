@@ -35,6 +35,7 @@ The way to do this (again thanks to Andrew) is this;
 2.  Create a Portal Page (I'll name mine "pageForHelloWorld")
 3.  Add your widget to the Portal Page
 4.  Create a UI Macro (I'll name mine "spHelloWorld") with this code, change height as needed
+
     ```xml
       <?xml version="1.0" encoding="utf-8" ?>
       <j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
