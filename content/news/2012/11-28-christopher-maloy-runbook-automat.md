@@ -1,0 +1,6 @@
+---
+title: "Runbook Automation  RBA  Setting the AccountExpires Date field in AD"
+date: 2012-11-28T05:00:21.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=6d8d6669dbd0dbc01dcaf3231f96192a"
+---
+<p>In an Active Directory RBA integration, when setting the user data for the AccountExpires attribute you will need to convert your date into a Windows File Time format. <br /><br />If you try and set your date attribute with a string "YYYY-MM-DD" or "MM/DD/YYYY" you will get this error: "The attribute syntax specified to the directory service is invalid.<br /><br />To overcome this issue I had to create a Powershell Activity, that runs before my AD Account Create, and runs a Powershell command to get the date in Windows File Time format. The command is this:<br /><br /><b>(Get-Date 12/25/2012).ToFileTime()</b> **Merry Christmas**<br /><br />You can use the activity.output to get a response similar to this:<br /><br /><b>129067992000000000</b><br /><br />This is the value you set in the userdata for attributes such as AccountExpires.</p>

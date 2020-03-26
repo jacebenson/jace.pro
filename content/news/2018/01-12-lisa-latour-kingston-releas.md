@@ -1,0 +1,55 @@
+---
+title: "Kingston Release  Collected Links of Interest"
+date: 2018-01-11T22:26:30.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=aa5ce6a1dbd0dbc01dcaf3231f961995"
+---
+<p><span style="font-size: 12pt;"><img class="image-1 jive-image" style="height: auto; float: right;" src="ff322c02db90d704ed6af3231f9619a6.iix" alt="Kingston-Now-Available_300x185-v2.jpg" />Help us welcome in the latest ServiceNow release.   Kingston — is now available!   Check out these new blogs from subject matter experts to learn more.   Be sure to bookmark - new blogs will be adding over the next several weeks. </span></p>
+<p> </p>
+<p><span style="font-size: 14pt;"><a title="" href="/community?id=community_blog&sys_id=bf1da2e5dbd0dbc01dcaf3231f96199c" rel="nofollow">The Kingston Release is Now Available</a></span></p>
+<p>........................................................................................................</p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="What&#39;s New In Kingston for the Now Platform" href="/community?id=community_blog&sys_id=944daee5dbd0dbc01dcaf3231f961938" rel="nofollow">What&#39;s New In Kingston for the Now Platform</a> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="What&#39;s New in Kingston for Performance Analytics?" href="/community?id=community_blog&sys_id=985ee6addbd0dbc01dcaf3231f9619db" rel="nofollow">What&#39;s New in Kingston for Performance Analytics?</a> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="Bazinga! Kingston is here! And ITSM is Ahhmazing!" href="/community?id=community_blog&sys_id=d10daaa5dbd0dbc01dcaf3231f96191e" rel="nofollow">Bazinga! Kingston is here! And ITSM is Ahhmazing!</a> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="IT Operations Management: What&#39;s New in the Kingston Release" href="/community?id=community_blog&sys_id=0b1e626ddbd0dbc01dcaf3231f9619a0" rel="nofollow">IT Operations Management: What&#39;s New in the Kingston Release</a> <br /> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="What&#39;s New in Customer Service Management, Field Service Management,  &lt;br/&gt;Knowledge Management, and Communities in the Kingst…" href="/community?id=community_blog&sys_id=726c6ea1dbd0dbc01dcaf3231f9619d6" rel="nofollow">What&#39;s New in Customer Service Management, Field Service Management,  <br />Knowledge Management, and Communities in the Kingst…</a> <br /> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="What&#39;s New in Kingston for HR Service Delivery?" href="/community?id=community_blog&sys_id=597dee29dbd0dbc01dcaf3231f9619ad" rel="nofollow">What&#39;s New in Kingston for HR Service Delivery?</a> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="What&#39;s New in Governance, Risk, and Compliance in the Kingston Release" href="/community?id=community_blog&sys_id=86ac2625dbd0dbc01dcaf3231f961933" rel="nofollow">What&#39;s New in Governance, Risk, and Compliance in the Kingston Release</a> <br /> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="Respond to Misconfigured Software and Phishing Emails with New Security Operations Capabilities" href="/community?id=community_blog&sys_id=399c2ee1dbd0dbc01dcaf3231f9619dc" rel="nofollow">Respond to Misconfigured Software and Phishing Emails with New Security Operations Capabilities</a></span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="IT Business Management Drives New Value in Kingston" href="/community?id=community_blog&sys_id=2fed222ddbd0dbc01dcaf3231f96193a" rel="nofollow">IT Business Management Drives New Value in Kingston</a> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="What&#39;s New in Kingston for Software Asset Management" href="/community?id=community_blog&sys_id=842de2e5dbd0dbc01dcaf3231f961935" rel="nofollow">What&#39;s New in Kingston for Software Asset Management</a> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="Kingston Early Access for Technology Partners" href="/community?id=community_blog&sys_id=9d1deea5dbd0dbc01dcaf3231f96193c" rel="nofollow">Kingston Early Access for Technology Partners</a> <br /></span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="Deploy a Virtual Agent with IBM Watson&#39;s Conversation Service" href="/community?id=community_blog&sys_id=2e7ca2e1dbd0dbc01dcaf3231f96192b" rel="nofollow">Deploy a Virtual Agent with IBM Watson&#39;s Conversation Service</a> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="Putting the " href="/community?id=community_blog&sys_id=569c6ee1dbd0dbc01dcaf3231f9619bf" rel="nofollow">Putting the &#34;Enterprise&#34; into Release Management in Kingston</a> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="39 New Plugins Available in Kingston" href="/community?id=community_blog&sys_id=f92ea66ddbd0dbc01dcaf3231f961900" rel="nofollow">39 New Plugins Available in Kingston</a> </span></p>
+<p><span style="font-size: 12pt;"><a title="" href="/community?id=community_blog&sys_id=564e26addbd0dbc01dcaf3231f9619de" rel="nofollow">New for Developers in Kingston - Flow Designer, Action Designer, IntegrationHub</a></span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="A Technical Deep Dive in to Kingston - SAM (Part 1 - Publisher Packs - VMware / IBM)" href="/community?id=community_blog&sys_id=1c3d2ae5dbd0dbc01dcaf3231f96199a" rel="nofollow">A Technical Deep Dive in to Kingston - SAM (Part 1 - Publisher Packs - VMware / IBM)</a> </span></p>
+<p> </p>
+<p> </p>
+<p><span style="font-size: 14pt;">From Top Contributors</span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="Kingston / Service Portal / Service Catalog" href="/community?id=community_blog&sys_id=bc6daa29dbd0dbc01dcaf3231f961920" rel="nofollow">Kingston / Service Portal / Service Catalog</a></span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="Kingston Theme Properties Visual Guide" href="/community?id=community_blog&sys_id=afcda2e9dbd0dbc01dcaf3231f9619e8" rel="nofollow">Kingston Theme Properties Visual Guide</a> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="Kingston Sneak Peek" href="/community?id=community_blog&sys_id=e31da2e5dbd0dbc01dcaf3231f96191d" rel="nofollow">Kingston Sneak Peek</a> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_blogpost" title="The Lost treasures of Kingston" href="/community?id=community_blog&sys_id=d0ecaa65dbd0dbc01dcaf3231f9619d4" rel="nofollow">The Lost treasures of Kingston</a> </span></p>
+<p> </p>
+<p><span style="font-size: 14pt;">Going Live - The Kingston Release On Demand Webinar</span></p>
+<p><strong>Original Air Date, February 8, 2018  </strong></p>
+<p>Unveiling the Latest Innovations from ServiceNow</p>
+<p><a title="Watch it Now" href="https://www.servicenow.com/lpwbr/going-live-the-kingston-release.html?referenceSource&#61;community" rel="nofollow"><img style="max-width: 100%; max-height: 480px;" src="70beb996dbd0d30c0e58fb651f961928.iix" /></a></p>
+<ul><li><a href="community?id&#61;community_article&amp;sys_id&#61;c70fe23bdba81bc0032a7a9e0f9619f6" rel="nofollow">ITSM Q&amp;A from the Live Webinar</a></li><li><a href="community?id&#61;community_article&amp;sys_id&#61;3a9532f7db2c1bc0032a7a9e0f961973" rel="nofollow">ITOM Q&amp;A from the Live Webinar</a></li><li><a href="community?id&#61;community_article&amp;sys_id&#61;c28d346bdb4957c47b337a9e0f961956" rel="nofollow">SecOps Q&amp;A from the Live Webinar</a></li><li><a href="community?id&#61;community_article&amp;sys_id&#61;f24f19ebdb8597c47b337a9e0f9619d2" rel="nofollow">CSM Q&amp;A from the Live Webinar</a></li></ul>
+<p> </p>
+<p><span style="font-size: 12pt;"><span style="font-size: 14pt;">Champion Enablement Communication Package.</span> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_document" title="Kingston Communication Package" href="/community?id=community_article&sys_id=944c2e61dbd0dbc01dcaf3231f9619e6" rel="nofollow">Kingston Communication Package</a>   <span style="font-size: 10pt;"><em>for Customers and Partners (login req&#39;d)</em></span></span></p>
+<p> </p>
+<p><span style="font-size: 14pt;">Fact Sheet</span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro jive_macro_document" title="ServiceNow Software Release — Kingston" href="/community?id=community_article&sys_id=4c5ce2a1dbd0dbc01dcaf3231f961937" rel="nofollow">ServiceNow Software Release — Kingston</a> </span></p>
+<p> </p>
+<p><span style="font-size: 14pt;">Release Notes</span></p>
+<p><span style="font-size: 12pt;"><a title="https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/family-release-notes.html" href="https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/family-release-notes.html" rel="nofollow">Kingston release notes</a> </span></p>
+<p><span style="font-size: 12pt;"><a title="https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/quality/kingston-patch-1.html" href="https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/quality/kingston-patch-1.html" rel="nofollow">Kingston Patch 1</a> </span></p>
+<p> </p>
+<p><span style="font-size: 14pt;">Expert Events</span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro_thread jive_macro" title="Ask the Experts: Kingston Platform Part 1 - TechNow Ep 44" href="/community?id=community_question&sys_id=153a43a9db5cdbc01dcaf3231f961913" rel="nofollow">Ask the Experts: Kingston Platform Part 1 - TechNow Ep 44</a> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro_thread jive_macro" title="Ask the Experts: Kingston Platform Part 1 - TechNow Ep 44" href="/community?id=community_question&sys_id=153a43a9db5cdbc01dcaf3231f961913" rel="nofollow">Ask the Experts: Kingston Platform Part 1 - TechNow Ep 44</a> </span></p>
+<p><span style="font-size: 12pt;"><a class="jive_macro_thread jive_macro" title="Ask the Expert 1/31 What&#39;s New in Knowledge Management in Kingston" href="/community?id=community_question&sys_id=d57a47e9db5cdbc01dcaf3231f961919" rel="nofollow">Ask the Expert 1/31 What&#39;s New in Knowledge Management in Kingston</a> </span></p>
+<p class="cm-content-title m-t ng-binding"><a href="community?id&#61;community_question&amp;sys_id&#61;d6deb2e5db58dbc01dcaf3231f961917" rel="nofollow">Ask the Expert: ServiceNow Edge Encryption enhancements for the Kingston Release</a></p>
+<p> </p>

@@ -1,0 +1,12 @@
+---
+title: "Now on Now How ITOM enables intelligent operations for ServiceNows nonstop cloud  Join the Breakout at Knowledge "
+date: 2019-04-18T18:54:24.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=9396bd07db7c330cfece0b55ca961906"
+---
+<p>At ServiceNow, we believe in drinking our own champagne – or is that eating our own dog food? In any case, we’re enthusiastic users of our own products. If you’ve heard of Now on Now, that’s our program to drive adoption of ServiceNow across ServiceNow. Hence the name.</p>
+<p>At Knowledge 2019, I’ll be talking about one of those areas where we’ve made huge strides – enabling intelligent IT operations for our non-stop cloud. We’re leveraging our ITOM and ITSM portfolio to:</p>
+<ul><li>Create infrastructure and service visibility</li><li>Ensure the health of our cloud-based services – that’s why we call it the non-stop cloud</li><li>Optimize our cloud operations and infrastructure, driving efficiency and scale</li></ul>
+<p>Here are a few facts and figures about our non-stop cloud. It delivers SaaS at scale, with more than 6 million configuration items – such as servers, services, and network devices. It’s built using a multi-instance architecture, with complete data isolation and redundancy across network, application, and database layers. So, just to be clear, we’re talking about a significant amount of sophisticated real estate.</p>
+<p>At the session, I’ll be discussing how ITOM and ITSM have helped us to operationalize our non-stop cloud using a comprehensive ITIL framework, and I’ll be talking about the benefits we’ve seen – for example, how we’re using zero-touch automation to eliminate time-consuming tasks, how the Now Platform® has allowed us to transform from an infrastructure-centric to a business service-centric IT organization, and how – critically – ITOM allows us to proactively accelerate resolution of service issues.</p>
+<p>We’re proud of what we’ve accomplished, and we know there are more good things to come. I hope that by sharing our own experience, we can give you some of the insights you need to move forward confidently into the new world order of public and private clouds. I’m excited to have the opportunity to tell you what we’ve learned, and I look forward to hearing about your experiences as well.</p>
+<p><em>Manoj Shende is ServiceNow’s Senior Director of Cloud Infrastructure Engineering. You can see his presentation at Knowledge 2019 by signing up for breakout session BRE0565.</em></p>

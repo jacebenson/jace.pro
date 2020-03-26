@@ -1,0 +1,23 @@
+---
+title: "Are you ready to implement ServiceNow"
+date: 2018-10-16T00:04:05.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=c06f06a7db492b00f7fca851ca961986"
+---
+<p>Preparing for your ServiceNow journey is a lot like preparing for most journeys. Your experience and success depend on how well you have planned for it— what gear to carry, which route to take, what contingencies you need to prepare for — in advance.</p>
+<p>Our experience across customer journeys point to four “must do&#39;s” as you prepare to implement ServiceNow:  </p>
+<p> <strong>1. Be clear and explicit in your vision for business value</strong></p>
+<p>Organizations that approach ServiceNow as a “rip‑and‑replace, lift‑and‑shift” alternative to their current systems limit a full view of the potential value ServiceNow can deliver. The most successful customers include their key business stakeholders in an exercise to clarify the path from vision to value. This exercise should document the business outcomes you need to realize, and how you will measure success. You should be able to capture “vision to value” on a single page, as shown below.</p>
+<p><img style="max-width: 100%; max-height: 480px;" src="0e1e8aebdb092b00f7fca851ca961911.iix" /></p>
+<p> </p>
+<p>Once you have built a common understanding of the business outcomes you want to realize, prioritize ServiceNow capabilities that can deliver the earliest, greatest value to the business.</p>
+<p> <strong>2. Make sure you have a foundational configuration management database (CMDB) model in place</strong></p>
+<p>The CMDB is a critical “single source of truth” to support smart decision-making by your service desk and rep teams, enabled through ServiceNow. That’s why we recommend an early implementation and integration of CMDB capability. A well‑configured CMDB can <a href="https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/white-paper/white-paper-monetary-value-of-cm.pdf" rel="nofollow">save you 40%</a><sup> </sup> on your ongoing IT efforts. </p>
+<p>But if the data model for your CMDB is not planned properly, you can struggle to implement, sustain, and drive value from CMDB. To maintain your CMDB health, <a href="https://www.servicenow.com/success/plan/it/cmdb-deployment.html" rel="nofollow">ensure that the CMDB is appropriately scoped</a> to support your business objectives and focuses on the data required to support those objectives.</p>
+<p> <strong>3. Prioritize the capture of high-visibility, low-cost wins</strong></p>
+<p>Progress in implementation and value realization can stumble if you don’t have early and strong adoption among service consumers, fulfillers, and developers. Look to make room for the early implementation of capabilities that first promote the broadest organizational exposure to the Now Platform interface through highly visible service experience improvements, and second, do not overpromise or have significant dependencies with other capabilities. See the graphic below for examples:</p>
+<p><img style="max-width: 100%; max-height: 480px;" src="398e02afdb092b00f7fca851ca961977.iix" />Incident management and request management will be ideal quick-wins for your ServiceNow implementation, as opposed to a capability like service mapping, that requires strong discovery, event management, and configuration management capabilities for effective implementation.</p>
+<p> <strong>4. Don’t wait to build effective organizational change management</strong></p>
+<p>Successful ServiceNow implementations don’t just focus on the technology, but also put in the right organizational change management—communications, training, and a community of champions— in place to support the implementation. An effective, tailored communication plan can help drive awareness on the value enabled through the ServiceNow platform. Building and training an internal team of ServiceNow experts—across the platform team, fulfillers, and users—is essential to drive initial adoption.  A community of champions— a group of stakeholders willing to contribute their own creativity and experience to evangelize your ServiceNow project—plays a critical role in scaling adoption, and building organizational support to expand ServiceNow to new business opportunities.</p>
+<p>For additional details and lessons learned, download our Success Playbook, <a href="https://www.servicenow.com/success/plan/start-implementation.html" rel="nofollow">How to Start the Implementation Journey</a>.</p>
+<p> </p>
+<p><em>Pooja Gupta, Research Manager, Best Practices Center of Excellence – Customers Success at ServiceNow</em></p>

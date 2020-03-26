@@ -1,0 +1,6 @@
+---
+title: "Thank you for your attendance and participation"
+date: 2012-09-25T20:51:55.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=379c2225dbd0dbc01dcaf3231f961987"
+---
+<p>Thanks to all who made it to Kohler last week for the Wisconsin SNUG meeting. Great day to meet our peers and share stories! Our sincere thanks to Barbara Perronne, Tony Krauter, Kris Struve, Rose Mueller, Scott Stechmesser, Todd Grube and Jim Raquet at Kohler for Hosting this great event. Thanks to Bomgar and Fruition for sponsoring the meeting and Happy Hour.<br /><br />A great start to a new group. ServiceNow continues to grow in Wisconsin and we are looking forward for the group to grow and help continue your success with ServiceNow.<br /><br />Please take a few minutes and follow the link below to fill out a short survey. This will provide us feedback to help improve the overall experience for future LUGs.<br /><br />https://www.surveymonkey.com/s/WISNUG<br /><br />Thank you,</p>

@@ -1,0 +1,12 @@
+---
+title: " Upskilling Enterprise DevOps Skills Report"
+date: 2020-03-10T18:38:19.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=08d2b19cdbeb84d0d58ea345ca9619c8"
+---
+<p><span style="font-weight: 400;">At ServiceNow, our purpose is to ‘make the world of work, work better for people,’ so it’s appropriate for us to support this important piece of research about reshaping skills in the world of DevOps!</span></p>
+<p><span style="font-weight: 400;"><img src="https://community.servicenow.com/2da03510dbeb84d0d58ea345ca9619ec.iix" /></span></p>
+<p><a href="https://devopsinstitute.com/" rel="nofollow"><strong>DevOps Institute</strong></a><span style="font-weight: 400;">, a global member-based association for advancing the human elements of DevOps, </span><span style="font-weight: 400;">today announced the release of the data and results of the &#34;Upskilling 2020: Enterprise DevOps Skills Report.&#34; For the second year, the report defines the most critical and in-demand skills needed around the world to meet DevOps transformation objectives within enterprise IT organizations of all sizes. The data that underpins the report was collected through a global community research project and open survey from more than 1,200 respondents.</span></p>
+<p><span style="font-weight: 400;">“Human transformation is the single most critical success factor to enable DevOps practices and patterns for enterprise IT organizations,” said Jayne Groll, CEO of DevOps Institute. “Traditional upskilling and talent development approaches won’t be enough for enterprises to remain competitive because the increasing demand for IT professionals with core human skills is escalating to a point that business leaders have not yet seen in their lifetime. We must update our humans through new skill sets as often, and with the same focus, as our technology.”</span></p>
+<p><span style="font-weight: 400;">The need for automation skills, already a top requirement from last year&#39;s report, remains a key skill alongside equally important process skills and human skills like collaboration and problem-solving.</span></p>
+<p><span style="font-weight: 400;">The report is freely available for download here:</span></p>
+<p><a href="https://devopsinstitute.com/upskilling-2020-servicenow" rel="nofollow"><span style="font-weight: 400;">https://devopsinstitute.com/upskilling-2020-servicenow</span></a></p>

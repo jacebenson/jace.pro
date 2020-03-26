@@ -1,0 +1,39 @@
+---
+title: "Getting Real with Now on Now  Knowledge sessions you wont want to miss"
+date: 2018-05-02T23:52:40.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=12d4d34adbf557802d1efb651f961972"
+---
+<p><img style="max-width: 100%; max-height: 480px;" src="94d4df0adbf557802d1efb651f9619c0.iix" width="421" height="291" /></p>
+<p> </p>
+<p>ServiceNow is the fastest-growing enterprise software companies over $1 billion, and we proudly use our own products every day. This practice is called Now on Now where ServiceNow is Customer Zero in using our Now Platform<sup>TM</sup> to drive digital transformation across every corner of our enterprise.</p>
+<p>At Knowlege18, you’ll have a chance to learn more about our Now on Now program at live sessions with ServiceNow experts. You’ll hear from ServiceNow practitioners in IT, Customer Service, Human Resources, Security and more about how we “drink our own champagne.” And you’ll gain key insights from our own experience at ServiceNow that will help you build your company’s digitalization plan of action.</p>
+<p>Use this handy guide to sign up for the Knowledge18 Now on Now live sessions.</p>
+<p><strong>Tuesday, May 8:</strong></p>
+<ul><li><strong>BRE0308</strong> <a href="https://www.servicenowevents.com/servicenowknowledge18/public_session_view.php?session_id&#61;559&amp;agenda_session_id&#61;554" rel="nofollow">Now on Now: Driving Operational Value with ITOM</a> <strong>Marco Polo 803 10:30 a.m</strong>.</li></ul>
+<ul><li><strong>BRE1157</strong> <a href="https://www.servicenowevents.com/servicenowknowledge18/public_session_view.php?session_id&#61;713&amp;agenda_session_id&#61;708" rel="nofollow">Now on Now: Use Performance Analytics to Transform your IT Operations</a> <strong>Marco Polo 701 10:30 a.m.</strong></li></ul>
+<ul><li><strong>BRE0098</strong> <a href="https://www.servicenowevents.com/servicenowknowledge18/public_session_view.php?session_id&#61;66&amp;agenda_session_id&#61;324" rel="nofollow">Now on Now: Usage of ITBM&#39;s Project Portfolio Management Yields Huge Returns</a> <strong>Murano 3205 3:50 p.m.</strong></li></ul>
+<ul><li><strong>BRE0278</strong> Panel –<a href="https://www.servicenowevents.com/servicenowknowledge18/public_session_view.php?session_id&#61;85&amp;agenda_session_id&#61;343" rel="nofollow">How we Transformed and Modernized our New Hire Onboarding Experience using the Enterprise Onboarding and Transitions Solution</a> <strong>Bassano 2601 2:40 p.m. </strong></li></ul>
+<p><strong>Wednesday, May 9:</strong></p>
+<ul><li><strong>CCB1059</strong> <a href="https://knowledge.servicenow.com/sessions/creator-con.html" rel="nofollow">CreatorCon</a> Keynote –<a href="https://www.servicenowevents.com/servicenowknowledge18/public_session_view.php?session_id&#61;3&amp;agenda_session_id&#61;261" rel="nofollow">Now on Now: The Strategic Role of the Enterprise Architect</a> <strong>Zeno 4705 10:30 a.m.</strong></li></ul>
+<ul><li><strong>BRE0135 </strong><a href="https://www.servicenowevents.com/servicenowknowledge18/public_session_view.php?session_id&#61;69&amp;agenda_session_id&#61;327" rel="nofollow">Now on Now: How ServiceNow uses the NOW Platform™ to Achieve a 13-point increase in NPS and a 25% Case Deflection Rate</a> <strong>Veronese 2503. 1:30 p.m.</strong></li></ul>
+<ul><li><strong>BRE0293 </strong><a href="https://www.servicenowevents.com/servicenowknowledge18/public_session_view.php?session_id&#61;86&amp;agenda_session_id&#61;344" rel="nofollow">Now on Now: Accelerating Software Delivery with ServiceNow Automated Testing Framework (ATF)</a> <strong>Zeno 4701 5:00 p.m.</strong></li></ul>
+<ul><li><strong>BRE0591 </strong><a href="https://www.servicenowevents.com/servicenowknowledge18/event_agenda#content" rel="nofollow">Now on Now: ServiceNow&#39;s Digital Transformation</a> <strong>Casanova 501 11:40 a.m.</strong></li></ul>
+<ul><li><strong>BRE0161 </strong><a href="https://www.servicenowevents.com/servicenowknowledge18/public_session_view.php?session_id&#61;75&amp;agenda_session_id&#61;333" rel="nofollow">Defending NOW: How ServiceNow Defends an Enterprise Cloud using ServiceNow</a> <strong>Titian 2201A 3:50 p.m.</strong></li></ul>
+<p> </p>
+<p><strong>Thursday, May 10:</strong></p>
+<ul><li><strong>BRE0383</strong> Panel – <a href="https://www.servicenowevents.com/servicenowknowledge18/public_session_view.php?session_id&#61;571&amp;agenda_session_id&#61;566" rel="nofollow">Now on Now: Keeping ServiceNow and Your Data Secure</a> <strong>Titian</strong> <strong>2201A 10:30 a.m.</strong></li></ul>
+<ul><li><strong>BRE0228</strong> Panel with <a href="https://home.kpmg.com/us/en/home.html" rel="nofollow">KPMG,</a> <a href="http://www.mlcworldwide.com/" rel="nofollow">MLC</a>, <a href="https://www2.deloitte.com/us/en.html" rel="nofollow">Deloitte</a>, Trust Company of America and <a href="https://www.vertexinc.com/" rel="nofollow">Vertex</a>  <a href="https://www.servicenowevents.com/servicenowknowledge18/public_session_view.php?session_id&#61;553&amp;agenda_session_id&#61;548" rel="nofollow">Now on Now: Expanding GRC Beyond IT</a> <br /> <strong>Titian 2301A  1:30 p.m.</strong></li></ul>
+<ul><li><strong>BRE0136</strong> <a href="https://www.servicenowevents.com/servicenowknowledge18/public_session_view.php?session_id&#61;536&amp;agenda_session_id&#61;1294" rel="nofollow">Now on Now: Leveraging Cloud Management to Automate VM Provisioning in Private and Public Clouds</a> <br /> <strong>Lido 3105. 2:40 p.m.</strong></li></ul>
+<ul><li><strong>BRE0293</strong> <a href="https://www.servicenowevents.com/servicenowknowledge18/public_session_view.php?session_id&#61;86&amp;agenda_session_id&#61;1158" rel="nofollow">Now on Now: Accelerating Software Delivery with ServiceNow Automated Testing Framework (ATF)</a> <br /> <strong>Zeno 4701 5:00 p.m.</strong></li></ul>
+<ul><li><strong>BRE0391</strong> Panel – <a href="https://www.servicenowevents.com/servicenowknowledge18/public_session_view.php?session_id&#61;572&amp;agenda_session_id&#61;567" rel="nofollow">Complying with GDPR and Global Privacy: Overview of ServiceNow Technical Guides</a> <strong>Titian 2201A 11:40 a.m</strong>.</li></ul>
+<ul><li><strong>BRE1016 </strong><a href="https://www.servicenowevents.com/servicenowknowledge18/public_session_view.php?session_id&#61;687&amp;agenda_session_id&#61;682" rel="nofollow">A Roadmap and Tools for Maximizing your GRC Investment and Results</a> <strong>Titian 2301A 5:00 p.m.</strong></li></ul>
+<p> </p>
+<p><strong>Check out the live demos at the Now on Now booth in the Knowledge18 Pavilion</strong></p>
+<p>Is your favorite session sold out? You still have another chance to learn more about how ServiceNow implements our own products when you visit our booth in the Pavilion. We’ll be available to provide hands-on demonstrations, discuss implementation strategies, as well as answer all your questions. Be sure to stop by our Pavilion booth to chat with our ServiceNow team and <a href="https://servicematters.servicenow.com/category/now-on-now/" rel="nofollow">learn more about Now On Now.</a></p>
+<p>Discover the world of ServiceNow at <a href="https://knowledge.servicenow.com/" rel="nofollow">Knowledge 18</a> at the Venetian Hotel and Casino, Las Vegas, May 8-10 </p>
+<p> </p>
+<p>Help spread our Now on Now story by posting a tweet, blog, photo or video about your experience at one of our Now on Now Sessions or a demo at our Now on Now Pavilion booth with #Know18 #ServiceNow #NowOnNow</p>
+<p> </p>
+<p>Topics: NowonNow ServiceNow ITOM ITBM GRC SecOps CSM HR IntelligentApps DigitalTransformation</p>
+<p> </p>
+<p> </p>

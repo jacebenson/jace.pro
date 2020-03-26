@@ -1,0 +1,46 @@
+---
+title: "Whats New in Orlando HR Service Delivery"
+date: 2020-01-29T06:40:06.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=6c87f372db668854414eeeb5ca96195d"
+---
+<p><strong><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/439b9e2fdb0fcc101cd8a345ca96190e.iix" /></strong></p>
+<p> </p>
+<p><span style="color: #000000;"><strong>What’s New in Orlando for HR Service Delivery</strong></span></p>
+<p><span style="color: #000000;">In Orlando, we’re launching several new innovations for our HR Service Delivery solutions to help our customers unlock productivity for employees and service delivery teams. Check out the latest innovations below:</span></p>
+<p><span style="color: #000000;"><strong>Employee Experience Packs</strong></span></p>
+<p><span style="color: #000000;">At ServiceNow®, we understand that customers look to us to deliver new innovations that drive productivity and better experiences for their employees. In Orlando, we’re introducing Employee Experience Packs, which provide pre-built content that can help our customers accelerate their time-to-value, drive faster adoption of the latest ServiceNow® innovations, and maximize their employee service delivery investments.</span></p>
+<p><span style="color: #000000;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/7d2befa71b4bc890ada243f6fe4bcb6b.iix" /></span></p>
+<p><span style="color: #000000;">Employee Experience packs are designed to support employees at various stages in their journeys such as onboarding, promotions, leave of absence, or an internal transfer, and are configurable to meet each organizations’ needs.</span></p>
+<p><span style="color: #000000;">In addition to supporting the material moments that matter, we’ve also delivered several Employee Experience Packs that support service teams such as providing foundational content for an HR knowledge base, configurable templates for a company calendar, and tools to roll out a year-end tax campaign.</span></p>
+<p><span style="color: #000000;">Employee Experience packs can be accessed from <a style="color: #000000;" href="https://developer.servicenow.com/app.do#!/share/contents?category&#61;Employee%20Experience%20Packs&amp;page&#61;1" rel="nofollow">SHARE on the developer site</a>.  </span></p>
+<p><span style="color: #000000;"> </span></p>
+<p><span style="color: #000000;"><strong>Case Autocategorization</strong></span></p>
+<p><span style="color: #000000;">HR cases today can come from just about anywhere –  from phone calls, emails, the Employee Service Center, or even from our mobile apps! But the HR service professional who has to resolve HR requests often has to spend time manually categorizing what type of case is submitted – whether it’s a general inquiry or an employee relations issue.</span></p>
+<p><span style="color: #000000;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/786ba32b1b4bc890ada243f6fe4bcb31.iix" /></span></p>
+<p><span style="color: #000000;">Categorizing the case the right way is critical to the desired outcome and service experience of employees. With Predictive Intelligence from ServiceNow®, customers can now train the categorization of cases, predict what type of HR service will be required, and prescribe a quick answer with a link. This reduces the burden of HR service professionals who have to manually manage, transfer, and resolve HR cases.</span></p>
+<p><span style="color: #000000;"> </span></p>
+<p><span style="color: #000000;"><strong>Mobile App enhancements</strong></span></p>
+<p><span style="color: #000000;">We’ve made several enhancements across our purpose-built employee-facing mobile apps – <a style="color: #000000;" href="https://www.servicenow.com/products/now-mobile.html" rel="nofollow">Now® Mobile</a> and <a style="color: #000000;" href="https://www.servicenow.com/products/mobile-employee-onboarding.html" rel="nofollow">Mobile Onboarding</a> to make it even easier for organizations to deliver native, mobile-first experiences to their employees.</span></p>
+<p><span style="color: #000000;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/3aeb6bab1b4bc890ada243f6fe4bcb4e.iix" /></span></p>
+<ul><li><span style="color: #000000;"><strong>Campaigns: </strong>Keep your employees up to date and informed by delivering the right message at the right time, with targeted content and campaigns.</span></li></ul>
+<ul><li><span style="color: #000000;"><strong>Photo Search: </strong>Snap a picture of an object using your phone’s camera, and image recognition immediately identifies the object to find matching catalog items, services, and knowledge articles.</span></li></ul>
+<ul><li><span style="color: #000000;"><strong>QR and Barcode Multi-Scan: </strong>Agents can now scan groups of codes and review a full list of assets before submitting them in bulk; as opposed to individually scanning, submitting each asset, and waiting for the camera to reopen.</span></li></ul>
+<ul><li><span style="color: #000000;"><strong>Mobile Analytics</strong>: We’ve fully integrated AppSee, a leader in mobile app analytics and an acquisition that ServiceNow® made in 2019 into the Now Platform. Customers are now able to use these new capabilities to drive mobile app adoption and deliver trends on how the apps are being used.</span></li></ul>
+<ul><li><span style="color: #000000;"><strong>Mobile Application Management</strong>: Secure enterprise data on all company-owned and bring-your-own devices (BYOD) with support for Microsoft Intune and Blackberry Dynamics MDM. </span></li></ul>
+<p><span style="color: #000000;"> </span></p>
+<p><span style="color: #000000;"><strong>Lifecycle Events Enhancements</strong></span></p>
+<p><span style="color: #000000;">We’ve made several enhancements to the lifecycle events builder to help HR and IT teams to quickly build and implement processes that span across multiple departments.</span></p>
+<p><span style="color: #000000;">For admins, we’ve made it easier to cross-departmental workflows by introducing activity containers and the ability to stage dependencies within an activity set.</span></p>
+<p><span style="color: #000000;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/6f9ca3ef1b4bc890ada243f6fe4bcb13.iix" /></span></p>
+<p><span style="color: #000000;"> </span></p>
+<p><span style="color: #000000;"><strong>Okta Integration</strong></span></p>
+<p><span style="color: #000000;">As work today consists of collaborating across different departments, teams, and locations, employees need access to more apps across several devices, in different locations, in order to get work done. HR and IT teams get bogged down in managing disjointed one-off requests manually.</span></p>
+<p><span style="color: #000000;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/a9eca3231b8bc890ada243f6fe4bcba3.iix" /></span></p>
+<p><span style="color: #000000;">In Orlando, we’re introducing a pre-built integration with Okta, which will help automate account provisioning and enable our customers’ employees to request real-time access to the right apps and tools through a single enterprise single-sign-on (SSO) account. This integration can be extremely helpful with but is not limited to, streamlining and automating the onboarding and offboarding experiences for employees.</span></p>
+<p>..................................................................................................................................................................................................</p>
+<h4 class="ng-scope">Join us on March 19, 2020 <br /><a href="https://go.servicenow.com/LP&#61;14127?referenceSource&#61;communityblog" target="_blank" rel="noopener noreferrer nofollow">The Now Platform Orlando release broadcast</a>.</h4>
+<p class="ng-scope" style="padding-left: 30px;">ServiceNow is proud to introduce and walk you through the Now Platform Orlando release with Now Intelligence.</p>
+<p class="ng-scope" style="padding-left: 30px;"><br /><strong>Date:</strong> Thursday, March 19, 2020 <br /> <strong>Time: </strong>8:00am—9:30am PT | 11:00am—12:30pm ET <br /> 4:00pm—5:30pm GMT | 5:00pm—6:30pm CET</p>
+<p class="ng-scope">..................................................................................................................................................................................................</p>
+<p> </p>
+<p><span style="font-size: 8pt; color: #808080;"><span class="TextRun SCXW76328093 BCX0" lang="EN-US"><span class="NormalTextRun CommentStart SCXW76328093 BCX0">© 2020 ServiceNow, Inc. All rights reserved. ServiceNow, the ServiceNow logo, Now, Now Platform, and other ServiceNow marks are trademarks and/or registered trademarks of ServiceNow, Inc. in the United States and/or other countries. Other company names, product names, and logos may be trademarks of the respective companies with which they are associated.</span></span><span class="EOP SCXW76328093 BCX0"> </span></span></p>

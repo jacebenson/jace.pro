@@ -1,0 +1,31 @@
+---
+title: "How Juniper Networks Manages Security Incident Response"
+date: 2018-10-24T21:08:22.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=357dbf5edb912380f0612183ca96190f"
+---
+<p><em>“The Customer Success Team and the Development team are really great to work with and interested in improving the product. If you don’t think the product can do something you want it to do, they really want to know. They have a thirst for making the product better.” – </em>Steve Green, Incident Response and Threat Intelligence Senior Manager, Juniper Networks</p>
+<h3>Security Operations Session, Now Summit on October 18, 2018</h3>
+<p>At the recent Now Summit in Santa Clara, CA on October 18, 2018, Steve Green from Juniper Networks sat down with attendees for a Q&amp;A session about how they approach security operations using ServiceNow Security Incident Response.</p>
+<h3>Customer Overview</h3>
+<p>Headquartered in Sunnyvale, CA, Juniper Networks is a global networking company with products, solutions, and services that connect the world. With over 9,500 employees in 92 offices across 43 countries, Juniper generates revenues of $5.02B. Juniper’s Security Operations implementation includes Security Incident Response and Vulnerability Response.</p>
+<p>Steve Green is the Incident Response and Threat Intelligence Senior Manager for Juniper Networks. He is an experienced Information Security professional with over 20 years experience in Information Security and holds numerous certifications, including: CISSP, CRISC, CISM, CISA, ITIL, and PRINCE2.</p>
+<p> </p>
+<h3>NOW Forum Q &amp; A</h3>
+<p><strong>As an early adopter of ServiceNow Security Operations, what are some of the problems you were trying to solve?</strong></p>
+<p>We initially went live with SecOps on the Geneva release. We were an early adopter of the ServiceNow platform, so we had been using it in IT for a long time. From a security incident perspective, we felt that we needed a way to wall off security incidents from the rest of IT. There are incidents that even my SOC is not allowed to see. The fact that the SecOps suite is a scoped application is great.</p>
+<p>We were also using a lot of spreadsheets to track the things we were working on and reporting as best we could. We wanted to be more efficient and ServiceNow Security Operations provided the reports we needed for ourselves and our management.</p>
+<p><strong>Prior to using Security Operations, how did you generate reports for your management?</strong></p>
+<p>The spreadsheets we used were manually maintained and the work to churn out reports was sometimes harder than it needed to be. Since implementing the Security Operations suite, we have automated a lot of detailed reports that are actionable. I am able to shows things I never dreamed of doing with spreadsheets: number of incidents per month and how many were false positive, incidents by source, what parts of the world had the most malware, whether they on Windows or Mac – I am able to answer all of those questions now.</p>
+<p>When I build these reports, I find interesting things along the way. Then I very quickly build other reports based on the data I just found. As a result of this reporting, I am able to “wow” management.</p>
+<p>I can also make data-driven decisions and help the team be more efficient. I am able to better quantify how many incidents my analysts can manage per day or per shift, what shift gets the most incidents and what I can accomplish if I am able to add one more analyst to a particular shift. This helps me appeal to management that I need more headcount and justify why with data from our own reports.</p>
+<p><strong>One of the challenges with vulnerability scanners is the number of false positives they generate. How do you deal with that?</strong></p>
+<p>ServiceNow allows you to slice and dice the data in much better ways. Instead of just reviewing the thousands of items from our scanner, we asked how we can manage this in an effective way for the SOC’s incident response, as well as for the teams assigned to fix these issues.</p>
+<p>We prioritized the highest severity items first, but we still had an unmanageable number of items to tackle. ServiceNow helped us determine which of these were confirmed so we could focus on those as a starting place. The result was that we were able to more effectively work with the owners to address the vulnerabilities.</p>
+<p><strong>You are really excited about London. What are some of the things you are excited about?</strong></p>
+<p>A lot of incident response teams are having a hard time finding skilled help. A new analyst can take 6-9 months to get up to speed. The London release is really cool. ServiceNow has worked really hard on a new user interface which makes it a little easier for new analysts by introducing playbooks and workflows that can lead the analyst through what you do – step by step. If a ticket is about phishing, the playbook takes the analyst through exactly what automation steps are required and makes the team more efficient. I am really excited about this.</p>
+<p>Juniper was fortunate enough to be in included in the beta discussions about this. We had a lot of fun talking to the ServiceNow development team, telling them how we really work.</p>
+<p><strong>What advice would you give to folks just starting Security Operations or GRC?</strong></p>
+<p>I am a tech guy. Seeing some of the things ServiceNow can do when they show their demos causes me to drool. I wish, however, that I had planned a bit more of a phased approach as some of the automation and integration takes time – crawl, walk, run!</p>
+<p>Also, I recommend understanding the licenses to understand the limitations of what you are going to be able to do based on your budget and desired functionality.</p>
+<p>Lastly, plan for continuous improvement by working with the ServiceNow team. The Customer Success Team and the Development team are really great to work with and interested in improving the product. If you don’t think the product can do something you want it to do, they really want to know. They have a thirst for making the product better. I really encourage you to take advantage.</p>
+<p> </p>

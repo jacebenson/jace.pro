@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2018-10-30T20:40:00.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=ac80f2d4dbe56f047d3e02d5ca9619af"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="community?id&#61;community_question&amp;sys_id&#61;e80ccad0dbe1ef042e8c2183ca96196b" target="_blank" rel="nofollow">How to schedule text index on sys_user</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;7a040d8cdbedeb045d782183ca9619a3" target="_blank" rel="nofollow">Script cleanup: How to access sys_user_group in a scheduled job script</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;7f20125cdbe9a74411762183ca9619f0" target="_blank" rel="nofollow">I am trying to load Printer Data</a></li><li>Overview of CMDB table schema and extension</li><li><a href="community?id&#61;community_question&amp;sys_id&#61;048316d0dbe127441089e15b8a961953" target="_blank" rel="nofollow">Installed MID server but I&#39;m getting a &#34;duplicate name&#34; error in the logs</a></li><li>YouTube REST API and reporting on field values</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream" target="_blank" rel="nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/VrPLm0OH7QE" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="nofollow">Twitch</a>.</p>

@@ -1,0 +1,21 @@
+---
+title: "Out of band discovery content release  December Update"
+date: 2018-12-20T18:44:00.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=b341387cdb66e380f21f5583ca961936"
+---
+<p><img src="e22f64b0db66e380f21f5583ca9619bd.iix" width="660" height="338" /></p>
+<p>ServiceNow <a href="https://store.servicenow.com/sn_appstore_store.do#!/store/application/06a71b1367e4130051c9027e2685ef1e/1.0.35?referer&#61;sn_appstore_store.do%23!%2Fstore%2Fsearch%3Fq%3Ddiscovery%2520pattern" rel="nofollow">out of band discovery content release </a>is less than a year old, but they’ve already made a huge impact for businesses!</p>
+<p>ServiceNow ITOM Discovery product team launched out of band release of discovery patterns on June 14th, 2018. Decoupling of discovery pattern release from regular ServiceNow releases has helped partners/customers to get faster content updates from published store application. In the <a href="community?id&#61;community_blog&amp;sys_id&#61;1b80b148db3a1380e0e80b55ca96197d" rel="nofollow">release blog</a>, I have highlighted the kubernetes pattern in detail. We have extended the K8S pattern to support event-driven discovery. Now, let me take the opportunity to highlight some of the other key discovery pattern updates that happen in the last 6 months.</p>
+<p><strong>What’s new with the latest release</strong></p>
+<p>December release of discovery pattern supports the discovery of VERITAS cluster and PURE Storage – Flash blade server. ServiceNow discovery support discovery of cluster technologies like windows clusters, Linux clusters, and Oracle Clusterware. With the latest content update, customers can leverage ServiceNow discovery to get full visibility to VERITAS cluster components like cluster nodes, cluster resources, and cluster status. In the recent past, many storage vendors have shied away from SMI-S support. Pure Storage Flash Blade does not support SMI-S and the NOW discovery pattern leverage native REST APIs to discover blade details like hardware details, file systems &amp; network interface.</p>
+<p><span style="text-decoration: underline;">VERITAS Cluster Topology </span></p>
+<p><img src="19f038f8db66e380f21f5583ca961939.iix" width="497" height="245" /></p>
+<p><strong>Cloud PaaS Patterns</strong></p>
+<p> Cloud computing is catching on in a big way, and as it matures, adoption keeps growing and new uses emerge. ServiceNow discovery support multi-cloud discovery and can discovery IaaS components via AWS/Azure service account.</p>
+<p>On the other hand, Platform as Service (PaaS) value proposition has amplified productivity and on-demand/faster deployment times for companies that are born in the cloud era. The growth of adoption of cloud computing (IaaS and PasS) is poised to accelerate in the upcoming years, as the cloud vendors started pushing deeper beyond the early adopters into the mainstream of the information technology services market.</p>
+<p>With the out of band release, we have released several patterns to support the discovery of cloud PaaS resources. Most of the patterns do support service mapping which provides dependency views and service maps. For example, customers can add S3 and Lambda as entry points to visualize the dependencies between lambda to lambda connections and lambda to s3 bucket connections. </p>
+<p><span style="text-decoration: underline;">Service Map with AWS Lambda and S3 </span></p>
+<p><img src="c9afe834db66e380f21f5583ca9619a6.iix" width="630" height="226" /></p>
+<p><strong>Don’t miss the patterns for On-Premise tech stacks</strong></p>
+<p>Discovery of EMC ISILON storage via native REST APIs, Informix, JBossFuse server, Google APIGEE, Adobe cloud fusion are few other notable patterns in the out of band content release. Check out the official documentation page to get the list of all supported patterns via store content shipping and get your CMDB in action for core ITOps use cases.</p>
+<p>Check out the official <a href="https://docs.servicenow.com/bundle/store-it-operations-management/page/product/itom/concept/store-it-operations-management.html" rel="nofollow">documentation</a> page to get more details on the out of band content updates. </p>

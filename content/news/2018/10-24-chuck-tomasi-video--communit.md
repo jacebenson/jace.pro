@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2018-10-23T21:27:52.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=2d58fac2db512b40fb4ae15b8a961951"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="community?id&#61;community_question&amp;sys_id&#61;7468c2c2db91a740fb4ae15b8a961901" target="_blank" rel="nofollow">Non-admin users can edit some user fields</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;f5a60a42db9d6b4011762183ca9619ab" target="_blank" rel="nofollow">Cannot delete an automated indicator</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;c28e4acadbd1ab4011762183ca96192c" target="_blank" rel="nofollow">ServiceNow integration with Sailpoint</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;5a02ca82db91e7401089e15b8a961987" target="_blank" rel="nofollow">Replace the Virtual Agent icon</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;d88db94adb196b4011762183ca96198d" target="_blank" rel="nofollow">Deleted CI relationship if CI is retired or decommissioned</a></li><li>Users picking assignment groups</li><li>Laptop and desktop classification options</li><li>What is gsftSubmit()?</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream" target="_blank" rel="nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/kXTTPUKU-LE" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="nofollow">Twitch</a>.</p>

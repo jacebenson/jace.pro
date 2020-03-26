@@ -1,0 +1,6 @@
+---
+title: "Welcome and Save the Date"
+date: 2008-11-14T03:11:39.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=625da629dbd0dbc01dcaf3231f961990"
+---
+<p>I wanted to take a moment and welcome everyone to the Ohio Local User Group (OLUG). I've been in contact with Terry Brown, our account executive for the Ohio area, and Rob Woodbyrne of SNC to help put together a list of potential companies and people who might be interested in participating in the LUG. I'll be sending out some invites shortly!<br /><br />To kick things off properly, I'm asking anyone interested to save the afternoon of December 2nd, 2008 for our first organizational meeting in downtown Columbus. We're still scoping specific sites, so the final location is still TBD (likely Due Amici or nearby if you're familiar) and we will be updating the event and invitees when have more details. Aside from meeting SNC will be present speaking on Graphical Workflow and a reporting metrics.<br />All are welcome to join, for this afternoon and if you can't make this, I encourage all to join the OLUG to keep in the loop on other events and opportunities.<br /><br />Kind Regards,<br />Garrick<br /><br />P.S. And yes, to answer a few questions, the moniker is an homage to an alma matter.</p>

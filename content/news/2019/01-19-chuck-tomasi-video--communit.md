@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2019-01-18T20:10:11.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=742bdacadbc3af409a64e15b8a961907"
+---
+<p>Episode topics include:</p>
+<ul><li>Followup - Knowledge 19 Pre-con training schedule coming in March</li><li>Followup - Advanced reference qualifiers on catalog items and forms</li><li><a href="community?id&#61;community_question&amp;sys_id&#61;28b046c2db8b23807d3e02d5ca9619ef" target="_blank" rel="noopener noreferrer nofollow">How to get reference data from another field in user form using script include.</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;2a01c646db47e300107d5583ca96190f" target="_blank" rel="noopener noreferrer nofollow">Business rule for Jakarta: Close Child Incidents when parent is closed</a></li><li>What is the difference between incident.parent and incident.parent_task?</li><li><a href="community?id&#61;community_question&amp;sys_id&#61;250eca4adb8723806c1c02d5ca96197b" target="_blank" rel="noopener noreferrer nofollow">View Rule by Assignment Group</a></li><li>Views and view user Preferences</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream/tree/master/2019-01-18" target="_blank" rel="noopener noreferrer nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/tRMG-S2c81w" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="noopener noreferrer nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="noopener noreferrer nofollow">Twitch</a>.</p>

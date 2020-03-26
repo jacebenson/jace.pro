@@ -1,0 +1,6 @@
+---
+title: "Spotlight on Performance Analytics in Istanbul"
+date: 2017-01-10T22:14:33.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=bf7de269dbd0dbc01dcaf3231f961949"
+---
+<p>Istanbul comes with some exciting new updates for Performance Analytics. We are continuing to deliver on the promise of analytics for everyone by focusing on powerful enhancements that provide deep insight and drive performance at every level of the business.</p><p></p><p>Here's a brief overview of the top new features in the Istanbul release:</p><p></p><ul style="list-style-type: disc;"><li><span style="font-weight: normal;">Spotlight — weighted, aggregated KPIs for pinpointing process performance hotspots so that you can take corrective action quickly and efficiently.</span></li><li><span style="font-weight: normal;">Responsive canvas — drag and drop design enables users to easily rearrange report elements in real-time.</span></li><li><span style="font-weight: normal;">Related list conditions — let advanced users easily combine two sets of data directly within your workflow in just a few clicks. </span></li><li><span style="font-weight: normal;">And more</span></li></ul><p></p><p><span style="font-weight: normal;">Stay tuned for more detail on some of these exciting new features!</span></p>

@@ -1,0 +1,6 @@
+---
+title: " fields in  row  Catalog Item"
+date: 2014-05-21T00:59:44.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=e31ea26ddbd0dbc01dcaf3231f961910"
+---
+<p>If you've ever created a Service Catalog item with more than a couple fields it's likely been an annoying process. Without a little creative thinking and a lot of trial and error it can be difficult to get the right layout on your form.</p><p></p><p>Today I had to transition two fields [Employee Name &amp; Nickname] to individual fields [first name, middle name, last name, nickname]. If you go with the common layout of one container, two columns, it doesn't look very nice. I wanted to share what I came up with.</p><p></p><p>By nesting two containers, within a container, I was able to create 1 row with 4 fields. Below is the end result and variables required to accomplish.</p><p></p><p><strong>Container Start:</strong> 2 Columns Wide, alternating sides</p><p></p><p><img   alt="OnboardingName.jpg" class="image-0 jive-image" src="99cea8c2dbd857049c9ffb651f96195f.iix" style="height: 349px; width: 620px;"/></p><p></p><p><img   alt="OnboardingNameVar.jpg" class="jive-image image-2" src="8d8ec80adb9c1344e9737a9e0f9619d3.iix" style="height: 529px; width: 620px;"/></p>

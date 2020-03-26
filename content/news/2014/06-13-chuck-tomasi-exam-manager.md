@@ -1,0 +1,6 @@
+---
+title: "Exam Manager"
+date: 2014-06-12T20:44:17.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=acbde6a9dbd0dbc01dcaf3231f961995"
+---
+<p>The Exam Manager application is available for <a title="hare.servicenow.com/app.do#/detail/6e69783b2bcd2100bc401d2be8da1585" href="https://share.servicenow.com/app.do#/detail/6e69783b2bcd2100bc401d2be8da1585">download on the share site</a>.</p><p></p><p>The Exam Manager application builds on the easy-to-use ServiceNow platform to quickly create, manage, and administer exams. The system is designed around multiple choice style questions to be delivered to multiple users. The student (user) interface is a custom UI page to make the exam taking process intuitive. If you have any type of internal training, this is a great way to validate the students' knowledge.</p><p></p><p><img  alt="exam.png" class="image-0 jive-image" height="290" src="d2481002db989fc068c1fb651f96195a.iix" style="height: 289.96px; width: 423px;" width="423"/></p><p></p><p>Find out more by <a title="w.youtube.com/watch?v=B4IsZJ_smFM&list=UUCWZZ36VKpgniXCoRNAKLHw&feature=share" href="http://www.youtube.com/watch?v=B4IsZJ_smFM&amp;list=UUCWZZ36VKpgniXCoRNAKLHw&amp;feature=share">watching the video.</a></p>

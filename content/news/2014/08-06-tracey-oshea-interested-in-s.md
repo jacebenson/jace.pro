@@ -1,0 +1,6 @@
+---
+title: "Interested in sharing how you use ServiceNow at the upcoming SNUG"
+date: 2014-08-06T01:48:04.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=e94e26addbd0dbc01dcaf3231f96193f"
+---
+<p>New England ServiceNow Community,</p><p></p><p>We are looking for one more customer presenter at the upcoming SNUG on August 13th in Foxborough!   </p><p></p><p>It would involve 20 minutes of presentation - ppt slides or a demo, or a combination of the two - followed by 10 minutes of Q&amp;A.   Popular topics are CMDB/Discovery, PPM, Knowledge Management, CreateNow/Application Development, non IT Use Cases like HR, Facilities, etc.</p><p></p><p><span>The best part about these SNUGs is customers learning from other customers...so if you'd like to share how your organization is using ServiceNow, please email me, Tracey O'Shea at </span><a title="k-email-small" class="jive-link-email-small" href="mailto:Tracey.OShea@servicenow.com">Tracey.OShea@servicenow.com</a><span>. </span></p><p></p><p>Thanks!!</p>

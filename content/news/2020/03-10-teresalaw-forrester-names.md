@@ -1,0 +1,15 @@
+---
+title: "Forrester Names ServiceNow a Leader in The Forrester Wave for Governance Risk and Compliance Platforms Q "
+date: 2020-03-09T23:28:41.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=a7aba5c8db2b8c904819fb243996196b"
+---
+<p>I am excited to share that ServiceNow has been named a Leader in the Forrester Wave™ for Governance, Risk, and Compliance Platforms! <a name="_ftnref1"></a><a href="https://www.servicenow.com/lpayr/forrester-wave-leader-grc.html" rel="nofollow">[1]</a>    We’re humbled by the great work our customers and partners are doing every day with our GRC solutions and the Now Platform.    </p>
+<p>What really stands out for me as I read the Forrester Wave is the consistency between what the analysts are saying what I hear from customers. </p>
+<ol><li>The pace of change caused by innovation is accelerating</li><li>A laser focus on the customer experience is no longer optional</li></ol>
+<p>The former generates new risks and causes existing risks to evolve.  It seems everywhere organizations are calling for an integrated approach to managing risk – one that is more holistic across the enterprise. The latter point, I believe, is a recognition that to get this holistic view of risk you must engage the employees on the front line that are responsible for the services, applications, and processes that drive the business.</p>
+<p>Organizations are betting on digital initiatives to drive competitive advantage.  They can’t generate value if they don’t take risks – but those digital risks must be managed. Traditional or legacy products are not up to the task.</p>
+<p>A modern approached that embeds risk management and compliance into front-line workflows and familiar user experiences is what’s called for. ServiceNow connects the business, security, IT, and third parties within an integrated risk framework that transforms manual, siloed, unfamiliar user experiences into a unified program built on a single platform. ServiceNow powers the business with risk-informed decisions embedded in daily work.  We are proud to be recognized as a leader by Forrester.</p>
+<p>Read Forrester Wave for Governance, Risk, and Compliance platforms <a href="https://www.servicenow.com/lpayr/forrester-wave-leader-grc.html" rel="nofollow">here</a></p>
+<p> </p>
+<p><a name="_ftn1"></a>* The Forrester Wave™ is copyrighted by Forrester Research, Inc. Forrester and Forrester Wave™ are trademarks of Forrester Research, Inc. The Forrester Wave™ is a graphical representation of Forrester’s call on a market and is plotted using a detailed spreadsheet with exposed scores, weightings, and comments. Forrester does not endorse any vendor, product, or service depicted in the Forrester Wave™. Information is based on best available resources. Opinions reflect judgment at the time and are subject to change.</p>
+<p><u>[1]</u> The Forrester Wave for Governance, Risk, and Compliance platform, Alla Valente and Renee Murphy with Amy DeMartine, Matthew Flug, and Peggy Dostie, March 9, 2020.</p>

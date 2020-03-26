@@ -1,0 +1,6 @@
+---
+title: "Integrating with GitHub"
+date: 2016-08-17T01:18:54.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=576caea1dbd0dbc01dcaf3231f961963"
+---
+<p>ServiceNow recently introduced the ability to sync the platform apps you're developing to <a title="ithub.com/captainmorgan" href="https://github.com/captainmorgan">GitHub</a>, the popular hosted source code repository platform.   It's not everyday that two industry-leading platforms come together in such a way to make platform application development so easy.</p><p></p><p>We made a YouTube video walking through the setup and integration process with real examples.   Check out the video here:</p><p><iframe src="https://youtube.com/embed/b8Wqb_lKJzY" width="440" height="330"/></p><p></p><p>In the video, we show how we created a repository in GitHub and uploaded a new ServiceNow application to it.   We then show how commits and changes are made and how the source code and app can be downloaded into a separate instance.</p><p></p><p>Are you excited about being able to sync to ServiceNow apps to GitHub?   Let us know in the comments below or shoot Stave an email.</p>

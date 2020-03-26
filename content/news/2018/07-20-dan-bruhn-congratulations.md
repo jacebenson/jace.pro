@@ -1,0 +1,12 @@
+---
+title: "Congratulations  Leaders"
+date: 2018-07-19T21:42:12.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=fff2e017db9b5f401cd8a345ca96190d"
+---
+<p>The ServiceNow <a href="community?id&#61;community_article&amp;sys_id&#61;5d0daaa5dbd0dbc01dcaf3231f961946" rel="nofollow">Leader Program</a> is our bi-yearly recognition of top ranked contributors on ServiceNow&#39;s community leaderboards. The leaderboards display points achieved for technical knowledge demonstrated in the community. The ServiceNow Leader status is granted to employees and non-employees, based on achievement.  </p>
+<p><img style="max-width: 100%; max-height: 480px;" src="4250281bdb1b5f401cd8a345ca961949.iix" /></p>
+<p>January-July Leader awardees:</p>
+<p><a href="community?id&#61;community_user_profile&amp;user&#61;d13f0e65db181fc09c9ffb651f961905" rel="nofollow">Mike Patel</a><br /><a href="community?id&#61;community_user_profile&amp;user&#61;2a131665db1c1fc09c9ffb651f9619fb" rel="nofollow">Ashutosh Munot</a><br /><a href="community?id&#61;community_user_profile&amp;user&#61;7ae05a61db981fc09c9ffb651f9619a2" rel="nofollow">Chuck Tomasi</a><br /><a href="community?id&#61;community_user_profile&amp;user&#61;703f4a65db181fc09c9ffb651f9619e2" rel="nofollow">Jon Barnes</a><br /><a href="community?id&#61;community_user_profile&amp;user&#61;ce3fce65db181fc09c9ffb651f96192f" rel="nofollow">Pradeep Sharma</a><br /><a href="community?id&#61;community_user_profile&amp;user&#61;169ecae9dbd41fc09c9ffb651f961975" rel="nofollow">Allen Andreas</a><br /><a href="community?id&#61;community_user_profile&amp;user&#61;2d6e8a29dbd41fc09c9ffb651f961910" rel="nofollow">David Dubuis</a><br /><a href="community?id&#61;community_user_profile&amp;user&#61;7ac2d221db1c1fc09c9ffb651f961980" rel="nofollow">Adam Stout</a><br /><a href="community?id&#61;community_user_profile&amp;user&#61;c060d269db581fc09c9ffb651f961901" rel="nofollow">Michael Ritchie</a><br /><a href="community?id&#61;community_user_profile&amp;user&#61;90e1da21dbd81fc09c9ffb651f961977" rel="nofollow">Brad Tilton</a><br /><a href="community?id&#61;community_user_profile&amp;user&#61;66431a29db1c1fc09c9ffb651f96192b" rel="nofollow">Archana Reddy</a><br /><a href="community?id&#61;community_user_profile&amp;user&#61;9a72daa9dbd81fc09c9ffb651f96192f" rel="nofollow">Rajesh Mushkhe</a></p>
+<p>Please join me in congratulating our awardees!</p>
+<p>Cheers,</p>
+<p>Dan</p>

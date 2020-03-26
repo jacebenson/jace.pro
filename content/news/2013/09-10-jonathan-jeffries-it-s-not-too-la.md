@@ -1,0 +1,6 @@
+---
+title: "Its Not Too Late Call for Speaker at the Next New Jersey User Group"
+date: 2013-09-10T00:21:40.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=96bdaaa9dbd0dbc01dcaf3231f9619c9"
+---
+<p>Have a great ServiceNow story? What to share your ServiceNow success? Our goal is to harness and spread the experience contained within the ServiceNow New Jersey User Group by creating a platform for ServiceNow customers, partners and industry experts to share their experiences.<br /><br />If you have done something special with the ServiceNow platform or have relevant knowledge surrounding IT management including process design, organizational alignment or transformation strategies, we want you to share it with the community.<br /><br />We are looking to have one 30minute presentation at our October 14, 2013 meeting in Princeton, New Jersey.<br /><br />If you are interested in speaking, please email Jonathan Jeffries - jonathan.jeffries@servicenow.com with the following information by SEPTEMBER 27, 2013:<br /><br />Name First and Last:<br />Company:<br />Email:<br />Topic and Synopsis of your Presentation.<br /><br />Thank you so much and we look forward to sharing your experiences!</p>

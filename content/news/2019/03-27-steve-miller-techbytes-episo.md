@@ -1,0 +1,12 @@
+---
+title: "TechBytes Episode  Coaching application"
+date: 2019-03-27T02:50:56.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=631789bbdb907b48190dfb24399619af"
+---
+<p><iframe title="Episode 49: Coaching application" src="https://omny.fm/shows/servicenow-techbytes/episode-49-coaching-application/embed?style&#61;cover" width="100%" height="180"></iframe></p>
+<p>In this episode, product manager <a href="https://community.servicenow.com/community?id&#61;community_user_profile&amp;user&#61;a7009625db581fc09c9ffb651f96195a" target="_blank" rel="noopener noreferrer nofollow">Manjeet Singh</a> talks about the new Coaching application on the Now Platform. Coaching helps you train service desk agents and other employees at critical moments in their job processes, with conditional automated virtual coaching right when they need it. This episode covers:</p>
+<ul><li>Roles: coach and trainee</li><li>The coaching process</li><li>Virtual coaching</li><li>Building coaching into a workflow</li><li>Integrating other ServiceNow capabilities</li></ul>
+<p>For more information, see:</p>
+<ul><li>Product Documentation: <a href="https://docs.servicenow.com/bundle/madrid-it-service-management/page/product/coaching/concept/coaching-landing.html" target="_blank" rel="noopener noreferrer nofollow">Coaching</a></li><li>Product Documentation: <a href="https://docs.servicenow.com/bundle/madrid-release-notes/page/release-notes/it-service-management/coaching-rn.html" target="_blank" rel="noopener noreferrer nofollow">Coaching release notes – Madrid</a></li></ul>
+<p>Your feedback helps us serve you better! Did you find this podcast helpful? Please leave a comment to tell us why or why not.</p>
+<p>To catch clips behind the scenes with our guests and hear about new episodes before they’re published, follow <a href="https://twitter.com/NOWsupport" target="_blank" rel="noopener noreferrer nofollow">&#64;NOWsupport on Twitter.</a> You can also search Twitter using <a href="https://twitter.com/search?f&#61;tweets&amp;vertical&#61;default&amp;q&#61;%23sntechbytes&amp;src&#61;typd" target="_blank" rel="noopener noreferrer nofollow">#SNtechbytes</a> for previous podcasts, video clips and pictures.</p>

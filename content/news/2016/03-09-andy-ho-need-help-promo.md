@@ -1,0 +1,6 @@
+---
+title: "Need help promoting our Certified Application Developer program"
+date: 2016-03-09T03:43:52.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=c38c6ae1dbd0dbc01dcaf3231f961903"
+---
+<p>At Knowledge15 last year, we had 400 people register for our inaugural release of our <a title="w.servicenow.com/services/training-and-certification/certified-application-developer.html" href="http://www.servicenow.com/services/training-and-certification/certified-application-developer.html">ServiceNow Certified Application Developer</a> (CAD) exam. We are gearing up for another 400 slots at this year's K16 event, specifically at CreatorCon. In order to help promote our event, we were hoping to get some quotes from individuals that have already passed the exam. If you have passed our exam before and wouldn't mind lending a few minutes of your time to me, please let me know via comments here, direct message, or drop me a tweet <a title="witter.com/techtrainingtip" href="https://twitter.com/techtrainingtip">@techntrainingtip</a></p><p></p><p>Thank you for your support of our Certification and Training programs!</p>

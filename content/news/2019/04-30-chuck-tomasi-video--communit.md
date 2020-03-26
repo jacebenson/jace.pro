@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2019-04-29T19:13:36.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=77746a62db457bc4a39a0b55ca961998"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;84e6d2a2dbc5bf045129a851ca961971" target="_blank" rel="noopener noreferrer nofollow">My Approval Widget is not displaying to everyone</a></li><li>Mobile apps tables and roles</li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;f2b55e2adbc13b04d82ffb24399619ff" target="_blank" rel="noopener noreferrer nofollow">Ajax call onsubmit in client script failing</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;a5259e2edb45bf045129a851ca961995" target="_blank" rel="noopener noreferrer nofollow">How to show UTC time in INC/PRB/REQ/CHG email notifications?</a></li><li>UI action client scripts - getting a sys_id</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream/tree/master/2019-04-29" target="_blank" rel="noopener noreferrer nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/00bQ4LRMRw4" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="noopener noreferrer nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="noopener noreferrer nofollow">Twitch</a>.</p>

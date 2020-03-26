@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2019-01-16T20:31:21.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=6bcccc21dbc7e7401089e15b8a96194d"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="community?id&#61;community_question&amp;sys_id&#61;f96abbdddb43e340afc902d5ca9619fe" target="_blank" rel="noopener noreferrer nofollow">Scripted notification recipients</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;b1f43fdddb4f23409a64e15b8a9619cc" target="_blank" rel="noopener noreferrer nofollow">Inbound Email Action for Approving / rejecting the request through email</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;231aa715db8f6740fb4ae15b8a9619bf" target="_blank" rel="noopener noreferrer nofollow">Password reset logs</a></li><li>Notifications and events</li><li>Sys_popup view</li><li>How to find things in global using code search?</li><li><a href="https://developer.servicenow.com/app.do#!/api_doc?v&#61;london&amp;id&#61;c_GlideTableHierarchyScopedAPI" target="_blank" rel="noopener noreferrer nofollow">GlideTableHierarchy</a></li><li>Using properties and getDisplayValue()</li><li>A hint at what’s coming tomorrow!</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream/tree/master/2019-01-16" target="_blank" rel="noopener noreferrer nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/VvHRr5CZAu8" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="noopener noreferrer nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="noopener noreferrer nofollow">Twitch</a>.</p>

@@ -1,0 +1,28 @@
+---
+title: "Vendor Risk Understanding Vendor Risk Management with ServiceNow"
+date: 2019-02-06T03:08:39.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=96876804dbafa700f21f5583ca96191f"
+---
+<p>Your company probably uses a lot of third-party vendors - some provide IT or financial services, others deliver coffee supplies and food, while still others wash the windows and stock the restrooms. But all of these vendors are not the same in terms of risk.</p>
+<p>Have you asked yourself:</p>
+<ul><li>Which vendors have the potential to put our organization at risk for business disruption or any negative impact on our business performance?</li><li>How do we evaluate and manage that risk? Can we automate that process?</li><li>How do we collaborate with vendors to ensure their compliance with our requirements?</li></ul>
+<p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="a53ca4c4db6f6700fb4ae15b8a9619a4.iix" width="617" height="335" /> </p>
+<p style="text-align: left;">That&#39;s where Vendor Risk Management comes in!</p>
+<p style="text-align: left;">In this installment of our <a title="" href="community?id&#61;community_blog&amp;sys_id&#61;6e7d6269dbd0dbc01dcaf3231f9619c0" rel="nofollow">NOWSupport best practices series</a>, we run down the steps for getting started with Vendor Risk Management in your enterprise. </p>
+<p>And don&#39;t miss our video below for more details, and to see product demos showing you how to:</p>
+<ul><li>Create automated submission rules</li><li>Collaborate with vendors via the Vendor Portal</li></ul>
+<h3><iframe id="video_tinymce" style="width: 100%; height: 480px;" src="https://www.youtube.com/embed/zjm52XrjBzU"></iframe></h3>
+<h3>What is Vendor Risk Management?</h3>
+<p>Vendor Risk Management is an application within the <a title="Governance, Risk and Compliance (GRC)" href="https://docs.servicenow.com/bundle/madrid-governance-risk-compliance/page/product/grc-common/reference/r_WhatIsGRC.html" target="_blank" rel="noopener noreferrer nofollow">Governance, Risk, and Compliance (GRC)</a> suite on the Now Platform®. This application provides a centralized process to continuously monitor, detect, assess, mitigate, and remediate risks in your vendor ecosystem.</p>
+<h3>How do I get started with Vendor Risk Management?</h3>
+<ol><li><strong>Subscribe to Vendor Risk Management. </strong>Starting with the Madrid release, you can request Vendor Risk Management from the <a href="https://store.servicenow.com/sn_appstore_store.do#!/store/home" rel="nofollow">ServiceNow Store</a>. If your instance is on a release prior to Madrid, activate the GRC: Vendor Risk Management plugin (com.sn_vdr_risk_asmt). <br /><br /></li><li><strong>Set up your vendor portfolio</strong> by importing vendors from an Excel spreadsheet or from your vendor table, or via an integration with a third-party onboarding system.<br /><br /><img style="max-width: 100%; max-height: 480px;" src="05a3ac58dbabeb401089e15b8a961922.iix" width="629" height="197" /><br /><br /></li><li><strong>Determine vendor risk via vendor tiering scores</strong>. This is a multi-step process, which takes into account internal assessments, input from external third-party security scores, and input from vendors themselves.<br /><br /></li><li>
+<ol><li><strong>Assign Vendor Tier Risk Assessments to internal stakeholders.</strong> The average score provides an initial vendor tier.</li><li><strong>Monitor third-party security scores</strong>. Based on this input, you may decide to manually adjust a vendor&#39;s tier, or you can set up automated security score rules to automatically send out new risk assessments when security performance changes are detected.</li><li><strong>Assign risk assessments to the primary vendor contact</strong>. These assessments can be scheduled to be sent on-demand, on a regular basis or automatically when a vendor&#39;s risk score or vendor tier changes.<br /><br /></li></ol>
+</li><li><strong>Generate issues and remediate them using the Vendor Portal</strong>. Assessments are delivered in the Vendor Portal, allowing vendors and risk assessors to collaborate on and resolve issues identified as gaps in a vendor&#39;s compliance.<br /><br /></li></ol>
+<p style="text-align: center;"> <img style="max-width: 100%; max-height: 480px;" src="6c388be8db63e740fb4ae15b8a9619f8.iix" /></p>
+<p> </p>
+<h3>For more information</h3>
+<p><a title="Vendor Risk Management" href="https://docs.servicenow.com/bundle/london-governance-risk-compliance/page/product/grc-vendor-risk/reference/vendor-risk-mgmt-landing-page.html" target="_blank" rel="noopener noreferrer nofollow">Vendor Risk Management</a> (product documentation)</p>
+<p>--</p>
+<p>Behind the scenes here at ServiceNow, the Knowledge Management and Multimedia teams work closely with subject matter experts to deliver critical information to our customers. We’ve found that certain topics come up frequently, in the form of best practices that can help you keep your ServiceNow instances running smoothly. This series targets those topics so that you and your organization can benefit from our collective expertise. If you have a best practices topic you&#39;d like us to cover in this series, please let us know in the comments below.</p>
+<p>To access all the blog posts in this series, see our <a title="NOWSupport best practices series list" href="community?id&#61;community_blog&amp;sys_id&#61;6e7d6269dbd0dbc01dcaf3231f9619c0" target="_blank" rel="noopener noreferrer nofollow">NOWSupport best practices series list</a>.</p>
+<div class="cm-attachments-body"> </div>

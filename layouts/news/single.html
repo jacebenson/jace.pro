@@ -1,44 +1,44 @@
 {{- define "main" -}}
-{{ $feeds := site.Data.feeds }}
-<div class="container">
-  <section id="news" class="home-section wg-pages">
-    
-<h1 class="hero-title">
-  All ServiceNow news updated on <span>
-    <a href="https://app.netlify.com/sites/flamboyant-sinoussi-bbae45/deploys">{{ dateFormat "2006-01-02" now }}</a>
-  </span>
-</h1>
 
-<table>
-  <thead>
-    <td>Date</td>
-    <td>Type</td>
-    <td>Site</td>
-    <td>Link</td>
-  </thead>
-  <tr>
-    <td colspan="4">
-      Is your content missing here?  Open a 
-      <a target="_blank" href="https://github.com/jacebenson/jace.pro/issues/new?template=add_news.md">issue</a>.
-    </td>
-  </tr>
-  {{ range sort $feeds "date" "desc" }}
-  <tr>
-    <td alt='{{ dateFormat "02 Jan 2006 15:04" .date }}'>{{ dateFormat "02 Jan 2006" .date }}</td>
-    <td>{{ .category }}</td>
-    <td>{{ .site }} 
-      {{ if eq .category "Blog" }}
-      - {{ .author }}
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  {{ partial "page_header" . }}
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      {{ .Content | markdownify }}
+    </div>
+
+    {{ partial "page_edit" . }}
+
+    {{ partial "tags" . }}
+
+    {{ if ne .Type "page" }}
+      {{ partial "page_author" . }}
+      {{ $related := site.RegularPages.Related . | first 5 }}
+      {{ with $related }}
+      <div class="article-widget">
+        <div class="hr-light"></div>
+        <h3>{{ i18n "related" }}</h3>
+        <ul>
+          {{ range . }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
       {{ end }}
-    </td>
-    <td>
-      <a href="{{ .link }}" target="_blank">{{ .title }} </a>
-    </td>
-  </tr>
-  {{ end }}
-</table>
+    {{ end }}
 
-</section>
+    {{ if site.Params.section_pager }}
+    <div class="article-widget">
+      {{ partial "section_pager" . }}
+    </div>
+    {{ end }}
 
-</div>
+    {{ partial "comments" . }}
+
+  </div>
+</article>
+
 {{- end -}}

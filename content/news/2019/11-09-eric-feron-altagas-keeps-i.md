@@ -1,0 +1,17 @@
+---
+title: "AltaGas keeps it simple with outofthebox GRC"
+date: 2019-11-09T00:24:07.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=9fa81178db4d44941cd8a345ca9619dd"
+---
+<p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/6b3855b0db4d44941cd8a345ca961929.iix" /></p>
+<p>Few industries are more heavily regulated than gas and utilities. From environmental laws to worker-safety standards, the compliance burden is intense. For Calgary-based AltaGas, governance, risk and compliance (GRC) management grew even more complex with its 2017 acquisition of WGL Energy.</p>
+<p>At a Knowledge 2019 breakout session, Renato Cunha, AltaGas’s cybersecurity lead, described the GRC challenges created by the merger. AltaGas and WGL had different processes to manage, cybersecurity, risk and compliance, which had to be aligned. One of the requirements to complete the integration of their system’s was to have both companies with an equivalent level of maturity of their security processes.  </p>
+<p>The merger compounded already serious problems in AltaGas’s existing cybersecurity and GRC processes. They scored low on the maturity model for effective risk management, and they provided little visibility into the risks that the security team had to manage. The approval process was inefficient and manual, and it required multiple sign offs. Worst of all, the data was dispersed across multiple platforms, making issue tracking and risk management “a spreadsheet nightmare,” Cunha said.</p>
+<p>AltaGas turned to ServiceNow’s GRC solution on the Now Platform. While colleagues pushed for alternate vendors whose products they had used before, such as Archer , Cunha pitched ServiceNow for its simplicity, robust platform and faster deployment. The GRC module was ready to use without any customization, supporting the AltaGas’ goals.</p>
+<p>“We implemented Risk Management 100% out of the box, and we did it in 45 days.” Cunha said. “We kept it simple from Day 1.”</p>
+<p>Using ServiceNow’s Risk Management GRC module, AltaGas created a centralized register to track more than 180 risk factors from 15 data sources and also automated the risk acceptance process, which had been a manual and very inefficient process. With ServiceNow, everything is on one page. Because the module did not require customization, the company was able to boost its maturity score almost immediately. </p>
+<p>Using ServiceNow allowed AltaGas to increase the maturity of the cybersecurity and GRC processes and enable a better alignment with WGL’s security processes. </p>
+<p>The seven-step implementation took a mere six weeks, from installation and configuration through user training and QA. Cunha stressed that the rapid deployment was made possible because his team started with a solid understanding of the model’s out-of-the-box capabilities.</p>
+<p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/86685534db4d44941cd8a345ca9619f5.iix" /></p>
+<p>Once a company recognizes that its GRC processes are inadequate, Cunha said, an out-of-the-box solution like ServiceNow GRC is an effective way to make quick improvements.  We have now begun implementing Policy and Compliance with the same approach to support the final assessment that will allow us to complete the system integration between the two companies.</p>
+<p>“Out of the box can address most of your needs and give you rapid maturity gains,’ Cunha said. “And the flexibility is there if you need it, when you need it.”</p>

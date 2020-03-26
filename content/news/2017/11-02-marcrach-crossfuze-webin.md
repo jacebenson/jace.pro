@@ -1,0 +1,6 @@
+---
+title: "Crossfuze Webinar Series  ServiceNow and CSM Rasing CSAT While Reducing Costs"
+date: 2017-11-02T03:56:55.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=24ac6225dbd0dbc01dcaf3231f9619c5"
+---
+<p>Join us for this educational webinar featuring our special guest, Christopher Mills, Senior Sales Director — WW Customer Service Management (CSM) at ServiceNow to learn about specific use cases and how other ServiceNow clients have transformed their CSM at warp speed. You'll learn:</p><ul style="list-style-type: disc;"><li>How ServiceNow helps deliver effortless service</li><li>How to focus your organization on being customer-centric</li><li>How to take a proactive approach to service</li></ul><p></p><p><strong>Register Today:</strong> <a title="ww.crossfuze.com/servicenow-csm/" href="https://www.crossfuze.com/servicenow-csm/">https://www.crossfuze.com/servicenow-csm/</a> </p><p><br/> We hope you can join us!</p><p></p><p><strong>Where and When:</strong></p><p></p><p>Start Time: November 15, 2017 at 2pm EST</p><p>End Time: November 15, 2017 at 3pm EST</p><p>   <span lang="EN" style="font-size: 11.0pt; font-family: 'Arial',sans-serif;">Where: <a title="ww.crossfuze.com/servicenow-csm/" href="https://www.crossfuze.com/servicenow-csm/">https://www.crossfuze.com/servicenow-csm/</a></span></p>

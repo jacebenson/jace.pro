@@ -1,0 +1,16 @@
+---
+title: "Planning for and Recovering from the Worst  Fairchild Resiliency Systems"
+date: 2019-05-07T02:05:16.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=96d58089db91bb08fece0b55ca9619d2"
+---
+<p>Worst-case scenario varies widely by type of organization and industry.  While Fairchild Resiliency Systems can’t provide a specific scenario for any single organization, we can provide a rough estimate of how much downtime costs.  <a href="https://blogs.gartner.com/andrew-lerner/2014/07/16/the-cost-of-downtime/" rel="nofollow">Gartner</a> cites industry studies that place the figure at $5,600 per minute of network downtime.  This equates to $336,000 per hour.  The numbers are even more staggering when we focus on data center outages.  Analyzing worst-case scenario is inherently a ‘bad news’ endeavor, but there is good news: MaestroRS™ can help you plan and exercise for the worst, and those leveraging the ServiceNow platform are ahead of the game.</p>
+<p>Leveraging the <a href="http://www.servicenow.com" rel="nofollow">ServiceNow</a> platform Fairchild’s <a href="https://fairchildrs.com/maestrors" rel="nofollow">MaestroRS</a>, GRC, and Sec Ops supports the Gartner Integrated Risk Management (IRM) vision so you can be ready to recover from the worst.  Maestro and ServiceNow partner to enable analysis, design, implementation and validation – the four phases identified by The <a href="https://www.thebci.org/knowledge/introduction-to-business-continuity.html" rel="nofollow">Business Continuity Institute</a> (BCI) depict the lifecycle of Business Continuity and Disaster Recovery (BC/DR). </p>
+<p><strong> <img src="https://community.servicenow.com/ce65c085db91bb08fece0b55ca96198d.iix" /></strong></p>
+<p>Figure 1: BCI Business Continuity/Disaster Recovery Lifecycle</p>
+<p><strong>Analysis</strong> <strong>Phase</strong> – the organization is analyzed to formulate viable strategies helping to ensure continued operational resilience</p>
+<p><strong>Design Phase</strong> – informed solutions are architected to mitigate risk, respond to incidents, and recover operations from disruptions leveraging the data collected in the Analysis Phase</p>
+<p><strong>Implementation</strong> – solutions are moved from design to practice in the form of response and recovery frameworks and plans</p>
+<p><strong>Validation</strong> – readiness is enhanced through ongoing plan maintenance, plan reviews, and exercises/tests</p>
+<p>No matter the reason it is crucial that you begin to understand what the worst looks like for your organization and that you begin to take actions to protect against it.  Even the worst can be manageable assuming the right processes and tools are in place.  Establish and implement recurring processes according to the BC/DR Lifecycle.  Leverage MaestroRS in conjunction with ServiceNow to operationalize Business Continuity and Disaster Recovery by turning daily workflows into resilient practices.  With these processes and tools, the worst will start to look a lot better.</p>
+<p>Fairchild is an IRM Ecosystem Partner. Learn more at Fairchild’s <a href="https://fairchildrs.com/maestrors" rel="nofollow">MaestroRS</a> and <a href="https://www.servicenow.com/products/governance-risk-and-compliance.html" rel="nofollow">www.servicenow.com/grc</a></p>
+<p> </p>

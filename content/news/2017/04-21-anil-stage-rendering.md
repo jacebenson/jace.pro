@@ -1,0 +1,6 @@
+---
+title: "Stage rendering in RITM List view and how to control it"
+date: 2017-04-21T01:09:12.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=3cecea65dbd0dbc01dcaf3231f961967"
+---
+<p>When a catalog item is requested and when it creates RITM, the RITM Stage field shows the stage in which workflow is currently at.</p><p>Now OOB the stage would show something like this</p><p></p><p><img  class="image-1 jive-image" src="a851e502dbdcd344e9737a9e0f961949.iix" style="max-width: 1200px; max-height: 900px;"/></p><p></p><p>If I want to now show the text "waiting for Catalog Task: HR Team Task" then this is how it is achieved.</p><p>Open the workflow and set the stage rendering to <span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif;">"requested item renderer</span>" </p><p></p><p><img  class="image-3 jive-image" src="0cf65886dbd41f048c8ef4621f961916.iix" style="max-width: 1200px; max-height: 900px;"/></p><p>The out come would be as shown below.</p><p><img  class="image-2 jive-image" src="c48b30cadb1c9344e9737a9e0f9619b7.iix" style="max-width: 1200px; max-height: 900px;"/></p><p></p><p>Thanks<br/>Anil</p>

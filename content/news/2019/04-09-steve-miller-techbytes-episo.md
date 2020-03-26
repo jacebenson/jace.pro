@@ -1,0 +1,12 @@
+---
+title: "TechBytes Episode  WalkUp in Madrid"
+date: 2019-04-09T02:20:12.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=c8ccf7ffdba0fb04190dfb2439961969"
+---
+<p><iframe title="Episode 50: Walk-Up in Madrid" src="https://omny.fm/shows/servicenow-techbytes/episode-50-walk-up-in-madrid/embed" width="100%" height="180"></iframe></p>
+<p>In this episode, product manager <a href="https://community.servicenow.com/community?id&#61;community_user_profile&amp;user&#61;84501629db581fc09c9ffb651f961932" rel="nofollow">Darius Koohmarey</a> tells us about the ITSM Walk-Up Experience in the Madrid release. London streamlined the walk-up experience for people requesting IT service. In Madrid, the focus is on the fulfillers, and Darius tells us about the highlights. He also gives us some tips for migrating Walk-Up from London to Madrid. This episode covers:</p>
+<ul><li>New features for requestors</li><li>Agent Workspace for walk-up technicians</li><li>Advanced Work Assignment for routing work</li><li>Under the hood: changes since London</li><li>Tips for smooth migration to Madrid</li></ul>
+<p>For more information, see:</p>
+<ul><li>Product Documentation: <a href="https://docs.servicenow.com/bundle/madrid-it-service-management/page/product/walk-up-experience/reference/walkup-experience-landing-page.html" rel="nofollow">Walk-Up Experience</a></li><li>Product Documentation: <a href="https://docs.servicenow.com/bundle/madrid-release-notes/page/release-notes/it-service-management/walkup-experience-rn.html" rel="nofollow">Walk-Up Experience release notes</a></li><li>Video: <a href="https://www.youtube.com/watch?v&#61;Wj47Q1Fr24c" rel="nofollow">ITSM Walk-Up Experience</a></li><li>Podcast: <a href="https://community.servicenow.com/community?id&#61;community_forum&amp;sys_id&#61;bd291a2ddbd897c068c1fb651f9619bb" rel="nofollow">Episode 45: The Walk-Up Experience (London)</a></li></ul>
+<p>Your feedback helps us serve you better. Did you find this podcast helpful? Please leave a comment!</p>
+<p><em>To catch clips behind the scenes with our guests and hear about new episodes before they’re published, follow </em><a href="https://twitter.com/NOWsupport" rel="nofollow"><em>&#64;NOWsupport on Twitter.</em></a><em> You can also search Twitter using </em><a href="https://twitter.com/search?f&#61;tweets&amp;vertical&#61;default&amp;q&#61;%23sntechbytes&amp;src&#61;typd" rel="nofollow"><em>#SNtechbytes</em></a><em> for previous podcasts, video clips and pictures.</em></p>

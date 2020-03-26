@@ -1,0 +1,13 @@
+---
+title: "ServiceNow GRC  SOX Content Pack Now Available"
+date: 2018-07-20T03:39:59.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=6ce4715fdbd39f40feb1a851ca961927"
+---
+<p>I am excited to announce that the GRC SOX Content Pack is now available on the ServiceNow Store!  You can obtain more information and download it <a href="https://store.servicenow.com/sn_appstore_store.do#!/store/application/2e03fe8013705b40e94b721a6144b098/5.0.1?referer&#61;sn_appstore_store.do%23!/store/search%3Fq%3Dsox" rel="nofollow">here</a>.</p>
+<p><img style="max-width: 100%; max-height: 480px;" src="ae667d57db179f40feb1a851ca961954.iix" /></p>
+<p>The Sarbanes-Oxley Act (SOX) requires all publicly held companies to establish internal controls and procedures for financial reporting to reduce the possibility of corporate fraud.  It has been more than 10 years since the initial passage of the SOX Act and even today many organizations still struggle to fulfill their auditing and compliance requirements.</p>
+<p>The SOX content pack helps reduce the burden for internal IT and external auditors when doing SOX audits with new out-of-the-box content including templates, indicators, and reporting specific for SOX compliance; that ServiceNow itself has found invaluable.</p>
+<p>Look for a new profile structure and common risks and controls that you would find within those profiles.  Streamline the process for internal stakeholders with a predefined template and consolidated assessments and evidence to facilitate external SOX audit engagements. </p>
+<p>The SOX content pack is available at no change and can be applied as an update set to any release from Jakarta onward<strong>.  </strong>We still support the Unified Compliance Framework (UCF) integration, which is available for a fee and does include SOX content.</p>
+<p>Want to see what you’ll get - watch the <a href="https://www.youtube.com/watch?v&#61;s24du2rambw&amp;list&#61;PLCOmiTb5WX3oHXqIpMY2C0mf6FbfWLTQD&amp;t&#61;20s&amp;index&#61;12" rel="nofollow">SOX demo video</a> (note: some dashboard templates may have changed) then download it <a href="https://store.servicenow.com/sn_appstore_store.do#!/store/application/2e03fe8013705b40e94b721a6144b098/5.0.1?referer&#61;sn_appstore_store.do%23!/store/search%3Fq%3Dsox" rel="nofollow">now</a>!</p>
+<p>To learn more about ServiceNow GRC, watch the <a href="https://www.youtube.com/playlist?list&#61;PLCOmiTb5WX3oHXqIpMY2C0mf6FbfWLTQD" rel="nofollow">demo videos </a>on Nowsupport or visit <a href="https://www.servicenow.com/products/governance-risk-and-compliance.html" rel="nofollow">www.servicenow.com/grc</a></p>

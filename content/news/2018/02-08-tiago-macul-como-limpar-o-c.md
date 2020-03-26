@@ -1,0 +1,6 @@
+---
+title: "Como limpar o cache"
+date: 2018-02-07T08:59:29.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=7ddca665dbd0dbc01dcaf3231f961991"
+---
+<h1 class="title style-scope ytd-video-primary-info-renderer" style="background: #ffffff; font-weight: 400; color: var(--ytd-video-primary-info-renderer-title-color, var(--yt-primary-text-color)); font-family: Roboto, Arial, sans-serif; font-size: var(--ytd-video-primary-info-renderer-title-font-size, 1.8rem);">How to clear the ServiceNow database cache</h1><p></p><p>Digite cache.do no navegador</p><p></p><pre __jive_macro_name="quote" class="jive_macro_quote jive_text_macro" data-renderedposition="124_8_1192_41"><p><a title="" _jive_internal="true" href="https://" rel="nofollow" target="_blank">https://</a><span>&lt;instance&gt;.service-now.com/cache.do</span></p></pre><p></p><p><img   class="jive-image" src="ba4d6802db18dfc068c1fb651f961994.iix"/></p><p></p><h1 class="title style-scope ytd-video-primary-info-renderer" style="background: #ffffff; font-weight: 400; color: var(--ytd-video-primary-info-renderer-title-color, var(--yt-primary-text-color)); font-family: Roboto, Arial, sans-serif; font-size: var(--ytd-video-primary-info-renderer-title-font-size, 1.8rem);"></h1><p></p><p><iframe src="https://youtube.com/embed/_SfOQuR_pLQ" width="440" height="330"/></p>

@@ -1,0 +1,6 @@
+---
+title: "WEBINAR Easy Knowledge Management Wins March   am CDST"
+date: 2011-03-18T03:56:41.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=ee7ca2e1dbd0dbc01dcaf3231f9619b7"
+---
+<p><b>Easy Knowledge Management Wins</b><br /><br />Join us for a Webinar on March 30<br />Space is limited.<br /><br />Reserve your Webinar seat now at:<br />https://www1.gotomeeting.com/register/117703928<br /><br />Service-now.com presents Jason Haugh of the Ohio State University Medical Center speaking about practical ways to get started small with Knowledge Management in your organization while leaving yourself room to grow. Jason is a Problem/Knowledge Manager, Process Engineer, Certified Lean Service Professional and ITIL Certified Service Practitioner.<br /><br />Title: Easy Knowledge Management Wins<br />Date:Wednesday, March 30, 2011<br />Time:9:00 AM - 10:00 AM PDT<br /><br />After registering you will receive a confirmation email containing information about joining the Webinar.<br /><br />System Requirements<br />PC-based attendees<br />Required: Windows ® 7, Vista, XP or 2003 Server<br />Macintosh ®-based attendees<br />Required: Mac OS ® X 10.4.11 (Tiger ®) or newer</p>

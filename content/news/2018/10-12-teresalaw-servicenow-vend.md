@@ -1,0 +1,17 @@
+---
+title: "ServiceNow Vendor Risk Management Integrates with SecurityScorecard"
+date: 2018-10-12T04:47:01.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=a5c9ae5adb4527c40be6a345ca96191c"
+---
+<p>What do credit ratings, SecurityScorecard, and ServiceNow Vendor Risk Management have in common?</p>
+<p>Everyone is familiar with credit ratings. When you attempt to buy a car or a house, the first thing the bank checks is your how well you’re managing your money. The higher your credit score, the more likely you are to get a loan. SecurityScorecard does the same thing — only it measures how well businesses are managing their cybersecurity posture and calculates a letter-grade security rating. Why is this important? Companies with a C, D, or F security rating are 5.4 times more likely to be breached or face compliance penalties than companies with an A or B rating.</p>
+<p><strong>ServiceNow and SecurityScorecard Tackle Vendor Risk</strong></p>
+<p>We’re excited to announce that SecurityScorecard now offers an integration with ServiceNow Vendor Risk Management, providing a comprehensive view of vendor security performance. A wealth of valuable data, collected from millions of signals and sensors across the internet, allow you to fine-tune vendor tiering to more accurately reflect the true risk posed by your business partners. ServiceNow vendor tiers dictate the type and frequency of risk assessments. Now, when a vendor’s SecurityScorecard security risk rating degrades, ServiceNow automated workflows can immediately push and mandate a new vendor assessment. Continuously monitoring the cyber health of business partners in this way helps you protect your enterprise and improve security posture across your third-party ecosystem.</p>
+<p>When viewing SecurityScorecard security ratings within ServiceNow, vendor risk managers can:</p>
+<ul><li>Instantly link to vendor scorecards to assess cybersecurity posture</li><li>Receive alerts when vendor scores degrade</li><li>Gain deeper insights by viewing overall grades and scores across 10 key risk factors</li><li>Use SecurityScorecard ratings to prioritize vendors for deeper reviews</li><li>Establish required minimum grades for vendors to maintain</li><li>Validate assessment responses with SecurityScorecard data</li><li>Invite vendors to join SecurityScorecard for free, act on issue-level remediation guidance, and improve their scores</li></ul>
+<p><img style="max-width: 100%; max-height: 480px;" src="51f76a92db4527c40be6a345ca961914.iix" /></p>
+<p><em>Multiple factors in SecurityScorecard determine a letter grade security rating, which feeds new Security Score fields and related lists in GRC</em></p>
+<p>For customers with existing ServiceNow licenses, SecurityScorecard offers both a free trial and a fully licensed version for a fee on the <u><a href="https://store.servicenow.com/sn_appstore_store.do#!/store/application/0a07e262dbdf93c09e61ef92ca96198d" rel="nofollow">ServiceNow Store</a></u>.</p>
+<p>Watch this <u><a href="https://securityscorecard-3.wistia.com/medias/09fvotwppx" rel="nofollow">VRM video</a></u> and visit <u><a href="https://securityscorecard.com/" rel="nofollow">SecurityScorecard</a></u> to learn more.</p>
+<p>Learn more about ServiceNow GRC at <u><a href="https://www.servicenow.com/products/governance-risk-and-compliance.html" rel="nofollow">www.servicenow.com/grc</a></u>.</p>
+<p> </p>

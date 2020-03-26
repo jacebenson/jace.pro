@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2019-07-31T19:26:48.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=0463eda4dbc37bc06064eeb5ca961982"
+---
+<p>Episode topics include:</p>
+<ul><li>Auto add guest to watch list on a incident</li><li>Community notifications review</li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;a584d1a8db0333c4d82ffb24399619a9&amp;view_source&#61;searchResult" target="_blank" rel="noopener noreferrer nofollow">Flow Designer | Catalog Variables | Cannot retrieve Choices in IF condition</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;c2851d601b8bb7c4d01143f6fe4bcb8b&amp;view_source&#61;searchResult" target="_blank" rel="noopener noreferrer nofollow">Save ui16 - Nuisance issue</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;ce4559a8db8b3b48d58ea345ca96199c&amp;view_source&#61;searchResult" target="_blank" rel="noopener noreferrer nofollow">Is there a way to stop a running recordwatch?</a></li><li>Using instanceof</li><li>Business Rule Debugging</li><li>Basic JavaScript string/array functions: trim(), split(), join()</li></ul>
+<p>Code snippets can be found in the <a href="http://bit.ly/sn-cls/tree/master/2019-07-31" target="_blank" rel="noopener noreferrer nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/Zo55JluVmcg" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="noopener noreferrer nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="noopener noreferrer nofollow">Twitch</a>.</p>

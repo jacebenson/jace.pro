@@ -1,0 +1,6 @@
+---
+title: "NEW Ratings Feature for Blogs and Posts"
+date: 2011-03-10T23:06:57.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=2b4da229dbd0dbc01dcaf3231f9619ac"
+---
+<p>As you may have seen, our own 'MB' laid out a great blog post today on adding custom filters to a reference field lookup. We have more than a few great bloggers here at Service-now publishing useful content on a regular basis. Additionally, we get a lot of great posts that provide great solutions to common - and not-so-common - questions.<br /><br />Recently I turned on a ratings module on the Community platform. Using a ratings system on a regular basis will help us create better content and will flag usable content for other Community members. It will help this Community grow faster if we could all take a second to use the Five-star ratings function. <br /><br />For blogs the ratings are Poor, Okay, Good, Great, and Awesome.<br /><br />For Forum posts, the ratings are 1 to 4 stars with the fifth star being "Problem Solved."<br /><br />Cheers,</p>

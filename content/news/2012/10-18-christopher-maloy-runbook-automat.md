@@ -1,0 +1,6 @@
+---
+title: "Runbook Automation and Powershell  RBA common setup issues AuthorizationManager Error"
+date: 2012-10-18T03:27:47.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=6d2e666ddbd0dbc01dcaf3231f9619f5"
+---
+<p>Yes, we have all followed this Wiki document when setting up our RBA Powershell environment:<br /><br />http://wiki.servicenow.com/index.php?title=Runbook_PowerShell_Activities_for_Workflows<br /><br />... but we keep getting an AuthorizationManager errror when trying to run the simplest Powershell command. This error looks something like this <br />AuthorizationManager check failed.At ...<br /><br />Here is the issue and it is very easy to fix. Even though you followed the Wiki and unblocked the files mentioned with Windows Enhanced Security, they are probably not unblocked. You will need to run Windows Explorer as Administrator, browse to the files and unblock. Unblocking the files as a loser user will not unblock them, even if you think you did. <br /><br />This error is common, but painful to figure out (especially if you think you already unblocked the files). Anyway, happy coding. Powershell is fun to use, but so much funner when you can incorporate it in a workflow using the RBA activities.</p>

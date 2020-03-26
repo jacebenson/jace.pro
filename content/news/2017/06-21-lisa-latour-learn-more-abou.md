@@ -1,0 +1,7 @@
+---
+title: "Learn more about the upcoming NowForum  by ServiceNow"
+date: 2017-06-21T03:56:16.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=06ec6e65dbd0dbc01dcaf3231f961992"
+---
+<p><iframe frameborder="0" height="338" src="https://www.youtube-nocookie.com/embed/CsJTFlpA3HQ" width="600">
+</iframe></p><p></p><p>NowForum is for innovative leaders ready to deliver smarter, faster business services. This complimentary one-day event, in some cities around the wolrd by ServiceNow is a unique opportunity to get practical advice and insight from experts driving the future of digital transformation. For more information (dates, locations), visit <a title="ww.servicenow.com/nowforum.html" href="https://www.servicenow.com/nowforum.html">www.servicenow.com/nowforum.html.</a></p><p></p><p class="now-forum-splash-img"><img alt="Register Knowledge16" class="jive-image" height="280" src="https://www.servicenow.com/content/dam/servicenow/images/nowforum/image/mainphoto-ontop.png" style="width: 388px; height: 279.512px;" width="388"/></p><h1>WORK AT LIGHTSPEED</h1><p>Experience IT, Customer Service, HR and Security at Lightspeed</p><p>NowForum is for innovative leaders ready to deliver smarter, faster business services. This complimentary one-day event is a unique opportunity to get practical advice and insight from experts driving the future of digital transformation. You'll hear inspiring keynotes and customer case studies, network with your peers, and discover innovative new ways to work at lightspeed.</p>

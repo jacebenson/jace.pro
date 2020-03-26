@@ -1,0 +1,6 @@
+---
+title: "ServiceNow Developer Opening for Greater Philadelphia Area"
+date: 2016-11-17T03:51:53.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=85dc6665dbd0dbc01dcaf3231f961996"
+---
+<p>Hello All,</p><p></p><p>I've recently been put on a job for a ServiceNow End-User in the Greater Philadelphia Area.   The client is in the Bio-Medical industry and is looking for a ServiceNow Developer to enhance their platform.</p><p><br/>Specific Skills Required:</p><p></p><ul><li>3 - 5 Years ServiceNow Development Experience</li><li>Orchestration</li><li>Integration with SFDC</li><li>Service Catalog</li><li>Enhance User Interface</li><li>Expert JavaScripting</li></ul><p></p><p>Contact me immediately if this opportunity is of interest to you! Client is ready to interview immediately!</p><p></p><p><a title="k-email-small" class="jive-link-email-small" href="mailto:b.prickril@washingtonfrank.com">b.prickril@washingtonfrank.com</a><span> OR 215-240-4343</span></p><p></p><p><em><strong>Confidentiality is Guaranteed!</strong></em></p>

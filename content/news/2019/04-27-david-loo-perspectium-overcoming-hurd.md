@@ -1,0 +1,33 @@
+---
+title: "Overcoming Hurdles to Integration Scalability"
+date: 2019-04-27T00:05:09.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=9d7a80b9db4db7c0d58ea345ca961976"
+---
+<p class="p1">When dealing with automation, IT leaders are aware that stumbling at any point along the paths in the automated system will impair that whole system.</p>
+<p class="p1">They want seamless connectivity that continues to function as the number of integration endpoints grow and as the volume of transferred data grows. Unfortunately, when it comes to the typical integrations in service management, breakdowns happen frequently, stunting growth.</p>
+<h2 class="p2"><strong>What are the Hurdles to Integration Scalability?</strong></h2>
+<h3 class="p2">1. System Updates or Replacements</h3>
+<p class="p1">When a system is replaced or updated, custom-built integrations to that system may need to be replaced, creating additional overhead and maintenance that impedes scalability, and slows your ability/willingness to upgrade in the first place.</p>
+<h3 class="p2">2. Integration via Web Services</h3>
+<p class="p1">Integrating via web services calls is common. But doing so has several limitations: max rows per query, batch processing, memory limits, semaphore usage, incoming connections, and user accounts required.</p>
+<p class="p1">In the past, CDW used web services for ETL (extract, transfer, load) integration work. But <a href="https://www.perspectium.com/cdw-webinar-recording/cdw-web-services-limits/" rel="nofollow"><span class="s1">with web services, scalability was limited</span></a>. The integration “worked okay for a little while. But those ETLs put a lot of stress on ServiceNow because of how the web services work. . . . We outgrew that after a little while” (Supervisor of Managed Service Applications, CDW).</p>
+<h3 class="p2">3. Swivel-Chair Integrations</h3>
+<p class="p1">Working with a swivel chair means copying data from one source and entering it into another. Or it could mean having to log into multiple systems, switching from one to another depending on the type of work that must be done.</p>
+<p class="p1">On a small scale or for a small startup, swivel-chair work makes a certain amount of sense. But it’s just not scalable. As the data volume increases, so does inefficiency and the risk for error. It may also increase licensing costs, for service agents who need to login to multiple applications in addition to their ServiceNow system, just to create and update data in the other systems.</p>
+<h3 class="p2">4. Point-to-point Integrations</h3>
+<p class="p1">In this model of integration, data flows directly from system to system. Point-to-point integration starts simple, but becomes complicated and quickly turns into hard-to-manage “integration spaghetti” as it gets larger.</p>
+<h3 class="p2">5. Hiring and Training Personnel</h3>
+<p class="p1">For your integrations, whether you take a swivel-chair approach, a custom-built approach, or an integration-toolkit approach, you face significant increases in integration labor as your business grows. For any model other than integration as a service, you confront staffing issues when an integration breaks, when new security or privacy rules apply, or when your trained personnel leave.</p>
+<h2 class="p2">Finding a Scalable Answer</h2>
+<p class="p1">The scalable answer is a message-bus architecture, made available through integration as a service.</p>
+<h3 class="p2">Message-Bus Architecture</h3>
+<p class="p1">An integration solution that makes use of a message-bus architecture is not bound by the limitations of traditional web service interfaces and does not require incoming connections to any data target or source.</p>
+<p class="p1">With a message bus, all systems follow the same standards and can share in a consistent method of transferring data between the systems. Any new system can plug into the bus, as long as it meets the standards. The setup allows the replication of data to as many endpoints as desired with no impact or change to the endpoints. Any data source that can post to or retrieve data from the message bus can be effectively integrated to any other data source that can do the same.</p>
+<h3 class="p2">Integration as a Service</h3>
+<p class="p1">Your integrations scale easily when they are implemented, monitored, and maintained as a service by your integration provider. Up front, you can know the provider’s exact costs for integration as a service, without your having to worry about finding, hiring, and training more talent for growing integration needs. The scalability of personnel is inherent in integration as a service.</p>
+<p class="p1">When your instance updates, when your endpoint is replaced, when new security and privacy rules take effect, when personnel in your IT department move on, you can relax about the integrations that your provider is supporting. Your organization is not in the integration business. So when you rely on integration experts for your integrations, you free yourself to focus on what you do best.</p>
+<h3 class="p2">Scalable Integrations in Action</h3>
+<p class="p1">Matt Miller, VP of Delivery at Virteva, found that integration via message bus was the scalable answer, not only for performance but also for adding endpoints. “We’re over 20-plus connections to other instances right now. And so all of those connecting to us directly – we knew that was not a scalable option, so we needed to find a solution that actually moves that onto a message bus.” For Virteva, adding another integration, one between Salesforce and ServiceNow, meant simply <a href="https://www.perspectium.com/virteva-webinar-recording/virteva-integrating-customer-service/" rel="nofollow"><span class="s1">plugging into the existing, scalable framework</span></a>. “Again, it’s just another endpoint that’s now connecting back to the . . . message bus. So it doesn’t have a material impact on my performance.”</p>
+<h3 class="p2">Grow Without Fearing the Bottlenecks</h3>
+<p class="p1">If the amount of data to transfer were to increase dramatically for you, which does happen for growing companies, any bottlenecks will impede that growth. Pursuing a solution that places no limits on your current or future volume of data to be sent allows growth to continue without obstacles.</p>
+<p class="p3"><em>Want to learn more about growing your business with a scalable integration solution? </em><a href="https://www.perspectium.com/get-started/" rel="nofollow"><span class="s1"><em>Let’s get in touch</em></span></a><em>.</em></p>

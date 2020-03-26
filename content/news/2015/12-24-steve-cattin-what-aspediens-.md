@@ -1,0 +1,6 @@
+---
+title: "What Aspediens wish their customers Uh"
+date: 2015-12-23T14:43:05.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=e27ca2e1dbd0dbc01dcaf3231f9619c0"
+---
+<p align="center"><iframe src="https://youtube.com/embed/j0OkBN69fAo" width="440" height="330"/></p><p align="center"></p><ul><li><em>Hey, how are you? Do you have 5 minutes for me on Skype?</em></li><li><em>Sure. Anything specific?</em></li><li><em>No no, I just need to ask you something and better talk than write… I call you now ok?</em></li></ul><p></p><p>This is the typical conversation we had over and over in the past few weeks. Calling colleagues to ask them "What do you wish our customers for 2016?". Some were surprised, some asked if they could get 5 minutes to find a place with better light or get ready, many played the game and a lot were unfortunately too busy to join.</p><p></p><p>However, the entire Aspediens Team wish you a year 2016 full of Success, joy and happiness and is looking forward to working together on ServiceNow projects in the new year.</p><p></p><p>Yay! Merry Christmas &amp; Happy 2016</p>

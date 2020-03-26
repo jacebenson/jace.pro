@@ -1,0 +1,15 @@
+---
+title: "Managing risk posed by thirdparties where do I start"
+date: 2019-05-07T10:29:45.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=d059f9c1db557f08fece0b55ca961973"
+---
+<p>With an increased dependency on third-parties in today’s age of digital transformation, understanding the cyber risk and compliance posture of enterprise vendors has never been more critical to your organization’s security posture. According to Gartner, “By 2022, cybersecurity ratings will become as important as credit ratings when assessing the risk of business relationships.”</p>
+<p>Best practice is to assess your vendors on a regular basis, but until now, it has been a time-consuming and error-prone exercise comprised of spreadsheets, email, and rudimentary legacy risk management tools.  BitSight Security Ratings combined with ServiceNow Vendor Risk Management (VRM), solves this challenge by delivering a purpose-built system to manage, report and respond to 3<sup>rd</sup> party cyber risk.  The addition of data-driven, validated risk ratings provides objective, validated data on which to base decisions using automation and workflow.</p>
+<p>The most critical aspects of 3<sup>rd </sup>parties risk management are described below:</p>
+<p><strong>Visibility</strong>:  By displaying the BitSight Security Rating alongside other vendor information, vendors’ security performance can be compared to the residual risk for daily monitoring, vendor selection, as well as contract renewal and negotiation.  Reports and dashboards in ServiceNow VRM make it easy to view status and trends.</p>
+<p><strong>Prioritization:</strong> Establish vendor tiers and use Security Ratings in conjunction with assessments, on-site visits, and other existing processes to calibrate your program and determine where resources should be allocated to most efficiently manage vendor risks.</p>
+<p><strong>Collaboration: </strong>More meaningful, action-oriented conversations centralized in a user-friendly vendor portal to eliminate inefficient email communications and status tracking via spreadsheets.</p>
+<p><strong>Automation:</strong> BitSight Security Ratings integrated into ServiceNow VRM can be configured to automatically  trigger alerts, create issues and kick off a workflow to remediate and collaborate with your vendors.</p>
+<p>Including the data-driven risk ratings allows you to adjust your processes and vendor risk management program, creating tighter alignment with your overall enterprise risk management.</p>
+<p>BitSight is an IRM Ecosystem partner.  The <a href="https://store.servicenow.com/sn_appstore_store.do#!/store/application/c58616e7dbed174090ecd8c75e9619bc/1.0.0?referer&#61;sn_appstore_store.do%23!%2Fstore%2Fsearch%3Fq%3Dbitsight" rel="nofollow">BitSight integration</a> can be found on the ServiceNow Store.</p>
+<p>Learn more at <a href="http://www.bitsight.com" rel="nofollow">www.bitsight.com</a> or <a href="https://www.servicenow.com/products/governance-risk-and-compliance.html" rel="nofollow">www.servicenow.com/grc</a>.</p>

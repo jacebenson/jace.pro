@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2019-06-19T19:13:24.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=ca8dc10bdb8effc0656a5583ca961960"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;e18eb00bdb4af3805d782183ca9619b6" target="_blank" rel="noopener noreferrer nofollow">UI Actions: How to save a record onLoad</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;f03a5807db8e73805d782183ca9619a7" target="_blank" rel="noopener noreferrer nofollow">Flow Designer: Business rule help please!</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;84a174cbdb0ab3801089e15b8a961967" target="_blank" rel="noopener noreferrer nofollow">Import sets: Issue with transforming date field</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;66488587db8ab380fa192183ca961953" target="_blank" rel="noopener noreferrer nofollow">Code search: Is there anyway to do impact analysis for script include ?</a></li><li>Recording on JavaScript videos complete. Stay tuned for release.</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream/tree/master/2019-06-19" target="_blank" rel="noopener noreferrer nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/LfxOlPzv8Ek" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="noopener noreferrer nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="noopener noreferrer nofollow">Twitch</a>.</p>

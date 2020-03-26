@@ -1,0 +1,6 @@
+---
+title: "Updated Documentation Integrations and LDAP"
+date: 2010-12-17T01:55:34.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=1b5eeaaddbd0dbc01dcaf3231f9619f0"
+---
+<p>Hi everybody,<br /><br />A lot of great improvements just went live on the wiki for our Integrations documentation.<br /><br />First off, we've made a lot of improvements (including adding new pages) to our LDAP documentation:<br /><br />http://wiki.service-now.com/index.php?title=LDAP_Integration<br /><br />PDF Book here:<br /><br />http://wiki.service-now.com/index.php?title=Book:LDAP<br /><br />Secondly, we've a good overview documents here:<br /><br />http://wiki.service-now.com/index.php?title=Integration_FAQs<br /><br />And really enhanced the List of Available Integrations:<br /><br />http://wiki.service-now.com/index.php?title=List_of_Available_Integrations<br /><br />Oh, and the following Integrations books are now available:<br /><br />http://wiki.service-now.com/index.php?title=Book:Integration<br />http://wiki.service-now.com/index.php?title=Book:LDAP<br />http://wiki.service-now.com/index.php?title=Book:Perl<br /><br />As always, make sure to leave us feedback using the discussion tab (when you're logged in), or leave it on this thread.<br /><br />Yours,<br /><br />Guy Yedwab<br />Service-now.com Documentation</p>

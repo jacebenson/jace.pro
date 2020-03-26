@@ -1,0 +1,6 @@
+---
+title: "We welcome anyone unless you are not welcome"
+date: 2011-09-10T01:23:52.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=e51e226ddbd0dbc01dcaf3231f96190e"
+---
+<p>Basic Authentication is the standard, out of the box authentication mechanism for SOAP Requests into ServiceNow. <br /><br />A few months ago I ran into a scenario where a customer wanted to maintain a "Restricted Users" list for SOAP connections. They had assigned a specific user for their MID Server and they only wanted that user to authenticate from the MID Server itself. <br /><br />If a user wasn't on the "restricted" list, they could connect without regard to location.<br /><br />I report on this account to demonstrate how to customize your Basic Authentication mechanism in ServiceNow to provide custom filtering on SOAP and other non-interactive requests to your instance...<br /><br />Read more here:<br /><a href='http://www.john-james-andersen.com/blog/service-now/limiting-servicenow-basic-authentication.html'>Limiting ServiceNow Basic Authentication</a></p>

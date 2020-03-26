@@ -1,0 +1,6 @@
+---
+title: "NYC ServiceWatch Event at the Bryant Park Hotel  Tues Sept rd"
+date: 2014-09-15T19:35:23.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=451deea5dbd0dbc01dcaf3231f961935"
+---
+<p>Join ServiceNow on Tuesday, September 23rd at the Terrace Loft, located on the 24th floor of the Bryant Park Hotel, for a premiere event on ServiceWatch - the latest addition to the ServiceNow portfolio. </p><p></p><p>At this open house and tasting event, you will get to meet ServiceWatch experts, see live demos and experience first-hand how to improve IT service availability with automated service maps - all while having the opportunity to sample great wines and premium scotch, enjoy delicious food and take in some of the best views of the New York City skyline!</p><p></p><p>Date: Tuesday, September 23rd, 2014</p><p>Time: 5:00 pm to 8:00 pm</p><p>Location: Bryant Park Hotel - Terrace Loft on the 24th Floor</p><p>40 West 40th Street - New York, NY 10018</p><p></p><p>Space is limited! Register today at: <a title="fo.servicenow.com/LP=2937" href="http://info.servicenow.com/LP=2937">http://info.servicenow.com/LP=2937</a></p><p></p><p>Registration is first come, first served.</p>

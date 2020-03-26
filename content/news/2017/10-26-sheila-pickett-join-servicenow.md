@@ -1,0 +1,6 @@
+---
+title: "Join ServiceNow at EDUCAUSE "
+date: 2017-10-25T08:44:47.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=492d26e5dbd0dbc01dcaf3231f961993"
+---
+<p>Are you attending the EDUCAUSE Annual Conference?   At ServiceNow Booth #2113, we are focused on helping you transform the campus experience.   Stop by to see solution demonstrations and talk to our higher education team to learn how ServiceNow can help you:</p><ul><li>Modernize IT services for faculty, students and staff</li><li><span class="s1">Take control of apps, projects and financials</span></li><li><span class="s1">Protect student, faculty and research data</span></li><li><span class="s1">Deliver connected student services</span></li><li><span class="s1">Streamline work throughout the campus</span></li></ul><p></p><p class="p1"><span class="s1">During conference breaks, visit the theater in our booth to see presentations from your peers in higher education, ServiceNow and our partners Acorio, Factor 5, and Nuvolo.   Our presentation schedule is shown below.   Stop by to hear best practices, lessons learned, and earn a prize!</span></p><p class="p1"><img  alt="Screen Shot 2017-10-25 at 7.40.30 PM.png" class="image-1 jive-image" src="231ecd8adb9413043eb27a9e0f96195f.iix" style="width: 620px; height: 410px;"/><br/><span class="s1"></span></p>

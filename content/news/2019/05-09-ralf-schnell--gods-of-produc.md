@@ -1,0 +1,11 @@
+---
+title: "Gods of Productivity Dave Wrights Vision fr IT"
+date: 2019-05-09T03:09:43.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=06c7aa65db11b300a39a0b55ca961982"
+---
+<p style="text-align: justify;">Sehr geehrte SNUG-Mitglieder!</p>
+<p style="text-align: justify;">Der heutige zweite Tag der Knowledge 2019 begann gleich mit meinem persönlichen Highlight: die Keynote von Dave Wright. Kaum jemand, der Dave einmal live auf der Bühne erlebt hat, kann sich der Wirkung dieser Persönlichkeit entziehen, und seine Vorträge sind meistens visionär und unterhaltend zugleich.</p>
+<p style="text-align: justify;">Diesmal widmete Dave sich der Vergangenheit und Zukunft von IT-Organisationen, und seine Zukunftsvision ist durchaus ermutigend. In der Vergangenheit, so Dave, war die IT &#34;God of Infrastructure&#34;. IT brauchte Infrastrukturen, und wer die Hoheit über die Hardware hatte, der hatte damit seine Daseinsberechtigung. Das hat sich mit dem Aufstieg des Cloud Computing grundlegend geändert, und viele der früher damit verbundenen Aufgaben existieren heute nicht mehr. Originäre Aufgaben der IT werden in No Code/Low Code-Umgebungen mehr und mehr auf andere Fachabteilungen übertragen.</p>
+<p style="text-align: justify;">Die IT hat jedoch im Laufe der letzten 15 Jahre eine Eigenschaft entwickelt, die vielen anderen Abteilungen nicht in dem Maße zu eigen ist: Produktivität! ITIL und andere Methoden wurden konsequent angewendet und Teamstrukturen daran ausgerichtet, um die Qualität und die Produktivität der IT-Abteilungen zu maximieren. Diesen Erfahrungsschatz kann die IT nun im Unternehmen teilen und so zum &#34;God of Productivity&#34; werden. Das ist eine andere, neue Aufgabe, und sie verlangt nach anderen Mitarbeiter-Profilen und Denkweisen. Aber es ist sicher ein lohnendes und erfüllendes Ziel für die kommenden Jahre.</p>
+<p style="text-align: justify;">Mit freundlichen Grüßen</p>
+<p style="text-align: justify;">Ralf Schnell, Senior Platform Evangelist</p>

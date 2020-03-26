@@ -1,0 +1,21 @@
+---
+title: "Virtual Agent and Natural Language Understanding in the HI Service Portal"
+date: 2019-09-26T03:50:03.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=3d9fe366db044854190dfb243996198b"
+---
+<p>Did you know we have a Virtual Agent chatbot in the HI Service Portal?  Earlier this year we implemented Virtual Agent as a proof of concept (in Madrid), with a limited number of topics that it could understand and assist with.  Similar to Alexa and Siri, we will continue to refine and enhance its capabilities, so the intelligence will get better and better over time.  Our goal is to turn Virtual Agent into a useful tool; not just for navigation, but to help you accomplish your tasks more efficiently.</p>
+<p> <img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/0e138c7adb0408d8fff8a345ca9619f9.iix" /></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><em>Interact with the Virtual Agent via the purple icon on the bottom right of the HI Service Portal</em></span></p>
+<p> </p>
+<p>One of the areas we’re working on is to enable the latest Artificial Intelligence enhancements as they become available, so we can better target the solutions and predict what you are looking for.  We’re currently working on enabling the Natural Language Understanding (NLU) enhancements being introduced in New York.  NLU leverages Machine Learning to enable a more conversational and personalized experience – not tied to basic keywords, and generally increase its comprehension.</p>
+<p>Next week we will be launching the first of the NLU-enabled conversations.  Examples of tasks Virtual Agent will be able to assist with include updating notification preferences, submitting requests via the Service Catalog, managing Plugins, and much more.</p>
+<p> </p>
+<p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/cd3340fadb0408d8fff8a345ca96199c.iix" /></p>
+<p style="text-align: center;"><span style="font-size: 10pt;"><em>Sample conversation with the Virtual Agent</em></span></p>
+<p> </p>
+<p>Some of you have tried to request a transfer to a live agent from within the Virtual Agent window.  This is a new capability in the New York release, and we’re trying to put the procedures in place for bringing on live Support assistance via chat.  This channel doesn’t yet exist, but our hope is to get this going soon (planned for 2020).</p>
+<p>Other future plans include adding many more conversations as well as expanding Virtual Agent across all of our systems (e.g. Community, Knowledge Base, etc.) for seamless, consistent coverage.  We hope you’ll continue to use the Virtual Agent as it continues to learn and improve.  And we always welcome your feedback on how to make it better for you.</p>
+<p>Comment below to let us know what you think, or if you have any ideas for new conversations you would like Virtual Agent to be able to offer.  And if you&#39;re interested in joining our Customer Advisory Board, you can sign up here: <a href="https://hi.service-now.com/hisp?id&#61;hisp_sc_item&amp;sys_id&#61;659d32fedb32bf40bd00a345ca9619d1" rel="nofollow">Join the CAB</a>.</p>
+<p class="ng-scope"> </p>
+<p class="ng-scope">For more information on our Customer Support Virtual Agent see:</p>
+<ul class="ng-scope"><li><a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;8218ede5db18c8105129a851ca9619b8" target="_blank" rel="noopener noreferrer nofollow">New NLU-enabled Virtual Agent conversations are here!</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;ee217a03db6584505ed4a851ca9619c0" target="_blank" rel="noopener noreferrer nofollow">Virtual Agent conversations continuing to grow in the HI Service Portal</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;68890126db13885023f4a345ca961912" target="_blank" rel="noopener noreferrer nofollow">Customer Support Virtual Agent conversations to manage your instance more effectively</a></li></ul>

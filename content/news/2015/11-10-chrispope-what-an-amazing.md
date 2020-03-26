@@ -1,0 +1,6 @@
+---
+title: "What an amazing event"
+date: 2015-11-10T02:57:03.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=95fca2a5dbd0dbc01dcaf3231f9619ea"
+---
+<p>We did it!. We had over 60 people attend our Hack-athon yesterday in Brisbane. We also had teams on Video-Conf in both Sydney and Melbourne. </p><p></p><p>In the end we had 13 applications launched, with the top 5 making it to the final round of judging. Throughout the day we had a lot of great interaction and challenging questions ranging from creating custom UX pages, business rules, REST API calls (I was out of my depth on this one!) and workflow.</p><p></p><p>The final 5 were very good. The winning application and team was built by a group of 5 who not only had NEVER touched SN previously, but had aligned themselves to solving a real business problem to which they approached IT only 3 weeks ago. Now, they solved it themselves by leveraging the ServiceNow platform. Amazing story. It gets better. They decided to use every available wall space and window to plan out hourly sprints, MVP and features. </p><p></p><p>A massive thank you to the teams and the leadership, it was a great day of learning, interaction and fun.</p><p></p><p>On to the next one!</p><p></p><p>#GWP.@</p>

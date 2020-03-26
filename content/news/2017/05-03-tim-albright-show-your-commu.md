@@ -1,0 +1,6 @@
+---
+title: "Show Your Community Pride at k"
+date: 2017-05-02T23:39:27.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=ed1e226ddbd0dbc01dcaf3231f961907"
+---
+<p>All,</p><p>By now many of you have seen the post about the <a title="Pretty cool new backpack for Knowledge17" __default_attr="260922" __jive_macro_name="thread" class="jive_macro_thread jive-icon-discussion-small jive_macro" data-id="260922" data-objecttype="1" data-orig-content="Pretty cool new backpack for Knowledge17" data-renderedposition="31.116668701171875_325.8833312988281_292_17" data-type="discussion" href="/community?id=community_question&sys_id=13b09f69dbdcdbc01dcaf3231f9619ef">Pretty cool new backpack for Knowledge17</a>.   Want to personalize <em>your</em> backpack?   Me too.   Let me ask a question.     Can you read the button below?     Do you think it's funny?   Be sure to visit the Community Pod.   We'll have some other goodies to promote your community on your lanyard, backpack, and everywhere else.   :-)</p><p><img  alt="Screen Shot 2017-05-02 at 2.35.04 PM.png" class="image-1 jive-image" height="254" src="c96b8d42db5c97041dcaf3231f96192c.iix" style="height: 254px; width: 271.36px;" width="271"/></p><p>Cheers,</p><p>Tim</p>

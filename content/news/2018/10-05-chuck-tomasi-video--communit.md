@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2018-10-04T20:33:00.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=60957488dbc927002be0a851ca961920"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="community?id&#61;community_question&amp;sys_id&#61;7e65d080db496f485ed4a851ca961907" target="_blank" rel="nofollow">getMyGroups() function is giving sys_id rather than name of the group.</a></li><li>Watermarks and inbound email actions</li><li><a href="community?id&#61;community_question&amp;sys_id&#61;4c7e4bf7dbfc27c0b2102926ca961955" target="_blank" rel="nofollow">Update Glide Record using portal on the server.</a></li><li>Getters and setters in Service Portal</li><li>Data Policies</li><li><a href="community?id&#61;community_question&amp;sys_id&#61;fa6c084cdb056f4054250b55ca961999" target="_blank" rel="nofollow">Onsubmit Client Script to check Attachments on Record producer</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;c5761444dbc5a38ca8562926ca96190c" target="_blank" rel="nofollow">Email Subject as &#34;Undeliverable&#34;</a></li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream/tree/master/2018-10-04" target="_blank" rel="nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/zSlBYqurxTc" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="nofollow">Twitch</a>.</p>

@@ -1,0 +1,14 @@
+---
+title: "Youre Invited Karl Strauss Brewing Company"
+date: 2018-05-17T00:43:16.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=7fa66f6adb4a1f445322f4621f961980"
+---
+<p><strong>Come join us at Karl Strauss Brewing Company in Anaheim on May 30th!</strong></p>
+<p><strong><strong class="">Date: </strong></strong><span class="">Wednesday, May 30, 2018 <br /><strong>Time:</strong> </span><span class="">1:00pm – 5:00pm <br /><strong>Location:</strong> </span><span class="">Karl Strauss Brewing Company <br />2390 E Orangewood Ave #100 <br />Anaheim, CA 92806</span></p>
+<p><strong><a href="https://go.servicenow.com/LP&#61;10108?elqTrackId&#61;BBEC1DE1C1A913598A12FA7730673A27&amp;elq&#61;00000000000000000000000000000000&amp;elqaid&#61;25131&amp;elqat&#61;1&amp;elqCampaignId&#61;12844" target="_blank" rel="nofollow">REGISTER NOW <img src="http://images.connect.servicenow.com/EloquaImages/clients/ServiceNowDotCom/%7b8a5cb9f9-9cec-4514-8afe-31d30ea3135f%7d_arrowRed.png" border="0" /></a></strong></p>
+<p><strong>Bridging the gap between IT Service Delivery and IT Operations</strong></p>
+<p><strong>ServiceNow provides the foundation for Digital Transformation that combines both IT Service Management and IT Operations Management. As organizations build a blueprint for their digital transformation, they need one system of action that can deliver service-aware IT with service-aware business operations. This seminar is targeted to IT Service Delivery, IT Operations, and IT Infrastructure professionals who need to:</strong></p>
+<ul><li>Modernize and consolidate IT services with a single cloud solution</li><li>Eliminate service outages and transition from reactive to proactive service delivery</li><li>Elevate IT from perceived cost center to a technology leader</li></ul>
+<p class=""><strong>Agenda: <br /></strong>1:00 PM Welcome &amp; Introduction <br />1:30 PM ServiceNow – The Foundation for Digital Transformation <br />2:15 PM Better Together: ITSM &#43; ITOM Demonstration <br />3:00 PM ServiceNow Customer Use Cases <br />3:30 PM Q&amp;A and Closing Remarks <br />3:45 PM Appetizers and Drinks!</p>
+<p class="">If you have any additional questions, please reach out to: <a href="mailto:Stephanie.esquivias&#64;servicenow.com" rel="nofollow"><strong>Stephanie.esquivias&#64;servicenow.com</strong></a></p>
+<p class=""><strong><a href="https://go.servicenow.com/LP&#61;10108?elqTrackId&#61;BBEC1DE1C1A913598A12FA7730673A27&amp;elq&#61;00000000000000000000000000000000&amp;elqaid&#61;25131&amp;elqat&#61;1&amp;elqCampaignId&#61;12844" target="_blank" rel="nofollow">REGISTER NOW <img src="http://images.connect.servicenow.com/EloquaImages/clients/ServiceNowDotCom/%7b8a5cb9f9-9cec-4514-8afe-31d30ea3135f%7d_arrowRed.png" border="0" /></a></strong></p>

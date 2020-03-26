@@ -1,0 +1,6 @@
+---
+title: "Customizing the dirty form alert popup"
+date: 2011-12-14T19:57:55.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=7adc2a65dbd0dbc01dcaf3231f961976"
+---
+<p>I had a colleague come to me recently for help on a client issue. The customer wanted two things; the first was to set up the capability to warn users when they were navigating away from a modified form without saving it, but to do this <em>only on selected forms</em> rather than globally. The second was to modify the text included in the alert dialog to be whatever they wanted. In this post I'll explain some of the options that ServiceNow provides in this area and how you can get even more flexibility and control over this behavior through scripting.<br /><br /><center><a href="http://www.servicenowguru.com/scripting/client-scripts-scripting/custom-dirty-form-message/"><img src="http://www.servicenowguru.com/wp-content/uploads/2011/12/CustomDirtyFormAlert-300x147.jpg" alt="Custom Dirty Form Alert" title="Custom Dirty Form Alert" width="300" height="147" class="aligncenter size-medium wp-image-4206" /></a></center><br /><br />http://www.servicenowguru.com/scripting/client-scripts-scripting/custom-dirty-form-message/<br /><!--break--></p>

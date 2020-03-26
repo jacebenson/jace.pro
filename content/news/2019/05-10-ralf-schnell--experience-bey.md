@@ -1,0 +1,11 @@
+---
+title: "Experience beyond Consumer  Der Vorteil der EnterpriseApplikationen"
+date: 2019-05-09T22:42:48.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=b944fef9db913f00a39a0b55ca9619a3"
+---
+<p>Sehr geehrte SNUG-Mitglieder!</p>
+<p style="text-align: justify;">Heute ist der letzte Tag der Knowledge 2019. Gestern hatte ich bereits ein wenig von Dave Wright&#39;s Keynote berichtet, heute möchte ich eine weitere Vision von ihm erläutern. Diese klingt im ersten Moment vielleicht unglaubwürdig oder zumindest unwahrscheinlich: Dave postuliert, Enterprise-Applikationen würden in den nächsten Jahren die Consumer-Applikationen in Sachen Komfort und Anwenderfreundlichkeit überholen. Aktuell ist das ja genau anders herum; die große Diskrepanz ist, daß die Tools für Mitarbeiter hinter den Consumer-Applikationen weit zurückliegen.</p>
+<p style="text-align: justify;">Zwei Faktoren könnten nun dazu führen, daß sich dieser Zustand umkehrt. Zum einen finden viele Innovationen ihren Weg in Enterprise-Applikationen, die zumindest teilweise bei Consumer-Applikationen schon selbstverständlich sind. So wurden in den vergangenen Tagen für die ServiceNow Platform unter anderem Natural Language Understanding, Natural Language Query, Siri Shortcuts, Dynamic Translation und Face ID angekündigt, alle für das nächste Release &#39;New York&#39; in Q4 2019. Alle diese Funktionen können mit geringem Aufwand graphisch konfiguriert und z.B. über die Mobile App und den Virtual Agent genutzt werden.</p>
+<p style="text-align: justify;">Zum anderen hat die ServiceNow Platform einen wesentlichen Vorteil vor vielen Consumer-Applikationen: alles ist durch die Platform miteinander verknüpft und vernetzt. Wenn wir als Privatkunden z.B. unsere Kreditkarten-Details aktualisieren müssen, dann geschieht das in vielen Applikationen und Web Services, jeweils individuell. Die verschiedenen Applikationen reden normalerweise nicht miteinander und tauschen solche Daten nicht aus. Auf der ServiceNow Platform ist das anders: eine Aktualisierung muß nur ein einziges Mal gemacht werden und steht dann allen anderen Enterprise-Applikationen im Unternehmen zur Verfügung.</p>
+<p style="text-align: justify;">Mit freundlichen Grüßen</p>
+<p style="text-align: justify;">Ralf Schnell, Senior Platform Evangelist</p>

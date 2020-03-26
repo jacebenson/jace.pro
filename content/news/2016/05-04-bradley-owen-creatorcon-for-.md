@@ -1,0 +1,6 @@
+---
+title: "CreatorCon for Kids on May  at UNLV"
+date: 2016-05-03T20:51:54.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=c28ce6e1dbd0dbc01dcaf3231f9619d4"
+---
+<p>Why should the fun of creating apps be limited to ServiceNow grown-ups?   Join <a title="w.servicenow.com/" href="http://www.servicenow.com/">ServiceNow</a> and <a title="w.sparkprogramming.org/" href="http://www.sparkprogramming.org/">SPARK Programming</a> at UNLV on Saturday after CreatorCon for the first annual CreatorCon for Kids!   Registration is free thanks to sponsorship from <a title="w.linium.com/" href="http://www.linium.com/">Linium</a> and <a title="rendipity-now.com/" href="http://serendipity-now.com/">SerendipITy</a>.   Sign up at <span style="color: #222222; font-family: arial, sans-serif; font-size: small;"><a title="w.eventbrite.com/e/creatorcon-for-kids-at-unlv-tickets-24897478027?aff=SNComm" href="http://www.eventbrite.com/e/creatorcon-for-kids-at-unlv-tickets-24897478027?aff=SNComm">http://www.eventbrite.com/e/creatorcon-for-kids-at-unlv-tickets-24897478027?aff=SNComm</a>.   </span></p><p></p><p><span style="color: #222222; font-family: arial, sans-serif; font-size: small;">Hope to see you there!</span></p>

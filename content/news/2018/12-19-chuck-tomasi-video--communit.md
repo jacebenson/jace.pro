@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2018-12-18T20:10:28.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=3ee13a0cdb2e6b40656a5583ca961934"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="community?id&#61;community_question&amp;sys_id&#61;1a9cd28cdb222b40d6a102d5ca961989" target="_blank" rel="noopener noreferrer nofollow">Value in entered is not get saved on submit</a></li><li><a href="community?id&#61;community_blog&amp;sys_id&#61;7cc66514db882380e0e80b55ca961965" target="_blank" rel="noopener noreferrer nofollow">Exploring the Multi-row Variable Set</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;0d5a8a0cdb6e2b40f0612183ca961987" target="_blank" rel="noopener noreferrer nofollow">I need Real time scenarios for Scripting (client side Server Side ) part and Service Catalog managem</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;57b69544db26a740d6a102d5ca961915" target="_blank" rel="noopener noreferrer nofollow">When child Tickets are completed…</a></li><li>Building my Philips Hue Integration</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream/tree/master/2018-12-18" target="_blank" rel="noopener noreferrer nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/yc6l_UwiB8w" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="noopener noreferrer nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="noopener noreferrer nofollow">Twitch</a>.</p>

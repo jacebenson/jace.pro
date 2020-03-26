@@ -1,0 +1,6 @@
+---
+title: "Vote for Servicenowcom in the Windows IT Pro Community Choice Awards"
+date: 2009-07-29T03:13:59.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=323eee6ddbd0dbc01dcaf3231f961953"
+---
+<p>Hi everybody,<br /><br />Windows IT Pro opened the nomination period for its <a title="ndowsitpro.com/awards/CommunityChoice.html" href="http://windowsitpro.com/awards/CommunityChoice.html">Community Choice Awards</a>. If you like Service-now.com please vote for us in the category of "Best Cloud Computing/SaaS Product or Service".<br /><br />If you don't like Service-now.com please tell me why in the comments below.<br /><br />The process takes about 30 seconds if you only vote for Service-now.com. If you decide to vote for your other favorite products in other categories it will take a little bit longer. Regardless, it's easy.<br /><br />Unfortunately, if you like another IT service desk application you are out of luck because there isn't a category for ITSM products and we all know Service-now.com is the only legit IT service desk application that can be entered into the SaaS category. :)<br /><br />The nomination period ends on Monday, Aug. 10.<br /><br />Thank you,<br /><br />Rhett<br />Service-now.com</p>

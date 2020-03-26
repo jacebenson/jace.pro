@@ -1,0 +1,6 @@
+---
+title: "Date Change for the Southern California Local User Group meeting"
+date: 2011-10-14T04:49:29.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=6c3d2ae5dbd0dbc01dcaf3231f9619eb"
+---
+<p>We apologize for the change but the meeting date is being moved to Wednesday, November 9th, from 9:00 AM - noon Pacific Time, hosted by Pacific Life — 45 Enterprise, Aliso Viejo, CA 92656.<br /> <br />If you have already registered and the date no longer works for you, please send an email to annette.colver[at]pacificlife.com. <br /> <br />We've received some great ideas for volunteers to do user demos/presentations but we still have room for more! If you're interested, please send an email to annette.colver[at]pacificlife.com.<br /> <br />If you plan to attend, please register here:<br />http://community.service-now.com/southern-california-user-group-meeting-november-9-2011<br /><br />More details and an agenda to follow!<br /><br />Thanks, and we hope to see you soon!</p>

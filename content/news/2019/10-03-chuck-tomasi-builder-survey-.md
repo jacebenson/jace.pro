@@ -1,0 +1,10 @@
+---
+title: "Builder Survey  Get Amazon "
+date: 2019-10-03T01:20:53.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=459057b8db5800146064eeb5ca961948"
+---
+<p>ServiceNow is working with Cascade Insights to understand what app builders like you think about the Now Platform when it comes to building custom applications. Our goal is to better understand “the art of the possible” and your experience working to achieve real business value from your custom apps.</p>
+<p>The study is being conducted via a 45-minute phone interview. As thanks for contributing to our research, participants selected for an interview will receive a $125 Amazon gift card. Please fill out a <a title="https://www.surveygizmo.com/s3/5193466/Custom-Application-Building-2" href="https://www.surveygizmo.com/s3/5193466/Custom-Application-Building-2" target="_blank" rel="noopener noreferrer nofollow">quick survey</a> if you are interested, and Cascade Insights will get back to you.</p>
+<p>By participating in this research, you will also have the option of submitting your application achievements to ServiceNow for consideration as a showcase app to the ServiceNow community. You can also specify that your responses not be used for external marketing purposes - we’ll keep your participation confidential.</p>
+<p>Thank you for your participation in this research effort.</p>
+<p>Survey link: <a href="https://urldefense.proofpoint.com/v2/url?u&#61;https-3A__www.surveygizmo.com_s3_5193466_Custom-2DApplication-2DBuilding-2D2&amp;d&#61;DwMFaQ&amp;c&#61;Zok6nrOF6Fe0JtVEqKh3FEeUbToa1PtNBZf6G01cvEQ&amp;r&#61;MAZh2Pd8PoNFLY8U2AcRtobLCl2YVF9m5YJvjSmO8gM&amp;m&#61;89_UkQClZW2Sn-mg3_JLBn1SbNLvEuu9ea6dbt2YU18&amp;s&#61;Bwuiz_NQ12zCvz0n4z4ad5pnY0DCDvk2wLPo0rO21Rk&amp;e&#61;" target="_blank" rel="noopener noreferrer nofollow">https://www.surveygizmo.com/s3/5193466/Custom-Application-Building-2</a></p>

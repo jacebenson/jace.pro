@@ -1,0 +1,6 @@
+---
+title: "New UK User Group Chairman"
+date: 2013-06-20T20:04:37.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=1ffda62ddbd0dbc01dcaf3231f9619b0"
+---
+<p>After founding the UK user group over 3 years ago, I stepped down as the chairman earlier this year.<br /><br />It has been a pleasure to be part of the user group and see it grow to a large community event (biggest outside the US), which meets 3 times a year, and is fully supportted by the ServiceNow customers in the UK.<br /><br />Shane Parsons - Warwick Universty, has now taken the chairmanship, and at the Fujitsu hosted event earlier this month, he lead the day and will now take the UK user group onwards and upwards.<br /><br />Shane attened the first user group, and has been to all of them to date, even hosting an event. So he has great knowledge on what works and what doesn't.<br /><br />I hope you all join me in wishing Shane the very best in this role<br /><br />As the user group is a customer group, for the customers, run by the customers, please contact Shane if you would like to get involved or have and ideas that will help the user group reach out to all.<br /><br />All the best<br /><br />Lewis</p>

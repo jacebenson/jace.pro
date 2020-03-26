@@ -1,0 +1,43 @@
+---
+title: "Your Audio Visual CMDBor AVCMDB Step One Location"
+date: 2020-01-22T21:36:26.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=ce814ff0db6a0890f7fca851ca96196d"
+---
+
+<h1 class="reader-article-header__title t-40 t-black t-normal pv4">Starting your Audio Visual CMDB or &#34;AVCMDB&#34;​ in ServiceNow</h1>
+<ul class="reader-article-header__meta t-14 t-black--light t-normal mv4"><li>Published on January 22, 2020</li><li class="reader-article-header__author-list-item"><a id="ember814" class="reader-author-info__edit-article artdeco-button artdeco-button--tertiary artdeco-button--1 ember-view" href="https://www.linkedin.com/post/edit/6625699176841830400" target="_blank" rel="noopener noreferrer nofollow"><span class="artdeco-button__text">Edit article</span></a></li><li class="reader-article-header__author-list-item"><a id="ember815" class="artdeco-button artdeco-button--tertiary artdeco-button--1 reader-author-info__author-analytics ember-view" href="https://www.linkedin.com/pulse/starting-your-audio-visual-cmdb-avcmdb-servicenow-matthew-fearnley/ca/post-analytics/urn:li:linkedInArticle:6625699176841830400/" rel="nofollow"><span class="artdeco-button__text">View stats</span></a></li></ul>
+
+<div class="reader-author-info__container-wrapper">
+<div class="reader-author-info__container reader-author-info__container--reactions-enable">
+<div id="ember816" class="display-flex align-items-center justify-space-between ember-view">
+<div id="ember820" class="ml2 feed-shared-avatar-image b0 member ember-view">
+<div id="ember821" class="presence-entity presence-entity--size-4 ember-view"><img id="ember822" class="avatar member EntityPhoto-circle-4 presence-entity__image EntityPhoto-circle-4 lazy-image loaded ember-view" title="Matthew Fearnley" src="https://media-exp1.licdn.com/dms/image/C4E03AQEzTt1fc7fBPg/profile-displayphoto-shrink_100_100/0?e&#61;1585180800&amp;v&#61;beta&amp;t&#61;BLvup-0C2mnHOPQncJ6d0q7tRmJQ18cHEBzc0Xg7470" alt="Matthew Fearnley" />
+<div id="ember823" class=" presence-entity__indicator presence-entity__indicator--size-4 presence-indicator presence-indicator--is-online presence-indicator--size-4 ember-view"><span class="visually-hidden">Status is online</span></div>
+</div>
+</div>
+<h2 class="reader-author-info__text reader-author-info__name t-16 t-bold reader-author-info__meta-author-detail--has-hover mr2">Matthew Fearnley</h2>
+<div id="ember828" class="t-black--light ember-view"><span class="lt-line-clamp__line">Applying ITIL practices to Audio Visual</span> <span class="lt-line-clamp__line lt-line-clamp__line--last">environments</span></div>
+<div class="reader-author-info__interactive-items"><a id="ember844" class="reader-author-info__total-articles link-without-visited-state ember-view" href="https://www.linkedin.com/in/matthewfearnley/detail/recent-activity/posts/" rel="nofollow">4 articles</a></div>
+</div>
+</div>
+</div>
+<div id="ember831" class="ember-view"> </div>
+<div id="ember833" class="ember-view">
+<div class="reader-article-content">
+<p>Like real estate let&#39;s start with location.</p>
+<p>As the IT brings AV (Audio Visual) into the enterprise there are some facets that make AV unique and there are others that are the same as any other enterprise-wide services. For starters let&#39;s concetrate on the commonalities.</p>
+<p><strong>Location</strong></p>
+<p>For most enterprise conference rooms, auditoriums and other public presentation spaces there will already be a location assigned to the room if there is a PC in the room as part of the presentation hardware package. Is this space designated by name (Evergreen Conference Room) or by number (Room 1609)? Whatever your designation make sure it is consistant with other teams. If a ticket needs to be handed off, both teams need to be working off of the same data for a smooth handoof and for running reports based on room activity.</p>
+<p><strong>Location Data Feed</strong></p>
+<p>Is your data feed from an established vendor such as a ServiceNow partner like Nuvolo or from a outside facilities based data source like Archibus? If so then consistancy is still key. Folow the accepted parctice of the existing service desk protocol when naming locations. While AV may have its own naming convention, many desktop, facilities and network issues arise in this sapace and get handed off to the AV team and vice versa. The importance is also amplified when using Network/IDC closets and sencondary linked location once you decide to go to<strong> Step 2: Network Data. </strong>For global companies an AV NOC (National Operation Center) or any centralized broadcast facility needs to be part of Disaster Recovery (DR). If a building is being powered down for electrical or contracting work or in case of a weather emegency centralized AV operations should be powered down according to specifications set forth by the vendor. (Power down procedures may be buried in the vendor handoff paperwork). It is important to follow power down procedures because failing to do so may void the waranty).</p>
+<p><strong>Hand Generated Data Feed</strong></p>
+<p>I recently auduted a client that had the following designated locations: <em>Huntington Ave., Huntington Avenue, Huntington ave, Huntington, Huntinton </em>These were in fact, all the same location. Taking hand generated data envelopes the above risk into the CMDB. If there is not a designated team or process to assure common naming, extra names can populate under the radar with the potential to throw off your service desk and your analytics.</p>
+<p><strong>A note about Huddle Spaces and Digital Signage</strong></p>
+<p>While Huddle Spaces and Digital Signage are not new concepts they can represent a unique challenge since both can be found in common areas that may lack a clear definition where other AV asstets are in clearly defined spaces. One may end up with a location named <em>&#34;The big monitor outside of Paula&#39;s office in front of the brick wall &#34;</em>. A hybrid name may be needed for these spaces as a bridge for the AV and service desk team. The designation &#34;&#34;Elevator 12th Floor&#34; and &#34;1209&#34; and &#34;12th Floor waiting Room&#34; may constitute the same location. Using a hybrid such as &#34;1209-Elevator Waiting Room&#34;-1209 EWR may eventually be shortened to &#34;1209 EWR&#34; and then this designation can become the standard. You can leverage both the <em>notes </em>field in SN and <em>Knowledgebase</em> to assist in communicating naming conventions to the rest of the IT partner team. It is helpful to name the monitors in these spaces with the same name in the naming fuction in the manufacturers menu. This assists the onsite techs ( and the vendor tech team) to assign repair tickets to the correct asset. This will come in handy when you have for example, a power cord failure. You can run analytics on the same unit and ask yourself, &#39;Was there a bad run in manufacturing these power supplies?&#34; This allows your tech team to be proactive and switch out all the cords.....preventing a rolling failure.</p>
+<p><strong>Share your naming conventions with the Network Team</strong></p>
+<p>It is importany to partner with your Network team. Although they talk in terms of IP addresses and WAN/LAN they are human too. They want to be on the forefront of problem solving/problem prevention just like you. Since network operations can look at data representing assets as opposed to the actual assets lets make our data part of thier operations. For Network Ops the designation of &#34;Polycom&#34; may be assumed to mean an IP phone, if tracing asets by MAC address still needs to be tagged with a qualifier of it being an AV device such as DSP (Digital Sound Processor) . Cisco hardware needs to be &#34;AV Tagged&#34; as different teams support Cisco Switches and Cisco Videoconferencing.</p>
+<p><strong>......Well it seems like alot of work.....</strong></p>
+<p>If this seem slike alot of work, bear in mind two things: <strong>1: Risk Reduction, 2: Budget </strong>AV relies on network, desktop, security and other IT teams, while it may not be a pure IT play, AV is<strong> &#34;IT adjacent&#34;.</strong> There is an assumed risk by AV if they are not sharing data with other teams . AV is also facing or soon to face the economies of scale that IT is supposed to provide, even if you aren&#39;t feeling it now, the budgetary pressure is real. There is much discussion as to where AV belongs in the world of IT. No matter what you think or feel, ask yourself one question:</p>
+<p><strong>&#34;Do you have the data to back it up?</strong></p>
+</div>
+</div>

@@ -1,0 +1,14 @@
+---
+title: "Do you have opinions Do you like to share them"
+date: 2019-04-11T22:42:54.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=9ec76674dbf0f7c8a39a0b55ca9619c2"
+---
+<p style="text-align: center;"><span style="color: #800080; font-size: 14pt; font-family: arial, helvetica, sans-serif;"><strong>Do you or does someone on your team have a few minutes to spare? </strong></span></p>
+<p style="text-align: center;"><span style="color: #800080; font-size: 14pt; font-family: arial, helvetica, sans-serif;"><strong>Confidential input is all we need!</strong></span></p>
+<p><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">ServiceNow will be launching a <strong>role-based rewards &amp; recognition program</strong> <strong>focused on individual user learning, growth &amp; success</strong>. The feedback from this <a href="https://www.surveymonkey.com/r/CY62WDS" rel="nofollow">survey</a> and subsequent focus groups will be used to ensure we are making user-centric decisions related to the creative concept and vision for this program.</span></p>
+<ul><li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Would you or someone on your team consider completing this survey: <span style="color: #0000ff;"><strong><a style="color: #0000ff;" title="Now Survey" href="https://www.surveymonkey.com/r/CY62WDS" target="_blank" rel="noopener noreferrer nofollow"><span style="text-decoration: underline;">NOW </span><span style="text-decoration: underline;">surve</span>y</a></strong></span>? It should take no longer than 5-10 minutes. </span></li><li><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">If you are interested in participating in a 45-60 minute <strong><span style="color: #0000ff;"><em>virtual </em>focus group</span></strong> about this program sometime during April 22-30, please comment <span style="color: #800080;"><strong>&#39;I&#39;m in&#39;</strong> </span>on this post OR email <a href="mailto:Jessica.noble&#64;servicenow.com" rel="nofollow">Jessica.noble&#64;servicenow.com</a>.</span> </li></ul>
+<p><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">If you have questions about this survey and/or this upcoming program, please reach out to <a href="mailto:Jessica.noble&#64;servicenow.com" rel="nofollow">Jessica.noble&#64;servicenow.com</a>.</span></p>
+<p><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Your participation is truly appreciated,</span></p>
+<p><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">jess</span></p>
+<p> </p>
+<p><span style="font-size: 12pt;">Survey link: <a href="https://www.surveymonkey.com/r/CY62WDS" rel="nofollow">https://www.surveymonkey.com/r/CY62WDS</a></span></p>

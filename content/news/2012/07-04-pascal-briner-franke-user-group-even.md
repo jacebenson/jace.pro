@@ -1,0 +1,6 @@
+---
+title: "User Group Event "
+date: 2012-07-03T20:38:34.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=dd3daae5dbd0dbc01dcaf3231f961904"
+---
+<p>Dieser Blog Eintrag dient als Ideentopf (was interessiert euch, wer hat etwas umgesetzt das er präsentieren kann/darf) für den nächsten Event. <br />Persönlich interessiert mich auch ob ein zweiter Event 2012 von eurer Seite her gewünscht ist oder ob wir bei einem Event pro Jahr bleiben sollen.<br /><br />Wir werden den nächsten Event bei uns (Franke Artemis Management AG) in <a title=" href=" target="_blank" href="http://maps.google.ch/maps?f=q&amp;source=s_q&amp;hl=de&amp;geocode=&amp;q=Frankestrasse+2,+CH-4663+Aarburg&amp;sll=46.362093,9.036255&amp;sspn=3.699908,8.887939&amp;ie=UTF8&amp;hq=&amp;hnear=Frankestrasse+2,+4663+Aarburg,+Zofingen,+Aargau&amp;ll=47.327887,7.920284&amp;spn=0.058176,0.128746&amp;z=13&amp;iwloc=A&amp;output=embed">Aarburg</a> durchführen.<br /><br />Parkplätze sind genügend vorhanden und mit Parkbussen ist auch nicht zu rechnen ;-)</p>

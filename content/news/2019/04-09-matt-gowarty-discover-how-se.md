@@ -1,0 +1,16 @@
+---
+title: "Discover how ServiceNow ITSM and ITOM are helping to prevent air traffic delays Join NATS at our Knowledge  breakout session BRE to find out more"
+date: 2019-04-09T01:21:32.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=f85f6f3fdb2c3b44fece0b55ca961996"
+---
+<p>Are you looking forward to Knowledge this year? I know I am. I’m Jamie Mead, and I’m the Service Delivery Manager at NATS. I’ll be presenting our journey towards a zero-incident culture at NATS and talking about how ServiceNow is playing a critical role in our plans.</p>
+<p>Let me start by telling you a little bit about NATS. NATS stands for National Air Traffic Services, and we’re the company that runs the UK’s Air Traffic Control. As you might imagine, with airports throughout the country – including major international hubs such as Heathrow – the UK has one of the most complex air traffic control systems in the world. We safely move more than 2.5 million aircraft every year, thanks to our skilled controllers and the advanced technology they use.</p>
+<p><strong>Technology plays a critical role in keeping planes on time</strong></p>
+<p>That technology has to keep working 24 x 7 – failures of critical infrastructure or applications can cause major flight delays. That’s why NATS is investing in technology to keep those systems up and running. We need to predict and prevent outages wherever we can and fix them as quickly as possible when they happen. That’s what I mean by NATS’ journey to a zero-incident culture.</p>
+<p><strong>Siloed infrastructure tools made it hard for us to diagnose and fix service issues</strong></p>
+<p>Like many other organizations, we had a traditional siloed approach to managing technology. That made it very difficult to accurately identify the root cause of service issues, so fixing these issues took a long time. When planes are stuck on the ground or in holding patterns, that’s just not acceptable.</p>
+<p><strong>By managing services rather than infrastructure, we’re on course for fewer air traffic delays</strong></p>
+<p>We decided we needed a new approach – a new technology stack that broke down silos and helped us to manage our services so we could do our part in keeping air traffic running on time.  ServiceNow ITSM and ITOM are critical components in this new technology stack. We’re currently building out the stack, and we’ve already made tremendous progress. The stack is fully integrated with our air traffic management systems, and it’s taking us towards our goal of zero engineering incidents.</p>
+<p><strong>Join us at Knowledge 2019!</strong></p>
+<p>If you want to find out more, please come to my breakout session at Knowledge 2019. I’ll be there with my colleague Simon Ede, and together we’ll talk about our challenges and goals in more detail, how we are approaching this transformation, and how we are maximizing the value of ServiceNow ITSM and ITOM to deliver great results.</p>
+<p>The session is BRE0081, and it’s called “Managing UK air traffic control – predicting &amp; preventing delays.” Simon and I will see you there!</p>

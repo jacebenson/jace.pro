@@ -1,0 +1,6 @@
+---
+title: "Braindump Problem Management"
+date: 2011-09-20T13:05:49.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=436d2e29dbd0dbc01dcaf3231f96199f"
+---
+<p>Since joining ServiceNow I've had the opportunity to re-read Incident, Problem and Change from the ITIL Service Operations and Transition books.<br /><br />As I went through the Problem Management process I thought I'd dump the relevant points into a Mindmap for my own reference and to share on the Community website.<br /><br /><!--break--><br /><br /><img  alt="" class="jive-image" src="7e0bb3fddbdcdf04e9737a9e0f9619ae.iix" /><br /><br />Feel free to download the <a title="mmunity.service-now.com/files/Problem%20Management.pdf" href="http://community.service-now.com/files/Problem%20Management.pdf">PDF</a> or <a title="mmunity.service-now.com/files/Problem%20Management.png" href="http://community.service-now.com/files/Problem%20Management.png">PNG</a> version, or <a title="mmunity.service-now.com/files/Problem%20Management.xmind_.zip" href="http://community.service-now.com/files/Problem%20Management.xmind_.zip">the original XMind file</a> and to modify and distribute. I'd also like to see any enhancements or comments that you have.</p>

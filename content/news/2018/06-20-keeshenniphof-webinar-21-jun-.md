@@ -1,0 +1,8 @@
+---
+title: "Webinar Jun IT Major Incident Management for ITSM Practitioners"
+date: 2018-06-19T13:43:49.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=a7c51065dbf2d340b2102926ca9619a0"
+---
+<p><span id="ember21849" class="ember-view">Right! ServiceNow is Forbes #1 World&#39;s Most Innovative Company. Leader in Gartner&#39;s ITSSM Magic Quadrant since 2015. </span><span id="ember21849" class="ember-view">So, why not have our VP of Innovation get on a panel with ITSM Product Management and talk about the innovation we&#39;re bringing to IT Service Management in 2018?</span></p>
+<p><span class="ember-view"><span id="ember21849" class="ember-view">We start our series of 3 broadcasts this Thursday (21 June, 3pm BST/4pm CEST) with a close look at IT (Major) Incident Management. Join our VP of Innovation <a href="community?id&#61;community_user_profile&amp;user&#61;a9f016a1db981fc09c9ffb651f961956" target="_blank" rel="nofollow">Chris Pope</a></span><span id="ember21857" class="ember-view">, ITSM Product Manager <a href="community?id&#61;community_user_profile&amp;user&#61;27d11a21dbd81fc09c9ffb651f961994" target="_blank" rel="nofollow">Sheeba Srinivasan</a></span><span id="ember21865" class="ember-view"> and myself for a live update with extensive platform demo. <a href="https://event.on24.com/wcc/r/1775398/4FDF72176F6DF1658A441A5A0AC783C0" target="_blank" rel="nofollow">CLICK TO REGISTER</a></span></span></p>
+<p><span class="ember-view"><img style="max-width: 100%; max-height: 480px;" src="6ba510a5dbf2d340b2102926ca96193f.iix" /></span></p>

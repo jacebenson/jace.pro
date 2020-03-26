@@ -1,0 +1,6 @@
+---
+title: "WI Service Portal Lab"
+date: 2016-12-21T22:01:24.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=71cd62e9dbd0dbc01dcaf3231f96190b"
+---
+<p>Thanks for all who attended the Wisconsin Q4 SNUG lab that covered the Service Portal technology.   Attached are 3 artifacts the slide deck that was presented, the lab guide, and also the necessary update set if you want to perform this lab on a developer instance.   If you have any questions don't hesitate to contact <a title="briandunbar" __default_attr="51362" __jive_macro_name="user" class="jive-link-profile-small jive_macro jive_macro_user" data-id="51362" data-objecttype="3" data-orig-content="briandunbar" data-renderedposition="30.724430084228516_817.82666015625_94_16" data-type="person" href="/community?id=community_user_profile&user=393296a5dbd81fc09c9ffb651f96199a">briandunbar</a>   or <a __default_attr="61794" __jive_macro_name="user" class="jive-link-profile-small jive_macro jive_macro_user" data-id="61794" data-objecttype="3" data-orig-content="matt.reinfeldt" data-renderedposition="30.724430084228516_936.0936889648438_100_16" data-type="person" href="/community?id=community_user_profile&user=54a2566ddbd81fc09c9ffb651f9619a5" modifiedtitle="true" title="matt.reinfeldt">matt.reinfeldt</a></p>

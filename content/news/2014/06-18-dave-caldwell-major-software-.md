@@ -1,0 +1,6 @@
+---
+title: "Major Software Release Advances Service Management into the Enterprise"
+date: 2014-06-17T19:17:28.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=301daea5dbd0dbc01dcaf3231f961980"
+---
+<p><span style="color: #666666; font-family: Arial; font-size: 14px; background-color: #f6f6f6;">SANTA CLARA, Calif. — June 17, 2014 — ServiceNow ® (NYSE: NOW), the enterprise IT cloud company, today announced the availability of new products and features that drive service transformation throughout the global enterprise.   The new ServiceNow release offers an enhanced custom application creation experience, new service automation products, executive decision-making visualization tools and a more intuitive user experience.</span></p><p><span style="color: #666666; font-family: Arial; font-size: 14px; background-color: #f6f6f6;"><br/></span></p><p><span style="color: #666666; font-family: Arial; font-size: 14px; background-color: #f6f6f6;">To Read More:<br/></span></p><p><a title="w.servicenow.com/company/media/press-room/servicenow-empowers-the-service-oriented-enterprise.html" href="http://www.servicenow.com/company/media/press-room/servicenow-empowers-the-service-oriented-enterprise.html">http://www.servicenow.com/company/media/press-room/servicenow-empowers-the-service-oriented-enterprise.html</a></p>

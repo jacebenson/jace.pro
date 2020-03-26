@@ -1,0 +1,6 @@
+---
+title: "Group update and soliciation for feedback"
+date: 2012-02-17T07:06:13.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=ccdc2665dbd0dbc01dcaf3231f961916"
+---
+<p>Hello. Recently Chad asked if I could help out with the Wisconsin User Group since he's moved on to a new opportunity that precludes him from managing this group. I'd like to thank him for the time he put in starting this group.<br /><br />As far as managing this group goes, I'd like to start by trying to get an idea of what everyone is looking to get out of a group like this. Are you looking for an informal group where we can share our experiences, bounce ideas off one another and otherwise get to know one another? Or something more formal with presenters, use cases, etc? I'd also like to get a better idea of how active you'd like the group to be? A poll last year indicated quarterly meetings. Is that still the case? Where are members located? Please leave comments or suggestions and we can utilize the great people and ideas that the group has to offer.<br /><br />This group can't be successful without your participation, so now is your time to speak up.<br /><br />Thanks,<br />Travis</p>

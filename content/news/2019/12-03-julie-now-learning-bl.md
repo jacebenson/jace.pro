@@ -1,0 +1,29 @@
+---
+title: "Now Learning Blog  More ways to filter content on Now Learning"
+date: 2019-12-02T21:01:57.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=3b8094e4db69cc5c14d6fb243996198f"
+---
+<p class="p1"><span style="font-family: helvetica; font-size: 12pt;">In my <span class="s1"><a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;64a27f17dbbc08942be0a851ca961911" rel="nofollow">first blog</a>,</span> I introduced you to the most basic way to filter content on <a href="https://nowlearning.service-now.com/" rel="nofollow"><span class="s1">Now Learning</span></a>, using the content filters on the homepage. <span class="Apple-converted-space">  </span></span></p>
+<p class="p1"><span style="font-family: helvetica; font-size: 14pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/1cce0860dbe5cc5c14d6fb24399619f1.iix" /></span></p>
+<p class="p1"><span style="font-family: helvetica; font-size: 12pt;">This filter is only available to you in this way when you are not signed in.<span class="Apple-converted-space">  </span>By now, you have most likely signed in and this changes your filtering experience, so I am going to introduce you to some additional ways to find content on Now Learning.</span></p>
+<p class="p1"> </p>
+<p class="p1"><strong><span style="font-family: helvetica; font-size: 14pt;">Filtering content from your profile</span></strong></p>
+<p class="p3"><span style="font-family: helvetica; font-size: 12pt;">When you are signed in to your Now Learning profile, our newest courses are featured in the section directly below where your various achievements are highlighted, called “Check out our newest courses”.</span></p>
+<p class="p2"><span style="font-family: helvetica; font-size: 12pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/86ff0c68db29cc5c14d6fb2439961943.iix" /></span></p>
+<p class="p2"><span style="font-family: helvetica; font-size: 12pt;">The content shown here is a mix of Courses and Learning Paths displayed from the most recently published to the oldest.<span class="Apple-converted-space">  </span>Check back in this section often to see what is new!</span></p>
+<p class="p2"><span style="font-family: helvetica; font-size: 12pt;">The next section down allows you to filter Learning Paths using the same set of filters you can find on the homepage when you are not logged in: <span class="s2">Role</span>, <span class="s2">Level,</span> and <span class="s2">Product.</span><span class="Apple-converted-space">  </span>As a refresher, Learning Paths are one or more trainings that are recommended to be completed in a certain order to achieve a level of mastery. </span></p>
+<p class="p2"><span style="font-family: helvetica; font-size: 12pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/659f0860db29cc5c14d6fb2439961978.iix" /></span></p>
+<p class="p2"><span style="font-family: helvetica; font-size: 12pt;">Use the Role, Level and/or Product filters to narrow down the Learning Paths to find the one that is just right for you.</span></p>
+<p class="p2"> </p>
+<p class="p2"><strong><span style="font-family: helvetica; font-size: 14pt;">Filtering content from the search bar</span></strong></p>
+<p class="p2"><span style="font-family: helvetica; font-size: 12pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/c96f8cacdbe5cc5c14d6fb2439961931.iix" /></span></p>
+<p class="p2"><span style="font-family: helvetica; font-size: 12pt;">Next, let’s review how to filter content from the search bar. </span><span style="font-family: helvetica; font-size: 12pt;">When you select the magnifying glass from the top right of the site header a search menu will expand exposing 5 buttons or ‘pills’ that allow you to interact with a specific type of content. </span></p>
+<p class="p2"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/07afcc24db29cc5c14d6fb2439961997.iix" /></p>
+<p class="p2"> </p>
+<p class="p3"><span style="font-family: helvetica; font-size: 12pt;">If you are interested in filtering only Learning Paths, select “Paths”, if you are interested in filtering only Courses, select “Courses”, and so on.</span></p>
+<p class="p2"><span style="font-family: helvetica; font-size: 12pt;">Let’s give it a try.<span class="Apple-converted-space">  </span>Select “Certifications” to bring back all Certifications that are available for you to see.<span class="Apple-converted-space">  </span>*<em>NOTE: Depending on your access to content you might see a different number and set of Certifications.</em></span></p>
+<p class="p2"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/c4df08a4db29cc5c14d6fb24399619a3.iix" /></p>
+<p class="p2"> </p>
+<p class="p3"><span style="font-family: helvetica; font-size: 12pt;">Using the filters, <span class="s2">Role</span>, <span class="s2">Level</span> and/or <span class="s2">Product</span> you can narrow down the Certifications to find one that matches your interest.</span></p>
+<p class="p3"><span style="font-family: helvetica; font-size: 12pt;">This method works for all of the other featured ‘pills’ as well.</span></p>
+<p class="p3"><span style="font-family: helvetica; font-size: 12pt;">There you have it!<span class="Apple-converted-space">  </span>Using these additional methods to find content can help you sort through the various offerings we have on Now Learning. Feel free to comment below or take <a href="http://market-research.decipherinc.com/survey/selfserve/5c3/190908" rel="nofollow"><span class="s1">our survey</span></a> where you can let us know in more detail how you want to find content on Now Learning. Thank you for stopping by!</span></p>

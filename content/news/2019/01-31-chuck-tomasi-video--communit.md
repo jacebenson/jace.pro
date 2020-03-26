@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2019-01-30T20:10:32.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=534ecc82db1ba300afc902d5ca96190f"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="community?id&#61;community_question&amp;sys_id&#61;117b3e69db13af004abd5583ca961937" target="_blank" rel="noopener noreferrer nofollow">Followup:I am not able to find sc_req_item table in Flow Designer Action. Plugin already activated.</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;1d8983a5db5cdbc01dcaf3231f9619b2" target="_blank" rel="noopener noreferrer nofollow">String fields and the is_multi_text attribute</a></li><li><a href="community?id&#61;community_forum&amp;sys_id&#61;ca295a2ddbd897c068c1fb651f961929" target="_blank" rel="noopener noreferrer nofollow">Suggest a community enhancement in member feedback!</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;d415c88edb97ab00fa192183ca9619c8" target="_blank" rel="noopener noreferrer nofollow">Add icons to KB categories in the widget</a></li><li>Record attachments, image fields, and file attachment fields</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream" target="_blank" rel="noopener noreferrer nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/GelWXWy6Jc4" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="noopener noreferrer nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="noopener noreferrer nofollow">Twitch</a>.</p>

@@ -1,0 +1,6 @@
+---
+title: "Building a Responsive ServiceNow ESS Portal with Twitter Bootstrap  Part "
+date: 2015-01-21T05:35:07.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=015d2629dbd0dbc01dcaf3231f9619f0"
+---
+<p><span style="color: #333333; font-family: 'Open Sans', Helvetica, sans-serif; font-size: 14px;">When I first started building portals on top of ServiceNow, one of my first goals was to try to make a responsive site using Twitter Bootstrap. After several attempts I realized it's not quite as simple as it sounds. In the next series of blog posts I will cover some simple steps to help get you started.</span></p><p><span style="color: #333333; font-family: 'Open Sans', Helvetica, sans-serif; font-size: 14px;"><br/></span></p><p><span style="color: #333333; font-family: 'Open Sans', Helvetica, sans-serif; font-size: 14px;">Check out the blog post here: <a href="http://servicenowcms.com/building-a-responsive-servicenow-ess-portal-with-twitter-bootstrap-part-1/" title="http://servicenowcms.com/building-a-responsive-servicenow-ess-portal-with-twitter-bootstrap-part-1/">ServiceNow CMS — Building a Responsive ServiceNow ESS Portal with Twitter Bootstrap — Part 1</a><br/></span></p>

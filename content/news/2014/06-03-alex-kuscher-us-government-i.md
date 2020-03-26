@@ -1,0 +1,6 @@
+---
+title: "US Government IT featured in UK CIO Magazine"
+date: 2014-06-02T20:16:58.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=400de6a5dbd0dbc01dcaf3231f961985"
+---
+<p><span style="font-size: 14pt;">See how Mike Bartell and his team from Oak Ridge National Labs overcame a cyber attack. Hint Hint... ServiceNow to the rescue!</span></p><p></p><p><span style="font-size: 14pt;"><a href="http://www.cio.co.uk/news/security/cyber-event-triggered-itsm-rethink-says-us-national-lab-cio/" title="http://www.cio.co.uk/news/security/cyber-event-triggered-itsm-rethink-says-us-national-lab-cio/">http://www.cio.co.uk/news/security/cyber-event-triggered-itsm-rethink-says-us-national-lab-cio/</a></span></p><p></p><p><span style="font-size: 14pt;">Don't forget to register for our next <strong>Federal User Group on June 26</strong> at the City Club of Washington by </span><a href="http://http//events.carahsoft.com/event-detail/3441/servicenow/"><span style="font-size: 14pt;">clicking here.</span></a></p>

@@ -1,0 +1,6 @@
+---
+title: "More New API Documentation"
+date: 2011-03-29T01:17:18.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=266d2e29dbd0dbc01dcaf3231f96195d"
+---
+<p>As you may know, we've been playing catch-up documenting our APIs. This is some of the most difficult documentation to create, not just for us but for anyone doing what we do. Right now I need to take a minute to highlight some significant achievements in API doc. <br /><br />Here is some brand-new documentation on some very key APIs:<br /><br /><i>New</i>: <b>GlideList</b> http://wiki.service-now.com/index.php?title=GlideList2_%28g_list%29<br /><i>New</i>: <b>GlideMenu</b> http://wiki.service-now.com/index.php?title=GlideMenu_%28g_menu_and_g_item%29<br /><br />And here is recent documentation you may not have seen:<br /><br /><b>GlideUser</b> http://wiki.service-now.com/index.php?title=GlideUser_%28g_user%29<br /><b>GlideForm</b> http://wiki.service-now.com/index.php?title=GlideForm_%28g_form%29<br /><br />This new documentation is a team effort. But a special acknowledgement needs to go out to our technical writer Neola Mace for her persistence and ability. I really hope all Service-now users find value in this documentation. <br /><br />If you have any feedback, please reply to this post or ping my email.<br /><br />Cheers!</p>

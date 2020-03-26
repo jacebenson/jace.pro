@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2019-02-21T20:23:29.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=17342989dbf7a78023f4a345ca961983"
+---
+<p>Episode topics include:</p>
+<ul><li>How to display text based on user language</li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;7e5a3809dbff2b80200f0b55ca9619f2" target="_blank" rel="noopener noreferrer nofollow">Identify missing records in import set</a></li><li>Triggering flows from a script (Madrid FlowAPI)</li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;7e1b48bcdbf32f40fece0b55ca9619a6" target="_blank" rel="noopener noreferrer nofollow">Servers as a Catalog Item name</a></li><li>Using window.open() vs. GlideURL in a UI action to open a new window</li><li>What is sys_id&#61;-1?</li><li>Service Portal widget architecture using script includes and scripted REST APIs</li><li>Finding a sys_id using Regular Expressions</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream" target="_blank" rel="noopener noreferrer nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/oG4oPjHIX0U" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="noopener noreferrer nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="noopener noreferrer nofollow">Twitch</a>.</p>

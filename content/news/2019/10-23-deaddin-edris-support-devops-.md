@@ -1,0 +1,14 @@
+---
+title: "Support DevOps in the enterprise with ServiceNow"
+date: 2019-10-22T21:52:35.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=f0b0291fdb2444145129a851ca961923"
+---
+<p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">ServiceNow is well positioned to deliver high-quality operations and support to DevOps teams so they can work quickly with minimal downtime and risk.</span></p>
+<p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"> </p>
+<p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">However, many ServiceNow customers aren’t sure of how to best use ServiceNow to support DevOps teams at their organization – because they typically don’t have clear insight into how DevOps teams work and what they need.</span></p>
+<p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"> </p>
+<p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">That’s why we developed a NEW success playbook on how to <a href="https://www.servicenow.com/success/playbook/support-devops-with-servicenow.html?cid&#61;i:com:smkc:csc" rel="nofollow">Support DevOps in the enterprise with ServiceNow</a>. This new guide will help you answer the following important questions about how to get started supporting DevOps with ServiceNow:</span></p>
+<ol><li><span style="font-size: 12pt;">How do I learn what DevOps teams need so I can figure out how to use ServiceNow to support them?</span></li><li><span style="font-size: 12pt;">What ServiceNow products and use cases are most relevant to supporting DevOps at my organization?</span></li><li><span style="font-size: 12pt;">What steps do I need to take to implement solutions on ServiceNow that will deliver value to DevOps teams while supporting our operational goals?</span></li></ol>
+<p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Read our playbook <a href="https://www.servicenow.com/success/playbook/support-devops-with-servicenow.html?cid&#61;i:com:smkc:csc" rel="nofollow">here</a> and get started with using ServiceNow to support DevOps today, and accelerate change at your organization with the <a href="https://www.servicenow.com/products/devops.html" rel="nofollow">ServiceNow DevOps</a> product.</span></p>
+<p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"><span style="font-family: arial, helvetica, sans-serif;"> </span></p>
+<p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"><span style="font-family: arial, helvetica, sans-serif;"><img src="https://community.servicenow.com/b30f591fdba044145129a851ca961903.iix" width="761" height="427" /></span></p>

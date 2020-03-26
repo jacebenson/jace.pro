@@ -1,0 +1,6 @@
+---
+title: "Getting Started with ServiceNow IT Governance Risk and Compliance"
+date: 2014-06-02T22:21:13.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=a48de269dbd0dbc01dcaf3231f961996"
+---
+<p>This video demonstrates the ServiceNow IT Governance, Risk, and Compliance (IT GRC) application. It is important to make sure your organization stays in compliance with any laws and regulations that affect your company. The IT GRC application makes it easy to organize and update this information.</p><p></p><p><iframe src="https://youtube.com/embed/8-J70mXWumo" width="425" height="350"/></p><p></p><p>For more information about IT GRC, see:</p><p></p><p>ServiceNow Wiki</p><p><a title="k-external-small" class="jive-link-external-small" href="http://wiki.servicenow.com/index.php?title=IT_Governance_Risk_and_Compliance" rel="nofollow" target="_blank">IT Governance Risk and Compliance - ServiceNow Wiki</a></p><p></p><p><span style="color: #666666; font-family: arial, sans-serif;">Your feedback helps us better serve you! Did you find this video helpful? Leave us a comment to tell us why or why not.</span></p>

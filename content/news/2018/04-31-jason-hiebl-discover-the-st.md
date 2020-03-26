@@ -1,0 +1,14 @@
+---
+title: "Discover the story behind our dedication to Customer Success"
+date: 2018-04-30T20:08:25.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=755e04e5dbbd57004fc2f4621f961995"
+---
+<p>When we talk about customer success at ServiceNow, one story comes to mind. The story of Phyllis.</p>
+<p>When our founder, Fred Luddy, was a young programmer building an order entry system, it was Phyllis who had to enter all the information into the form. One day she called him over and had him watch her enter the data. The same data. Over and over on different forms. And she said to Fred, “Could you make a button I could press that would fill the information in so I don’t have to type it in again?”</p>
+<p>So Fred went off, wrote the code, and came back a few days later to show Phyllis how it worked. Phyllis gave it a try and, much to Fred’s amazement, she started crying actual tears of joy. That’s when Fred realized the importance of putting your user at the center of everything you do.</p>
+<p>What does Phyllis’s story have to do with customer success? Everything. Because it exemplifies our commitment to putting our customers’ needs first. Which is also why we’re truly excited to introduce the new <a href="http://servicenow.com/success" rel="nofollow">Customer Success Center.</a></p>
+<p>The Customer Success Center provides one central destination for all the tools and resources customers need to achieve their business goals. They’ll find powerful, practical best practices, guides, templates, case studies, and more to help them overcome their biggest challenges, all written by our most knowledgeable subject matter experts.</p>
+<p>We’ve found that customers who have established clear direction and policies around five specific areas get the most value from their journey with us. So we’ve organized the information around what we’re calling the “Five Pillars of Success”:</p>
+<ol><li>Vision &amp; Defined Business Outcomes</li><li>Foundational Technology Architecture</li><li>Sponsorship &amp; Governance</li><li>Process Innovation</li><li>Organizational Adoption</li></ol>
+<p>Customers can also run the numbers on the potential value of ServiceNow to their company with our value calculator. They’ll get a customized value analysis based on real-life results and customer outcomes and discover the untapped potential of ServiceNow solutions.</p>
+<p>Ultimately, the <a href="http://www.servicenow.com/success" rel="nofollow">Customer Success Center</a> will help us be a more close and effective partner to all customers across the entire ServiceNow journey. Because their success, is our success.</p>

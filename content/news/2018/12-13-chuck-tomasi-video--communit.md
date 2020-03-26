@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2018-12-12T20:19:23.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=cb6aff42dbda2f40fb115583ca961968"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="community?id&#61;community_question&amp;sys_id&#61;ef6ae7cadb566f40fa192183ca9619b4" target="_blank" rel="nofollow">could we apply the status contain Resolve Condition in inbound action ( Update Incident (BP))</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;8d5aa7cadb566f40fa192183ca9619c8" target="_blank" rel="nofollow">Server side script (closing child incidents)</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;b2ec2b46dbde23807d3e02d5ca961956" target="_blank" rel="nofollow">Cannot add Studio to favorites?</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;0f6fab8adb562b40b1b102d5ca9619a3" target="_blank" rel="nofollow">Catalog task short description for time zone</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;a8057b4adb52eb40afc902d5ca961982" target="_blank" rel="nofollow">Copy reference label name to another reference field?</a></li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream/tree/master/2018-12-12" target="_blank" rel="nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/nhDfur1fGVg" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="nofollow">Twitch</a>.</p>

@@ -1,0 +1,6 @@
+---
+title: "Aktionen im Connect Support nicht sichtbar PRB"
+date: 2017-01-25T08:09:17.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=f22da6e5dbd0dbc01dcaf3231f9619ad"
+---
+<p>Sehr geehrte Mitglieder unserer User Group Germany,</p><p></p><p>ich möchte Sie auf ein Problem aufmerksam machen, das ggf. in Istanbul beim Connect Support auftreten kann. Bei mir betraf es eine meiner Demo-Instanzen. Die Abhilfe ist ganz einfach, die Fehlersuche jedoch nicht.</p><p></p><p>Wie Sie sicher wissen, kann ein Mitarbeiter im Service Desk aus einem Chat heraus z.B. einen Incident, HR Case oder einen beliebigen anderen Vorgang erstellen. In diesem Vorgang ist dann der Chat-Verlauf gleich mit dokumentiert. Die entsprechenden Optionen werden als Aktionen im Bereich 'Collaborate' konfiguriert.</p><p></p><p>Das Problem: wenn zwei Aktionen den gleichen Namen haben, dann werden alle Aktionen nicht mehr angezeigt. Bei meiner Demo-Instanz gab es z.B. zwei Aktionen mit dem Namen 'Create HR Case'. Die Lösung: eine der Aktionen muß umbenannt werden, dann sind alle wieder sichtbar.</p><p></p><p>Die Details können Sie im o.g. Problem-Artikel nachlesen.</p><p></p><p>Mit freundlichen Grüßen</p><p></p><p>Ralf Schnell</p>

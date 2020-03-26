@@ -1,0 +1,6 @@
+---
+title: "MID Server User Security"
+date: 2010-10-28T19:58:33.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=5f4ea6addbd0dbc01dcaf3231f961911"
+---
+<p><img __jive_id="2417" alt="" class="jive-image" src="screenshot_unique_key_violation.gif.gif" style="width: auto; height: 100px;" />With the recent Fall 2010 release of Service-now.com, a formerly optional feature called "<a title="ki.service-now.com/index.php?title=SOAP_Web_Service#Web_Service_User_Roles" href="http://wiki.service-now.com/index.php?title=SOAP_Web_Service#Web_Service_User_Roles">strict SOAP security</a>" is now turned on by default for any instance that has Basic Authentication turned on (which it is for nearly all of our instances). One consequence of this is that MID servers that authenticate to their Service-now.com instance will no longer work <i>unless</i> the user they're configured to log in with has the appropriate role.<br /><br />Sound intimidating? It's not — we've made it almost trivially easy.<br /><!--break--><br /><img __jive_id="4967" alt="" class="jive-image" src="folders.png" style="width: auto; height: 143px;" />All you have to do is add a new role ("mid_server") to the MID server users. Example at left. Note that when you add the "mid_server" role, the other soap roles are added automatically.</p>

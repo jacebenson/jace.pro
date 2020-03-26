@@ -1,0 +1,6 @@
+---
+title: "SNUG Nederland  December Presentatie"
+date: 2016-12-21T21:29:14.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=d18ca6e1dbd0dbc01dcaf3231f9619d7"
+---
+<p style="font-family: arial, sans-serif; color: #666666;">Bedankt voor uw aanwezigheid bij de SNUG in Gouda op 12 december jl.!</p><p style="font-family: arial, sans-serif; color: #666666;">In de bijlagen vindt u de volgende presentatie:</p><div class="column" style="font-weight: inherit; font-style: inherit; font-family: inherit;"><ul><li><span style="font-weight: inherit; font-style: inherit; font-size: 10pt; font-family: Arial;">Istanbul update - Floris van den Boom, Sr Solution Consultant</span></li></ul></div><p></p><p style="font-family: arial, sans-serif; color: #666666;"><strong style="font-style: inherit; font-family: inherit;">Survey</strong></p><p style="font-family: arial, sans-serif; color: #666666;">Graag horen wij uw op- en aanmerkingen over de afgelopen bijeenkomst. Klik hier om een <a title="ww.surveymonkey.com/r/NLSNUGFeedback" href="https://www.surveymonkey.com/r/NLSNUGFeedback">korte survey</a> in te vullen. Wij waarden uw feedback!</p><p></p><p style="font-family: arial, sans-serif; color: #666666;">We zien u graag op de volgende SNUG bijeenkomst mei 2017!</p>

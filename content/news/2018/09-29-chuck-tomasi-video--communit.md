@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream "
+date: 2018-09-28T20:38:37.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=9c5db14edbf82f848e7c2926ca961983"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="community?id&#61;community_question&amp;sys_id&#61;15da914adbfce704feb1a851ca96195c" target="_blank" rel="nofollow">Reference Field Question</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;ae50e931db34ef08f7fca851ca9619a1" target="_blank" rel="nofollow">How to pass value from scheduled job script to workflow task script?</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;0520ad02dbf8ab84e0e80b55ca96191a&amp;view_source&#61;searchResult" target="_blank" rel="nofollow">BR loop when copying comments from task &lt;-&gt; item :no solution found</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;df4a0ba9db5cdbc01dcaf3231f9619a1" target="_blank" rel="nofollow">how to hide &#34;No Records selected&#34; alert on click of list button</a></li><li>Event Queue</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream" target="_blank" rel="nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/HXFK4V_xuBA" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="nofollow">Twitch</a>.</p>

@@ -1,0 +1,6 @@
+---
+title: "Join Pablo Stern VP  GM of ITOM at Knowledge"
+date: 2017-04-24T22:50:05.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=fbddaae9dbd0dbc01dcaf3231f961944"
+---
+<p><img   alt="Special.png" class="image-1 jive-image" src="230750c2db589fc068c1fb651f961908.iix" style="width: 620px; height: 354px; float: left;"/></p><p></p><p></p><p>If you are attending Knoweldge17, don't miss this opportunity to join Pablo Stern, the VP and General Manager of the IT Operations Management business for an in-depth talk of how the market drivers and customer requirements are shaping the future of IT Operations Management solutions at ServiceNow.</p><p></p><p>Pablo will be presenting the session twice so you have opportunity to fit one of them into your schedule.   First session is on Tuesday May 9 at 11:40am followed by a second edition of the talk on Wednesday May 10 again at 11:40am.</p><p></p><p>Seats are limited, <a title="nowledge.servicenowevents.com/connect/search.ww#loadSearch-searchPhrase=%22Pablo+Stern%22&searchType=session&tc=0&sortBy=&p=" href="https://knowledge.servicenowevents.com/connect/search.ww#loadSearch-searchPhrase=%22Pablo+Stern%22&amp;searchType=session&amp;tc=0&amp;sortBy=&amp;p=">register for Pablo's session today</a></p>

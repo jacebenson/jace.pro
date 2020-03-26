@@ -1,0 +1,6 @@
+---
+title: "Clearing Catalog Variable Reference Fields"
+date: 2012-08-01T10:44:13.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=fc2d26e5dbd0dbc01dcaf3231f96192c"
+---
+<p>When clearing a Reference catalog variable in a script, DO NOT use the <pre __default_attr="plain" __jive_macro_name="code" class="jive_text_macro jive_macro_code"><br />g_form.clearValue('fieldName')</pre>method - it will not hide the Reference Icon, nor reset the mandatory field flag to red, possibly leading to confusion. Use <pre __default_attr="plain" __jive_macro_name="code" class="jive_text_macro jive_macro_code"><br />g_form.setValue('fieldName','')</pre>instead.<br /><br /><img  alt="" class="jive-image" src="a702890edb1897041dcaf3231f961979.iix" style="width: 264px; height: auto;" /><br /><br />Using <pre __default_attr="plain" __jive_macro_name="code" class="jive_text_macro jive_macro_code"><br />clearValue</pre>will also mess up your UI Policies, so make sure you do not use that method on Reference variables.</p>

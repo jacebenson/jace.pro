@@ -1,0 +1,6 @@
+---
+title: "TechNow Episode   REST API"
+date: 2014-10-30T01:04:42.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=d8ccee25dbd0dbc01dcaf3231f961907"
+---
+<p class="p1">Last week, Chuck Tomasi and Andrew Kincaid posted a new episode of TechNow! If you missed it, you can still watch it here.</p><p class="p2"></p><p class="p1">In this episode, Chuck and Andrew guide you through the REST API to read, update, create, and delete records in the ServiceNow platform.</p><p class="p1"></p><p class="p1"><iframe src="https://youtube.com/embed/ovMmd1w048Q" width="425" height="350"/></p><p class="p1"></p><p class="p3">For more information on REST API, see:</p><p class="p4"></p><p class="p3">ServiceNow product documentation:</p><p class="p5"><a title="k-external-small" class="jive-link-external-small" href="http://wiki.servicenow.com/index.php?title=REST_API" rel="nofollow" target="_blank">REST API - ServiceNow Wiki</a></p><p class="p5"></p><p class="p5">Find more TechNow here:</p><p class="p5"><a title="k-external-small" class="jive-link-external-small" href="https://www.youtube.com/playlist?list=PLCOmiTb5WX3ouggdJ4ty2dVUSrki9uYr1" rel="nofollow" target="_blank">TechNow - YouTube</a></p><p class="p4"></p><p class="p3">Your feedback helps us better serve you! Did you find this video helpful? Leave us a comment to tell us why or why not.</p>

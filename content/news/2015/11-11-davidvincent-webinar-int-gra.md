@@ -1,0 +1,6 @@
+---
+title: "Webinar Intgration de Bomgar   ServiceNow le   hh"
+date: 2015-11-10T18:20:40.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=59bd6aa9dbd0dbc01dcaf3231f961901"
+---
+<h4 style="font-family: Raleway, sans-serif; color: #443f3f; margin-top: 10px; margin-bottom: 24px; font-size: 25px;">Intégration de Bomgar í  ServiceNow</h4><p style="margin-bottom: 10px; color: #767676; font-family: 'Source Sans Pro', sans-serif;">Vous avez déjí  investi dans des solutions pour que votre centre de services puisse gérer plus efficacement les problèmes et les demandes des utilisateurs.   Votre logiciel de prise en main í  distance doit s'intégrer de manière transparente í  votre environnement et augmenter votre retour sur ces investissements.   C'est pourquoi Bomgar offre des intégrations préconfigurées pour les principales solutions de gestion de systèmes, de centre de services et de CRM.   Vous pouvez utiliser Bomgar avec Salesforce, <a href="http://www.imakumo.fr/lentreprise/partenaires/servicenow/" style="color: #d65050;" title="ServiceNow">ServiceNow</a>, ou votre propre système pour créer une expérience d'assistance réellement transparente. <a title="ttendee.gotowebinar.com/register/1960607721959121154" href="https://attendee.gotowebinar.com/register/1960607721959121154" style="color: #d65050;">Inscription</a></p>

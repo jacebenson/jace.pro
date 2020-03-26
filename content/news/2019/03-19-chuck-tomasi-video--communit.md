@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2019-03-19T01:32:00.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=a158a341db5c7b44e0e80b55ca961913"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;66838a01db14bfc4a39a0b55ca9619a8" target="_blank" rel="noopener noreferrer nofollow">How to translate Decimal type field values into Spanish</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;32d28e41dbdcb384feb1a851ca9619fe" target="_blank" rel="noopener noreferrer nofollow">Removing all roles based on Last login time, with exception of some roles.</a></li><li>Followup: Yes, you can use ${current.fieldName} in annotations</li><li>addQuery() now reports errors on invalid fields instead of ignoring them</li><li>User tables (w/email) in other tables and sending notifications</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream" target="_blank" rel="noopener noreferrer nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/xSd4pI853fI" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="noopener noreferrer nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="noopener noreferrer nofollow">Twitch</a>.</p>

@@ -1,0 +1,6 @@
+---
+title: "ServiceNow Basics Password Reset"
+date: 2014-09-03T23:12:17.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=32ad66a9dbd0dbc01dcaf3231f961902"
+---
+<p>Password reset is one of the most common requests in an information technology organization. This video provides a brief tour of the Password Reset application and explains how you can use it to automate this repetitive request.</p><p></p><p><iframe src="https://youtube.com/embed/CokNL8aw6hA" width="425" height="350"/></p><p></p><p>For more information on password reset, see:</p><p></p><p>Product Documentation</p><p><a title="k-external-small" class="jive-link-external-small" href="http://wiki.servicenow.com/index.php?title=Password_Reset" rel="nofollow" target="_blank">Password Reset - ServiceNow Wiki</a></p><p></p><p><span style="color: #666666; font-family: arial, sans-serif;">Your feedback helps us better serve you! Did you find this video helpful? Leave us a comment to tell us why or why not.</span></p>

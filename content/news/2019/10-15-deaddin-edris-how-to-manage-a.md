@@ -1,0 +1,14 @@
+---
+title: "How to manage application development on the Now Platform"
+date: 2019-10-15T04:57:59.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=4655fdbcdbe8c494feb1a851ca9619c8"
+---
+<p>Developing applications on the Now Platform can expand your opportunities for innovation, productivity, and improved customer and employee experiences. Low- and no-code can support digital transformation by expanding application development beyond IT, to citizen developers.  However, it is critical that your application development efforts are aligned to your strategy for digital transformation and that you have appropriate guardrails in place to limit technical and portfolio risk.</p>
+<p><span style="color: #000000;">We just released a <a href="https://www.servicenow.com/success/playbook/manage-app-development.html?cid&#61;i:com:smkc:csc" rel="nofollow">new Success Playbook</a> highlighting best practices for managing application development on the Now Platform. We cover everything you need to do to answer the following three key questions:</span></p>
+<ul><li><span style="color: #000000;">Who will build applications on the Now Platform?</span></li><li><span style="color: #000000;">What kind of applications will be built and maintained?</span></li><li><span style="color: #000000;">What authorities will we install for effective governance?</span></li></ul>
+<p><strong><span style="color: #000000;">How should it be used?</span></strong></p>
+<p><span style="color: #000000;">This playbook walks you through managing application development on the Now Platform. It starts with defining your application development strategy, demand intake, and portfolio management processes, and provides guidance on how to expand development activities including best practices on expanding to citizen development.</span></p>
+<p><strong><span style="color: #000000;">How do you know if you’re ready?</span></strong></p>
+<p><span style="color: #000000;">You don’t need to be an active ServiceNow customer! Whether you’re evaluating the platform as a solution to manage your application development, or an existing customer, this playbook will provide guidance on how to support digital transformation initiatives at scale.</span></p>
+<p><span style="color: #000000;"><a href="https://www.servicenow.com/success/playbook/manage-app-development.html?cid&#61;i:com:smkc:csc" rel="nofollow">Download the Success Playbook</a> to begin managing application development on the Now Platform.</span></p>
+<p><span style="color: #000000;"><img src="https://community.servicenow.com/a3f4b17cdbe8c494feb1a851ca96197e.iix" width="769" height="388" /></span></p>

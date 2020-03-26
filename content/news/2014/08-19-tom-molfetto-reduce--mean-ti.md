@@ -1,0 +1,6 @@
+---
+title: "Reduce Mean Time to Know by Mapping Business Services"
+date: 2014-08-18T18:49:02.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=1a9c6ee1dbd0dbc01dcaf3231f9619c2"
+---
+<p><span style="color: #000000; font-family: Calibri; font-size: 12pt;">Let's face it, change management isn't easy. In fact, it's estimated that approximately 80% of IT incidents emerge from executed changes. Organizations can reduce their "Mean Time To Know" and zero in on the root cause of IT incidents more quickly by utilizing a </span><a href="https://www.servicenow.com/products/servicewatch.html"><span style="color: #0563c1; font-size: 12pt; text-decoration: underline; font-family: Calibri;">service dependency mapping solution</span></a><span style="color: #000000; font-family: Calibri; font-size: 12pt;"> that automatically discovers all of the IT components — both application and infrastructure — that support a business service, and is capable of identifying relationships between the components.</span><span style="color: #000000; font-size: 12pt; font-family: Calibri;"><img  alt="it-change-management-survey-infographic.png" class="image-0 jive-image jiveImage" src="737d4902db9c97041dcaf3231f9619f1.iix"/></span></p><p><span style="color: #000000; font-family: Times New Roman; font-size: 12pt;">   </span></p>

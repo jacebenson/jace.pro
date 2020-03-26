@@ -1,0 +1,6 @@
+---
+title: "Knowledge"
+date: 2009-05-08T18:58:40.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=de1e226ddbd0dbc01dcaf3231f9619e6"
+---
+<p><img  alt="" class="jive-image" src="d08b0c8adb9cdb048c8ef4621f961932.iix" style="width: auto; height: 31px;" />This is the "morning after" — that is, the morning after this year's user conference, Knowledge09. We code monkeys had the chance to meet and talk with quite a few of you who are already using Discovery (always fun for us!) as well even more of you who are seriously looking at Discovery. <!--break--><br /><br />While the Discovery lab was useful, it wasn't nearly long enough — there was just too much material to cover in 50 minutes. We're looking at ways to improve that for next year. Those of you who were there — what would you suggest we do differently?<br /><br />The best part for me was getting to meet several people who have dug very deeply into Discovery, and are doing some quite sophisticated things — using every bit of the flexibility and capability we worked so hard to build into the product. Very cool!</p>

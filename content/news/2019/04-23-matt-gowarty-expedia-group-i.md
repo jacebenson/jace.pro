@@ -1,0 +1,14 @@
+---
+title: "Expedia Group increases CMDB accuracy and completeness by getting to the bottom of discovery failures  Hear how they did it by it signing up for breakout session BRE at Knowledge "
+date: 2019-04-22T21:46:35.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=68648b14db417b0014d6fb24399619e1"
+---
+<p>Do you know why I like going to Knowledge so much? It’s not just the keynotes and exhibits. Don’t get me wrong – these are great, but it’s the breakout sessions that really excite me. Breakouts give you the opportunity to get real-world ideas from other ServiceNow users and bring these back to your own team.</p>
+<p>Here’s a perfect example. Back in 2015, my team attended a session by Levi Strauss &amp; Co, and it inspired us to build something similar. Now, things have come full circle, and I’m going to be presenting what we built at our own breakout session at Knowledge this year.</p>
+<p>By the way, I should introduce myself. I’m Stephen Phayre, and I’m a Senior IT Service Management Leader at Expedia Group.</p>
+<p><strong>A ServiceNow app that makes it easy to troubleshoot discovery failures</strong></p>
+<p>So, exactly what have we built? It’s a ServiceNow app that helps us to identify and troubleshoot discovery failures, making it easy for support teams to evaluate success and fix problems. As you probably know, there are lots of network and device issues that can cause discovery to fail, and this app gives us the insights we need to figure out what has gone wrong.</p>
+<p>How do we do this? The app takes apart logs from Discovery, extracting the success and error data by digging deep into the XML in a kind of “IP Forensics” process. The app then populates this data into a corresponding table in our CMDB, connecting it to CIs and making it easy to read.</p>
+<p><strong>Discover more (pardon the pun) by signing up for my session</strong></p>
+<p>At my breakout session, I’ll be talking about how we went about building the app. Even more important, I’ll explain how Expedia Group is using this data and the value we’re getting out of it. if you are already thinking of doing something similar – or simply want to find out more – I recommend that you sign up for my session BRE0971, “Exposing discovery logs to mitigate failures,” so I can share our experience with you.</p>
+<p>And, if you do implement something similar yourself and find even better ways of doing this, please remember to share it with the ServiceNow community. If we all “pay it forward”, we’re all going to benefit. As I said before, that’s really the power of Knowledge, and it’s why we keep coming back.</p>

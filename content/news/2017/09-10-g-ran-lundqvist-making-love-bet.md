@@ -1,0 +1,6 @@
+---
+title: "Making Love between Order guide and Request"
+date: 2017-09-09T20:30:14.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=e28c2ae1dbd0dbc01dcaf3231f961979"
+---
+<p>If you been working with Order guides you know that there is room for improvement on how it works in ServiceNow. I've been looking into this in the view of that a requirement was to set a SLA on the order guide it self. Not on a specific item connecting to it, but the whole "request". Problem here was that on the request, you can't see from which order guide it was generated from or even if it was generated from a order guide or not.</p><p></p><p>So I made this video showing you how you can to do make this reality. It doesn't require so many steps and hopefully it will be useful to a lot of people out there and making you come up with your own areas to use this.</p><p></p><p><iframe src="https://youtube.com/embed/kE8NHyLoWxY" width="440" height="330"/></p><p></p><p>//Göran</p><p></p><p><img   alt="Symfoni Logo Color Box.jpg" class="image-2 jive-image" height="54" src="7832bc82db5cd704ed6af3231f9619ce.iix" style="width: 182px; height: 53.6532px;" width="182"/><img   alt="sn-community-mvp.png" class="image-1 jive-image" src="b56b1502db1c13043eb27a9e0f961984.iix" style="width: auto; height: auto;"/></p>

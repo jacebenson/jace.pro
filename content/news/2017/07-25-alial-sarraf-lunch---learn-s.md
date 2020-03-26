@@ -1,0 +1,6 @@
+---
+title: "Lunch  Learn Seminar   Mei "
+date: 2017-07-24T17:14:34.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=cdecea65dbd0dbc01dcaf3231f9619a8"
+---
+<p>De Lunch &amp; Learn Seminar (30 Mei jl.), in samenwerking met Plat4mation, stond in het teken van een verhoogde klanttevredenheid en operationele efficiency. Hoofdvraag was: hoe kunnen we de dienstverlening verbeteren tegen lagere kosten? </p><p></p><p>Het event, in het NBC Congrescentrum te Nieuwegein, startte met een lunch en tevens de mogelijkheid om direct te netwerken met branchegenoten. Aansluitend werden er presentaties verzorgd door Peak-IT, Plat4mation en ServiceNow. </p><p></p><p>De presentaties informeerden men op de volgende onderwerpen. </p><ul style="list-style-type: disc;"><li>Peak-IT (Marco Batist):   Het Operating Model van een IT dienstverlener en de Business Case voor ServiceNow. </li><li>Plat4mation (Raymond Beijerling): ServiceNow in de praktijk: Wijze van implementeren en enkele concrete voorbeelden.</li><li>ServiceNow (Renate Groen): De kracht van het ServiceNow platform. </li></ul><p></p><p>Na deze presentaties was er een borrel met opnieuw de mogelijkheid om te netwerken.</p><p></p><p>Dank gaat uit naar onze partners en de aanwezigen voor het succesvol laten verlopen van het event. </p><p></p><p>In de bijlagen de presentaties van het event.</p>

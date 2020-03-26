@@ -1,0 +1,6 @@
+---
+title: "Immediate Opportunity in the Sacramento area for ServiceNow professionals"
+date: 2015-10-19T22:21:23.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=437ce2e1dbd0dbc01dcaf3231f961960"
+---
+<p>The Kilderkin Group is seeking a motivated individual for an exciting and immediate opportunity in our growing Cloud Solutions practice in the Sacramento and Bay area.   For details of the opportunities, please look at the job posting at:</p><p></p><p> <a href="https://recruit.zoho.com/ats/Portal.na?digest=Tn6wMjr5djQO6sE1k68EtgATq4KroRCDjdclselYpOM-"><span style="color: #0b4cb4;">https://recruit.zoho.com/ats/Portal.na?digest=Tn6wMjr5djQO6sE1k68EtgATq4KroRCDjdclselYpOM-</span></a> </p><p></p><p>Job openings ID 117,118 &amp; 119 are the open positions for   Kilderkin Group LLC.</p><p></p><p>If you are interested please apply online.   If you have questions, please call me at 760.803.3850.</p><p></p><p>Thank you.</p><p></p><p>Enrique 'Bong' Lastrilla</p><p>Director - Operations West</p><p>Kilderkin Group LLC</p><p>Mobile:   760.803.3850</p>

@@ -1,0 +1,6 @@
+---
+title: "ServiceNow Team Development Demo"
+date: 2014-08-26T01:32:25.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=036caea1dbd0dbc01dcaf3231f961906"
+---
+<p>In this video, <a title="" _jive_internal="true" class="jiveTT-hover-user jive-link-profile-small" data-containerid="-1" data-containertype="-1" data-objectid="3675" data-objecttype="3" href="/community?id=community_user_profile&user=81d19eeddb981fc09c9ffb651f96194e">Keyvan Berenjian</a> shows how multiple developers can collaborate on the same project using team development.</p><p></p><p><iframe src="https://youtube.com/embed/sqaHB64Lzsg" width="425" height="350"/></p><p></p><p>For more information on team development, see:</p><p></p><p>ServiceNow Product Documentation</p><p><a title="k-external-small" class="jive-link-external-small" href="http://wiki.servicenow.com/index.php?title=Team_Development" rel="nofollow" target="_blank">Team Development - ServiceNow Wiki</a></p><p></p><p><span style="color: #666666; font-family: arial, sans-serif;">Your feedback helps us better serve you! Did you find this video helpful? Leave us a comment to tell us why or why not.</span></p>

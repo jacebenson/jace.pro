@@ -1,0 +1,6 @@
+---
+title: "Snappcast  Episode   Inbound email user creation"
+date: 2011-10-22T02:19:15.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=d8dc2665dbd0dbc01dcaf3231f961964"
+---
+<p>This episode will demonstrate how to onboard people in ServiceNow through an inbound email action and a scripted web service.<br /><br /><object width="480" height="411" id="limelight_player_862569o" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"><param name="movie" value="http://assets.delvenetworks.com/player/loader.swf" /><param name="wmode" value="window" /><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="true" /><param name="flashvars" value="mediaId=bc43e268341e45c9800f299b41a1250d&amp;playerForm=DelvePlayer" /><embed src="http://assets.delvenetworks.com/player/loader.swf" name="limelight_player_862569e" wmode="window" width="480" height="411"  allowfullscreen="true" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" flashvars="mediaId=bc43e268341e45c9800f299b41a1250d&amp;playerForm=DelvePlayer" ></embed></object></p>

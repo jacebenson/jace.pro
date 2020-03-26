@@ -1,0 +1,6 @@
+---
+title: "Creating a Live Feed Homepage Widget"
+date: 2011-10-17T19:58:10.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=59dda6e9dbd0dbc01dcaf3231f96191b"
+---
+<p>ServiceNow <a title="ki.service-now.com/index.php?title=Live_Feed" href="http://wiki.service-now.com/index.php?title=Live_Feed" target="_blank">Live Feed</a> is a great new functionality that provides a place to post and share content in a ServiceNow instance. This content forms a searchable knowledge source for sharing information within an organization. I've had a request recently to make this feature accessible from a user homepage. <a title="w.servicenowguru.com/system-ui/creating-live-feed-homepage-widget/" href="http://www.servicenowguru.com/system-ui/creating-live-feed-homepage-widget/">This article explains</a> how you can easily create a Live Feed homepage widget.<br /><br /><center><a href="http://www.servicenowguru.com/system-ui/creating-live-feed-homepage-widget/"><img src="http://www.servicenowguru.com/wp-content/uploads/2011/10/LiveFeedHomepageWidget-300x280.jpg" alt="Live Feed Homepage Widget" title="Live Feed Homepage Widget" width="300" height="280" class="aligncenter size-medium wp-image-4102" /></a></center></p>

@@ -1,0 +1,6 @@
+---
+title: "JavaScript Tips and Tricks JSUtil"
+date: 2010-02-11T20:29:56.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=e35c6aa1dbd0dbc01dcaf3231f961941"
+---
+<p><img  alt="" class="jive-image" src="ad9f81cedb9c97041dcaf3231f961946.iix" style="width: auto; height: 209px;" />Did you know that your Service-now instance comes complete with a handy-dandy set of commonly used JavaScript utility methods? These are in a script include named "JSUtil", and you can easily use its methods in your scripts.<br /><br />For example, there's a method named "nil()" (along with "notNil()" that lets you easily test whether a value is null, undefined, or an empty string. You might use it in your own code it like this:<br /><pre style="margin-left:20px;line-height:1;"><br />function myFunc(val) {<br />    if (JSUtil.nil(val))<br />        return null;<br />    return 'My prefix: ' + val;<br />}<br /></pre><br />That's all there is to it! Take a look at the script include to see what's in it — all the methods are documented. And if you think of another method that ought to be in there, please add a comment describing what you'd like to see...<br /><!--break--></p>

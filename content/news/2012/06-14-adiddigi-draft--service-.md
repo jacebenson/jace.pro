@@ -1,0 +1,6 @@
+---
+title: "Draft Service Catalog  Part "
+date: 2012-06-13T16:51:48.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=110daaa5dbd0dbc01dcaf3231f961924"
+---
+<p>Hello,<br /><br />In this series of posts, I would be blogging on what was done, to introduce a draft module for Service Catalog.<br />Incident, Problem and Change all three of these have 'Draft' as a state.But why don't we have draft for Service Catalog?I never noticed this until my Senior Process Consultant, Prashanth A Prabhakara asked me this question. I started to think and with the help of my Manager Loyola Ignatius, I was able to nail the requirement.<br />When I started I thought I should be modifying a lot of OOB Macros.But I am happy that I completed this with modifying minimal amount of OOB components(keeping in mind the Upgrades).<br /><br />Technically I would first explain what we would be doing, and in the coming posts I would present more code and explanation.<br /><br />A button called Draft would be created next to "OrderNow" which when clicked will add the current form in as-is state as an item to a module called "My Drafts".<br />...<br /><b><a title="rvicenowdiary.com/2012/06/draft-service-catalog-part-1/" href="http://servicenowdiary.com/2012/06/draft-service-catalog-part-1/" target="_blank">Read the Entire Post here</a></b></p>

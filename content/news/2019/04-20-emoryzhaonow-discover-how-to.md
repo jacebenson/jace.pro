@@ -1,0 +1,11 @@
+---
+title: "Discover how to take control of your cloud spend Join Breakout  at Knowledge "
+date: 2019-04-20T03:10:24.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=6ab13cebdb307f0cfece0b55ca961904"
+---
+<p><em>Shaun Millin talks about his upcoming ITOM Optimization breakout session at Knowledge 2019</em></p>
+<p><br />The cloud is an incredible vehicle for innovation. With its agility and on-demand capacity, it’s driving digital transformation across the enterprise. Remember the days before the cloud? We measured change in months or years. Now, change happens in days – or even minutes.</p>
+<p><br />However, unless you manage that agility, cloud costs spiral upwards. In fact, a recent analyst report showed that 30% of cloud spend is wasted because of poor visibility and control. That’s 30% you could be spending on things that matter – rather than throwing money away revving the cloud’s engine with the gear stuck in neutral.</p>
+<p><br />That’s why I’m really pumped up about our ITOM Optimization breakout session at Knowledge this year. Along with my colleague, Vani Banaji, I’ll be talking about how ServiceNow helps you get a handle on out-of-control cloud spend. With near real-time insights into cloud utilization and automatic remediation across your cloud environment, ITOM Optimization gives you the visibility and control you need to take charge of your cloud budget.</p>
+<p><br />During the session, we’ll cover the new capabilities in recent Cloud Management releases, and we’ll also introduce you to our new Cloud Insights offering. Whether you are pure cloud, cloud first, or hybrid – or still evaluating cloud deployment – this is going to be a great session that will help you understand how to optimize your cloud spend. See you at Knowledge!</p>
+<p><em>Shaun Millin heads up ITOM Optimization product management for ServiceNow. You can learn more about what’s new in ITOM Optimization by signing up for breakout session BRE1404 at Knowledge 2019.</em></p>

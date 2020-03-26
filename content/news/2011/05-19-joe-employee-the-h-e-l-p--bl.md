@@ -1,0 +1,6 @@
+---
+title: "The help Blog Live from Knowledge"
+date: 2011-05-18T22:30:11.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=07edeee9dbd0dbc01dcaf3231f9619af"
+---
+<p>The h.e.l.p. Blog Live from Knowledge11!<br /><br />Hello fellow community members, if you are one of the lucky 1,000+ attendees of this year's Knowledge conference I don't need to tell you how exciting this year's conference has been!<br /><br />If you are a fan of Twitter be sure to check out #know11 for all the exciting live tweets from the event (also feel free to follow me <a title="itter.com/JoeEmployee" href="http://twitter.com/JoeEmployee">@JoeEmployee</a>) Additionally I have been busy taking lots of photos of the event and those can be found on Flickr- http://tinyurl.com/66mgbzn Please feel free to comment or if know anyone in the pics please tag them.<br /><br />If you are at the event please feel free to leave any remarks you have here I would love to start a dialog about the Knowledge Conference. If you did not get to attend and have questions please ask them here as well I am sure there are people who would love to talk to you about the event.<br /><br />I will have more commentary and helpful information from Knowledge11 in the week to come but for now I must get back to the fun!<br /><br />Joe Employee</p>

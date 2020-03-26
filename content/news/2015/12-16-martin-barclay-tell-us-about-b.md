@@ -1,0 +1,6 @@
+---
+title: "Tell us about being a Certified Application Developer"
+date: 2015-12-15T09:14:57.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=be8de669dbd0dbc01dcaf3231f96195e"
+---
+<p>As we ramp up planning for <a title="owledge.servicenow.com/creatorcon.html" href="http://knowledge.servicenow.com/creatorcon.html">CreatorCon</a> at Knowledge16, we are seeking feedback on the outcomes that members of the developer community have experienced since passing the ServiceNow <a title="w.servicenow.com/services/training-and-certification/certified-application-developer.html" href="http://www.servicenow.com/services/training-and-certification/certified-application-developer.html">Certified Application Developer</a> exam, to help us determine how best to offer free certification exams at the next CreatorCon.</p><p></p><p>If you are a Certified Application Developer, please respond to this <a title="ww.surveymonkey.com/r/PYZFTW7" href="https://www.surveymonkey.com/r/PYZFTW7">2-minute survey</a> (tops - maybe 1 minute).</p><p></p><p>Thank You!</p>

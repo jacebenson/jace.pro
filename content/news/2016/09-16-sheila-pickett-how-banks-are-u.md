@@ -1,0 +1,6 @@
+---
+title: "How Banks are using the ServiceNow platform to improve HR Services"
+date: 2016-09-15T22:46:02.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=adada2a9dbd0dbc01dcaf3231f961999"
+---
+<p>Why are so many banks turning to ServiceNow to address their HR service management challenges? In this article, <a title="a.linkedin.com/in/juliasmithconsultant" href="https://ca.linkedin.com/in/juliasmithconsultant">Julia Smith</a> reviews examples of how leading HR professionals are addressing cost pressures, regulatory requirements, talent recruitment, knowledge transfer, and other challenges faced by financial services companies. </p><p></p><p><a href="https://www.linkedin.com/pulse/how-banks-using-servicenow-platform-improve-hr-services-julia-smith?trk=prof-post" title="https://www.linkedin.com/pulse/how-banks-using-servicenow-platform-improve-hr-services-julia-smith?trk=prof-post">https://www.linkedin.com/pulse/how-banks-using-servicenow-platform-improve-hr-services-julia-smith?trk=prof-post</a> </p>

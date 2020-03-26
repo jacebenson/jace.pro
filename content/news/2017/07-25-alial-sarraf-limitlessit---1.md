@@ -1,0 +1,6 @@
+---
+title: "LimitlessIT   Juni "
+date: 2017-07-24T17:51:12.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=607c22e1dbd0dbc01dcaf3231f961941"
+---
+<p> Op 1 juni jongstleden vond het LimitlessIT event plaats in de Cinemec te Utrecht. Deze seminar stond in het teken van een geí¯ntegreerd cloud-platform binnen de business. </p><p></p><p><em>''U spendendeert veel meer tijd als businesspartner. Een modern Service Management Cloud platform zal u helpen om deze samenwerking beter te stroomlijnen en communicatie te vereenvoudigen. U heeft de mogelijkheid om uw organisatie zo in te richten dat u in samenspraak met de Business ongekende service levert waarbij de werkbaarheid en verantwoording van de IT eenvoudig te managen blijft.''</em></p><p></p><p>Het event begon met een lunch in de Cinemec. Na deze lunch werden er verschillende presentaties gegeven. Erik Foeken startte met Keynote LimitlessIT. Vervolgens werd er een Customer Experience presentatie gegeven door onze klant, Ralf Thissen van PON. </p><p>Na deze presentatie waren er Break Outs op het gebied van; ITSM, ITOM en ITBM. Deze Break Outs werden afgesloten met een aantal afsluitende woorden en een netwerkborrel. Ook konden de aanwezigen, nadien, gebruik maken van de mogelijkheid een film te bezoek in de Cinemec.</p><p></p><p>In de bijlagen de presentaties van deze dag.</p>

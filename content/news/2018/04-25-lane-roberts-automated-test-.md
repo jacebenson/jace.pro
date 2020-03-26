@@ -1,0 +1,13 @@
+---
+title: "Automated Test Framework FAQs How do I ATF"
+date: 2018-04-24T23:40:11.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=d14502e7db2dd340852c7a9e0f961916"
+---
+<h4><strong>Automated Test Framework FAQs: How do I ATF?</strong></h4>
+<p>The following resources have been created to help enable customers, vendors, and partners alike in getting up to speed on creating their first Automated Test Framework tests:</p>
+<h4 style="padding-left: 30px;"><strong><a title="NowSupport Youtube content" href="https://www.youtube.com/user/servicenowdemo?url&#61;https%3A//www.youtube.com/user/servicenowdemo" target="_blank" rel="nofollow">NowSupport Youtube content</a>:</strong></h4>
+<h4 style="padding-left: 30px;"><iframe id="video_tinymce" style="width: 100%; height: 480px;" src="https://www.youtube.com/embed/WqWt3lx24Hc"></iframe><iframe id="video_tinymce" style="width: 100%; height: 480px;" src="https://www.youtube.com/embed/nDj7Bo7Jkkk"></iframe></h4>
+<h4 style="padding-left: 30px;"><a title="ServiceNow Product Documentation" href="https://docs.servicenow.com/" target="_blank" rel="nofollow">S</a><a title="ServiceNow Product Documentation" href="https://docs.servicenow.com/" target="_blank" rel="nofollow"><strong>erviceNow Product Documentation</strong></a><strong>:</strong></h4>
+<ul><li>
+<ul><li><a title="Automated Test Framework Overview" href="https://docs.servicenow.com/bundle/kingston-application-development/page/administer/auto-test-framework/concept/atf-overview.html" target="_blank" rel="nofollow">Automated Test Framework Overview</a></li><li><a title="Administering the Automated Test Framework" href="https://docs.servicenow.com/bundle/kingston-application-development/page/administer/auto-test-framework/concept/atf-admin-overview.html" target="_blank" rel="nofollow">Administering the Automated Test Framework</a></li><li><a title="Build and run your first automated test" href="https://docs.servicenow.com/bundle/kingston-application-development/page/administer/auto-test-framework/task/atf-tut-build-first.html" target="_blank" rel="nofollow">Build and run your first automated test</a></li><li><a title="Building and running automated test suites" href="https://docs.servicenow.com/bundle/kingston-application-development/page/administer/auto-test-framework/concept/atf-suites-overview.html" target="_blank" rel="nofollow">Building and running automated test suites</a></li><li><a title="Automated test framework properties" href="https://docs.servicenow.com/bundle/kingston-servicenow-platform/page/administer/auto-test-framework/reference/atf-admin-properties.html" target="_blank" rel="nofollow">Automated test framework properties</a></li></ul>
+</li></ul>

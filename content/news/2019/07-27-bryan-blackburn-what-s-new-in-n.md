@@ -1,0 +1,45 @@
+---
+title: "Whats New in New York for SAM and ITAM"
+date: 2019-07-26T22:00:08.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=85865047dbf6f7406064eeb5ca9619ad"
+---
+<p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/9365dd52dbaf778414d6fb24399619e7.iix" /></p>
+<p>In the New York release of Software Asset Management and IT Asset Management, we continue our focus on expanding use cases, features, and capabilities that align with real business objectives. We actively thought of the user experience and how to best support our customers, simplify processes, and create even more opportunities for success.</p>
+<p class="p2">SaaS License Management makes its General Availability debut in this release, enabling customers to detect, analyze, and optimize SaaS across the business. Here is a full list of new features included in New York:</p>
+<ul><li>SaaS License Management</li><li>SAP Publisher Pack Enhancements</li><li>HR Asset Onboarding</li><li>Microsoft Software Assurance</li><li>Citrix Publisher Pack Enhancements</li><li>Mobile Asset Receiving</li><li>Mobile My Assets</li></ul>
+<h3 class="p1">SaaS License Management</h3>
+<p class="p1">As the SaaS market continues to explode, asset managers are faced with a growing number of challenges when managing SaaS and Shadow IT. With ServiceNow SaaS License Management, you can detect SaaS purchases and Shadow IT across the company, comparing your financial records with a library of 60,000&#43; applications. These discoveries are categorized to show you overlapping software (in-use applications that perform similar business functions) to assist in rationalizing your software stack). Additionally, get a deep usage analysis for top publishers to monitor usage and optimize spend.</p>
+<h4 class="p1">Software Spend Detection</h4>
+<p class="p1">With ServiceNow® Software Spend Detection, uncover the true picture of SaaS and software purchases made across the business. Complete your software inventory by discovering what SaaS and software you actually own, including those purchases on “shadow SaaS” not hitting your radar. With predictive intelligence and machine learning, software purchases are quickly categorized to help you rationalize in-use applications, consolidate redundant services, and budget more effectively for future purchases. Our vast catalog of 60,000&#43; software publishers continues to grow, enabling our customers to discover more and manage SaaS thoroughly.</p>
+<p class="p2"> <img src="https://community.servicenow.com/3284500bdbb6f7406064eeb5ca96199e.iix" /></p>
+<h4 class="p1">Overlapping Software</h4>
+<p class="p1">With ServiceNow Overlapping Software, gain visibility of redundant applications in your software portfolio to rationalize in-use applications, consolidate applications with similar functionality, and reduce software costs with actionable spend data.</p>
+<p class="p2"> <img src="https://community.servicenow.com/cf94d8c7dbb6f7406064eeb5ca96191c.iix" /></p>
+<h2 class="p1">SAP Publisher Pack</h2>
+<p class="p1">Building off of the Madrid release, we’ve enhanced our SAP Publisher Pack in NY to help our customers identify Indirect Access and license coverage for third-party integrations to avoid audit surprises. You can now assign the most optimized license type to users who may be either under licensed or over licensed depending on their role. The SAP Publisher Pack identifies transactions being performed in SAP based on user’s activity (number of steps the user is taking in the system, the amount of time spent in the application, and number of database records that have been changed or viewed).</p>
+<p class="p2"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/fca4ce73db67b788fff8a345ca96194e.iix" /></p>
+<h2 class="p1">HR Asset Onboarding</h2>
+<p class="p1">With HR Asset Onboarding, you can source, configure, and deploy hardware and software in one place. For companies that hire hundreds or thousands of new employees each year, it is vital for businesses to provision their assets at scale. With simplified workflows, you can auto-provision or reallocate software licenses and IT assets for simplified onboarding processes.</p>
+<p class="p2"><span class="Apple-converted-space"><img src="https://community.servicenow.com/fac4908bdbb6f7406064eeb5ca961931.iix" width="338" height="271" /> .      <img src="https://community.servicenow.com/b4e4988bdbb6f7406064eeb5ca961987.iix" width="347" height="271" />           </span></p>
+<h2 class="p1">Microsoft Software Assurance</h2>
+<p class="p1">Microsoft is a complex licensing system with special maintenance licensing which requires adjustments to how entitlements and software models are managed beyond the typical publisher. With ServiceNow’s New York release, we will provide customers the ability to capture Software Assurance licenses within Software Asset Management. Microsoft Software Assurance helps tackle the primary use cases of gaining access to the latest versions of products, identifying step-up (upgrade) and downgrade opportunities, and tracking entitlements for Software Assurance and Perpetual &#43; Software Assurance.</p>
+<p class="p2"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/683319c0db4808905129a851ca9619e2.iix" /></p>
+<h2 class="p1">Citrix Publisher Pack Enhancements</h2>
+<p class="p1">Building off of the London release, enhancements to the Citrix Publisher Pack in New York offers new “per user/device” license metric in addition to “concurrent” license metrics previously supported, support for Published Desktops, and license calculations based on who has potential access to applications on various devices.</p>
+<h2 class="p1">Mobile Asset Receiving</h2>
+<p class="p1">IT agents can receive an asset by scanning barcodes with a mobile iOS or Android device, simplifying the receiving process and enabling IT to make their work mobile. Assets are received against open Purchase Orders; a receiving slip can also be attached via mobile camera so that your asset inventory stays up-to-date, in real-time. Asset records are automatically updated from mobile workflow and received to a location stockroom.</p>
+<p class="p1"><img src="https://community.servicenow.com/2c26588fdbb6f7406064eeb5ca9619e5.iix" width="723" height="402" /></p>
+<h2 class="p1">Mobile My Assets</h2>
+<p class="p1">With Mobile My Assets, customers can create asset incidents via mobile devices. End users can view all assets assigned to them as well as open an incident on that asset while on the go.</p>
+<h2 class="p2"><img src="https://community.servicenow.com/dc66d407dbf6f7406064eeb5ca96195c.iix" />Learn More</h2>
+<p class="p1">Check out the <a href="https://www.servicenow.com/products/it-asset-management.html" target="_blank" rel="noopener noreferrer nofollow">ITAM product page</a> for more information or check out a <a href="https://sc.service-now.com/democenter?id&#61;dc_product&amp;product_id&#61;sam" target="_blank" rel="noopener noreferrer nofollow">demo</a>.<span class="Apple-converted-space">  </span>Schedule a conversation with your ServiceNow account today to learn more.</p>
+<p class="p2"> </p>
+<p class="p1"><span style="font-size: 8pt;">ServiceNow, the ServiceNow logo, Now, Now Platform, and other ServiceNow marks are trademarks and/or registered trademarks of ServiceNow, Inc. in the United States and/or other countries. Other company names, product names, and logos may be trademarks of the respective companies with which they are associated.</span></p>
+<p> </p>
+<p class="ng-scope">...........................................................................................................................................................................................................</p>
+<h3 class="ng-scope">Watch the videos <br /><a href="https://go.servicenow.com/LP&#61;13318?referenceSource&#61;communityblog" target="_blank" rel="noopener noreferrer nofollow">The Now Platform New York release on demand webinar</a>.</h3>
+<p class="ng-scope" style="padding-left: 30px;">The Now Platform New York release delivers breakthrough innovations in enterprise mobile, intelligence, and workspaces. Join the broadcast to see how you can take advantage of these innovations and have an even bigger impact in your organization.</p>
+<p class="ng-scope" style="padding-left: 30px;"><a href="https://go.servicenow.com/LP&#61;13318?referenceSource&#61;ODcommunity" rel="nofollow"><img class="community_image_fullscreen" style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.comhttps://community.servicenow.com/1bbbe504db080c500be6a345ca961958.iix" alt="image" /></a></p>
+<p class="ng-scope">............................................................................................................................................................................................................</p>
+<p> </p>
+<p> </p>

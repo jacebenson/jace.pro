@@ -1,0 +1,11 @@
+---
+title: "Video Community Live Stream  "
+date: 2020-02-10T23:44:54.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=d9255d43db72441c14d6fb24399619de"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;c8bb9c0b1b3a409cada243f6fe4bcb79" target="_blank" rel="noopener noreferrer nofollow">What basic changes required for ITSM implementation</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;15a5e04fdb3a841c6064eeb5ca96195f" target="_blank" rel="noopener noreferrer nofollow">Question about SOAP</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;55552ccbdbbe401c5ed4a851ca961984" target="_blank" rel="noopener noreferrer nofollow">$rootScope.$broadcast - confusing argument</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;c53d48c6dbfa48d8feb1a851ca96194d" target="_blank" rel="noopener noreferrer nofollow">Modify ui_date_time UI Macro.</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_article&amp;sys_id&#61;625757a6dbe31f44a8562926ca961919" target="_blank" rel="noopener noreferrer nofollow">List V3 Going the Way of the Dodo?</a></li><li>Preventing Null Pointer Exceptions</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream/tree/master/2020-02-10" target="_blank" rel="noopener noreferrer nofollow">GitHub repository.</a></p>
+<p> </p>
+<center><iframe id="video_tinymce" style="width: 100%; height: 480px;" src="https://www.youtube.com/embed/qTj27S_XDLI"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="noopener noreferrer nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="noopener noreferrer nofollow">Twitch</a>.</p>

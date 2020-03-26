@@ -1,0 +1,23 @@
+---
+title: "Service Mapping with TAGs"
+date: 2020-02-27T22:05:21.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=7c6124a8dbdf805013b5fb243996194c"
+---
+<p style="text-align: justify;">The quest for business agility has led us currently to an era of digital transformation. IT organizations are adopting new operational strategies focusing on speed and precision. Hyperscale applications are increasingly built and deployed using a decentralized DevOps model, relying on composable, elastic infrastructure services from the cloud, container, serverless, and hyper-converged technologies.</p>
+<p style="text-align: justify;"><br />Digital transformation is at the forefront of the CIO’s priorities. For leading organizations, multi-cloud is about leveraging the right applications and services to differentiate their business. IT needs to speak the language of business. Unless IT understands how infrastructure affects the application services that the business relies on, it can’t make informed decisions. ServiceNow’s Service Mapping framework creates a complete and accurate map of all the IT components that support an application service, including their dependencies how they connect together to deliver the service. The top-down service mapping feature uses entry points like URL and will accurately decipher the connections based on traffic and config file parsing.</p>
+<p style="text-align: justify;"><img src="https://community.servicenow.com/8b0ed068db5f805013b5fb243996192a.iix" width="729" height="300" /></p>
+<p style="text-align: justify;">With the heavy adoption of more modern technology stacks like cloud and containers, mapping strategy has to evolve. The “Tag-based service mapping” feature introduced in Orlando release is a game-changer. Tagging resources has become the de facto standard for establishing governance models for cloud and container workloads. All cloud providers and container technologies offer tagging capabilities, allowing you to label resources with configurable key/value pairs. Tags make it easier to manage, search, and filter resources—for example, by associating resources with specific application services, cost centers, projects, or other entities.</p>
+<p style="text-align: justify;"><br />ServiceNow Discovery framework will allow customers to discover tags from virtualized, hyper-converged and multi-cloud infrastructure technology stacks. Out of box discovery capability will populate the discovered tag and its association into the cmdb_key_value pair table. Orlando release will have a policy engine that can be used to define the policy parameter for application tags which can be used to build the application construct for your CSDM (Common Service Data Model) initiatives.</p>
+<p style="text-align: justify;"><strong>Screenshot: K8S POD with app tag</strong></p>
+<p style="text-align: justify;"><img src="https://community.servicenow.com/173ed0e8db5f805013b5fb24399619c6.iix" width="695" height="272" /></p>
+<p style="text-align: justify;"><strong>Screenshot: Service Mapping View of an application service created based on the TAG value. </strong></p>
+<p style="text-align: justify;"><img src="https://community.servicenow.com/75de9420db9f805013b5fb2439961938.iix" width="674" height="429" /></p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><strong>Screenshot: Dependency View for ITSM / Event management </strong></p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><img src="https://community.servicenow.com/339e54acdb5f805013b5fb2439961924.iix" width="662" height="508" /></p>
+<p style="text-align: justify;">ServiceNow is the data platform that drives automation and delivers outcomes for ITOps/CloudOps business units. Visibility to modern technology stacks with application context drives quantifiable outcomes to reduce cost and improve productivity for the CloudOps/ DevOps and SRE teams.</p>
+<p style="text-align: justify;"> </p>
+<p style="text-align: justify;"><strong>Useful Documentation Links</strong> :</p>
+<p style="text-align: justify;"><a href="https://aws.amazon.com/answers/account-management/aws-tagging-strategies/" rel="nofollow">AWS best practices on Tagging Strategies</a></p>
+<p style="text-align: justify;"><a href="https://www.servicenow.com/lpwhp/application-context-infastructure.html" rel="nofollow">Service Mapping Whitepaper</a></p>

@@ -1,0 +1,6 @@
+---
+title: "accessing web services via visual basic"
+date: 2009-11-18T05:58:40.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=90fda22ddbd0dbc01dcaf3231f961900"
+---
+<p>Hi - I'm trying to access the incident table via web services but have not been successful. Here is the code:<br /><br />Dim rProxy As New ConsoleApplication1.wp1.ServiceNow<br />Dim rGetKeys As New ConsoleApplication1.wp1.getKeys<br />Dim rGetKeysResponse As ConsoleApplication1.wp1.getKeysResponse<br /><br />rGetKeys.number = "INC11470"<br /><br />rGetKeysResponse = rProxy.getKeys(rGetKeys)<br />Console.WriteLine("testing.")<br />Console.WriteLine(rGetKeysResponse.sys_id)<br />Console.ReadLine()<br /><br />I keep getting NullReferenceException was unhandled at the rGetKeysResponse.sys_id line. Has anyone else been able to get this to work? I have been able to do the same thing in perl and it was very easy, but perhaps I don't understand the data coming back and I don't know how to access it using VB.</p>

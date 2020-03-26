@@ -1,0 +1,6 @@
+---
+title: "Off Topic"
+date: 2009-03-23T18:53:37.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=571da2e5dbd0dbc01dcaf3231f961916"
+---
+<p><img __jive_id="4777" alt="" class="jive-image" src="Bookmark.png" style="width: auto; height: 83px;" />Yesterday, my wife and I along with two other couples traveled out to the Anza Borrego desert, an area just east of the San Diego mountains I live in. It's about 50 miles from our home (and about 85 miles from the wooden spaceship), but it looks like another planet — hot and dry, but full of life. We were visiting this time to see the wildflowers.<!--break--><br /><br />Because we had better rains this winter than we have had for the past few years, this year we were treated to a particuarly nice display. The flower at right is an <a title=".wikipedia.org/wiki/Ocotillo" href="http://en.wikipedia.org/wiki/Ocotillo">ocotillo</a> bloom (click to enlarge). For many locals, the ocotillo is the "signature plant" of the Anza Borrego desert, and it is prolific here — but it grows in many other places as well. This year we saw carpets of lupine, desert chicory, and desert poppies — but as always, the real treasures were the isolated individual flowering plants, often so tiny you can't spot them until you've almost crushed them underfoot...</p>

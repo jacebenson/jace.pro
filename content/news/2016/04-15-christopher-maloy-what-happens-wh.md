@@ -1,0 +1,6 @@
+---
+title: "What happens when different users Execute Now the same Scheduled Job"
+date: 2016-04-15T00:30:00.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=87ecee65dbd0dbc01dcaf3231f961938"
+---
+<p>So here is the scenario.   Lets say you have a scheduled job and 10 different users log into ServiceNow (that have rights to see the scheduled jobs) and they click the ExecuteNow button.   What happens to the running of those scripts?   Does it queue them to be ran in first come order?   Does it run them all simultaneously if a worker thread is available to run them?</p><p></p><p>The answer is that it runs them simultaneously if a worker thread is available to run them.   The ExecuteNow sets the next action date to 0 which tells the system (along with the state as Ready) to run this script when a worker become available. </p><p></p><p><img   alt="ServiceNow.jpg" class="image-1 jive-image" height="265" src="a84fc94edb1897049c9ffb651f96192a.iix" style="height: 265px; width: 842.5641025641025px;" width="843"/></p><p></p><p>If you don't want these two scripts running simultaneous in this multi-threaded format you will want to implement your scripting logic different.   You could do a quick check in your script code check if another job of the same   type is running before you run the bulk of your script.   </p>

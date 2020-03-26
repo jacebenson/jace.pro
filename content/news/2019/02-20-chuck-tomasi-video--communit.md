@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2019-02-19T20:30:29.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=9aa29390dbf7a3400be6a345ca961927"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;c405329cdb3b6340d58ea345ca9619e5" target="_blank" rel="noopener noreferrer nofollow">How to get dropdown list in Dashboard</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;a7d083d4db37234054250b55ca961938" target="_blank" rel="noopener noreferrer nofollow">Need to define one new schedule with list of Holidays as Exclude for Location as Japan</a></li><li><a href="https://community.servicenow.com/community?id&#61;community_question&amp;sys_id&#61;3b4ceedcdbfb2340e0e80b55ca961914" target="_blank" rel="noopener noreferrer nofollow">Hide cancel state for high priority incident.</a></li><li>What I learned from the Jeopardy project</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream/tree/master/" target="_blank" rel="noopener noreferrer nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/usMajr_7hxY" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="noopener noreferrer nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="noopener noreferrer nofollow">Twitch</a>.</p>

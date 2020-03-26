@@ -1,0 +1,6 @@
+---
+title: "Pre Conference training for Knowledge  LIVE"
+date: 2012-01-28T00:41:09.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=9acc6265dbd0dbc01dcaf3231f9619f2"
+---
+<p>Hi everyone - I'm really excited to announce we've posted the courses for Knowledge 12 Pre Conference training. You are probably familiar with our classes around Admin and Scripting, but we've also added an Advanced Admin and a super cool G2G3 ITSM/ITIL simulation with ServiceNow built right in! wow.<br/><br/>We are also running an ITIL course that is built off the Foundations training, but demonstrates the framework in the context of ServiceNow over the course of the two days. This course will cover most of the content required for certification, but certification will NOT be offered, and we would expect additional studying for the exam would be necessary to be successful.<br/><br/>ALL courses are $595 (versus our normal two day pricing of $1195).<br/><br/><a title="k-external-small" class="jive-link-external-small" href="https://knowledge.service-now.com/k12/learn_agenda.do" rel="nofollow" target="_blank">https://knowledge.service-now.com/k12/learn_agenda.do</a><br/><br/>Look forward to seeing you there!<br/>jon</p>

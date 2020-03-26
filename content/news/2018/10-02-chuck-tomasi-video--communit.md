@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2018-10-01T20:04:55.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=80629dcfdb7ca388f7fca851ca961990"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="community?id&#61;community_question&amp;sys_id&#61;358ca84bdbb0e340200f0b55ca9619e4" target="_blank" rel="nofollow">Clear the new Record view in the reference field created using g:ui_reference in UI Macro</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;d7673c87db74e7885129a851ca96190f" target="_blank" rel="nofollow">How to reload an UI page without using dialogwindow function?</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;78fae483dbf82b085ed4a851ca9619fb" target="_blank" rel="nofollow">Module to display multiple groups</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;da2db3f6dbb423008e7c2926ca9619ed" target="_blank" rel="nofollow">lucky draw system</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;bfebe48bdb7ce7c4e0e80b55ca961986" target="_blank" rel="nofollow">Help with this script</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;f219d0c3db7c67841cd8a345ca9619b4" target="_blank" rel="nofollow">Report showing tasks with more than X work hours</a></li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream/tree/master/2018-10-01" target="_blank" rel="nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/nOsGN9jRiws" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="nofollow">Twitch</a>.</p>

@@ -1,0 +1,18 @@
+---
+title: "Start your AIOps journey at Knowledge "
+date: 2019-05-02T00:26:55.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=786f715fdb4d77440be6a345ca961903"
+---
+<p><a href="https://knowledge.servicenow.com/" rel="nofollow">Knowledge 2019</a> (K19) is just five days away! Are you excited?</p>
+<p>The ServiceNow ITOM team is excited to provide you an amazing experience next week. After speaking to many of you, we realize that you’re on a path to embrace AIOps. But what does that truly mean?</p>
+<p>To summarize: you can establish complete visibility across all of your infrastructure and applications, deliver business service health with AIOps-driven alerting, insights, and automated remediation, and optimize your spend on cloud usage and software licenses.</p>
+<p>AIOps helps you ingest large amount of data, apply analytics and machine learning to make your IT operations functions better. But this requires a step-by-step approach. For instance, typically our customers start with 3 key phases:</p>
+<p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/b52f359bdb4d77440be6a345ca9619d7.iix" /></p>
+<p>H&amp;R Block recently shared their ITOM journey in a live webinar. I recommend that you listen to this webinar <a href="https://gateway.on24.com/wcc/gateway/servicenow/1237365/1941594/itom-service-aware-event-management-with-aiops" rel="nofollow">on-demand</a> for a detailed customer experience with ITOM.</p>
+<p>At Knowledge19, you will have plenty of opportunities to learn about AIOps and engage with experts and your peers. In fact, we’ve made it easy for you by <a href="https://knowledge.servicenow.com/sessions.html#prescriptive_1" rel="nofollow">curating a customizable journey</a>. Create your own journey and learn at your own speed at Knowledge19.</p>
+<p> Here are some of the interesting sessions that you attend at Knowledge19 to learn about AIOps:</p>
+<ul><li>Tuesday, May 7 at 2:30 pm, the <a href="https://www.servicenowevents.com/knowledge2019/public_session_view.php?session_id&#61;1237&amp;agenda_session_id&#61;1483" rel="nofollow">ITOM Spotlight</a> with Brian Emerson and Chanda Dani will walk you through ServiceNow AIOps vision. You’ll also hear from Delta Airlines on their ITOM journey.</li><li>Learn <a href="https://www.servicenowevents.com/knowledge2019/public_session_view.php?session_id&#61;519&amp;agenda_session_id&#61;1699" rel="nofollow">what’s new and future of Health</a> features such as Event Management and Operational Intelligence. This are your gateway to AIOps.</li><li>Experience a hands-on <a href="https://www.servicenowevents.com/knowledge2019/public_session_view.php?session_id&#61;250&amp;agenda_session_id&#61;775" rel="nofollow">AIOps Lab</a> to learn about using machine learning to automatically group alerts in real time.</li><li>Finally, visit the <a href="https://knowledge.servicenow.com/agenda.html#showfloor_1" rel="nofollow">ITOM Pavilion</a>to see a live demo of AIOps and all the buzz around it. While you’re there, record your stories about AIOps and more.</li></ul>
+<p>I look forward to seeing you all at K19.</p>
+<p><strong><em>Follow us on Twitter to keep ahead of interesting stories - &#64;ServiceNow, &#64;Know365, #Know19, #ITOM, #AIOps</em></strong></p>
+<p> </p>
+<p><strong><em><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/715f7d1fdb4d77440be6a345ca961912.iix" /></em></strong></p>

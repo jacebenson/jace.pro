@@ -1,0 +1,6 @@
+---
+title: "Sign up for the Performance Analytics Workshop at the Connecticut SNUG This class is now full"
+date: 2015-08-26T22:23:04.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=1b5eeaaddbd0dbc01dcaf3231f9619ef"
+---
+<p>Hi Everyone,</p><p>Thanks for signing up for this workshop. This class is now full.</p><p>See you soon</p><p></p><p><a href="http://info.servicenow.com/LP=4124"><strong>Sign up for the Performance Analytics Workshop!</strong></a></p><p></p><p>At the upcoming Connecticut SNUG on September 17th we will be hosting an optional Performance Analytics workshop in the morning before the SNUG begins. Attend this 90 minute hands-on session to learn how to determine which KPIs will help you drive performance   in your organization, how to create these KPIs using Performance Analytics, how to collect the required data from your ServiceNow instance, and how to best visualize the outcomes in dashboards and scorecards. <a href="http://info.servicenow.com/LP=4124"><strong>Space is limited, so sign up today!</strong></a></p>

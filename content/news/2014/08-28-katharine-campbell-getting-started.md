@@ -1,0 +1,6 @@
+---
+title: "Getting Started with Form Design"
+date: 2014-08-28T03:29:09.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=59ada2a9dbd0dbc01dcaf3231f961919"
+---
+<p>Form design is an alternative way to personalize forms. It allows you to change form appearance simply by clicking and dragging available fields and field types to the places you want them to appear on the form. This video provides a demonstration.</p><p></p><p><iframe src="https://youtube.com/embed/plbVMCKeO9k" width="425" height="350"/></p><p style="min-height: 8pt; height: 8pt; padding: 0px;"></p><p></p><p>For more information on form design, see:</p><p></p><p>ServiceNow Product Documentation</p><p><a title="k-external-small" class="jive-link-external-small" href="http://wiki.servicenow.com/index.php?title=Form_Design" rel="nofollow" target="_blank">Form Design - ServiceNow Wiki</a></p><p></p><p>ServiceNow Community</p><p><a title="" _jive_internal="true" data-containerid="2927" data-containertype="37" data-objectid="3361" data-objecttype="38" href="/community?id=community_blog&sys_id=ac0e2a2ddbd0dbc01dcaf3231f9619f7">Form Designs Made Easy</a></p><p></p><p><span style="color: #666666; font-family: arial, sans-serif;">Your feedback helps us better serve you! Did you find this video helpful? Leave us a comment to tell us why or why not.</span></p>

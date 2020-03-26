@@ -1,0 +1,7 @@
+---
+title: "TechBytes Episode  ServiceNow Store partner Workato  The Cure For Your App Integration Blues"
+date: 2016-07-13T02:04:52.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=badd2ae9dbd0dbc01dcaf3231f9619ee"
+---
+<p><span style="font-size: 12pt;">In this episode of TechBytes, @<strong><a title="" _jive_internal="true" data-containerid="-1" data-containertype="-1" data-objectid="46569" data-objecttype="3" href="/community?id=community_user_profile&user=1c009ae1db581fc09c9ffb651f96192d">Martin Barclay,</a></strong> chats with Markus Zirn, VP of Business Development at <a title="t.ly/29eOCgB" href="http://bit.ly/29eOCgB">Workato</a></span></p><p></p><p><span style="font-size: 12pt;">This episode covers:</span></p><p></p><p><span style="font-size: 12pt;"> ·               Workato modern enterprise-grade integration platform</span></p><p><span style="font-size: 12pt;"> ·               Recipes and integration apps</span></p><p><span style="font-size: 12pt;"> ·               Slack and IBM Watson integration at CreatorCon Hackathon</span></p><p></p><p><iframe frameborder="no" height="166" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/271630421&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false" width="100%"> 
+</iframe></p>

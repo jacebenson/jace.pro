@@ -1,0 +1,6 @@
+---
+title: "Voting on new features and fixes within Service Now"
+date: 2010-05-10T20:57:24.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=599dea69dbd0dbc01dcaf3231f96195e"
+---
+<p>A large number of virtual users and friends in the industry have noted that they'd like a way to vote on suggestions, see what's coming in Service-Now and get their input out there for digestion/discussion.<br /><br />To facilitate and give users a voice, and get Service-Now the feedback and suggestions they want, I've setup a forums here:<br /><br />http://servicenow.uservoice.com/<br /><br />The site allows you to create suggestions and features, vote on the suggestions etc.<br /><br />This is a trial, to gauge the community's actual interest, get some information out there, and see how we can throw our weight against some suggestions.<br /><br />If you have questions or suggestions, or just want to get involved, let me know! The site has some great features but most are disabled unless we upgrade to a paid plan.</p>

@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2018-10-03T20:54:33.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=eae0b3a7db7ce3c8f7fca851ca9619e8"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="community?id&#61;community_question&amp;sys_id&#61;5f99c7ebdbfce788fff8a345ca96192a" target="_blank" rel="nofollow">Client Script for Catalog Item to wait to change the state from Active to Resolved</a></li><li><a href="https://youtube.com/ServiceNowDevProgram" target="_blank" rel="nofollow">Live Coding Happy Hour</a></li><li>Exporting data</li><li>Importing data</li><li>Reminders of old incidents from Chad</li><li>Active fields first then Rollback recovery</li><li><a href="community?id&#61;community_Blog&amp;sys_id&#61;47d0eabbdb84ab8454250b55ca96198e" target="_blank" rel="nofollow">&#34;Add Multiple &#39;Question Choices&#39;&#34; Tool - Developer Community - ServiceNow Community</a></li><li><a href="community?id&#61;community_Blog&amp;sys_id&#61;1ef93b12db74670054250b55ca9619bc" target="_blank" rel="nofollow">&#34;Set Name from Source Table&#34; Tool - Developer Community - ServiceNow Community</a></li><li>Following records</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream" target="_blank" rel="nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/G2ohx4UdvSw" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="nofollow">Twitch</a>.</p>

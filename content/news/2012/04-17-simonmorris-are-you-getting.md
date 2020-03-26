@@ -1,0 +1,6 @@
+---
+title: "Are you getting the most out of your Known Error Database"
+date: 2012-04-16T17:14:43.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=e9dca665dbd0dbc01dcaf3231f961937"
+---
+<p>Over at <a title="w.theitsmreview.com" href="http://www.theitsmreview.com">The ITSM Review</a> I've been talking about the Known Error Database in the context of both Problem and Incident Management.<br /><br /><blockquote><br />The Known Error Database is a repository of information that describes all of the conditions in your IT systems that might result in an incident for your customers and users.<br /><br />As users report issues support engineers would follow the normal steps in the Incident Management process. Logging, Categorisation, Prioritisation. Soon after that they should be on the hunt for a resolution for the user.<br /><br />This is where the KEDB steps in.<br /><br />The engineer would interact with the KEDB in a very similar fashion to any Search engine or Knowledgebase. They search (using the "Known Error" field) and retrieve information to view the "Workaround" field.<br /></blockquote><br /><br /><a title="w.theitsmreview.com/2012/04/7-benefits-of-using-a-kedb/" href="http://www.theitsmreview.com/2012/04/7-benefits-of-using-a-kedb/">Head over to the post to read more.</a></p>

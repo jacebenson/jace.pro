@@ -1,0 +1,10 @@
+---
+title: "Welcome to the Now Creators Forum"
+date: 2019-10-21T20:51:14.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=9c198c43db60c05013b5fb2439961928"
+---
+<p><strong>Join the Now Creators Movement!</strong></p>
+<p>With the launch of <a href="https://www.servicenow.com/now-creators.html?cid&#61;i:com:smkc:ncreate" rel="nofollow">Now Creators</a>, we’ve created a great place for you to post ideas, ask questions and get the latest information on Now Creators – right here on Now Community – called the <a href="https://community.servicenow.com/community?id&#61;community_forum&amp;sys_id&#61;b870486bdb10ccd04819fb243996197d" rel="nofollow">Now Creators Forum</a>. </p>
+<p>As a Now Creator, you will be a part of a movement of like-minded ServiceNow professionals who are using their skills to make the world of work, work better for people. Now Creators recognizes your achievements and let’s you earn badges across the ServiceNow ecosystem – whether it be classes and certifications you’ve taken in <a href="http://nowlearning.servicenow.com/" rel="nofollow">Now Learning</a>, your contributions to <a href="http://community.servicenow.com/" rel="nofollow">Now Community</a>, attending Knowledge or downloading best practice content from the <a href="https://www.servicenow.com/success.html?cid&#61;i:com:smkc:csc" rel="nofollow">Customer Success Center</a>. All of these achievements are stored in your Now Profile – <em>take a look at my profile below</em> – can be shared broadly with a public URL included in your profile.</p>
+<p>So, don’t wait, <a href="https://community.servicenow.com/community?id&#61;community_forum&amp;sys_id&#61;b870486bdb10ccd04819fb243996197d" rel="nofollow">join the forum</a> and more importantly, <a href="http://www.servicenow.com/nowcreatorsi:com:smkc:ncreate" rel="nofollow">join the movement of Now Creators today</a>.</p>
+<p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/98f64c83dbec805013b5fb2439961902.iix" width="738" height="359" /></p>

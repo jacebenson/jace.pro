@@ -1,0 +1,22 @@
+---
+title: "Validate controls  defenses with Customer Security Testing"
+date: 2016-03-29T02:32:45.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=f1fd262ddbd0dbc01dcaf3231f961926"
+---
+<p>While ServiceNow&#39;s Product Security Team works tirelessly testing and validating the security controls within ServiceNow&#39;s Platform, you may wish to, or have a requirement, to test your company&#39;s instance or specific instance customizations. The <a title="i.service-now.com/kb_view.do?sysparm_article&#61;KB0538598" href="https://hi.service-now.com/kb_view.do?sysparm_article&#61;KB0538598" rel="nofollow">Customer Penetration Testing Program</a> has been around for several years and is the only approved way to perform security testing against your ServiceNow instance.</p>
+<p> </p>
+<p>A <a title="n.wikipedia.org/wiki/Penetration_test" href="https://en.wikipedia.org/wiki/Penetration_test" rel="nofollow">penetration test</a>, commonly referred to as a &#34;pentest,&#34; is an active approach that seeks to validate security controls or defenses. Security testing methodologies vary between companies, but at minimum it typically involves running a dynamic web application scanning tool and manually poking around in the application tampering with parameters. There are plenty of scanning tools out there, though without exception, they all produce false positives or inaccurate results. Whether it is your internal security team or a third-party company performing the assessment, customers are responsible for validating findings before submitting them to ServiceNow. ServiceNow does not review scan reports from these tools. We will be more than happy to review any findings that have been clearly documented and have steps to reproduce.</p>
+<p><img class="image-1 jive-image" style="margin-right: auto; margin-left: auto; line-height: 19.0909080505371px; display: block; float: right; height: 149px; width: 338.017142857143px;" src="3777054adb50d344e9737a9e0f96195c.iix" alt="penetration test security.jpg" width="337" height="149" /></p>
+<p> </p>
+<h3>How the Customer Penetration Testing process works:</h3>
+<ol><li>Customer logs into the <a title="i.service-now.com/" href="https://hi.service-now.com/" rel="nofollow">HI Customer Support Portal</a>, in the side navigation click the link <strong>Self-Service</strong> <strong>&gt;</strong> <strong>Service Requests &gt; Schedule a Penetration Test</strong></li><li>The security team receives the request and validates the customer has met the testing prerequisites outlined in <a title="i.service-now.com/kb_view.do?sysparm_article&#61;KB0550654" href="https://hi.service-now.com/kb_view.do?sysparm_article&#61;KB0550654" rel="nofollow">here.</a></li><li>ServiceNow Security will update the customer with a testing URL.</li><li>Customer performs the security assessment and provides the validated results.</li><li>ServiceNow security analyses any reported findings and responds within 10 days.</li></ol>
+<p> </p>
+<p> </p>
+<p>For details on prerequsities, authorization, testing, changes, and configuration, see <a title="i.service-now.com/kb_view.do?sysparm_article&#61;KB0538598" href="https://hi.service-now.com/kb_view.do?sysparm_article&#61;KB0538598" rel="nofollow">customer penetration testing.</a> You will need to login to HI to view the details. Meeting the Instance Hardening prerequisites and scheduling the assessment can take up to a few weeks so it is best to plan accordingly.</p>
+<p> </p>
+<h3>Why should I go through the testing process?</h3>
+<p>First, if you follow the approved process, we won&#39;t mistake your testing activities are a malicious attack. Additionally, a ServiceNow instance is very customizable and we&#39;ve found that customers may be unaware of newer security features disabled on an instance. The friendly Security Engineers at ServiceNow will help you to ensure your instance is sufficiently hardened prior to testing.</p>
+<p> </p>
+<p>Our approach has proven to reduce the number of findings that can easily be fixed by configuration settings and saves time for everyone involved.</p>
+<p> </p>
+<p>Finally, as you may have noticed this article is all about Customer Penetration Testing, not anonymous or unauthorized penetration testing. If you are a security researcher that is interested in ServiceNow or would like to report a bug, please contact us at <a title="odsec&#64;servicenow.com" href="mailto:prodsec&#64;servicenow.com" rel="nofollow">prodsec&#64;servicenow.com</a>.</p>

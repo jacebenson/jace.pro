@@ -1,0 +1,10 @@
+---
+title: "Are you engaging with your DevOps community to accelerate change"
+date: 2019-06-03T17:13:30.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=79a81eb9db717b00e0e80b55ca9619d9"
+---
+<p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/5d385ef5db717b00e0e80b55ca9619b7.iix" /></p>
+<p>DevOps has become a core part of the digital transformation initiatives for most organizations. It&#39;s impacting engineering and operations teams and has the opportunity to help both teams make significant improvements in productivity as they strive to deliver new innovations.</p>
+<p>For ServiceNow customers, a key initial task is integrating the rapidly-iterating DevOps continuous integration and continuous delivery processes (CI/CD) with the risk-avoidance of change management. How are you involved in DevOps in your organization?</p>
+<p>We’re excited to be working with Puppet Labs as a headline sponsor of the <a title="State of DevOps report" href="https://polls.onresearch.net/xsurvey/19JT001/19JT001T1/Survey.aspx?sc&#61;servicenow" target="_blank" rel="noopener noreferrer nofollow">2019 State of DevOps Report</a>, and we invite you to take the survey and be part of the study with us. The State of DevOps Report is the most comprehensive and longest-running study on DevOps. Please take a few minutes and help us all learn how things like organizational structure and the way teams interact can affect performance. The survey encompasses many roles - please forward the survey link to your colleagues as we&#39;re looking for all perspectives!</p>
+<p><a title="State of DevOps survey" href="https://polls.onresearch.net/xsurvey/19JT001/19JT001T1/Survey.aspx?sc&#61;servicenow" target="_blank" rel="noopener noreferrer nofollow">Click here</a> to take the 2019 State of DevOps survey. Thank you, and good luck winning one of the 25 gift cards! (See the <a title="Contest Rules" href="https://puppet.com/2019-devops-survey-rules" target="_blank" rel="noopener noreferrer nofollow">contest rules</a> for all the details.) </p>

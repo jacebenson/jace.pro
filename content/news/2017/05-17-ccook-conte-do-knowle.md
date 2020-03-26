@@ -1,0 +1,6 @@
+---
+title: "Contedo Knowledge e vem a o Knowledge"
+date: 2017-05-16T18:44:27.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=5c6e6eaddbd0dbc01dcaf3231f961936"
+---
+<p>Prezados Membros da Comunidade, </p><p></p><p>Gostaria de lembrar a todos que o conteúdo de apresentações e keynotes do nosso evento global, Knowledge17, realizado na semana passada em Orlando, encontra-se disponí­vel para consulta através dos links abaixo. Acesse e complemente seu conhecimento sobre ServiceNow !</p><p></p><p><a title="nowledge.servicenow.com/" href="https://knowledge.servicenow.com/">Página do Knowledge17</a></p><p>Aqui, além de baixar conteúdo, você pode se registrar para receber updates do Knowledge18, que acontecerá de 7 a 10 de Maio em Las Vegas.</p><p></p><p><a title="ww.youtube.com/user/servicenowinc/videos" href="https://www.youtube.com/user/servicenowinc/videos">Canal Youtube ServiceNow</a></p><p></p><p>Para quaisquer outras informações, fico í  disposição. </p><p></p><p>Atenciosamente, </p><p></p><p>Christopher. </p>

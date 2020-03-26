@@ -1,0 +1,37 @@
+---
+title: "Whats New in Madrid for HR Service Delivery"
+date: 2019-02-26T02:50:18.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=24236b52db7fa7c013b5fb24399619a9"
+---
+<p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.comhttps://community.servicenow.com/e0dfe751db88ff48190dfb24399619f6.iix" /></p>
+<p><img style="float: left; margin-right: 10px; max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/e9136752db7fa7c013b5fb2439961928.iix" /><span style="font-size: 12pt;">In our latest Madrid release for HR Service Delivery (HRSD), we have some exciting new features and enhancements focused on helping you deliver a next-generation employee experience, all while unlocking enterprise-wide productivity. Here are just some of the highlights you can expect to see!</span></p>
+<h3> </h3>
+<h3>Campaign Tasking &amp; Analytics</h3>
+<p>In our previous London release, we introduced our newest capabilities around Targeted Content Automation, which allowed HR to easily send targeted and relevant communications to different employee audiences. Now in Madrid, we have continued to innovate and enhance these capabilities by including the ability to assign guided actions as part of these internal communications. HR can now ensure employees are actually following through with any necessary activities related to the communication they received. For example, in the case of a new hire, HR can assign a to-do task that requires them to watch a new hire orientation video as part of the onboarding process.</p>
+<p style="text-align: center;"><span style="font-size: 12pt;"> <img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/bf8167d2db3fa7c013b5fb24399619ba.iix" /></span></p>
+<p style="text-align: left;">We have also built-in campaign analytics so that HR can truly measure and analyze campaign performance and gain insight into what communications employees are actually reviewing. These new features are specifically designed to help HR elevate the enterprise-wide employee experience while making it is easy for employees to get the guidance they need at every step of their workplace journey.</p>
+<p style="text-align: center;"><span style="font-size: 12pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/5eb16316db3fa7c013b5fb2439961985.iix" /></span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;"> </span></p>
+<h3>Lifecycle Events Builder</h3>
+<p>For HR, reimagining the employee experience across the enterprise is about to get a lot simpler! In Madrid, we are launching the new Lifecycle Events Builder, which provides a visual user design experience that makes it easy for HR to configure and maintain complex cross-departmental workflows. The new visual interface is designed to help guide HR in creating any type of Lifecycle Event (onboarding, leave of absence, relocation, offboarding, etc) and model it like the actual business process, so it becomes simpler for anyone to test and maintain.</p>
+<p style="text-align: center;"><span style="font-size: 12pt;">  <img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/f7e1e356db3fa7c013b5fb24399619db.iix" />  </span></p>
+<h3>Employee Forums</h3>
+<p>Say hello to Employee Forums, the modern forum experience that makes it easy for employees to get guidance, ask questions, share information, create new employee connections, and collaborate with each other around relevant topics, all from within the Employee Service Center. Employee Forums will support posts such as internal employee communications from HR, targeted campaign content, blogs, events, and videos.</p>
+<p style="text-align: center;"><img src="https://community.servicenow.com/2244e503dbfb6b0413b5fb24399619fb.iix" width="706" height="365" />  </p>
+<h3> </h3>
+<h3>Unified Features on Employee Service Center (ESC)</h3>
+<p>In many organizations, when it comes to requesting service or searching for answers, it means that employees may be required to visit multiple portals (HR, IT, etc) to find what they need, which can make for an inconsistent and frustrating experience. To help make it easier for employees to get service and instant answers, we have enhanced our delivered Service Portal functionality to provide a unified employee service experience for all departments across the enterprise. The ESC or any Service Portal can now be easily configured with multiple knowledge bases, catalogs, dedicated chat queues, and search sources from different departments - making it the enterprise service center for all your employee’s needs. It’s time to transform your legacy portal into a next-gen employee service center that your modern workforce will love!</p>
+<p style="text-align: center;"><span style="font-size: 12pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/2a322b5adb3fa7c013b5fb24399619ea.iix" /> </span></p>
+<h3>Employee Document Management Enhancements</h3>
+<p>Going paperless just got even smoother for HR! The latest enhancements to our Employee Document Management application now supports bulk import of employee documents. Reducing the time and effort it takes HR to load documents into the system one by one. To ensure HR remains compliant, we have also introduced new audit capabilities that allows HR to track changes made to files and easily see when documents have been accessed and by whom.</p>
+<p style="text-align: center;"><span style="font-size: 12pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/b1d22f9edb3fa7c013b5fb2439961919.iix" /></span></p>
+<p style="text-align: center;"><span style="font-size: 12pt;"> </span></p>
+<h3>Learn More</h3>
+<p>These are just a few of the major feature enhancements coming to our ServiceNow® HR Service Delivery solution in the Madrid release. If you&#39;re interested in learning more about this release, please contact your account team and they can schedule a demo to show you all the latest and greatest capabilities of the Madrid release for HR Service Delivery. Additional information can be found on the <a href="https://docs.servicenow.com/bundle/madrid-hr-service-delivery/page/product/human-resources/concept/hr-service-delivery.html" rel="nofollow">Product Documentation</a> page.</p>
+<p><span style="font-size: 12pt;"> </span></p>
+<p>...................................................................................................................................................</p>
+<h4>Watch on demand the <a href="https://www.servicenow.com/lpwbr/now-platform-madrid-release-broadcast.html?referenceSource&#61;communityblog" target="_blank" rel="noopener noreferrer nofollow">Now Platform Madrid release broadcast</a>.</h4>
+<p style="padding-left: 30px;">Get up to speed on key innovations from ServiceNow</p>
+<p style="padding-left: 30px;"><a title="Watch on Demand - The Now Platform Madrid release" href="https://www.servicenow.com/lpwbr/now-platform-madrid-release-broadcast.html?referenceSource&#61;communityblog" target="_blank" rel="noopener noreferrer nofollow"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/4e6cd285dbd83f045129a851ca961934.iix" /></a></p>
+<p>....................................................................................................................................................</p>
+<p> </p>

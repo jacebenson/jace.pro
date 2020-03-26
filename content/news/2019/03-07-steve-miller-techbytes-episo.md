@@ -1,0 +1,12 @@
+---
+title: "TechBytes Episode  Flow Designer"
+date: 2019-03-06T20:17:43.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=a19f1419dbc8f788d58ea345ca96196c"
+---
+<p><iframe src="https://omny.fm/shows/servicenow-techbytes/episode-47-flow-designer/embed?style&#61;cover" width="100%" height="180"></iframe></p>
+<p>In this episode, <a href="https://community.servicenow.com/community?id&#61;community_user_profile&amp;user&#61;0f91562ddb981fc09c9ffb651f9619ac" target="_blank" rel="noopener noreferrer nofollow">Michael Slabodnick</a> and <a href="https://community.servicenow.com/community?id&#61;community_user_profile&amp;user&#61;f67ece69dbd41fc09c9ffb651f96198b" target="_blank" rel="noopener noreferrer nofollow">Jake Burman</a> talk about Flow Designer, a simple way to create automated workflows using natural language - no code! This episode covers:</p>
+<ul><li>Flow Designer vs Workflow</li><li>IntegrationHub for integrating third-party APIs</li><li>Evolution – past, present, and future</li><li>New features for the Madrid release</li></ul>
+<p>For more information, see:</p>
+<ul><li>Product Documentation: <a href="https://docs.servicenow.com/bundle/madrid-servicenow-platform/page/administer/flow-designer/concept/flow-designer.html" target="_blank" rel="noopener noreferrer nofollow">Flow Designer</a></li><li>Product Documentation: <a href="https://docs.servicenow.com/bundle/madrid-release-notes/page/release-notes/now-platform-capabilities/flow-designer-rn.html" target="_blank" rel="noopener noreferrer nofollow">Flow Designer release notes – Madrid</a></li><li>Community blog post: <a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;09becbf3db589b403882fb651f961986" target="_blank" rel="noopener noreferrer nofollow">Best Practices for Flow Designer</a></li></ul>
+<p>Your feedback helps us serve you better! Did you find this podcast helpful? Please leave a comment to tell us why or why not.</p>
+<p>To catch clips behind the scenes with our guests and hear about new episodes before they’re published, follow <a href="https://twitter.com/NOWsupport" target="_blank" rel="noopener noreferrer nofollow">&#64;NOWsupport on Twitter.</a> You can also search Twitter using <a href="https://twitter.com/search?f&#61;tweets&amp;vertical&#61;default&amp;q&#61;%23sntechbytes&amp;src&#61;typd" target="_blank" rel="noopener noreferrer nofollow">#SNtechbytes</a> for previous podcasts, video clips and pictures.</p>

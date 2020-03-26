@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2018-10-29T20:21:57.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=aac2e544dbad6b041089e15b8a96191f"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="community?id&#61;community_question&amp;sys_id&#61;b1b6814cdbada7809540e15b8a961901" target="_blank" rel="nofollow">Add days to schedule entry end date time</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;7a040d8cdbedeb045d782183ca9619a3" target="_blank" rel="nofollow">How to access sys_user_group in a scheduled job script</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;2886cdccdbadeb0411762183ca9619f8" target="_blank" rel="nofollow">create temp incident number</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;dd96e4c8dbed67809540e15b8a961971&amp;view_source&#61;searchResult" target="_blank" rel="nofollow">How to know how many a user has logged into SNOW</a></li><li>Q: From Leandre: Can you help me with dot-walking in client scripts?</li><li><a href="community?id&#61;community_question&amp;sys_id&#61;418f36e9db58dbc01dcaf3231f96194b" target="_blank" rel="nofollow">SLA vs OLA</a></li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream/tree/master/2018-10-29" target="_blank" rel="nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/eqX5k-r4080" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="nofollow">Twitch</a>.</p>

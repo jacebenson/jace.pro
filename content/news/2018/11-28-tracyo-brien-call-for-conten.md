@@ -1,0 +1,11 @@
+---
+title: "Call for content Knowledge "
+date: 2018-11-27T06:24:39.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=558b2b8ddbc22300fb4ae15b8a96194e"
+---
+<p>Greetings SNUG Members!</p>
+<p>It’s that time of year again… getting ready for Knowledge!  There have been so many wonderful customer presentations at the SNUGs this year- it would be wonderful to share them at Knowledge 2019! The deadline for content submissions is getting close- December 7<sup>th</sup> so please click <a href="https://www.servicenowevents.com/knowledge2019/cfp?referenceSource&#61;community" rel="nofollow">HERE</a> to submit!</p>
+<p>Also- registration for Knowledge19 is now open for early bird registration! The deadline for early registration is Feb 2nd so click <a href="https://signon.service-now.com/knowledge_login.do?RelayState&#61;%252F%252Fapp%252Fservicenowexternalprod_g2pknowledgeregistrationhotel_1%252Fexkgr9t5oxldsjwYX0x7%252Fsso%252Fsaml%253FSAMLRequest%253DfZFfT8IwFMW%25252FytJX3b%25252FKABu2ZIFolqAhoL4upbvAYtfO3m7ot7cbIdEX3trbk3Pu%25252BXWBvJEtyzt7Ulv46gCt991IhWx8SElnFNMca2SKN4DMCrbLX9aMBhFrjbZaaEm8HBGMrbVaaoVdA2YHpq8FvG%25252FXKTlZ2yILQ7zMlD5DD8piIHQTfrqrhOoIoYFjOYTS0gC2zgfKnsu64haIV6xSUtLHRETVLPFn4gF8zvdT%25252FzCb7H1K4%25252Fl%25252BduAJ58JJETsoFFqubEpoFM%25252F9OPbjyVsUsSRh8fTOHaKIeBuj%25252B7oC8%25252BqKpeSZbiRXYO%25252B9QomAeB9g0BVyDkFEssWwGRutzR9At%25252FnwKxWSXRkcaTumjN0HIV2Ef6wvOS0bVipWGy1r8ePlUurz0oADkRJrOofjSZuG29vpw6Su%25252FMMoZdZwhbXDTsLsEvn%25252F17Nf%2526TARGET%253Dhttps%25253A%25252F%25252Fservicenowevents.com%25252Fknowledge%25252Freg_saml2_response_validate%2526RelayState%253DyygpKSi20tcvTi0qy0xOzcsv10s3KshJzEst0UvOz9XPBorkpKakpxoZGFrqF6Wmxyfn56VlFuXqFWQU2AMA&amp;redirectUri&#61;&amp;email&#61;&amp;cid&#61;com:d:k19&#61;regopen&#61;community" rel="nofollow">here</a> to register today!</p>
+<p>Don’t forget- we will have a special booth for SNUG members, so please plan to visit the booth to pick up your SNUG ribbon when you’re there!</p>
+<p>I can&#39;t wait to see you there!</p>
+<p>Tracy</p>

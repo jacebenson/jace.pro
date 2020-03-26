@@ -1,0 +1,6 @@
+---
+title: "HTTPbased Imports via a Data Source"
+date: 2011-10-24T19:41:03.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=786eaeaddbd0dbc01dcaf3231f96195b"
+---
+<p>There may be times where you want to grab a CSV, Excel, or XML file from a place on the Internet to perform your imports. Maybe your third party integration system publishes XML documents that are accessible on demand on or an scheduled basis. Your goal is to grab the file at the given URL and import it into your ServiceNow instance. The easiest way to do this is via a Data Source set up to grab files via HTTP.<br /><br /><center><img src='http://www.john-james-andersen.com/wp-content/uploads/HTTPImport.png' /></center><br /><br />Let's say I have a third-party tool that publishes a CSV file that contains data that is supposed to generate incidents in ServiceNow. The tool publishes the CSV file at the following URL every day at 3AM. We want to create a data source that grabs the file, imports the data into an import set, and generates incident records in our ServiceNow instance.... [<a href='http://www.john-james-andersen.com/blog/service-now/import-records-via-an-http-data-source.html'>Read More</a>]</p>

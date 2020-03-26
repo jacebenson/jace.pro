@@ -1,0 +1,6 @@
+---
+title: "Announcing Knowledge The Servicenowcom Global User Conference"
+date: 2010-11-18T08:21:47.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=a10e6a2ddbd0dbc01dcaf3231f9619c0"
+---
+<p>Knowledge11: The Service-now.com global user conference<br />May 15-19, 2011 - Paradise Point Resort and Spa, San Diego, California<br /><br />LEARN, SHARE &amp; CONNECT at Knowledge11, the Service-now.com global user conference in San Diego, May 15 — 19, 2011. Knowledge11 is the educational and networking event of the year designed to help transform IT in a new era of software.<br /> <br />Mark your calendar for this unique opportunity to become immersed in the Service-now.com experience. Join like-minded IT leaders at Paradise Point Resort, an island in Mission Bay that for four days will transform into a retreat for the Service-now.com community.<br /> <br />With several tracks offering extensive education and training for IT professionals, Knowledge11 promises to sharpen and expand Service-now.com technical skills, help new community members get the most out of their Service-now.com investment, and expose IT leaders to business transformation strategies and best practices.<br /><br />For more information and registration:<br />http://www.seeuthere.com/rsvp/invitation/invitation.asp?id=/m2c666-1V3AZJ3S1LMXM</p>

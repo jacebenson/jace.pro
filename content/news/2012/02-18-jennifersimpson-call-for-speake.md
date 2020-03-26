@@ -1,0 +1,6 @@
+---
+title: "Call for speakers  Spring  ServiceNow Pacific Northwest User Group Meeting"
+date: 2012-02-17T06:31:50.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=c3fc66a5dbd0dbc01dcaf3231f96199d"
+---
+<p>Have a great ServiceNow story? What to share your ServiceNow success? Our goal to harness and spread the experience contained within the Service-now.com Pacific Northwest User Group by creating a platform for Service-now.com customers,partners and industry experts to share their experiences.<br /><br />If you have done something special with the Service-now.com platform or have relevant knowledge surrounding IT management including process design, organizational alignment or transformation strategies, we want you to share it with the community. <br /><br />We are looking to have a few 15 presentations at our March 7, 2012 meeting in Tacoma, Washington.<br /><br />If you are interested in speaking, please email Jennifer Simpson - jennifersimpson@milgard.com with the following information:<br /><br />Name First and Last:<br />Company:<br />Email:<br />Topic and Synopsis of your Presentation.<br /><br />Thank you so much and we look forward to sharing your experiences.</p>

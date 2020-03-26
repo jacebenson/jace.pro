@@ -1,0 +1,6 @@
+---
+title: "New Documentation Spring  Release"
+date: 2010-06-17T05:16:33.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=b98da669dbd0dbc01dcaf3231f96192b"
+---
+<p>Hi everyone,<br /><br />A couple weeks ago we got the Spring 2010 release notes out the door. It was a pretty big release: four big new applications (Field Service, Service Portfolio, Project, and Cost management). <br /><br />If you haven't seen the release notes yet, I'd recommend perusing the Spring 2010 Release Notes page here:<br />http://wiki.service-now.com/index.php?title=Spring_2010_Release_Notes<br /><br />If you want to take an in-depth look at the release notes, there's a book you can download as a PDF to read that covers all of the Spring 2010 documentation here:<br />http://wiki.service-now.com/index.php?title=Book:Spring_2010_Release<br /><br />And some changes were made to the ITIL Implementation Guide (http://wiki.service-now.com/index.php?title=ITIL_Implementation_Guide) to incorporate the new functionality.</p>

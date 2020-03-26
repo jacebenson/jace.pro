@@ -1,0 +1,6 @@
+---
+title: "New Documentation June  Preview  Release"
+date: 2011-05-09T18:58:17.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=50bde6a9dbd0dbc01dcaf3231f96193e"
+---
+<p>Hi everyone,<br /><br />Another month, another set of release notes! You can see what's in Preview 3 right here:<br /><br />http://wiki.service-now.com/index.php?title=June_2011_Preview_3_Release_Notes<br /><br />Make sure you look at the release notes -- there's an important note about the upgrade process, which make take a few minutes on this release because of a particular fix job in this release.<br /><br />And in PDF book form:<br /><br />http://wiki.service-now.com/index.php?title=Book:June_2011_Preview_3_Release<br /><br />The release is chock-full of new functionality (Change Risk Assessment surveys, User self-registration, and more) as well as enhanced functionality (updates to the Live Feed, Certification, the Global Search, and more). Take a look!<br /><br />Yours,<br /><br />Guy Yedwab<br />Service-now.com Documentation</p>

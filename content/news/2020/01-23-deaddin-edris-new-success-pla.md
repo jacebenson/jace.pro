@@ -1,0 +1,9 @@
+---
+title: "NEW Success Playbook Realize and manage value from your ServiceNow investments"
+date: 2020-01-23T03:13:26.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=daae0401db66809013b5fb2439961954"
+---
+<p class="p1">We here at ServiceNow understand how important it is to track and improve upon the return your company gets from the technology you’ve invested in. Naturally, you should also be equipped with the knowledge and resources necessary to do so for your ServiceNow investments.</p>
+<p class="p1">The ServiceNow Best Practice Center of Excellence team has put together a new Success Playbook - <a href="https://www.servicenow.com/success/playbook/value-management-guide.html?cid&#61;i:com:smkc:csc" rel="nofollow"><span class="s1">Realize and manage value from your ServiceNow investments</span></a> – which demonstrates best practices for new and existing ServiceNow customers alike to effectively implement a value management process for their ServiceNow investments, including: How to plan and define the value you expect to realize from your</p>
+<ul><li>ServiceNow investments</li><li>How to measure value to inform strategic decision-making</li><li>How to effectively communicate business value to all key stakeholders at all levels of an organization</li></ul>
+<p class="p1"><span class="s1"><a href="https://www.servicenow.com/success/playbook/value-management-guide.html?cid&#61;i:com:smkc:csc" rel="nofollow">Read our playbook here</a></span> and optimize your ServiceNow investments. If you have any additional questions on how to leverage ServiceNow, or measure its value, please contact us at <a href="mailto:best.practices&#64;servicenow.com" rel="nofollow"><span class="s1">best.practices&#64;servicenow.com</span></a>.</p>

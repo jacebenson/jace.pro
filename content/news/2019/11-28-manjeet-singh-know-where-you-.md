@@ -1,0 +1,19 @@
+---
+title: "Know where you really stand"
+date: 2019-11-28T01:53:16.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=1243ef76db55401c2be0a851ca96190a"
+---
+<p><span style="font-size: 14pt;">If 60% of your customers consider themselves “very satisfied,” are you doing a good job? Servicenow Benchmark gives you an easy way to asses and compares your KPI results across industries, Company Size, and Locations. Knowing where you really stand lets you make smarter decisions when you:</span></p>
+<ul><li><span style="font-size: 14pt;">Get this capability available in your instance at no cost.</span></li><li><span style="font-size: 14pt;">Compare yourself to industry leaders and start improvement related conversations.</span></li><li><span style="font-size: 14pt;">Set strategic goals that make sense for your organization</span></li><li><span style="font-size: 14pt;">Get actionable best practice recommendations and personalized guidance on achieving service excellence.</span></li><li><span style="font-size: 14pt;">Quick and easy to turn on/off in production with no development resources or risk.</span></li><li><span style="font-size: 14pt;">Fully automated, anonymous and secure.</span></li></ul>
+<p> </p>
+<p><span style="font-size: 14pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/b25c53b6db51401c2be0a851ca96191a.iix" width="726" height="401" /></span></p>
+<h2><span style="font-size: 14pt;">How ServiceNow Benchmarks work</span></h2>
+<p><span style="font-size: 14pt;">As the leading cloud platform, we have thousands of customers that are participating in automated Benchmarks. When customers opt-in, our platform anonymizes and aggregates the count data on each KPI, creating monthly benchmarks to compare your results against. </span></p>
+<p><span style="font-size: 14pt;"><strong>Here’s how the benchmarking process works:</strong><br /></span></p>
+<ol><li><span style="font-size: 14pt;">Opt-in to ServiceNow Benchmarks from your production instance</span></li><li><span style="font-size: 14pt;">KPI data is anonymized, aggregated at a very high level (e.g. Industry category with &gt; 100 participation) to calculate monthly Benchmarks. </span></li><li><span style="font-size: 14pt;">Review your results—latest benchmarks will be available within your instance</span></li><li><span style="font-size: 14pt;">Segment benchmarks by number of filters (e.g., industry, size, geo) for more granular comparisons </span></li><li><span style="font-size: 14pt;">Use best practice insights and recommendations to make continual improvements.</span></li></ol>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;">Go ahead and check-out Benchmarks in your instance and let me know what do you think.</span></p>
+<p> </p>
+<p><span style="font-size: 14pt;">Additional resources:</span></p>
+<ul><li><span class="TextRun SCXW11589309 BCX0" lang="EN-US"><span class="TextRun SCXW11589309 BCX0" lang="EN-US"><span class="NormalTextRun SCXW11589309 BCX0">FAQ: <a href="https://community.servicenow.com/community?id&#61;community_article&amp;sys_id&#61;057c22e1dbd0dbc01dcaf3231f9619b1" target="_blank" rel="noopener noreferrer nofollow">Benchmarks FAQ</a></span></span></span></li><li><span class="TextRun SCXW11589309 BCX0" lang="EN-US"><span class="NormalTextRun SCXW11589309 BCX0">Blog: </span></span><a class="ng-binding" href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;c376e4f1db8440d01cd8a345ca9619e3" rel="nofollow">How does the new KPIs are added to ServiceNow Benchmarks?</a></li><li>Blog: <a class="ng-binding" href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;e31ea26ddbd0dbc01dcaf3231f9619c5" rel="nofollow">Set performance goals based on real-life IT benchmarks</a></li><li></li></ul>
+<p> </p>

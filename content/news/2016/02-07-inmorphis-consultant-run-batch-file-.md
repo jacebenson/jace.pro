@@ -1,0 +1,6 @@
+---
+title: "Run Batch file Windows PowerShell custom commands without using Orchestration"
+date: 2016-02-06T18:45:20.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=c38c6ae1dbd0dbc01dcaf3231f961902"
+---
+<p>In its continuous effort of knowledge sharing, this blog is to make readers aware about how to run a <strong>Command shell, batch file and powershell custom/orchestration commands </strong>on<strong> MIDserver</strong> without using orchestration feature of SNOW.</p><p><br/>Recently, We faced a challenge while integrating SNOW with SCOM in which we were supposed to run a powershell command on MIDserver so that powershell command can hit the SCOM server and integration can be achieved.</p><p><br/>After some good amount of attempts, we were able to achieve it. During this integration we also learnt how to run command shell command, batch file and powershell command without using orchestration feature.</p><p><br/>All MIDserver communication from SNOW happens using ECC queue hence it was clear to us that we have to use ECC queue to run the powershell command.</p><p><br/><a title="morphis.com/blogs/orchestration-commands-mid-server/#comment-40" href="http://inmorphis.com/blogs/orchestration-commands-mid-server/#comment-40">(Read More)</a></p>

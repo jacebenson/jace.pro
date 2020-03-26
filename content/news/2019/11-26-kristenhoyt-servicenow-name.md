@@ -1,0 +1,18 @@
+---
+title: "ServiceNow Named a November  Gartner Peer Insights Customers Choice for IT Service Management Tools"
+date: 2019-11-26T04:25:05.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=b2d2b95adb910418f7fca851ca9619cb"
+---
+<p>For the 2<sup>nd</sup> year in a row, ServiceNow is excited to announce that we have been recognized as a November 2019 <a href="https://www.gartner.com/reviews/customers-choice/it-service-management-tools" rel="nofollow">Gartner Peer Insights Customers’ Choice for IT Service Management Tools</a>.</p>
+<p>ServiceNow takes great pride in this distinction, as customer feedback continues to shape our products and services.</p>
+<p>According to Gartner, “The Gartner Peer Insights Customers’ Choice is a recognition of vendors in this market by verified end-user professionals.” To ensure fair evaluation, Gartner maintains rigorous criteria for recognizing vendors with a high customer satisfaction rate.</p>
+<p>Here are some excerpts from customer reviews that contributed to the distinction:</p>
+<ul><li>“ServiceNow is <a href="https://www.gartner.com/reviews/review/view/688274" rel="nofollow">a solid platform</a> for which they continue investment in the platform and grow its capabilities and functionality” -Sr. Manager, Finance Industry</li><li>“Our <a href="https://www.gartner.com/reviews/review/view/625524" rel="nofollow">ITSM processes</a> are solid and tied together very tightly now” -Director Information Technology, Services Industry</li><li>“My company is using ServiceNow for special customer deals and we see the <a href="https://www.gartner.com/reviews/review/view/672519" rel="nofollow">benefits in every way</a> to our services” -Service Production Manager, Services Industry</li></ul>
+<p>Read more <a href="https://www.gartner.com/reviews/review/view/471405" rel="nofollow">reviews</a> for ServiceNow.</p>
+<p> </p>
+<p>We are proud to be recognized by customers as a November 2019 Gartner Peer Insights Customers’ Choice for IT Service Management Tools. The company was also positioned as a Leader by Gartner analysts in the 6 consecutive years. To learn more about this distinction, or to read the reviews written about our products by the IT professionals who use them, please visit the <a href="https://www.gartner.com/reviews/customers-choice/it-service-management-tools" rel="nofollow">Gartner Peer Insights&#39; Customers&#39; Choice announcement.</a></p>
+<p>To all of our customers who submitted reviews, <strong>thank you!</strong> These reviews mold our products and our customer journey, and we look forward to building on the experience that earned us this distinction!</p>
+<p> <img src="https://community.servicenow.com/3f92311adb910418f7fca851ca961985.iix" width="269" height="215" /></p>
+<p>Source: Gartner, Magic Quadrant for IT Service Management Tools, Rich Doheny, Chris Matchett, Siddharth Shetty, 29 August 2019.</p>
+<p><em>Gartner Peer Insights Customers’ Choice constitute the subjective opinions of individual end-user reviews, ratings, and data applied against a documented methodology; they neither represent the views of, nor constitute an endorsement by, Gartner or its affiliates.</em></p>
+<p><em>Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner’s research organization and should not be construed as statements of fact. Gartner disclaims all warranties, express or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.</em></p>

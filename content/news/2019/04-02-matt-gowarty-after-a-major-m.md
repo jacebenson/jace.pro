@@ -1,0 +1,16 @@
+---
+title: "After a major merger IHS Markit went from two very different CMDBs to one trusted source of truth  Find out how by signing up for session BRE at Knowledge "
+date: 2019-04-01T21:21:51.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=d5557a29dbecf700fece0b55ca9619fc"
+---
+<div class="cm-content-body">
+<p>If you’ve ever been through a major merger, you’ll know how much of a challenge this is for IT. I’m John Williams, and I work at IHS Markit. We’re a world leader in information services, analytics, and solutions, with 50,000 customers in more than 140 countries, including 80% of the Fortune Global 500. IHS Markit was formed through the merger of IHS and Markit in 2016, so I’ve experienced a large merger firsthand. That’s why I’m excited to share our CMDB story with you at Knowledge 2019, explaining how we have now created a reliable, trusted single source truth for IT across our entire company.</p>
+<p>After the merger, our starting point was two very different CMDBs, with a combined total of 20 million CIs. Each had different levels of trust and supported different cultures, creating significant challenges as we brought them together.</p>
+<p>Today, it’s an entirely different picture. We now have one CMDB, not two, and we’ve achieved nearly 99% data completeness. In this session, I’ll talk about how we got there – and how you can get there as well. It may seem like you’ve got a mountain to climb, but by following some best practices, you can make the road ahead much easier and achieve your goals.</p>
+<p>Some of the topics I’ll be covering include:</p>
+<ul><li>Setting the ground rules. This includes governance and policies, getting buy-in from stakeholders, and clearly defining critical roles such as CI owners.</li><li>The best way to populate your CIs, including using discovery to create base CI data. I’ll be sharing some of our experience doing this, including specific discovery tactics.</li><li>The importance of sharing your success with stakeholders by managing and publishing your data quality. I’ll also talk about the best way to do this, based on our experience.</li><li>Keeping it simple. Only discover things that have a clear business purpose, otherwise you’ll end up drowning in unnecessary data. Only add layers and complexity when someone asks for it and there is an identified owner.</li></ul>
+<p>If you’re facing a similar merger challenge – or are looking to mature your CMDB in general – I hope this session will give you some key insights you can use. Of course, every case is different, but I truly believe that what we have learned at IHS Markit is a firm foundation that you can adapt for your own organization. At the end of the session, I’ll be glad to answer your questions and would also appreciate any of your own experiences that you would like to share.</p>
+<p>You can find my session by searching for BRE0402 or looking for the title, “Creating a trustworthy CMDB.”</p>
+<p>I’ll see you there!</p>
+<div class="cm-attachments-body"> </div>
+</div>

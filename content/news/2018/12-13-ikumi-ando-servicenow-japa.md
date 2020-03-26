@@ -1,0 +1,18 @@
+---
+title: "ServiceNow JapanCHRO CHRO "
+date: 2018-12-12T13:17:36.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=6ce9d64adbd2eb40f0612183ca961958"
+---
+<p class="p1">*本内容は2018<span class="s1">年</span>12<span class="s1">月</span>12<span class="s1">日付けでServiceNow Japanが発表したプレスリリースです。</span></p>
+<p class="p1"><span class="s1"><a href="https://www.servicenow.co.jp/" rel="nofollow">ServiceNow Japan<span class="s2">株式会社</span></a></span>&#xff08;本社&#xff1a;東京都港区、社長&#xff1a;村瀬 将思　以下、<span class="s3">ServiceNow Japan</span>&#xff09;は本日、英国<span class="s3">Oxford Economics</span>社との共同調査レポート「<span class="s3">CHRO</span>の視点&#xff1a;アジア太平洋地域&#xff5e;従業員へのサービスがビジネスの価値を牽引する&#xff5e;」を発表しました。本調査は、日本を含む<span class="s3">12</span>カ国、<span class="s3">500</span>人&#xff08;うち日本人は<span class="s3">45</span>人&#xff09;の最高人事責任者&#xff08;<span class="s3">Chief Human Resources Officer</span>、<span class="s3">CHRO</span>&#xff09;を対象に実施されました。</p>
+<p class="p1">調査の結果明らかになったのは、テクノロジーがもたらす優れた従業員サービスが、より良い人材を獲得し、定着させるうえで重要な要素となっていることです。また、優秀な人材は、日常生活をさらにシンプルかつ便利にするようなデジタル体験を従業員サービスにも求める傾向も示されています。</p>
+<p class="p1">本調査での⽇本の<span class="s3">CHRO</span>の主な回答結果は以下の通りです。</p>
+<ul class="ul1"><li class="li1"><span class="s3">84%</span>が、過去<span class="s3">3</span>年間で<span class="s3">CHRO</span>の役割がより戦略的なものへとなってきていると回答&#xff08;各国平均 <span class="s3">74%</span>&#xff09;</li><li class="li1">22%が、多くの人事プロセスの自動化と他のビジネス機能とのコラボレーションを体系化し、 従業員に直接情報を伝える人事プラットフォームを使用&#xff08;各国平均&#xff1a;<span class="s3">14%</span>&#xff09;</li><li class="li1"><span class="s3">87%</span>が、人事テクノロジーで入社プロセスを効率化できると回答&#xff08;各国平均&#xff1a;<span class="s3">64%</span>&#xff09;</li><li class="li1"><span class="s3">80%</span>が、職務上の枠を超えたコラボレーションを簡素化するプラットフォームは生産性を牽引し、従業員サービスを向上させると回答&#xff08;各国平均&#xff1a;<span class="s3">67%</span>&#xff09;</li></ul>
+<p class="p1">また、人事戦略を推進するにあたり、ほとんどの<span class="s3">CHRO</span>が十分な投資を行えていない現状も明らかになりました。</p>
+<ul class="ul1"><li class="li1">わずか<span class="s3">2%</span>のみが、分析技術に「十分」または「多くの」投資を行っていると回答&#xff08;各国平均&#xff1a;<span class="s3">16%</span>&#xff09;</li><li class="li1">人事タスク&#xff0f;プロセスの約<span class="s3">31%</span>のみを自動化していると回答&#xff08;各国平均と同じ&#xff09;</li></ul>
+<p class="p1">一方で、日本の<span class="s3">CHRO</span>は今後の投資に非常に前向きという結果も明らかになりました。これは、パーソナライズされた、予測可能でシームレスなデジタルテクノロジーがもたらす従業員サービスの向上が、人事におけるデジタルトランスフォーメーションの一番の目的であることを証明しています。</p>
+<ul class="ul1"><li class="li1"><span class="s3">31%</span>が、今後<span class="s3">3</span>年間にわたってビッグデータへの投資を計画&#xff08;各国平均&#xff1a;<span class="s3">16%</span>&#xff09;</li><li class="li1">42%が、今後<span class="s3">3</span>年以内に入社プロセスの自動化を計画&#xff08;各国平均&#xff1a;<span class="s3">27%</span>&#xff09;</li><li class="li1">40%が、今後<span class="s3">3</span>年以内に従業員を定着させるためのプロセスのデジタル化を計画&#xff08;各国平均&#xff1a;<span class="s3">23%</span>&#xff09;</li></ul>
+<p class="p1">その他の参考情報</p>
+<p class="p1">「<span class="s3">CHRO</span>の視点&#xff1a;アジア太平洋地域&#xff5e;従業員へのサービスがビジネスの価値を牽引する&#xff5e;」のダウンロードは<a href="https://www.servicenow.co.jp/lpwhp/chro_report.html" rel="nofollow"><span class="s4">こちら</span></a></p>
+<p class="p1">調査方法</p>
+<p class="p1"><span class="s3">ServiceNow</span><span class="s5">,</span><span class="s3"> Inc.</span>は本調査を英国<span class="s3">Oxford Economics</span>社へ委託し、オーストラリア、フランス、ドイツ、イタリア、日本、オランダ、ニュージーランド、シンガポール、スペイン、スウェーデン、英国、米国に拠点を置く<span class="s3">B2B</span>ならびに<span class="s3">B2C</span>企業の<span class="s3">500</span>名の<span class="s3">CHRO</span>に対して電話調査&#xff08;<span class="s3">CATI</span>&#xff09;にて実施しました。<span class="s3">Oxford Economics</span>社は、オックスフォード大学ビジネスカレッジとのジョイントベンチャーとして<span class="s3">1981</span>年に設立されました。エビデンスに基づくソートリーダーシップ、予測、経済効果分析を専門にしています。</p>

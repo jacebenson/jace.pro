@@ -1,0 +1,6 @@
+---
+title: "Community User Profiles"
+date: 2014-03-18T21:36:41.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=904ea2addbd0dbc01dcaf3231f961960"
+---
+<p>We'd like to make the BCSNUG the best user group in the community.   To do that we need all our BC members online and signed up to the group.   But I'm going to ask that you do just a little bit more than login.</p><p></p><ol><li>Select the drop down under your login (top right corner) and select EDIT PROFILE and PRIVACY.</li><li>Complete your profile... full name and all.</li></ol><p></p><p>Please take a few moments to complete this.   I'd like to get to know everyone, where they work, and what their interests are in the group.   To help with that a complete profile will help us all recognize everyone by name.   Complete profile are also really helpful when posting to blogs and discussion using the @MENTION function in the community.   This adds visibility on who did what and provides notifications.   All that and it's just cool too.</p><p></p><p>Hope you are having productive morning,</p><p></p><p><a title="AJ Simpkin" __default_attr="3386" __jive_macro_name="user" class="jive_macro_user jive_macro" data-objecttype="3" data-orig-content="AJ Simpkin" href="/community?id=community_user_profile&user=db139665db1c1fc09c9ffb651f9619d5">AJ Simpkin</a></p>

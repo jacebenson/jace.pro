@@ -1,0 +1,6 @@
+---
+title: "Nuevo WebinarCmo ofrecer una gestin de operaciones centrada en los servicios"
+date: 2015-12-17T16:35:54.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=183eea6ddbd0dbc01dcaf3231f961900"
+---
+<p> ¿Puede permitirse que los servicios clave de su negocio fallen?  ¿Podrí­a determinar la raí­z del deterioro de los servicios de su negocio, o el impacto que provoca modificar los sistemas que los soportan?</p><p>Participe en nuestro próximo seminario en lí­nea para aprender cómo el descubrimiento y el mapeo de servicios pueden ayudar a garantizar el rendimiento y la disponibilidad de los servicios de negocios. También descubrirá cómo el mapeo puede mejorar la velocidad   de la entrega de servicios.</p><p></p><p>Asiste al seminario el martes 26 de enero de 10:00 a 11:00:  ¡regí­strate ahora!</p><p></p><p>Haz clic aquí­:     <a title="t.ly/1P9gSgy" href="http://bit.ly/1P9gSgy">ServiceNow</a></p><p></p><p>En este webinar:</p><p>Descubrirás cómo obtener mejor visibilidad sobre la gestión de sus operaciones.</p><p>Aprenderás a agilizar la entrega de sus servicios.</p><p>Verás cómo mejorar la gestión de sus operaciones puede ayudarle a reducir los costes administrativos.</p>

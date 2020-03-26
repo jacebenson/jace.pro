@@ -1,0 +1,6 @@
+---
+title: "Knowledge Call for Speakers  Attention Technology Partners"
+date: 2017-11-08T10:38:44.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=adcd22e9dbd0dbc01dcaf3231f961946"
+---
+<p>Attention all Technology Partners,</p><p>Now is the time to submit your ideas for presentation at Knowledge18. Are you leveraging the ServiceNow Platform in innovative ways? Do you have sweet, ninja development skills that get you out/around/under/through technical challenges? Have you mastered supporting multiple developers managing a forrest of branches across a distributed team? Do you find yourself constantly answering the same questions on the community? Do you like to have adoring fans shower you with applause, flowers, and gratuitous attention and gratitude? Well then, what are you waiting for?! Submit your sweet ideas here: <a href="https://www.servicenowevents.com/servicenowknowledge18/cfs" title="https://www.servicenowevents.com/servicenowknowledge18/cfs">https://www.servicenowevents.com/servicenowknowledge18/cfs</a> </p><p>If you've got a great idea but are terrified about said applause and flower showering...fear not, perhaps we can find a friend to share the stage and conversation with you. Feel free to reach out to me directly or reply to this thread to look for fellow brave soldiers.</p>

@@ -1,0 +1,6 @@
+---
+title: "Scripting the JDBCProbe"
+date: 2012-05-21T18:10:22.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=3a1d62e5dbd0dbc01dcaf3231f961980"
+---
+<p>There is a lesser known JDBC integration interface to ServiceNow than is generally published to the outside world, but it can make JDBC integrations go much smoother that traditionally supported in the ServiceNow product.<br /><br />A typical JDBC integration in ServiceNow is usually a data pull from a third party into ServiceNow through a one-time or scheduled JDBC pull using a Data Source record. This works great for bringing bulk data from an external source into ServiceNow.<br /><br />What if, however, you want a more transactional data pull…or even to set data in the external database using JDBC? There is a way to do this by creating XML payloads on the ECC queue. There is some pretty good ECC Queue — JDBC Probe documentation on the wiki. This can be cumbersome, however to build ECC Queue records with XML documents for the queries you wish to make. There is a much easier way...[<a href='http://www.john-james-andersen.com/blog/service-now/using-the-servicenow-jdbcprobe.html'>Read More</a>]</p>

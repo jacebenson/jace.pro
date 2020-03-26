@@ -1,0 +1,6 @@
+---
+title: "Knowledge Opening night at Community HangNow Highlights"
+date: 2015-04-21T20:08:14.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=bf8d2a69dbd0dbc01dcaf3231f9619e7"
+---
+<p>We had our Knowledge15 opening night   and it was a blast.</p><p></p><p>The amount of people walking through the ExpoNow floor was just unbelievable.   With that said - our Community HangNow area was pretty busy. We had some regulars who stopped by to meet the Community team.</p><p></p><p><a title="Geoff Cox" __default_attr="2482" __jive_macro_name="user" class="jive_macro_user jive_macro" data-objecttype="3" data-orig-content="Geoff Cox" href="/community?id=community_user_profile&user=e2a01e6ddb581fc09c9ffb651f9619e9">Geoff Cox</a> @steveemerson @michaelcarpenter were among the few who stopped by.</p><p><img  alt="IMG_0487.JPG" class="jive-image image-8" src="267aab39db181fc068c1fb651f9619b8.iix" style="height: auto;"/><img  alt="IMG_0486.JPG" class="jive-image image-9" src="0c62198edb54d304b322f4621f9619aa.iix" style="height: auto;"/><img  alt="IMG_0490.JPG" class="image-13 jive-image" src="731a600edb9857041dcaf3231f961968.iix" style="height: auto;"/><img  alt="IMG_0491.JPG.jpeg" class="image-14 jive-image" src="876b8806db1c1344e9737a9e0f961992.iix" style="height: auto;"/></p>

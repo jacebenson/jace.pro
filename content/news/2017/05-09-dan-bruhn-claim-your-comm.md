@@ -1,0 +1,6 @@
+---
+title: "Claim Your Community Buttons To Showcase Your Expertise At Knowlege"
+date: 2017-05-08T22:52:29.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=92ec6e65dbd0dbc01dcaf3231f9619fb"
+---
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Have you earned 500 points or more on the ServiceNow Community?   If so, be sure and stop by the Community booth to claim your button to showcase your accomplishment!   For those of you who haven't earned enough points never fear, we have a variety of other buttons to add flair to your lanyard or backpack.   </span></p><p></p><p></p><p><img  class="image-1 jive-image" height="466" src="0d5e8102db54d344e9737a9e0f9619ca.iix" style="width: 311px; height: 465.876px;" width="311"/><img  alt="20170508_111209.jpg" class="image-2 jive-image" src="fab96406dbd4d704ed6af3231f9619f3.iix" style="width: 620px; height: 465px;"/></p><p></p><p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Cheers,</span></p>

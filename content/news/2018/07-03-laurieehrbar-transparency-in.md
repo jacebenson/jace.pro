@@ -1,0 +1,16 @@
+---
+title: "Transparency in Mergers  Acquisitions"
+date: 2018-07-03T01:08:30.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=7f2fa131db0fd7845ed4a851ca9619b2"
+---
+<p>The rollback of some postcrisis financial regulations will help small and mid-size banks get bigger and leave fewer of them.</p>
+<p>The prospect of deregulation has already lifted bank stocks. But the legislation known as the Crapo bill (named after Idaho Sen. Mike Crapo), which President Trump signed into law, could provide another boost to bank investors by unleashing mergers, and buybacks among regional and local banks.</p>
+<p>By raising the threshold for stricter supervision under Dodd-Frank from $50 billion in assets to $250 billion, the new law effectively removes a disincentive for mergers and acquisitions. Banks had been wary of doing deals that would put them over the $50 billion level, which required more capital and more stringent supervision.</p>
+<p>ServiceNow can help Mergers &amp; Acquisitions (M &amp; A) in many ways by offering transparency in human capital, intellectual property, customer, IT assets and more.</p>
+<p style="padding-left: 120px;"><strong>Case Study: How Aberdeen Standard Investments ensured Merger Success &amp; increased productivity by 200%  </strong><em>By  <img style="max-width: 100%; max-height: 480px;" src="a48469f1db0bd7845ed4a851ca961978.iix" width="52" height="22" /></em></p>
+<p style="padding-left: 120px;"><strong>“The Challenge</strong></p>
+<p style="padding-left: 120px;"><strong>It was at IRM UK where we met Steve Hale, enterprise architect for Aberdeen Asset Management. Steve and the enterprise architecture team were working in a legacy IT landscape that had become fragmented. And in anticipation of future mergers they expected that the fragmentation would only get worse. The pressure was on to find a full-featured combined Enterprise Portfolio Management (EPM) and Enterprise Architecture Management (EAM) solution that could help Aberdeen’s management easily share information across the organization and inform their planning and decisions with direct access to real-time data.”<a href="community?id&#61;community_blog&amp;sys_id&#61;5c771ca8db5d93c42b6dfb651f9619b5" target="_blank" rel="nofollow"> Read more</a></strong></p>
+<p><a href="https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/resource-center/white-paper/mergers-and-acquisitions-success-starts-with-transparency.pdf" target="_blank" rel="nofollow">Mergers and Acquisitions: 5 Steps to Transparency</a> paper explores how higher transparency can accelerate M&amp;A timelines, impact asset valuations, and influence decision making about whether and when to integrate acquired organizations. Whether your company is interested in higher value from M&amp;A or higher valuations from divestiture, it’s time to place a premium on transparency—of your own processes as well as those of your acquisition targets. </p>
+<p>For more information about the application with Aberdeen Standard Investments please contact martin.barclay&#64;servicenow.com </p>
+<p>For all other financial services inquiries please contact  laurie.ehrbar&#64;servicenow.com</p>
+<p style="text-align: left;"> </p>

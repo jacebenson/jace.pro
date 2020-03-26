@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2018-09-21T20:37:23.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=c2e935b3dbaca348a8562926ca961918"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="community?id&#61;community_question&amp;sys_id&#61;28549dffdb6c2f44d58ea345ca96196e" target="_blank" rel="nofollow">Inbound Email Action issue</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;f42b07eddb5cdbc01dcaf3231f96195d" target="_blank" rel="nofollow">Interactive filter setup to show specific choices for task type</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;d59eb0ffdb64a7440be6a345ca961902" target="_blank" rel="nofollow">Dynamic assignment group</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;244e3077dba463c023f4a345ca9619e0" target="_blank" rel="nofollow">Trigger approval to user manger in workflow</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;31497cf7db24a7440be6a345ca961936" target="_blank" rel="nofollow">Advanced Reference Qualifier - Get search term entered by user</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;b1a47cf7dba427442be0a851ca961957" target="_blank" rel="nofollow">Incident</a></li><li>Views</li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream" target="_blank" rel="nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/N3RT3AqhSoQ" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="nofollow">Twitch</a>.</p>

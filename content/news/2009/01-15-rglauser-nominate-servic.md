@@ -1,0 +1,6 @@
+---
+title: "Nominate Servicenowcom for SDI vendor of the year"
+date: 2009-01-14T06:48:16.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=c3dd2ae9dbd0dbc01dcaf3231f9619f3"
+---
+<p>Please take a a couple of minutes to nominate Service-now.com for the Service Desk Institute vendor of the year. The <a title="w.keysurvey.com/survey/217528/8b7b/" href="http://www.keysurvey.com/survey/217528/8b7b/" rel="lightframe">nomination form can be found here</a> (nominations now closed).<br /><br />[flickr-photo:id=3194869503,size=s]<br /><br />This award is unique in that the winning vendor will be the one that gets the highest satisfaction rating from customer nominations. Hey Remedy, just because you have decades of customers using your decades old technology doesn't mean doesn't mean you are the best ITSM solution.<br /><br />Seriously, it would be selfish to keep all of this Service-now.com goodness a secret. <br /><br />A side note, we're not really sure why SDI is offering a cash award to the winning vendor (maybe this is a typo). But if we win, we'll just donate 500 euro award to a deserving charity. In fact, if you have a good charity in mind, please let me know by commenting to this blog entry.<br /><br />Nominations close March 18.<br /><br />Thank you for your support.<br /><br />Rhett</p>

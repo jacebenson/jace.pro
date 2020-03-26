@@ -1,0 +1,36 @@
+---
+title: " steps to determine if and why the event processor is unable to start"
+date: 2015-07-07T02:08:42.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=ae9caee1dbd0dbc01dcaf3231f96193c"
+---
+<p>Have you ever asked yourself why your events are not being processed and your emails are not being sent? <span style="font-size: 10pt; line-height: 1.5em;">Generally, it can be very difficult to identify what is happening in these cases from a customer&#39;s perspective. The are a few reasons you may be experiencing this:</span></p>
+<ul><li>The event processor has been running for several hours and is possibly stuck.</li><li>The event processor has not been able to start.</li><li>The event processor is running for a long time but is actually processing a lot of events.</li><li>The event processor is running for a long time but is working on a rather big event, which could require the processing of various business rules or various records.</li></ul>
+<p> </p>
+<p>You can do some troubleshooting on your own to <a href="community?id&#61;community_blog&amp;sys_id&#61;f0dc6665dbd0dbc01dcaf3231f961955" rel="nofollow">determine if the event processor has been unable to start </a>although it has already been queued in the <a title="ki.servicenow.com/index.php?title&#61;System_Scheduler#gsc.tab&#61;0" href="http://wiki.servicenow.com/index.php?title&#61;System_Scheduler#gsc.tab&#61;0" rel="nofollow">system scheduler.</a></p>
+<p><img class="jive-image image-2" style="height: 344.206451612903px; width: 351px; display: block; margin-left: auto; margin-right: auto;" src="94b9c906db941b04ed6af3231f961933.iix" alt="servicenow event schedule.jpg" width="351" height="344" /></p>
+<h2>Troubleshooting the Events Processor and the Scheduler&#39;s Workers</h2>
+<p> </p>
+<h3>1) Check the scheduled jobs to verify if the event processor has already been queued.</h3>
+<p>To do so, connect to the instance and go to <strong>System Scheduler &gt; Scheduled Jobs &gt; Scheduled Jobs</strong>. In this page, search for the &#34;events process&#34; job. Make sure that you can see the &#34;state&#34; column. If it shows as &#34;queued,&#34; then the job has been scheduled to run by an available worker. This normally indicates that the Scheduler has a lot of scheduled jobs running and all of its workers are running jobs.</p>
+<p> </p>
+<p>There is a second reason for the job to remain in &#34;queued&#34; state and it may be that it was running on a node when the node abruptly restarted. In this case, all that is</p>
+<p><img class="image-0 jive-image" style="height: auto; float: right;" src="7ce9e775dbd0df04e9737a9e0f9619bc.iix" alt="Scheduler.jpg" /></p>
+<p>needed is to reschedule it by changing the state of the job back to &#34;ready&#34; and changing the Next Action value to something in the near future.</p>
+<p> </p>
+<h3>2) Check the stats page and xmlstats</h3>
+<p>If the &#34;events process&#34; job has been queued, you will want to check the stats page of the node you are on, and the xmlstats pages of the other primary nodes on the instance (you can reach this page from the Diagnostics page). In the stats page, look for the Background Scheduler and check if all the workers have a job assigned to them and what the value of &#34;queue length&#34; is. You can check the xmlstats page for similar information.</p>
+<p> </p>
+<p>The reason for this is to see if there are long queues in the node schedulers. If the &#34;queue length&#34; is greater than 0, we can confirm that the scheduler has a lot of jobs scheduled and will take a little longer to complete. This often occurs when Discovery jobs are running contemporarily.</p>
+<p> </p>
+<p>Next, check the xmlstats page. For example, you can search for &#34;scheduler.queue.length&#34; to verify how many jobs are queued up. It represents the value for &#34;queue length&#34; seen in the stats page. The same considerations made for the stats page can be made for the xmlstats page. If you look under &#34;scheduler.workers&#34; you will be able to see if the workers are executing jobs, just like in the stats page.</p>
+<p> </p>
+<h3>3) Check which jobs are taking a long time to run</h3>
+<p>If the above checks show that there are long queues on the scheduler in all nodes, you will need to check what jobs are taking a long time to run. Once you have identified the scheduled jobs that are running for an extended amount of time, you will have to decide whether to stop them or request Customer Support to stop them. Please note that you will be able to stop the long running scheduled jobs only on the node you have logged in to (i.e. the node where you see the stats page). If your long running scheduled jobs are on another node, you will need to request Customer Support to stop them.</p>
+<p> </p>
+<p>In case your long running jobs are shown in the stats page, you can go to the <strong>All Active Transactions</strong> page (under <strong>User Administration &gt; All Active Transactions</strong>). Make sure that you can see the &#34;Uncancelable&#34; and &#34;Thread&#34; columns. These will help you identify the long running job and if it is possible to cancel it. Should the &#34;Uncancelable&#34; field show true, then you will not be able to stop it yourself. To stop the job, select the checkbox next to the job (on the job&#39;s record) and under &#34;Actions on selected rows...&#34; choose &#34;Kill.&#34; <em>Please note that choosing &#34;Delete&#34; will not stop the job although it will make it disappear from the view.</em></p>
+<p> </p>
+<p>--</p>
+<p> </p>
+<p>As of Eureka, we have introduced the <a title="ki.servicenow.com/index.php?title&#61;Release:Eureka_Patch_1_Hotfix_6#gsc.tab&#61;0" href="http://wiki.servicenow.com/index.php?title&#61;Release:Eureka_Patch_1_Hotfix_6#gsc.tab&#61;0" rel="nofollow">burst workers</a>. These workers will allow high priority jobs (such as the events processor) to be prioritized and run no matter what queue there is in the scheduler. There is, however, a situation which can still impact these high priority jobs and have them not run in a timely fashion; this happens when the burst worker has become idle. This means that when the job finished, instead of closing off the thread, it has become blocked and is unusable. You can check if this is the situation by looking in your stats page to see if there is a burst worker without a job running on it. This will allow you to check on the node you have logged in to. For the other nodes, you can check the xmlstats page for the idle burst workers by looking for &#34;burst.worker&#34;. Should you find one (or more) in the &#34;scheduler.workers&#34; tag, you will need to check if a job is currently running on it. If not, you will have an idle burst worker which will need to be checked by Customer Support.</p>
+<p> </p>
+<p>If none of the above show that the events processor is queued waiting on a scheduler worker, then you probably are falling under another of the situations mentioned at the beginning of this article.</p>

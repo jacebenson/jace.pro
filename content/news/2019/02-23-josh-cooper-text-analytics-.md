@@ -1,0 +1,23 @@
+---
+title: "Text Analytics on a Catalog Variable"
+date: 2019-02-22T23:20:06.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=9c46571ddbf7a7c0fff8a345ca96194e"
+---
+<p>In a previous article, I discussed the business value of using Text Analytics against data captured from a Generic Catalog Request, and that article was written from the basis that the actual information submitted in the variable was being captured in a custom field on the form. The question came up recently about how to turn loose the power of text analytics when you’re not so lucky, and the input from the user exists only as captured in the variable itself.</p>
+<p>The issue with using it as per normal is that Text Analytics is designed to work against unstructured data. Within the confines of the Requested Item, Variables are actually presented as structured data, and vary depending on the catalog item. It’s a special kind of construct rather than a field in and of itself, and one that text analytics isn’t designed to latch on to in order to perform its particular brand of magic.</p>
+<p>However, pretty much everything in ServiceNow is, at some layer of abstraction, just data in a table. With some detective work to determine how these things are connected and some creative joins (database views, in ServiceNow parlance), we should be able to connect these things in a way that allows it to act like just another field.</p>
+<p>First, set up the database view like this, to connect specific Requested Items (sc_reqitem) to the submitted variable responses (sc_item_option). The table that bridges the gap is a many-to-many table called sc_item_option_mtom:</p>
+<p> </p>
+<p><img src="https://community.servicenow.com/a3c65351db3ba7c0fff8a345ca961906.iix" /><br /> <br /> <br />For improved performance, you can go back into each of these tables and explicitly include any fields that aren’t interesting in the View Fields related list, then you’ll only get those fields you ask for instead of every field for that record. Like for example, if we’re only doing this specific use case, then on the sc_item_option table, you may only want to include sys_id, question, description, and value. Likewise, you should be able to add a where statement to the main table to only include ReqItems where the Item &#61; Generic IT Request (or however it’s called)<br /> <br />If you try it at this stage, and personalize the columns and sort by ReqItem, then you should be able to get a formatted list of answers for each variable, per ReqItem. For our purposes here, we’re glossing over this very quickly, but this is already pretty powerful even for basic reporting. Particularly with a group by Parent Item and sort by Short description, filters, or something similar.</p>
+<p><br /> <br /> <img src="https://community.servicenow.com/8bd6d351db3ba7c0fff8a345ca96198f.iix" /><br /> <br />After the database view is up and working, the next step is to build your indicator source off of this new database view:</p>
+<p> </p>
+<p><img src="https://community.servicenow.com/b1e65391db3ba7c0fff8a345ca9619c7.iix" /></p>
+<p>Yours won’t look like this – my data in my personal instance isn’t good, so I altered it to make sure I received any kind of data. In your case it should be something like Created on Today, Item is Generic IT Request, and Question is “How can we help?” (or whatever the generic question is called). <br /> <br />Make sure your preview comes up with what you’re expecting.<br /> <br />Then build your generic Indicator for it, and attach it to a job, and do the data collection.<br /> <br />Then, in Text Analytics -&gt; Setup, create an entry that looks like this:</p>
+<p><br /> <br /> <img src="https://community.servicenow.com/a6f65f91db3ba7c0fff8a345ca96199a.iix" /></p>
+<p><br />Then run that historical collection from the UI action that should appear on this screen after the save.<br /> <br /> <br />Once that’s complete, you can open a dashboard, or create a new one, and create a new text analytics widget:</p>
+<p><br /><br /> <img src="https://community.servicenow.com/c9175bd1db3ba7c0fff8a345ca9619ff.iix" /><br /> <br />Now you should be able to pull in data based on the information you’ve gathered (for better or worse):</p>
+<p> </p>
+<p><img src="https://community.servicenow.com/cc271fd1db3ba7c0fff8a345ca9619fb.iix" /></p>
+<p> </p>
+<p>I want to point out, that with real data behind it, the word cloud is much more attractive and useful, this is just a byproduct of not having much in the way of demo data. </p>
+<p>Enjoy the wonderful insights this brings!  If I missed a step or if you had to do something different for a particular version, let me know in the comments!</p>

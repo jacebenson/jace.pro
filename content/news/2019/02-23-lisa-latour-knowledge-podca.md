@@ -1,0 +1,9 @@
+---
+title: "Knowledge Podcast episode   What is Knowledge A chat with Scott Schenker"
+date: 2019-02-22T22:16:48.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=81c70bdddb3b2b04a39a0b55ca961956"
+---
+<p>We&#39;re doing some podcasts leading up to Knowledge!</p>
+<p>Learn more about ServiceNow’s annual user conference, Knowledge, where extraordinary people gather to take their work to the next level. Visit <a href="https://signon.service-now.com/knowledge_login.do?RelayState&#61;%252F%252Fapp%252Fservicenowexternalprod_g2pknowledgeregistrationhotel_1%252Fexkgr9t5oxldsjwYX0x7%252Fsso%252Fsaml%253FSAMLRequest%253DfZFfT8IwFMW%25252FytJX3b%25252FKABu2ZIFolqAhoL4upbvAYtfO3m7ot7cbIdEX3trbk3Pu%25252BXWBvJEtyzt7Ulv46gCt991IhWx8SElnFNMca2SKN4DMCrbLX9aMBhFrjbZaaEm8HBGMrbVaaoVdA2YHpq8FvG%25252FXKTlZ2yILQ7zMlD5DD8piIHQTfrqrhOoIoYFjOYTS0gC2zgfKnsu64haIV6xSUtLHRETVLPFn4gF8zvdT%25252FzCb7H1K4%25252Fl%25252BduAJ58JJETsoFFqubEpoFM%25252F9OPbjyVsUsSRh8fTOHaKIeBuj%25252B7oC8%25252BqKpeSZbiRXYO%25252B9QomAeB9g0BVyDkFEssWwGRutzR9At%25252FnwKxWSXRkcaTumjN0HIV2Ef6wvOS0bVipWGy1r8ePlUurz0oADkRJrOofjSZuG29vpw6Su%25252FMMoZdZwhbXDTsLsEvn%25252F17Nf%2526TARGET%253Dhttps%25253A%25252F%25252Fservicenowevents.com%25252Fknowledge%25252Freg_saml2_response_validate%2526RelayState%253DyygpKSi20tcvTi0qy0xOzcsv10s3KshJzEst0UvOz9XPBorkpKakpxoZGFrqF6Wmxyfn56VlFuXqFWQU2AMA&amp;redirectUri&#61;&amp;email&#61;&amp;cid&#61;com:d:k19&#61;regopen&#61;community" rel="nofollow">https://knowledge.servicenow.com</a> to register to attend May 5-9, 2019 in Las Vegas, NV.</p>
+<p> </p>
+<p><iframe src="https://omny.fm/shows/servicenow-cloudcast/what-is-knowledge-a-chat-with-scott-schenker/embed?style&#61;artwork" width="100%" height="180"></iframe></p>

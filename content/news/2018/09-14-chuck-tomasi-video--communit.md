@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2018-09-13T20:36:42.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=820dacdddba4a380fff8a345ca96190f"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="community?id&#61;community_question&amp;sys_id&#61;f4a773cddbe0e3c05129a851ca9619f5" target="_blank" rel="nofollow">what are strategic and operational demand?</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;ec6bbb4ddb686f4067a72926ca9619ce" target="_blank" rel="nofollow">How to jelly set variable and add something in it</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;84cff349dbe8a3802be0a851ca9619c4" target="_blank" rel="nofollow">How to get the date of the last Wednesday?</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;51fdbfc1dbe8af80f7fca851ca9619e0" target="_blank" rel="nofollow">Issue with backslash in userid using JSON for Inbound Incident creation via REST Integration</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;f5d633c9db24a3800be6a345ca961954" target="_blank" rel="nofollow">Need help with jelly scripting. Display a custom icon</a></li><li>Creating custom actions in Flow Designer</li></ul>
+<p>Code snippets can be found in the <a href="http://bit.ly/2A6tkjz" target="_blank" rel="nofollow">GitHub repository.</a></p>
+<center><iframe src="https://www.youtube.com/embed/OwBkeqATBGM" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="nofollow">Twitch</a>.</p>

@@ -1,0 +1,29 @@
+---
+title: "Who are you Securing authentication and enforcing password requirements"
+date: 2016-04-07T22:42:20.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=9b2e2a6ddbd0dbc01dcaf3231f9619e9"
+---
+<p>Since the advent of modern computing platforms, passwords have authenticated users to provide access to protected resources. Due to the limitations of human memory or, let&#39;s face it outright apathy for security controls, people have tended to pick easy to remember and thus easily guessable passwords. Lucky for you, ServiceNow&#39;s security team has your back — let&#39;s look at how to beef-up local authentication on your instance with stronger passwords and <a title="ocs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/authentication/concept/c_MultifactorAuthentication.html" href="https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/authentication/concept/c_MultifactorAuthentication.html" rel="nofollow">multifactor authentication.</a></p>
+<p><img class="image-1 jive-image" style="width: 620px; height: 229px; display: block; margin-left: auto; margin-right: auto;" src="75168842db181344e9737a9e0f961944.iix" alt="Multi-factor Aunthenticationin.jpg" /></p>
+<p> </p>
+<h3>Enforce Strong Passwords</h3>
+<p>Customers who utilize standard local authentication (not SSO/SAML or LDAP), ServiceNow avails a number of settings to enforce the use of stronger passwords. You can enforce password length and complexity to ensure stronger passwords.</p>
+<p> </p>
+<p style="margin-top: auto; margin-bottom: 1.2pt; background: white;"><span style="color: #333333;">Using installation exits, </span><a title="ocs.servicenow.com/script/server_scripting/task/t_StrengthenPasswordValidationRules.html" href="https://docs.servicenow.com/script/server_scripting/task/t_StrengthenPasswordValidationRules.html" rel="nofollow">customers can specify password length and complexity</a><span style="color: #333333;">. We provide an installation exit to do just that. </span></p>
+<ol style="list-style-type: decimal;"><li><span style="color: #333333;">Navigate to <strong>System Definition &gt; Installation Exits</strong>. </span></li><li><span style="color: #333333;">Click on the </span>Installation Exit <span style="color: #333333; background-position: initial;"><strong>ValidatePasswordStronger.</strong></span></li><li><span style="color: #333333; background-position: initial;">Check the <strong>Active</strong> checkbox.</span></li></ol>
+<p style="margin-top: auto; margin-bottom: 1.2pt; background: white;"> </p>
+<p style="margin-top: auto; margin-bottom: 1.2pt; background: white;"><span style="color: #333333;">Now that you are enforcing stronger passwords with the <a title="ocs.servicenow.com/script/server_scripting/reference/r_InstallationExits.html" href="https://docs.servicenow.com/script/server_scripting/reference/r_InstallationExits.html" rel="nofollow">Installation Exit</a>, you may customize the rules. By default the installation exit forces a minimum length of 8 characters requiring 1 upper case letter, one lower case letter, and a number. To change the length, edit the variable near the top of the script variable: </span><span style="color: #660066;">var </span><span style="color: blue;">min_len</span><span style="color: #333333;">&#61;8 to the number of characters appropriate for your organizations security policy.</span></p>
+<p> </p>
+<h3>Enable Multi-Factor Authentication</h3>
+<p>In the Geneva release, ServiceNow introduced <a title="ocs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/authentication/concept/c_MultifactorAuthentication.html" href="https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/authentication/concept/c_MultifactorAuthentication.html" rel="nofollow">multi-factor authentication,</a> or MFA, through the <a title="ools.ietf.org/html/rfc6238" href="https://tools.ietf.org/html/rfc6238" rel="nofollow">technology standard</a> known as one-time temporary passwords (TOTP). By requiring MFA, a user will enter a username, password and one-time numeric code. The addition of a temporary mathematically generated code greatly reduces the risk of password guessing and brute forcing.</p>
+<p> </p>
+<p>The MFA functionality plugin was developed with flexibility in mind. Administrators can enable MFA on a per-user basis or may choose to target specific privileged users. While any TOTP client will work, the most well known implementation of this client is <a title="n.wikipedia.org/wiki/Google_Authenticator" href="https://en.wikipedia.org/wiki/Google_Authenticator" rel="nofollow">Google Authenticator</a>.</p>
+<p> </p>
+<p>To enable multi-factor authentication:</p>
+<ol style="list-style-type: decimal;"><li>Navigate to <strong>System Definition &gt; Plugins</strong></li><li>Click on <strong>Integration - Multifactor Authentication </strong>plugin</li><li>Click the <strong>Activate/Upgrade</strong> link</li><li>Scan barcode with TOTP client</li><li>Profit!</li></ol>
+<p> </p>
+<p>Full instructions can be found on the <a title="ocs.servicenow.com/integrate/authentication/concept/c_MultifactorAuthentication.html" href="https://docs.servicenow.com/integrate/authentication/concept/c_MultifactorAuthentication.html" rel="nofollow">MFA installation page</a>.</p>
+<p> </p>
+<p><strong>Resources</strong></p>
+<p><a title="ocs.servicenow.com/script/server_scripting/task/t_StrengthenPasswordValidationRules.html" href="https://docs.servicenow.com/script/server_scripting/task/t_StrengthenPasswordValidationRules.html" rel="nofollow">Enforce Strong Passwords</a></p>
+<p><a title="ocs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/authentication/concept/c_MultifactorAuthentication.html" href="https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/authentication/concept/c_MultifactorAuthentication.html" rel="nofollow">Multi-Factor Authentication</a></p>

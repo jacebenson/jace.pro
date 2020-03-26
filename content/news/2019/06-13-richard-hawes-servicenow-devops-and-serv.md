@@ -1,0 +1,9 @@
+---
+title: "DevOps and ServiceNow Join the discussion at the London DevOps Enterprise Summit"
+date: 2019-06-12T19:08:44.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=29590130db8ef780e0e80b55ca96191f"
+---
+<p><img src="https://community.servicenow.com/b3094db8db4ef780e0e80b55ca961929.iix" /></p>
+<p>At Knowledge 19 ServiceNow <a title="DevOps announcement video" href="https://knowledge.servicenow.com/video-library/day-2-it-workflows-demo-rj-jainendra-pablo-stern.html" target="_blank" rel="noopener noreferrer nofollow">announced</a> the planned release of a new <a title="ServiceNow DevOps" href="https://www.servicenow.com/products/devops.html" target="_blank" rel="noopener noreferrer nofollow">product focused on DevOps</a>.</p>
+<p>We&#39;re a Gold Sponsor at the <a title="DOES London web site" href="https://events.itrevolution.com/eur/" target="_blank" rel="noopener noreferrer nofollow">DevOps Enterprise Summit</a> happening in London from 25th to 27th of June. We&#39;re looking forward to conversations about automating and accelerating change while allowing developers to stay within their existing tools. We&#39;ll also be showing the work we are doing around driving new end-to-end insights into the whole development-to-release pipeline from ideation all the way through to operations - plus the audit insights that the data from the DevOps toolchain can provide. </p>
+<p>If you or your colleagues are heading to the DevOps Enterprise Summit - please come to the booth and say &#34;hi&#34;! If you haven&#39;t already registered, you can get 15% off with the code <strong>SN15</strong>.</p>

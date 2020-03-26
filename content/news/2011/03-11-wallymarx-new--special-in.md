@@ -1,0 +1,6 @@
+---
+title: "NEW Special Interest Group and Discussion Forum for Knowledge Management"
+date: 2011-03-11T05:44:31.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=c44ea2addbd0dbc01dcaf3231f961907"
+---
+<p>Knowledge Management and Knowledge-Centered Support have become seriously hot topics these days. And why not? "Knowledge is power" and robust knowledge management can take ITSM to new levels of success. <br /><br />To respond to the demand, we've created a new Special Interest Group (SIG) and discussion forum for knowledge topics. I'm in contact with a few people who have experience implementing and administering knowledge management systems, KCS models and successful knowledge bases. Ideally we will get these folks to share their experiences. If you have any ideas or requests, please let me know.<br /><br />Join the Knowledge Management SIG on the Groups page.<br />http://community.service-now.com/og<br />Join the Knowledge Management discussion on our forums page. <br />http://community.service-now.com/forums<br /><br />Cheers,</p>

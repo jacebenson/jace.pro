@@ -1,0 +1,64 @@
+---
+title: "How to Review a Service Map  A Guide for Service Owners"
+date: 2018-11-30T02:55:58.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=65881e06db8e6340fa192183ca96192a"
+---
+<p><span style="font-size: 10pt;">Chances are if you&#39;re reading this blog entry, here in the ITOM section of ServiceNow Community, you know your way around the platform and would be able to poke around a service map. However, many of the service owners we ask to do review work during a service mapping implementation do not. </span></p>
+<p><span style="font-size: 10pt;">This blog entry is for them: it describes at a high level what service mapping does, goes through the components of a map in more detail, and shows step-by-step how where to click and what to do in order to review a map. If you are involved in a service mapping project and know service owners who need to do a review, send them a link here, or to the embedded YouTube video below which covers much of the same content.</span></p>
+<p><iframe id="video_tinymce" style="width: 100%; height: 480px;" src="https://www.youtube.com/embed/QYrIDS7F4bY"></iframe></p>
+<p><span style="font-size: 10pt;"><strong>Overview</strong></span></p>
+<p><span style="font-size: 10pt;">Mapping a business service provides an invaluable look into the relationships of IT components that work together. Using service maps, operations teams can recover from outages faster, change management can be better planned, and the cost of services can be accurately understood.</span></p>
+<p><span style="font-size: 10pt;">However, mapping services requires specialized knowledge and can be one of the more technically complex undertakings on the ServiceNow platform. Doing this mapping is largely the role of service mapping administrators: whether internal, through an implementation partner, or through ServiceNow professional services. While an experienced service mapping administrator can efficiently produce fairly complete service maps, each map still needs to be verified for accuracy by the service owner or Subject Matter Expert (SMEs) who understands the technical architecture of the business services themselves. As mentioned above, this blog entry is for those SMEs who need to review service maps for completeness and accuracy, before they are published to production.</span></p>
+<p><span style="font-size: 10pt;">We’ll break this article into three sections: Service Map Concepts, Viewing the Details of Service Map, and actually Doing the Review. </span></p>
+<p> </p>
+<p><span style="font-size: 10pt;"><strong>Service Map Concepts</strong></span></p>
+<p><span style="font-size: 10pt;">To begin, let’s get a shared understanding of some basic concepts:</span></p>
+<ul><li><span style="font-size: 10pt;">A <strong>Business Service </strong>is an offering that is delivered to customers</span>
+<ul><li><span style="font-size: 10pt;">Performs a single or a few limited specialized operations.</span></li><li><span style="font-size: 10pt;">Also referred to as simply a <strong>service</strong> or <strong>application</strong></span></li></ul>
+</li><li><span style="font-size: 10pt;">Customer facing business services may also be referred to as <strong>services </strong>or <strong>applications</strong>.</span></li><li><span style="font-size: 10pt;"><strong>IT Services </strong>are not customer-facing, but are separate ‘behind the scenes’ components which support business services. They may also be referred to as <strong>supporting </strong>or <strong>shared </strong>services.</span></li><li><span style="font-size: 10pt;">A <strong>Configuration Item (CI) </strong>is a unique, fundamental element of the CMDB. It is the “what” of a Change in an environment.</span></li><li><span style="font-size: 10pt;">A <strong>Cluster</strong> (in Service Mapping terminology) is a logical grouping of CIs</span></li></ul>
+<p><span style="font-size: 10pt;">So we see business services are often just applications. It makes sense then that they are modeled in an <strong>application-centric manner.</strong> This means each application is a Configuration Item (CI) that can reside on a server. It makes it easier to see what is out there actually running, and makes it easier to troubleshoot as you can focus by application rather than simply by server. It also allows dependencies to be displayed more clearly between the application and any supporting (aka IT) services.</span></p>
+<p><span style="font-size: 10pt;"><img src="b45792cedb4e6340fa192183ca9619c5.iix" /></span></p>
+<p><span style="font-size: 10pt;">So what should we expect to see in a map, and what should we expect to not see in a map? To begin, we expect to see not only top-level CIs, but subordinate Cis that roll up into them. We also expect to see some ‘wrapper’ infrastructure components such as load balancers, or storage. We do <strong>not</strong> expect to see infrastructure components of servers (individual disks, network cards, etc.), nor would we expect to see network connections or subordinate services. Having these components ‘off-map’ simplifies viewing, as it would be easy to have a map explode into a spaghetti-bowl mess of components.</span></p>
+<p><span style="font-size: 10pt;">One key component of what we see on a service map are <strong>app-to-app connections</strong>. These connections provide more information than simply ‘runs on’ or ‘depends on’: they show information such as the origination host, destination host, port, protocol, and more. This information enhances the CMDB and lets service owners find configured, but unused, connections between ports.</span></p>
+<p><span style="font-size: 10pt;"><img src="42d79682db8e6340fa192183ca9619ab.iix" /></span></p>
+<p><span style="font-size: 10pt;">Lastly, subordinate CIs are determined through patterns. These helps service maps eliminate unneeded CIs and provide focus to what is important. Subordinate services on the other hand, can be used to model a larger service and their service statuses can be rolled up into the parent service.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 10pt;"><strong>Viewing the Details</strong></span></p>
+<p><span style="font-size: 10pt;">Clicking on a CI on the service map shows you its details. One of the main pieces of information is the CI type. There are hundreds of different types, but this provides the easiest look at what the CI is. Other key attributes are class, name, and version.</span></p>
+<p><span style="font-size: 10pt;"><img src="7d281ec2db8e6340fa192183ca961946.iix" /> </span></p>
+<p><span style="font-size: 10pt;">You can view different properties on a CI all in the properties piece. Application details are in the ‘Application’ section, and scrolling down to ‘Server’ section shows Server details.</span></p>
+<p><span style="font-size: 10pt;"><img style="max-width: 100%; max-height: 480px;" src="bdce5e86db02a340fa192183ca9619ad.iix" /></span></p>
+<p><span style="font-size: 10pt;">To view connection information between two CIs, simply click the line that denotes the connection.  With multiple connections, right-click first and then select the single connection to show its information.</span></p>
+<p><span style="font-size: 10pt;">Lastly, viewing a dependency map provides a good understanding into the network topology that supports a service.</span></p>
+<p><span style="font-size: 10pt;"><img style="max-width: 100%; max-height: 480px;" src="c36b1e06dbce6340fa192183ca96197a.iix" /></span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 10pt;">To view a Dependency Map: </span></p>
+<ul><li><span style="font-size: 10pt;">Display a business service map by navigating to <strong>Service Mapping</strong> &gt; <strong>Services</strong> &gt; <strong>Business Services</strong> and selecting <strong>View map </strong>for the relevant business service.</span></li><li><span style="font-size: 10pt;">In the map, right-click the relevant CI and select <strong>Open dependency views</strong></span></li><li><span style="font-size: 10pt;">Click <strong>Details</strong>.</span></li></ul>
+<p><span style="font-size: 10pt;"> </span><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 10pt;"><strong>Doing the Review</strong></span></p>
+<p><span style="font-size: 10pt;">Alright- so you have an understanding of Service Mapping, know how to navigate around a map and what the components mean, but how do you actually get to the maps you need to review, and provide feedback</span></p>
+<p><span style="font-size: 10pt;">First, it helps to understand the typical flow of a review. While the service mapping administrator may make many mapping corrections in bulk, the final review of a map is always conducted on an individual basis, with the designated business service owner or technical SME for the service being the best person to approve or reject the map. This review often takes two or more iterations, with feedback from the SME to the mapping administrator on each iteration. Once the map is accurate and complete from the SMEs point-of-view, it can be approved as ‘good to go’.</span></p>
+<p><span style="font-size: 10pt;"><img src="396a520edb8e6340fa192183ca9619f5.iix" /></span></p>
+<p><span style="font-size: 10pt;">Let&#39;s a service mapping admin has completed there initial pass and needs the map reviewed. As the approver, to get to the business service maps first enter ‘Service Mapping’ in the left navigation bar within ServiceNow:</span></p>
+<p><span style="font-size: 10pt;"><img style="max-width: 100%; max-height: 480px;" src="5c3b1a82dbce6340fa192183ca96193f.iix" /></span></p>
+<p><span style="font-size: 10pt;">Next, there are two options. If the service mapping administrator has been assigning maps to you to review through tasks, you would click on ‘My Tasks’.</span></p>
+<p><span style="font-size: 10pt;"><img src="05ad5a02db02a340fa192183ca961911.iix" /></span></p>
+<p><span style="font-size: 10pt;">Now you can then see the Service Process Task which contains various information such as the service to be reviewed, description, and most importantly, the <strong>Business service form</strong> link.</span></p>
+<p><span style="font-size: 10pt;"><img style="max-width: 100%; max-height: 480px;" src="647d1202db02a340fa192183ca961971.iix" /></span></p>
+<p><span style="font-size: 10pt;">Clicking this link takes you to the service map.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 10pt;">If you are <strong>not</strong> using tasks, go directly to ‘Business Services’</span></p>
+<p><span style="font-size: 10pt;"><img src="899d1a02db02a340fa192183ca9619c8.iix" /> </span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 10pt;">From here, you will see a list of business services. Select the service you need to review from the list:</span></p>
+<p><span style="font-size: 10pt;"><img style="max-width: 100%; max-height: 480px;" src="403ed682db02a340fa192183ca9619ab.iix" /> </span></p>
+<p><span style="font-size: 10pt;">Once you get to the business service map, it’s time to do your actual review. Key things to check for on the map are:</span></p>
+<ul><li><span style="font-size: 10pt;">Missing Cis</span></li><li><span style="font-size: 10pt;">CIs that may not belong on the map</span></li><li><span style="font-size: 10pt;">Connections between CIs are correct</span></li><li><span style="font-size: 10pt;">Clusters are reflected correctly</span>
+<ul><li><span style="font-size: 10pt;">Click the (&#43;) icon next to a CI to expand the cluster</span></li></ul>
+</li><li><span style="font-size: 10pt;">Incorrect naming conventions of Applications</span></li><li><span style="font-size: 10pt;">Missing connections to other services</span></li><li><span style="font-size: 10pt;">Comparison to existing manual maps of the service or additional diagrams</span></li></ul>
+<p><span style="font-size: 10pt;"> </span><span style="font-size: 10pt;">You have the ability to approve or reject the map from the ‘Actions’ drop down in the upper right. If you are rejecting the map, be sure to enter in plenty of details as to why you are rejecting the map: this will allow the administrator to make the necessary changes faster and cut down on time wasted in back-and-forth communication.</span></p>
+<p><span style="font-size: 10pt;"><img style="max-width: 100%; max-height: 480px;" src="df7edac2db02a340fa192183ca9619e7.iix" /></span></p>
+<p> </p>
+<p><span style="font-size: 10pt;">And that is it! If you have further questions, reach out to your service mapping administrator or implementation partner, they should be able to help guide you through any other details on reviewing and approving service maps. Alternatively, you can post a question here on Community.</span></p>
+<p><span style="font-size: 10pt;">Thank you and good reviewing!</span></p>
+<p> </p>

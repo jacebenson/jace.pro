@@ -1,0 +1,6 @@
+---
+title: "SN Sydney Hackathon  Its on Down Under"
+date: 2016-02-17T04:55:43.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=24fda22ddbd0dbc01dcaf3231f961902"
+---
+<p>On March 4th we are holding our inaugural Community Hackathon in Sydney. The invitiations are being sent out and registrations are starting to come in, for what will be a fantastic day of innovation and creativity. </p><p></p><p>We will continue to post here and on Twitter using #HackNow in the the run up, during and post event. We have some great resources confirmed to support us, ensuring the attendees get the absolute most out of the day.</p><p></p><p>It would be remiss to not thank our SN ANZ team who yet again are raising the bar above and beyond, so big thanks to Debra, Duncan, Penny, Dani and Natasha....(Ladies, I had to mention Duncan as he is quite sensitive!)</p><p></p><p>Keep an eye out for updates, and if you get an invitation, make sure to attend.</p><p></p><p>Thanks,</p><p>#GWP</p>

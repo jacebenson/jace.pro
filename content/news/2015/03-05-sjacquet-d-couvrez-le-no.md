@@ -1,0 +1,6 @@
+---
+title: "Dcouvrez le NowPortal Enterprise Portal Builder for ServiceNow"
+date: 2015-03-05T04:03:12.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=200d2aa5dbd0dbc01dcaf3231f96194b"
+---
+<p>ImaKumo innove en développant des applications pour la plateforme ServiceNow !</p><p></p><p>L'application NowPortal pour ServiceNow permet en effet de générer des portails, í  la mise en forme totalement personnalisable, aussi bien sur le fond que sur la forme, tout en étant doté de la technologie Responsive Web Design, garantissant l'accessibilité des pages web générées quel que soit le terminal utilisé !</p><p><span style="font-size: 10pt; line-height: 1.5em;"><br/></span></p><p><span style="font-size: 10pt; line-height: 1.5em;">Il est ainsi aisé de créer des portails, disposant d'une une mise en page personnalisable sous forme de blocks (accès í  une page, communication, slideshow etc.), de manière totalement codeless !</span></p><p></p><p><iframe src="https://youtube.com/embed/aIvwOrAdRJ0" width="425" height="350"/></p><p></p><p>En savoir plus sur les <a title="w.imakumo.com/servicenow/applications-for-servicenow/" href="http://www.imakumo.com/servicenow/applications-for-servicenow/">apps 100% made by ImaKumo</a>.</p>

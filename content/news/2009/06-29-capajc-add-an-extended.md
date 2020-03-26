@@ -1,0 +1,6 @@
+---
+title: "Add an extended field to a base list"
+date: 2009-06-28T20:40:46.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=332de6e5dbd0dbc01dcaf3231f9619c8"
+---
+<p>I just saw this checked in by a developer, sync'd and tested it, and wanted to tell you about it. It should be on /demo tomorrow to play with.<br /><br />The ability to add an extended field (like "incident_state" which is on the incident table) to a base list (e.g., the task list).<br /><br />How many times have I seen someone want to add Caller ID or Incident State to the My Work list? But you couldn't, 'cuz My Work is a task list and task records don't t have access to extended tables' fields.<br /><br />Now, however, when personalizing a list (not using the "cog", but the other way using the list header context menu), at the bottom of the Available side of the slushbucket you'll see a list of extended tables. Click one, and get access to fields specific to that table.<br /><br />The look and feel might change before the Fall release, but it's finally coming! I think in one fell swoop, this will knock off about 60 or 70 enhancement requests from various customers.</p>

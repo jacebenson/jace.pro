@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2018-12-10T21:24:09.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=1016356ddb9223402e8c2183ca961928"
+---
+<p>Episode topics include:</p>
+<ul><li><a href="community?id&#61;community_question&amp;sys_id&#61;76369129db9aaf004abd5583ca961911&amp;view_source&#61;searchResult" target="_blank" rel="nofollow">Execution of catalog items in Order guide</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;2ed39d2ddb9a6f00fb4ae15b8a9619f1&amp;view_source&#61;searchResult" target="_blank" rel="nofollow">Guided Tours Fail-on-Startup with Internet Explorer 11</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;1f51d9e9db96ef007d3e02d5ca961910" target="_blank" rel="nofollow">How to raise a request to retire a group without mentioning the alternate group?</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;4383ffd5db96eb00fb115583ca961979" target="_blank" rel="nofollow">disabling delete option while checkout</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;a3c70921db9223409540e15b8a96190a" target="_blank" rel="nofollow">Need a schedule Job to send notification to &#34;Requested_for&#34; user in RITM?</a></li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream/tree/master/2018-12-10" target="_blank" rel="nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/UHR7y_oGH68" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="nofollow">Twitch</a>.</p>

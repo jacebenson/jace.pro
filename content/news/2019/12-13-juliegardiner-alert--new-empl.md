@@ -1,0 +1,14 @@
+---
+title: "Alert New Employee Experience Packs are now available on SHARE  December  Edition"
+date: 2019-12-12T23:30:18.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=666250371b614c90fff162c4bd4bcb1a"
+---
+<p><span style="font-size: 14pt;"><strong>Alert: New Employee Experience Packs are now available on SHARE</strong></span></p>
+<p>Reduce the time, effort and cost of your implementation using our new Employee Experience Packs. Employee Experience Packs are pre-built best practices that come with pre-configured content to accelerate your time-to-value.</p>
+<p>All Employee Experience Packs come at no additional cost to you. Maximize your Employee Service Delivery investment by taking advantage of these pre-built configurations to support your employee service delivery needs.</p>
+<p><span style="font-size: 12pt;">What’s New:</span> <br /><span style="text-decoration: underline;">Enterprise Onboarding Employee Journey</span><br />Customers who want to provide a great onboarding experience to their new hires and hiring managers often ask for guidance on how to implement this in ServiceNow. The Enterprise Onboarding Experience Pack serves as a blue-print for the process of onboarding a new hire to the organization. It uses pre-built services, activities, and communications to coordinate work across multiple departments while guiding the new hire and their hiring manager through more effective planning and communication.</p>
+<p><span style="text-decoration: underline;">HR Services</span><br />HR services are the starting point for HR case creation and define the request to fulfillment process for that case type. Use the new Employee Experience Packs as a blueprint for adding new HR Services to your catalog for:</p>
+<ul><li>Modify Direct Deposit Request</li><li>Family Care Leave of Absence Request</li><li>Medical Leave of Absence Request</li><li>Military Leave of Absence Request</li><li>Jury Duty Time Off Request</li></ul>
+<p><span style="text-decoration: underline;">Transfer Employee Journey</span><br />The new Transfer Employee Experience Pack serves as a blue-print for the transfer process, utilizing pre-built services, activities and communications, to help you maximize your Employee Service Delivery investment.</p>
+<p><span style="text-decoration: underline;">Company Holiday Calendar</span><br />Employees within an organization typically need to plan their holidays and project work and look for the company holiday calendar. This Employee Experience Pack offers a blueprint that allows ServiceNow customers to get the upcoming holiday or the yearly holiday calendar available on the Service portal.</p>
+<p><br /><a href="https://developer.servicenow.com/app.do#!/share/contents?category&#61;Employee%20Experience%20Packs&amp;page&#61;1" rel="nofollow">CLICK HERE</a> to access the SHARE site to see all the Employee Experience Packs available now.</p>

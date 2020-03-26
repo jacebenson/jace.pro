@@ -1,0 +1,7 @@
+---
+title: "Redirect End users to different portals"
+date: 2017-05-15T16:52:43.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=a1dda6e9dbd0dbc01dcaf3231f96197b"
+---
+<p>By default, all end users logging in can be redirected to a specific portal. OOB this is the portal with the suffix "sp".</p><p></p><p>Many users has risen the demand to be able to redirect end users to different portal depending on specific parameters. In this post I will give you a simple example how to redirect the end user to a different portal depending on which company they belong to. I believe that after this, you should be able to use the same way to setup your own conditions and reuse the rest of the code.</p><p></p><p>So sit back, get your coffee and press play =)</p><p></p><p><iframe frameborder="0" height="394" src="https://www.youtube-nocookie.com/embed/ODc5q6X8KY4" width="700">
+</iframe></p><p></p><p>//Göran</p><p></p><p><img   alt="Symfoni Logo Color Box.jpg" class="image-1 jive-image" height="56" src="d628d1c6db5c9f048c8ef4621f96192e.iix" style="width: 190px; height: 55.6641px;" width="190"/><img   alt="sn-community-mvp.png" class="image-2 jive-image" src="0ca57886db9c5f048c8ef4621f961910.iix" style="width: auto; height: auto;"/></p>

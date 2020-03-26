@@ -1,0 +1,29 @@
+---
+title: "Now Learning Blog  A New Way to Get Started  Introducing ServiceNow Fundamentals On Demand"
+date: 2020-02-04T02:05:39.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=cb32f1b4db7a88d413b5fb2439961972"
+---
+<p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;">When this blog series launched, one of the very <a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;9ae6ff69db0584105129a851ca961980" rel="nofollow"><span class="s2">first blogs</span></a> focused on what courses to take if you were new to ServiceNow training and wanted to know where to get started.  One of the courses recommended to new learners is our <a href="https://nowlearning.service-now.com/lxp?id&#61;overview&amp;sys_id&#61;e4383a8cdb5eff40de3cdb85ca96190e&amp;type&#61;course" rel="nofollow"><span class="s2">ServiceNow Fundamentals</span></a> class, which is the starting point for all roles to begin their ServiceNow journey. Whether you are looking for a quick introduction to the Now Platform or are preparing for your Certified System Administrator (CSA) exam, this course is designed to target your exact needs.  </span></p>
+<p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;"> </span></p>
+<p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;">Until now ServiceNow Fundamentals was only offered in an Instructor-Led Live Class format. We are excited to announce the recent release of a FREE, fully <a href="https://nowlearning.service-now.com/lxp?id&#61;overview&amp;sys_id&#61;6b78901c1b748050b1c7fe631a4bcb73&amp;type&#61;path" rel="nofollow"><span class="s2">On Demand version</span></a> of this course, now available on Now Learning!  You can enjoy this course at your own pace and on your own time! </span></p>
+<p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;"> </span></p>
+<p class="p2"><span class="s1" style="font-family: helvetica; font-size: 14pt;">Which Version is Right for Me? </span></p>
+<p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;"> </span></p>
+<p class="p2"><strong><span class="s1" style="font-family: helvetica; font-size: 12pt;">Public Live Class </span></strong></p>
+<p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;">A three-day course that summarizes fundamental platform features by describing the ServiceNow user interface, providing a summary of the database schema, demonstrating uses for commonly accessed applications, and introducing advanced functionality, such as scripting and application development.  </span></p>
+<p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;"> </span></p>
+<p class="p2"><strong><span class="s1" style="font-family: helvetica; font-size: 12pt;">Private Live Class </span></strong></p>
+<p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;">Host a private ServiceNow Fundamentals instructor-led 3-day course, on-site or online exclusively for your employees. </span></p>
+<p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;"> </span></p>
+<p class="p2"><strong><span class="s1" style="font-family: helvetica; font-size: 12pt;">On Demand Class </span></strong></p>
+<p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;">This free course runs 13 hours in duration and is made up of instructor videos, hands-on activities, guided tours of the Now Platform, and knowledge checks to test your understanding of the content.  We are also excited to announce that for a limited time only, as part of the initial launch campaign through the end of March 2020, upon completion of this course you will also receive a FREE certification voucher to register for the Certified System Administrator (CSA) exam. </span></p>
+<p class="p3"><span class="s1" style="font-family: helvetica; font-size: 12pt;">  </span></p>
+<p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;">Use this chart to review the features each delivery type offers in order to make the best training choice for you.  Then use the links below the chart to navigate to your selection of choice and enroll today. </span></p>
+<p class="p4"> </p>
+<p class="p5"><span class="s1" style="font-family: helvetica; font-size: 12pt;"> <img src="https://community.servicenow.com/46f1f134db7a88d413b5fb2439961943.iix" /></span></p>
+<p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;"> </span></p>
+<p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;">- <strong>Private Instructor-Led Class:</strong> Contact your on-site training coordinator or email <a href="mailto:TrainingAE&#64;servicenow.com" rel="nofollow"><span class="s2">TrainingAE&#64;servicenow.com</span></a> </span></p>
+<p class="p6"><span class="s4" style="font-family: helvetica; font-size: 12pt;">- <strong>Public Instructor-Led Class</strong>: <a href="https://nowlearning.service-now.com/lxp?id&#61;overview&amp;sys_id&#61;e4383a8cdb5eff40de3cdb85ca96190e&amp;type&#61;course" rel="nofollow"><span class="s2">Register for the ServiceNow Fundamentals <strong>LIVE CLASS</strong></span></a> </span></p>
+<p class="p6"><span class="s4" style="font-family: helvetica; font-size: 12pt;">- <strong>On Demand</strong>:  <a href="https://nowlearning.service-now.com/lxp?id&#61;overview&amp;sys_id&#61;6b78901c1b748050b1c7fe631a4bcb73&amp;type&#61;path" rel="nofollow"><span class="s2">Enroll in ServiceNow Fundamentals <strong>LEARNING PATH</strong></span></a> </span></p>
+<p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;"> </span></p>
+<p class="p2"><span class="s1" style="font-family: helvetica; font-size: 14pt;">Get registered, get your badge, and get certified! </span></p>

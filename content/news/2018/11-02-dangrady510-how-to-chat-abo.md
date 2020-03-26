@@ -1,0 +1,27 @@
+---
+title: "How to Chat about Chatbots  Part "
+date: 2018-11-01T22:06:03.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=6c675dcddb21a300fa192183ca9619b1"
+---
+<p><em>This is the first post of a 2 part blog series that will explore our relationship with a relatively new entity that we are all conversing with on an almost daily basis in both our consumer and work environments.</em></p>
+<p><em>The Chatbot.</em></p>
+<p><em>What we&#39;ll do in this series is help demystify Chatbots by sharing some of the terminology you may be hearing around the virtual water cooler when chatting with your friends and colleagues.</em></p>
+<p><em>In this first post we&#39;ll define some of the high level terms you may be hearing from a customer experience perspective - Conversational UIs and Messaging Apps.  Then in Part 2 we will define some of the key aspects of the technology behind bots like AI, Natural Language Processing and Utterances.</em></p>
+<p>Whether it was at home while trying to set a doctor&#39;s appointment, book a flight, or deal with an issue with your television provider - or in the office while dealing with a locked out account or laptop issue, you&#39;ve probably interacted with a chatbot.  You may have even thought it was a human.  Many of you are now probably questioning your last interaction and wondering whether or not you were dealing with an actual human on the other end.</p>
+<p>As long as you got to a resolution in a timely manner, you were probably satisfied, and could care less whether it was a chatbot or a human you were interacting with.</p>
+<p>Most of us don&#39;t wake up in the morning saying to ourselves, &#34;I&#39;m looking forward to listening to several minutes of easy listening while on hold, and then a long back and forth with a call center agent.&#34;  Chatbots are helping to eliminate this experience with 24/7 access and fast response to routine questions.  In fact, most experts are projecting that by 2020 85% of all customer interactions will be handled without the need for a human agent.</p>
+<p>There are countless reasons from both a business and customer experience perspective that chatbot usage will continue to increase, most of them fit into the speed, scale and satisfaction categories.  We&#39;ll cover the benefits in more depth in a future post.</p>
+<p>But what exactly is a <strong>Chatbot?</strong></p>
+<p>Most definitions you&#39;ll find will boil it down to a computer program that is capable of having human-like conversations through voice or text - usually focused on automating some sort of basic business process like making an appointment, taking an order, or resetting a password.</p>
+<p>Chatbots are part of the paradigm shift thats taking place in how humans interact with computers.  Not too long ago we had to know specific syntax to interact with computers or which icons to click, we&#39;ve now advanced to the point where we are interacting with computers on more human terms.</p>
+<p>This new interface is referred to as the <strong>Conversational UI. </strong>Conversational UIs remove the natural barrier of people having to learn an interface(the computers now have to learn how interact with us) and provide a frictionless experience for both customers and employees.</p>
+<p>The demand for a more conversational UI in the form of chatbots is largely the result of the increased adoption and usage of <strong>Messaging Apps. </strong>  We are all using messaging apps in our personal lives(WhatsApp, Facebook Messenger, WeChat) and in the workplace(Slack, MS Teams, Skype).  For many of us messaging apps have become our new home screen - increasing the importance for organizations to have chatbots that provide an interactive experience in these applications.</p>
+<p>So now that we&#39;re all typing away having conversations with chatbots via conversational UIs exposed in our favorite messaging apps...how exactly are those bots understanding what we&#39;re typing and making intelligent decisions about how to respond?</p>
+<p>That&#39;s where a subset of Artificial Intelligence called Natural Language Processing comes in.  We&#39;ll cover those topics and more in <a href="community?id&#61;community_blog&amp;sys_id&#61;3811fdd8dbd26308656a5583ca9619a8" rel="nofollow">Part 2</a>.</p>
+<p>Learn more about the ServiceNow Virtual Agent <a href="https://www.servicenow.com/products/virtual-agent.html" target="_blank" rel="noopener noreferrer nofollow">here.</a></p>
+<p> </p>
+<p><strong>Other Virtual Agent Blog Posts:</strong></p>
+<p><a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;5993d805dbbd770c4819fb243996191e" target="_blank" rel="noopener noreferrer nofollow">The Digital Ensemble that Helps Virtual Agent Create Better Experiences</a></p>
+<p><a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;daac4774db82ff80e0e80b55ca9619f4&amp;view_source&#61;searchResult" target="_blank" rel="noopener noreferrer nofollow">NOW Intelligence &amp; Virtual Agent - Better Together</a></p>
+<p><a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;18165c08db967fc09540e15b8a9619f2" target="_blank" rel="noopener noreferrer nofollow">Is &#34;chatbot&#34; a misnomer?  Let&#39;s think about what creates successful chat experiences</a></p>
+<p> </p>

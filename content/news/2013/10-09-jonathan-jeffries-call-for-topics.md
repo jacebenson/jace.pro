@@ -1,0 +1,6 @@
+---
+title: "Call for TopicsSpeakers  ServiceNow DC Metro Community Members"
+date: 2013-10-08T05:20:06.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=fdbd6aa9dbd0dbc01dcaf3231f9619ef"
+---
+<p>We are planning our next D.C. Metro User Group targeting early November and would like to understand which topics you are interested in hearing about and if you have a topic you'd like to present to the group! We have outlined some potential topics based upon feedback received from the last user group. <br /><br />Panel of customer (and possibly SN) experts to lead a discussion session on one or more interest area — choose from interest areas identified in March:<br />o&nbsp;&nbsp; Incident reporting and root cause analysis<br />o&nbsp;&nbsp; Problem Management<br />o&nbsp;&nbsp; CMDB<br />o&nbsp;&nbsp; Emp Provisioning<br />o&nbsp;&nbsp; Change Management<br /><br />Service Now topics:<br />o&nbsp;&nbsp; Calgary/Dublin release overview<br />o&nbsp;&nbsp; Performance Analytics Demo (Mirror 42 acquisition and reporting capabilities)<br /><br />Feel free to email me at jonathan.jeffries@servicenow.com as your feedback is very important to us!<br /><br />Thank you,â€¨<br /><br />ServiceNow and the DC Steering Committee!</p>

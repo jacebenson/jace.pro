@@ -1,0 +1,9 @@
+---
+title: "Share your knowledge and experience on a new ServiceNow platform"
+date: 2019-07-11T02:43:30.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=48fd7275db62f30423f4a345ca96192e"
+---
+<p class="p1">Hey everyone, I’m a bit new here, but want to share something exciting I’m working on. In the coming months ServiceNow will be launching a new learning experience for customers. As part of this new platform, we would like to highlight learning material created by those that know the most and have the expertise to help others grow in their career with ServiceNow; we want to highlight learning content created by the community.</p>
+<p class="p1">We’re looking for people that are interested in creating new tutorials and learning material. This could be a written article, a video or presentation. Whatever the format, the important thing we’re looking for is content that’s new and helpful for those that are beyond the basics of the ServiceNow platform.</p>
+<p class="p1">If this sounds interesting to you, please <a title="Community Created Content interest survey" href="https://forms.office.com/Pages/ResponsePage.aspx?id&#61;cPHPi3mZHkmGg9jO0IULrQLKK1LaGJ1Imfo3KRkiFk9UODFKVVZJMFg3T0JLQTJUUkIxQUU4OEdIRi4u" target="_blank" rel="noopener noreferrer nofollow">complete this survey</a>. Those that complete the survey will be invited to an informational webinar where we&#39;ll provide more details on the platform and an overview of the community content program we’re developing.</p>
+<p class="p1">It’s still early days for this program, so be sure to sign up for more information. We will make updates to this post as we get closer to a release date and have more details to share.</p>

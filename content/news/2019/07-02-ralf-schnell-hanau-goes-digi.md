@@ -1,0 +1,8 @@
+---
+title: "Hanau goes Digital So meistert die hessische Stadt die Digitalisierung der Verwaltung mit ServiceNow"
+date: 2019-07-01T17:00:50.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=d5422ab6db9e33c023f4a345ca961913"
+---
+<p style="text-align: justify;">„Moderne Verwaltungen in Bund, Ländern und Kommunen bis 2022.“ Das ist das Ziel der Bundesregierung mit dem <a href="https://www.bundesregierung.de/breg-de/themen/digital-made-in-de/digitalen-staat-und-moderne-verwaltung-in-bund-und-laendern-ausbauen-1546696" rel="nofollow">Onlinezugangsgesetz</a>, welches im August 2017 in Kraft getreten ist. Alle Verwaltungsleistungen in Bund, Ländern und Kommunen sollen bis 2022 digital über Verwaltungsportale verfügbar sein. Für viele Kommunen bedeutet dieses Gesetz eine Chance, den Bürgern einen hervorragenden Service zu bieten, aber auch die Digitalisierung der eigenen Prozesse voranzutreiben. Dabei geht es um viel mehr als die Online-Bereitstellung von Formularen. So sieht es auch die Stadt Hanau.</p>
+<p style="text-align: justify;">Für die Kommune ist die reine Digitalisierung von Formularen nicht genug. Die Verantwortlichen wollen mehr tun: sie wollen eine wahrhaft digitale Verwaltung schaffen, in der so viele Prozesse wie möglich digital ablaufen ...</p>
+<p style="text-align: justify;"><a href="https://blog.servicenow.de/2019/07/01/hanau-goes-digital-so-meistert-die-hessische-stadt-die-digitalisierung-der-verwaltung-mit-servicenow/?preview&#61;true&amp;_thumbnail_id&#61;426" target="_blank" rel="noopener noreferrer nofollow">Lesen sie den vollständigen Artikel in unserem ServiceMatters Blog</a></p>

@@ -1,0 +1,6 @@
+---
+title: "The Enterprise Cloud is now FedRAMP Certified"
+date: 2016-02-29T21:15:14.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=8c3eaa6ddbd0dbc01dcaf3231f961988"
+---
+<p>For US government entities and their contractors, FedRAMP certification is a very important qualification for cloud service providers. Today we officially announced we are FedRAMP Certified in the federal regions of the Enterprise Cloud (separate regions of datacenter space in Virginia and Miami).</p><p></p><p>If you are not a US government entity then there is good news here for you too. With the exception of specific security controls required for the federal regions, we have implemented the same stringent security controls for our commercial regions too.</p><p></p><p>We take securing our cloud and your data very seriously and this latest certification is just the next step for our customers!</p><p></p><p>You can read more about our <a title="ervicematters.servicenow.com/servicenow-cloud-fedramp-certified/" href="https://servicematters.servicenow.com/servicenow-cloud-fedramp-certified/">FedRAMP Certification here</a> (including a link to the official press release).</p>

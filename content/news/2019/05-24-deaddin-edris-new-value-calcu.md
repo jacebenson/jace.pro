@@ -1,0 +1,10 @@
+---
+title: "NEW Value Calculator puts you on the path to success with ServiceNow ITBM"
+date: 2019-05-23T22:28:27.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=c047b25adb25b384190dfb24399619ca"
+---
+<p class="p1">Calculating the potential value of implementing ServiceNow’s ITBM has never been easier with the newly released ServiceNow <a href="https://www.servicenow.com/success/value-calculator-itbm.html?cid&#61;i:com:smkc:csc" rel="nofollow">ITBM Value Calculato<span class="s1">r</span></a>. This calculator is Forrester Certified, and the potential value is calculated using a financial model developed by Forrester Consulting based on a commissioned October 2018 study, <a href="https://www.servicenow.com/lpayr/the-total-economic-impact-of-servicenow-it-business-management.html?cid&#61;i:com:smkc:csc" rel="nofollow"><span class="s1">The Total Economic </span><span class="s1">Impact™ Of ServiceNow IT Business Management</span></a>, conducted with real customers on behalf of ServiceNow.</p>
+<p class="p1">Using the new value calculator is easy. Simply move the sliders on the left-hand side to enter a few inputs as they relate to your organization. The figures will update in real-time and a business value report will be ready for you to download. In it, you will find details on how much your organization can save annually with ServiceNow ITBM, in addition to details such as increasing velocity for your time-to-market, doing more with less resources, and overall productivity improvements.</p>
+<p class="p1">Try the new calculator today, and find out how <a href="https://www.servicenow.com/products/business-management.html" rel="nofollow"><span class="s1">ServiceNow ITBM</span></a> can help you deliver business outcomes with speed and agility.</p>
+<p class="p1"> </p>
+<p class="p1"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/6d6a3e96dbad3b045129a851ca96193f.iix" /></p>

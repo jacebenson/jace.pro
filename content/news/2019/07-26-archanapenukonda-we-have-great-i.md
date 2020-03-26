@@ -1,0 +1,46 @@
+---
+title: "We have great ITSM updates for you in New York"
+date: 2019-07-25T23:22:32.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=e6cfdb22dbbaf380414eeeb5ca961970"
+---
+<p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/e7d84d67db2b7b08190dfb2439961903.iix" /></p>
+<p>“<em>Oooooooh, New York!<br /> Oooooooh, New York</em>!...”</p>
+<p>While Alicia Keys croons this hit number, she adds, “There&#39;s nothing you can&#39;t do, now you&#39;re in New York!”. I kinda feel the same way with all the goodness we are packing into the release, especially with the next-gen mobile capabilities ServiceNow is bringing to the enterprise. While Mobile has been an especially hot topic with our customers since Knowledge, I believe you will be pleased with what you get with the launch of New York. There are of course many other capabilities we are bringing to market. For the purpose of this blog, I’ll focus on a few key New York capabilities for ITSM.</p>
+<p> </p>
+<p><strong>Now Mobile app: </strong></p>
+<p>For the first time ever, we&#39;ve removed the friction from everyday work with Now Mobile</p>
+<p>Now employees can find answers and get stuff done across IT, HR, facilities, finance, legal and other departments, all from a modern mobile app powered by the Now Platform<strong>®</strong>. The Now Platform delivers great employee experiences and productivity through digital workflows across departments, systems and people. Approvers can stay on top of their game too. If you manage people, you know that approvals are not easy to keep up as the requests get buried in email. With the Now Mobile app, you  can see all your approvals in one place and approve a request with just a tap.</p>
+<p>Download “Now Mobile” app from <a href="https://apps.apple.com/us/app/now-mobile/id1469616608" rel="nofollow">iOS App Store</a> or <a href="https://play.google.com/store/apps/details?id&#61;com.servicenow.requestor&amp;hl&#61;en_US" rel="nofollow">Google Play Store</a> and see for yourself how much easier it is making everyday life at work. If you are using ServiceNow Virtual Agent in your environment, you can simply activate the chat bot in app to get automatic resolution to common issues.</p>
+<p>Finally work life can be as great as real life</p>
+<p>   <img src="https://community.servicenow.com/328371a7db6bb7c81cd8a345ca96192a.iix" width="544" height="485" /></p>
+<p><strong> </strong></p>
+<p><strong>Virtual Agent with Natural Language Understanding(NLU)</strong></p>
+<p>The ServiceNow Virtual Agent is not new. With New York, the Virtual Agent now has Natural Language Understanding. The Virtual Agent understands simple human language, which means it actually understands you. Virtual Agents understand the content of a request – even when small talk is used.  So, you can say something like “How do I reset my password?” or “I cannot connect to the VPN” or “The printer near me is not working” or you can say “Escalate my incident” or hundreds of such simple statements and the Virtual Agent will take you to resolution by walking you through troubleshooting steps, giving you knowledge base articles or in cases where a human agent is required, handing off seamlessly to a human agent.</p>
+<p>What’s more, with NLU (natural language understanding), the chat bot not only responds to service requests and incidents, as usual, it also adapts to user intent if you change the topic mid-way. For example, while the user is reporting a broken display monitor, he can also request a new phone within the same conversation. The chatbot not only processes the request for a new phone, but also reminds the user about the display monitor.</p>
+<p>This capability is great for employees who can get resolutions to their questions immediately and it’s great for agents who can focus on higher priority issues.</p>
+<p> <img src="https://community.servicenow.com/f75275a3db2bb7c81cd8a345ca9619f3.iix" width="272" height="473" /></p>
+<p><strong> </strong></p>
+<p><strong>Vendor Manager Workspace</strong></p>
+<p>With vendors playing an increasingly important role in organizations, it is important to have visibility into the quality of services provided by the vendor. Vendor Manager Workspace fills that need.</p>
+<p>Vendor Manager Workspace is a single destination for organizations to manage their vendors to create maximum value for their organization. Vendor Managers have a single workplace to actively manage vendor relationships and the health of their provided services. The application consolidates and relays key vendor information from across multiple systems by bringing together information about the vendor, their services and various performance metrics related to the service they are providing. This is near real-time, so vendor managers always know how the vendor’s services are performing. There is no more using qualitative feedback to guess a vendor’s performance. Vendors get scored based on standardized metrics that are the same across the board.</p>
+<p>Check out this <a title="Vendor Manager Workspace" href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;0a3ba12bdb67f3085ed4a851ca9619e5" target="_blank" rel="noopener noreferrer nofollow">deeper dive blog</a> by Niki Patel, the Product Manager for Vendor Manager Workspace</p>
+<p> <img src="https://community.servicenow.com/39cad5d2db2f33c423f4a345ca961936.iix" width="707" height="321" /></p>
+<p> </p>
+<p> </p>
+<p><strong>Service Manager Workspace</strong></p>
+<p>Another major capability we are bringing you in New York is Service Owner Workspace. Managing the quality of services delivered to end users is more efficient now with Service Owner Workspace which provides a single place to view and manage the IT services you own, as well as view all the IT services your business manages. The Service Owner will have a comprehensive view of a service’s definition, design and performance. From a single view, it is made easy to see customer satisfaction with a service, how much is being spent on it, and if the service is performing well or not. They also have end-to-end visibility into the performance of their service(s), including activity and trends that may impact them. Service Owners can now be masters of the services they own, rather than react to unexpected events.</p>
+<p>ServiceNow is uniquely positioned to support Service Owner Workspace because the platform provides access to all the data necessary for effectiveness. Here&#39;s the <a title="Service Owner Workspace" href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;99556523dba37f08f7fca851ca961926" target="_blank" rel="noopener noreferrer nofollow">blog by David Thigpen</a>, the Product Owner, diving into a little more detail on this capability. </p>
+<p><img src="https://community.servicenow.com/2efa5516db2f33c423f4a345ca96190d.iix" width="694" height="340" /> </p>
+<p> </p>
+<p>So, those are the four key capabilities we are bringing to you with New York.</p>
+<p>In case you missed them above, check out the following blogs to go a little deeper into Vendor Manager Workspace and Service Owner Workspace.</p>
+<p><a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;0a3ba12bdb67f3085ed4a851ca9619e5" rel="nofollow">Digital transformation and the role of your vendors</a><a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;99556523dba37f08f7fca851ca961926" rel="nofollow"> </a>by Niki Patel, the Product Manager for Vendor Manager Workspace</p>
+<p><a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;99556523dba37f08f7fca851ca961926" rel="nofollow">What’s New in New York for Service Portfolio Management</a> by David Thigpen, the Product Manager for Service Owner Workspace</p>
+<p> </p>
+<p>Got questions or comments? Please post them below. We are listening.</p>
+<p class="ng-scope">............................................................................................................................................................................................................</p>
+<h3 class="ng-scope">Watch the videos <br /><a href="https://go.servicenow.com/LP&#61;13318?referenceSource&#61;communityblog" target="_blank" rel="noopener noreferrer nofollow">The Now Platform New York release on demand webinar</a>.</h3>
+<p class="ng-scope" style="padding-left: 30px;">The Now Platform New York release delivers breakthrough innovations in enterprise mobile, intelligence, and workspaces. Join the broadcast to see how you can take advantage of these innovations and have an even bigger impact in your organization.</p>
+<p class="ng-scope" style="padding-left: 30px;"><a href="https://go.servicenow.com/LP&#61;13318?referenceSource&#61;ODcommunity" rel="nofollow"><img class="community_image_fullscreen" style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.comhttps://community.servicenow.com/1bbbe504db080c500be6a345ca961958.iix" alt="image" /></a></p>
+<p class="ng-scope">............................................................................................................................................................................................................</p>
+<p> </p>

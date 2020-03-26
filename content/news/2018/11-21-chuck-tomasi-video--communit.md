@@ -1,0 +1,10 @@
+---
+title: "Video Community Live Stream  "
+date: 2018-11-20T21:46:22.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=be5b7a83dbb9e7402e8c2183ca9619bb"
+---
+<p>Episode topics include:</p>
+<ul><li>What’s changed since starting 11-20-2017?</li><li><a href="community?id&#61;community_question&amp;sys_id&#61;bf2ad203db752b409540e15b8a961911" target="_blank" rel="nofollow">How to filter Business Units on Project Form based on Assignment Group</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;86799a07dbb9e340107d5583ca961997" target="_blank" rel="nofollow">Add current logged user to notification/email template</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;8ee53b89db79a340107d5583ca961996" target="_blank" rel="nofollow">Can I hide a tab using a UI Policy</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;42394283dbf56b409a64e15b8a96196c" target="_blank" rel="nofollow">Problems with updating queried records in a while/if loop</a></li><li><a href="community?id&#61;community_question&amp;sys_id&#61;92794ac7db312b4011762183ca9619fa" target="_blank" rel="nofollow">Unable to delete group with the script.</a></li></ul>
+<p>Code snippets can be found in the <a href="https://github.com/chucktomasi/sn-community-live-stream/tree/master/2018-11-20" target="_blank" rel="nofollow">GitHub repository.</a></p>
+<center><iframe id="CmCaReT" src="https://www.youtube.com/embed/RN_yMYLtx7k" width="640" height="360"></iframe></center>
+<p>Community Live Stream is a show for ServiceNow admins and developers who want to go beyond getting answers in the community. Gain insight and knowledge from the experts about how those answers are obtained and apply them to your role to be more effective. Find us on <a href="https://www.youtube.com/playlist?playnext&#61;1&amp;list&#61;PLkGSnjw5y2U5jTsF7i2yRZPdk3lm88SN8&amp;index&#61;1" target="_blank" rel="nofollow">YouTube</a> or <a href="https://twitch.tv/nowcommunity" target="_blank" rel="nofollow">Twitch</a>.</p>

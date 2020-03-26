@@ -1,0 +1,6 @@
+---
+title: "ServiceNow Developer Site"
+date: 2015-04-28T04:24:37.000Z
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=0abc2e25dbd0dbc01dcaf3231f961915"
+---
+<p>Check out these two testimonials of the benefits of the ServiceNow Developers Site, which enables developers with different backgrounds and experience to complete the on boarding process quickly and efficiently.</p><p></p><p><iframe src="https://youtube.com/embed/t8s5YL4brZw" width="640" height="360"/></p><p></p><p></p><p>For more information, see:</p><p><a title="eveloper.servicenow.com/app.do#!/home" href="https://developer.servicenow.com/app.do#!/home">ServiceNow Developer Site</a></p><p><a title="" _jive_internal="true" href="/welcome">ServiceNow Community</a></p><p></p><p>For general information about ServiceNow, visit: <a title="w.servicenow.com/" href="http://www.servicenow.com/">http://www.servicenow.com/</a></p><p></p><p>Your feedback helps us better serve you! Did you find this video helpful? Leave us a comment to tell us why or why not.</p>
