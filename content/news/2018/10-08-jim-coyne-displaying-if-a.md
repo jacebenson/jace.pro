@@ -1,6 +1,7 @@
 ---
 title: "Displaying if a Record has an Attachment in UI"
 date: 2018-10-07T09:40:54.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e51dbd74db4523409d612926ca96193a"
 ---
 <p>Note: I&#39;ve written about this a few years ago (<a href="community?id&#61;community_blog&amp;sys_id&#61;a26c6ea1dbd0dbc01dcaf3231f96197c" rel="nofollow">Displaying if a Record has an Attachment</a>), but UI15 changed the way Field Styles in list views are shown.  This was carried over into UI16 as well.  I just thought it was time to add an updated article.</p>

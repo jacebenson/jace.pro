@@ -1,6 +1,7 @@
 ---
 title: "Getting Started with ServiceNow Project Management"
 date: 2014-09-11T03:50:53.000Z
+authors: ["katharine.campbell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=914ee2addbd0dbc01dcaf3231f9619a1"
 ---
 <p class="p1">The Project Management application provides a suite of tools that aid in managing projects, tasks, and resources, as this video demonstrates.</p><p class="p1"></p><p class="p1"><iframe src="https://youtube.com/embed/Yz4xl-utyb0" width="425" height="350"/></p><p class="p1"></p><p class="p1">For more information on project management, see:</p><p class="p1"></p><p class="p1">Product Documentation</p><p class="p1"><a title="k-external-small" class="jive-link-external-small" href="http://wiki.servicenow.com/index.php?title=Project_Management" rel="nofollow" target="_blank">Project Management - ServiceNow Wiki</a></p><p class="p1"></p><p class="p1"><span style="color: #666666; font-family: arial, sans-serif;">Your feedback helps us better serve you! Did you find this video helpful? Leave us a comment to tell us why or why not.</span></p>

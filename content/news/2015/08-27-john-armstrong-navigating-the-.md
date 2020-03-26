@@ -1,6 +1,7 @@
 ---
 title: "Navigating the ServiceNow Classic Mobile UI"
 date: 2015-08-26T21:18:37.000Z
+authors: ["John Armstrong"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f85e2aaddbd0dbc01dcaf3231f96197f"
 ---
 <p>As you may have noticed when <a title="ww.youtube.com/watch?v&#61;1tgBqcY4RTk" href="https://www.youtube.com/watch?v&#61;1tgBqcY4RTk" rel="nofollow">navigating the smartphone mobile interface</a>, the URL format is significantly different from what&#39;s used in the Desktop and Tablet UI.   <span style="font-size: 13.3333330154419px;">This is important for a few reasons.   In additional to being able to identify where you&#39;re looking on the instance using the URL, this information can also be used to create links and modules specifically for use in the Mobile UI, as will be shown in the examples below.   </span>I hope to better explain the URL structure, including information on how to apply filter options and auto-populate field data using the URL. <a title="" href="/community/service-automation-platform/user-interface/blog/2015/08/19/filtering-and-url-navigation-in-the-mobile-ui" rel="nofollow">Filter options</a> and field data in the URL can be helpful both when viewing existing URLs to understand their content or in creating your own URLs to use in scripts.</p>

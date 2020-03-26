@@ -1,6 +1,7 @@
 ---
 title: "How to Retain Records Created by an ATF Test for Inspection"
 date: 2018-08-28T05:29:26.000Z
+authors: ["ryanpalmer"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=80f34f3bdbc02b44fece0b55ca961990"
 ---
 <h2>Introduction</h2>

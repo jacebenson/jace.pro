@@ -1,6 +1,7 @@
 ---
 title: "Debugging the Classic Mobile UI from your Desktop"
 date: 2015-08-20T21:53:29.000Z
+authors: ["John Armstrong"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4e0deaa5dbd0dbc01dcaf3231f961914"
 ---
 <p>Being able to debug your scripts on the desktop can save a lot of time. Troubleshooting the mobile user interface on a desktop gives you access to your desktop&#39;s full sized keyboard and monitor, and browser&#39;s developer tools. Using your desktop to debug your mobile interface issues makes troubleshooting easier in situations where a physical mobile device is not available to you. I will show you how to access the <a title="ki.servicenow.com/index.php?title&#61;Smartphone_Interface#Supported_Devices_and_Browsers&amp;gsc.tab&#61;0" href="http://wiki.servicenow.com/index.php?title&#61;Smartphone_Interface#Supported_Devices_and_Browsers&amp;gsc.tab&#61;0" rel="nofollow">supported Mobile and Tablet </a>user interface on a desktop browser, as well as some information on tools that can be used to help with the troubleshooting process.</p>

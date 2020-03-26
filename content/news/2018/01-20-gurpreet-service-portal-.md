@@ -1,6 +1,7 @@
 ---
 title: "Service Portal  Tabbed List Widget  Hi Portal  My Issues  Up to  tabs supported"
 date: 2018-01-19T16:47:43.000Z
+authors: ["Gurpreet"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3e0d2ea5dbd0dbc01dcaf3231f96190f"
 ---
 <p>It&#39;s been asked multiple times and there is not an easy way to implement a tabbed list. We can find out smiler widget in HI Portal under My Issues link. If you are still looking for the solution then you are at right place.</p>

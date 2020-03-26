@@ -1,6 +1,7 @@
 ---
 title: "Workbench Widget  Office Hours  Oct  Recap"
 date: 2019-10-30T13:15:58.000Z
+authors: ["Lidhvija Boini"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=03277079dbb00010190dfb24399619a8"
 ---
 <p class="p1">In October, as part of a <a href="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" rel="nofollow"><span class="s1">Performance Analytics and Reporting Office Hours</span></a>, we covered Workbench Widget. A Workbench Widget allows you to bring together a collection of different indicators, create contextual relationships between them and present a potential conversation to the stakeholder via a single screen.</p>

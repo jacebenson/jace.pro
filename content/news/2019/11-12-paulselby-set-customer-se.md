@@ -1,6 +1,7 @@
 ---
 title: "Set customer service agents up for success as Black Friday approaches"
 date: 2019-11-11T09:15:31.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3a75a565dbc188d4190dfb24399619d4"
 ---
 <p><img class="wp-image-4201" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2019/11/black-friday-4490872.jpg" alt="" width="337" height="238" align="left" /></p>

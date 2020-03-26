@@ -1,6 +1,7 @@
 ---
 title: " Tips for Better Customer Service Survey Response Rates"
 date: 2018-06-25T21:04:07.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f714f463db7e1fc0a8562926ca9619f9"
 ---
 <p><img class="alignnone  wp-image-3225" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/06/survey-1594962.jpg" alt="survey-1594962" width="378" height="252" align="right" /> Customer service surveys. It seems like every interaction I have with a company&#39;s customer service department, I&#39;m being asked for my opinion. I feel a mix of flattery and frustration with these requests:</p>

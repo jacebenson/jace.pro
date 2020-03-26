@@ -1,6 +1,7 @@
 ---
 title: "Ever search for video tutorials podcasts or blogs to answer your SN questions You need to know about NOWsupport"
 date: 2018-05-15T20:00:55.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1e7c5592db8e53047b337a9e0f96193e"
 ---
 <p>If you&#39;ve ever looked for more information about ServiceNow products and services, you need to know about NOWsupport! We offer content to help you along your ServiceNow journey, including:</p>

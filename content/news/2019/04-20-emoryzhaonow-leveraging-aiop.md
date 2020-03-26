@@ -1,6 +1,7 @@
 ---
 title: "Leveraging AIOps to improve service availability Join the Breakout  at Knowledge "
 date: 2019-04-20T03:01:54.000Z
+authors: ["EmoryZhaoNOW"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8ecf2023db307f0cfece0b55ca96192b"
 ---
 <p><em>Steve Anderson from ITOM Product Management gives you a peek at his upcoming Knowledge breakout</em></p>

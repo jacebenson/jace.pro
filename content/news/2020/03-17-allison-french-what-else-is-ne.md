@@ -1,6 +1,7 @@
 ---
 title: "What Else is New for HR in the Orlando Release"
 date: 2020-03-17T00:14:25.000Z
+authors: ["Allison French"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7d49f51edba7c414190dfb2439961989"
 ---
 <p>You’ve probably read about the major release features in our <a href="https://community.servicenow.com/community?id&#61;community_Blog&amp;sys_id&#61;6c87f372db668854414eeeb5ca96195d" target="_blank" rel="noopener noreferrer nofollow">What’s New in Orlando for HR Service Delivery blog post</a>.</p>

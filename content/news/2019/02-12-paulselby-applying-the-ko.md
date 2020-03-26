@@ -1,6 +1,7 @@
 ---
 title: "Applying the KonMari method to customer service"
 date: 2019-02-11T22:46:56.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=43256ab9db276b804abd5583ca961957"
 ---
 <div class="wp-block-image">

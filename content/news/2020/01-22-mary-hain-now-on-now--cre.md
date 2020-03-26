@@ -1,6 +1,7 @@
 ---
 title: "Now on Now Creating a global internal IT ecosystem using the CMDB with ServiceNow Discovery"
 date: 2020-01-21T07:07:08.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7af0f658db668450feb1a851ca961989"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/d07fee54db668450feb1a851ca9619ae.iix" /></p>

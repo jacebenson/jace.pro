@@ -1,6 +1,7 @@
 ---
 title: "What is a ServiceNow Champion"
 date: 2018-12-10T22:11:51.000Z
+authors: ["Eric Gerstein"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0bf08e65db5eef004abd5583ca9619cd"
 ---
 <p>Your organization has chosen ServiceNow to be the strategic platform for digital transformation but, chances are, there’s going to be resistance to adoption. Who can help ease the fears of change and provide feedback from the field back to the ServiceNow project team?</p>

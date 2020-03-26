@@ -1,6 +1,7 @@
 ---
 title: "Pretty Links and Perma Links"
 date: 2010-08-20T19:22:35.000Z
+authors: ["mattberan"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=052d26e5dbd0dbc01dcaf3231f96198f"
 ---
 <p>This morning I sent our CEO a link that kind of looked like this:<br /><br /><pre __default_attr="plain" __jive_macro_name="code" class="jive_text_macro jive_macro_code"><br />https://DEMO.service-now.com/sys_attachment.do?sys_id=8fcb35c60a0a3c1c017cd77b61309ec8&amp;sysparm_viewer_table=kb_knowledge&amp;sysparm_viewer_id=8fc8c91f0a0a3c1c0149bc22d14c4848<br /></pre><br />I was pretty embarrassed. I then realized I could use just the Sys_ID, and that's good, but not good enough for me.<br /><br />So I created a new enhancement request in http://HI.service-now.com and then I wanted to make sure that other people could get in on that as well, so I created a voteable topic on <a title="rvicenow.uservoice.com/forums/52927-general/suggestions/1001833-allow-perma-and-pretty-links-for-all-incidents-kn?ref=title" href="http://servicenow.uservoice.com/forums/52927-general/suggestions/1001833-allow-perma-and-pretty-links-for-all-incidents-kn?ref=title">http://servicenow.uservoice.com here</a> <br /><br />How nice would it be to see all changes when you visit demo.service-now.com/changes, or see the knowledge at Demo.service-now.com/knowledge etc.<br /><br />Please visit the site and vote on the enhancement and submit an enhancement in http://hi.service-now.com if you think this would be useful!</p>

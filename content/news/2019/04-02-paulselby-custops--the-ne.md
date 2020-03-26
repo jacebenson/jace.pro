@@ -1,6 +1,7 @@
 ---
 title: "CustOps the new customer service"
 date: 2019-04-01T20:44:52.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f3dca225dba4bb004819fb2439961941"
 ---
 <div class="wp-block-image"><img style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/03/adult-agency-american-1520144.jpg?w&#61;1003" alt="" width="220" height="224" align="left" /></div>

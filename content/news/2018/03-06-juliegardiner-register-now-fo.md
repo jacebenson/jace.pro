@@ -1,6 +1,7 @@
 ---
 title: "Register Now for the Bay Area ServiceNow HR Community Networking Event March  "
 date: 2018-03-06T03:12:38.000Z
+authors: ["juliegardiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cba80d27dba81f44fc5b7a9e0f961955"
 ---
 <p><strong>Are you in the Bay Area and a current customer of our HR product? If so, please join us at the ServiceNow HR Community Networking Event on March 28, 2018.</strong></p>

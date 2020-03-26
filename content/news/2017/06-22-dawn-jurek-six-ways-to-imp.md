@@ -1,6 +1,7 @@
 ---
 title: "Six ways to Improve the Performance of Client Scripts"
 date: 2017-06-22T04:24:09.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=47bc6e25dbd0dbc01dcaf3231f961967"
 ---
 <p>We empower our customers to automate processes and make them run as efficiently as possible. Take <em><a title="ocs.servicenow.com/bundle/istanbul-servicenow-platform/page/script/client-scripts/reference/r_ClientScripting.html" href="https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/script/client-scripts/reference/r_ClientScripting.html">client scripts</a></em>, for example. In the ServiceNow system, a client script is a piece of JavaScript code that runs on the client browser. These scripts are commonly used to make forms smarter—tailor the fields to individual users, populate or validate field values, display messages, and so on.</p><p></p><p>If you're just getting started with client scripts, check out this video on our <a title="ww.youtube.com/user/servicenowdemo" href="https://www.youtube.com/user/servicenowdemo">NOWSupport YouTube channel</a>:</p><p></p><p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/4SlOniv4F4U?rel=0" width="640">

@@ -1,6 +1,7 @@
 ---
 title: "HowTo  Ajax Calls Use GlideRecords on the client side easy"
 date: 2019-08-23T18:07:30.000Z
+authors: ["Fabian Kunzke"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2ecdab3bdbd3ff405ed4a851ca9619c5"
 ---
 <p>When working on different projects i often hear the same question: Why do i have to use a Glide Ajax here? It&#39;s just a Glide Record. Can&#39;t i just use that instead. Often times Glide Ajax is not used because it seems to be very time consuming to establish. Within the following few lines i&#39;ll provide a short and easy way of using GlideRecords on the client side. With this, there should no longer be an excuse to not use client scripts with ajax calls.</p>

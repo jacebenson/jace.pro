@@ -1,6 +1,7 @@
 ---
 title: "SAFe What is the Scaled Agile Framework and why do you need it"
 date: 2018-08-25T00:50:10.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=484726bedb0ca344e0e80b55ca961994"
 ---
 <p>In our article <a title=" Agile 101—What is Agile development and why do you need it?" href="community?id&#61;community_blog&amp;sys_id&#61;e300ac23dbf69bc09d612926ca961977" target="_blank" rel="nofollow">Agile 101—What is Agile development and why do you need it?</a>, we looked at the Agile Development 2.0 application on the ServiceNow platform, and how it can help you implement an Agile software development framework for your software development lifecycle.</p>

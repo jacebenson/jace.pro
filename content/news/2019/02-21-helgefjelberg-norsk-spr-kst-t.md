@@ -1,6 +1,7 @@
 ---
 title: "Norsk sprksttte i ServiceNow"
 date: 2019-02-20T19:17:39.000Z
+authors: ["helgefjelberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1d9b48b0db372f40fece0b55ca961967"
 ---
 <p>Kjære SNUG&#96;ere.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Do you have opinions Do you like to share them"
 date: 2019-04-11T22:42:54.000Z
+authors: ["Jess Noble"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9ec76674dbf0f7c8a39a0b55ca9619c2"
 ---
 <p style="text-align: center;"><span style="color: #800080; font-size: 14pt; font-family: arial, helvetica, sans-serif;"><strong>Do you or does someone on your team have a few minutes to spare? </strong></span></p>

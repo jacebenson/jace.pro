@@ -1,6 +1,7 @@
 ---
 title: "Banks and other financial institutions have long been leaders in information security"
 date: 2019-02-05T05:57:57.000Z
+authors: ["juliasmith"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e0b4ccfbdb9fa740f0612183ca9619b0"
 ---
 <p>They have spent sizeable sums over many years to guard information, processes and systems against disruption and theft. However, changing consumer behaviours are presenting challenges to security risk and resource management:</p>

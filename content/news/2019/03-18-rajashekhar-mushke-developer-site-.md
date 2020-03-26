@@ -1,6 +1,7 @@
 ---
 title: "Developer site login page UI Changes"
 date: 2019-03-17T16:10:40.000Z
+authors: ["Rajashekhar Mushke"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b84e94f8dbd07304fff8a345ca96193a"
 ---
 <p>Hello All,</p>

@@ -1,6 +1,7 @@
 ---
 title: "Redirect end users to portal"
 date: 2016-10-13T00:42:29.000Z
+authors: ["Göran Lundqvist"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=53bc6e25dbd0dbc01dcaf3231f9619b2"
 ---
 <p>I ran into this issue by accident and after looking through the community I noticed that I ain&#39;t the only one looking for a good solution for this.</p>

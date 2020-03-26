@@ -1,6 +1,7 @@
 ---
 title: "Now Learning Blog  A New Way to Get Started  Introducing ServiceNow Fundamentals On Demand"
 date: 2020-02-04T02:05:39.000Z
+authors: ["Julie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cb32f1b4db7a88d413b5fb2439961972"
 ---
 <p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;">When this blog series launched, one of the very <a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;9ae6ff69db0584105129a851ca961980" rel="nofollow"><span class="s2">first blogs</span></a> focused on what courses to take if you were new to ServiceNow training and wanted to know where to get started.  One of the courses recommended to new learners is our <a href="https://nowlearning.service-now.com/lxp?id&#61;overview&amp;sys_id&#61;e4383a8cdb5eff40de3cdb85ca96190e&amp;type&#61;course" rel="nofollow"><span class="s2">ServiceNow Fundamentals</span></a> class, which is the starting point for all roles to begin their ServiceNow journey. Whether you are looking for a quick introduction to the Now Platform or are preparing for your Certified System Administrator (CSA) exam, this course is designed to target your exact needs.  </span></p>

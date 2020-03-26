@@ -1,6 +1,7 @@
 ---
 title: "London Service Portal Changes for Technology Partners"
 date: 2018-08-30T00:08:36.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=73adc0a4dbdcaf00b2102926ca961999"
 ---
 <p>Many of our ServiceNow store apps include Service Portal pages and widgets, or at least interact with the Service Portal in some way, so I wanted to go a little deeper and call out some of the new Service Portal related features and enhancements that came with the London release. All of these can also be found in the <a href="https://docs.servicenow.com/bundle/london-release-notes/page/release-notes/servicenow-platform/service-portal-rn.html" rel="nofollow">Service Portal release notes</a>.</p>

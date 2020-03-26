@@ -1,6 +1,7 @@
 ---
 title: "Consolidating External Sources into Knowledge v search"
 date: 2016-05-12T08:29:51.000Z
+authors: ["Sarup Paul"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e39dae69dbd0dbc01dcaf3231f96199c"
 ---
 <p>Knowledge v2 (Eureka and earlier) had a feature called <a title="ki.servicenow.com/index.php?title&#61;Legacy:Setting_Up_Knowledge_Management#Navigation_Add-ons&amp;gsc.tab&#61;0" href="http://wiki.servicenow.com/index.php?title&#61;Legacy:Setting_Up_Knowledge_Management#Navigation_Add-ons&amp;gsc.tab&#61;0" rel="nofollow">Navigation Add-ons</a>. It was used to show search results from external sources. However, the user experience wasn&#39;t ideal, and hence it was deprecated. In our roadmap, we plan to provide a more robust solution.</p>

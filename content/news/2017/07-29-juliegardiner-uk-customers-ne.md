@@ -1,6 +1,7 @@
 ---
 title: "UK Customers Network and Share Best Practices on HR with the HR Customer Success Team"
 date: 2017-07-28T19:47:02.000Z
+authors: ["juliegardiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=de8c2ae1dbd0dbc01dcaf3231f96191b"
 ---
 <p><span style="font-size: 11.0pt; color: black;">The HR Customer Success team hosted 13 individuals from 9 customers for an intimate event in London last week in the ServiceNow office. </span></p><p></p><p><span style="font-size: 11.0pt; color: black;">Customers were provided an opportunity to network with other HR professionals in their area, hear from the HR BU on its strategy and product roadmap, see a demo of Jakarta as well as get a sneak peak of Kingston themes. Participation in the HR Community, as well as the UK local SNUG was also highlighted and encouraged.</span></p><p></p><p><span style="font-size: 11.0pt; color: black;">Feedback from the group was that the afternoon was one of the more valuable meetings that they had participated in.   They appreciated the ability to dive into HR-specific topics, gather best practices from other customers using HRSD, and see what's coming in future HRSD deliverables.   </span></p><p></p><p><span style="font-size: 11.0pt;">Interested in attending or hosting an HR Community event? Please let us know so we can schedule an upcoming event in your city.</span></p>

@@ -1,6 +1,7 @@
 ---
 title: "JSON Parsing"
 date: 2019-08-25T17:45:09.000Z
+authors: ["Ashutosh Munot"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=aedbb9e8dbafbb805ed4a851ca9619ba"
 ---
 <p style="text-align: center;"><span style="text-decoration: underline; font-size: 14pt;"><strong>JSON PARSING: USE CASE AND SOLUTIONS</strong></span></p>

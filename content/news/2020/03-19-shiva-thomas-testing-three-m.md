@@ -1,6 +1,7 @@
 ---
 title: "Testing three methods to get an invitation for Knowledge "
 date: 2020-03-18T22:17:54.000Z
+authors: ["Shiva Thomas"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=aec1b3badbe70094414eeeb5ca96195e"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/2ed07ff2dbe70094414eeeb5ca961901.iix" /></p>

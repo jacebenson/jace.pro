@@ -1,6 +1,7 @@
 ---
 title: "Now Learning  Welcome to the Configuration Management Database"
 date: 2019-11-12T21:54:31.000Z
+authors: ["Julie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=76cc5dc61bcdc094fff162c4bd4bcb3f"
 ---
 <p class="p1"><span style="font-family: helvetica; font-size: 12pt;">In the <span class="s1"><a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;9ae6ff69db0584105129a851ca961980" rel="nofollow">last blog</a>,</span> I introduced a couple of courses geared towards getting you started on your training journey with ServiceNow.<span class="Apple-converted-space">  </span>Maybe you are looking for some training that is more in-depth.<span class="Apple-converted-space">  </span><a href="https://nowlearning.service-now.com/" rel="nofollow"><span class="s1">Now Learning</span></a> has you covered there too!<span class="Apple-converted-space">  </span><a href="https://nowlearning.service-now.com/lxp?id&#61;overview&amp;sys_id&#61;c120bb5bdbd0c8103e3aaca2ca9619bf&amp;type&#61;path" rel="nofollow"><span class="s1">Configuration Management Database (CMDB) Fundamentals</span></a> is a four-course On Demand training that also includes an Assessment Simulator.<span class="Apple-converted-space">  </span>In this blog I’ll be giving an overview of the CMDB and what you can expect to learn in this multi-part, free On Demand course.</span></p>

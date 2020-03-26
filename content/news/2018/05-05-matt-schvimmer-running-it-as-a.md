@@ -1,6 +1,7 @@
 ---
 title: "Running IT as a Business using ITIT and ServiceNow"
 date: 2018-05-05T04:07:39.000Z
+authors: ["Matt Schvimmer"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b4626e7edb7d1b004837f3231f96196e"
 ---
 <p>We&#39;ve been talking for years about running IT as a business.  Multiple industry standards have taken their shot a guiding customers down this golden path, with varying degrees of success.  The latest, and possibly most promising, is called IT4IT.  This blog is meant as a quick introduction to IT4IT and our suggestions on how to get started.</p>

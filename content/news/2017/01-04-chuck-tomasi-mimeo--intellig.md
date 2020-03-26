@@ -1,6 +1,7 @@
 ---
 title: "Mimeo Intelligent Hierarchical Data Duplicator"
 date: 2017-01-03T22:36:16.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=98ecaa65dbd0dbc01dcaf3231f9619d5"
 ---
 <p><span style="font-size: 14pt;"><strong>Description</strong></span></p>

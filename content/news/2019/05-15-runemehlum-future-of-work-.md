@@ -1,6 +1,7 @@
 ---
 title: "Future of Work  August  SNUG V"
 date: 2019-05-14T13:14:32.000Z
+authors: ["runemehlum"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0e22a6d3db59f34c1cd8a345ca9619de"
 ---
 <p>Da er det snart klart for Future of Work (FoW) 29 August 2019. Denne gangen inviterer vi dere &#39;hjem til oss&#39; her hos ServiceNow sine lokaler i Storebrand-bygget på Lysaker.</p>

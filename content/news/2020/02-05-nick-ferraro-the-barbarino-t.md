@@ -1,6 +1,7 @@
 ---
 title: "The Barbarino Test for Actionable Plans"
 date: 2020-02-05T01:43:18.000Z
+authors: ["Nick Ferraro"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c5b63205db3a4c581cd8a345ca9619fc"
 ---
 <p>Vinny Barbarino was a likeable character on a 1970s sitcom called Welcome Back Kotter. Welcome Back Kotter featured Gabe Kaplan as a Brooklyn school teacher charged with the education of some very unique students who had little interest in their studies. Barbarino, played by John Travolta, was the ringleader of the crew. He was famous for attempting to extricate himself from sticky situations by feigning complete ignorance of the subject matter. With a confused look, Barbarino would pose the following questions to Mr. Kotter: Who? What? Where? When? Barbarino’s ploy never fooled Mr. Kotter, but it can be a useful means of establishing how actionable recovery plans will be in the event of a disruption. Try the Barbarino Test to determine how actionable your plans are. Does your plan answer who, what, where, and when?</p>

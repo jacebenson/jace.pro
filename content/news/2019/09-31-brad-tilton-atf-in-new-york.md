@@ -1,6 +1,7 @@
 ---
 title: "ATF in New York"
 date: 2019-09-30T20:35:49.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=252cb7c0db94c09023f4a345ca96192b"
 ---
 <p>I&#39;m a little late to the New York party with this post, but there are a couple of new Automated Test Framework features in the New York release that I wanted to highlight.</p>

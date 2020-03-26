@@ -1,6 +1,7 @@
 ---
 title: "How to Chat about Chatbots  Part "
 date: 2018-12-06T23:49:57.000Z
+authors: ["dangrady510"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3811fdd8dbd26308656a5583ca9619a8"
 ---
 <p><em>This is the second post of a 2 part blog series that explores our relationship with a relatively new entity that we are all conversing with on an almost daily basis in both our consumer and work environments:</em></p>

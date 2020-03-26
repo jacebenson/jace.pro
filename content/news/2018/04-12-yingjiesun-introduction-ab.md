@@ -1,6 +1,7 @@
 ---
 title: "Introduction about CSM roles"
 date: 2018-04-11T21:46:18.000Z
+authors: ["yingjiesun"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a68e2257db1dd3404e1df4621f961911"
 ---
 <div>The CSM  product serves both B2B (business-to-business) and B2C (business-to-consumer) business purpose. There can be many different possible relationships and directions of engagement required by our users. Therefore, to ensure the data access while maintaining data security for all types of business relationships, the CSM security model created nine primary roles:</div>

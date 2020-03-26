@@ -1,6 +1,7 @@
 ---
 title: "Whats new in Orlando for ITBM"
 date: 2020-02-08T00:07:30.000Z
+authors: ["James"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8b8d7d46db3a081cd82ffb2439961942"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/644d1ea7db4fcc101cd8a345ca961985.iix" /></p>

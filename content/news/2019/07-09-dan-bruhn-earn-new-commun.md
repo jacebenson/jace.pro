@@ -1,6 +1,7 @@
 ---
 title: "Earn New Community Badges"
 date: 2019-07-09T01:05:26.000Z
+authors: ["Dan Bruhn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8c549811dbe6ff80d82ffb2439961972"
 ---
 <p>We are excited to announce a suite of new Community badges members can start earning today! These badges will help allow all of you to showcase your Community expertise and experiences.<br /><br /></p>

@@ -1,6 +1,7 @@
 ---
 title: "Portal diaries Service Portal  Multiple Catalogs London Release"
 date: 2018-12-10T04:16:02.000Z
+authors: ["dvp"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=84ca86d1db562f0011762183ca96195e"
 ---
 <p>This blog provides updated London release scripts of SC categories and SC Category page widgets that supports multiple catalog display in portal. To understand the multiple catalog implementation, please refer <a href="community?id&#61;community_blog&amp;sys_id&#61;8e5da629dbd0dbc01dcaf3231f961907" rel="nofollow">this blog</a>.</p>

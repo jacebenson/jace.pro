@@ -1,6 +1,7 @@
 ---
 title: "Three Ways Digital Transformation Drives Improved Customer Experience and Service"
 date: 2018-08-20T21:33:39.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9ee31d65dbc42b800be6a345ca96199a"
 ---
 <p><img class="alignnone  wp-image-3291" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/08/ai-art-big-data-158826.jpg" alt="ai-art-big-data-158826" width="356" height="238" align="left" /> <a href="https://en.wikipedia.org/wiki/Digital_transformation" target="_blank" rel="nofollow">Digital transformation</a> continues to be a hot topic, perhaps because there&#39;s still many questions surrounding it: what it is, what it entails, the challenges and rewards, etc. It requires <a href="https://www.financialexecutives.org/FEI-Daily/August-2018/Orchestrating-a-Digital-Transformation.aspx" target="_blank" rel="nofollow">the right reasons to change</a> and <a href="https://www.dig-in.com/opinion/how-cios-can-drive-digital-transformation-effectively" target="_blank" rel="nofollow">the right people</a> to make it possible. It&#39;s easy to understand why some have labeled it the <a href="https://www.thedigitaltransformationpeople.com/channels/the-case-for-digital-transformation/leading-fourth-industrial-revolution/" target="_blank" rel="nofollow">fourth industrial revolution</a>.</p>

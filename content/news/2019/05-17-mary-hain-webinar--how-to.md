@@ -1,6 +1,7 @@
 ---
 title: "Webinar How To Manage Demand for the ServiceNow Platform"
 date: 2019-05-16T05:13:09.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5227477bdbd1bf8c1cd8a345ca961905"
 ---
 <div class="component text-component title-block gotham-hotel font-color-white">

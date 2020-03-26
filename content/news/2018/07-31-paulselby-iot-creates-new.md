@@ -1,6 +1,7 @@
 ---
 title: "IoT Creates New Service Insights and Opportunities"
 date: 2018-07-30T21:47:02.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6d9d4172db235b44f7fca851ca9619ae"
 ---
 <p><img class="alignnone  wp-image-3264" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/07/network-782707.png" alt="network-782707" width="374" height="243" align="left" />We live in an amazing age. After all, who would think something like poor automobile braking performance could be <a href="https://electrek.co/2018/05/22/tesla-will-update-model-3-firmware-to-fix-braking-calibration-in-coming-days/" target="_blank" rel="nofollow">addressed by a firmware update</a>? Innovations like this continue to occur around us and more and more of our lives are guided by a combination of hardware, software, and the flow of information across the internet.</p>

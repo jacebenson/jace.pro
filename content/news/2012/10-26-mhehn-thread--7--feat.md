@@ -1,6 +1,7 @@
 ---
 title: "Thread  Feature Requests for Calgary Dublin etc"
 date: 2012-10-26T00:08:51.000Z
+authors: ["mhehn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5c5ee6addbd0dbc01dcaf3231f9619de"
 ---
 <p>So, you finally made it to the Berlin release and still have ideas what could get better?<br />Why should you build everything on your own? ServiceNow is known to warmly welcome every feedback and idea coming back from the customers.<br />With this thread we want to collect ideas, feature requests etc. We will collect, then summarize, elaborate on the requests to make them easy to understand. Last but not least we will indicate to ServiceNow, how many customers are voting to implement a specific feature requests.<br />Let's help ServiceNow to make their product better release after release.<br /><br />Maybe have a look at <a title="mmunity.servicenow.com/blog/mattberan/50-calgary-enhancements-id-love-see-calgary" href="http://community.servicenow.com/blog/mattberan/50-calgary-enhancements-id-love-see-calgary" target="_blank">this</a> for inspiration.</p>

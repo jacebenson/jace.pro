@@ -1,6 +1,7 @@
 ---
 title: "New Inbox Points Notification Feature"
 date: 2018-09-25T23:59:46.000Z
+authors: ["Dan Bruhn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=759e4bc1db306b845ed4a851ca961928"
 ---
 <p>We are pleased to announce a new feature that will make it easier to identify content you have been awarded points for by your fellow Community members. You will also know how many more points you need to reach the next level within the Forum and Community.  These will be available within your Inbox as well as through email notifications.  </p>

@@ -1,6 +1,7 @@
 ---
 title: "WEBINAR Organizational Change Management  ServiceNow"
 date: 2017-08-10T19:51:33.000Z
+authors: ["stevedecker"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2cccee25dbd0dbc01dcaf3231f961970"
 ---
 <p><strong>SPECIAL GUEST: Bimala Tullock - Director, ServiceNow </strong>Champlon<strong> Enablement Program</strong></p><p></p><p></p><p><span>What does it mean to be a ServiceNow Champion? Register for this webinar to find out: </span><a title="k-external-small" class="jive-link-external-small" href="https://www.crossfuze.com/webinarseries_organizational/" rel="nofollow" target="_blank">https://www.crossfuze.com/webinarseries_organizational/</a><span> Our special guest from ServiceNow, Bimala Tullock, will be joined by Crossfuze CMO John Ryan for an educational discussion on the ServiceNow ® Champion Enablement<sup>TM</sup> Program that educates customers on a framework to drive lasting adoption across their enterprise. We hope you can join us for this special edition of the Services Reimagined Webinar Series!</span></p><p></p><p><strong>Where and When:</strong> Start Time: August 30, 2017 at 2pm EST End Time: August 30, 2017 at 3pm EST</p><p></p><p><strong>Where</strong><span>: </span><a title="k-external-small" class="jive-link-external-small" href="https://www.crossfuze.com/webinarseries_organizational/" rel="nofollow" target="_blank">https://www.crossfuze.com/webinarseries_organizational/</a><span> Event Visibility: Open Event Type: Webinar </span></p>

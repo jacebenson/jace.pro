@@ -1,6 +1,7 @@
 ---
 title: "New Search Results Page for Portal  London"
 date: 2018-09-22T04:41:58.000Z
+authors: ["Sush"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9cd8677bdbaca348200f0b55ca96190d"
 ---
 <p>London is here! I thought I will share with about updates coming for Service Portal Search results page. </p>

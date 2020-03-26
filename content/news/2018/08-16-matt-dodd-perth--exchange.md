@@ -1,6 +1,7 @@
 ---
 title: "Perth ExchangeNow Community Meetup Launches"
 date: 2018-08-15T12:03:47.000Z
+authors: ["Matt Dodd"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f18125ffdbff1f4067a72926ca9619be"
 ---
 <p>Last Thursday we held an initial meeting of interested community members to reinvigorate the Perth ServiceNow Community. Below are the items discussed and the decisions that were made:</p>

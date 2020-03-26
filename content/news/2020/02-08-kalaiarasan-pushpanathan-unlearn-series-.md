@@ -1,6 +1,7 @@
 ---
 title: "Unlearn Series  Create Or Update Record With Encoded Query"
 date: 2020-02-07T13:14:22.000Z
+authors: ["Kalaiarasan Pushpanathan"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e7086f35db7604d84819fb24399619e1"
 ---
 <p><span style="font-family: verdana, geneva; font-size: 12pt;">There are many hidden gems in ServiceNow which are undocumented for some reason or the other. One such thing is a interesting function that I found while looking into the script include &#39;StdChangeUtilsSNC&#39;, called <strong>applyEncodedQuery</strong>() of GlideRecord.</span></p>

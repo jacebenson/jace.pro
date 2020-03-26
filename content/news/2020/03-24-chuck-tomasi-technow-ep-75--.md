@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Extending the Emergency Response Management Apps"
 date: 2020-03-24T02:56:34.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0d81a224db378018feb1a851ca96194b"
 ---
 <p><img style="padding-right: 8px;" src="3e1d4b52dbdc3fc45129a851ca96192a.iix" alt="expert-logo-2.png" align="left" />Join the TechNow team as they explore the free Emergency Response Management apps. The team will discuss what the apps are, how you can get them, and what you need to know as a ServiceNow developer or admin to extend the apps and take them to the next level.</p>

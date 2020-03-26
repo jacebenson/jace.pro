@@ -1,6 +1,7 @@
 ---
 title: "Premire runion du ServiceNow Suisse romande User group"
 date: 2011-09-09T18:59:38.000Z
+authors: ["Robin Chytil"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=29fde22ddbd0dbc01dcaf3231f9619bf"
 ---
 <p>Première réunion du ServiceNow Suisse romande User groupEvent Starts: Oct 20, 2011 02:00pm <br />Event Ends: Oct 20, 2011 07:00pm <br />Timezone: Europe/Zurich <br />Event Status: Registration is open <br /><br />Enregistrez-vous!<br /><br />Lieu: Lausanne (agenda et lieu exact í  confirmer) <br />Sponsorisé par Aspediens <br /><br /><!-- break --> Retrouvons-nous pour partager nos expériences mutuelles, discuter des différentes approches utilisées pour implémenter les processus ITSM sur ServiceNow, l'état d'avancement de nos projets, nous connaître mieux, s'informer sur les nouveautés présentes et avenir et finalement passer un bon moment! <br /><br />N'hésitez pas í  faire circuler cette invitation í  d'autres personnes utilisant ServiceNow et í  les inviter í  rejoindre le groupe. <br /><br />Allez sur: http://community.service-now.com/premi%C3%A8re-r%C3%A9union-du-servicenow-suisse-romande-user-group<br />et enregistrez-vous!<br /><br />Bon weekend í  tous.<br /><br />Robin Chytil</p>

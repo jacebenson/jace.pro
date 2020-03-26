@@ -1,6 +1,7 @@
 ---
 title: "Registration is open Knowledge  Digital Experience"
 date: 2020-03-23T19:24:04.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4df9bc64db3348d4414eeeb5ca9619da"
 ---
 <p>Hi Everyone!</p>

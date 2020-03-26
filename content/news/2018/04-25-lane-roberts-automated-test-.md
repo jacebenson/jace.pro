@@ -1,6 +1,7 @@
 ---
 title: "Automated Test Framework FAQs How do I ATF"
 date: 2018-04-24T23:40:11.000Z
+authors: ["Lane Roberts"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d14502e7db2dd340852c7a9e0f961916"
 ---
 <h4><strong>Automated Test Framework FAQs: How do I ATF?</strong></h4>

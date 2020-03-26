@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Named a November  Gartner Peer Insights Customers Choice for IT Service Management Tools"
 date: 2019-11-26T04:25:05.000Z
+authors: ["kristenhoyt"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b2d2b95adb910418f7fca851ca9619cb"
 ---
 <p>For the 2<sup>nd</sup> year in a row, ServiceNow is excited to announce that we have been recognized as a November 2019 <a href="https://www.gartner.com/reviews/customers-choice/it-service-management-tools" rel="nofollow">Gartner Peer Insights Customers’ Choice for IT Service Management Tools</a>.</p>

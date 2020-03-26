@@ -1,6 +1,7 @@
 ---
 title: "Education Services adds more content to the Learning Library"
 date: 2016-09-23T01:50:23.000Z
+authors: ["Andy Ho"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e42ee26ddbd0dbc01dcaf3231f9619f5"
 ---
 <p>In case you missed it, we recently added new content to our new Learning Library. We started off with an 8-hour technical training course on Event Management. As of today, we have added several more offerings including:</p><ul><li>Performance Analytics for Managers (8 hours)</li><li>CMDB Identification and Reconciliation (5 hours)</li><li>Advance Reference Qualifiers (25 minutes)</li><li>Scripting Made Easy (10 minutes)</li></ul><p></p><p>Here's a link to our homepage for the Learning Library where you can register: <a href="http://www.servicenow.com/services/training-and-certification/learning-library.html" title="http://www.servicenow.com/services/training-and-certification/learning-library.html">ServiceNow Learning Library</a></p><p></p><p>We will continue to post new content on a regular basis. In the meantime, if there's a topic you would like to see, please do not hesitate to reach out to me: <a title="dy.ho@servicenow.com" href="mailto:andy.ho@servicenow.com">andy.ho@servicenow.com</a> or <a title="witter.com/techtrainingtip" href="https://twitter.com/techtrainingtip">@techtrainingtip</a> on Twitter. </p>

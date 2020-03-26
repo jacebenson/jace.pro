@@ -1,6 +1,7 @@
 ---
 title: "Power up your day at Knowledge  with a Power Session"
 date: 2019-05-02T00:24:39.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3bdeb157dbc17b8454250b55ca9619cb"
 ---
 <p>There is a lot of great content awaiting you at Knowledge including Power Sessions from our partners. If you haven’t already, check out the three sessions below hosted by our Diamond sponsors and add them to your personal agenda.</p>

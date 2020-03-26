@@ -1,6 +1,7 @@
 ---
 title: "Best practices to adopt Continual Service Improvement"
 date: 2018-11-19T08:58:33.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ad02cb22db75ef00afc902d5ca9619e9"
 ---
 <p class="p1"><strong>Why you need Continual Service Improvement (CSI)?</strong></p>

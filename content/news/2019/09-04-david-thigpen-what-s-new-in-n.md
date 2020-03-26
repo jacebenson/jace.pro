@@ -1,6 +1,7 @@
 ---
 title: "Whats New in New York for Service Portfolio Management"
 date: 2019-09-03T23:48:32.000Z
+authors: ["David Thigpen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=99556523dba37f08f7fca851ca961926"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/bb18ad67dbabfb08190dfb243996190c.iix" /></p>

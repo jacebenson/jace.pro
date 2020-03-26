@@ -1,6 +1,7 @@
 ---
 title: "Calling all Regina SNUG Members"
 date: 2019-01-10T00:30:31.000Z
+authors: ["Lexie Kuikman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7a60cdd3db3623c0107d5583ca96196f"
 ---
 <p>We are planning our next Regina SNUG!</p>

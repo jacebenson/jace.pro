@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Kingston"
 date: 2018-07-10T08:42:56.000Z
+authors: ["Brett A Hamilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=495a9304db131f00e0e80b55ca9619a1"
 ---
 <div class="page" title="Page 1">

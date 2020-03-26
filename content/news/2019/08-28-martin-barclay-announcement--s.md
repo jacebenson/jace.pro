@@ -1,6 +1,7 @@
 ---
 title: "Announcement ServiceNow Store  G App Reviews"
 date: 2019-08-28T00:04:45.000Z
+authors: ["Martin Barclay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=aae5a155db2737841cd8a345ca961902"
 ---
 <h1 style="text-align: center;"> <img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/f020f111db6377841cd8a345ca961992.iix" /></h1>

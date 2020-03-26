@@ -1,6 +1,7 @@
 ---
 title: "Risk and Compliance Implementation Training  What Classes are Available in the near future"
 date: 2019-02-25T19:43:24.000Z
+authors: ["Jan Spurlin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=53614ededbb3a304d82ffb24399619d6"
 ---
 <p>Here&#39;s a snapshot of upcoming training for the Risk and Compliance Implementation course. To book a class, go to</p>

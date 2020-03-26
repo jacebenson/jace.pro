@@ -1,6 +1,7 @@
 ---
 title: "Customer SelfService Capabilities Arent Just For Customers"
 date: 2018-04-30T21:35:34.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ae42e021dbf957002b6dfb651f9619ff"
 ---
 <p><img id="Source: Pexels.com" class="alignnone  wp-image-3161" src="https://insightsincustomerservice.files.wordpress.com/2018/04/business-businessmen-classroom-267507.jpg" alt="business-businessmen-classroom-267507" width="407" height="229" align="right" />I write a lot about the importance and value of providing customers with self-service options. For one thing, <a href="https://go.forrester.com/blogs/17-01-30-top_trends_for_customer_service_in_2017_operations_become_smarter_and_more_strategic/" target="_blank" rel="nofollow">customers prefer it</a>. For another, self-service options cost pennies to deliver versus more costly live interactions like telephone or chat and are available when your service center might be closed.</p>

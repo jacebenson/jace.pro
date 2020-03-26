@@ -1,6 +1,7 @@
 ---
 title: "The Enterprise Cloudcast Episode  A Conversation with Boaz Hecht former CEO of SkyGiraffe About the Future of Enterprise Mobile"
 date: 2018-01-13T09:10:47.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cffc66a5dbd0dbc01dcaf3231f9619fc"
 ---
 <p><span style="font-size: 12pt;">Allan has a conversation with Boaz Hecht of SkyGiraffe about building next generation enterprise mobile applications, keeping up in the fast-paced world of mobile innovation, and what to expect from ServiceNow mobile applications in the future.</span></p>

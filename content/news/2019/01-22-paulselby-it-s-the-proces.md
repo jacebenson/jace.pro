@@ -1,6 +1,7 @@
 ---
 title: "Its the processnot the toolsthat improve customer experience"
 date: 2019-01-21T23:39:22.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=62c7a68bdbcbab006c1c02d5ca961998"
 ---
 <p style="text-align: left;"><img style="padding: 5px;" src="48a62283dbcbab006c1c02d5ca961965.iix" width="383" height="255" align="left" />When life throws problems your way, it&#39;s natural to think you just need the right tool to solve it. This is no different in customer service.</p>

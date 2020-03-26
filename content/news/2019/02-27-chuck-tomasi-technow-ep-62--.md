@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Madrid Mobile"
 date: 2019-02-27T02:12:59.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3b24e4f6dbbba34423f4a345ca9619ea"
 ---
 <p><img style="padding-right: 8px; width: 98px; height: 98px;" src="88630d4ddb61ef004abd5583ca961984.iix" alt="expert-logo-2.png" width="98" height="98" align="left" />Today&#39;s mobile users expect a consumer-like experience to get information and work quickly. ServiceNow Mobile Studio makes creating mobile applications that take advantage of your device&#39;s camera, location, and other native services. What&#39;s more, developers are not required to learn the iOS or Android SDK. Join Stacey Bailey, Chuck Tomasi, and Kreg Steppe of ServiceNow for an introduction and demonstration how to build an application using Mobile Studio.</p>

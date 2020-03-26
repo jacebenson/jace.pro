@@ -1,6 +1,7 @@
 ---
 title: "Learn Javascript on the Now Platform"
 date: 2019-07-15T04:13:54.000Z
+authors: ["gareth.oliver"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=13f8b3cfdbaeb30023f4a345ca9619be"
 ---
 <p>Have you wanted to know more about how Javascript is used on the Now Platform?</p>

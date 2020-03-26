@@ -1,6 +1,7 @@
 ---
 title: "New member  Hello"
 date: 2014-09-24T21:30:19.000Z
+authors: ["shakingtree"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=936caea1dbd0dbc01dcaf3231f96195d"
 ---
 <p style="font-size: 13.63636302948px;">Hi all happy ServiceNow users in this community. I just joined this platform and will write a short introduction about myself.</p><p style="font-size: 13.63636302948px;"></p><p style="font-size: 13.63636302948px;">I have worked for more then 4 years with ServiceNow at KPN in the role of trainer for the (end) users. Recently I left the company and started my own in which I provide training for whoever is in need of having their employees trained in a professional way. My core business is of course ServiceNow training but I also provide other business application training ie SAP/CRM. Next to performing training I am an experienced test user and provide QRC's and training material on demand.</p><p style="font-size: 13.63636302948px;"></p><p style="font-size: 13.63636302948px;">On 9th October I will be present in London for the ServiceNow forum and hopefully I will meet there a lot enthusiastic companies and people.</p><p style="font-size: 13.63636302948px;">After all we all love ServiceNow, don't we?</p>

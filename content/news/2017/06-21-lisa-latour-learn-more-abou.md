@@ -1,6 +1,7 @@
 ---
 title: "Learn more about the upcoming NowForum  by ServiceNow"
 date: 2017-06-21T03:56:16.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=06ec6e65dbd0dbc01dcaf3231f961992"
 ---
 <p><iframe frameborder="0" height="338" src="https://www.youtube-nocookie.com/embed/CsJTFlpA3HQ" width="600">

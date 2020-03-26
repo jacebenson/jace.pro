@@ -1,6 +1,7 @@
 ---
 title: "The Power of Major Incident Management  Part  Activation and Properties"
 date: 2018-04-09T21:12:04.000Z
+authors: ["Anne Barnes"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9583147adb995b00fc5b7a9e0f961901"
 ---
 <p>This is Part 1 of a three-part series on Major Incident Management (MIM). </p>

@@ -1,6 +1,7 @@
 ---
-title: "ServiceNow Slides zu Gen  Migration  Prozess  High Availability"
-date: 2012-05-31T19:22:08.000Z
-link: "https://community.servicenow.com/community?id=community_blog&sys_id=279c2225dbd0dbc01dcaf3231f961920"
+title: "ServiceNow Slides  User Group Event vom "
+date: 2012-05-31T19:13:08.000Z
+authors: ["Rene_Haeberlin"]
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=b8aca225dbd0dbc01dcaf3231f96191c"
 ---
-<p>Anbei die Slides zu den obenerwähnten Themen, welche wir am 30. Mai 2012 präsentiert haben.<br /><br />Für weitere Informationen stehe ich gerne zur Verfügung.<br /><br />René Häberlin</p>
+<p>Anbei die präsentierten ServiceNow Slides anlässlich des User Group Events vom 30.5.2012</p>

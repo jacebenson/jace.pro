@@ -1,6 +1,7 @@
 ---
 title: " is the lucky number to improving customer service and experience"
 date: 2019-10-21T21:22:17.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4720180fdb2c009c2be0a851ca9619c3"
 ---
 <p><img class="wp-image-4138" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/10/number-437931.jpg" width="344" height="258" align="left" /></p>

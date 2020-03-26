@@ -1,6 +1,7 @@
 ---
 title: "Angular Providers in Service Portal Come watch Expert Demo and Post Questions"
 date: 2018-04-30T23:31:47.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b8ec38e5db7dd7004816f3231f96199d"
 ---
 <div class="cm-content-body">

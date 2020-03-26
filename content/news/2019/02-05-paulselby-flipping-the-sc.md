@@ -1,6 +1,7 @@
 ---
 title: "Flipping the script in customer service"
 date: 2019-02-04T22:54:47.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f5d322abdb932b404abd5583ca96191f"
 ---
 <div class="wp-block-image"><img class="wp-image-3493" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/02/board-978179.jpg?w&#61;1024" alt="" width="313" height="167" align="left" /></div>

@@ -1,6 +1,7 @@
 ---
 title: "Customers dont want great service"
 date: 2019-05-06T18:51:12.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8882eef4dbd97708fece0b55ca961936"
 ---
 

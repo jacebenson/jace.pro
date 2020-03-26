@@ -1,6 +1,7 @@
 ---
 title: "Embedding ServiceNow IT Ops into Slack"
 date: 2018-09-05T03:04:22.000Z
+authors: ["vNickNOW"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d97f2f52dbd82300d58ea345ca961914"
 ---
 <p>Slack has become the market leader in what <a href="https://www.gartner.com/doc/reprints?id&#61;1-4K5I75F&amp;ct&#61;171108&amp;st&#61;sb" target="_blank" rel="nofollow">Gartner calls the workstream collaboration</a> space, and companies of all sizes are using Slack as their primary method of collaborating.  <a href="https://www.servicenow.com/products/it-operations-management.html" target="_blank" rel="nofollow">ServiceNow&#39;s IT Operations Management (ITOM)</a> portfolio is the most comprehensive closed-loop remediation solution on the market.  Combine the two and you get an efficient, easy-to-use environment in which to solve complex problems.  As the ServiceNow engineering teams continue to create great new features for triaging and handling alerts (like the <a href="https://docs.servicenow.com/bundle/london-it-operations-management/page/product/event-management/concept/alert-insight-information.html" target="_blank" rel="nofollow">Alert insights</a> in London), customers are also looking to bring some of that work to the other collaboration tools they use on a daily basis.</p>

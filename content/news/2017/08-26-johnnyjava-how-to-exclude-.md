@@ -1,6 +1,7 @@
 ---
 title: "How to exclude Discovery based on CI attributes such as name"
 date: 2017-08-25T19:34:08.000Z
+authors: ["johnnyjava"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=744daee5dbd0dbc01dcaf3231f961997"
 ---
 <p>In preparing to write this up, I feel I may becoming the King of Excludes. I&#39;ve written about <a class="jive_macro jive_macro_blogpost" title="Quick Excludes for Discovery Schedules" href="/community?id&#61;community_blog&amp;sys_id&#61;1ffda62ddbd0dbc01dcaf3231f9619af" rel="nofollow">Quick Excludes for Discovery Schedules</a> to easily add excludes based on IP Address data for devices already in the CMDB from other integration sources. Today I&#39;m going to show you another way to exclude based on interjecting a hostname regex matching pattern to keep Discovery from adding Hosts to the CDMB based on the name of the device.</p>

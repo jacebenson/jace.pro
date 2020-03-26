@@ -1,6 +1,7 @@
 ---
 title: "Service Catalog in the Kingston Release"
 date: 2018-01-22T21:11:23.000Z
+authors: ["rohantyagi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=60ccee25dbd0dbc01dcaf3231f961947"
 ---
 <p style="text-align: left;">There is so much Service Catalog goodness in the new Kingston release that I am unsure where to start. The whole Service Catalog experience on Service Portal is a game changer. The three-stage Order guide process, new out of the box widgets for service portal, features like &#34;Show More&#34; to enhance the mobile experience are just a few examples that show how this Kingston release is dedicated to the end user experience. You can read full <a href="https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/it-service-management/service-catalog-rn.html" target="_blank" rel="nofollow">release notes here</a>. Let me begin with ...</p>

@@ -1,6 +1,7 @@
 ---
 title: "Building Scalable Guidelines Organizational Alignment and Process to Support ServiceNow as an Enterprise Platform"
 date: 2019-06-22T04:07:47.000Z
+authors: ["davidkwock"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e10b5933db867704fb115583ca961937"
 ---
 <p>At Knowledge 2019 Shane Carlson and I presented lessons learned from helping customers build their governance and operating model to help enable platform adoption across the enterprise.  The recording of this session (<a href="https://community.servicenow.com/community?id&#61;community_article&amp;sys_id&#61;7a462b5cdb9d3b0422e0fb243996190f" rel="nofollow">CCB1599 - Developing a Center of Excellence to Support your Enterprise</a>) gave prescriptive guidance on how to build an effective Center of Excellence and Innovation guided by scalable governance and organizational alignment required to ensure success.  The following lessons learned were shared:</p>

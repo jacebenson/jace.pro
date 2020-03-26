@@ -1,6 +1,7 @@
 ---
 title: "Relationships in ServiceNow Explained"
 date: 2018-03-01T23:58:23.000Z
+authors: ["Anurag Tripathi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ead5f346dbac5f402d1efb651f961938"
 ---
 <p>This blog covers the following:</p>

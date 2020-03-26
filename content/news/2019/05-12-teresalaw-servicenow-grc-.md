@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow GRC  common themes I heard at Knowledge "
 date: 2019-05-11T23:45:36.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=95d599eedbd5fbc8fece0b55ca961913"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/46ac99eedb19fbc8fece0b55ca961951.iix" /></p>

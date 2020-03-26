@@ -1,6 +1,7 @@
 ---
 title: "Six Tips for Useful URLs in Your Knowledge Base Articles"
 date: 2018-08-01T03:25:12.000Z
+authors: ["janiceg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f894634bdbe79384feb1a851ca96191b"
 ---
 <p><span class="ng-scope"><em>This is the fourth in a series of suggested practices for creating knowledge base content. </em></span></p>

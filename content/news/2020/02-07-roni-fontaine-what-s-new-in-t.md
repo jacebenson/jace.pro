@@ -1,6 +1,7 @@
 ---
 title: "Whats new in the Now Platform Orlando release"
 date: 2020-02-07T03:41:41.000Z
+authors: ["Roni Fontaine"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=72f465fddb3604985ed4a851ca96195d"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/af25cfeedbcb04101cd8a345ca961951.iix" /></p>

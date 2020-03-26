@@ -1,6 +1,7 @@
 ---
 title: "Service Health Dashboard"
 date: 2019-08-03T01:01:08.000Z
+authors: ["Jaspal Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f413c1dddb0fbf0c190dfb24399619bd"
 ---
 <p>Not often we come across a scenario where we need to track the Service status for the services stored in our Business Service (cmdb_ci_service) table. If so, we have Operational status field available that can be used for checking the operational status but this then requires multiple actions (Operational stauts field update, outage record creation, etc). We came across one such scenario where we got a custom dashboard created that requires just a single action (operational status field update) which looks something as below.</p>

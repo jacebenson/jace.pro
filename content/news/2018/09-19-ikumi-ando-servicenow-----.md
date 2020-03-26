@@ -1,6 +1,7 @@
 ---
 title: "ServiceNowLondon"
 date: 2018-09-18T11:54:21.000Z
+authors: ["Ikumi Ando"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=df6528badb682700feb1a851ca9619b8"
 ---
 <div>ITから人事、セキュリティ、カスタマーサービスまで企業全体の定型業務プロセスの簡素化を実現するシングルプラットフォームNow Platformを提供しているServiceNowは、課題をより早く簡単に解決する機能を備えた最新バージョン「London」の提供を開始しました。</div>

@@ -1,6 +1,7 @@
 ---
 title: "Meet our Experts at Knowledge Table Talks"
 date: 2018-04-20T04:31:56.000Z
+authors: ["madhurig"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0618d546db2ddb044816f3231f9619a7"
 ---
 <p>At Knowledge18, we are back with our Table Talks program which consists of an hour long round-table sessions with ServiceNow experts during the main conference days from May 8th - 10th. </p>

@@ -1,6 +1,7 @@
 ---
 title: "Pragmatic Patterns  Hybrid Business Service Management Patterns"
 date: 2016-09-22T07:12:53.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5c5ee6addbd0dbc01dcaf3231f9619e0"
 ---
 <p style="font-family: arial, sans-serif; color: #666666;"><span style="font-weight: bold; font-style: inherit; font-family: Arial;">NOTE</span><span style="font-weight: inherit; font-style: inherit; font-family: Arial;">: MY POSTINGS REFLECT MY OWN VIEWS AND DO NOT NECESSARILY REPRESENT THE VIEWS OF MY EMPLOYER, ACCENTURE.</span></p>

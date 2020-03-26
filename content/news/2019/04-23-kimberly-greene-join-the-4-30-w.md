@@ -1,6 +1,7 @@
 ---
 title: "Join the  Webinar Build your ServiceNow Business Case"
 date: 2019-04-22T23:02:27.000Z
+authors: ["Kimberly Greene"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c8c55318db85bb00f7fca851ca961984"
 ---
 <p>Customer Success Webinar Series: </p>

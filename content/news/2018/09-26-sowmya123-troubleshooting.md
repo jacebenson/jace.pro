@@ -1,6 +1,7 @@
 ---
 title: "Troubleshooting Issues with Scheduled Reports"
 date: 2018-09-26T03:00:46.000Z
+authors: ["sowmya123"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cd083b8ddb7863c054250b55ca96192f"
 ---
 <p style="text-align: left;">Scheduling a report is a great way to <a href="https://docs.servicenow.com/bundle/london-performance-analytics-and-reporting/page/use/reporting/task/t_ScheduleAReport.html" target="_blank" rel="nofollow">automate its distribution</a>. Sharing the Scheduled reports can be distributed in PDF, CSV, or XLS format. Graphical reports can be distributed in PNG or PDF format. But what do you do if you run into issues? Some common symptoms you may experience are scheduled reports failing to run, missing data in the report, inability to schedule a report, an empty report, the report failing to run at a specified time, or the report not being delivered to the specified person(s).</p>

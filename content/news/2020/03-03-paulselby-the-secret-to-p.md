@@ -1,6 +1,7 @@
 ---
 title: "The secret to providing customer service to millions on a declining budget"
 date: 2020-03-02T23:01:46.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=12a45db9db1fc4104819fb2439961963"
 ---
 <p><img class="wp-image-4661" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2020/03/calculator-1044173.jpg" alt="" width="349" height="232" align="right" /></p>

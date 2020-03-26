@@ -1,6 +1,7 @@
 ---
 title: "Knowledge is almost here"
 date: 2013-04-18T20:12:46.000Z
+authors: ["Brad Anderson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=360e2e2ddbd0dbc01dcaf3231f96193b"
 ---
 <p>Hello all, I assume everyone is getting excited about K-13 - going to be a great event! If you haven't registered yet, time is running out....you don't want to miss what will likely be the largest ITSM conference this year. https://knowledge.service-now.com/k13/<br />Sales pitch over ;)... This group has great representation, I believe we have over 30 folks attending from STL - closer to 100 when you include all of MO and surrounding areas.<br /><br />I am also curious about what everyone is looking to attend (the agenda is posted on the K-13 home page if you have not seen it yet)? If you get a few minutes, please post what you are planning to attend or looking forward to, sessions or workshops. Maybe the same thing you are interested in is an interest of another and you can make a new contact. Or you might see something you weren't aware of that you can take advantage of. <br /><br />I can't wait to see what comes out of the Hack-a-thon's - the SN customer base can come up with some awesome apps!!<br /><br />I will be around all week, I hope to catch everyone while there.</p>

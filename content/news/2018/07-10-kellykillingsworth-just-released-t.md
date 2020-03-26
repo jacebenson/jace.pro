@@ -1,6 +1,7 @@
 ---
 title: "Just released three new CIS certification exams"
 date: 2018-07-09T22:43:26.000Z
+authors: ["kellykillingsworth"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=df11d988dbdb97009d612926ca96194b"
 ---
 <p>Just released three new CIS certification exams all launching by July 2<sup>nd</sup>:</p>

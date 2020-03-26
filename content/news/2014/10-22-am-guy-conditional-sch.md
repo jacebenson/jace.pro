@@ -1,6 +1,7 @@
 ---
 title: "Conditional Scheduled Import"
 date: 2014-10-21T22:15:59.000Z
+authors: ["AM_Guy"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=949caae1dbd0dbc01dcaf3231f9619f8"
 ---
 <p>When setting up a scheduled data import, there is a check box called Conditional that allows you to enter a script.   There is a wiki article here: <a href="http://wiki.servicenow.com/index.php?title=Scheduling_Data_Imports" title="http://wiki.servicenow.com/index.php?title=Scheduling_Data_Imports">http://wiki.servicenow.com/index.php?title=Scheduling_Data_Imports</a></p><p></p><p>What the wiki article fails to do (at the time of writing this), is give an example of what variable to return as true/false.   Like other places within the system, you need to set <em><strong>answer</strong></em> to <em><strong>true</strong></em> for the scheduled import to run and <strong><em>false </em></strong>if you don't want it to run.</p><p></p><p>I have an example in the image below.   It runs every 5 minutes except on Sunday.</p><p></p><p><img  alt="Image01.png" class="image-0 jive-image" src="87cc8c06db5c1344e9737a9e0f9619e4.iix" style="height: 318px; width: 620px;"/></p>

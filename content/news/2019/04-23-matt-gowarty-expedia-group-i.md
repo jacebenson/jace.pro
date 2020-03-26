@@ -1,6 +1,7 @@
 ---
 title: "Expedia Group increases CMDB accuracy and completeness by getting to the bottom of discovery failures  Hear how they did it by it signing up for breakout session BRE at Knowledge "
 date: 2019-04-22T21:46:35.000Z
+authors: ["Matt Gowarty"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=68648b14db417b0014d6fb24399619e1"
 ---
 <p>Do you know why I like going to Knowledge so much? It’s not just the keynotes and exhibits. Don’t get me wrong – these are great, but it’s the breakout sessions that really excite me. Breakouts give you the opportunity to get real-world ideas from other ServiceNow users and bring these back to your own team.</p>

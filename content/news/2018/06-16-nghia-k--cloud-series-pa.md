@@ -1,6 +1,7 @@
 ---
 title: "Cloud SeriesPart  Getting Visibility into a Cloudy World"
 date: 2018-06-16T03:46:36.000Z
+authors: ["Nghia K."]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ce50ba9cdb7e17000be6a345ca9619b2"
 ---
 <pre>Authored by: Brian Emerson, Senior Director Product Management—IT Operations Management</pre>

@@ -1,6 +1,7 @@
 ---
 title: "PPM Blog   Where we are headed"
 date: 2018-12-05T03:06:49.000Z
+authors: ["Wesley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=55fa8477db8223007d3e02d5ca9619a3"
 ---
 <p>So now you know a little about us, here is the skinny on the PPM.    </p>

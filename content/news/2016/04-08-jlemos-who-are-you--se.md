@@ -1,6 +1,7 @@
 ---
 title: "Who are you Securing authentication and enforcing password requirements"
 date: 2016-04-07T22:42:20.000Z
+authors: ["jlemos"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9b2e2a6ddbd0dbc01dcaf3231f9619e9"
 ---
 <p>Since the advent of modern computing platforms, passwords have authenticated users to provide access to protected resources. Due to the limitations of human memory or, let&#39;s face it outright apathy for security controls, people have tended to pick easy to remember and thus easily guessable passwords. Lucky for you, ServiceNow&#39;s security team has your back — let&#39;s look at how to beef-up local authentication on your instance with stronger passwords and <a title="ocs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/authentication/concept/c_MultifactorAuthentication.html" href="https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/integrate/authentication/concept/c_MultifactorAuthentication.html" rel="nofollow">multifactor authentication.</a></p>

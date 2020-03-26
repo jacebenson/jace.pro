@@ -1,6 +1,7 @@
 ---
 title: "Content for Store Developers at Knowledge"
 date: 2018-04-04T00:29:25.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f9270ab8db9197484e1df4621f9619c2"
 ---
 <p>It&#39;s hard for me to believe, but this year will be my 9th ServiceNow Knowledge conference. I&#39;ve attended as a customer admin/developer, partner consultant, and an employee, and found value out of it every time, whether it was with 500 other people in 2009 or 18k of my closest friends this year. There is a tremendous amount of content and in the interest of saving store/isv developers some time and effort, I&#39;ve called out some sessions I&#39;ll be leading that are specific to store and scoped application development in ServiceNow, as well as some other platform development focused sessions. </p>

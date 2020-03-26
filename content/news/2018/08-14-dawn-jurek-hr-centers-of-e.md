@@ -1,6 +1,7 @@
 ---
 title: "HR Centers of Excellence What are they and why do you need them"
 date: 2018-08-14T03:36:02.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9eb3221fdbf7df0067a72926ca96199c"
 ---
 <p>Not every HR case is alike. Cases involving sensitive information must be accessible only by select HR agents. The process required to enroll an employee into the company medical plan bears no resemblance to that needed to fulfill a work visa transfer request. And all HR cases can&#39;t be lumped into one generic report, either. Organizational leadership wants to see specifics: How well is the onboarding process working? How many employees reported a payroll discrepancy last quarter?</p>

@@ -1,6 +1,7 @@
 ---
 title: "Employee Document Management Configuration Guidance"
 date: 2020-03-17T20:50:41.000Z
+authors: ["Apani"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d73496aedb6f00542be0a851ca96198a"
 ---
 <p style="text-align: left;">Kicking off your Employee Document Management (EDM) deployment? It doesn’t have to be a complex or daunting project! This guide is aimed at helping our customers understand where to start and how to approach configuring Employee Document Management for your HR Service Delivery application. </p>

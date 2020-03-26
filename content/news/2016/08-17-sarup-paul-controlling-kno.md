@@ -1,6 +1,7 @@
 ---
 title: "Controlling Knowledge Article fieldlevel visibility"
 date: 2016-08-16T20:58:59.000Z
+authors: ["Sarup Paul"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=919c2ee1dbd0dbc01dcaf3231f96192f"
 ---
 <p>&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;Update Oct 15 2019 &#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;</p>

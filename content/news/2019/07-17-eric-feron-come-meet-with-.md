@@ -1,6 +1,7 @@
 ---
 title: "Come meet with ServiceNow at Black Hat  in Las Vegas"
 date: 2019-07-16T21:09:18.000Z
+authors: ["Eric Feron"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=87fa64f7dbaebb00fff8a345ca961921"
 ---
 <div class="text section">

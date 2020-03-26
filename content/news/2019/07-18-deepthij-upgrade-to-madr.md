@@ -1,6 +1,7 @@
 ---
 title: "Upgrade to Madrid Patch  if you are seeing a javalangNullPointerException when updating variable value to null on RITM"
 date: 2019-07-17T21:49:15.000Z
+authors: ["deepthij"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0abd7144db76f3c01cd8a345ca9619a3"
 ---
 <p><span style="font-size: 12pt;"><strong>Issue:</strong></span> In Madrid when assigning the variable to null can cause java.lang.NullPointerException and this can also result in variables not displayed on lists/reports.</p>

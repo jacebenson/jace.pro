@@ -1,6 +1,7 @@
 ---
 title: "Adding a Visual Task Board to a Dashboard"
 date: 2020-01-29T00:09:31.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5b1edeb6db2604545ed4a851ca961968"
 ---
 <p>Dashboards are more than Reports and Performance Analytics widgets.  They are part of the Now Platform and all the functionality that brings.  One of my favorite features on the platform are <a href="https://www.servicenow.com/products/servicenow-platform/visual-task-boards.html" rel="nofollow">Visual Task Boards</a>. </p>

@@ -1,6 +1,7 @@
 ---
 title: "Discover how ServiceNow ITSM and ITOM are helping to prevent air traffic delays Join NATS at our Knowledge  breakout session BRE to find out more"
 date: 2019-04-09T01:21:32.000Z
+authors: ["Matt Gowarty"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f85f6f3fdb2c3b44fece0b55ca961996"
 ---
 <p>Are you looking forward to Knowledge this year? I know I am. I’m Jamie Mead, and I’m the Service Delivery Manager at NATS. I’ll be presenting our journey towards a zero-incident culture at NATS and talking about how ServiceNow is playing a critical role in our plans.</p>

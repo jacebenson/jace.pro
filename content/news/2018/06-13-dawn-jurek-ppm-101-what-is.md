@@ -1,6 +1,7 @@
 ---
 title: "PPM What is PPM and why do you need it"
 date: 2018-06-12T23:47:46.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=16ec5613dba21340e0e80b55ca961910"
 ---
 <p>Is your organization running IT like a business, with visibility into demand and financials, alignment with business goals, and management of projects and resources? Or is IT running itself like a runaway train, with no direction and no one in the driver&#39;s seat?</p>

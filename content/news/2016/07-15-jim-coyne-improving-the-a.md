@@ -1,6 +1,7 @@
 ---
 title: "Improving the Attachments List View"
 date: 2016-07-15T00:57:58.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1e5eaaaddbd0dbc01dcaf3231f961939"
 ---
 <p>In a related article, <a class="jive_macro jive_macro_blogpost" title="" href="community?id&#61;community_blog&amp;sys_id&#61;928c2ae1dbd0dbc01dcaf3231f961927" rel="nofollow">&#34;Related Attachments&#34; Related List</a>, I talk about creating a Defined Related List to pull together attachments from related records so they can show up on the form view of all those records (e.g. Service Desk Calls and Incidents):</p>

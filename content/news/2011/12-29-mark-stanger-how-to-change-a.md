@@ -1,6 +1,7 @@
 ---
 title: "How to change a number prefix for existing records"
 date: 2011-12-28T23:48:20.000Z
+authors: ["Mark Stanger"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=38cdeea9dbd0dbc01dcaf3231f96193d"
 ---
 <p>I had a customer ask me this morning if it was possible to change the number prefix for records in the Change Request table. Specifically, they wanted to change the prefix from the default 'CHG' to 'RFC'. The answer to this question is 'Yes', but there are a couple of things you need to do and be careful about...especially if you're changing the prefix in a table that has existing records using the prefix. In this post, I'll explain how you can adjust the number prefix of a table using the Number Maintenance module. I'll also show how you can use a script to adjust the number prefix on existing records.<br /><br /><center><a href="http://www.servicenowguru.com/scripting/changing-number-prefix-existing-records/"><img src="http://www.servicenowguru.com/wp-content/uploads/2011/12/NumberPrefixChange-300x104.jpg" alt="Number Prefix Change" title="Number Prefix Change" width="300" height="104" class="aligncenter size-medium wp-image-4222" /></a></center><br /><br />http://www.servicenowguru.com/scripting/changing-number-prefix-existing-records/<br /><!--break--></p>

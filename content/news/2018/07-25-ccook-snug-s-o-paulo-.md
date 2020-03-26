@@ -1,6 +1,7 @@
 ---
 title: "SNUG So Paulo  Atualizao sobre Data"
 date: 2018-07-24T22:27:06.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ce3d56b8dbeb5fc0fff8a345ca9619cf"
 ---
 <p>Prezados Membros da Comunidade, </p>

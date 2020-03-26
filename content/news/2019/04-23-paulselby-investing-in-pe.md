@@ -1,6 +1,7 @@
 ---
 title: "Investing in personalization pays off in customer service"
 date: 2019-04-22T21:01:07.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=62f9be98dbc53b00fece0b55ca96191a"
 ---
 

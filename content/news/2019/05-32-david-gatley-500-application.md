@@ -1,6 +1,7 @@
 ---
 title: " applications on the ServiceNow Store"
 date: 2019-05-31T07:19:56.000Z
+authors: ["David.Gatley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b504f0fcdbbdb7801cd8a345ca961972"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/539e68f8db7db7801cd8a345ca961910.iix" /></p>

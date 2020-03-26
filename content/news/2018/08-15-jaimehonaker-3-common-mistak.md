@@ -1,6 +1,7 @@
 ---
 title: " Common Mistakes to Avoid When Creating Knowledge Base Content"
 date: 2018-08-14T19:03:32.000Z
+authors: ["jaimehonaker"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3008f5ebdb7b574067a72926ca961981"
 ---
 <p><em>This is the fifth in a series of suggested practices in creating Knowledge Base content. </em></p>

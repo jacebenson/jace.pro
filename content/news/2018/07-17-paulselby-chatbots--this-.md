@@ -1,6 +1,7 @@
 ---
 title: "Chatbots this is only the beginning"
 date: 2018-07-16T21:38:23.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ea55c992db5f1700f7fca851ca961935"
 ---
 <p><img class="alignnone  wp-image-3244" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2018/07/factory-35104.png" alt="factory-35104" width="379" height="247" align="right" /> There&#39;s many opinions today on chatbots as they relate to customer service. Some point to them <a href="https://www.bbc.com/news/business-43259906" target="_blank" rel="nofollow">taking jobs</a>. Others believe they will fail because <a href="https://hbr.org/2017/07/your-customers-still-want-to-talk-to-a-human-being" target="_blank" rel="nofollow">customers prefer speaking with people</a>. And some claim there are customer segments that outright <a href="https://paymentweek.com/2017-11-24-eptica-turns-consumers-hate-chatbots/" target="_blank" rel="nofollow">hate them</a>. The reality is they are here to stay and are predicted to <a href="https://www.gartner.com/newsroom/id/3858564" target="_blank" rel="nofollow">grow in use</a>.</p>

@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Store  How to Try Buy and Install Apps"
 date: 2019-06-18T03:24:07.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4baaa02edb86ff005d782183ca961934"
 ---
 <p>The ServiceNow platform provides potentially boundless solutions to business challenges. You can extend the workflows provided by ServiceNow either by:</p>

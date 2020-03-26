@@ -1,6 +1,7 @@
 ---
 title: " Steps to Import Fiscal Periods using the Fiscal Calendar Plugin"
 date: 2018-12-11T13:13:08.000Z
+authors: ["Sunil B N"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=514f8931db9aa340107d5583ca961981"
 ---
 <p><span style="font-family: verdana, geneva;"><a href="https://docs.servicenow.com/bundle/london-platform-administration/page/product/it-finance/concept/c_FiscalCalendar.html" target="_blank" rel="noopener noreferrer nofollow">Fiscal Calendar Plugin</a> (<em>com.snc.fiscal_calendar</em>) gives infrastructure to generate fiscal periods depending upon financial calendar type like Regular, 13 Period or 445.<br /></span></p>

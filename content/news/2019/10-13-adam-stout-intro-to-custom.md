@@ -1,6 +1,7 @@
 ---
 title: "Intro to Custom Interactive Filters  Office Hours  Aug  Recap"
 date: 2019-10-12T05:21:18.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=aaedd2b7db5480d45129a851ca961988"
 ---
 <p>During the <a title="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" href="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" rel="nofollow">Performance Analytic</a><a title="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" href="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" rel="nofollow">s and Reporting Office Hours</a> on August 28th, we covered the basics of creating a Custom Interactive Filter for use on a dashboard.  While it is preferred to stick with out of the box Interactive Filters, if you have an advanced use case that you need to tackle, you do have some powerful tools in the NOW Platform. <br />   <img style="display: block; margin-left: auto; margin-right: auto;" src="https://community.servicenow.com/5fbd9af3db5480d45129a851ca961958.iix" /></p>

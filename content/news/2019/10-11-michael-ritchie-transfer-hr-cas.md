@@ -1,6 +1,7 @@
 ---
 title: "Transfer HR Case to an IT Incident"
 date: 2019-10-10T18:57:40.000Z
+authors: ["Michael Ritchie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=15950317dbdc48545129a851ca9619a9"
 ---
 <p>The HRSD application has offered a transfer feature for several releases allowing an agent to transfer a case from one HR COE to another.  In the NY release this was improved upon allowing you to &#34;<a href="https://docs.servicenow.com/bundle/newyork-hr-service-delivery/page/product/human-resources/concept/reclassify-hr-case.html" rel="nofollow">Reclassify an HR Case</a>&#34; and giving you an option to keep the same case number during the transfer process.  This enhancement also opened up the ability to define your own additional transfer methods as well.</p>

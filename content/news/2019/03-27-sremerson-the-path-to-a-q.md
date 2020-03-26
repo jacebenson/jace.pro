@@ -1,6 +1,7 @@
 ---
 title: "The Path to a Quality CMDB Starts With"
 date: 2019-03-26T19:53:36.000Z
+authors: ["sremerson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=da97a32fdb9cff88d82ffb24399619d6"
 ---
 <p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Whether you’re a new ServiceNow customer or have been using the platform for a while, you’ve heard how important a quality CMDB is to enabling desired outcomes for the solutions you’ve invested in. A well-configured CMDB can save you as much as 40% in IT costs, and help you avoid the costs of unplanned outages.</span></p>

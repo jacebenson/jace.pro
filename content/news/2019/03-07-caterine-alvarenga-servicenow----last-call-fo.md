@@ -1,6 +1,7 @@
 ---
 title: "Last call for Speakers Central PA SNUG on  "
 date: 2019-03-07T04:29:58.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2c40d69ddbc4fb4854250b55ca961917"
 ---
 <p>Hi Central PA SNUG Members,</p>

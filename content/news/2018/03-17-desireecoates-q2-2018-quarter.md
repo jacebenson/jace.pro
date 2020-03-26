@@ -1,6 +1,7 @@
 ---
 title: "Q  Quarterly Patching Targets"
 date: 2018-03-16T06:30:16.000Z
+authors: ["desireecoates"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d683213adb70df4047c8f3231f96192f"
 ---
 <p>The Quarterly Patching Program (QPP) schedules patches to make sure customer instances are up-to-date with the latest in security and performance fixes.<br /><br />In Q2-2018, ServiceNow will patch customer instances to the targets shown below. We encourage our customers to patch earlier than they are scheduled to accommodate or prevent any scheduling conflicts.<br /><br /><strong>The targets for Q2-2018 are as follows:</strong></p>

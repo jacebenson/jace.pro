@@ -1,6 +1,7 @@
 ---
 title: "New London Feature for Store developers Extension Points"
 date: 2018-08-16T14:21:04.000Z
+authors: ["andrew.venables"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f68a4308db88ab40200f0b55ca96191a"
 ---
 <p>In January i wrote about a <a href="community?id&#61;community_blog&amp;sys_id&#61;0d0d6aa5dbd0dbc01dcaf3231f9619a5" target="_blank" rel="nofollow">technique</a> that allows Store partners to ship protected script includes in their application whilst maintaining the ability for customers to customise and extend the functionality of the script. This technique was important because it allowed Store partners to lock down their script includes and protect their intellectual property but also leave a mechanism open for either the customer, the implementation team or the partner support team to implement changes to the behaviour of that script in a controlled way.</p>

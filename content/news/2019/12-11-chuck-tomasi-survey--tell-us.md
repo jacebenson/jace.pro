@@ -1,6 +1,7 @@
 ---
 title: "Survey Tell us what custom apps youve built and earn cash"
 date: 2019-12-10T20:04:02.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=110099cbdba9445013b5fb24399619df"
 ---
 <div>

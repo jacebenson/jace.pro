@@ -1,6 +1,7 @@
 ---
 title: "Throwdown chatbot vs live agent chat"
 date: 2019-02-25T23:20:03.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3c03b2dadb3ba704190dfb2439961916"
 ---
 <p><img class="wp-image-3506" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2019/02/technology-2025795.jpg?w&#61;1024" alt="" width="295" height="195" align="left" /></p>

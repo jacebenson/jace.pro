@@ -1,6 +1,7 @@
 ---
 title: "Your Audio Visual CMDBor AVCMDB Step One Location"
 date: 2020-01-22T21:36:26.000Z
+authors: ["Matthew Fearnley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ce814ff0db6a0890f7fca851ca96196d"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "TechBytes Episode  Participating in the ServiceNow Online Community"
 date: 2016-02-09T00:05:34.000Z
+authors: ["marystromberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=354e26addbd0dbc01dcaf3231f96197f"
 ---
 <p><span class="s1"><span style="font-weight: inherit; font-style: inherit; font-family: inherit; color: #666666;"><a href="https://omny.fm/shows/servicenow-techbytes-1/episode-30-quarterly-patching-program" rel="nofollow"><img style="max-width: 100%; max-height: 480px; float: right; margin-left: 8px;" src="daf58b9edb10170c0e58fb651f96195d.iix" width="127" height="126" /></a></span>In this episode of ServiceNow Techbytes, <a class="jive_macro jive_macro_user" title="manikorada" href="/community?id=community_user_profile&user=1a129625dbd81fc09c9ffb651f9619ea" rel="nofollow">manikorada</a>, <a class="jive_macro jive_macro_user" title="coryseering" href="/community?id=community_user_profile&user=bf225e65dbd81fc09c9ffb651f9619d6" rel="nofollow">coryseering</a>, and <a class="jive_macro jive_macro_user" title="bianca.vaccarini" href="/community?id=community_user_profile&user=3c90962ddb581fc09c9ffb651f961907" rel="nofollow">bianca.vaccarini</a> talk about how you can get your burning ServiceNow product questions answered in our friendly and supportive online ServiceNow Community. </span></p>

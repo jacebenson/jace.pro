@@ -1,6 +1,7 @@
 ---
 title: "Diversity Inclusion and Belonging a Data and Analytics Perspective"
 date: 2018-03-08T03:47:00.000Z
+authors: ["dangrady510"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=35b3afc0dbbc1f045322f4621f96196c"
 ---
 <p>In my time here at ServiceNow there has always been a cultural focus on Diversity, Inclusion and Belonging. Recently, we’ve added Chief Talent Officer, <a href="https://www.linkedin.com/in/patwadors/" target="_blank" rel="noopener noreferrer nofollow">Pat Wadors</a>, whose amplified that message to the Nth degree.</p>

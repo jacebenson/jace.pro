@@ -1,6 +1,7 @@
 ---
 title: "We need your vote Discussion topics for the September th Eastern PA SNUG"
 date: 2015-08-11T18:45:26.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=82ade2a9dbd0dbc01dcaf3231f961923"
 ---
 <p>For the Eastern PA SNUG meeting coming up on September 9th, we'd like your help deciding the topics for presentations and discussions we will be hosting.</p><p></p><p>Please go to this link <a title=".zoomerang.com/s/XPLLMVK" href="https://s.zoomerang.com/s/XPLLMVK">Eastern PA SNUG Meeting on September 16th Survey</a> and select the topics you would like to see at the SNUG. The topics that receive the most votes will be chosen.</p><p></p><p>You can also indicate whether you are interested in helping to lead one of the discussion tables, panel session or present around a particular topic. </p><p></p><p>Thanks for your feedback!</p><p></p><p>Potential topics for discussions/presentations:</p><p></p><p> ·           Service Catalog</p><p> ·           Change Management</p><p> ·           Incident and Problem</p><p> ·           Knowledge Management </p><p> ·           CMDB/Configuration Management </p><p> ·           Asset Management</p><p> ·           Custom Applications</p><p> ·           Current ServiceNow Training Opportunities</p><p> ·           Cloud Provisioning</p><p> ·           Best Practices for Upgrades</p><p> ·           Environment Management/ITOM</p><p> ·           Using ServiceNow as the Company intranet portal   (Self-Service, etc)</p>

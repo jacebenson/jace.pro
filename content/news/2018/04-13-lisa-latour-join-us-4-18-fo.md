@@ -1,6 +1,7 @@
 ---
 title: "Join us  for an HR Best Practices and Customer Success Webinar on the Community"
 date: 2018-04-13T02:37:06.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f3aabc3fdb19db80fc5b7a9e0f96196c"
 ---
 <h4><strong>NEW SERIES! Join us!<br /></strong></h4>

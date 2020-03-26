@@ -1,6 +1,7 @@
 ---
 title: "Vendor Risk Understanding Vendor Risk Management with ServiceNow"
 date: 2019-02-06T03:08:39.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=96876804dbafa700f21f5583ca96191f"
 ---
 <p>Your company probably uses a lot of third-party vendors - some provide IT or financial services, others deliver coffee supplies and food, while still others wash the windows and stock the restrooms. But all of these vendors are not the same in terms of risk.</p>

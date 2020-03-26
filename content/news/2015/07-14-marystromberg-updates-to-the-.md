@@ -1,6 +1,7 @@
 ---
 title: "Updates to the Customer SelfService Portal"
 date: 2015-07-14T02:52:35.000Z
+authors: ["marystromberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f30d6ea5dbd0dbc01dcaf3231f96199f"
 ---
 <p class="p1"><span class="s1">The CSS Portal now provides additional features to help you manage your company's HI users and ServiceNow admins. In the Manage Users page of the CSS Portal, you can see your company's ServiceNow admins by accessing the page <strong>Who are my ServiceNow admins and what can they do? </strong>This page provides a list of your Customer Admins, as well as a summary of their responsibilities. You can also request the ServiceNow Administrator role for yourself or for another user from a link on this page. The Service Catalog provides access to both of these pages.</span></p><p class="p1"></p><p class="p1"><span class="s1">Here is a video that explains the process: </span></p><p class="p1"></p><p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/0LZ6rwlDXWo?rel=0" width="640"> 

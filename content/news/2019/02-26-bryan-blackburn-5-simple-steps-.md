@@ -1,6 +1,7 @@
 ---
 title: " simple steps to get started with SAM"
 date: 2019-02-26T04:22:25.000Z
+authors: ["Bryan Blackburn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0a38b35adb3fef04200f0b55ca96190f"
 ---
 <p class="p1"> In 2019, it is important for professionals to revisit their SAM strategies (and their SAM solutions) and set achievable goals for the year. But where should they start? In this post, we’ll walk through the five steps of getting started in SAM to identify meaningful ways SAM professionals can take back control over company-wide software assets:</p>

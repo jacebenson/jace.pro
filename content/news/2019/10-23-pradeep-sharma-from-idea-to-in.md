@@ -1,6 +1,7 @@
 ---
 title: "From Idea to Innovation  How app publishers can use the new Idea Portal"
 date: 2019-10-23T04:16:11.000Z
+authors: ["Pradeep Sharma"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fb78fad7db6044d06064eeb5ca961996"
 ---
 <p>I wanted to introduce <a href="https://community.servicenow.com/community?id&#61;ideas_list&amp;sysparm_module_id&#61;enhancement_requests" rel="nofollow">ServiceNow’s new Idea Portal</a> to all of you innovators. ServiceNow is a company driven by innovation. This forum was established based on the principle that together we can innovate better than alone. This philosophy extends to how we offer our products and services and the value our customers realizes from them. This is a space where you can interact and collaborate with each other; as well as, with ServiceNow for all things app publishing and store related.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Continual Improvement Management Related Articles  Blogs List"
 date: 2019-11-20T08:23:18.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7ddf6bd0db1980142be0a851ca961950"
 ---
 <table class="ng-scope" style="width: 782px;" border="1"><tbody><tr><td style="width: 768px;" colspan="2">

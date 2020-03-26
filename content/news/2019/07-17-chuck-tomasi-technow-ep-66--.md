@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Discover the ServiceNow Application Developer Guides"
 date: 2019-07-17T02:59:43.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=043b3d77dba23f004819fb2439961968"
 ---
 <p><img style="padding-right: 8px;" src="3e1d4b52dbdc3fc45129a851ca96192a.iix" alt="expert-logo-2.png" align="left" />Join Brad Tilton, Platform Success Architect from ServiceNow, as he discusses the latest application development guides from low-code to pro-code. Explore everything from planning your application through releasing it to production. These guides will help you save time and avoid common issues when building apps to unlock productivity and provide great experiences.</p>

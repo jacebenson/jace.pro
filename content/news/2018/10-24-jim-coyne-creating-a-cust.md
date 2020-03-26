@@ -1,6 +1,7 @@
 ---
 title: "Creating a Custom AutoNumber Counter"
 date: 2018-10-23T20:20:23.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=85e8eac6dbd96b40b1b102d5ca96192a"
 ---
 <p>Ever need an auto-incrementing number for a custom string field?  Just like the OOB Number field on the Task tables?  As usual, the simplest way is to leverage OOB functionality.</p>

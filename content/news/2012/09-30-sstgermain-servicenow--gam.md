@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Gamification  Performance Scorecards"
 date: 2012-09-30T03:13:14.000Z
+authors: ["sstgermain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=21ed6ee9dbd0dbc01dcaf3231f961979"
 ---
 <p>#ServiceNow's Live Feed and Chat show the potential benefits of blending some social media concepts into an IT Service Management tool. I am wondering, however, if anyone has experience building a social media concept with a bit more bleeding edge into/with ServiceNow, a 'gamified' support performance scorecard as a gauge (or gauges) on an Homepage? <br /><br />In particular, tying ServiceNow's Knowledge Article rankings and usage metrics together with survey scores, KPIs, and SLA metrics to present Support Analysts, Technicians, and managers with individual and team performance scores and 'badge earning' options as competition and incentives to pursue continuous improvement in Support and Knowledge content.<br /><br />Would love to hear about anyone's efforts, obstacles, and what worked.<br /><br />Thanks,<br /><br />Steven St. Germain <a href="http://www.linkedin.com/in/stevestgermain"><img src="http://www.linkedin.com/img/webpromo/btn_in_20x15.png" /></a></p>

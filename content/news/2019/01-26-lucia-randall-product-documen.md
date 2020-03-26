@@ -1,6 +1,7 @@
 ---
 title: "Product Documentation Updates A New Look Improved Login Multilingual Support Easier Mobile Access and More"
 date: 2019-01-26T00:38:12.000Z
+authors: ["lucia.randall"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4b9b93dcdb13e340f21f5583ca961906"
 ---
 <p>If you visit our <a href="https://docs.servicenow.com/" rel="nofollow">product documentation site</a>, you will find some obvious improvements and a few more subtle ones.</p>

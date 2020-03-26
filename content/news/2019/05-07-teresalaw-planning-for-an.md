@@ -1,6 +1,7 @@
 ---
 title: "Planning for and Recovering from the Worst  Fairchild Resiliency Systems"
 date: 2019-05-07T02:05:16.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=96d58089db91bb08fece0b55ca9619d2"
 ---
 <p>Worst-case scenario varies widely by type of organization and industry.  While Fairchild Resiliency Systems can’t provide a specific scenario for any single organization, we can provide a rough estimate of how much downtime costs.  <a href="https://blogs.gartner.com/andrew-lerner/2014/07/16/the-cost-of-downtime/" rel="nofollow">Gartner</a> cites industry studies that place the figure at $5,600 per minute of network downtime.  This equates to $336,000 per hour.  The numbers are even more staggering when we focus on data center outages.  Analyzing worst-case scenario is inherently a ‘bad news’ endeavor, but there is good news: MaestroRS™ can help you plan and exercise for the worst, and those leveraging the ServiceNow platform are ahead of the game.</p>

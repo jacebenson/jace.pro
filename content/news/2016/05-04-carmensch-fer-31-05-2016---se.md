@@ -1,6 +1,7 @@
 ---
 title: "  SERVICENOW STANDARD ADMIN TRAINING  ZRICH SWITZERLAND"
 date: 2016-05-03T19:00:23.000Z
+authors: ["carmenschäfer"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=05ed2ee9dbd0dbc01dcaf3231f961967"
 ---
 <p style="margin-bottom: 20px; font-size: 16px; color: #777777; font-family: proxima-nova, sans-serif;">We are happy to inform you that our next ServiceNow Admin Training session will take place in Zürich, <span style="font-weight: bold; color: #333333;">May 31 to June 2, 2016</span>, in our office. (Course will be given in German).</p><p style="margin-bottom: 20px; font-size: 16px; color: #777777; font-family: proxima-nova, sans-serif;">This course is designed for system administrators who are new to the ServiceNow ecosystem. During this 3-day interactive training course attendees will implement various system administration functions in their own instance, learning to perform fundamental administration and configuration tasks.</p><p style="margin-bottom: 20px; font-size: 16px; color: #777777; font-family: proxima-nova, sans-serif;"><a title="pediens.com/portfolio-posts/servicenow-admin-training/" href="http://aspediens.com/portfolio-posts/servicenow-admin-training/" style="line-height: 1.5; color: #e31c79;">See the complete course description for details.</a></p>

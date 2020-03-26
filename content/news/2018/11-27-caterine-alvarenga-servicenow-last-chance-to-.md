@@ -1,6 +1,7 @@
 ---
 title: "Last chance to register ITOMSecurity Operations Executive Seminar on  in Philadelphia"
 date: 2018-11-27T04:41:46.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=daf31b05db06abc09540e15b8a961906"
 ---
 <div class="page" title="Page 1">

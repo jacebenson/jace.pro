@@ -1,6 +1,7 @@
 ---
 title: "Dont be so onedimensional  use Spotlight for effective focus"
 date: 2018-05-24T22:47:51.000Z
+authors: ["Tom Pacyk"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1ff858dddb9edf400e3dfb651f9619a5"
 ---
 <p>When you’re at the grocery store and grab a piece of fruit, how do you decide which one to choose? Do you evaluate the color, the size, the shape, the texture, or the firmness of the fruit? You’re probably using some (or all!) of these factors in your decision-making process, and you subconsciously consider some of these characteristics to be more important than others.</p>

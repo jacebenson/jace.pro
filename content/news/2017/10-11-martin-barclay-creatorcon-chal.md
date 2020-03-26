@@ -1,6 +1,7 @@
 ---
 title: "CreatorCon Challenge  Now with Fred Luddy and Your Personal VC Mentor"
 date: 2017-10-10T23:58:50.000Z
+authors: ["Martin Barclay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=894ee2addbd0dbc01dcaf3231f961944"
 ---
 <p style="text-align: center;"><a href="https://www.servicenow.com/company/ventures/creatorcon-challenge.html"><img   alt="creatorcon challenge.PNG" class="image-1 jive-image" src="2ed2898edbd09f048c8ef4621f9619c0.iix" style="width: 620px; height: 283px;"/></a></p><p></p><p>It's on again. Yes, that's right - the CreatorCon Challenge is back for your app creation and entrepreneurial pleasure.</p><p></p><p>No amount of shouting about how great it all was and how "overwhelming" the response was last year is going to make any difference - the proof that last year's inaugural edition was well received by the ServiceNow developer and partner community, as well as the judges, the attendees at the finale at Knowledge17,   and most importantly the customers that have already purchased the winning apps, is that ServiceNow decided to fund it and invest in it again for the 2nd year in a row.   Proof's in the pudding as they say. Well, the pudding is here, and it's mighty tasty.</p><p style="text-align: center;"></p><p style="text-align: center;"><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/tzqbmm9TLmg" width="560"> 

@@ -1,6 +1,7 @@
 ---
 title: "Natural Language UnderstandingNLU Makes the Virtual Agent the Road More Traveled"
 date: 2019-10-09T01:35:20.000Z
+authors: ["dangrady510"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cf6dc676dbd00cd013b5fb2439961959"
 ---
 <p><span style="font-size: 12pt;">My colleague recently posted a video on Facebook of his daughter singing along to her favorite song.  That in itself wouldn&#39;t be noteworthy, this type of thing happens all the time.  What made this post different was the situation - he was driving.  Well, in fact he wasn&#39;t driving, the car was driving itself.  He had put the car on auto pilot so he could safely capture this magical memory with his daughter.</span></p>

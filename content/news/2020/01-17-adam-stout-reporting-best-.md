@@ -1,6 +1,7 @@
 ---
 title: "Reporting Best Practices  Office Hours  Jan  Recap"
 date: 2020-01-16T23:42:28.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b5d4e0471b92c010fff162c4bd4bcb16"
 ---
 <p class="ng-scope">During the <a title="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" href="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" rel="nofollow">Performance Analytics and Reporting Office Hours</a> on January 15th, we covered a list of Reporting Best Practices.</p>

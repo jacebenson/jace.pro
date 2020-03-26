@@ -1,6 +1,7 @@
 ---
 title: "ITOM   What is ITOM and why do you need it"
 date: 2018-03-29T20:40:08.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6ab2a303db0d9bc4852c7a9e0f96194b"
 ---
 <p>ServiceNow&#39;s IT Service Management solution helps you round up and take control of all the wayward service processes meandering throughout your enterprise, and turn them into efficient automated processes. But services are just one part of the picture - what about managing your operations?</p>

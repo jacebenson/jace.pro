@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Mail Headers"
 date: 2014-02-14T00:15:20.000Z
+authors: ["TechNow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d17dee29dbd0dbc01dcaf3231f961929"
 ---
 <p>Make your administrative tasks easier and quicker! Chuck and Andrew share a solution to reduce maintenance for one of the most common notification requirements - standardized outbound headers and/or footers. Sure, copy/paste works well to make them all the same the first time, but maintenance can be time consuming. Join us and start to become a Jedi of managing data instead of going back to dev to make changes.</p>

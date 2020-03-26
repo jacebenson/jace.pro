@@ -1,6 +1,7 @@
 ---
 title: "DONT PANIC  Introducing the Security Best Practice Guide"
 date: 2018-06-06T14:31:28.000Z
+authors: ["ashok-sn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2e042511db2e57402be0a851ca961945"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="701b66d1db6ed7402be0a851ca9619fc.iix" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "Approval Summarizer for Group Approvals"
 date: 2019-09-21T22:38:17.000Z
+authors: ["Ankur Bawiskar"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fbd102d9db0c881414d6fb24399619aa"
 ---
 <p>Recently I have see many questions regarding showing approval summary on Group approval which is not available out of the box; so I thought of creating a blog for same.</p>

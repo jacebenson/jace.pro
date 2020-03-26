@@ -1,6 +1,7 @@
 ---
 title: "Whats new in New York for HR Service Delivery"
 date: 2019-08-09T02:21:03.000Z
+authors: ["ninsandhu"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=46ee405bdb8bf3405ed4a851ca961992"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/96c11d1adb2f778414d6fb2439961907.iix" /></p>

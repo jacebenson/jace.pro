@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow　"
 date: 2018-12-17T10:56:06.000Z
+authors: ["maisakamoto"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2c79ebebdb16af00f0612183ca961970"
 ---
 <p style="margin: 0in; font-family: &#39;MS Gothic&#39;; font-size: 11.0pt;"><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">こんにちは&#xff01;</span></p>

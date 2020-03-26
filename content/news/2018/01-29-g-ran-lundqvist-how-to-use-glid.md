@@ -1,6 +1,7 @@
 ---
 title: "How to use GlideAjax and Client Scripts with Best Practice in mind"
 date: 2018-01-29T01:30:22.000Z
+authors: ["Göran Lundqvist"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ba9d6e69dbd0dbc01dcaf3231f9619d2"
 ---
 <p>I've seen a couple of questions in the community about how to get more data from the server when you write a Client Script. What comes in mind is everything from GlideRecord calls, use of getReference method to GlideAjax and g_scratchpad method.</p><p></p><p>I made a video with having best practice in mind and that would rule out both the GlideRecord call and the getReference. I also show how to avoid another server call when you do a setValue on a reference field which is pretty common to do if your mind might be somewhere else when you write the code.</p><p></p><p><iframe src="https://youtube.com/embed/p5F3lpXgkHk" width="520" height="430"/></p><p></p><p></p><p></p><p></p><p><img   alt="Symfoni Logo Color Box.jpg" class="image-2 jive-image" height="57" src="f9ebfbb5db945fc068c1fb651f9619e1.iix" style="width: 196px; height: 57.2194px;" width="196"/><img   alt="sn-community-mvp.png" class="image-1 jive-image" src="6c9d5c0adb5c9fc068c1fb651f961910.iix" style="width: auto; height: auto;"/></p>

@@ -1,6 +1,7 @@
 ---
 title: "Learn how ServiceNow uses its own products at Knowledge "
 date: 2019-04-17T00:37:18.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2ae13422dbf8b34813b5fb24399619ba"
 ---
 <p>If you want to hear firsthand how ServiceNow uses its own products to deliver digital workflows to address real-world challenges, check out the Now on Now program at Knowledge 2019.</p>

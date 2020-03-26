@@ -1,6 +1,7 @@
 ---
 title: "Whats new in Orlando for Mobile"
 date: 2020-02-05T05:36:12.000Z
+authors: ["Tom Pacyk"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bc0c238ddb76c8582be0a851ca9619a2"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/95e31b02dbd70050414eeeb5ca9619b1.iix" /></p>

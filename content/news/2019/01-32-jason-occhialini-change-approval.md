@@ -1,6 +1,7 @@
 ---
 title: "Change Approval Policies"
 date: 2019-01-31T06:29:39.000Z
+authors: ["Jason Occhialini"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d00c9e02db1b6b404abd5583ca96199d"
 ---
 <p><span style="font-size: 10pt; font-family: tahoma, arial, helvetica, sans-serif;">Change Approval Policies are a new feature of the Change Management application in the Madrid release. They allow approvals to be tailored for your change management processes through configuration. Previously, workflows and business rules would have been required as change approval requirements were identified or changed. Now you can achieve the same through policies which are based on a couple of simple record structures.</span></p>

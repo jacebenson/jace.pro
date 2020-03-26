@@ -1,6 +1,7 @@
 ---
 title: "Three tips for getting customer services house in order for AI and automation"
 date: 2020-02-24T23:27:41.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e17759a3db8b88d04819fb2439961900"
 ---
 <p><img class="wp-image-4621" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2020/02/daniele-levis-pelusi-pp9qkev_xpk-unsplash.jpg" alt="" width="330" height="219" align="left" /></p>

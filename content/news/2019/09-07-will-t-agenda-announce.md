@@ -1,6 +1,7 @@
 ---
 title: "Agenda announced  SNUG Meeting in Birmingham  th Sept"
 date: 2019-09-06T18:10:52.000Z
+authors: ["Will T"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d4d43f58db7bff4813b5fb24399619fc"
 ---
 <p>Don’t miss out! Last chance to register to attend the SNUG meeting in Birmingham.</p>

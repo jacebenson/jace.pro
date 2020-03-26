@@ -1,6 +1,7 @@
 ---
 title: "Presenting at K  Developing a world class technical team"
 date: 2018-03-28T01:30:12.000Z
+authors: ["Andy Ho"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=88f1d2eadbcddfc42e247a9e0f9619d2"
 ---
 <p>I&#39;ve been asked present at Knowledge18 this year. It&#39;s one of those sessions that will be delivered in the Pavilion (showroom floor area) and not a traditional lab type delivery. It will likely be 30 minutes and will seek to provide customers and partners with an introduction to the topic at hand, in my case, our training and certification programs.</p>

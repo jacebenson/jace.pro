@@ -1,6 +1,7 @@
 ---
 title: "Kingston Theme Properties Visual Guide"
 date: 2017-11-23T12:03:46.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=afcda2e9dbd0dbc01dcaf3231f9619e8"
 ---
 <p><strong>Other posts related to Themes<br /></strong><a class="jive_macro jive_macro_blogpost" title="" href="community?id&#61;community_blog&amp;sys_id&#61;40dd26e9dbd0dbc01dcaf3231f96197e" rel="nofollow">&#34;Helsinki Gray&#34; UI16 Theme<br /></a><a class="jive_macro jive_macro_blogpost" title="Istanbul Theme Properties Visual Guide" href="community?id&#61;community_blog&amp;sys_id&#61;de5eaaaddbd0dbc01dcaf3231f96193c" rel="nofollow">Istanbul Theme Properties Visual Guide<br /></a><a class="jive_macro jive_macro_blogpost" title="Jakarta Theme Properties Visual Guide" href="community?id&#61;community_blog&amp;sys_id&#61;a7ace625dbd0dbc01dcaf3231f96195e" rel="nofollow">Jakarta Theme Properties Visual Guide<br /></a><a class="jive_macro jive_macro_blogpost" title="Jakarta Theme Properties Visual Guide" href="community?id&#61;community_blog&amp;sys_id&#61;a7ace625dbd0dbc01dcaf3231f96195e" rel="nofollow"><br /></a></p>

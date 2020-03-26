@@ -1,6 +1,7 @@
 ---
 title: "Crestron Asset Classes for  ServiceNow"
 date: 2019-09-23T16:32:54.000Z
+authors: ["Matthew Fearnley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0b6187b91b400494fff162c4bd4bcbc6"
 ---
 

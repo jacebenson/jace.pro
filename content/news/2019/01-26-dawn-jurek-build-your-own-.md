@@ -1,6 +1,7 @@
 ---
 title: "Build your own upgradesafe workflows with Flow Designer and automated tests"
 date: 2019-01-26T02:52:02.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7b3af354db93ab80afc902d5ca9619bc"
 ---
 <p>Getting users the roles they need is a company-wide hassle<span class="ng-binding">—y</span>ou have to ask the user&#39;s manager for approval, then ask the System Administrator for approval, then wait for the System Administrator to update the user&#39;s record—all over email. There has to be a way to automate this process!</p>

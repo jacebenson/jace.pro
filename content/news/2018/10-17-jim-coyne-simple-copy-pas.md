@@ -1,6 +1,7 @@
 ---
 title: "Simple CopyPaste UI Page"
 date: 2018-10-16T10:21:30.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=00bc1c33db85eb00b2102926ca9619f3"
 ---
 <h5>Included in the <a href="community?id&#61;community_blog&amp;sys_id&#61;b3c843aadb892b40fece0b55ca961906" rel="nofollow">Developer Toolbox</a> Update Set available on Share (link in the &#34;Developer Toolbox&#34; post).</h5>

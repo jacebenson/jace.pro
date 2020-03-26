@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Save Time and Headaches with ServiceNows Script Debugger"
 date: 2018-07-18T18:49:56.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=aaf1fab2dbdf9740200f0b55ca961959"
 ---
 <p><br /><img class="image-3 jive-image" style="padding-right: 8px; width: 98px; height: 98px;" src="f2c8ebf1db54dfc0b322f4621f9619ac.iix" alt="expert-logo-2.png" width="98" height="98" align="left" />Hunting down bugs can be a real time killer. Find out how you can develop complex solutions faster using a scripting debugger in this fun, informative webinar.</p>

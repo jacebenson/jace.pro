@@ -1,6 +1,7 @@
 ---
 title: "Wanted Customer Success Center Feedback"
 date: 2019-03-06T03:41:57.000Z
+authors: ["Dan Bruhn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=43ab78cddb843b805ed4a851ca96196f"
 ---
 <p>ServiceNow is committed to your success and we are in the process of conducting user research to take the current <a href="https://www.servicenow.com/success.html" rel="nofollow">Customer Success Center</a> to the next level.</p>

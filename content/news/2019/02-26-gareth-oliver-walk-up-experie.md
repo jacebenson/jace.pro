@@ -1,6 +1,7 @@
 ---
 title: "Walkup Experience  branding the experience"
 date: 2019-02-26T05:46:01.000Z
+authors: ["gareth.oliver"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2e5b8ce2dbf3af04e0e80b55ca9619c0"
 ---
 <p>Have you seen the new Walk-up experience?</p>

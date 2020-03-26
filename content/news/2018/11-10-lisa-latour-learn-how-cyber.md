@@ -1,6 +1,7 @@
 ---
 title: "Learn How Cybersecurity Leaders Avoid Data Breaches in Healthcare  Webinar"
 date: 2018-11-10T04:11:07.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=13e9af6bdbe5eb40fb4ae15b8a9619ec"
 ---
 <p>With new software vulnerabilities being discovered every day, it’s not a matter of if, but a question of when hackers will use these vulnerabilities to infiltrate a healthcare organization. A survey commissioned by ServiceNow with the Ponemon Institute, revealed 50% of respondents experienced one or more data breaches in the last two years. The majority of cybersecurity experts are struggling to keep pace. Faced with hacker onslaught, healthcare organizations need new approaches to keep patient data, assets and their information safe.</p>

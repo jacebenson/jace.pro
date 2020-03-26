@@ -1,6 +1,7 @@
 ---
 title: "LAST CHANCE TO REGISTER  Become a Zero Touch Operator  New York"
 date: 2019-05-24T18:36:22.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=52bbcb26db2577c423f4a345ca961982"
 ---
 <p> </p>

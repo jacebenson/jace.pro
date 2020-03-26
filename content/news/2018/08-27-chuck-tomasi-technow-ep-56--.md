@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Extend IntegrationHub with Custom Spokes"
 date: 2018-08-27T03:20:31.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=35dc95abdb8c2344fece0b55ca96193a"
 ---
 <p><br /><img class="image-3 jive-image" style="padding-right: 8px; width: 98px; height: 98px;" src="f2c8ebf1db54dfc0b322f4621f9619ac.iix" alt="expert-logo-2.png" width="98" height="98" align="left" />IntegrationHub offers no-code capability to connect to third party APIs using Flow Designer. These integrations, known as spokes are easy to configure and enable you to quickly add powerful actions without the need to write script.</p>

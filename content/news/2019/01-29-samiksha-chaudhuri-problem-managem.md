@@ -1,6 +1,7 @@
 ---
 title: "Problem Management  Why do we need it"
 date: 2019-01-28T22:29:34.000Z
+authors: ["Samiksha Chaudhuri"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=40fa9ed1db5ba3c0d6a102d5ca961936"
 ---
 <p class="p1"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">Problem management can be one of the most beneficial IT service management disciplines, but it can also be one of the most difficult to justify and maintain. It investigates recurring incidents, the root cause of incidents, and provides a focus on incident prevention.</span></p>

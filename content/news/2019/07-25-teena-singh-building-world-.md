@@ -1,6 +1,7 @@
 ---
 title: "Building World Class Online Experiences  Episode "
 date: 2019-07-24T06:42:14.000Z
+authors: ["Teena Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7f31368adb7abf800be6a345ca9619d4"
 ---
 <p><span style="font-size: 12pt;"><strong> Episode 1: Transforming your ability to obtain service and support from ServiceNow </strong></span></p>

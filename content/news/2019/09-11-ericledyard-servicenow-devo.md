@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow DevOps Podcast Episode   Chris Pope aka The Pope"
 date: 2019-09-10T22:55:30.000Z
+authors: ["ericledyard"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=745c55f1db7bf30c14d6fb24399619c3"
 ---
 <p><iframe src="https://www.youtube.com/embed/e5eYrqdE1YQ" width="560" height="315"></iframe> <iframe title="ServiceNow DevOps Podcast Series: Episode 2 – Chris Pope – DOES 2019 London" src="https://omny.fm/shows/servicenow-cloudcast/servicenow-devops-podcast-series-episode-2-chris-p/embed?style&#61;artwork" width="100%" height="180"></iframe></p>

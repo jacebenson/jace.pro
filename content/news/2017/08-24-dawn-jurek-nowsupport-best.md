@@ -1,6 +1,7 @@
 ---
 title: "NOWSupport best practices series list"
 date: 2017-08-23T22:47:27.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6e7d6269dbd0dbc01dcaf3231f9619c0"
 ---
 <p><span style="color: #666666; font-family: arial, sans-serif;">Behind the scenes here at ServiceNow, the Knowledge Management and Multimedia teams work closely with subject matter experts to disseminate critical information to our customers. We&#39;ve found that certain topics come up frequently, in the form of best practices that can help you keep your ServiceNow instances running smoothly. This series targets those topics so that you and your organization can benefit from our collective expertise. If you have a best practices topic you&#39;d like us to cover in this series, please let us know in the comments below.</span></p>

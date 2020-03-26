@@ -1,6 +1,7 @@
 ---
 title: "o SNUG So Paulo  Quer Participar do Painel de Melhores Prticas"
 date: 2018-08-18T00:24:46.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9b4e52e0dbc82b80a39a0b55ca9619f7"
 ---
 <p>Prezados Membros da Comunidade, </p>

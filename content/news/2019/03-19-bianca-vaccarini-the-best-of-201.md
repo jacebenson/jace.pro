@@ -1,6 +1,7 @@
 ---
 title: "The Best of   most popular Knowledge Base solutions and workarounds"
 date: 2019-03-19T02:21:20.000Z
+authors: ["bianca.vaccarini"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=00a33709db983f44fece0b55ca9619df"
 ---
 <p>While the community is a great resource for customer testimonials and unconventional solutions around the platform, the Knowledge Base is home for ServiceNow-created content. In the Knowledge Base you can count on the information coming straight from the source. That being said, you may not always get the news you want to hear from us in the KB, as opposed to a &#34;workaround&#34; shared on the community. Of course, always approach with caution when venturing into <a title="" href="/community?id&#61;community_blog&amp;sys_id&#61;666d2e29dbd0dbc01dcaf3231f96195e" rel="nofollow">your own customizations.</a></p>

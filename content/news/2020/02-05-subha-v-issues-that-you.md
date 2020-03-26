@@ -1,6 +1,7 @@
 ---
 title: "Issues that you did not know about a multirow variable set"
 date: 2020-02-04T12:54:55.000Z
+authors: ["Subha V"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=15d6c8811b328010a59033f2cd4bcbf9"
 ---
 <p><span class="TextRun SCXW8253356 BCX0" lang="EN-US"><span class="NormalTextRun SCXW8253356 BCX0">Use a multi-row variable set</span></span><span class="TextRun SCXW8253356 BCX0" lang="EN-US"><span class="NormalTextRun SCXW8253356 BCX0"> (MRVS)</span></span><span class="TextRun SCXW8253356 BCX0" lang="EN-US"><span class="NormalTextRun SCXW8253356 BCX0"> to capture variable data in a grid layout while submitting a catalog item request for a group of entities.</span></span><span class="EOP SCXW8253356 BCX0"> </span></p>

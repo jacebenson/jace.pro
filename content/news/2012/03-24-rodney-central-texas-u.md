@@ -1,6 +1,7 @@
 ---
 title: "Central Texas User Group SPECIAL GUEST  Jeff Gonzalez Clear Channel Communications"
 date: 2012-03-24T04:05:33.000Z
+authors: ["Rodney"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f65c2aa1dbd0dbc01dcaf3231f961941"
 ---
 <p>As with every Local User Group, the best stuff, the greatest value comes from the Local Users! Real stories, real questions and detailed examples that you can make use of at your organization.<br /><br />Jeff Gonzalez (Clear Channel Communications) is just that kind of presenter! At our meeting, he is going to present two related stories. The first relates his experience enabling their business unit, outside of IT, with clever usage of the ServiceNow Platform in a talk called "Light it Up". <br /><br />He then brings the audience inside his organization and describes how Clear Channel is able to leverage a strong ITSM program to fuel this type of success with his topic "Collaborating Across Domains".<br /><br />We look forward to the presentation and Jeff's generosity with his time!<br /><br />See everyone in April!!</p>

@@ -1,6 +1,7 @@
 ---
 title: "Poorly Planned Proactive Service Is Worse Than Poor Customer Service"
 date: 2018-03-12T21:20:59.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4b094879db781b007b337a9e0f961953"
 ---
 <p><img class="alignnone  wp-image-3097" src="https://insightsincustomerservice.files.wordpress.com/2018/03/sadness-513527.jpg" alt="sadness-513527" width="463" height="296" align="right" />It&#39;s tax season in the United States. Despite the digital era we live in, completing your taxes yourself or with an accountant still means collecting forms–income statements from employers, mortgage interest statements, property tax statements, and other financial statements. Many companies provide their statements online in downloadable PDF format when they become available, so I don&#39;t have a growing pile of paper on my desk. It&#39;s still a lot of forms to contend with.</p>

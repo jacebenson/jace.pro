@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Nomeada pela Forbes como a Mais Inovadora do Mundo"
 date: 2018-05-30T18:12:23.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6273dec3dbda9bc0fac7f4621f9619b9"
 ---
 <p>Em edição especial publicada em 28 de Maio, a ServiceNow foi nomeada pela Revista Forbes como a Empresa Mais Inovadora do Mundo.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Welcome to the COVID Resources forum"
 date: 2020-03-16T23:55:20.000Z
+authors: ["community.moderator"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1ae4fd1adba74c141cd8a345ca96197e"
 ---
 <p><span style="font-size: 12pt;"><img src="https://community.servicenow.com/39c13a96dbab8c141cd8a345ca9619e2.iix" /></span></p>

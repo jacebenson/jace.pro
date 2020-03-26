@@ -1,6 +1,7 @@
 ---
 title: "HR Service CloneCopy Feature"
 date: 2019-08-30T01:03:13.000Z
+authors: ["Michael Ritchie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ae76008edb6fbf4413b5fb243996194a"
 ---
 <p>Throughout the ServiceNow platform you will find Copy and Clone buttons to copy various types of records.  For example in the Service Catalog while viewing/editing a Record Producer there is a Copy button that copies the record producer, variables, UI Policies, Client Scripts, etc.  Unfortunately the capability of copying a HR Service doesn&#39;t exist out of the box until now.</p>

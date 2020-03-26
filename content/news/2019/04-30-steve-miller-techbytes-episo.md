@@ -1,6 +1,7 @@
 ---
 title: "TechBytes Episode  Change Management"
 date: 2019-04-29T21:35:22.000Z
+authors: ["Steve Miller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e4f48766dbc173445129a851ca9619c7"
 ---
 <p><iframe title="Episode 51: Change Management" src="https://omny.fm/shows/servicenow-techbytes/episode-51-change-management/embed" width="100%" height="180"></iframe></p>

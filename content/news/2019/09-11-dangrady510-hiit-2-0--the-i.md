@@ -1,6 +1,7 @@
 ---
 title: "HIIT  The Incremental Benefits of Machine Learning"
 date: 2019-09-11T02:04:18.000Z
+authors: ["dangrady510"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6a878ab1db73fb0c13b5fb2439961905"
 ---
 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 14pt;">Like many of us, I could benefit from losing a few pounds (maybe more than just a few).</span></p>

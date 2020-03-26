@@ -1,6 +1,7 @@
 ---
 title: "Video Community Live Stream  "
 date: 2019-06-14T20:21:45.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6e3dabd1db8677c05129a851ca96196b"
 ---
 <p>Episode topics include:</p>

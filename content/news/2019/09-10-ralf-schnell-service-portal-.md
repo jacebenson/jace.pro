@@ -1,6 +1,7 @@
 ---
 title: "Service Portal Drag  Drop Attachments"
 date: 2019-09-09T13:55:11.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d4179a9ddbf7bfcc1cd8a345ca9619f5"
 ---
 <p>Sehr geehrte SNUG-Mitglieder,</p>

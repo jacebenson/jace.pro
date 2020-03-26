@@ -1,6 +1,7 @@
 ---
 title: "Whats New in Madrid for HR Service Delivery"
 date: 2019-02-26T02:50:18.000Z
+authors: ["ninsandhu"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=24236b52db7fa7c013b5fb24399619a9"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.comhttps://community.servicenow.com/e0dfe751db88ff48190dfb24399619f6.iix" /></p>

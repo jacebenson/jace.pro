@@ -1,6 +1,7 @@
 ---
 title: "Service Catalog Video Playlist"
 date: 2017-07-08T04:16:24.000Z
+authors: ["marystromberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e61e626ddbd0dbc01dcaf3231f961920"
 ---
 <p>This Getting Started with Service Catalog video series provides information on the roles, categories, items, and record producers in the service catalog. It also explains the difference and uses of execution plans and workflows for service catalog item processing.</p><p></p><p>These videos apply to the Istanbul release, but may apply to future releases as well. The admin, catalog_admin, catalog_manager, or catalog_editor roles are required to perform some functions.</p><p></p><p style="text-align: center;"><em>For best video quality, increase your player resolution to 1080p.</em></p><p></p><p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/videoseries?list=PLCOmiTb5WX3qj9aIqq7e9-eWwTKHl-xEF" width="640"> 

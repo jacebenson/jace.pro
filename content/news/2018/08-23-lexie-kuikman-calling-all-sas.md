@@ -1,6 +1,7 @@
 ---
 title: "Calling all Saskatchewan SNUG Members"
 date: 2018-08-23T03:27:50.000Z
+authors: ["Lexie Kuikman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4228b056db406fc0fece0b55ca96198a"
 ---
 <p>We are planning our next Regina SNUG, coming early October!</p>

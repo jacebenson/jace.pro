@@ -1,6 +1,7 @@
 ---
 title: "Now Learning Blog  MicroCertifications Equal Big Impact"
 date: 2020-01-28T00:38:20.000Z
+authors: ["Julie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6f1b956edb660c142be0a851ca9619cf"
 ---
 <p class="p1"><span style="font-family: helvetica; font-size: 12pt;">In my last blog, I reviewed the mainline Certified Implementation Specialist (CIS), Certified Application Developer (CAD), Certified System Administrator (CSA) and Certified Application Specialist (CAS) certifications.<span class="Apple-converted-space">  </span>In this week’s blog, I will cover the Micro Certification program and available micro-certifications. Micro<span class="s1">‑</span>certifications validate your expertise in newer or niche areas with non<span class="s1">‑</span>proctored exams. ServiceNow expertise is tremendously valuable and in demand and as organizations scale and utilize ServiceNow in more ways than ever before. Getting micro-certifications in specialized areas can help you validate and gain confidence in your unique set of skills.<span class="Apple-converted-space">  </span>Additionally, many of the courses associated with micro-certifications are available to you to take free of charge!</span></p>

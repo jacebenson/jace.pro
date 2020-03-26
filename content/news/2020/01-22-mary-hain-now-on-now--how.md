@@ -1,6 +1,7 @@
 ---
 title: "Now on Now How we digitally transformed our internal patent application process using the Now Platform"
 date: 2020-01-21T06:59:03.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=142fae14db668450feb1a851ca96192a"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/251eaa90db668450feb1a851ca9619d4.iix" /></p>

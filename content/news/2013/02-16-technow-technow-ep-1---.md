@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   ServiceNow Jelly Scripting  Part  of "
 date: 2013-02-16T00:25:27.000Z
+authors: ["TechNow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f95da629dbd0dbc01dcaf3231f961903"
 ---
 <p>Welcome to TechNow - the web series for ServiceNow developers and administrators on a variety of Now Platform topics. New episodes are available roughly once a month from subject matter experts.</p>

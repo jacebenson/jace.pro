@@ -1,6 +1,7 @@
 ---
 title: "The Secrets of GlideDateTime"
 date: 2017-12-14T13:28:28.000Z
+authors: ["Paul Morris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bc0e6a2ddbd0dbc01dcaf3231f961931"
 ---
 <p>Working with Dates in ServiceNow can be quite challenging.</p>

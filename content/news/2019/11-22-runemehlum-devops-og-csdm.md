@@ -1,6 +1,7 @@
 ---
 title: "DevOps og CSDM"
 date: 2019-11-21T17:32:46.000Z
+authors: ["runemehlum"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ec37fa301b594410a59033f2cd4bcbae"
 ---
 <p>Hei</p>

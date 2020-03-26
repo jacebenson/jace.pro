@@ -1,6 +1,7 @@
 ---
 title: "NEW Success Playbook Realize and manage value from your ServiceNow investments"
 date: 2020-01-23T03:13:26.000Z
+authors: ["Deaddin Edris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=daae0401db66809013b5fb2439961954"
 ---
 <p class="p1">We here at ServiceNow understand how important it is to track and improve upon the return your company gets from the technology you’ve invested in. Naturally, you should also be equipped with the knowledge and resources necessary to do so for your ServiceNow investments.</p>

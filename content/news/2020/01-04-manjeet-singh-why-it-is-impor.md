@@ -1,6 +1,7 @@
 ---
 title: "Why it is Important to Make Continual Improvement as a Business Strategy in "
 date: 2020-01-04T03:46:29.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3500e67edb4280101cd8a345ca96198a"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/738f1efadb4280101cd8a345ca961974.iix" width="738" height="295" /></p>

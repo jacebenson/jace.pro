@@ -1,6 +1,7 @@
 ---
 title: "Variable Information of Catalog Item in Question and Value format"
 date: 2018-12-22T12:43:50.000Z
+authors: ["Deepak Ingale"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d302b91ddb2a23009540e15b8a9619fa"
 ---
 <p>Hello,</p>

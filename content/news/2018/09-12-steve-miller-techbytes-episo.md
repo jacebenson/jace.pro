@@ -1,6 +1,7 @@
 ---
 title: "TechBytes Episode  New content for Discovery"
 date: 2018-09-11T21:28:40.000Z
+authors: ["Steve Miller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3bb5a66cdb64af0ca39a0b55ca9619af"
 ---
 <p><iframe src="https://omny.fm/shows/servicenow-techbytes/episode-44-new-content-for-discovery/embed?style&#61;artwork" width="100%" height="180"></iframe></p>

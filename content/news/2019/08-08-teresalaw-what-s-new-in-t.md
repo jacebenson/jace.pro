@@ -1,6 +1,7 @@
 ---
 title: "Whats new in the New York release for GRC that helps manage risky business"
 date: 2019-08-07T08:42:16.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fef21366db0bbf8813b5fb2439961999"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/c4793ca3db673b08190dfb2439961939.iix" /></p>

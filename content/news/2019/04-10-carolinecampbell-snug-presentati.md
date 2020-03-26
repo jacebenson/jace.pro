@@ -1,6 +1,7 @@
 ---
 title: "SNUG Presentations from March th"
 date: 2019-04-10T03:39:45.000Z
+authors: ["carolinecampbell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=47881d50dbb4b308feb1a851ca96190c"
 ---
 <p>Thanks to all who attended the last Arkansas SNUG on March 27th. I&#39;ve added presentations from ITS Partners, HGS Holdings and Verizon (attached)</p>

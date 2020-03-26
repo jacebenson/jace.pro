@@ -1,6 +1,7 @@
 ---
 title: "Invitation til Innovation workshop  september"
 date: 2019-07-23T17:01:39.000Z
+authors: ["Tina Nord Graa"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2b65733d1b3ebb40fff162c4bd4bcb1f"
 ---
 <p>Kære alle,</p>

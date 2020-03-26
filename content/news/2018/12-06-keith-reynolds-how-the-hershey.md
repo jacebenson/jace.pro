@@ -1,6 +1,7 @@
 ---
 title: "How The Hershey Company Approaches Integrated Risk Management on ServiceNow"
 date: 2018-12-05T23:16:40.000Z
+authors: ["Keith Reynolds"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2bdfd880db526b00fb115583ca961952"
 ---
 <p><span style="font-size: 14pt;"><strong>Integrated Risk Management Session, NOW Summit on November 7, 2018</strong></span></p>

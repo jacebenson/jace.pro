@@ -1,6 +1,7 @@
 ---
 title: "Creating a report based on more than one Dataset multiple datasets"
 date: 2018-12-13T06:15:07.000Z
+authors: ["Eric Weischedel"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b1c20e1adb926380fb115583ca96195d"
 ---
 <p>A question or request that Customer Support commonly receives from our users is whether there is a way to create a report that will <a href="http://bit.ly/KBReportMultipleDatasets" target="_blank" rel="noopener noreferrer nofollow">display data from two or more datasets</a>. The answer to this question, to the positive feedback from our users is a definite <strong>Yes</strong>.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Latest Release of Certification SelfTest Tool is Launched"
 date: 2018-04-27T23:19:05.000Z
+authors: ["Pradeep Sharma"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=613d9524dbb95f80fc5b7a9e0f96195d"
 ---
 <p>Attention Technology Partner developers, we have recently released an updated version of Certification Self-Test Tool, which will have new additional best practice checks. For those of you who have not installed the Certification Self-Test Tool and are new to this process, please refer to the following summary and for those of you who are aware of Certification Self-Test Tool and have the previous version installed in VENXXXXX instance, feel free to skip the summary and refer the section &#34;Steps to Install the Certification Self-Test Tool&#34;.</p>

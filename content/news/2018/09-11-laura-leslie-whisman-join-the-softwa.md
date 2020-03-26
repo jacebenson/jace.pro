@@ -1,6 +1,7 @@
 ---
 title: "Join the Software Asset Management Seminar in Newport Beach on "
 date: 2018-09-10T23:34:52.000Z
+authors: ["Laura Leslie Whisman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=aa093190dbe4a70ca39a0b55ca96195a"
 ---
 <p>Hello LA User Group Community,</p>

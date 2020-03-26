@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Work smarter with machine learningdriven automation"
 date: 2018-11-22T00:31:13.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9baa6cebdbbdaf402e8c2183ca9619cf"
 ---
 <p><img style="padding-right: 8px; width: 98px; height: 98px;" src="88630d4ddb61ef004abd5583ca961984.iix" alt="expert-logo-2.png" width="98" height="98" align="left" />Does your organization struggle with an ever-increasing volume of tickets? Are your agents inundated with tickets that are categorized and routed incorrectly? ServiceNow® Agent Intelligence enables you to decrease resolution times and increase customer satisfaction using machine-learning algorithms to set field values during record creation, such as setting the incident category and assignment group based on the short description – letting your agents focus on what they do best. Join the TechNow team, along with special guest Matt Train, ServiceNow Sr. Advisory Solution Consultant, as they explore the depths of Agent Intelligence and how it can be put to work for you.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Unlearn Series  Verifying the fastest way to find atleast one result"
 date: 2019-11-01T16:45:40.000Z
+authors: ["Kalaiarasan Pushpanathan"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1a5a7fdedb34c850d82ffb2439961996"
 ---
 <p><span style="font-family: verdana, geneva; font-size: 12pt;">We all have to implement a requirement commonly where atleast one record/result exists before we do some processing. Example, a emergency change has atleast one incident attached to it before we allow the user to submit it. We have atleast 6 different ways to do this query (probably more) and find if atleast one such record exists.</span></p>

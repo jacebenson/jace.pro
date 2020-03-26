@@ -1,6 +1,7 @@
 ---
 title: "DevOps presentation  Houston September SNUG"
 date: 2019-09-26T22:37:11.000Z
+authors: ["Mark.Bailey"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9891f772dbc8c058d58ea345ca9619c3"
 ---
 <p>Thank you Richard Hawes.</p>

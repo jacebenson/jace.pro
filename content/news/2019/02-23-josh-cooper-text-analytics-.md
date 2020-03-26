@@ -1,6 +1,7 @@
 ---
 title: "Text Analytics on a Catalog Variable"
 date: 2019-02-22T23:20:06.000Z
+authors: ["Josh Cooper"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9c46571ddbf7a7c0fff8a345ca96194e"
 ---
 <p>In a previous article, I discussed the business value of using Text Analytics against data captured from a Generic Catalog Request, and that article was written from the basis that the actual information submitted in the variable was being captured in a custom field on the form. The question came up recently about how to turn loose the power of text analytics when you’re not so lucky, and the input from the user exists only as captured in the variable itself.</p>

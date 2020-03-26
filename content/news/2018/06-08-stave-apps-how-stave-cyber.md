@@ -1,6 +1,7 @@
 ---
 title: "How Stave Cybersecurity Manager Helped GCSSArmy"
 date: 2018-06-08T03:28:28.000Z
+authors: ["Stave Apps"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9a7f1d7ddba69b808e7c2926ca96199b"
 ---
 <p><strong>The Customer</strong></p>

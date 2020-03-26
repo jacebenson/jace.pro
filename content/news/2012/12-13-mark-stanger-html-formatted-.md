@@ -1,6 +1,7 @@
 ---
 title: "HTMLformatted Email Client Message Text"
 date: 2012-12-12T20:02:10.000Z
+authors: ["Mark Stanger"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d59daa69dbd0dbc01dcaf3231f9619d2"
 ---
 <p>The <a href="http://wiki.servicenow.com/index.php?title=Enabling_the_Email_Client" title="ServiceNow Email Client" target="_blank">ServiceNow email client</a> is a great way to allow technicians to send ad-hoc email notifications from within ticket and other forms. One common request I've seen for the email client is to allow the creation of html-formatted messages. Of course, it's possible to manually code the HTML, but it's much easier with a WYSIWYG editor to help with code generation and formatting.<br /><br />In this post, I'll show you a technique that Valor Poland shared with me a year or so ago that changes the email client 'Message Text' field to an HTML-based field for this purpose.<br /> <br /><center><a href="http://www.servicenowguru.com/system-definition/email-notifications-system-definition/htmlformatted-email-client-message-text/"><img src="http://www.servicenowguru.com/wp-content/uploads/2012/12/HTMLEmailClient-300x190.jpeg" alt="HTML Email Client" title="HTML Email Client" width="300" height="190" class="aligncenter size-medium wp-image-4713" /></a><br /><h3>Learn more at ServiceNowGuru.com!</h3><br /></center><br /><!--break--></p>

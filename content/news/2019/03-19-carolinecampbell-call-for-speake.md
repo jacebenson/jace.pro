@@ -1,6 +1,7 @@
 ---
 title: "Call for Speakers for March st SNUG"
 date: 2019-03-18T20:49:57.000Z
+authors: ["carolinecampbell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f1c7ee45db947f045129a851ca96198f"
 ---
 <h3><span style="color: #666666; font-family: arial, sans-serif;">North Texas ServiceNow Community! </span></h3>

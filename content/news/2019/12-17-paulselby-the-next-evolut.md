@@ -1,6 +1,7 @@
 ---
 title: "The next evolution of customer service is comingand its amazing"
 date: 2019-12-16T22:59:22.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d8b1fccddbbdc810190dfb24399619bf"
 ---
 <p><img class="wp-image-4360" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2019/12/man-working-using-a-laptop-2696299.jpg" alt="" width="303" height="404" align="right" /></p>

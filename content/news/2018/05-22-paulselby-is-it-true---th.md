@@ -1,6 +1,7 @@
 ---
 title: "Is It True The Best Service Is No Service"
 date: 2018-05-21T21:27:47.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=49e9a4d0dbd297002d1efb651f9619b3"
 ---
 <p>&#34;The best service is no service.&#34;</p>

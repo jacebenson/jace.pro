@@ -1,6 +1,7 @@
 ---
 title: "Does size matter   Getting to know your instance like how big is it anyway"
 date: 2018-10-08T19:40:31.000Z
+authors: ["Jeff Currier"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3aef0151db4d67c0fece0b55ca9619bb"
 ---
 <p>While ServiceNow takes care of the instance, there are many questions we would like to ask about our instance.  Some are easy to find, and some are hard to find.  Recently I was looking to determine the size of an instance and that fell into the hard category.  However, after some research I determined there was a small new gem hidden in London which would help.  The Application Usage Overview has been part of the ServiceNow Platform since the Jakarta release.  However in London, instance size was added.</p>

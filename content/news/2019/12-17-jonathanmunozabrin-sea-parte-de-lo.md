@@ -1,6 +1,7 @@
 ---
 title: "Sea parte de los speakers de Knowledge "
 date: 2019-12-16T21:48:51.000Z
+authors: ["jonathanmunozabrin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5381a04d1b718810a59033f2cd4bcbaf"
 ---
 <p>Estimada comunidad!!!</p>

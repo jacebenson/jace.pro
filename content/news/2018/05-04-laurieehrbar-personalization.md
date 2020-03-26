@@ -1,6 +1,7 @@
 ---
 title: "Personalization is key to customer experience"
 date: 2018-05-03T20:19:00.000Z
+authors: ["laurieehrbar"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9e8d2bd2dbb99b004e1df4621f96195d"
 ---
 <p>By Rene Haeberlin</p>

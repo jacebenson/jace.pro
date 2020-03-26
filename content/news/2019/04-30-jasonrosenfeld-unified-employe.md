@@ -1,6 +1,7 @@
 ---
 title: "Unified Employee Experience Innovation for the Enterprise of Tomorrow Today"
 date: 2019-04-29T19:54:56.000Z
+authors: ["jasonrosenfeld"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5dfdeee2db45bbc4a39a0b55ca9619a2"
 ---
 <p>As Cask’s Vice President, I consider it an honor to meet with customers large and small, global and local, and in the public and private sectors on a weekly basis.</p>

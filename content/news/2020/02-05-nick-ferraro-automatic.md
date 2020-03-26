@@ -1,6 +1,7 @@
 ---
 title: "Automatic"
 date: 2020-02-05T01:46:06.000Z
+authors: ["Nick Ferraro"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c6573e49db3a4c581cd8a345ca9619b0"
 ---
 <p>When I was learning to drive, my Mom told me I had an advantage. It would be easier for me than it was for her because I could focus on learning to control the car. When she learned to drive, it was more difficult because in addition to learning to handle the car, she also was learning how to shift gears manually. I couldn’t argue that. I was holding the wheel tightly with two hands and had a hard time imagining using one hand to try to shift at the same time. ‘Automatics’ were easier, she said.</p>

@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Faster Access Control List Rules"
 date: 2014-01-13T22:24:02.000Z
+authors: ["TechNow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=569c6ee1dbd0dbc01dcaf3231f9619c9"
 ---
 <p><span style="color: #404040; font-family: Roboto, arial, sans-serif; font-size: 13px;">Performance can suffer when your ACLs use a script to query the database over and over to get the same result. Andrew and Chuck show you a way to make the system &#34;remember&#34; repeat queries and cache the answer for better performance.</span></p>

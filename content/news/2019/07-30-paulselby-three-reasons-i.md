@@ -1,6 +1,7 @@
 ---
 title: "Three reasons its time to go beyond CRM for customer service"
 date: 2019-07-29T21:12:58.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a3786733db323b840be6a345ca9619ae"
 ---
 <p><img class="wp-image-3807" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/07/blur-broken-close-up-1127121.jpg" alt="" width="249" height="374" align="right" /></p>

@@ -1,6 +1,7 @@
 ---
 title: " West Michigan User Group Holland  PARKING Update"
 date: 2014-06-05T00:59:54.000Z
+authors: ["allison.asplund"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=903d2ae5dbd0dbc01dcaf3231f961995"
 ---
 <p><span style="font-size: 12pt; font-family: times new roman,times;">Hello,</span></p><p></p><p><span style="font-family: times new roman,times; font-size: 12pt;">Please note the following parking update for the 6/5 West Michigan User Group.</span></p><p></p><p><span style="font-family: times new roman,times; font-size: 12pt;">Park Township is doing sewer work on Ottawa Beach Road.   The work as now closed the intersection of Waukazoo Drive and Ottawa Beach Road, by the Mobile Gas Station.</span></p><p></p><p><span style="font-size: 12pt; font-family: times new roman,times;">There is a posted detour that will take drivers farther west on Ottawa Beach to 160th and then to Post Ave, back to Waukazoo.   </span></p><p><span style="font-size: 12pt; font-family: times new roman,times;"><br/></span></p><p><span style="font-size: 12pt; font-family: times new roman,times;">Allison</span></p>

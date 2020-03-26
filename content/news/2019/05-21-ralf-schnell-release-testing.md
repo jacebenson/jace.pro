@@ -1,6 +1,7 @@
 ---
 title: "Release Testing Preview und Early Availability"
 date: 2019-05-20T12:32:58.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=003219d1db61b704e0e80b55ca96192b"
 ---
 <p>Sehr geehrte SNUG-Mitglieder!</p>

@@ -1,6 +1,7 @@
 ---
 title: "o SNUG  Agenda Atualizada"
 date: 2018-08-28T00:27:42.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=48eef177db4ce784a39a0b55ca961984"
 ---
 <p>Agenda Atualizada</p>

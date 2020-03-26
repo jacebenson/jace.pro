@@ -1,6 +1,7 @@
 ---
 title: "We love our customers  a BIG thank you from ServiceNow Support"
 date: 2017-06-13T04:03:45.000Z
+authors: ["bianca.vaccarini"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c18c66e1dbd0dbc01dcaf3231f9619f1"
 ---
 <p>The Knowledge Conference is the one time a year where you get to meet and greet with all of the big wigs of ServiceNow. We get to see Pat Casey in the thralls of CreatorCon bliss. Executives like Fred Luddy, CJ Desai and Frank Slootman, and now John Donahoe, speak with such grandeur that we can't help but clap at every "if," "and" or "but." Let me tell you the one thing that gets me out of bed on the second day of Knowledge, after the opening ceremony, partner parties, and a night of demos on the expo hall floor: YOU.</p><p></p><h1>Customer Support at Knowledge17's Genius Lounge</h1><p>Our customers are some of the most interesting people I have ever had the pleasure of meeting. I remember being the new kid in school and trying to find a table to eat with at lunch when you don't know anyone. But at Knowledge, everyone has a spot at the table for you.</p><p></p><p>A few lucky Know17 attendees had the chance to schedule a one-on-one sit-down with some of our brightest support engineers at the Genius Lounge. Our awesome Orlando support team has something to say to all of our customers:</p><p></p><center><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/QdknirFcbSs" width="560"> 

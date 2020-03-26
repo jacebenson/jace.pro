@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow FlowDesigner  IntegrationHub Twitter Integration"
 date: 2018-05-05T02:07:09.000Z
+authors: ["Arnoud Kooi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=efc60a3edb355700c310fb651f9619f0"
 ---
 <p><img src="edc5427adb355700c310fb651f9619ab.iix" width="460" height="381" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "What the hackers said  ServiceNow PartnerNow Forum EMEA Hackathon"
 date: 2018-03-06T19:21:16.000Z
+authors: ["adrianbridgwater"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8c66a837db2c9b4c2e247a9e0f961993"
 ---
 <p>This week started in a flurry of activity at the annual PartnerNow Summit in Barcelona, Spain, as I joined 100 people from ServiceNow partner organisations as they competed in a their very own Hackathon.</p>

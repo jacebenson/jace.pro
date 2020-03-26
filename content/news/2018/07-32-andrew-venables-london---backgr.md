@@ -1,6 +1,7 @@
 ---
 title: "London Background Script Execution History and Rollback"
 date: 2018-07-31T15:28:34.000Z
+authors: ["andrew.venables"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=27804903db63530054250b55ca961938"
 ---
 <p>Wow, what a great new capability this is!</p>

@@ -1,6 +1,7 @@
 ---
 title: "Now Learning Blog  Introducing Agent Workspace Fundamentals and Implementation"
 date: 2019-12-09T22:48:12.000Z
+authors: ["Julie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a80ca0fa1b654c10fff162c4bd4bcb70"
 ---
 <p class="p1"><span style="font-family: helvetica; font-size: 12pt;">Agent Workspace was released as a Now Platform capability in the Madrid release and we are excited to announce the release of two new, free, On Demand courses covering <a href="https://nowlearning.service-now.com/lxp?id&#61;overview&amp;sys_id&#61;68f3a1d11b198450b1c7fe631a4bcb42&amp;type&#61;course" rel="nofollow"><span class="s1">Agent Workspace Fundamentals</span></a> and <a href="https://nowlearning.service-now.com/lxp?id&#61;overview&amp;sys_id&#61;bbb70a111b998450b1c7fe631a4bcbbc&amp;type&#61;course" rel="nofollow"><span class="s1">Agent Workspace Implementation</span></a>.<span class="Apple-converted-space">  </span>These courses are available to take individually or together as part of a <a href="https://nowlearning.service-now.com/lxp?id&#61;overview&amp;sys_id&#61;4c0a5a591b5948106d6c7550cd4bcb40&amp;type&#61;path" rel="nofollow"><span class="s1">learning path</span></a>.</span></p>

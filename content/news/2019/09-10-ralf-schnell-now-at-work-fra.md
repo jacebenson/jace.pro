@@ -1,6 +1,7 @@
 ---
 title: "Now at Work Frankfurt  CreatorCon"
 date: 2019-09-09T15:05:54.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c0472699db7bffcc1cd8a345ca961922"
 ---
 <p>Sehr geehrte SNUG-Mitglieder,</p>

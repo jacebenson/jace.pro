@@ -1,6 +1,7 @@
 ---
 title: "The ISV Purpose Tour Global PartnerNow Summit at Knowledge"
 date: 2018-04-12T22:00:09.000Z
+authors: ["Martin Barclay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c34b776fdbd91b4058dcf4621f961904"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="49745c7bdb555b4058dcf4621f96193b.iix" /></p>

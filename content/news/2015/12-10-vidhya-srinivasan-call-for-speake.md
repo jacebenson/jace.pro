@@ -1,6 +1,7 @@
 ---
 title: "Call for Speaker Proposals Submission Ending December "
 date: 2015-12-10T01:42:46.000Z
+authors: ["vidhya.srinivasan"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fa1e626ddbd0dbc01dcaf3231f96196e"
 ---
 <p>Members, </p><p class="p1"><span class="s1"></span></p><p class="p1"><span class="s1">This is the final call for speaking proposals for Knowledge16! </span></p><p class="p1"><span class="s1"></span></p><p class="p1"><span class="s1">If you have a service management success story or best practice topic that you would like to discuss with your industry peers, please submit your proposal by 11:59 PM PST, Friday, December 11. As a speaker, you'll get a chance to showcase your success and solidify your reputation as a service management expert. You'll also receive a complimentary conference pass, pre-conference and on-site presentation support, and exclusive access to our Speaker Lounge.</span></p><p class="p1"><span class="s1"></span></p><p class="p1"><span class="s1">To submit your proposal, as well as get tips for submitting, and access to the speaker FAQs, <a _jive_internal="true" href="/community/knowledge-user-conference/knowledge16/speakers"><span class="s2">please click here</span></a>.</span></p>

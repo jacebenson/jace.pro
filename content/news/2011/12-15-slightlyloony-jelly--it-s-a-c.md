@@ -1,6 +1,7 @@
 ---
 title: "Jelly Its a Crazy MixedUp World"
 date: 2011-12-14T23:17:28.000Z
+authors: ["SlightlyLoony"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=91ada2a9dbd0dbc01dcaf3231f961914"
 ---
 <p>There's another aspect of Jelly that can easily confuse just about anybody. I've deliberately avoided showing it to this point, because I wanted you to have a solid understanding of the Jelly <span style="font-family=courier;color: FireBrick;">evaluate</span> tag, and Phase 1 and Phase 2 behavior first. If you're not clear on these things, <em>then don't click on the link below</em>, for that way lies madness. Instead, go back and review the earlier posts in this series until those things make sense.</p><p></p><p>If you're ready, then...</p><p></p><p>Take a look at the Jelly template below. It's a contrived example, but it concisely demonstrates the high confusion factor:</p><pre style="margin-left: 20px; line-height: 1; color: firebrick;"><br/>&lt;?xml version="1.0" encoding="utf-8"?&gt;<br/>&lt;j:jelly&gt;<br/>       &lt;g2:evaluate&gt;<br/>               var y = Math.random() * 100;<br/>               y;<br/>       &lt;/g2:evaluate&gt;<br/>       &lt;g:evaluate&gt;<br/>               color = 'Red';<br/>       &lt;/g:evaluate&gt;<br/>     <br style="margin-top: $[jvar_top]px; margin-left: $[jvar_left]px;"/><strong><br/>               This is a dumb test made just for you, $[gs.getUser().getFirstName()] $[gs.getUser().getLastName()].<br/>   </strong><br/> 

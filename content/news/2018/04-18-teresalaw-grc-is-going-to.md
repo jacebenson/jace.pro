@@ -1,6 +1,7 @@
 ---
 title: "GRC is going to ROCK ServiceNow Knowledge"
 date: 2018-04-17T07:21:01.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3102ee0ddb699304fc5b7a9e0f9619ff"
 ---
 <p>This year at K18 we have a track dedicated to Governance, Risk, and Compliance with some amazing speakers including some incredible panels.  We also have some GRC labs dedicated to help you use ServiceNow GRC to prove compliance, prepare for the GDPR, and use Vendor Risk Management to protect yourself from third party risk.</p>

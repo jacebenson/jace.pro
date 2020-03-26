@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Speaking Opportunity  CreatorCon Developer Theater at Knowledge "
 date: 2019-12-21T02:19:28.000Z
+authors: ["Lily Li"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ded5069adbf9cc14d58ea345ca9619d5"
 ---
 <p>Are you were planning to attend Knowledge 2020?  </p>

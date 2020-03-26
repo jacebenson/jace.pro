@@ -1,6 +1,7 @@
 ---
 title: "How to Repair SLAs in Kingston"
 date: 2017-11-29T19:05:46.000Z
+authors: ["knight202"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=925ce6a1dbd0dbc01dcaf3231f96198e"
 ---
 <p><span style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px;">Have you ever input the incorrect duration, forgot to add a pause condition, or made a mistake when implementing SLAs in ServiceNow?</span></p><p></p><p><span style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px;"> Even worse, did user requirements change after SLAs were implemented and the customer wants the changes to the SLAs to be retroactive? </span></p><p></p><p><span style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px;">See my video on how to repair SLAs below.</span></p><p></p><p><span style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px;"><a href="https://youtu.be/MN8vQrqRo3I" title="https://youtu.be/MN8vQrqRo3I">ServiceNow - How to Repair SLAs in Kingston - YouTube</a> </span></p>

@@ -1,6 +1,7 @@
 ---
 title: "New Now Support HI Service Catalog Item Requesting an Instance Restore"
 date: 2020-01-30T15:48:52.000Z
+authors: ["Vikas"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c0beb213dba24c94f7fca851ca961970"
 ---
 <p>You can now <a href="https://hi.service-now.com/hisp?id&#61;hisp_sc_item&amp;sys_id&#61;1f509873db50070093dc750aaf961981" target="_blank" rel="noopener noreferrer nofollow">restore your instance</a> straight from the HI Service Catalog! This catalog item is useful for those who want to revert their instance to and previous time. At ServiceNow, we are committed toward a pleasant Customer Experience and we understand that as a ServiceNow customer, you would like to have more self-service capabilities in your hand. One way we try to empower you is through our HI Service Catalog. Service Catalog on HI Service Portal has many items for you to request spanning from instance management to general access.</p>

@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Move It Getting Data and Code Moved With Ease"
 date: 2019-11-08T20:11:37.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=68ee1c30dbcdc894d82ffb2439961901"
 ---
 <p><img style="padding-right: 8px;" src="3e1d4b52dbdc3fc45129a851ca96192a.iix" alt="expert-logo-2.png" align="left" />Common questions often asked by Developers and Architects &#34;Where&#39;s the missing update?&#34;, &#34;Why can&#39;t my user see what they should?&#34;, &#34;What order do these update sets go in?&#34;. Join the December TechNow session to learn best practices in code and data movement between instances. Examples of things you&#39;ll hear about: Retrieved XML vs Remote Instances, Multi-Table Export Tool, Batch vs Merge, and more! Remember, best practice starts before the first bit of code is saved!</p>

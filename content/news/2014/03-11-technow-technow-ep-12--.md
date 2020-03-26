@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Condition Fields"
 date: 2014-03-11T04:05:32.000Z
+authors: ["TechNow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dd6ceaa1dbd0dbc01dcaf3231f961991"
 ---
 <p>Save time and effort by using condition fields on your forms effectively. Chuck and Andrew will show you options available to manage data instead of hard coding conditions in to your requirements and the use cases for each. One of these choices is the condition field. This is an easy to implement solution that offers incredible flexibility and avoids costly development/test time as conditions change.</p>

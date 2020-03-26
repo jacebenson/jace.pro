@@ -1,6 +1,7 @@
 ---
 title: "Email Client  Client Templates"
 date: 2018-08-06T07:46:54.000Z
+authors: ["Sanjiv Meher"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=df609af8dbbbdb405ed4a851ca961928"
 ---
 <p>This post covers few basic <strong>use cases related to Email Client, Client Templates and Inbound Email Actions</strong> .</p>

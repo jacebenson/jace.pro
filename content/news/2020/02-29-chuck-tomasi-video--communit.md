@@ -1,6 +1,7 @@
 ---
 title: "Video Community Live Stream  "
 date: 2020-02-28T21:28:55.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e8a22970db1b045014d6fb2439961930"
 ---
 <p>Note: the video cuts out at the end due to a technical issue on my end. Sorry for the abrubt ending. We&#39;ll continue the discussion in the next episode.</p>

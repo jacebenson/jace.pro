@@ -1,6 +1,7 @@
 ---
 title: "Autogenerate SOAP Message Parameters"
 date: 2013-05-07T19:00:11.000Z
+authors: ["john.andersen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=219dea69dbd0dbc01dcaf3231f961965"
 ---
 <p>I have always complained silently whenever I was connecting to a web service that contained over eight tag elements that needed data. I even once worked with a web service that required over a hundred elements of data. One of the things that made it difficult was that if I wanted to test the web service function or use the "Preview script usage" link to generate code for me, I needed to enter in all of the variables in the SOAP Message Parameter list. Once you start getting over ten or twenty variables that would get tedious indeed.<br /><br />In less than 10 minutes I created a UI Action that auto-generates the SOAP Message Parameters variable records for me based on what is in the SOAP Envelope. I don't know why I didn't do this years ago!<br /><br />Read how you can do this to: <a href='http://www.john-james-andersen.com/blog/service-now/autogenerate-soap-message-parameters-in-servicenow.html'>Auto Generate SOAP Message Parameters in ServiceNow</a></p>

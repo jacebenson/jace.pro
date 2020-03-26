@@ -1,6 +1,7 @@
 ---
 title: "ITIT and ServiceNow Strategy to Portfolio"
 date: 2018-06-05T04:13:49.000Z
+authors: ["mark_b"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=151d4eb0db6e9b00feb1a851ca961924"
 ---
 <p>Last month our very own Matt Schvimmer posted a quick introduction on IT4IT and our suggestions on how to get started which can be <a title="IT4IT" href="community?id&#61;community_blog&amp;sys_id&#61;b4626e7edb7d1b004837f3231f96196e" rel="nofollow">found here</a>. This next iteration is meant to dive deeper into the first value stream “Strategy to Portfolio”.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Nomenclature changes for ServiceNow GRC in New York"
 date: 2019-06-13T21:30:14.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8053fac1dbca73c0f7fca851ca96194e"
 ---
 <p>We have a strong customer focus so with every release we strive to be responsive to feedback while continually innovating our GRC product.  For our New York release later this year we saw an opportunity to make our GRC nomenclature more consistent with common industry terminology. The table below provides an overview of the changes you&#39;ll see.</p>

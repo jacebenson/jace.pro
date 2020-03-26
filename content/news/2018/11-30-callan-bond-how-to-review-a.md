@@ -1,6 +1,7 @@
 ---
 title: "How to Review a Service Map  A Guide for Service Owners"
 date: 2018-11-30T02:55:58.000Z
+authors: ["Callan Bond"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=65881e06db8e6340fa192183ca96192a"
 ---
 <p><span style="font-size: 10pt;">Chances are if you&#39;re reading this blog entry, here in the ITOM section of ServiceNow Community, you know your way around the platform and would be able to poke around a service map. However, many of the service owners we ask to do review work during a service mapping implementation do not. </span></p>

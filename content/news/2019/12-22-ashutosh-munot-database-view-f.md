@@ -1,6 +1,7 @@
 ---
 title: "Database View for vCenter and Windows Relations with Software installed ESX Host Datacenter and Cluster details"
 date: 2019-12-21T23:51:17.000Z
+authors: ["Ashutosh Munot"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2d8de62adb3dc09014d6fb2439961945"
 ---
 <p><u><strong style="font-size: 18pt;">Database View for vCenter and Windows Relation’s with Software Installed, ESX Host, </strong><span style="font-size: 24px;"><strong>Data center</strong></span><strong style="font-size: 18pt;"> and Cluster details.</strong></u></p>

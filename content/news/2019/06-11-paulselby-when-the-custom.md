@@ -1,6 +1,7 @@
 ---
 title: "When the customer journey fails and the importance of ongoing review"
 date: 2019-06-10T21:08:52.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=61a1d348db4a7b00e0e80b55ca9619d3"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "How to capture Demo Data in Scoped Application"
 date: 2018-09-24T10:29:52.000Z
+authors: ["Pradeep Sharma"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=08ab8f20db3c678054250b55ca961979"
 ---
 <p>If you are building a scoped application for the store, you may want to include some demo data, or non-metadata application files to provide some demonstration of the functionality of the application. Records on regular metadata tables (tables that extend sys_metadata) will always be included in the application automatically, and you do not need to move them. In fact, you will not even have the option to do so because the Create Application File UI action is not available on metadata tables.</p>

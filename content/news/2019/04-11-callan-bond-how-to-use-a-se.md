@@ -1,6 +1,7 @@
 ---
 title: "How to Use a Service Map"
 date: 2019-04-11T02:48:21.000Z
+authors: ["Callan Bond"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bf561e28dbb0338413b5fb24399619dc"
 ---
 <p>So your Service Mapping implementation is complete, and you&#39;ve created a number of shiny new service maps. Congratulations! You&#39;ve worked hard to make sure the maps are accurate and that they&#39;ll be getting updated automatically. But if those service maps aren&#39;t used in your daily operations, you really haven&#39;t gained anything.</p>

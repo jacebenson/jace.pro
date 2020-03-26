@@ -1,6 +1,7 @@
 ---
 title: "Continual Improvement How do fit organizations drive service excellence"
 date: 2018-04-29T04:51:30.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e0e27f34dbb953c0032a7a9e0f96191f"
 ---
 <p class="p1"> </p>

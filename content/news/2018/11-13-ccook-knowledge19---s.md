@@ -1,6 +1,7 @@
 ---
 title: "Knowledge  Seja Palestrante e Ganhe uma Credencial FULL"
 date: 2018-11-13T02:59:12.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9b36b260dbfd2b00d6a102d5ca961980"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="7ab332a0dbbd2b00d6a102d5ca961960.iix" /></p>

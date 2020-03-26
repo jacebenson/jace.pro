@@ -1,6 +1,7 @@
 ---
 title: "ALTERAO NO FORMATO  o SNUG So Paulo   ALTERAO NO FORMATO"
 date: 2020-03-13T21:55:57.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dcdcbd51dbe30cd02be0a851ca961913"
 ---
 <p>Prezado Usuário ServiceNow,</p>

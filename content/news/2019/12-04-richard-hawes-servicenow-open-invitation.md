@@ -1,6 +1,7 @@
 ---
 title: "Open invitation to participate in the DevOps Institute  Upskilling Enterprise DevOps Skills Report survey"
 date: 2019-12-03T06:19:00.000Z
+authors: ["richard.hawes@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f7009268dba1449423f4a345ca961946"
 ---
 <p><img src="https://community.servicenow.com/9c4c0aa4db21449423f4a345ca961902.iix" /></p>

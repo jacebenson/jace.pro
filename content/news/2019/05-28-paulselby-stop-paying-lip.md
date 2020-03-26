@@ -1,6 +1,7 @@
 ---
 title: "Stop paying lip service to the customer experience"
 date: 2019-05-27T20:46:44.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0d5607efdb6537082be0a851ca961929"
 ---
 <div class="wp-block-image">

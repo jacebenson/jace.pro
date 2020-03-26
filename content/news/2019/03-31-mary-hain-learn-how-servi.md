@@ -1,6 +1,7 @@
 ---
 title: "Learn how ServiceNow uses its own products"
 date: 2019-03-30T05:04:48.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=718205b0dba43b0c2be0a851ca961946"
 ---
 <p>At Knowledge 2019, you can learn how ServiceNow uses its own products to deliver digital workflows that create great experiences and promote productivity. We call it Now on Now, where ServiceNow is Customer Zero in using our Now® Platform across the enterprise.</p>

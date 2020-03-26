@@ -1,6 +1,7 @@
 ---
 title: "How do you build an OCM communication plan"
 date: 2019-01-15T21:44:13.000Z
+authors: ["Jason Knickmeyer"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9de39bc1db0beb00fa192183ca96192f"
 ---
 <p>When managing organizational change during your ServiceNow implementation, effective and targeted communication is critical to ensure that the people in your organization aren’t simply <em>aware</em> of your project and how it will change their work, but are <em>convinced</em> to actively support and commit to the change.</p>

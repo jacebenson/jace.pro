@@ -1,6 +1,7 @@
 ---
 title: "What comes to mind when you hear ServiceNow Community"
 date: 2018-08-21T22:16:45.000Z
+authors: ["madhurig"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9b57aa3ddbc0abc0200f0b55ca96198a"
 ---
 <div class="cm-content-body">

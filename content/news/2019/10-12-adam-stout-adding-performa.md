@@ -1,6 +1,7 @@
 ---
 title: "Adding Performance Analytics to a Service Portal  Office Hours  Oct  Recap"
 date: 2019-10-12T04:35:47.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3773dab3db1080d45129a851ca9619fa"
 ---
 <p>During this week’s <a title="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" href="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" rel="nofollow">Performance Analytic</a><a title="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" href="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" rel="nofollow">s and Reporting Office Hours</a>, we reviewed how to add a Performance Analytics widget to a Service Portal. </p>

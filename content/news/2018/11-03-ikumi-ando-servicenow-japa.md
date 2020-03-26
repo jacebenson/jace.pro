@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow JapanNTT ComNexcenter    ServiceNow"
 date: 2018-11-02T13:02:53.000Z
+authors: ["Ikumi Ando"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=86a4ac9ddbe96740f21f5583ca961925"
 ---
 <p class="p1"><span class="s1">*本内容は2018年10月17日付けでServiceNow JapanとNTTコミュニケーションズが発表したプレスリリースです。</span></p>

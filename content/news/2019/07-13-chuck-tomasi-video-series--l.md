@@ -1,6 +1,7 @@
 ---
 title: "Video Series Learn JavaScript on the Now Platform"
 date: 2019-07-13T00:53:57.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7e0838a2db6abf4423f4a345ca9619b7"
 ---
 <p>I&#39;m happy to announce that the long awaited series &#34;Learn JavaScript on the Now Platform&#34; is finally released. Here&#39;s an overview of who it is for and what you can expect.</p>

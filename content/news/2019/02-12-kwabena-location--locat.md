@@ -1,6 +1,7 @@
 ---
 title: "Location Location Location and  Development Instances"
 date: 2019-02-12T03:14:11.000Z
+authors: ["Kwabena"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0652633ddb2b27001089e15b8a9619c5"
 ---
 <p>Salutations,</p>

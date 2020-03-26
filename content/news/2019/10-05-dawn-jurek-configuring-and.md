@@ -1,6 +1,7 @@
 ---
 title: "Configuring and getting started with the Mobile Onboarding app"
 date: 2019-10-05T02:25:24.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5d82f96d1b1c0810ada243f6fe4bcb43"
 ---
 <p>Onboarding provides a complex challenge for most organizations:</p>

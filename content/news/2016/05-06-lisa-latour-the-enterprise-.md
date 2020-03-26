@@ -1,6 +1,7 @@
 ---
 title: "The Enterprise CloudCast Episode  Cloud Security Part  Operating Securely"
 date: 2016-05-06T03:36:21.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e86caaa1dbd0dbc01dcaf3231f9619ae"
 ---
 <p>In this 4th Episode of the Enterprise CloudCast, &#64;Allan Leinwand, ServiceNow CTO, continues discussing the multifaceted topics of Cloud Security.</p>

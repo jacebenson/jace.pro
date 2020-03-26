@@ -1,6 +1,7 @@
 ---
 title: "HR lifecycle events What are they and how do you configure them"
 date: 2018-12-04T02:15:31.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8ca5be97dbc2e780f0612183ca961986"
 ---
 <p style="text-align: left;">During their journey with your company, employees will probably make requests of your HR department. With HR Service Delivery on the Now Platform, you can automate fulfillment of these requests so that employees can self-serve whenever possible, and minimize the number of tasks that HR agents need to perform.</p>

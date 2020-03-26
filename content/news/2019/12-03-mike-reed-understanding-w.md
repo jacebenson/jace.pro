@@ -1,6 +1,7 @@
 ---
 title: "Understanding write access with the knowledge manager role pertaining to article versioning"
 date: 2019-12-02T21:37:13.000Z
+authors: ["mike.reed"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e8a8d0601ba9c4d4d01143f6fe4bcb5c"
 ---
 <p>With article versioning, it is important to keep in mind the access of the knowledge manager. This information will assist with determining if the correct role is being assigned to users or if other roles need to be considered. Knowing which article states managers have write access for will also prevent confusion of users. Outlined below is the different article states and the access the knowledge manager will have in each.</p>

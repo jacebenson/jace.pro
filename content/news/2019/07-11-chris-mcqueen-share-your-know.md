@@ -1,6 +1,7 @@
 ---
 title: "Share your knowledge and experience on a new ServiceNow platform"
 date: 2019-07-11T02:43:30.000Z
+authors: ["Chris McQueen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=48fd7275db62f30423f4a345ca96192e"
 ---
 <p class="p1">Hey everyone, I’m a bit new here, but want to share something exciting I’m working on. In the coming months ServiceNow will be launching a new learning experience for customers. As part of this new platform, we would like to highlight learning material created by those that know the most and have the expertise to help others grow in their career with ServiceNow; we want to highlight learning content created by the community.</p>

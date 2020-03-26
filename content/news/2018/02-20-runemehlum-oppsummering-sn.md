@@ -1,6 +1,7 @@
 ---
 title: "Oppsummering SNUG II Fossekallen  Februar "
 date: 2018-02-19T20:36:13.000Z
+authors: ["runemehlum"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a3a72fb2db585300852c7a9e0f9619a0"
 ---
 <p>Hei</p>

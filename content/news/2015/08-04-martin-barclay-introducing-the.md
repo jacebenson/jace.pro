@@ -1,6 +1,7 @@
 ---
 title: "Introducing the Fresh Apps Podcast Series Featuring Store Updates and Highlighting Vendors"
 date: 2015-08-04T00:03:11.000Z
+authors: ["Martin Barclay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ea4d6229dbd0dbc01dcaf3231f96195b"
 ---
 <p>There&#39;s a lot great things happening on the ServiceNow Store since the launch at Knowledge15, and we want to make sure you&#39;re up to speed on everything! Fresh Apps is all about the latest and greatest Store news and most importantly, the Store Vendors and Apps that make it such a valuable destination for ServiceNow customers.</p>

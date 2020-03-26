@@ -1,6 +1,7 @@
 ---
 title: "DIY NPS KPI Part "
 date: 2019-03-11T23:47:33.000Z
+authors: ["ChrisSteinke"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cb4d07badb40bb401cd8a345ca9619ec"
 ---
 <p><a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;d7b90775db9ebf80a39a0b55ca9619d5" rel="nofollow">* Part 2 is up - you can find it here</a></p>

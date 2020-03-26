@@ -1,6 +1,7 @@
 ---
 title: "Why you shouldnt exceed  characters on your UserIDs"
 date: 2019-07-02T04:41:51.000Z
+authors: ["shruti.tyagi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5eb2c5871b5a7bc0ada243f6fe4bcbd5"
 ---
 <p>User ID is a Unique identifier for the user&#39;s ServiceNow login user name. The maximum length of the User Id field in the User table is 40, which means the User Id in the User table can only have 40 or fewer characters.</p>

@@ -1,6 +1,7 @@
 ---
 title: "How to Get a Grip on Your RMF Process"
 date: 2018-06-25T23:53:49.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2dfa9d2fdbfe9bc00be6a345ca96196b"
 ---
 <p>Managing the Risk Management Framework (RMF) can be a daunting task, even with documentation! And, especially so, if you are not sure where you are in the six-step process:</p>

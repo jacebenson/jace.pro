@@ -1,6 +1,7 @@
 ---
 title: "New and Updated Analytics Content Packs in New York"
 date: 2019-10-04T21:48:34.000Z
+authors: ["zirnhelt"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9a23f069db18805013b5fb243996192b"
 ---
 <p>If you have been using Performance Analytics (PA) for a while you are probably aware that we also provide packaged solutions, aka Content Packs, of prebuilt sets of indicators, reports and dashboards to support our various applications. These are intended to directly address the key measures of success for each application. As much as possible, we target all the critical players (i.e. personas) in the application space, so that on Day 1 there’s something available to show the impact the application is having on that space.</p>

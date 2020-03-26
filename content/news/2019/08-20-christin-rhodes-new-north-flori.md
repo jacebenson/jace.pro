@@ -1,6 +1,7 @@
 ---
 title: "NEW North Florida SNUG Chapter"
 date: 2019-08-19T13:24:15.000Z
+authors: ["Christin Rhodes"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d2960ee2dbd3b7002be0a851ca9619d5"
 ---
 <p>We have recently separated the North Florida SNUG into two separate chapters (North Florida and Central Florida) in order to better map our members geographically. North Florida will service Jacksonville over to the panhandle area and Central Florida will service Orlando and Tampa areas. Florida now has three SNUG chapters: Central Florida, North Florida, and South Florida. </p>

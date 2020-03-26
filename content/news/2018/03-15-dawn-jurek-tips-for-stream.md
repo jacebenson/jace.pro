@@ -1,6 +1,7 @@
 ---
 title: "Tips for streamlining ServiceNow upgrades  podcast and best practices"
 date: 2018-03-14T19:10:50.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cc7ebd56db385f402e247a9e0f961945"
 ---
 <p>Upgrading your instance allows your organization to get the latest features, increase productivity, and avoid known issues and bugs. In short, <strong>regular upgrades reduce risk while increasing productivity</strong>.</p>

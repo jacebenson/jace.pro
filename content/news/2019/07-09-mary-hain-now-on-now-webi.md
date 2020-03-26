@@ -1,6 +1,7 @@
 ---
 title: "Now On Now Webinar Hear how ServiceNow is transforming the IT experience with ITSM and the Now Platform July "
 date: 2019-07-08T22:35:40.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=56023f4ddbae7f80d82ffb243996193e"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/60d177c9dbae7f80d82ffb243996194a.iix" /></p>

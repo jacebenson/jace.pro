@@ -1,6 +1,7 @@
 ---
 title: "After the GDPR Enforcement Impact on Financial Institutions"
 date: 2018-05-25T20:33:21.000Z
+authors: ["laurieehrbar"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8bc38d29db521b802e247a9e0f9619dd"
 ---
 <p style="font-weight: 400;">It&#39;s May 25th. The General Data Protection Regulation (GDPR) is in effect. My take Is simple, GDPR presents more opportunities than hurdles. </p>

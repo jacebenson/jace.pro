@@ -1,6 +1,7 @@
 ---
 title: "London communications package"
 date: 2018-08-29T22:08:42.000Z
+authors: ["Champion Enablement Team"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5f327798dbdc2bc454250b55ca961996"
 ---
 <p style="font-size: 14px;"><img style="max-width: 100%; max-height: 480px; float: right; margin-left: 15px;" src="00051c36db5ca7005129a851ca961932.iix" />Communicate the new features and benefits of your London upgrade with these customizable templates for banners, emails, posters, infographic, and go-live games and certificates, all available in the <a href="https://www.servicenow.com/success/champion/london-communications-package.html" target="_blank" rel="noopener noreferrer nofollow"><span style="text-decoration: underline;"><span style="color: #008080; font-size: 14pt; text-decoration: underline;">London Communication Package</span></span></a>.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Isolate Script in London"
 date: 2019-01-01T23:25:16.000Z
+authors: ["Alikutty"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c5c46364dbba6b007d3e02d5ca9619cb"
 ---
 <p><span style="font-family: tahoma, arial, helvetica, sans-serif; color: #000000; font-size: 10pt;">Post upgrade to London, have you ever faced issues with new client side scripts that uses DOM objects like document.getElementByID, gel or jQuery or prototype or window objects and they are not working in Service Now? Of course using these methods are not a best practice recommendation but there are cases where you cannot avoid them due to unavailability of OOB methods. I have seen many users stuck with this issue, Unfortunately you wont find much documentation about it.</span></p>

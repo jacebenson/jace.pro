@@ -1,6 +1,7 @@
 ---
 title: "ITFM Cost Allocations The Basics"
 date: 2018-09-10T22:55:37.000Z
+authors: ["Bryan Blackburn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6b00fd5cdb60a70ca39a0b55ca961926"
 ---
 <h1 class="p1"><strong>Summary</strong></h1>

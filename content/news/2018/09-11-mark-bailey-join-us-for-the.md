@@ -1,6 +1,7 @@
 ---
 title: "Join us for the London release broadcast on September  "
 date: 2018-09-10T21:42:22.000Z
+authors: ["Mark.Bailey"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ba4f99dcdb2ceb0067a72926ca9619df"
 ---
 <p>In case you missed this:</p>

@@ -1,6 +1,7 @@
 ---
 title: "Come see how ServiceNow is drinking our own champagne Now on Now demos at Knowledge"
 date: 2018-05-02T23:38:20.000Z
+authors: ["kathymckinney"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cc915fc2db3557802d1efb651f9619bd"
 ---
 <p>by <a href="community?id&#61;community_user_profile&amp;user&#61;4a621a69dbd81fc09c9ffb651f9619c6" rel="nofollow">Patricia Grant</a></p>

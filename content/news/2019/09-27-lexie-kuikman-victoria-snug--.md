@@ -1,6 +1,7 @@
 ---
 title: "Victoria SNUG  Call to Sponsor"
 date: 2019-09-26T22:06:33.000Z
+authors: ["Lexie Kuikman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b38aef32db0c001814d6fb24399619be"
 ---
 <p class="ng-scope">Are you a partner interested in sponsoring the next Victoria SNUG on Oct 16th?</p>

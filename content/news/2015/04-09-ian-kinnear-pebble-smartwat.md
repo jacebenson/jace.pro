@@ -1,6 +1,7 @@
 ---
 title: "Pebble SmartWatches  the CreatorCon Hack Zone"
 date: 2015-04-09T00:22:34.000Z
+authors: ["ian.kinnear"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=013e2e6ddbd0dbc01dcaf3231f961939"
 ---
 <p class="p1"><span style="font-size: 10pt; line-height: 1.5em;">Thought about integrating your Smartwatch with ServiceNow?   Drop by the</span></p><p class="p1">Developer Lounge at CreatorCon to see a sample integration featuring the</p><p class="p1">Pebble SmartWatch, leveraging ServiceNow's Web Services API.</p><p class="p2"></p><p class="p1">You can view your groups' unassigned work queue on the watch and</p><p class="p1">acknowledge tasks. Or, browse your personal queue and un-assign yourself</p><p class="p1">from tasks with a strong shake of the wrist! (leveraging the built-in</p><p class="p1">accelerometer)</p><p class="p2"></p><p class="p1">Sample instances will be provided, as well as the watch app code, which is built</p><p class="p1">leveraging the PebbleJS Javascript framework.</p><p class="p2"></p><p class="p1">So come see us and kickstart your own SmartWatch integration ideas!</p>

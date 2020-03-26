@@ -1,6 +1,7 @@
 ---
 title: "Learning with Style"
 date: 2019-01-29T21:51:12.000Z
+authors: ["bsweetser"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fbbb5ba9db9f2780f21f5583ca961939"
 ---
 <p class="_2cuy _509y _2vxa"><a href="https://developer.servicenow.com/app.do#!/training/landing?v&#61;madrid" target="_blank" rel="noopener noreferrer nofollow">Madrid training</a> is now available on the Developer Portal! With this release, we have updated the styling of the training content to make learning easier. Some highlights are:</p>

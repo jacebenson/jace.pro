@@ -1,6 +1,7 @@
 ---
 title: "CreatorCon Challenge   Short List Announcement"
 date: 2018-03-15T03:18:32.000Z
+authors: ["Martin Barclay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=441ee396db781b402d1efb651f9619d4"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="0225bfd2dbf81b402d1efb651f96190c.iix" /></p>

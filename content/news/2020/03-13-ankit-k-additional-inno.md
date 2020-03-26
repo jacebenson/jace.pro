@@ -1,6 +1,7 @@
 ---
 title: "Additional Innovations"
 date: 2020-03-13T00:27:50.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9ff5d589db67c414d58ea345ca9619db"
 ---
 <p style="text-align: center;"><span style="font-family: verdana, geneva; font-size: 10pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/1e3c6e8ddb234814d58ea345ca9619cf.iix" width="835" height="65" /></span><span style="font-family: verdana, geneva; font-size: 10pt;">ServiceNow Platform coupled with ITSM <strong>provides enhanced additional capabilities</strong> that help automate and optimize IT. These capabilities are not product SKUs&#39; but provide immense value to customers who adopt them leading to increased productivity</span></p>

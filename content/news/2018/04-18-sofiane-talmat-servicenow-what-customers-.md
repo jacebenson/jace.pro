@@ -1,6 +1,7 @@
 ---
 title: "What Customers can Expect from a Penetration Test"
 date: 2018-04-17T16:08:49.000Z
+authors: ["sofiane.talmat@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=59da58dddba193c04e1df4621f96197b"
 ---
 <p>If there is anything I have learned as a security consultant, it is that what we sell to our customers is the Report. Instead of speaking about what a penetration test report should contain, I&#39;ll show you what you can expect to get from a <a href="community?id&#61;community_blog&amp;sys_id&#61;f1fd262ddbd0dbc01dcaf3231f961926&amp;view_source&#61;searchResult" target="_blank" rel="nofollow">penetration test</a>.</p>

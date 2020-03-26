@@ -1,6 +1,7 @@
 ---
 title: "With ServiceNow BCM in Place the Worst Could Start to Look a lot Better"
 date: 2020-03-22T00:01:41.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c056273b1b6f04d4ada243f6fe4bcbc2"
 ---
 <p><span style="font-family: helvetica; font-size: 10pt;">COVID-19 is changing how we work, affecting business around the world.  It’s putting your digital transformation to the test. This is why we implement Business Continuity Management.  It’s why we do business impact assessments, exercises that simulate disruptions, and why we have recovery plans.</span></p>

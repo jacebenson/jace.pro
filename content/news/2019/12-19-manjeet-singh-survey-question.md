@@ -1,6 +1,7 @@
 ---
 title: "Survey Question Bank A reusable library of questions to quickly create better surveys"
 date: 2019-12-19T04:11:54.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=356c8cf5db39c450190dfb2439961968"
 ---
 <p><span style="font-size: 12pt;">We added a new feature, Survey Question Bank, in Madrid release that aims to make survey creation much easier, much faster, and provides you a library of best practice-based re-usable questions. <a href="https://docs.servicenow.com/bundle/madrid-servicenow-platform/page/administer/survey-administration/task/configure-questionbank-survey.html" target="_blank" rel="noopener noreferrer nofollow">Question Bank feature</a> is a library of survey categories and questions that allow you to find and add commonly asked questions by one click. The reference library of questions is written in a methodologically sound way to reduce bias and give you the most accurate answers.</span></p>

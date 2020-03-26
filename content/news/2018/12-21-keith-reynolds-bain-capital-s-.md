@@ -1,6 +1,7 @@
 ---
 title: "Bain Capitals Security Operations Journey with Security Incident Response and Vulnerability Response"
 date: 2018-12-21T02:48:47.000Z
+authors: ["Keith Reynolds"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=59406ef4db666b806c1c02d5ca961925"
 ---
 <h2>Security Operations Session, New York City Now Summit on November 13, 2018</h2>

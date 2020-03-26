@@ -1,6 +1,7 @@
 ---
 title: "Why CRM Struggles To Improve The Customer Experience"
 date: 2018-05-07T21:57:17.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bc6aa073db3d93402b6dfb651f961937"
 ---
 <p><img class="alignnone  wp-image-3166" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/05/black-and-white-broken-car-78793.jpg" alt="black-and-white-broken-car-78793" width="389" height="316" align="left" />When I started my professional career as a frontline technical support analyst for a large software company, our call tracking system was essentially a glorified ticketing system. Though it was customized to fit our needs, still it did little more than associate a customer with their issue. Since that time, how customer issues are tracked and addressed has evolved dramatically.</p>

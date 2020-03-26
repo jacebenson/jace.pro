@@ -1,6 +1,7 @@
 ---
 title: "Whats New in Madrid for the Now Platform"
 date: 2019-02-25T22:04:32.000Z
+authors: ["Charlie Steiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=eeb1ae1edbb72784a39a0b55ca96194a"
 ---
 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;"><img src="https://community.servicenow.comhttps://community.servicenow.com/e0dfe751db88ff48190dfb24399619f6.iix" /><br /></span></p>

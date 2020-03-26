@@ -1,6 +1,7 @@
 ---
 title: "What Schoolhouse Rock can teach us about customer service"
 date: 2019-08-12T21:05:46.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=761d6b18db573344190dfb24399619ed"
 ---
 

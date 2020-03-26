@@ -1,6 +1,7 @@
 ---
 title: "Send notifications for approval workflow of Knowledge articles"
 date: 2019-11-01T11:35:58.000Z
+authors: ["Lokenath Chakraborty"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f173b65adb3c44945129a851ca9619c4"
 ---
 <p>When an author sends an article for approval to Knowledge Managers or to an Ownership group, they would like to be notified when the article is approved or rejected. The approvers would also want a notification that an article is awaiting for their approval.</p>

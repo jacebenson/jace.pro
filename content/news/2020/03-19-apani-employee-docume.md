@@ -1,6 +1,7 @@
 ---
 title: "Employee Document Management FAQ"
 date: 2020-03-18T17:03:49.000Z
+authors: ["Apani"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=65e96e3adbe7c4542be0a851ca96195b"
 ---
 <p style="text-align: left;"><strong>A) What is the maximum number of documents you can retain against a single employee profile?</strong> </p>

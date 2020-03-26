@@ -1,6 +1,7 @@
 ---
 title: "Building Out Your ITOM Support Team"
 date: 2019-01-25T00:42:50.000Z
+authors: ["Callan Bond"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=15131a0cdb5367801089e15b8a9619f9"
 ---
 <p><span style="font-size: 12pt;"><strong>What Happens After the Project Team Rides Off into the Sunset?</strong></span></p>

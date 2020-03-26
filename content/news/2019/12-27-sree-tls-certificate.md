@@ -1,6 +1,7 @@
 ---
 title: "TLS Certificate Management"
 date: 2019-12-26T06:47:54.000Z
+authors: ["Sree"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9733b4481b0acc10a59033f2cd4bcb05"
 ---
 <p style="text-align: justify;"><span style="font-family: verdana, geneva; font-size: 12pt;">Compliance and security hygiene go hand in hand. Lack of visibility to the deployed and expiring TLS certificates results in service outages and data breaches. The latest data breach from the largest consumer credit reporting company says “TLS certificate had expired about 10 months before the breach occurred, meaning that encrypted traffic was not being inspected throughout that period”</span></p>

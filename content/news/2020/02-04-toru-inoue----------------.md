@@ -1,6 +1,7 @@
 ---
 title: "ATF"
 date: 2020-02-03T07:16:35.000Z
+authors: ["Toru Inoue"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=33cf6d60db7e40d413b5fb2439961930"
 ---
 <p class="ng-scope"><em>※本記事は、ServiceNowのパートナー様より寄稿いただいたものをServiceNow社員が代理で投稿しています</em></p>

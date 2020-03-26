@@ -1,6 +1,7 @@
 ---
 title: "Now Learning Blog  ServiceNow Suite Certifications are Sweet"
 date: 2020-02-11T22:13:56.000Z
+authors: ["Julie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=66e98e17db76449c414eeeb5ca96190a"
 ---
 <p class="p1"><span class="s1" style="font-family: helvetica; font-size: 12pt;">To round out our publicly available certifications, in addition to our <a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;1d9b6946db9a8410d82ffb2439961920" rel="nofollow"><span class="s2">Mainline Certifications</span></a> and <a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;6f1b956edb660c142be0a851ca9619cf" rel="nofollow"><span class="s2">Micro-Certifications</span></a>, ServiceNow also offers what are known as Suite certifications which are aggregated certifications that align to product packages and are automatically granted when the required certification set is completed. ServiceNow offers Suite Certifications in three product areas, IT Service Management, Human Resources, and Customer Service Management.  Read on to find out more about the Suite Certifications and requirements to achieve each. </span></p>

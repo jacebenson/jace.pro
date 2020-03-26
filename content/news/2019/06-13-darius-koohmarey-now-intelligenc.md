@@ -1,6 +1,7 @@
 ---
 title: "NOW Intelligence  Virtual Agent  Better Together"
 date: 2019-06-13T04:42:30.000Z
+authors: ["darius.koohmarey"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=daac4774db82ff80e0e80b55ca9619f4"
 ---
 <p>In our lives, there are many examples where the sum is greater than the parts. From automobiles to orchestras, there are countless scenarios where bringing together distinct elements results in a wonderful end result whose utility exceeds that of any individual component. NOW Intelligence and Virtual Agent are no different. So what are the parts that complement each other? Let’s walk through an example scenario to see how every part of a traditional ticket lifecycle, from creation to resolution, gets enhanced via NOW Intelligence &amp; VA.</p>

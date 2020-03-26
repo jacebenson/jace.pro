@@ -1,6 +1,7 @@
 ---
 title: "The Value of Certified Applications from the ServiceNow Store"
 date: 2016-10-20T07:04:07.000Z
+authors: ["David.Gatley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7b1ea26ddbd0dbc01dcaf3231f9619c8"
 ---
 <p>I&#39;m about to embark on an epic global voyage to visit some of my favorite partners and customers at the international NOWForums: <a title="http://www.servicenow.com/nowforum.html" href="http://www.servicenow.com/nowforum.html" rel="nofollow">NOWForum Enterprise Service Management | ServiceNow</a> and one of the most common questions I anticipate getting is:</p>

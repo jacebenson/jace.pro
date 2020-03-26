@@ -1,6 +1,7 @@
 ---
 title: "Create an ACL if Comments Field is Missing for ITIL Users on London Instances"
 date: 2019-03-05T00:21:21.000Z
+authors: ["mohankrishna"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fe244360db4cb3081cd8a345ca961978"
 ---
 <p class="p1">If you recently upgraded your instance to the London release and noticed that your ITIL users are unable to post comments on RITM (sc_req_item) records, it may be due to <a href="https://docs.servicenow.com/bundle/london-platform-administration/page/administer/contextual-security/concept/acl-rule-types.html" rel="nofollow"><span class="s1">Write ACLs</span></a> added in London.</p>

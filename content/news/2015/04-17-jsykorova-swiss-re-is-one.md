@@ -1,6 +1,7 @@
 ---
 title: "Swiss Re is one of the finalists for the Innovation of the Year Award  Vote for Your winner"
 date: 2015-04-16T17:51:37.000Z
+authors: ["jsykorova"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=89ad62a9dbd0dbc01dcaf3231f96199d"
 ---
 <p style="font-family: arial, sans-serif; color: #666666;"><span style="font-style: inherit; font-size: 12pt; text-align: center;"><strong style="font-style: inherit; font-family: inherit;"><em style="font-weight: inherit; font-family: inherit;">Congratulations to the Innovation of the Year Finalists! </em></strong></span></p>

@@ -1,6 +1,7 @@
 ---
 title: "Register Today ITBM Workshop Project  Portfolio Management"
 date: 2018-07-12T00:26:00.000Z
+authors: ["stephanieesquivias"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b8cbf724dbdbd7400be6a345ca96190f"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="9f3bfb6cdb9bd7400be6a345ca9619fa.iix" /></p>

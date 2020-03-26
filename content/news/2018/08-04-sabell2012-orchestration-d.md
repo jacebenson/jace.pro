@@ -1,6 +1,7 @@
 ---
 title: "Orchestration Development Articles"
 date: 2018-08-03T20:52:04.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=97576540db775340feb1a851ca961935"
 ---
 <p><strong>NOTE</strong>: MY POSTINGS REFLECT MY OWN VIEWS AND DO NOT NECESSARILY REPRESENT THE VIEWS OF MY EMPLOYER, ACCENTURE.</p>

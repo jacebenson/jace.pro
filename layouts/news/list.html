@@ -22,7 +22,8 @@
       <a target="_blank" href="https://github.com/jacebenson/jace.pro/issues/new?template=add_news.md">issue</a>.
     </td>
   </tr>
-  {{ range sort $feeds "date" "desc" }}
+  <!-- range sort $feeds "date" "desc" -->
+  <!--
   <tr>
     <td alt='{{ dateFormat "02 Jan 2006 15:04" .date }}'>{{ dateFormat "02 Jan 2006" .date }}</td>
     <td>{{ .category }}</td>
@@ -35,7 +36,8 @@
       <a href="{{ .link }}" target="_blank">{{ .title }} </a>
     </td>
   </tr>
-  {{ end }}
+-->
+  <!-- end -->
 </table>
 
 </section>

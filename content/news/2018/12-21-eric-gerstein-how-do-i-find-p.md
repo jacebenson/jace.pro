@@ -1,6 +1,7 @@
 ---
 title: "How do I find potential certified partners"
 date: 2018-12-21T00:15:31.000Z
+authors: ["Eric Gerstein"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cc3d75f4dbaae300afc902d5ca961967"
 ---
 <p>You’ve decided to use a partner to implement ServiceNow, but where do you start? How do you narrow down a list of potential partners that can meet your unique needs?</p>

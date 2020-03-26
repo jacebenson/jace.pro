@@ -1,6 +1,7 @@
 ---
 title: "DevOps and ServiceNow Join the discussion at the London DevOps Enterprise Summit"
 date: 2019-06-12T19:08:44.000Z
+authors: ["richard.hawes@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=29590130db8ef780e0e80b55ca96191f"
 ---
 <p><img src="https://community.servicenow.com/b3094db8db4ef780e0e80b55ca961929.iix" /></p>

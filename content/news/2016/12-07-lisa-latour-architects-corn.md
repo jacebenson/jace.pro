@@ -1,6 +1,7 @@
 ---
 title: "Architects Corner Podcast Ep  How do you select the right platform for the enterprise"
 date: 2016-12-06T06:50:37.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f14d2229dbd0dbc01dcaf3231f96191a"
 ---
 <p><span style="font-size: 12pt;">Follow <a title="" href="/community?id=community_user_profile&user=176f8669db181fc09c9ffb651f9619f3" rel="nofollow">Shiva Ramachandran</a>, Director Product Management, ServiceNow and other leaders, through this series of podcasts where details about the product and platform are detailed to help Enterprise Architects. Subscribe to this podcast to know when the next podcast is posted.</span></p>

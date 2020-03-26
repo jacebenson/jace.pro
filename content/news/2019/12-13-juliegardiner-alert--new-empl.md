@@ -1,6 +1,7 @@
 ---
 title: "Alert New Employee Experience Packs are now available on SHARE  December  Edition"
 date: 2019-12-12T23:30:18.000Z
+authors: ["juliegardiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=666250371b614c90fff162c4bd4bcb1a"
 ---
 <p><span style="font-size: 14pt;"><strong>Alert: New Employee Experience Packs are now available on SHARE</strong></span></p>

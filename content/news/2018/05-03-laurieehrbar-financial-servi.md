@@ -1,6 +1,7 @@
 ---
 title: "Financial Services Customers Dont Miss These Sessions  K "
 date: 2018-05-02T22:17:51.000Z
+authors: ["laurieehrbar"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=112f3acadbb91f0047c8f3231f961929"
 ---
 <h2><strong><img src="fa9d724edb791f0047c8f3231f9619f9.iix" width="212" height="56" /></strong></h2>

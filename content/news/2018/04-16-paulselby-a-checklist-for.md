@@ -1,6 +1,7 @@
 ---
 title: "A Checklist for Superior Customer Service"
 date: 2018-04-16T03:48:04.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f0b72830db61d7805322f4621f961958"
 ---
 <p><img class="alignnone size-full wp-image-3135" src="https://insightsincustomerservice.files.wordpress.com/2018/04/img_0263-2.jpg" width="480" align="right" />Source: Pixabay.com[/caption] Are you a list maker? I am. I love to make a list. The more lists, the better. And the satisfaction of checking things off those lists? What an amazing feeling.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Last chance to register Vulnerability response Executive Roundtable in Richmond on "
 date: 2018-09-06T18:37:56.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c2bec007db94ab8854250b55ca96198d"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="ee1e4803db94ab8854250b55ca9619cb.iix" /></p>

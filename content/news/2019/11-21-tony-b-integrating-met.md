@@ -1,6 +1,7 @@
 ---
 title: "Integrating metrics with Operational Intelligence when an OOB connector isnt available"
 date: 2019-11-20T11:59:30.000Z
+authors: ["Tony B"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bc51a0a4dbd904d014d6fb24399619fc"
 ---
 <p class="ng-scope">Operational Intelligence features a number of <a href="https://docs.servicenow.com/bundle/newyork-it-operations-management/page/product/event-management/task/configure-metric-connectors.html" rel="nofollow">OOB connectors</a> for collecting metrics, however you may need to integrate metrics from other monitoring tools. In this scenario you have two options:</p>

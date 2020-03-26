@@ -1,6 +1,7 @@
 ---
 title: "Now on Now How ITOM enables intelligent operations for ServiceNows nonstop cloud  Join the Breakout at Knowledge "
 date: 2019-04-18T18:54:24.000Z
+authors: ["Matt Gowarty"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9396bd07db7c330cfece0b55ca961906"
 ---
 <p>At ServiceNow, we believe in drinking our own champagne – or is that eating our own dog food? In any case, we’re enthusiastic users of our own products. If you’ve heard of Now on Now, that’s our program to drive adoption of ServiceNow across ServiceNow. Hence the name.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Service Owner Workspace"
 date: 2019-10-17T00:28:54.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fbea835ddba88018f7fca851ca96192a"
 ---
 <p style="text-align: center;"><img src="https://community.servicenow.com/a9a98319db688018f7fca851ca961913.iix" width="810" height="58" /></p>

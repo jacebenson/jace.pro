@@ -1,6 +1,7 @@
 ---
 title: "Join us in Richmond HR Lunch  Learn on April th at Mortons Steakhouse"
 date: 2019-03-27T21:06:02.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=49c10900dba0ff00a39a0b55ca96195c"
 ---
 <p>Hi Richmond Community Members!</p>

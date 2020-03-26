@@ -1,6 +1,7 @@
 ---
 title: "Highlighting the Geo Map data visualization"
 date: 2019-08-08T17:22:39.000Z
+authors: ["robertbarmentloo"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dba35247db077f0013b5fb24399619c1"
 ---
 <p>Hi everyone,</p>

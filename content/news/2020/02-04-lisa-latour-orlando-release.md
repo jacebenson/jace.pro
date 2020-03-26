@@ -1,6 +1,7 @@
 ---
 title: "Orlando release  collected links of interest"
 date: 2020-02-04T03:48:19.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=feb94ab0db328c18d82ffb24399619c3"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/6b178766db0f04101cd8a345ca96194f.iix" /></p>

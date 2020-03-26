@@ -1,6 +1,7 @@
 ---
 title: "Como descobrir de qual tabela  um Aplicaomdulo"
 date: 2017-09-28T21:32:49.000Z
+authors: ["Tiago Macul"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4eac2625dbd0dbc01dcaf3231f9619a7"
 ---
 <p>Como descobrir de qual tabela é um objeto/módulo?</p><p></p><table border="1" class="jiveBorder" style="border: 1px solid rgb(198, 198, 198); width: 100%;"><tbody><tr><th style="text-align: left; background-color: #f2f2f2; color: #505050; padding: 6px;" valign="middle"><strong>Imagem</strong></th><th style="text-align: left; background-color: #f2f2f2; color: #505050; padding: 6px;" valign="middle"><strong>Descrição</strong></th></tr><tr><td style="padding: 6px;"></td><td style="padding: 6px;">01. Entre na aplicação/Módulo que você deseja saber a tabela</td></tr><tr><td style="padding: 6px;"><img  class="image-1 jive-image" src="21a48c4edb5c5704ed6af3231f961950.iix" style="max-width: 1200px; max-height: 900px;"/></td><td style="padding: 6px;"><p>02.Clique com o botão direita no tí­tulo do registro</p><p></p><p>Clique em:</p><p></p><p>&gt; Configure</p><p>&gt; Table</p></td></tr><tr><td style="padding: 6px;"><img  class="image-2 jive-image" src="fb55ebb5db90dfc0b322f4621f9619e7.iix" style="max-width: 1200px; max-height: 900px;"/></td><td style="padding: 6px;">03. O nome da tabela irá se apresentar no campo Name</td></tr></tbody></table><p></p><p><span style="color: #3778c7; font-family: arial, sans-serif;">Outros documentos em português</span></p>

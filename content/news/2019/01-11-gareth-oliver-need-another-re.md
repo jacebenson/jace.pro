@@ -1,6 +1,7 @@
 ---
 title: "Need another reason to keep up to date with Upgrades"
 date: 2019-01-10T06:06:56.000Z
+authors: ["gareth.oliver"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=226dcedbdb362304d6a102d5ca961995"
 ---
 <p>In 2019, ServiceNow moved to a N-1 support model, meaning we&#39;re supporting one previous version from the current release:</p>

@@ -1,6 +1,7 @@
 ---
 title: "Unlearn Series  Easy Schedule Jobs"
 date: 2020-02-08T12:24:03.000Z
+authors: ["Kalaiarasan Pushpanathan"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1026ec16dbfe409cd58ea345ca961935"
 ---
 <div>

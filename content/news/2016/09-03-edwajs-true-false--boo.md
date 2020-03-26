@@ -1,6 +1,7 @@
 ---
 title: "TrueFalse Boolean Field Behavior in ServiceNow with NULL Values"
 date: 2016-09-02T21:19:16.000Z
+authors: ["edwajs"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=18cdaea9dbd0dbc01dcaf3231f961979"
 ---
 <p>Like all programming/development environments, ServiceNow has a boolean <a title="ocs.servicenow.com/bundle/geneva-servicenow-platform/page/administer/reference_pages/reference/r_DatabaseFieldTypes.html" href="https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/administer/reference_pages/reference/r_DatabaseFieldTypes.html" rel="nofollow">data type</a> with the label True/False.   When you are defining a new application in ServiceNow, you use these fields in your table to track information with two possible values (two states).   <strong>Yes/No</strong> and <strong>True/False</strong> are the typical value pairs used.   As an example, everyone reading this is familiar with the Active field for incident records.   An incident is Active (it is not done being worked) until it is Closed, at which point Active changes from true to false.</p>

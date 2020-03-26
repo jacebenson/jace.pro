@@ -1,6 +1,7 @@
 ---
 title: "Request Management"
 date: 2019-10-01T03:45:58.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f29e5ddcdb180890d82ffb24399619e7"
 ---
 <p style="text-align: center;"><span style="font-size: 10pt; font-family: verdana, geneva;"><strong><img src="https://community.servicenow.com/34b1795cdb1844904819fb24399619d2.iix" width="824" height="59" /></strong></span><span style="font-size: 10pt; font-family: verdana, geneva;"><strong>Enable organizations to charge forward with their digital requests.</strong> ServiceNow Request Management enables employee self‑service through a published catalog of services that is driven by automated workflows, status updates, approval rules, and service level agreements.</span></p>

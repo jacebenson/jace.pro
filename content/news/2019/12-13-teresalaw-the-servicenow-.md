@@ -1,6 +1,7 @@
 ---
 title: "The ServiceNow IRM Ecosystem Continues to Grow"
 date: 2019-12-12T06:01:58.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0272686bdbe9c4d05129a851ca961990"
 ---
 <p>We are excited to announce that we have broadened the scope of our IRM Ecosystem to include Services and Advisory partners in addition to previously announced technology and content development partners. This development reflects the critical nature of the Ecosystem and the importance of partners to the success of our customers.  New Services partners include Edgile and Iceberg Networks, while Advisory partners include KPMG and EY.</p>

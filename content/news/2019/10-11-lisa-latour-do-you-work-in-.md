@@ -1,6 +1,7 @@
 ---
 title: "Do you work in the Energy Sector Come join the Energy Special Interest Group just for you"
 date: 2019-10-11T00:23:44.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b530d463dbdc4414feb1a851ca9619ec"
 ---
 <p><span style="font-size: 14pt;">The Now Community has a place for you in our Special Interest Groups (SIGS) </span></p>

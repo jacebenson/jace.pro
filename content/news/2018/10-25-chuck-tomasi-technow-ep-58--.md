@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Go from conversation to resolution with Virtual Agent"
 date: 2018-10-24T22:32:54.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f3c01866dbdd63807d3e02d5ca961912"
 ---
 <p><img class="community_image_fullscreen" style="float: left; margin-right: 8px;" src="https://community.servicenow.com/3e1d4b52dbdc3fc45129a851ca96192a.iix" width="143" height="111" /></p>

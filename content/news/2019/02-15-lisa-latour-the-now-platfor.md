@@ -1,6 +1,7 @@
 ---
 title: "The Now Platform Madrid release  collected links of interest"
 date: 2019-02-15T02:45:14.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9f787efedb276b80fb115583ca9619f0"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.comhttps://community.servicenow.com/e0dfe751db88ff48190dfb24399619f6.iix" /></p>

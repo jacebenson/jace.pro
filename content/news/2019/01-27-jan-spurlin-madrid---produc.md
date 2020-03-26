@@ -1,6 +1,7 @@
 ---
 title: "Madrid  Product Docs is Live  Cool GRC Features"
 date: 2019-01-26T21:54:05.000Z
+authors: ["Jan Spurlin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8dafb7a8db1f6f80b1b102d5ca961923"
 ---
 <p>Madrid Product Docs are now live and available!!</p>

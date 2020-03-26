@@ -1,6 +1,7 @@
 ---
 title: "Knowledge  Call for Papers"
 date: 2019-12-12T14:54:51.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3f6cda67db2dc090f7fca851ca961900"
 ---
 <p style="text-align: justify;">Sehr geehrte SNUG-Mitglieder!</p>

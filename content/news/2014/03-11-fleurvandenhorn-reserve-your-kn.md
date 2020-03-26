@@ -1,6 +1,7 @@
 ---
 title: "Reserve Your Knowledge Lab Seats Now"
-date: 2014-03-10T13:50:27.000Z
-link: "https://community.servicenow.com/community?id=community_blog&sys_id=f9ade2a9dbd0dbc01dcaf3231f96191f"
+date: 2014-03-10T13:42:19.000Z
+authors: ["fleurvandenhorn"]
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=532e6a6ddbd0dbc01dcaf3231f961957"
 ---
 <p><span style="font-family: Calibri, sans-serif;">The agenda builder is now open. Lab seats fill up fast, so build your agenda early. Choose from various topics such as: service automation applications, custom application creation, service catalog and self service portals, reporting and analytics and much more... And sign up to attend breakout sessions presented by global enterprises like American Airlines, Blue Cross Blue Shield, Volkswagen, GE, Lockheed Martin, Intel, Whirlpool, Morgan Stanley, CERN, Allstate, Hyatt, and Harvard University. </span></p><p><span style="font-family: Calibri, sans-serif;"><a title="owledge.servicenow.com/KN14/AgendaBuilder/Mar3CommunityNE/" href="http://knowledge.servicenow.com/KN14/AgendaBuilder/Mar3CommunityNE/">Build your agenda today!</a> (click on the "Sign In" button)</span></p><p><span style="font-family: Calibri, sans-serif;"><br/></span></p><p><span style="font-family: Calibri, sans-serif;"><strong>Innovation of the Year Awards</strong></span></p><p><span style="font-family: Calibri, sans-serif;">Every day, customers tell us about the new custom applications and business solutions they deployed on ServiceNow. Every year, ServiceNow recognizes the most innovative and impactful applications through our Innovation of the Year program. We want to see what YOU have created. <a title="nowledge.servicenow.com/awards.html" href="https://knowledge.servicenow.com/awards.html">Enter Now! </a>(Submissions are due by March 31st)</span></p>

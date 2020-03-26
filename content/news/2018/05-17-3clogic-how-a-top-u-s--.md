@@ -1,6 +1,7 @@
 ---
 title: "How a Top US Ranked University Improved the Customer Experience for both Students and Families with Improved Efficiency and Intelligent Routing"
 date: 2018-05-16T17:56:39.000Z
+authors: ["3CLogic"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f79982a2db86d30458dcf4621f961912"
 ---
 <p style="text-align: left;"><strong>The Challenge</strong></p>

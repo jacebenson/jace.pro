@@ -1,6 +1,7 @@
 ---
 title: " Community Expert Events On Demand"
 date: 2019-09-07T01:37:17.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b7fa9da4dbfbf38813b5fb2439961978"
 ---
 <p class="ng-scope"><img style="float: left; margin-right: 10px;" src="https://community.servicenow.com/ed0959e4dbbbf38813b5fb2439961999.iix" width="166" height="130" />This is the list of Expert Events on the community from 2019.</p>

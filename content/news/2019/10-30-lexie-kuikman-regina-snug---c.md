@@ -1,6 +1,7 @@
 ---
 title: "Regina SNUG  Call for customer speakers and sponsors"
 date: 2019-10-29T22:00:57.000Z
+authors: ["Lexie Kuikman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9fb5ed611b7408d0a59033f2cd4bcb68"
 ---
 <p>Regina!</p>

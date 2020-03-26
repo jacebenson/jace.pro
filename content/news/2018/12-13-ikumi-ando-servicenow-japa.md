@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow JapanCHRO CHRO "
 date: 2018-12-12T13:17:36.000Z
+authors: ["Ikumi Ando"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6ce9d64adbd2eb40f0612183ca961958"
 ---
 <p class="p1">*本内容は2018<span class="s1">年</span>12<span class="s1">月</span>12<span class="s1">日付けでServiceNow Japanが発表したプレスリリースです。</span></p>

@@ -1,6 +1,7 @@
 ---
 title: "Often Overlooked Disaster Recovery Concerns"
 date: 2020-02-05T01:26:27.000Z
+authors: ["Nick Ferraro"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5ed2764ddb764c581cd8a345ca9619ea"
 ---
 <p>Disaster Recovery planning can be painstaking.  There are so many nuanced areas of focus that it is easy to miss key information that could hinder or block restoring systems and data within the time frames required by the organization.  Exercising plans is essential to help illuminate these hidden risks.  Here are some items we frequently find missing even in very mature disaster recovery plans.</p>

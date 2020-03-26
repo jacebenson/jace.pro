@@ -1,6 +1,7 @@
 ---
 title: "Set Value from Text Tool"
 date: 2018-10-14T22:55:11.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7c06b4d7dbcd2300fece0b55ca96191e"
 ---
 <h5>Included in the <a href="community?id&#61;community_blog&amp;sys_id&#61;b3c843aadb892b40fece0b55ca961906" rel="nofollow">Developer Toolbox</a> Update Set available on Share (link in the &#34;Developer Toolbox&#34; post).</h5>

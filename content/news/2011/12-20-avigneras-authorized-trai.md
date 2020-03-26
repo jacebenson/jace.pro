@@ -1,6 +1,7 @@
 ---
 title: "Authorized Training Partner ATP"
 date: 2011-12-19T22:05:32.000Z
+authors: ["avigneras"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f6cda2e9dbd0dbc01dcaf3231f961947"
 ---
 <p>Nous avons été sélectionnés avec soin et sommes maintenant reconnus comme <a href='http://www.imakumo.fr/'>partenaire de formation agréé</a> par ServiceNow.<br />Nous suivons un programme rigoureux de formations pour les deux cours au programme, le System Administrator et Scripting, dont nous avons acquis une expérience certaine tout en mettant l'accent sur les besoins de chaque participant.<br />Il est clair qu'une <a href='http://www.imakumo.fr/'>expérience ServiceNow réussie</a> commence par une fondation solide. Et au fur et í  mesure que vous maîtriserez les compétences ServiceNow, une porte s'ouvrira sur une infinité de possibilités.<br />C'est pourquoi nous offrons des <a href='http://www.imakumo.fr/'>solutions de formation flexibles</a> conçues pour correspondre í  votre niveau de compétence, votre style d'apprentissage selon votre calendrier.<br />Notre catalogue complet de formations inclut des scénarios réels pour vous donner une expérience pratique de valeur.<br /><br />N'hésitez pas í  <a href='http://www.imakumo.fr/'>nous contacter</a> pour plus d'information.</p>

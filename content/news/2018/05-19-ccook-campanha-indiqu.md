@@ -1,6 +1,7 @@
 ---
 title: "Campanha Indique um Colega  Evento Start Now The Future of Work Tour So Paulo"
 date: 2018-05-18T22:26:40.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6a9ad517db0a1b04032a7a9e0f961987"
 ---
 <p>Prezados Membros da Comunidade ServiceNow Brasil, </p>

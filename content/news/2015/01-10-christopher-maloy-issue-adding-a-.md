@@ -1,6 +1,7 @@
 ---
 title: "Issue adding a reference field to a list  when the reference field points to no table"
 date: 2015-01-10T01:07:35.000Z
+authors: ["Christopher.Maloy"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=649d6a69dbd0dbc01dcaf3231f9619ec"
 ---
 <p>Recently I was in the "My Virtual Assets" dashboard and I tried to add the "Type" field to the list of virtual assets I managed.   As soon as I did this I could no longer see my list of virtual assets and instead started seeing this issue (Syntax Error or Access Rule Violation detected by database (unknown column)):</p><p></p><p><img   alt="Issue1.png" class="image-0 jive-image" src="bbbf3406db9097049c9ffb651f96196c.iix" style="height: 104px; width: 620px;"/></p><p>With the help of support, we were able to determine that the "Type" field was a reference field that pointed to no table at all.   If you were to look at that field in the dictionary it would show this:</p><p></p><p><img   alt="Issue2.png" class="image-1 jive-image" src="269b1c86db9c17041dcaf3231f961908.iix" style="height: auto;"/></p><p></p><p>The fix was to assign some table (any table) to that reference field for this particular column.   This can show up in a variety of cases, but the cause is the same.   If you add a field to a list that is a reference make sure it actually references a table.   Cheers.</p>

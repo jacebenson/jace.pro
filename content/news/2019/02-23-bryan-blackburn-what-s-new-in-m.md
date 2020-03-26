@@ -1,6 +1,7 @@
 ---
 title: "Whats New in Madrid for Software Asset Management"
 date: 2019-02-23T03:42:11.000Z
+authors: ["Bryan Blackburn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=db32d4addbffebc0200f0b55ca961911"
 ---
 <p class="p3"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.comhttps://community.servicenow.com/e0dfe751db88ff48190dfb24399619f6.iix" /></p>

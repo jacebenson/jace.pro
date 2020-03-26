@@ -1,6 +1,7 @@
 ---
 title: "How not to do ServiceNow  The oneliner of pure evil"
 date: 2019-05-10T02:07:18.000Z
+authors: ["Fabian Kunzke"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a1132ff9db19bbc8d82ffb24399619ec"
 ---
 <h1>The series</h1>

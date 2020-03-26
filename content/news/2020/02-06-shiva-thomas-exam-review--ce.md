@@ -1,6 +1,7 @@
 ---
 title: "Exam Review Certified Master Architect  Capstone Board Review"
 date: 2020-02-06T02:22:04.000Z
+authors: ["Shiva Thomas"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7e2944ed1bfac494fff162c4bd4bcb8d"
 ---
 <p><em>I previously wrote about <a href="/community?id&#61;community_blog&amp;sys_id&#61;822de3e8dbd504542be0a851ca961920" rel="nofollow">beta testing the CMA program</a>. The results are in… I’m now a fully endorsed ServiceNow Certified Master Architect! As I publish this, there are only 45 CMAs in the world.</em></p>

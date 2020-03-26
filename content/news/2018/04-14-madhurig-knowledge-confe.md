@@ -1,6 +1,7 @@
 ---
 title: "Knowledge Conference session presentations on On Demand Library"
 date: 2018-04-14T02:32:00.000Z
+authors: ["madhurig"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fe130e48dba117c0fc5b7a9e0f9619a7"
 ---
 <p>With <strong>Knowledge18</strong> less than a month away, we&#39;ve got some updates on the <a href="community?id&#61;community_odl" rel="nofollow">On Demand Library</a> to help maximize your experience. This library is a dedicated place on the Community featuring session materials from Knowledge Conference and other ServiceNow events making it easier for you to search, browse and filter by type of event, content and more.</p>

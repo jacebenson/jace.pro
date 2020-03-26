@@ -1,6 +1,7 @@
 ---
 title: "Setting catalog variables from the URL in Service Portal"
 date: 2019-01-12T03:30:49.000Z
+authors: ["jacebenson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5fdc3377db72e304107d5583ca96198c"
 ---
 <p>This is a repost from my blog(<a href="https://blog.jacebenson.com/post/2018-07-15-sp-set-variables-via-url/" rel="nofollow">https://blog.jacebenson.com/post/2018-07-15-sp-set-variables-via-url/</a>).</p>

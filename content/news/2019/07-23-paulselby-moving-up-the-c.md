@@ -1,6 +1,7 @@
 ---
 title: "Moving up the customer selfservice maturity curve"
 date: 2019-07-22T21:31:01.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b779eba9dbb63b80feb1a851ca9619a4"
 ---
 

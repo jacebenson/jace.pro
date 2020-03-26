@@ -1,6 +1,7 @@
 ---
 title: "IT Service Modeling What do you really know about your business"
 date: 2013-12-11T08:30:19.000Z
+authors: ["admitrovic"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=65ada2a9dbd0dbc01dcaf3231f961995"
 ---
 <p>My team had a great discussion today with one of our customers regarding IT Service Modeling. I think it is important to understand some of the key considerations that drive should drive practical philosophy around the model, and the CMDB.<br /><br />1. The reason we create models in the first place is to allow us to categorize and report on information in a meaningful manner. Full stop. <br />2. The models need to make sense in your organization, and drive understanding of fundamental elements of your organization. This is how we learn and grow.<br />3. CI levels provide a logical representation of your organization and its business practices. This hierarchy is the key to understanding business impact.<br />4. CI relationships are the driving force of the model and the CMDB. They are a critical piece of the information puzzle when making decisions.<br />5. CI attributes are driven by inheritance of information upstream and downstream in the model. <br />6. Creating a model blueprint that is flexible will ensure consistency over time. Think big, act in the moment.<br /><br />Do you have any insights, or lessons learned, that you would like to share. Please comment, and share.</p>

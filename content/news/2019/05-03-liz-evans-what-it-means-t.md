@@ -1,6 +1,7 @@
 ---
 title: "What it means to deliver a consumer experience to employees"
 date: 2019-05-03T00:56:53.000Z
+authors: ["Liz Evans"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=69df0f27db4dbf84f7fca851ca9619bd"
 ---
 <p>While making a purchase online recently, I had questions about the warranty and how the item compared to a similar one I bought from the same retailer a few years ago. I sent the questions using chat. The retailer answered immediately. Voila, the transaction was complete within two train stops.</p>

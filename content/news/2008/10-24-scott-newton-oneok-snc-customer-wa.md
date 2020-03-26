@@ -1,6 +1,7 @@
 ---
 title: "SNC Customer Walkthrough Videos and Documentation"
 date: 2008-10-23T22:36:29.000Z
+authors: ["scott.newton@oneok"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3eedeee9dbd0dbc01dcaf3231f96193c"
 ---
 <p>We are still in the process of developing SNC for rollout shooting for a mid November completion. We will use screen video and screenshot documentation to walk our ITIL and Employee users through using the new system. As we produce valuable content, I will attach it to my blog for others to use without requesting permission.<br /><br />Obviously, our screens will most definately be different than the screens your company will use but at least you will have a good idea of what has worked for other customers of SNC. <br /><br />I would like to ask that if anyone already has any internal training tools available that they consider sharing them as well.<br /><br />Things that I'm looking to produce or borrow from others first:<br /> *ITIL Users <br /> +Misc working processes. How do they know what types of different tickets do they need to take action on etc...<br /> +How to customize screens (using some of SNC Wiki information)<br /> +How to update Asset information<br /><br /> *Customer users<br /> +How to navigate the Homepage, Can We Help You, and Service Catalog<br /> +How to check the status of tickets through SNC<br /> +How to update tickets from their side</p>

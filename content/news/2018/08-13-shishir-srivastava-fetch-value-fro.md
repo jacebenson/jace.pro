@@ -1,6 +1,7 @@
 ---
 title: "Fetch value from JSON"
 date: 2018-08-12T10:34:58.000Z
+authors: ["Shishir Srivastava"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b7603572db77130067a72926ca961910"
 ---
 <p style="text-align: justify;">JSON (What it is?), JavaScript Object Notation, is a lightweight readable format for structuring data. It’s a, language independent, text format and a collection of key/value pairs which can easily transmit the data between a server and web application.</p>

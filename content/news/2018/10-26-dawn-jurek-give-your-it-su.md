@@ -1,6 +1,7 @@
 ---
 title: "Give your IT support the human touch with a walkup operation"
 date: 2018-10-25T19:22:22.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=aece6cbadb152b802737e15b8a961979"
 ---
 <p> </p>

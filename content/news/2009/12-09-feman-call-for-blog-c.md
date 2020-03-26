@@ -1,6 +1,7 @@
 ---
 title: "Call for Blog Content PNW User Group approaching"
 date: 2009-12-08T10:29:18.000Z
+authors: ["FEman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=039ceee1dbd0dbc01dcaf3231f961952"
 ---
 <p>Alright, so we're a little late on launching the first PNW User Group, but we're closing in on a late January date, and will be announcing the date and agenda very soon. In the meantime, what's on your mind? Sure, Service-now.com will help with some content, and to get the first meeting or two off the ground, but content of any true user group comes from the actual users of technology, not the producers of it. So we invite you to blog whatever's on your mind, and particularly what you'd like to see as content for the first ever PNW User Group.<br /><br />To spark some thought, comments and even controversy, have a look at the latest musing's from Rhett Glauser. As Rhett describes himself, he's a loud talker for Service-now.com, and evangelist for true modern SaaS technology. That's what we do, and that's where you fit in as a user of the finest ITSM platform the world of technology has ever seen. Help us make it better through your comments, and through your participation in this Group. Tell a friend or two, it's viral, and your don't have to be a customer to join, just a fan of modern technology that breaks away from "Soviet era" client server technology.<br /><br />Read on, and share your thoughts on this Groups page........ http://service-now.web5.hubspot.com/<br /><br />Cheers,<br /><br />James</p>

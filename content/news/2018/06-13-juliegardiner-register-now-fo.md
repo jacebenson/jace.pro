@@ -1,6 +1,7 @@
 ---
 title: "Register Now for the Phoenix ServiceNow HR Community Networking Event June  "
 date: 2018-06-12T21:48:03.000Z
+authors: ["juliegardiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=54810657dbeadf005129a851ca9619de"
 ---
 <p><strong>Are you in the Phoenix area and a current customer of our HR product? If so, please join us at the ServiceNow HR Community Networking Event on Wednesday, June 20.<br /></strong></p>

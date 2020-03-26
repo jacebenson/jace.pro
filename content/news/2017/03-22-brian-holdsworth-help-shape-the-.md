@@ -1,6 +1,7 @@
 ---
 title: "Help shape the future of ServiceNow by joining the ServiceNow Product Lab"
 date: 2017-03-21T19:17:30.000Z
+authors: ["Brian Holdsworth"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dc9caae1dbd0dbc01dcaf3231f9619f4"
 ---
 <p><span class="s1">ServiceNow has created a research based community called the <strong><em>ServiceNow Product Lab</em></strong>, which <span style="color: black;">encourages feedback from a wide range of qualified customers and partners. We learn about you and how you use ServiceNow, and your feedback helps shape future products, functionality, and business offers.  This is an exciting opportunity for you to be an “insider” and directly impact ServiceNow&#39;s overall roadmap including feature prioritization, new user experiences, and new product ideas.  </span></span> </p>

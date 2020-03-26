@@ -1,6 +1,7 @@
 ---
 title: "Three places technology is slowing down customer service interactions"
 date: 2018-11-26T23:36:27.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7d1ec241db4eab401089e15b8a9619ad"
 ---
 <p><img class="alignnone  wp-image-3398" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2018/11/man-314424.jpg" alt="man-314424" width="279" height="373" align="right" /></p>

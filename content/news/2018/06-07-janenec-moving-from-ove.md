@@ -1,6 +1,7 @@
 ---
 title: "Moving from Overwhelmed to Empowered"
 date: 2018-06-07T02:42:21.000Z
+authors: ["janenec"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=495b886ddbe213808e7c2926ca9619fe"
 ---
 <p>The Gartner Security &amp; Risk Management Summit is on in National Harbor, MD this week. Monday&#39;s keynote opened with how organizations can go from being overwhelmed (by a lack of staff, too much security noise, too many projects, and new regulations) to being empowered (to take action, adapt, and scale).</p>

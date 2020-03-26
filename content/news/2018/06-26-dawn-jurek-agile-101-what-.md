@@ -1,6 +1,7 @@
 ---
 title: "Agile What is Agile development and why do you need it"
 date: 2018-06-25T19:36:28.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e300ac23dbf69bc09d612926ca961977"
 ---
 <p>Have you considered implementing an Agile software development framework for your software development lifecycle? </p>

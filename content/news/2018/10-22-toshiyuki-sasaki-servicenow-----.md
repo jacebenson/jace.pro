@@ -1,6 +1,7 @@
 ---
 title: "ServiceNowNonstop Cloud Part "
 date: 2018-10-22T01:52:21.000Z
+authors: ["Toshiyuki Sasaki"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ecb1e92ddb59e300f21f5583ca96190f"
 ---
 <p>皆さんこんにちは。ServiceNow Japan株式会社ソリューションコンサルティング本部佐々木俊行です。</p>

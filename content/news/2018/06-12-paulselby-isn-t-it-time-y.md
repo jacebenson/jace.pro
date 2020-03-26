@@ -1,6 +1,7 @@
 ---
 title: "Isnt It Time You Hacked Your Customer Service"
 date: 2018-06-11T21:14:41.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3d40f44bdb6a9700a8562926ca9619db"
 ---
 <p><img class="alignnone  wp-image-3205" src="https://insightsincustomerservice.files.wordpress.com/2018/06/computer-2930704.jpg" alt="computer-2930704" width="428" height="254" align="right" /> I was recently reading <a href="https://www.denverpost.com/2018/06/08/entrepreneurs-gather-at-hackathon-to-learn-skills-test-ideas/" rel="nofollow">an article</a> about using the <a href="https://en.wikipedia.org/wiki/Hackathon" rel="nofollow">hackathon</a> format to test and develop non-software ideas. For those not familiar with the hackathon concept, they got started in the software world as a short, defined-period event bringing together a cross-functional team–developers, user interface designers, program managers, graphic designers, and others–to rapidly collaborate and develop software solutions.</p>

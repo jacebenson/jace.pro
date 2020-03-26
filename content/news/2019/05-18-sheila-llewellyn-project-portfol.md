@@ -1,6 +1,7 @@
 ---
 title: "Project Portfolio Management   Part One What is Project Management"
 date: 2019-05-17T20:47:46.000Z
+authors: ["Sheila Llewellyn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7ea6e314dbe173405129a851ca961929"
 ---
 <p>ServiceNow Project Portfolio Management (PPM) is the most robust tool I have ever used in my 18&#43; years of project management. The possibilities for a customer are endless in that PPM can help manage projects from Idea through Close; or anything in between. With very little, or no, customization, the project manager can align PPM to fit the culture of their organization for optimal project management.</p>

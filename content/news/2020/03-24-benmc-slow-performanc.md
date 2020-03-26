@@ -1,6 +1,7 @@
 ---
 title: "Slow Performance in ServiceNow Now Mobile app"
 date: 2020-03-23T18:51:25.000Z
+authors: ["benmc"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=76723060db3fc8d4d58ea345ca9619a4"
 ---
 <p>With the release of Mobile in Newyork ,there are concerns from customers on the time to load Service Catalog related applets in now mobile. </p>

@@ -1,6 +1,7 @@
 ---
 title: "Scriptless Scheduled Jobs"
 date: 2016-10-21T00:42:05.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ae9caee1dbd0dbc01dcaf3231f96193d"
 ---
 <p><span style="font-size: 14pt;"><strong>Note</strong></span></p>

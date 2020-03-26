@@ -1,6 +1,7 @@
 ---
 title: " Learn and ask questions about ServiceNows Value Calculator for Security Operations"
 date: 2018-03-13T02:38:34.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4fb1d9fddb38db00852c7a9e0f96190a"
 ---
 <hr />

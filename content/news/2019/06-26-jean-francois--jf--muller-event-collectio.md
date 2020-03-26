@@ -1,6 +1,7 @@
 ---
 title: "Event collection from ThousandEyes"
 date: 2019-06-25T19:04:11.000Z
+authors: ["Jean-Francois (JF) Muller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=79f408c9db5e7b40e0e80b55ca961923"
 ---
 <p><strong>The what and why...</strong></p>

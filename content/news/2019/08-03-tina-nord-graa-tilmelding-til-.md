@@ -1,6 +1,7 @@
 ---
 title: "Tilmelding til SNUG  september er nu ben"
 date: 2019-08-02T12:58:42.000Z
+authors: ["Tina Nord Graa"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9ebdd6c1db0bf3084819fb2439961918"
 ---
 <p>Kære Community, </p>

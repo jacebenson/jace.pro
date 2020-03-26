@@ -1,6 +1,7 @@
 ---
 title: "Managing in a Hybrid World"
 date: 2020-03-21T03:01:24.000Z
+authors: ["James"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bed58beb1ba3c8d4fff162c4bd4bcb89"
 ---
 <p>Project management used to be so straightforward. You built a plan, worked the plan and then moved on to the next thing. And then Agile came along and made things a little more complicated. But that was OK because it worked really well and having two different approaches to project management wasn’t a bad thing – it provided the opportunity to choose the right tool for the job.<br />But now life is getting way more complicated. Now we have to deal with hybrid project delivery. And that’s not a third option, it’s an infinite number of possibilities that take elements of Agile, combine them with elements of waterfall and come up with a unique approach that is only relevant to that particular project. For the next initiative there will be some different mix.</p>

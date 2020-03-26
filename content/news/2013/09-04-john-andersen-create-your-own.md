@@ -1,6 +1,7 @@
 ---
 title: "Create your own RESTbased ServiceNow Web Service"
 date: 2013-09-03T23:39:20.000Z
+authors: ["john.andersen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=25ace225dbd0dbc01dcaf3231f9619b9"
 ---
 <p>ServiceNow boasts a wide range of capabilities in their out-of-box SOAP and REST web services. There are times, however, where you need something that is totally custom, and not found out of the box. With SOAP, you can always leverage the "Scripted Web Services" feature of the product to create your own SOAP based web service within the platform. However, most people don't know you can do something similar for REST based web services as well!<br /><br />Click here to read how you can <a href='http://www.john-james-andersen.com/blog/service-now/create-your-own-rest-based-servicenow-web-service.html'>create your own custom REST based web service with ServiceNow</a>. [<a href='http://www.john-james-andersen.com/blog/service-now/create-your-own-rest-based-servicenow-web-service.html'>READ MORE</a>]</p>

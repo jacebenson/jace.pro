@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Jelly  Part  of "
 date: 2013-02-16T00:41:36.000Z
+authors: ["TechNow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ceade2a9dbd0dbc01dcaf3231f96199b"
 ---
 <p>Jelly is a powerful language on the ServiceNow platform for making custom user interfaces (pages, widgets, and more). In part 2 Chuck and Andrew cover some of the language basics and common mistakes. Lots of demos again! </p>

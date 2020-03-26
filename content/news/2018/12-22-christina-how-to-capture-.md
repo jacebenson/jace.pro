@@ -1,6 +1,7 @@
 ---
 title: "How to Capture Traffic on an Emulated Android Device Using Burp Suite with Genymotion"
 date: 2018-12-22T03:43:19.000Z
+authors: ["Christina"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a15673c1db2ea780107d5583ca961905"
 ---
 <p> </p>

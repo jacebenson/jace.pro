@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Customers Win at HDIs New England Chapter Awards Ceremony"
 date: 2012-12-18T23:04:06.000Z
+authors: ["sarah.manning"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=26edaee9dbd0dbc01dcaf3231f9619a2"
 ---
 <p>To the IT service and technical support profession, an <a title="w.thinkhdi.com/membership/awards.aspx" href="http://www.thinkhdi.com/membership/awards.aspx">award from HDI</a> for maintaining the highest standards of excellence is a big honor. <a title="w.hdinne.com/hdinne/content/view_c.php?s_id=1727599" href="http://www.hdinne.com/hdinne/content/view_c.php?s_id=1727599">HDI's New England chapter</a> held an awards ceremony of their own this month — with several ServiceNow customers taking the stage.<br /> <br />- Boston University took Helpdesk Analyst of the Year.<br />- Tufts went home with Helpdesk Technician of the Year.<br /> <br />Both winners lauded ServiceNow for making their jobs more manageable. We're happy to be the technology that helps IT people and processes succeed. Congratulations to our brilliant customers!</p>

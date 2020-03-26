@@ -1,6 +1,7 @@
 ---
 title: "Orlando release ITSM applications get smarter and easier to use"
 date: 2020-01-15T05:03:24.000Z
+authors: ["archanapenukonda"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2b1b179e1b5e8c10ada243f6fe4bcb8d"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/f5a02227db8fcc101cd8a345ca96191d.iix" /></p>

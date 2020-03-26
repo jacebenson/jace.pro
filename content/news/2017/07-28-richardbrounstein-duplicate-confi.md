@@ -1,6 +1,7 @@
 ---
 title: "Duplicate Configuration Items in the ServiceNow CMDB"
 date: 2017-07-27T07:46:32.000Z
+authors: ["richardbrounstein"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3efc66a5dbd0dbc01dcaf3231f96193b"
 ---
 <p>Update for <strong>New York</strong> Release: A new field has been introduced into the cmdb_ci table:  Duplicate Of (duplicat_of).  This field is a reference to Configuration Items.  On the insert of a CI with the Identification and Reconciliation Engine, if the CI is detected to be a duplicate of 2 or more CIs already in that CMDB table, then the CI with the earliest &#34;created&#34; date will be referenced by each duplicate CI from the Duplicate Of field.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Call for content Knowledge "
 date: 2018-11-27T06:24:39.000Z
+authors: ["tracyo'brien"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=558b2b8ddbc22300fb4ae15b8a96194e"
 ---
 <p>Greetings SNUG Members!</p>

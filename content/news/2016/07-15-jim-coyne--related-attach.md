@@ -1,6 +1,7 @@
 ---
 title: "Related Attachments Related List"
 date: 2016-07-15T00:56:48.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=928c2ae1dbd0dbc01dcaf3231f961927"
 ---
 <p><span style="line-height: 1.5;">I&#39;ve seen a lot of requests in the Community to see related attachments on multiple forms.   For instance, people want to see Requested Item attachments on the related Catalog Task records as well.   Most &#34;solutions&#34; that are suggested involve copying the attachments from one record to the other, which you really do not want to do (synching problems, duplicate records for no reason, etc...).   My solution is to create a Defined Related List (</span><a style="line-height: 1.5;" title="http://wiki.servicenow.com/index.php?title&#61;Creating_Defined_Related_Lists" href="http://wiki.servicenow.com/index.php?title&#61;Creating_Defined_Related_Lists" rel="nofollow">Creating Defined Related Lists - ServiceNow Wiki</a><span style="line-height: 1.5;">) which can display attachments from multiple records.</span></p>

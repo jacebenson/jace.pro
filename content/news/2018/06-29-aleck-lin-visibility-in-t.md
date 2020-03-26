@@ -1,6 +1,7 @@
 ---
 title: "Visibility In the CloudFirst World"
 date: 2018-06-28T11:21:23.000Z
+authors: ["aleck.lin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b08b0ed0dbc3d704feb1a851ca961939"
 ---
 <div>It’s no surprise that many enterprises have been adopting the public cloud in some shape or form for the last several years; and the pace has only continued to increase. As a result, the urgency to have some type of cloud strategy has become increasingly palpable. </div>

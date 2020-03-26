@@ -1,6 +1,7 @@
 ---
 title: "The Digital Ensemble that Helps Virtual Agent Create Better Experiences"
 date: 2019-05-31T23:36:40.000Z
+authors: ["dangrady510"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5993d805dbbd770c4819fb243996191e"
 ---
 <p>Regardless of what industry you are in, I have to imagine you are in some way being driven to improve productivity by:</p>

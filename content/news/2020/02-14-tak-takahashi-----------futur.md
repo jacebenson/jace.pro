@@ -1,6 +1,7 @@
 ---
 title: "Future of Work  "
 date: 2020-02-13T07:06:08.000Z
+authors: ["Tak Takahashi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8c5d0973db3a889c6064eeb5ca9619d1"
 ---
 <p>2月12日&#xff08;水&#xff09;にグランフロント大阪ナレッジキャピタルナレッジシアターにて、ServiceNowのお客様事例セミナー「Future of Work 2020 大阪」を開催しました。<br />会場は満席で、立ち見がでるほどの来場を頂きました。本Blogでは会場の熱気を少しでもお届けできればと思います。</p>

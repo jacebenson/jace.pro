@@ -1,6 +1,7 @@
 ---
 title: "Migrating Configurations via Add to Update Set Utility"
 date: 2019-11-08T04:03:49.000Z
+authors: ["Michael Ritchie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=77518decdb8d4c586064eeb5ca961947"
 ---
 <p>As we all learned in ServiceNow Fundamentals/System Administration training, <a href="https://docs.servicenow.com/bundle/newyork-application-development/page/build/system-update-sets/concept/system-update-sets.html" rel="nofollow">Update Sets</a> are the mechanism to move configurations from one instance to another.  You build your enhancements in a lower level development instance and promote the changes forward using update sets.  While powerful, update sets can be very challenging if you don&#39;t know what you are doing:</p>

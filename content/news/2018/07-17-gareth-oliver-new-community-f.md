@@ -1,6 +1,7 @@
 ---
 title: "New Community Forum  Common Service Data Model"
 date: 2018-07-16T05:39:13.000Z
+authors: ["gareth.oliver"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=08d96d8adb571300fece0b55ca961967"
 ---
 <p>Check out a new Community Forum, Common Service Data Model.</p>

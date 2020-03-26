@@ -1,6 +1,7 @@
 ---
 title: "WEBINAR How ServiceNow SecOps Secures ServiceNow"
 date: 2019-01-28T19:19:49.000Z
+authors: ["helgefjelberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=708fe911db1b67005d782183ca961938"
 ---
 <p><strong>Hei, </strong></p>

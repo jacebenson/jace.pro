@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Introducing the Technical Best Practices Wiki"
 date: 2013-07-23T07:35:15.000Z
+authors: ["TechNow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f28c2ae1dbd0dbc01dcaf3231f9619ad"
 ---
 <p>Did you know we have over 100 technical best practices documented on our wiki? Watching the short video below as Chuck and Andrew introduce you to the collection of technical best practices. Find out where you can find these gems to avoid potential issues with performance, manageability, scalability, and more.&#61;</p>

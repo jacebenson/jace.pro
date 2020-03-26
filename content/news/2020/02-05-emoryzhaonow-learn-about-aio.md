@@ -1,6 +1,7 @@
 ---
 title: "Learn about AIOps and Visibility from our Dummies eBook from ServiceNow"
 date: 2020-02-05T03:21:19.000Z
+authors: ["EmoryZhaoNOW"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b42dcbc5dbfec4d8d58ea345ca96192d"
 ---
 <p><a href="https://www.servicenow.com/lpebk/aiops-visibility-dummies.html" target="ai" rel="noopener noreferrer nofollow"><img style="max-width: 100%; max-height: 480px; float: right; margin: 25px;" src="https://community.servicenow.com/beb25b45db7608d8d58ea345ca961955.iix" width="275" height="395" /></a><span style="font-size: 12pt;">AI development and research is making shockwaves in modern consumer technology from AI cars, AI lightbulbs, and even AI music creation! AI technology helps increase automation and efficiency for the world. At ServiceNow, we want to make the world of work, work better for people so naturally AIOps is a huge factor in our solutions to help customers and their employees have great experiences.</span></p>

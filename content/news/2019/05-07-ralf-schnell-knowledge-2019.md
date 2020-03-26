@@ -1,6 +1,7 @@
 ---
 title: "Knowledge "
 date: 2019-05-06T10:33:34.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1a90b4bcdb5533c8feb1a851ca961947"
 ---
 <p style="text-align: justify;">Sehr geehrte SNUG-Mitglieder!</p>

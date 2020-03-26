@@ -1,6 +1,7 @@
 ---
 title: "Whats New in Helsinki  List v Video Demo"
 date: 2016-06-02T23:20:31.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1a9c6ee1dbd0dbc01dcaf3231f9619c1"
 ---
 <p>For best video quality, increase your player resolution to 1080p.</p><p></p><p>Provides a tour of new features in the Helsinki release, including List v3 features. List v3 is an optional feature that administrators can activate.</p><p>Applies to ServiceNow releases starting with Helsinki.</p><p></p><p style="padding-left: 30px;">For more information on what's new in Helsinki, see: </p><p style="padding-left: 30px;"><a title="ocs.servicenow.com/bundle/helsinki-release-notes/page/release-notes/servicenow-platform/r_ListsRN.html" href="https://docs.servicenow.com/bundle/helsinki-release-notes/page/release-notes/servicenow-platform/r_ListsRN.html">ServiceNow product documentation:     List v3 Release Notes</a></p><p></p><p>Your feedback helps us better serve you! Did you find this video helpful? Leave us a comment to tell us why or why not.</p><p></p><p><iframe frameborder="0" height="480" src="https://www.youtube.com/embed/TjU52WZJqvA" width="853">

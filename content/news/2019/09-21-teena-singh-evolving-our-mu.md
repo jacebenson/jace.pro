@@ -1,6 +1,7 @@
 ---
 title: "Evolving our Multifactor Authentication MFA Experience on the HI Service Portal"
 date: 2019-09-20T05:48:23.000Z
+authors: ["Teena Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=70215d78db888014414eeeb5ca9619f6"
 ---
 <p> </p>

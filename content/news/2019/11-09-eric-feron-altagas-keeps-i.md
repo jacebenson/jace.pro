@@ -1,6 +1,7 @@
 ---
 title: "AltaGas keeps it simple with outofthebox GRC"
 date: 2019-11-09T00:24:07.000Z
+authors: ["Eric Feron"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9fa81178db4d44941cd8a345ca9619dd"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/6b3855b0db4d44941cd8a345ca961929.iix" /></p>

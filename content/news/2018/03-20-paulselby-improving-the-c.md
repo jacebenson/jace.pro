@@ -1,6 +1,7 @@
 ---
 title: "Improving the Customer Experience Takes BehindTheScenes Work"
 date: 2018-03-19T21:39:16.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4f50dcc8dbc593c07b337a9e0f9619a7"
 ---
 <p><img class="alignnone  wp-image-3105" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/03/stars-1128772.jpg" alt="stars-1128772" width="388" height="258" align="left" />Companies are putting more and more effort into identifying and addressing the trials and tribulations customers encounter when interacting with them to create the best possible buying and use experience. Referred to as <a href="https://en.wikipedia.org/wiki/Customer_experience" target="_blank" rel="nofollow">customer experience</a> (and often abbreviated to CX), it&#39;s inclusive of the customer&#39;s journey from initial brand awareness to purchase, the customer&#39;s interactions with the brand&#39;s many touchpoints prior to and during use, and the environments the customer encounters during use of and interaction with the product or service. Brands find the greatest success and differentiate themselves from competitors by focusing on delivering an effortless experience that ensures each of those touchpoints and experiences are consistent and contribute positively to the customer&#39;s overall journey.</p>

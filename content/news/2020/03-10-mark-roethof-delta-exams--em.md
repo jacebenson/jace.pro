@@ -1,6 +1,7 @@
 ---
 title: "Delta exams embrace them"
 date: 2020-03-09T11:09:10.000Z
+authors: ["Mark Roethof"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3a62033fdb9b4c906064eeb5ca96192c"
 ---
 <p>Hi there,</p>

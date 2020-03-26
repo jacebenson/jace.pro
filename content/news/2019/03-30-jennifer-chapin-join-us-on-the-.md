@@ -1,6 +1,7 @@
 ---
 title: "Join us on the Road to Knowledge a new ServiceNow podcast series"
 date: 2019-03-29T19:02:36.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=50b8b660dba47bc84819fb2439961913"
 ---
 <p>For the past 12 years, ServiceNow has hosted Knowledge and gathered the best and brightest for keynotes, breakout sessions, hands-on labs, networking, and so much more. Knowledge continues to grow and this year, we will welcome 20,000 attendees to experience a gathering of people who want to take work to the next level. Because Knowledge grows year over year, there are many people who are first time attendees and the returning attendees want to know what’s in it for them.</p>

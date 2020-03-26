@@ -1,6 +1,7 @@
 ---
 title: "User criteria script ignores a function with answer as name in NY Patch "
 date: 2020-02-14T11:14:03.000Z
+authors: ["Brajesh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=adafcb4c1b0f0450ada243f6fe4bcb02"
 ---
 <p><strong>Issue:</strong><br />In Madrid Patch 8, Newyork Patch 2 &amp; Orlando after evaluating the Scripted User Criteria differently and customers who have function such as ‘function answer()’ will face access issues on Service Catalog. We see issue such as ‘cannot read &#61; true&#39; re-set to false, enabling users to see certain items they should not see. This will be a continued access failure and not an intermittent situation.</p>

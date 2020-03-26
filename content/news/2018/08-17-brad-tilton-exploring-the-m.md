@@ -1,6 +1,7 @@
 ---
 title: "Exploring the Multirow Variable Set"
 date: 2018-08-17T01:43:37.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7cc66514db882380e0e80b55ca961965"
 ---
 <p>There are a lot of great features in ServiceNow&#39;s London release, but my favorite, by far, is the Multi-row variable set. As someone who has implemented Service Catalog through the native UI, CMS, and Service Portal over the years this is something that I&#39;ve always wanted to be in the platform. There have been some really good alternate solutions found on <a href="https://developer.servicenow.com/app.do#!/share" rel="nofollow">share</a>, but those are unsupported and can make upgrades a bit riskier. I&#39;m happy to report that the multi-row variable set functionality in the London release is very well done and we&#39;ll explore that here.</p>

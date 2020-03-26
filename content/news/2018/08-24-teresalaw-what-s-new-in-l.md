@@ -1,6 +1,7 @@
 ---
 title: "Whats New in London  Focusing on Vendor Tiering Improves Vendor Risk Management Process"
 date: 2018-08-24T00:51:27.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=30fdd162dbc8ef04a39a0b55ca9619c3"
 ---
 <p><img style="float: right; margin-left: 10px; max-width: 100%; max-height: 480px;" src="ffe1a9e6db886b408e7c2926ca9619a6.iix" />Accurately tiering, continuously monitoring, and properly assessing your vendors reduce your risk of a breach or non-compliance.</p>

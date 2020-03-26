@@ -1,6 +1,7 @@
 ---
 title: "Fun at Knowledges Workflow Lounge"
 date: 2018-05-10T22:15:46.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=306bc0fcdb429f805322f4621f96197c"
 ---
 <p>With so much to see and do at #Know18, it can be hard to take it all in. You may need time to lounge around to process it all. Why not take a break and from the hubbub and spend some time in the Workflow Lounge?</p>

@@ -1,6 +1,7 @@
 ---
 title: "CSM Communities and Now On Now at Knowledge "
 date: 2019-05-04T04:50:18.000Z
+authors: ["lawrence.eng"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=aade4104dbd573085129a851ca961964"
 ---
 <p>If you&#39;re attending Knowledge 2019 and are curious about this community, how it works, and how you (as a ServiceNow customer) can implement or improve your own online community, there&#39;s a ton of content just for you.</p>

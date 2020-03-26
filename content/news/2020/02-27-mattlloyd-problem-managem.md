@@ -1,6 +1,7 @@
 ---
 title: "Problem Management  Whats new in Orlando"
 date: 2020-02-26T18:06:30.000Z
+authors: ["mattlloyd"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=10212644dbdf84104819fb2439961963"
 ---
 <p>Provide a better starting point for customers who adopt Agent Workspace so their agents can create and relate Incidents, Problems and Changes.<br /><em>Note: It is not currently possible to manage a problem through its lifecycle in Agent Workspace, use platform to manage a problem through the lifecycle.</em></p>

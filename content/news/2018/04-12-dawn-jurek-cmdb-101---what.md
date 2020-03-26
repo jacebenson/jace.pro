@@ -1,6 +1,7 @@
 ---
 title: "CMDB   What is a configuration management database and why do you need one"
 date: 2018-04-11T19:46:22.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e913125fdbd9d7404837f3231f9619de"
 ---
 <p>Can you answer the following questions about your IT service delivery?</p>

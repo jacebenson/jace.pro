@@ -1,6 +1,7 @@
 ---
 title: "How to prevent performance issues related to exports and export limits"
 date: 2018-03-27T02:58:31.000Z
+authors: ["catie.carmody"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8c9c19d2db41d7c42e247a9e0f96198e"
 ---
 <h1>Excel Export Limits &amp; Properties</h1>

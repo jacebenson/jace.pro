@@ -1,6 +1,7 @@
 ---
 title: "Knowledge Task Rules  Allow users to create a task from a knowledge article"
 date: 2019-02-15T00:44:01.000Z
+authors: ["Michael Ritchie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=67bcda7edbef6f007d3e02d5ca961982"
 ---
 <p>Knowledge is an important part of Service Management. This is especially true in today&#39;s self-service world where people prefer to search and solve questions and issues themselves. Good knowledge content can deflect tasks that would normally be answered by costly service desks.</p>

@@ -1,6 +1,7 @@
 ---
 title: " Instance Upgrade Tips for Moving from London to Madrid  Dos  Donts"
 date: 2019-04-22T03:53:27.000Z
+authors: ["Nosheen Bilal"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3cce07c4db81b300d82ffb24399619db"
 ---
 <p>Upgrading your production instance requires a lot of planning, testing, and follow-through. The upgrade should be tested thoroughly in sub-production instances before proceeding with production upgrade.</p>

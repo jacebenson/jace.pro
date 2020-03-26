@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   User Interface Design"
 date: 2013-06-17T05:06:17.000Z
+authors: ["TechNow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=069c6ee1dbd0dbc01dcaf3231f961978"
 ---
 <p>ServiceNow makes it easy to create forms, lists, and other user interface objects. However, just because you don&#39;t need to know HTML, CSS, and JavaScript to quickly build the user interface in ServiceNow doesn&#39;t mean an effective result is guaranteed.</p>

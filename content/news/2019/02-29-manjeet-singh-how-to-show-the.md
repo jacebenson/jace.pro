@@ -1,6 +1,7 @@
 ---
 title: "How to show the ROI of your Continual Improvement"
 date: 2019-02-28T10:50:52.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b344af8bdb7fe74414d6fb24399619cd"
 ---
 <div><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Continuous Improvement is becoming a focal point for more organizations, as well as the main roadmap item in the digital transformation journey. Organizations that strive to continually improve stay ahead of the competition, regardless of their size or industry.</span></div>

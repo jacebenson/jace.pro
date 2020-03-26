@@ -1,6 +1,7 @@
 ---
 title: "Knowledge User Conference Registration is Now Live"
 date: 2010-12-09T00:28:25.000Z
+authors: ["wallymarx"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6b6caea1dbd0dbc01dcaf3231f9619d7"
 ---
 <p>Register now to reserve your seat for Knowledge11 the Service-now.com user conference, held in San Diego, May 15 — 19, 2011. The discounted conference rate of $1295 is available through December 31, 2010 and includes thought-provoking keynotes, breakout sessions for all expertise levels, pre-conference training* and networking with the Service-now.com community. Join us and help define the new era of IT.<br /> <br />Paradise Point Resort, the new Knowledge venue, is located on an island in Mission Bay and for four days will transform into a retreat for the Service-now.com community. Like last year, we expect Knowledge11 to reach capacity. <br /><br />Register now to reserve your seat at www.Service-now.com/Knowledge11<br /> <br />*Pre-conference training availability is based on seating capacity. To attend pre-conference training, you must register for Knowledge11. Service-now.com administrator training is included in the conference registration fee. The much-anticipated Introduction to Scripting and Using GlideForm training is offered to Knowledge11 registrants at a significantly discounted rate of $595.<br /> <br />We look forward to seeing you in May. Questions or comments? Send us a note at Knowledge@service-now.com or call us at 877.613.6976.</p>

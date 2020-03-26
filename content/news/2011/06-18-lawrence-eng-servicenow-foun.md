@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow founder Fred Luddy named an Ernst  Young Entrepreneur of the Year"
 date: 2011-06-17T22:55:11.000Z
+authors: ["lawrence.eng"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=015d2629dbd0dbc01dcaf3231f9619f2"
 ---
 <p>We don't like to toot our own horns <em>too</em> much, but we couldn't be prouder of our very own founder, Fred Luddy, who was just named an Ernst &amp; Young Entrepreneur of the Year for the San Diego region. There were six San Diego winners in total (not counting the lifetime achievement award given to Irwin Jacobs of Qualcomm), and Fred took the award in the Technology category.<br /><br />You can read about the award here: <a title="w.ey.com/US/en/About-us/Entrepreneur-Of-The-Year/SanDiego_Article_Overview_Page_Main" href="http://www.ey.com/US/en/About-us/Entrepreneur-Of-The-Year/SanDiego_Article_Overview_Page_Main">Ernst &amp; Young Entrepreneur Of The Year San Diego</a><br /><br />News coverage: <a title="w.signonsandiego.com/news/2011/jun/16/ernst-young-picks-top-local-entrepreneurs/" href="http://www.signonsandiego.com/news/2011/jun/16/ernst-young-picks-top-local-entrepreneurs/">Ernst &amp; Young picks top local entrepreneurs</a><br /><br />Obviously, we could never do any of this without our amazing customers and partners, so thank you all for your continued support!</p>

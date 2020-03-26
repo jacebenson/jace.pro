@@ -1,6 +1,7 @@
 ---
 title: "Nominate Servicenowcom  Help us donate to a deserving charity"
 date: 2011-03-14T19:49:27.000Z
+authors: ["rglauser"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c20deaa5dbd0dbc01dcaf3231f961917"
 ---
 <p>We are fast approaching the deadline for this opportunity. Please take a a couple of minutes to nominate Service-now.com for the Service Desk Institute Supplier of the Year. The <a title="w.sdi-e.com/sdie-events/awards-2011/it-service-supplier-award/" href="http://www.sdi-e.com/sdie-events/awards-2011/it-service-supplier-award/" rel="lightframe">nomination form can be found here</a>. Nominations close on March 18, 2011.<br /><br />This award is unique in that it is based on the highest satisfaction rating from customer nominations. We won two years ago and we'd like to go for a repeat performance.<br /><br />A side note, if we win we'll donate  £500 award to a deserving charity. Last time we donated it to <a title="w.service-now.com/news-events/press-releases/cHJlc3NDSXZtMnFVMTExbUJBVzMxZjdnVQ" href="http://www.service-now.com/news-events/press-releases/cHJlc3NDSXZtMnFVMTExbUJBVzMxZjdnVQ" rel="lightframe">Cancer Research UK</a>. If you have a good charity in mind, please let me know by commenting to this blog entry.<br /><br />Thanks again,<br />Rhett</p>

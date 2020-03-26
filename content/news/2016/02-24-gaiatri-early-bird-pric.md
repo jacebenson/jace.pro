@@ -1,6 +1,7 @@
 ---
 title: "Early bird pricing ending soon"
 date: 2016-02-24T02:45:19.000Z
+authors: ["gaiatri"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=16edaee9dbd0dbc01dcaf3231f961999"
 ---
 <p>Hello Knowledge enthusiasts,</p><p></p><p>There's hardly a week left to make use of early bird registration - the deadline is February 29th, 2016. <strong><a title="owledge.servicenow.com/register-pricing.html" href="http://knowledge.servicenow.com/register-pricing.html">Register early</a></strong>, and prepare to shine at Knowledge16.</p><p></p><p><img  alt="K16-Reg-Banner.jpg" class="image-1 jive-image" src="932948c6db981344e9737a9e0f961937.iix" style="height: auto;"/></p><p></p><p>Why should you attend Knowledge16, you ask?</p><p></p><p>This year will be the 10th anniversary for Knowledge, and you can expect the conference to be bigger and better in terms of learning and networking opportunities, and FUN. There's lots of new pre-con and event sessions scheduled this year. More details on that later.</p><p></p><p>So what are you waiting for? Register and <a title="nowledge16.servicenowevents.com/connect/dashboard.ww" href="https://knowledge16.servicenowevents.com/connect/dashboard.ww">start enrolling in sessions</a> to get the best out of Knowledge16.</p>

@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Welcome to Orlando on the Now Platform"
 date: 2020-03-13T21:30:35.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=28077555db2fc41414d6fb2439961915"
 ---
 <p><img style="padding-right: 8px;" src="3e1d4b52dbdc3fc45129a851ca96192a.iix" alt="expert-logo-2.png" align="left" />The Now Platform Orlando release has a lot of great capabilities. These range from added intelligences to driving development at scale, to making it faster to create integrations. All of these make it easier for you to configure and create solutions for your organization while providing a great experience and unlocking productivity. Join the TechNow team as they show you around the new tools to add to your toolbox!</p>

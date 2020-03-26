@@ -1,6 +1,7 @@
 ---
 title: "Gods of Productivity Dave Wrights Vision fr IT"
 date: 2019-05-09T03:09:43.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=06c7aa65db11b300a39a0b55ca961982"
 ---
 <p style="text-align: justify;">Sehr geehrte SNUG-Mitglieder!</p>

@@ -1,6 +1,7 @@
 ---
 title: "Custom Knowledge Search Additional field in advanced search option"
 date: 2014-06-21T16:03:38.000Z
+authors: ["Sreeja Gattu"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=62bc2e25dbd0dbc01dcaf3231f96198c"
 ---
 <p>Many of us are trying to add a new field named "Company" in the advanced search and perform the search based on the values of Company along with Topic and Category.</p><p>I have succeeded it by modifying 3 UI Macros.</p><ul><li>kb_advanced_search</li><li>kb_header_search</li><li>kb_find_query</li></ul><p></p><p>Steps</p><p>1) Create a new field Company on the Knowledge Table.</p><p>2)Modify kb_advanced_search macro to include the code for adding Company field in the advanced search</p><p>3)Modify the kb_header_search macro and include anonchange function which will be called when you select any Company in the advanced search and the company value will be stored in sysparm_u_company.</p><p>3)Include the code in kb_find_query to perform the search by sending Company along with topic and category.</p><p></p><p>Code is available in the word doc. Highlighted in red color is the code to be added to the existing.</p><p></p><p>For better understanding, please have into the attached ppt once. !</p>

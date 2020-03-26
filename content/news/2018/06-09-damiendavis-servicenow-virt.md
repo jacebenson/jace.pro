@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Virtual Agent"
 date: 2018-06-08T12:32:58.000Z
+authors: ["damiendavis"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ea1c93bddba21780d58ea345ca961957"
 ---
 <p><strong>Taking Chat From Conversation To Resolution</strong></p>

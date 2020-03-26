@@ -1,6 +1,7 @@
 ---
 title: "Starting with the ServiceNow implementation"
 date: 2014-02-26T12:05:29.000Z
+authors: ["frost"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=625da629dbd0dbc01dcaf3231f9619d4"
 ---
 <p>Hi all, </p><p></p><p></p><p>Thanks for the User Group meeting yesterday. And sorry for leaving early - missed out on a good opportunity for networking. </p><p></p><p>We, in Maersk Drilling IT, are just about to get our first phase of ServiceNow implemented. Starting mainly with Incidents and the Service Catalogue. And dipping into Problem, Knowledge and CMDB at the same time to prepare for the next phases. </p><p></p><p>What I would really like to is to hear from other fresh or veteran ServiceNow implementers and their challenges, struggles and lessons learned from their roll-out. Both internally in IT and how to approach the user community to accepting a new way of working. </p><p></p><p>One thing that we are struggling a bit with is the best practices for Categorizing incidents correctly. Everyone has their opinion but no-one has a valid reason except (that is what we need or that's what we did in our previous company and I liked it).</p><p></p><p></p><p>Best regards,</p><p>Tommy</p>

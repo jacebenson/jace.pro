@@ -1,6 +1,7 @@
 ---
 title: "Call to Sponsor  Toronto SNUG March th "
 date: 2019-01-04T01:22:23.000Z
+authors: ["Lexie Kuikman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=80c2da95db72a740656a5583ca9619e7"
 ---
 <p>Our Toronto SNUG is currently scheduled for March 5th and we are very excited!</p>

@@ -1,6 +1,7 @@
 ---
 title: "The Enterprise Cloudcast Enterprise Cloud Architectures and Outages  Episode "
 date: 2016-08-02T01:57:05.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1e9d6e69dbd0dbc01dcaf3231f961903"
 ---
 <p>In this 5th Episode of the Enterprise CloudCast, &#64;Allan Leinwand, ServiceNow CTO, discusses with Robert Duffner cloud architectures and how multi-tenant and multi-instance differ when dealing with outages.</p>

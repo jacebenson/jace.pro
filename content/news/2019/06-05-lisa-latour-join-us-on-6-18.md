@@ -1,6 +1,7 @@
 ---
 title: "Join us on  for Know before you Implement  Webinar"
 date: 2019-06-05T02:23:55.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4a3061dadb713380a39a0b55ca9619d3"
 ---
 <h3 class="ng-scope"><span style="font-size: 10pt;">Tuesday, June 18, 2019 Start time 9 AM PDT | 12 PM EDT</span></h3>

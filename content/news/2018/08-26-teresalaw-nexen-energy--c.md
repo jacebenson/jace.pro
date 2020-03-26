@@ -1,6 +1,7 @@
 ---
 title: "Nexen Energy Controlling  Audit Testing Chaos"
 date: 2018-08-25T10:46:05.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cdafa84fdbc4ab44a39a0b55ca961971"
 ---
 <p><em>Renato Cunha and Sammia Abrar are GRC analysts at Nexen Energy, an oil and gas company that develops resources in Canada, the United States, the North Sea, and West Africa. At Knowledge18, they shared how ServiceNow GRC has brought Nexen’s audit testing under control. </em></p>

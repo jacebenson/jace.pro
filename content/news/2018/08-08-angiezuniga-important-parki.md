@@ -1,6 +1,7 @@
 ---
 title: "IMPORTANT PARKING INFO  North Texas SNUG   AM"
 date: 2018-08-07T23:38:32.000Z
+authors: ["angiezuniga"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c1d3bed9db3f5f400be6a345ca961913"
 ---
 <p>We look forward to seeing you at the upcoming North Texas SNUG on Wed 8/8 at Toyota Financial, 6565 Headquarters Drive, Plano, TX 75024. </p>

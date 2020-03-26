@@ -1,6 +1,7 @@
 ---
 title: "Driving the nextgeneration wave of ServiceNow CMDB  Discovery solution"
 date: 2018-05-21T01:35:23.000Z
+authors: ["Sree"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5ef8d804db5293005322f4621f96197b"
 ---
 <p><img src="54885cc0db5293005322f4621f9619cf.iix" width="296" height="166" /></p>

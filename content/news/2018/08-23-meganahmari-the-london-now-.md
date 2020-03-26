@@ -1,6 +1,7 @@
 ---
 title: "The London Now Platform Experience  No gap to mind on our platform"
 date: 2018-08-23T03:07:51.000Z
+authors: ["meganahmari"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=199374dedb002704e0e80b55ca96198f"
 ---
 <p><img style="float: right; margin-left: 10px; max-width: 100%; max-height: 480px;" src="81d5f856db44e3408e7c2926ca961902.iix" />Better experiences in business means faster resolution times, higher levels of service and easier collaborations. Those are recurring themes for the London release of the Now Platform®.</p>

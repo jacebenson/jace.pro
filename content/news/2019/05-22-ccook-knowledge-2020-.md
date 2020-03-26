@@ -1,6 +1,7 @@
 ---
 title: "Knowledge   Inscrevase para receber updates"
 date: 2019-05-21T18:35:18.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1dbe27a9db2d77044819fb2439961946"
 ---
 <p><span style="font-size: 12pt;">Prezada Comunidade, </span></p>

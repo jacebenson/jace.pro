@@ -1,6 +1,7 @@
 ---
 title: "Identify and Respond to Product Recall Situations Faster with Connected Customer Service"
 date: 2018-06-04T22:07:36.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=41493034dba2df001cd8a345ca961955"
 ---
 <p><img class="alignnone  wp-image-3198" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/06/problem-67054.jpg" alt="problem-67054" width="376" height="232" align="left" />Product recalls are an unfortunate and too common event. Recalls arise as a result of issues identified during use that were missed during product development and testing and are verified through company- and third-party testing. Children&#39;s products (especially car seats), automobiles and automotive products, and medical products are a few that grab headlines due to the potential danger users might face.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Understanding Time Card approval and data flow"
 date: 2018-12-18T13:07:04.000Z
+authors: ["Sunil B N"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e8015508dbeea340afc902d5ca96195f"
 ---
 <p><span style="font-family: verdana, geneva;">The <a href="https://docs.servicenow.com/bundle/london-platform-administration/page/administer/task-table/concept/time-card-management.html" target="_blank" rel="noopener noreferrer nofollow">Time card Management</a> feature enables users track their time for the assigned tasks also helps to capture associated cost along with it. Tasks can be any entity which is extended from task table like project, project task, incident, problem, change request. </span><br /><span style="font-family: verdana, geneva;"><em>Note: I won&#39;t cover what is already there in the documentation. This is applicable for releases below London.</em></span><br /><span style="font-family: verdana, geneva;">In this, I would like to shed light on overview of how approval flow work and what happens beyond that.</span></p>

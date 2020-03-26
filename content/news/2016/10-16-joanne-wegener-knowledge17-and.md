@@ -1,6 +1,7 @@
 ---
 title: "Knowledge and CreatorCon Call for Speakers Now Closed"
 date: 2016-10-15T05:07:06.000Z
+authors: ["joanne.wegener"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b0aca225dbd0dbc01dcaf3231f96191a"
 ---
 <p><strong><span class="s1">Call for Speakers is now closed. </span></strong></p><p>Are you using ServiceNow to solve service management and development challenges in a unique and highly impactful way?   If so, submit a proposal to speak at the world's largest service management event!</p><p></p><p>So, what are we looking for?</p><p>For Knowledge17, stories about how you're using ServiceNow to overcome challenges and implement smarter solutions to automate work in IT, HR, customer service, security and more.</p><p>For <a title="owledge.servicenow.com/creatorcon-form.html" href="http://knowledge.servicenow.com/creatorcon-form.html">CreatorCon</a>, we're looking for developers and architects to present and demo their applications, cool integrations and architectural designs.</p><p></p><p>You'll get even more guidance for your submission when you select the links above.   Good luck!</p>

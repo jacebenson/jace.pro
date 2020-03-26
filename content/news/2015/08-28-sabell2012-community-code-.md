@@ -1,6 +1,7 @@
 ---
 title: "Community Code Snippets  Current Factory"
 date: 2015-08-27T18:07:10.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9bcda2e9dbd0dbc01dcaf3231f9619e5"
 ---
 <p><span style="font-size: 10pt; line-height: 1.5em;">When testing out new code in either Fix Scripts or Scripts - Background I find it difficult to test Background Scripts or gs.eventQueue code without having the current object around.   There are a couple of approaches you could take when creating this.   One is only OK, and the other is well...right on!</span></p><p></p><p>The OK approach:</p><p></p><pre __default_attr="javascript" __jive_macro_name="code" class="jive_text_macro jive_macro_code _jivemacro_uid_14412267948024308" jivemacro_uid="_14412267948024308">

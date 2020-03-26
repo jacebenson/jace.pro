@@ -1,6 +1,7 @@
 ---
 title: "Are you planning to attend Knowledge"
 date: 2014-10-21T07:40:53.000Z
+authors: ["vidhya.srinivasan"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3a1e626ddbd0dbc01dcaf3231f96196b"
 ---
 <p style="font-style: inherit; font-family: inherit;">Members,</p><p></p><p style="font-style: inherit; font-family: inherit;">We were so excited about Knowledge14 and all the feedback we received from you that we wanted to start early this year to make your experience even better.</p><p style="font-style: inherit; font-family: inherit;"><span style="font-style: inherit; font-size: 10pt; font-family: inherit;"><br/></span></p><p><span style="font-size: 10pt; font-style: inherit; font-family: inherit;">If you attended last year, we would like for you to share your experience </span>with<span style="font-size: 10pt;"><span style="font-style: inherit; font-family: inherit;"> the rest of the </span>members<span style="font-style: inherit; font-family: inherit;"> on the community.</span></span></p><p></p><p style="font-style: inherit; font-family: inherit;">If you could not make it last year, we hope you can attend this year. You can engage with us on the community   and influence this years agenda by voting on topics.</p><p></p><p style="font-style: inherit; font-family: inherit;">Look forward to hearing from you.</p>

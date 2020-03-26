@@ -1,6 +1,7 @@
 ---
 title: "Ce quAspediens souhaite   ses clients pour  Euh"
 date: 2015-12-23T14:38:34.000Z
+authors: ["steve.cattin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=300d2aa5dbd0dbc01dcaf3231f9619ee"
 ---
 <p align="center"><iframe src="https://youtube.com/embed/j0OkBN69fAo" width="440" height="330"/></p><p></p><ul><li><em>Bonjour ça va? Tu as 5 minutes pour moi sur Skype?</em></li><li><em>Bien sûr, quelque chose de particulier?</em></li><li><em>Non non, je dois juste te poser une questions et c'est mieux par oral. Je t'appelle maintenant ok?</em></li></ul><p></p><p>Voilí  un aperçu de la conversation typique que nous avons eu ces dernières semaines alors que nous appelions nos collègues pour leur demander "Et toi, tu souhaites quoi í  nos clients pour 2016?" Certains étaient surpris, d'autres nous ont demandé 5 minutes pour se préparer ou trouver un endroit avec une meilleure lumière. Beaucoup ont joué le jeu et malheureusement beaucoup d'autres n'ont pas eu le temps de le faire. Mais quoiqu'il en soit, toute l'équipe Aspediens vous souhaite une année 2016 pleine de succès, de joie et de bonheur et se réjouis de collaborer í  nouveau sur vos projets ServiceNow en cette nouvelle année.</p><p></p><p>Joyeux Noí«l et Bonne Année.</p>

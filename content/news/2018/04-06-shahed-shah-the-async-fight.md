@@ -1,6 +1,7 @@
 ---
 title: "The Async Fight  getReference and GlideRecord"
 date: 2018-04-05T21:44:01.000Z
+authors: ["Shahed Shah"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ee747f51db9d57487b337a9e0f96196d"
 ---
 <p>So, you&#39;ve spent a lot of time and drank a whole lot of coffee (yuck) and finally got your Client Script working. You know. That script that fetches values from another table and populates a field on your form using something like <strong>g_form.getReference</strong> or <strong>GlideRecord</strong>. Beaming with pride you present that script for a peer review which is shot down almost immediately. There&#39;s that feeling right?</p>

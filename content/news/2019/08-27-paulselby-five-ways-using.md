@@ -1,6 +1,7 @@
 ---
 title: "Five ways using workflow can improve the customer service experience"
 date: 2019-08-26T21:00:24.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d022b3fcdb23bf80d82ffb24399619a7"
 ---
 <p><img class="wp-image-3933" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/08/flowchart-311347.png" alt="" width="312" height="265" align="left" /></p>

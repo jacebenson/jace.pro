@@ -1,6 +1,7 @@
 ---
 title: "Try the new Governance Risk and Compliance Value Calculator"
 date: 2019-09-25T00:19:16.000Z
+authors: ["Deaddin Edris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=84c57112db00049423f4a345ca9619bf"
 ---
 <p>Calculating the value that ServiceNow can provide your organization can be complex when so many factors are involved. That&#39;s why we provide helpful tools and services, like a value calculator, to help you understand how much you can potentially save. This value calculator can quantify how departments like IT, HR, and Customer Service can benefit from ServiceNow solutions.  </p>

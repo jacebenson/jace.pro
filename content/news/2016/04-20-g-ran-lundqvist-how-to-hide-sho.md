@@ -1,6 +1,7 @@
 ---
 title: "How to hideshow an UI action on field changes"
 date: 2016-04-19T14:07:46.000Z
+authors: ["Göran Lundqvist"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=127d6269dbd0dbc01dcaf3231f961973"
 ---
 <p><strong>EDIT: (14/03 -19) I wouldn&#39;t recommend using this. I have sadly not a better solution but as stated below, doing DOM Manipulation will most likely end up in problem with upgrades etc. and the comments in this post works as a good example for this. I&#39;m keeping this post since it might not be any other way, but it would really really try to avoid this approach unless it&#39;s for a critical requirement.</strong></p>

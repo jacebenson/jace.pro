@@ -1,6 +1,7 @@
 ---
 title: " NEW features in Security Operations will change how you work in London"
 date: 2018-07-26T01:11:07.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=da5c0491dba3d3049d612926ca9619a4"
 ---
 <p>With security threats making headlines on a regular basis, it’s a matter of when, not if, your organization will be affected. But how?</p>

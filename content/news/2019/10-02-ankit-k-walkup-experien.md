@@ -1,6 +1,7 @@
 ---
 title: "Walkup Experience"
 date: 2019-10-01T05:05:35.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0dd0b190db1844904819fb24399619df"
 ---
 <p style="text-align: center;"><span style="font-size: 10pt; font-family: verdana, geneva;"><strong><img src="https://community.servicenow.com/93561b9ddbec0418414eeeb5ca961953.iix" width="824" height="59" /></strong></span></p>

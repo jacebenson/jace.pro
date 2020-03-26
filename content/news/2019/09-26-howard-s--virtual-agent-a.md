@@ -1,6 +1,7 @@
 ---
 title: "Virtual Agent and Natural Language Understanding in the HI Service Portal"
 date: 2019-09-26T03:50:03.000Z
+authors: ["Howard S."]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3d9fe366db044854190dfb243996198b"
 ---
 <p>Did you know we have a Virtual Agent chatbot in the HI Service Portal?  Earlier this year we implemented Virtual Agent as a proof of concept (in Madrid), with a limited number of topics that it could understand and assist with.  Similar to Alexa and Siri, we will continue to refine and enhance its capabilities, so the intelligence will get better and better over time.  Our goal is to turn Virtual Agent into a useful tool; not just for navigation, but to help you accomplish your tasks more efficiently.</p>

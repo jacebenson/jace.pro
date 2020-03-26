@@ -1,6 +1,7 @@
 ---
 title: "Approval Due Dates and Reminder Notification Emails"
 date: 2018-03-08T23:19:38.000Z
+authors: ["alan.lowrance"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5b107b14dbfcd74c4816f3231f961973"
 ---
 <p>Join me in this thought exercise of your day-to-day use of ServiceNow and seeing something that is manual or causing headaches and crafting a solution to fix it!</p>

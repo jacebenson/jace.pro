@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow HR Service Delivery  Designed for Faster Delivery"
 date: 2018-04-03T01:53:43.000Z
+authors: ["eric.hemmer"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=76d015e0db9153087b337a9e0f9619a5"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="9c55d960db59df084e1df4621f961915.iix" /></p>

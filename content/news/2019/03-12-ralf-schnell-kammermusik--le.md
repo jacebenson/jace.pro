@@ -1,6 +1,7 @@
 ---
 title: "Kammermusik Lektionen fr das Team Building"
 date: 2019-03-11T19:18:05.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3b9f42b6db843b40f7fca851ca961972"
 ---
 <p>Sehr geehrte SNUG-Mitglieder,</p>

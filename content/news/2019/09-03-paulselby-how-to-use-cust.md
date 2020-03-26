@@ -1,6 +1,7 @@
 ---
 title: "How to use customer service to drive a better customer experience"
 date: 2019-09-02T22:56:22.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=efcfc8171b67bb84d01143f6fe4bcb65"
 ---
 <p><img class="wp-image-3332" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2018/09/accomplishment-achievement-adult-1059120.jpg?w&#61;840" alt="" width="307" height="247" align="right" /></p>

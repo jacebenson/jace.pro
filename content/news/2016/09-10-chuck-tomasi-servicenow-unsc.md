@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Unscripted Podcast Episode   Katy Campbell"
 date: 2016-09-10T02:27:26.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=592e666ddbd0dbc01dcaf3231f961968"
 ---
 <p><img class="image-1 jive-image" style="width: 80px; height: 80px; float: left; margin-right: 10px;" src="53c5c48adb9c5704ed6af3231f9619e1.iix" alt="200x200_podcast-album_art-Final.jpg" /></p>

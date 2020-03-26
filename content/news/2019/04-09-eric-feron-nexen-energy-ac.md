@@ -1,6 +1,7 @@
 ---
 title: "Nexen Energy accelerates and strengthens its external audit processes with ServiceNow GRC"
 date: 2019-04-08T22:36:35.000Z
+authors: ["Eric Feron"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e499cfbfdb683344d82ffb24399619cd"
 ---
 <div> </div>

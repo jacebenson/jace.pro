@@ -1,6 +1,7 @@
 ---
 title: "Services and Offerings  Whats the Difference"
 date: 2020-03-24T19:41:03.000Z
+authors: ["David Thigpen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1f6782f41bbf4010ada243f6fe4bcb9c"
 ---
 <p>Hi, I’m David Thigpen and I’m the Product Manager for the IT Service Portfolio Management application and Service Owner Workspace. One of the most important components of those two products are “offerings.”  Frequently I’m asked:</p>

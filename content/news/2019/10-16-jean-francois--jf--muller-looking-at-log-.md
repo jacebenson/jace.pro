@@ -1,6 +1,7 @@
 ---
 title: "Looking at Log in context from a Service Map with Elasticsearch Log UI"
 date: 2019-10-15T14:06:15.000Z
+authors: ["Jean-Francois (JF) Muller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4dd27778db6c441c0be6a345ca9619fd"
 ---
 <p><strong>The what and why…</strong></p>

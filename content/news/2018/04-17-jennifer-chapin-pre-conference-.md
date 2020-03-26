@@ -1,6 +1,7 @@
 ---
 title: "PreConference Training Sign Up for two days of skill building on the ServiceNow Platform"
 date: 2018-04-16T20:10:56.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=02a84c85dba99fc0fc5b7a9e0f96194a"
 ---
 <p>Are you ready to build your skills on the ServiceNow platform? Here’s the fastest, easiest, and most cost-effective way to do that: Attend <a href="https://knowledge.servicenow.com/sessions/training.html" rel="nofollow">Pre-Conference Training</a> at Knowledge18.</p>

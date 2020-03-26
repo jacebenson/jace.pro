@@ -1,6 +1,7 @@
 ---
 title: "Upgrades and their relation to customizations Updated for Geneva"
 date: 2015-02-25T01:55:37.000Z
+authors: ["Lane Roberts"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1dace225dbd0dbc01dcaf3231f96194a"
 ---
 <p><span style="font-size: 10pt;">Often</span> times when reviewing their <a href="community?id&#61;community_blog&amp;sys_id&#61;ca7d2269dbd0dbc01dcaf3231f9619a8" rel="nofollow">upgrade history</a>, customers will notice records that were skipped during the upgrade. This tends to start the waterfall of questions around why the upgrade to a specific Out-of-the-Box (OOTB) record was skipped.</p>

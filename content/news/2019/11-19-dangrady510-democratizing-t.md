@@ -1,6 +1,7 @@
 ---
 title: "Democratizing the Chatbot the Fastest Path to Value"
 date: 2019-11-19T04:11:52.000Z
+authors: ["dangrady510"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4dbced40db5d80901cd8a345ca96194f"
 ---
 <p><span style="font-size: 12pt;">Over the last few years there has been a lot of hype around chatbot technology and the value they can bring in terms of scaling services, reducing costs, improved experiences, and increasing productivity.  But unfortunately not everyone gets the results they envisioned when they embarked on their journey.  There could be any number of reasons for this, but the one I want to focus on with this post is the ease with which experiences can be delivered and adjusted to meet the needs of an organization.  </span></p>

@@ -1,6 +1,7 @@
 ---
 title: "Now on Now Knowledge  presentations are now available learn how ServiceNow uses its own products internally"
 date: 2019-05-22T02:17:02.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b4685575db217704feb1a851ca961910"
 ---
 <p>At Knowledge this year, ServiceNow practitioners discussed how we use our own products to automate workflows in areas ranging from IT to Customer Service, HR, Security, ITSM, ITOM, Mobile, and the Employee Experience.</p>

@@ -1,6 +1,7 @@
 ---
 title: "What to do when Text after Emojis is Being Truncated"
 date: 2019-02-13T03:28:35.000Z
+authors: ["Jisamma K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ae3fa49edbaf63c0f0612183ca9619b9"
 ---
 <div>On instances before Kingston, if an email contains special characters, like for example a smiley icon, all content after that character will be missing when stored in the system. This doesn&#39;t happen all of the time so it can catch someone off guard if mid sentence, your text gets truncated at the Emoji (&#x1f600;&#x1f92b;&#x1f92e;).<br /><br /></div>

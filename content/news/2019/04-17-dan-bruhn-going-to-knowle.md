@@ -1,6 +1,7 @@
 ---
 title: "Going to Knowledge  Register to Meet with Experts in the Genius Lounge or Success Clinics Today"
 date: 2019-04-17T00:45:48.000Z
+authors: ["Dan Bruhn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1fd33c2adb383b001cd8a345ca96194a"
 ---
 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;">Customer Success is proud to offer meetings with Subject Matter Experts for both business and technical attendees!<br /></span></p>

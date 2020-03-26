@@ -1,6 +1,7 @@
 ---
 title: "ActiveRoles Proof of Concept Automation App"
 date: 2012-10-24T00:53:41.000Z
+authors: ["john.andersen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=177da269dbd0dbc01dcaf3231f96199c"
 ---
 <p>ActiveRoles is a broker for Active Directory administration. It provides workflows and auditing around changes that are done to Active Directory or AD LDS. Instead of making directory changes in Active Directory, the customer makes changes within ActiveRoles and it will change the directory accordingly.<br /><br />ActiveRoles provides a .NET library that can be consumed with Powershell scripts. Runbook automation can execute these libraries via powershell and return the result. <br /><br />I recently created a Proof of Concept application that I built around "ActiveRoles Automation". I have made it available through an Update Set for anyone to freely check out. [<a href='http://www.john-james-andersen.com/blog/service-now/servicenow-automation-of-activeroles-poc.html'>Read More...</a>]</p>

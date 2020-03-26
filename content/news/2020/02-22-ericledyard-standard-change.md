@@ -1,6 +1,7 @@
 ---
 title: "Standard Change Youre doing it wrong"
 date: 2020-02-21T22:34:20.000Z
+authors: ["ericledyard"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4b7ee52edb0fc010d58ea345ca9619e4"
 ---
 <p>Change management is one of the biggest hurdles in modern DevOps transformations.  Traditionally, it is a very manual process that takes physical meetings of a Change Advisory Board (CAB) who would review all changes and decide whether to approve them into Production. This manual process slows down development teams and takes them away from writing applications or features that are valuable to their customers.</p>

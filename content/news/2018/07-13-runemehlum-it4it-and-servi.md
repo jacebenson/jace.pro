@@ -1,6 +1,7 @@
 ---
 title: "ITIT and ServiceNow Strategy to Portfolio"
 date: 2018-07-12T12:20:08.000Z
+authors: ["runemehlum"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8a3f9638db1b1b40fff8a345ca9619f7"
 ---
 <p>Hei</p>

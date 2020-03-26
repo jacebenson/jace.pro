@@ -1,6 +1,7 @@
 ---
 title: "Out of band discovery content release  December Update"
 date: 2018-12-20T18:44:00.000Z
+authors: ["Sree"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b341387cdb66e380f21f5583ca961936"
 ---
 <p><img src="e22f64b0db66e380f21f5583ca9619bd.iix" width="660" height="338" /></p>

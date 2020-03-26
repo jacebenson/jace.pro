@@ -1,6 +1,7 @@
 ---
 title: "Scripts Exemplo de incluso de registro em tabela"
 date: 2017-12-15T08:09:59.000Z
+authors: ["Tiago Macul"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f32e6a6ddbd0dbc01dcaf3231f9619d5"
 ---
 <p>New record</p><p></p><p></p><pre __default_attr="javascript" __jive_macro_name="code" class="_jivemacro_uid_15132730106851513 jive_macro_code jive_text_macro" data-renderedposition="70.72442626953125_7.997159004211426_1078_185" jivemacro_uid="_15132730106851513"><p>var ObjAudit = new GlideRecord("u_minhatabela");   </p><p></p><p>ObjAudit.initialize();</p><p></p><p>ObjAudit.u_sessionid = gs.getSession().getSessionID();</p><p></p><p>ObjAudit.u_userid = userName; </p><p></p><p>ObjAudit.u_ipaddress = gs.getSession().getClientIP().toString();</p><p></p><p>ObjAudit.insert();</p><p></p></pre><p></p><p></p><p></p><p><a href="https://wiki.servicenow.com/index.php?title=GlideRecord" title="https://wiki.servicenow.com/index.php?title=GlideRecord">GlideRecord</a></p><p><a href="https://www.servicenowguru.com/scripting/identifying-client-session-ip-address/" title="https://www.servicenowguru.com/scripting/identifying-client-session-ip-address/">Identifying client session ip address</a></p>

@@ -1,6 +1,7 @@
 ---
 title: "Automate Management Console Launch in Context based on Event Payload Data"
 date: 2018-07-31T08:35:47.000Z
+authors: ["joe.steinfeld@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b4122f3adb27df842be0a851ca96190b"
 ---
 <p>Ran into a situation recently with a customer where their monitoring solutions sent Launch in Context URL to the management console in the event payload and while they would see this data in the ServiceNow Alerts the links only showed up as text and not active hyperlinks.</p>

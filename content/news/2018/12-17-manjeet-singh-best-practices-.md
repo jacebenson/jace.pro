@@ -1,6 +1,7 @@
 ---
 title: "Best practices for writing effective surveys"
 date: 2018-12-16T07:41:00.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7c333553db926b00d6a102d5ca9619d6"
 ---
 <p class="p1"> In a <a href="http://danariely.com/2008/05/05/3-main-lessons-of-psychology/" rel="nofollow">famous study</a> on organ donations, researchers found that simply changing the default option in Survey from checking a box to become an organ donor to checking a box to not be an organ donor vastly increases how many people become donors.</p>

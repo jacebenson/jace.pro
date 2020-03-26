@@ -1,6 +1,7 @@
 ---
 title: "Changes to validto date functionality in Knowledge Management"
 date: 2019-11-19T18:13:50.000Z
+authors: ["Lokenath Chakraborty"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6a6d6858dbd54cd0d58ea345ca961939"
 ---
 <p><strong>What is Valid_To date?</strong></p>

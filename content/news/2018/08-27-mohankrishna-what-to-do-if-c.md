@@ -1,6 +1,7 @@
 ---
 title: "What to do if Catalog client script isnt working in Order Guides in Service Portal after upgrading"
 date: 2018-08-27T03:20:48.000Z
+authors: ["mohankrishna"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=92ecd167db8cab040be6a345ca9619d3"
 ---
 <p class="p1" style="text-align: left;">Users in <a href="https://docs.servicenow.com/bundle/jakarta-release-notes/page/release-notes/quality/jakarta-patch-9.html" target="_blank" rel="nofollow">Jakarta Patch 9</a>, <a title="Jakarta patch 9a" href="https://hi.service-now.com/kb_view.do?sysparm_article&#61;KB0690897" target="_blank" rel="nofollow">9a</a>, <a title="Jakarta patch 9b" href="https://hi.service-now.com/kb_view.do?sysparm_article&#61;KB0692125" target="_blank" rel="nofollow">9b</a>, <a title="Jakarta Patch 9c" href="https://hi.service-now.com/kb_view.do?sysparm_article&#61;KB0694713" target="_blank" rel="nofollow">9c</a> and <a title="Kingston patch 6" href="https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/quality/kingston-patch-6.html" target="_blank" rel="nofollow">Kingston Patch 6 </a>Versions might run into issues with Order Guides in Service Portal where the client script doesn’t load. This issue is only isolated to Order guides in Service Portal and doesn’t affect the Platform UI.</p>

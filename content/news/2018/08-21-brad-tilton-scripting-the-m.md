@@ -1,6 +1,7 @@
 ---
 title: "Scripting the Multirow Variable Set"
 date: 2018-08-21T02:45:45.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=865b5aeddbc023c0feb1a851ca9619f9"
 ---
 <p>In <a href="community?id&#61;community_blog&amp;sys_id&#61;7cc66514db882380e0e80b55ca961965" rel="nofollow">my last post</a>, we created a multi-row variable set, added variables, then showed it in action by filling out the variables and checking out. In this post we&#39;ll use some of the new methods described <a href="https://docs.servicenow.com/bundle/london-application-development/page/script/server-scripting/concept/c_ScriptableServiceCatalogVariables.html#d1031449e133" rel="nofollow">here</a> to access and set values. For the purposes of this post we&#39;re going to be using background scripts (<a href="community?id&#61;community_blog&amp;sys_id&#61;27804903db63530054250b55ca961938" rel="nofollow">which received some new functionality in London</a>) in the global scope. </p>

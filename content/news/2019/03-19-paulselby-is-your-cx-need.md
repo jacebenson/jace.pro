@@ -1,6 +1,7 @@
 ---
 title: "Is your CX needle stuck on zero"
 date: 2019-03-18T21:26:11.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2c10fa49db1cbb04190dfb243996194e"
 ---
 <p><img class="size-medium wp-image-3531" style="padding: 7 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/03/speed-1249610.jpg?w&#61;300" alt="" width="300" height="199" align="left" /></p>

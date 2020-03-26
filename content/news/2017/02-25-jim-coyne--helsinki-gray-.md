@@ -1,6 +1,7 @@
 ---
 title: "Helsinki Gray UI Theme"
 date: 2017-02-24T13:56:13.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=40dd26e9dbd0dbc01dcaf3231f96197e"
 ---
 <p style="font-family: arial, sans-serif; color: #666666;"><span style="font-style: inherit; font-family: inherit;"><strong>Other posts related to Themes<br /></strong></span><a class="jive_macro jive_macro_blogpost" title="Istanbul Theme Properties Visual Guide" href="community?id&#61;community_blog&amp;sys_id&#61;de5eaaaddbd0dbc01dcaf3231f96193c" rel="nofollow">Istanbul Theme Properties Visual Guide<br /></a><a class="jive_macro jive_macro_blogpost" title="Jakarta Theme Properties Visual Guide" href="community?id&#61;community_blog&amp;sys_id&#61;a7ace625dbd0dbc01dcaf3231f96195e" rel="nofollow">Jakarta Theme Properties Visual Guide<br /></a><a class="jive_macro jive_macro_blogpost" title="Kingston Theme Properties Visual Guide" href="community?id&#61;community_blog&amp;sys_id&#61;afcda2e9dbd0dbc01dcaf3231f9619e8" rel="nofollow">Kingston Theme Properties Visual Guide<br /></a><a href="community?id&#61;community_blog&amp;sys_id&#61;92381ed4dba423400be6a345ca9619df" rel="nofollow">London Theme Properties Visual Guide</a><a class="jive_macro jive_macro_blogpost" title="Kingston Theme Properties Visual Guide" href="community?id&#61;community_blog&amp;sys_id&#61;afcda2e9dbd0dbc01dcaf3231f9619e8" rel="nofollow"><br /></a></p>

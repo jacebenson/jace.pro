@@ -1,6 +1,7 @@
 ---
 title: " steps to determine if and why the event processor is unable to start"
 date: 2015-07-07T02:08:42.000Z
+authors: ["alexandrabellogini"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ae9caee1dbd0dbc01dcaf3231f96193c"
 ---
 <p>Have you ever asked yourself why your events are not being processed and your emails are not being sent? <span style="font-size: 10pt; line-height: 1.5em;">Generally, it can be very difficult to identify what is happening in these cases from a customer&#39;s perspective. The are a few reasons you may be experiencing this:</span></p>

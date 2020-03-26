@@ -1,6 +1,7 @@
 ---
 title: "Neue YouTube Playlist ServiceNow Germany"
 date: 2017-11-30T19:35:27.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2afd662ddbd0dbc01dcaf3231f9619e6"
 ---
 <p>Sehr geehrte Community-Mitglieder,</p><p></p><p>ich freue mich, Ihnen mitteilen zu können, daß unsere neue Playlist '<a title="rldefense.proofpoint.com/v2/url?u=https-3A__www.youtube.com_playlist-3Flist-3DPLtPPHGXv-5FJpl4wVsbYdjW-2D5ejEQ3Zj4kv&d=DwIFAg&c=Zok6nrOF6Fe0JtVEqKh3FEeUbToa1PtNBZf6G01cvEQ&r=8upaG2Rp1TMJDzRsRWS5E9t8xCOahAzqm65mJ9JasfQ&m=AwKB2zicvEH7CbDkENZQiQV-h-RDjtC-G0244tTgOqE&s=cTUfwZuW9YRpt1TtXOYgoLFLlImiifgD90HDA4OJwhc&e=" href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.youtube.com_playlist-3Flist-3DPLtPPHGXv-5FJpl4wVsbYdjW-2D5ejEQ3Zj4kv&amp;d=DwIFAg&amp;c=Zok6nrOF6Fe0JtVEqKh3FEeUbToa1PtNBZf6G01cvEQ&amp;r=8upaG2Rp1TMJDzRsRWS5E9t8xCOahAzqm65mJ9JasfQ&amp;m=AwKB2zicvEH7CbDkENZQiQV-h-RDjtC-G0244tTgOqE&amp;s=cTUfwZuW9YRpt1TtXOYgoLFLlImiifgD90HDA4OJwhc&amp;e=">ServiceNow Germany</a>' jetzt online ist! Mein Team hat vor einigen Wochen damit begonnen, für Sie in deutscher Sprache Screencasts zu produzieren. Wir decken dabei vielfältige Themen ab, vom Produktüberblick bis zu technischen Details. Die ersten Videos sind nun für Sie verfügbar, und wir freuen uns auf Ihr Feedback und Ihre Themenvorschläge für weitere Inhalte.</p><p></p><p>Mit freundlichen Grüßen</p>

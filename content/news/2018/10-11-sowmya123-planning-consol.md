@@ -1,6 +1,7 @@
 ---
 title: "Planning Console Admin Guide"
 date: 2018-10-11T02:55:14.000Z
+authors: ["sowmya123"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9696c54adb49ab80fff8a345ca961910"
 ---
 <p style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">The <a href="https://docs.servicenow.com/bundle/london-it-business-management/page/product/project-management/concept/c_TheProjectPlanningConsole.html" target="_blank" rel="nofollow">planning console</a> is the visual <a href="https://docs.servicenow.com/bundle/london-it-business-management/page/product/project-management/concept/c_GanttChart.html" target="_blank" rel="nofollow">Gantt Chart</a> representation of a project entity, used to illustrate a schedule timeline in an efficient manner. This article is a working guide for administrators in charge of configuring and managing the planning console.</p>

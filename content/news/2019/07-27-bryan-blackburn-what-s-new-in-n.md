@@ -1,6 +1,7 @@
 ---
 title: "Whats New in New York for SAM and ITAM"
 date: 2019-07-26T22:00:08.000Z
+authors: ["Bryan Blackburn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=85865047dbf6f7406064eeb5ca9619ad"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/9365dd52dbaf778414d6fb24399619e7.iix" /></p>

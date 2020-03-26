@@ -1,6 +1,7 @@
 ---
 title: "Best practices for configuring lists"
 date: 2017-09-08T22:11:26.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0e0eaa2ddbd0dbc01dcaf3231f9619ff"
 ---
 <p>In our last <a title="" _jive_internal="true" data-containerid="2927" data-containertype="37" data-objectid="7090" data-objecttype="38" href="/community?id=community_blog&sys_id=6e7d6269dbd0dbc01dcaf3231f9619c0" style="font-family: arial, sans-serif;">NOWSupport best practices series</a> blog, <a title="" _jive_internal="true" href="/community?id=community_blog&sys_id=6b9dae69dbd0dbc01dcaf3231f9619ec">best practices for creating and editing forms</a>, we discussed how to create forms that are easy to understand and use.   Here we look at best practices for configuring lists so that they are simple, intuitive, and consistent across the platform.</p><p></p><p>For an overview of list elements and their functions, check out this video on our <a title="ww.youtube.com/user/servicenowdemo" href="https://www.youtube.com/user/servicenowdemo">NowSupport YouTube channel</a>:</p><p></p><p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/a2ylc__MEl0?rel=0" width="640">

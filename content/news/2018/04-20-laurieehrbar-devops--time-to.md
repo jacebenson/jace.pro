@@ -1,6 +1,7 @@
 ---
 title: "DevOps Time to Transform Application Development in Financial Services"
 date: 2018-04-19T20:22:24.000Z
+authors: ["laurieehrbar"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6708eb79db291f40852c7a9e0f9619f4"
 ---
 <p>Like many terms used in the IT industry, DevOps can mean many different things, depending on who you&#39;re talking to. Despite it&#39;s specific meaning to you, DevOps stresses collaboration and integration between software developers and IT professionals. One group wants to move fast and drive change; the other team is hard‑wired to provide security and reliability. In financial services, in particular, the need for security and speed are often far greater than in other industries thus creating an even larger divide between the teams.</p>

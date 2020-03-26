@@ -1,6 +1,7 @@
 ---
 title: "SNUGs only come to Austin once a year  DONT MISS IT   Wed   The Brewtorium"
 date: 2018-09-22T03:08:42.000Z
+authors: ["angiezuniga"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=16731b77dba863048e7c2926ca961932"
 ---
 <p>Join us <strong>this Wednesday</strong> at the Central Texas ServiceNow User Group Meeting in Austin!</p>

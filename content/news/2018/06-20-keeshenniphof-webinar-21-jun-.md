@@ -1,6 +1,7 @@
 ---
 title: "Webinar Jun IT Major Incident Management for ITSM Practitioners"
 date: 2018-06-19T13:43:49.000Z
+authors: ["keeshenniphof"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a7c51065dbf2d340b2102926ca9619a0"
 ---
 <p><span id="ember21849" class="ember-view">Right! ServiceNow is Forbes #1 World&#39;s Most Innovative Company. Leader in Gartner&#39;s ITSSM Magic Quadrant since 2015. </span><span id="ember21849" class="ember-view">So, why not have our VP of Innovation get on a panel with ITSM Product Management and talk about the innovation we&#39;re bringing to IT Service Management in 2018?</span></p>

@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Article  AsktheExpert Collection  Three Year Anniversary"
 date: 2018-08-21T00:54:08.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dfc18aa9db482f80a8562926ca9619a4"
 ---
 <p><strong>NOTE</strong>: MY POSTINGS REFLECT MY OWN VIEWS AND DO NOT NECESSARILY REPRESENT THE VIEWS OF MY EMPLOYER, ACCENTURE.</p>

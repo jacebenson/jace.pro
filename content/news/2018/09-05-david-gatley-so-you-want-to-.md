@@ -1,6 +1,7 @@
 ---
 title: "So you want to Integrate with ServiceNow and list it on the store"
 date: 2018-09-04T10:21:15.000Z
+authors: ["David.Gatley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=47d90c5edb1cef448e7c2926ca96190e"
 ---
 <h3>A bit of background:</h3>

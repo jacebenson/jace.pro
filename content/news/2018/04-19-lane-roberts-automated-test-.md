@@ -1,6 +1,7 @@
 ---
 title: "Automated Test Framework FAQs How can I cancel a test properly"
 date: 2018-04-19T02:01:21.000Z
+authors: ["Lane Roberts"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3e0ce7a5dbe553447b337a9e0f961992"
 ---
 <p><strong>Automated Test Framework FAQs: How can I cancel a test properly?</strong></p>

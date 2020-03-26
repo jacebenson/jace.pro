@@ -1,6 +1,7 @@
 ---
 title: "ApproveReject button in Approval notification"
 date: 2019-08-24T16:27:33.000Z
+authors: ["Jaspal Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8080e8dc1babb380d01143f6fe4bcb0e"
 ---
 <p>OOB notifications for Approval includes links for approval as below.</p>

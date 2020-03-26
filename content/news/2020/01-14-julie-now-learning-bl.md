@@ -1,6 +1,7 @@
 ---
 title: "Now Learning Blog  Lets Get Certified"
 date: 2020-01-14T02:17:37.000Z
+authors: ["Julie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1d9b6946db9a8410d82ffb2439961920"
 ---
 <p class="p1"><span style="font-family: helvetica; font-size: 12pt;"><span class="s1"><a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;34d1b53bdb060c10d82ffb24399619ee" rel="nofollow">Last week’s blog</a></span> covered the Application Specialist learning path for Performance Analytics and made mention of the fact that at the end of the path learners can sit for an exam that certifies them as an Application Specialist.<span class="Apple-converted-space">  </span>ServiceNow offers a comprehensive certification program and this blog will give an overview of the various certifications and exams.</span></p>

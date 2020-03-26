@@ -1,6 +1,7 @@
 ---
 title: "Associating default favourites for ITIL Users"
 date: 2019-09-06T15:01:46.000Z
+authors: ["Jaspal Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=52890f1cdb73f3c8f7fca851ca9619f3"
 ---
 <p>Bookmarks/Favourites can be defaulted on basis of roles/groups any other condition if required &amp; can be pushed for all existing Users in one go. Thus helping Users with a specific role/group to get default set of favourites added instead of Users going &amp; getting it created for themselves.</p>

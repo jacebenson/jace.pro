@@ -1,6 +1,7 @@
 ---
 title: "Product documentation updates more multilingual support and more"
 date: 2019-11-20T23:49:43.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d0e34be4db1140542be0a851ca96199b"
 ---
 <p>Have you visited our product documentation lately? Our latest updates include:</p>

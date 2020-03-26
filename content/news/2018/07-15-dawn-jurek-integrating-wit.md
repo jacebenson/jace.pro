@@ -1,6 +1,7 @@
 ---
 title: "Integrating with First Advantage and other thirdparty HR background check systems"
 date: 2018-07-15T02:08:08.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=12efeba9db9fd7800be6a345ca9619bd"
 ---
 <p>In our last article, <a title="The basics of integrating with SuccessFactors and other HR management systems" href="community?id&#61;community_blog&amp;sys_id&#61;2cf37273db2d5b40852c7a9e0f961920" target="_blank" rel="nofollow">The basics of integrating with SuccessFactors and other HR management systems</a>, we showed you the process for integrating with third-party HR management systems.</p>

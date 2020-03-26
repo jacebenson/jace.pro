@@ -1,6 +1,7 @@
 ---
 title: "The Enterprise Cloudcast Episode  Knowledge  CreatorCon and Keynote Insights"
 date: 2017-04-25T22:02:23.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d55e6aaddbd0dbc01dcaf3231f961919"
 ---
 <p><span style="font-size: 12pt;"><img class="image-2 jive-image" style="float: right; width: 444px; height: 123.174px; margin-left: 8px;" src="a9183f75dbd05fc068c1fb651f96190b.iix" alt="creatorCon-Challenge-2017.png" width="444" height="123" /><span style="font-size: 14pt;">In this episode, Allan discusses his thought and highlights of the upcoming K17 show in Orlando!</span> </span></p>

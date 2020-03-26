@@ -1,6 +1,7 @@
 ---
 title: "Why outsourced AVaaS AV as a Service may not be the right choice for Higher Education"
 date: 2019-11-20T19:07:03.000Z
+authors: ["Matthew Fearnley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=af234a2c1bd900507a5933f2cd4bcb57"
 ---
 <p>With several macroeconomic factors converging, the topic of AVaaS (Audio Visual as A Service has been permeating the AV echo chamber for about a year or two. As a Higher Ed technical manager what is AVaaS and what does it mean to you.</p>

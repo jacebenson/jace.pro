@@ -1,6 +1,7 @@
 ---
 title: "Kingston Service Catalog form Issues and How to Workaround them"
 date: 2018-08-27T03:29:51.000Z
+authors: ["mohankrishna"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=eefed16bdb8cab040be6a345ca961920"
 ---
 <p class="p1">Starting with Kingston, Service Catalog was introduced with a newer version of “g_form.” Due to this new version of g_form, you may face some unexpected challenges when using catalog forms on an instance running on Kingston.</p>

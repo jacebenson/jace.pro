@@ -1,6 +1,7 @@
 ---
 title: "Support DevOps in the enterprise with ServiceNow"
 date: 2019-10-22T21:52:35.000Z
+authors: ["Deaddin Edris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f0b0291fdb2444145129a851ca961923"
 ---
 <p style="margin: 0in; font-family: Calibri; font-size: 11.0pt;"><span style="font-size: 12pt; font-family: arial, helvetica, sans-serif;">ServiceNow is well positioned to deliver high-quality operations and support to DevOps teams so they can work quickly with minimal downtime and risk.</span></p>

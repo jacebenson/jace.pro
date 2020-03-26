@@ -1,6 +1,7 @@
 ---
 title: "Call to Sponsor  Vancouver SNUG APRIL "
 date: 2020-03-12T01:59:39.000Z
+authors: ["Reema Shah"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6a6164701b2f8810a59033f2cd4bcb26"
 ---
 <p class="ng-scope">Are you a partner interested in sponsoring the next Vancouver SNUG on April 22nd?</p>

@@ -1,6 +1,7 @@
 ---
 title: "o SNUG So Paulo Pesquisa de Satisfao e Data do o SNUG"
 date: 2019-03-14T22:55:12.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=691ed6b3dbc43bc0fece0b55ca9619ab"
 ---
 <p><span style="font-size: 14pt;">A todos os membros da comunidade de usuários ServiceNow Brasil, </span></p>

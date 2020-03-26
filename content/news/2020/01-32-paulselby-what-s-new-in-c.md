@@ -1,6 +1,7 @@
 ---
 title: "Whats new in Customer Service  Management Knowledge Management and Communities in the Orlando release"
 date: 2020-02-01T04:30:57.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=86b6f6b7db6244d414d6fb243996199f"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/3dba1a2bdb0fcc101cd8a345ca96192e.iix" /></p>

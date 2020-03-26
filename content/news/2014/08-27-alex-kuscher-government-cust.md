@@ -1,6 +1,7 @@
 ---
 title: "Government Customers GoLive"
 date: 2014-08-26T21:35:05.000Z
+authors: ["alex.kuscher"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b92ea66ddbd0dbc01dcaf3231f9619bc"
 ---
 <p><span style="color: #0000ff; font-size: 12pt; font-family: calibri,verdana,arial,sans-serif;">Did you know that ServiceNow goes Cake Crazy when we celebrate the go-live of our customers? Check out pictures from our recent go-lives from Federal Government go-lives at <a title="w.usps.gov/" href="http://www.usps.gov/">U.S. Postal Service</a> and <a title="tp//www.occ.gov/" href="http://http//www.occ.gov/">U.S. Treasury, OCC.</a></span><a title="tp//www.occ.gov/" href="http://http//www.occ.gov/"> </a></p><p></p><p><img  alt="IMG_1536.JPG" class="jive-image image-2" src="07deeff5db189b048c8ef4621f96190c.iix" style="height: 465px; width: 620px;"/></p><p></p><p><img  alt="IMG_0304.JPG" class="jive-image image-4" height="399" src="688d45c6db9413043eb27a9e0f961940.iix" style="height: 399.463px; width: 532px;" width="532"/></p>

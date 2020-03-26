@@ -1,6 +1,7 @@
 ---
 title: "Champion Enablement Update"
 date: 2019-12-19T01:42:25.000Z
+authors: ["Kristi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c03aabaddbbd8450190dfb2439961926"
 ---
 <p><span style="font-size: 12pt;">Hi,</span></p>

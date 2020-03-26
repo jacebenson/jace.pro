@@ -1,6 +1,7 @@
 ---
 title: "Frequently Asked Questions to get you started with Continual Improvement Management CIM"
 date: 2019-01-19T03:10:04.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=733b738edb032780afc902d5ca961929"
 ---
 <p class="p1"> </p>

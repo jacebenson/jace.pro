@@ -1,6 +1,7 @@
 ---
 title: "Accessing Email Record from Inbound Email Actions"
 date: 2013-11-22T08:27:05.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=589caae1dbd0dbc01dcaf3231f9619f1"
 ---
 <p>I talked about performing a sanity check on Inbound Email Actions in my last blog entry - http://community.servicenow.com/blog/jimcoyne/inbound-email-actions-sanity-check<br /><br />The Inbound Email Action would fire an event if there were more than 20 lines in the email message. An Email Notification was setup to listen for that event and would notify the administrators of the problem email. I wanted to include a link to that problem email so the admins could just click on the link to go directly to it instead of forcing them to look for it. After a lot of digging around, I finally found a way to do it properly.<br /><br />The Inbound Email Action fires an event with the following line of code:</p>

@@ -1,6 +1,7 @@
 ---
 title: "Architects Corner Podcast Ep Doing Enterprise Architecture at ServiceNow using ServiceNow"
 date: 2017-04-01T00:33:40.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=afad66a9dbd0dbc01dcaf3231f9619d5"
 ---
 <p><span style="font-size: 12pt;">Enterprise Architects have a challenging job since they have to understand various technologies and platforms/tools that are being used across the enterprise.   They also need tools to manage the roadmap of the platforms and the application residing on them.   Enterprise Architects at ServiceNow have the same need.   In this podcast, Rajeev Sethi who is an Enterprise Architect at ServiceNow talks about how he does his work at ServiceNow using the ServiceNow platform.   This gives an insight of the platform capabilities and how other customers can also leverage this platform for doing their Enterprise Architecture work.</span></p>

@@ -1,6 +1,7 @@
 ---
 title: "Product Documentation Updates Redesign Release Dates and More"
 date: 2019-04-16T01:38:30.000Z
+authors: ["lucia.randall"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=21563f02db307300a39a0b55ca961991"
 ---
 <p>If you visit our <a href="https://docs.servicenow.com/" target="_blank" rel="noopener noreferrer nofollow">product documentation site</a>, you will find a couple of new improvements plus other functional enhancements. </p>

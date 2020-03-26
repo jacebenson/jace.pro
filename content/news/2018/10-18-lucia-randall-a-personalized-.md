@@ -1,6 +1,7 @@
 ---
 title: "A Personalized Experience on the Product Documentation Site"
 date: 2018-10-18T02:45:32.000Z
+authors: ["lucia.randall"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=68870958db952f405ed4a851ca96199f"
 ---
 <p>We&#39;re introducing a new experience for all doc site users! We have added a few new functionalities that will help you stay up to date with content that is interesting and relevant to you, while making it easier than ever to find what you&#39;re looking for.</p>

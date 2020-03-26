@@ -1,6 +1,7 @@
 ---
 title: "Building trust in your cloud provider with Security attestations and questionnaires"
 date: 2015-10-27T21:46:11.000Z
+authors: ["cpeake"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a3bd6ea9dbd0dbc01dcaf3231f961963"
 ---
 <p>The ServiceNow Information Security team fills out standardized questionnaires from both the <a title="haredassessments.org/" href="https://sharedassessments.org/" rel="nofollow">Shared Assessments</a> (i.e. the Standardized Information Gathering questionnaire) and <a title="loudsecurityalliance.org/" href="https://cloudsecurityalliance.org/" rel="nofollow">CloudSecurity Alliance (CSA)</a>. The questionnaires are then made available to every customer under an Non-Disclosure Agreement (NDA) annually.</p>

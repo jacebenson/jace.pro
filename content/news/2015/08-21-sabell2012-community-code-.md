@@ -1,6 +1,7 @@
 ---
 title: "Community Code Snippets  System Log Ordering Problem Workaround"
 date: 2015-08-20T17:48:37.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ee9d6e69dbd0dbc01dcaf3231f961951"
 ---
 <p>I've had this be a pain for me from time-to-time.   I will put gs.log or gs.info statements all over my code to flag values and push them to the log.   gs.log and gs.info places these messages onto the worker queue where they are picked up by the next available worker who then dutifully writes the entry out to the log...but, not necessarily in order!</p><p></p><p>For example:</p><p></p><pre __default_attr="javascript" __jive_macro_name="code" class="jive_text_macro jive_macro_code _jivemacro_uid_14400744212541475" jivemacro_uid="_14400744212541475">

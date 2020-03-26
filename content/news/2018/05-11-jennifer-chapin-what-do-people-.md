@@ -1,6 +1,7 @@
 ---
 title: "What Do People Want to Know in the Genius Lounge"
 date: 2018-05-10T23:47:44.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f360e878db4e9f805322f4621f961931"
 ---
 <p>Build a Genius Lounge and customers will come. That’s been the case in the Customer Success zone at Knowledge18 with ServiceNow customers stopping by to ask questions of our experts. And what questions have they been asking?</p>

@@ -1,6 +1,7 @@
 ---
 title: "Get Social with Performance Analytics at Know"
 date: 2018-05-05T01:04:47.000Z
+authors: ["dangrady510"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bd88b1fedbb9d7005322f4621f961983"
 ---
 <p>Knowledge18 is upon us.</p>

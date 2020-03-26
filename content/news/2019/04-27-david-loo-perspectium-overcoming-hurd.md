@@ -1,6 +1,7 @@
 ---
 title: "Overcoming Hurdles to Integration Scalability"
 date: 2019-04-27T00:05:09.000Z
+authors: ["david.loo@perspectium"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9d7a80b9db4db7c0d58ea345ca961976"
 ---
 <p class="p1">When dealing with automation, IT leaders are aware that stumbling at any point along the paths in the automated system will impair that whole system.</p>

@@ -1,6 +1,7 @@
 ---
 title: "New Guide for Developing as a Team now available"
 date: 2019-08-07T23:55:02.000Z
+authors: ["Tanvi Gokhale"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d5e36eb6db0b7b00d58ea345ca961970"
 ---
 <p><span style="text-decoration: underline;">Developing as a Team</span></p>

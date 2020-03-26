@@ -1,6 +1,7 @@
 ---
 title: "SNUG SPONSOR NEEDED  Upstate NY SNUG  Fairport"
 date: 2020-01-23T03:17:15.000Z
+authors: ["Doug Dykes"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3a8f84c9db2ac09014d6fb243996190c"
 ---
 <p>Partners,</p>

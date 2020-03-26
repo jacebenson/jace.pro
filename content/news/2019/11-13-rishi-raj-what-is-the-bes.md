@@ -1,6 +1,7 @@
 ---
 title: "What is the best way of using HR Criteria without impacting application performance"
 date: 2019-11-12T19:41:45.000Z
+authors: ["Rishi Raj"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4e6ef0c61b85c8107a5933f2cd4bcb5f"
 ---
 <p>HR criteria defines the audience for HR content, services, or cases. You can make information available to or create an HR case for specific groups, individuals, or to all employees using HR criteria.</p>

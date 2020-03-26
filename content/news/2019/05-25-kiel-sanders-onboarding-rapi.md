@@ -1,6 +1,7 @@
 ---
 title: "Onboarding Rapid Results Implementation Accelerator"
 date: 2019-05-24T21:05:38.000Z
+authors: ["Kiel Sanders"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=74edef2adbe1f3445129a851ca9619ce"
 ---
 <p><span style="font-size: 10pt;">HR and IT professionals are presented with a variety of choices when implementing Enterprise Onboarding for their organization – What processes need to be improved? What tasks and activities are critical to new hire productivity? How does our current content fit into the new process? How do we increase coordination, visibility, and automation as a result?</span></p>

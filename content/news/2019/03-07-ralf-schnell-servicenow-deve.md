@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Developer Call for Feedback"
 date: 2019-03-06T14:55:29.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1dd553c9db80f3481cd8a345ca961953"
 ---
 <p style="text-align: justify;">Liebe ServiceNow-Entwickler!</p>

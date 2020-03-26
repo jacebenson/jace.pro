@@ -1,6 +1,7 @@
 ---
 title: "How to populate and manage a Continual Service Improvement Register"
 date: 2018-06-15T18:31:33.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=57417018db7a5300b2102926ca96192f"
 ---
 <p class="p1">Once you have identified improvements opportunities that you want to make, where do you capture them today? Are you using Problem/Demand/Project records or tracking them outside of ServiceNow in Excel/PPT?</p>

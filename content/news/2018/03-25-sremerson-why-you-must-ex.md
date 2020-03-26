@@ -1,6 +1,7 @@
 ---
 title: "Why You Must Experience Knowledge "
 date: 2018-03-24T05:09:53.000Z
+authors: ["sremerson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c3dd1ed5dbcddb444816f3231f96198f"
 ---
 <p style="text-align: left;">With over 18,000 attendees expected at Knowledge 18, registrations are being booked faster than an 11,000 horsepower Top Fuel Dragster racing down the drag strip. For ServiceNow diehards, the excitement is building for the opportunity to reconnect with <a href="https://twitter.com/fred_luddy" target="_blank" rel="nofollow">Fred Luddy</a>. Yes, it&#39;s true that our beloved founder will be in attendance this year as a judge for the <a href="https://www.servicenow.com/company/ventures/creatorcon-challenge.html" target="_blank" rel="nofollow">$1M CreatorCon Challenge</a>. Back in 2004, it was Fred&#39;s vision to build a cloud-based platform that would enable regular people to route work effectively through an enterprise and as a result ServiceNow was born. This past January, our CEO John Donahoe surprised the audience at our Sales Kickoff by bringing Fred Luddy to the stage and the energy in the room skyrocketed. During the interview, it was amazing to see just how humbled Fred was that his vision has benefited thousands of companies as the foundation of their digital transformation journeys.</p>

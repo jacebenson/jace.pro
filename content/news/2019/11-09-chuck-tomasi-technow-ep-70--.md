@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Translating your instance"
 date: 2019-11-08T20:05:42.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3d8dd8b8db4dc894d82ffb243996192d"
 ---
 <p><img style="padding-right: 8px;" src="3e1d4b52dbdc3fc45129a851ca96192a.iix" alt="expert-logo-2.png" align="left" />As your organization grows, it&#39;s common that you will need to address multiple languages on your instance. Activating plugins is only part of the solution - there are tables to be aware of, properties to learn, and scripting practices to follow. Join the TechNow team as they guide you through everything you need to know to support a multi-lingual instance.</p>

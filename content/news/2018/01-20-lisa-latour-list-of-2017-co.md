@@ -1,6 +1,7 @@
 ---
 title: "List of  Community Expert Events OnDemand"
 date: 2018-01-20T02:41:38.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=936d2e29dbd0dbc01dcaf3231f9619fd"
 ---
 <p>This is an archive list of Expert Events on the community from 2017.</p>

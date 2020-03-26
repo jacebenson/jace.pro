@@ -1,6 +1,7 @@
 ---
 title: "ITSM   What is ITSM and why do you need it"
 date: 2018-05-31T20:18:03.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0dd93b5bdb5edfc02d1efb651f961927"
 ---
 <p>Is your organization running IT like the airline counter after a canceled flight?</p>

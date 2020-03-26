@@ -1,6 +1,7 @@
 ---
 title: "Whitepaper om Discovery og Software Asset Management"
 date: 2018-08-16T11:44:58.000Z
+authors: ["runemehlum"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8cd62e08db442b4023f4a345ca96198e"
 ---
 <p>Hei SNUG-ere!</p>

@@ -1,6 +1,7 @@
 ---
 title: "Whats new in Orlando for SAM and ITAM"
 date: 2020-01-30T04:42:14.000Z
+authors: ["Bryan Blackburn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f316ecdfdb2a885423f4a345ca96194c"
 ---
 <p><span style="font-size: 12pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/750cd263db4fcc101cd8a345ca961954.iix" /></span></p>

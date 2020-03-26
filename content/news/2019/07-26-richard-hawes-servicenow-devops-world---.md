@@ -1,6 +1,7 @@
 ---
 title: "DevOps World  San Francisco August "
 date: 2019-07-25T23:39:36.000Z
+authors: ["richard.hawes@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e8b3efaadb32bf04d58ea345ca9619b9"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/b592a3aadbfe7f04d58ea345ca961937.iix" /></p>

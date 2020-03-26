@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow  CISITSM "
 date: 2019-11-25T08:34:19.000Z
+authors: ["Kentaro Suzuki"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f342614edb5980d4414eeeb5ca96190a"
 ---
 <p>こんにちは。</p>

@@ -1,6 +1,7 @@
 ---
 title: "Export a Homepage UI Action and Processor"
 date: 2012-05-18T01:35:46.000Z
+authors: ["CapaJC"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f7fca6a5dbd0dbc01dcaf3231f9619fd"
 ---
 <p>Ever wanted to move a homepage from one instance to another? A homepage consists of several parts across three tables, and simply putting update_synch on the tables won't really cut it.<br /><br />A colleague needed to do this, so I threw together a quick "Export to XML" UI Action and accompanying Processor to do this. If you'd like to try it out, just rename the attachments to this blog entry from .txt to .xml, import them to your text instance, and go to Homepage Admin -&gt; Pages. You'll be able to right-click one and Export to XML. Save the file to your computer, go to another instance, go to the Pages list there, right-click the list header, and Import XML. Find the find you saved and import it. Voila. The homepage should appear in your list of homepages where you can right-click and View it.<br /><br />Caveats:<br />1) if the homepage was for a specific user that doesn't exist in the target instance, that obviously won't work well.<br />2) if the homepage references a report or gauge that doesn't exist in the target instance, same deal</p>

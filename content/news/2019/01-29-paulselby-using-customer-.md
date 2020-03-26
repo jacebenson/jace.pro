@@ -1,6 +1,7 @@
 ---
 title: "Using customer data to benefit and not abuse them"
 date: 2019-01-28T23:24:42.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4c97e295db17e3c06c1c02d5ca96196c"
 ---
 <p><img style="padding: 5 px;" src="7547a215db17e3c06c1c02d5ca9619a3.iix" width="270" height="405" align="right" /> Customer data. Companies collect it at the time of purchase or during product registration. Some companies offer online portals where customers can maintain their personal information, view product purchase history, and otherwise &#34;stay in touch.&#34; Today, most companies would maintain it&#39;s the most valuable commodity they own, and many <a href="https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/capturing-value-from-your-customer-data" target="_blank" rel="noopener noreferrer nofollow">studies</a> and<a href="https://www.inc.com/jeff-pruitt/how-to-derive-more-value-from-customer-data.html" target="_blank" rel="noopener noreferrer nofollow"> articles</a> would back that claim.</p>

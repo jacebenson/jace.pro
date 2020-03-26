@@ -1,6 +1,7 @@
 ---
 title: "How to fix the red popup  must declare a cross scope access privilege errors"
 date: 2019-12-03T20:53:16.000Z
+authors: ["Michael Ritchie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ce28d5b8db690c5c5129a851ca961999"
 ---
 <p>Recognize this (note specific scripts and scopes may vary)?</p>

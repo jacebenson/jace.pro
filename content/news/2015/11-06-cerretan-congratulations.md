@@ -1,6 +1,7 @@
 ---
 title: "Congratulations to Red Lobster For their ServiceNow GoLive"
 date: 2015-11-05T17:07:07.000Z
+authors: ["cerretan"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cb4e66addbd0dbc01dcaf3231f9619bb"
 ---
 <p>Let me congratulate Red Lobster on their <a __jive_macro_name="tag" class="jive_macro_tag jive-link-tag-small jive_macro" data-id="go live" data-orig-content="go live" data-renderedposition="10_269.04998779296875_60_17" data-type="tag" href="javascript:;" tag="go live"></a> yesterday in Orlando.   Wonderful leadership by Ginese Smith, Julie Gingras, Ben Damery and others leading this effort.   #InSource &amp; <a title="ccosentino" __default_attr="29753" __jive_macro_name="user" class="jive-link-profile-small jive_macro jive_macro_user" data-id="29753" data-objecttype="3" data-orig-content="ccosentino" data-renderedposition="31_8_88_17" data-type="person" href="/community?id=community_user_profile&user=af04d2eddb1c1fc09c9ffb651f961931">ccosentino</a> was a great partner here bringing it to the finish line.   This is just the beginning for the Red Lobster team, and a great start it is.   Congratulations!<img  alt="IMG_2454.JPG" class="image-1 jive-image" src="9c72080adbd41304b322f4621f9619c0.iix" style="width: 620px; height: 465px;"/><img  alt="IMG_2457.JPG" class="image-2 jive-image" src="da20e3b9db501fc068c1fb651f961918.iix" style="width: 620px; height: 465px;"/><img  alt="IMG_2460.JPG" class="image-3 jive-image" src="2eae418adb1897049c9ffb651f96198b.iix" style="width: 620px; height: 465px;"/></p>

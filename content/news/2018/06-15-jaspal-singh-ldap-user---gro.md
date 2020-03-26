@@ -1,6 +1,7 @@
 ---
 title: "LDAP User  Group sync"
 date: 2018-06-14T20:18:30.000Z
+authors: ["Jaspal Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=40300400dbfe5f405ed4a851ca96193e"
 ---
 <p>Came across a question in community where LDAP Users &amp; Group sync was established &amp; well in place with ServiceNow &amp; worked well for all create, updates &amp; other operations. But there were 2 scenarios where it did not work as desired.</p>

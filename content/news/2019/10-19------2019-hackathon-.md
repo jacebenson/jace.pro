@@ -1,23 +1,30 @@
 ---
 title: "HackathonPart"
-date: 2019-10-18T06:42:14.000Z
-link: "https://community.servicenow.com/community?id=community_blog&sys_id=aaf9ad71dba84c1cfff8a345ca9619a9"
+date: 2019-10-18T19:06:50.000Z
+authors: ["ギター君"]
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=616450c6db64c81013b5fb2439961969"
 ---
-<p>2019年7月、第2回 ServiceNow Japan Hackathon イベントを開催しました&#xff01;<br />今年は2日間に分けての開催となり、7月はパートナー様のみ、9月はお客様のみの大会です。<br />&#xff08;初めての方へ。Hackathonとは、「開発」の意味の “Hack”と“マラソン”を合わせた造語です。<br />つまり、開発マラソン。チームでServiceNowを使って新しいアプリ開発を競ってもらう、というイベントです&#xff09;</p>
-<p> ここでは7月の ServiceNow Japan Hackathon パートナーDayの模様をお届けします。<br />ServiceNowの日本のパートナー12社から1チームずつ参加していただき、グランプリを競っていただきました。</p>
-<p>MCは去年同様「Mr. Hackathon」&#xff08;本当はServiceNow社のSolution Consultant&#xff09;のPeter&#xff08;下写真&#xff09;。<br /><img src="https://community.servicenow.com/e2e86535db684c1cfff8a345ca961992.iix" /><br />相変わらず参加者に「踊れ」や「歌え」など無理強いをしていました。&#xff08;本人曰く「開発にはエネルギー注入が必要」とのこと&#xff09;</p>
-<p> 結論から言うと、パートナー様の「ServiceNow愛」と「新しいものを作る」「働き方改革に貢献する」という崇高な思いをひしひしと感じるイベントでした。</p>
-<p>会場の温度はかなり下げたのですが、それでも参加者の皆さんの開発への情熱で会場が暑い時間帯もあったり、<br /><img src="https://community.servicenow.com/fc096175db684c1cfff8a345ca9619df.iix" /></p>
-<p>中にはデバイスを持ち込んでServiceNowと連携させたり&#xff08;半田ゴテ&#xff1f;これが気温上昇の原因&#xff1f;&#xff09;、<br /><img src="https://community.servicenow.com/e4196975db684c1cfff8a345ca9619f6.iix" /><br /><br />で、無駄口が叩けない、真剣な雰囲気になりました。<br />そっと後ろからのぞき込んでみると、各パートナー様、いろいろな開発切り口やアイデアがあってビックリしました。</p>
-<p>そんな中でもわれらがPeterは「エネルギーの注入」を怠りません。その場に全員立たせて踊らせ、<br /><img src="https://community.servicenow.com/963969f5db684c1cfff8a345ca961987.iix" /></p>
-<p> ベストユニフォーム賞受賞チームも踊らせ、<br /><img src="https://community.servicenow.com/39496139db684c1cfff8a345ca961911.iix" /></p>
-<p> しまいには、ServiceNow社の審査員全員に「YMCA」をやらせていました。なぜか皆さん楽しそうです。<br /><img src="https://community.servicenow.com/bd59e179db684c1cfff8a345ca96194a.iix" /></p>
-<p>さて、いよいよ審査員へのプレゼンテーションです。ここはお互い真剣そのものです。<br /><img src="https://community.servicenow.com/0669a1b9db684c1cfff8a345ca961962.iix" /></p>
-<p>そんな「緊張と緩和」が続く良いムードの中、ついにファイナリストの発表、最終プレゼン。<br /> <img src="https://community.servicenow.com/3d79a9b9db684c1cfff8a345ca9619cd.iix" /><br />日立ソリューションズ株式会社様は、マンション管理用のタスク受付、管理ソリューションです。マンションの住人はいろいろなリクエストをこのチャットボットコンシェルジェを通して登録します。元々リクエスト項目がなくても、リクエスト文字列分析を利用して新しい項目を追加する、などというケアも考えられていました。マンション暮らしの僕は「欲しい&#xff01;」と思いました。</p>
-<p><img src="https://community.servicenow.com/4499adb9db684c1cfff8a345ca9619c4.iix" /> <br />FirstQA Systems 様は顔認証テクノロジーを使って、PCのカメラで登録済みの顔を認識している時だけServiceNow上のデータを表示する、というソリューションです。カメラに別の人間が入り込んだりしただけでServiceNow上のデータが非表示になる、という感度とリアルタイム性がすごいです&#xff01;</p>
-<p><img src="https://community.servicenow.com/54a9253ddb684c1cfff8a345ca961954.iix" /> <br />NTT コミュニケーションズ株式会社様は、死後の数あるタスクを管理するソリューション。確かに人が亡くなった時ってたくさんのタスクが生じますよね。また、生前に自分の遺影を登録しておいたり、BOX連携を使ったフォルダ削除計画・実行など、とても面白いアイデアが満載でした。</p>
-<p> ファイナリストのプレゼン後、参加者全員の投票によって、グランプリはFirstQA Systems様 「顔認証」ソリューションに決まりました&#xff01;おめでとうございます&#xff01;2020年のServiceNow Knowledgeイベント&#xff08;アメリカ オーランドで開催&#xff09;のチケットを無料進呈させていただきました。</p>
-<p> FirstQA Systems様だけでなく、「全パートナー様の開発技術、アイデアは去年よりも数段上をいっており、日本のパートナー様すごかった&#xff01;」<br />とMr. Hackathonも驚いていました。皆様も本当、Peterに良く付き合ってくれたなぁ、、と感謝しています。。</p>
-<p>その後は、同じ会場内で打ち上げ&#xff0b;表彰です。<br /><img src="https://community.servicenow.com/d2c9a9fddb684c1cfff8a345ca9619ca.iix" /></p>
-<p> <img src="https://community.servicenow.com/09d96531dba84c1cfff8a345ca961924.iix" /></p>
-<p> 最後に記念撮影。<br /><img src="https://community.servicenow.com/64e9ad31dba84c1cfff8a345ca9619c0.iix" /><br />いかがでしょうか&#xff1f;この記事で、当日の会場の雰囲気が少しでも伝わればいいなぁ、と思います。<br />最後に、ご参加いただいたパートナー様の皆様には本当に感謝しております。ありがとうございました。<br />今後もこういったイベントを開催し、ServiceNowをどんどん広めたいと思っておりますので、<br />引き続きのご協力をお願いいたします&#xff01;&#xff01;</p>
+<p>2019年9月、今年2回目となるServiceNow Japan Hackathonイベントを開催しました&#xff01;<br />7月の前回はパートナー様が対象でしたが、今回は既存エンドユーザー様5社の皆様にグランプリを競っていただきました。&#xff08;初めての方へ。Hackathonとは、「開発」の意味の “Hack”と“マラソン”を合わせた造語です。つまり、開発マラソン。チームでServiceNowを使って新しいアプリ開発を競ってもらう、というイベントです&#xff09;<br />ここでは当日のシリアスかつ楽しい雰囲気を皆様にお伝えしたいと思います。</p>
+<p>まず受付風景から。参加者の皆様全員に「Hackathon限定&#xff01;ServiceNow Tシャツ」が配られました。これは欲しい&#xff01;ですか&#xff1f;&#xff1f;<br /><img src="https://community.servicenow.com/5e121002dbe0c81013b5fb2439961949.iix" /></p>
+<p>会場に入場すると、はい、今回も「Mr. Hackathon」&#xff08;本当はServiceNow社のSolution Consultant&#xff09;のPeter&#xff08;下写真&#xff09;が待ち受けています。参加者にトロフィーを触らせて、モチベーションを高めます&#xff08;「これが欲しいヒト&#xff5e;&#xff1f;欲しいでしょ&#xff5e;&#xff1f;」的なことを言っていたような&#xff09;。<br /><img src="https://community.servicenow.com/d632d882dbe0c81013b5fb24399619f9.iix" /></p>
+<p>諸々の説明を終えて、いざ開発スタートです&#xff01;<br />いくつかトラブルもありましたが、参加者の皆様の協力もあり、何とかなごやかに進んでいきました。<img src="https://community.servicenow.com/50521806dbe0c81013b5fb243996194b.iix" /></p>
+<p>今回はたった一人での参加という猛者も&#xff01;<br /><img src="https://community.servicenow.com/a9621c86dbe0c81013b5fb243996198b.iix" /></p>
+<p> このデバイス(下写真)、どんな動きをするのでしょうか&#xff1f;ServiceNowとどのように連携するのでしょうか&#xff1f;<br /><img src="https://community.servicenow.com/ce82100adbe0c81013b5fb24399619d8.iix" /></p>
+<p>そして、はい、恒例の「Peterの強制ダンスタイム」&#xff08;笑&#xff09;。YMCA&#xff01;割と楽しい&#xff01;&#xff01;<br /><img src="https://community.servicenow.com/5b92544adbe0c81013b5fb243996198b.iix" /></p>
+<p>さて、お昼のお弁当も食べて、いよいよ審査タイムです。ServiceNow審査員が各テーブルを回ってプレゼンおよびデモを受けるのですが、その順番決めにも公平性を持たせたい、ということで、あみだくじに。<br />そのあみだくじを引く順番をじゃんけんで決める、という「多段階公平制維持メソッド」。<br /><img src="https://community.servicenow.com/87b25c8adbe0c81013b5fb243996198d.iix" /></p>
+<p>各チームのプレゼン、そして審査が始まりました。<br /><img src="https://community.servicenow.com/97039ccedbe0c81013b5fb2439961922.iix" /></p>
+<p>1人でもプレゼンします。<br /><img src="https://community.servicenow.com/a9135402db24c81013b5fb2439961922.iix" /><br /><br />各チームのプレゼン終了後に、ServiceNow のプラットフォームビジネスユニットの責任者、Josh Kahnから参加者の皆様へお礼の挨拶がありました。<br /><img src="https://community.servicenow.com/57239842db24c81013b5fb24399619f6.iix" /></p>
+<p> さて、いよいよ全チームによる参加者全員へのプレゼンです。<br />このプレゼンを見て、全員が投票し、グランプリが決まります。</p>
+<p>まずは、コベルコシステム株式会社様の「謝罪 Now」です。 Virtual AgentやSlack連携を利用して障害対応の迅速な対応、属人的な差をなくす、というソリューションでした。すぐにでも実運用可能、完成度高いという印象です。<br /><img src="https://community.servicenow.com/e8531006db24c81013b5fb2439961927.iix" /></p>
+<p> 続いては、たった一人で参加いただいた沖縄科学技術大学院大学様による「インシデントマッチング・ソリューション」です。別名「出会い系」。インシデントが発行されたら、自分で「これは自分にマッチしたインシデント」として自分をアサインするという、まさに「出会い系」的な、キャッチ―なソリューション。<br /><img src="https://community.servicenow.com/c2635c06db24c81013b5fb24399619b0.iix" /></p>
+<p>次は三菱スペース・ソフトウエア株式会社様の「おでかけNOW」です。Virtual Agentを使ったソリューションで、お出かけ時の「困りごと」を不特定多数の人間が教えてくれる、という親切な提案です。「町おこし」などの活動にも役立ちそうなソリューションです。<br /><img src="https://community.servicenow.com/58835c86db24c81013b5fb2439961930.iix" /></p>
+<p>続いて日本ビジネスシステムズ株式会社様による「Meet Now」です。なんと、ServiceNowを使って犬や猫の殺処分をなくそう、というご提案です。カタログから動物の登録、画像認識サービスなどの連携を駆使して、地域での助け合いを促すソリューションでした。社会貢献を実現する崇高な提案だと思えました。<br /><img src="https://community.servicenow.com/299318c6db24c81013b5fb2439961962.iix" /><br /> <br />最後は株式会社ビズリーチ様の「押印申請Now」。社判を必要とする場面、まだまだありますよね。社判を取得するのにAmazon Web Service (AWS)の顔認証ソリューションを利用して、前述のロックデバイスが自動で「ウイーン」と動いて社判が取り出せる仕組みです。様々な紙承認を短縮化する、ServiceNowの思想にあったソリューションだと思います。<br /><img src="https://community.servicenow.com/9fa3180adb24c81013b5fb243996198f.iix" /></p>
+<p>参加者の皆さんのスマホから投票して、懇親会会場へ移動。グランプリの発表と表彰は懇親会会場で。まずはServiceNow Japan Solution Consultation Senior DirectorのVicrant Pradhan からの挨拶があって、、、</p>
+<p><img src="https://community.servicenow.com/d6c39c4adb24c81013b5fb243996193c.iix" /></p>
+<p>いよいよ発表です。</p>
+<p>第3位は、、、、三菱スペース・ソフトウエア株式会社様の「おでかけNOW」です&#xff01;<br />おめでとうございます&#xff01;<br /><img src="https://community.servicenow.com/5de31ccadb24c81013b5fb243996198d.iix" /></p>
+<p> 第2位は、、、、沖縄科学技術大学院大学様の「インシデントマッチング・ソリューション」です&#xff01;<br />たった一人で2位をゲットです。おめでとうございます&#xff01;<br /><img src="https://community.servicenow.com/dd04184edb24c81013b5fb24399619ab.iix" /></p>
+<p>そしてグランプリは、、、日本ビジネスシステムズ様の「Meet Now」です&#xff01;社会貢献を鑑みた素晴らしいソリューションでした。おめでとうございます&#xff01;<br /><img src="https://community.servicenow.com/11141402db64c81013b5fb24399619b7.iix" /></p>
+<p> その後、ベストユニフォーム賞も発表されて、みんなで記念撮影。皆様笑顔なのが良いですね。<br /><img src="https://community.servicenow.com/b734d806db64c81013b5fb24399619cb.iix" /></p>
+<p>トラブルもありましたが、参加者の皆様のご協力もあって、無事にイベントを終えることができました。前回のパートナー様回と同様、皆様のServiceNow技術に驚かされる1日でした。</p>
+<p>いかがでしょうか&#xff1f;雰囲気は伝わりましたでしょうか&#xff1f;<br />次回はもっと多くの皆様とこの熱量を共有したいと思います&#xff01;ありがとうございました&#xff01;&#xff01;</p>

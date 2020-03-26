@@ -1,6 +1,7 @@
 ---
 title: "Inbound SMS"
 date: 2014-02-27T15:43:09.000Z
+authors: ["bgb"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=175c2aa1dbd0dbc01dcaf3231f9619ef"
 ---
 <p>Hi,</p><p></p><p>My name is Brian Gadeberg Buur and I work in A Nordic Service Company - Neisa. I ´m new to this forum and if this is not a place for my question - please let me know where to ask them.</p><p></p><p>We already have ServiceNow running and the plan is to implement Servicenow within the next 4 month. We "only" need to find the right partner - both for implementing and for future collaboration. This is already in progress.</p><p></p><p>Meanwhile we try find solutions for ideas and existing core business functionality. One topic is Inbound SMS and log file. </p><p>Has anyone tried to</p><p>- set up inbound SMS</p><p>- record SMS data in a log file and relate it to any kind of "case"</p><p>- Maybe the same functionality with watermarks in inbound E-mail is an solution - automatically to create the link between SMS and "Case"</p><p></p><p>Txs,</p><p>Brian</p>

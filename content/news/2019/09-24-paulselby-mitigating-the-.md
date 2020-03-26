@@ -1,6 +1,7 @@
 ---
 title: "Mitigating the wait frustration in customer service"
 date: 2019-09-23T21:15:54.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=28320406db88c4546064eeb5ca96192a"
 ---
 <p><img class="wp-image-4023" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/09/bank-3527570.png" alt="" width="326" height="181" align="left" /></p>

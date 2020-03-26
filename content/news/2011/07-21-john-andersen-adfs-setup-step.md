@@ -1,6 +1,7 @@
 ---
 title: "ADFS setup steps for ServiceNow SAML "
 date: 2011-07-20T22:56:25.000Z
+authors: ["john.andersen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=959c2ee1dbd0dbc01dcaf3231f961929"
 ---
 <p>There have been a number of questions on the forum lately regarding active directory Federation services (ADFS 2.0) and the ServiceNow SAML 2.0 plug-in. John Gubatayao (from Navigis) and I were able to work together to get this to work. David Pesano typed up a great set of instructions which I have posted here:<br /><br /><a href='http://www.john-james-andersen.com/blog/service-now/ad-fs-2-0-working-with-servicenow-saml-2-0.html'>Active Directory Federation Services with ServiceNow SAML 2.0</a><br /><br />I have submitted this to the documentation team. When they approve it, I hope to have it on the wiki. <br /><br />I will post the official wiki document link as a comment to this blog entry as soon as it is approved. <br /><br />Many thanks goes to John Gubatayao and David Pesano for their painstaking research and documentation!</p>

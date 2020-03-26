@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Scripting  Calling a SubWorkflow Part II"
 date: 2015-09-23T04:56:22.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=039ceee1dbd0dbc01dcaf3231f961953"
 ---
 <p style="font-size: 13px; font-family: arial, sans-serif; color: #666666;"><span style="font-weight: inherit; font-style: inherit; font-size: 12pt; font-family: inherit;">All:</span></p>

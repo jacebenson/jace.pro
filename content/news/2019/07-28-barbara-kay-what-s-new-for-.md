@@ -1,6 +1,7 @@
 ---
 title: "Whats new for Security Incident Response in New York"
 date: 2019-07-27T06:07:00.000Z
+authors: ["Barbara Kay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8df58a4bdb32fb442be0a851ca961956"
 ---
 <p><strong><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/34b2195edb2f778414d6fb243996199e.iix" /></strong></p>

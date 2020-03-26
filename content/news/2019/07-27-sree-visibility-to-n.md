@@ -1,6 +1,7 @@
 ---
 title: "Visibility to Nutanix"
 date: 2019-07-26T10:53:06.000Z
+authors: ["Sree"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=12ddb17adbb2f344d58ea345ca961900"
 ---
 <p style="text-align: justify;"><span style="font-size: 12pt;">The hyper-converged infrastructure (HCI) market has seen double-digit growth for the past few years and the market is consolidating with two dominant players, VMware and Nutanix.  With the fast-paced changes in today’s IT environments, driven by trends such as HCI, cloud adoption, containers, and serverless computing, a service-aware CMDB is more pertinent than ever.  Service uptime is no longer a goal, it is a fundamental expectation and when mission-critical services go down, customers looking for near real-time visibility to the infrastructure stack and would like to understand the application service impact.    </span></p>

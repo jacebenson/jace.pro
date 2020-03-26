@@ -1,6 +1,7 @@
 ---
 title: "Retrieved Update Set Modules"
 date: 2018-10-15T21:55:47.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3002fda7db45e700200f0b55ca96197d"
 ---
 <h5>Included in the <a href="community?id&#61;community_blog&amp;sys_id&#61;b3c843aadb892b40fece0b55ca961906" rel="nofollow">Developer Toolbox</a> Update Set available on Share (link in the &#34;Developer Toolbox&#34; post).</h5>

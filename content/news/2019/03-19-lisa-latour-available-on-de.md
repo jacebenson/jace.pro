@@ -1,6 +1,7 @@
 ---
 title: "Available on demand  Now Platform Madrid Release Broadcast"
 date: 2019-03-18T22:59:55.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=59858f45db10ff045129a851ca96199e"
 ---
 <h3>Couldn&#39;t make the live event?  Now you can watch the recording of all the new features and development in the Madrid release.</h3>

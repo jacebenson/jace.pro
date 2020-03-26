@@ -1,6 +1,7 @@
 ---
 title: "Thread  What other business processes should be on ServiceNow PaaS"
 date: 2012-10-26T00:03:33.000Z
+authors: ["mhehn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=141e6e2ddbd0dbc01dcaf3231f9619e2"
 ---
 <p>ServiceNow is much more than incident, problem, change etc.<br />It's a platform enabling everybody to build her or his own applications and business processes on top of ServiceNow.<br /><br />The SNUGG ServiceNow German User Group is collecting ideas, which business processes could be handled by ServiceNow, too, either by ServiceNow providing modules or by individuals, partners or customers building these modules themselves.<br /><br />One valid answer (though not the most convincing) could be to handle HR processes with ServiceNow. Everything is a task with workflows, so is hiring, employee management and workplace specification.<br /><br />Challenge me, you will have better ideas than HR (or prove me wrong and build an HR module for ServiceNow, your choice).</p>

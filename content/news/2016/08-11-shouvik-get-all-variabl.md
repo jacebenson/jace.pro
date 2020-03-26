@@ -1,6 +1,7 @@
 ---
 title: "Get all variables for a given catalog item"
 date: 2016-08-10T15:56:40.000Z
+authors: ["shouvik"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bd6eeeaddbd0dbc01dcaf3231f96195a"
 ---
 <p>Catalog Variables are stored in a table <em>item_option_new</em>.</p>

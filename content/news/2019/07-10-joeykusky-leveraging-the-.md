@@ -1,6 +1,7 @@
 ---
 title: "Leveraging the MS Teams Spoke in Integration Hub"
 date: 2019-07-10T01:30:29.000Z
+authors: ["joeykusky"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3ca3a969db62bfc0d82ffb2439961962"
 ---
 <p> </p>

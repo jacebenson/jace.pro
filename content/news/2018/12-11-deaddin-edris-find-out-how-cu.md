@@ -1,6 +1,7 @@
 ---
 title: "Find Out How Customers Achieve M in Benefits by Staying Current with ServiceNow Upgrades"
 date: 2018-12-11T01:37:11.000Z
+authors: ["Deaddin Edris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=72ffea2ddbda63402e8c2183ca961962"
 ---
 <h3 class="p1"><img style="max-width: 100%; max-height: 480px; float: right; margin-left: 10px;" src="53716fa9db16274011762183ca96191a.iix" width="229" height="296" />New Study: The Total Economic Impact™ Of Staying Current with ServiceNow Upgrades</h3>

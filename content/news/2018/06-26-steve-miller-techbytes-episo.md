@@ -1,6 +1,7 @@
 ---
 title: "TechBytes Episode  Embedded Help and Guided Tours"
 date: 2018-06-26T03:07:00.000Z
+authors: ["Steve Miller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6327426fdbb21fc00be6a345ca96199b"
 ---
 <p>In this episode, <a href="community?id&#61;community_user_profile&amp;user&#61;84501629db581fc09c9ffb651f961932" rel="nofollow">Darius Koohmarey</a> and <a href="community?id&#61;community_user_profile&amp;user&#61;2bcfc221db581fc09c9ffb651f961995" rel="nofollow">Sameep Kodia</a> talk about the Embedded Help and Guided Tour features to give users helpful info while they&#39;re using the product. </p>

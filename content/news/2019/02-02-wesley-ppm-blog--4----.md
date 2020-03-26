@@ -1,6 +1,7 @@
 ---
 title: "PPM Blog    Sprint   Base Config"
 date: 2019-02-02T03:43:02.000Z
+authors: ["Wesley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=13094cf2db5f2700f21f5583ca9619a0"
 ---
 <p><span style="font-size: 12pt;">For our second sprint, our focus was the following:</span><br /><span style="font-size: 12pt;"> 1) Walking through all the configurations under the Project Administration settings in PPM.</span><br /><span style="font-size: 12pt;"> 2) Mapping all the roles and security groupings for our users.</span></p>

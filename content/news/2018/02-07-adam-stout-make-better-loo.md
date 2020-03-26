@@ -1,6 +1,7 @@
 ---
 title: "Make Better Looking Dashboards with Content Blocks"
 date: 2018-02-07T05:48:14.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=29ec2e65dbd0dbc01dcaf3231f9619a4"
 ---
 <p>The discussion below is intended for any person building Dashboards.   No JavaScript or Performance Analytics experience is required.   A working knowledge of HTML is useful but not required.</p>

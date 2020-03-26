@@ -1,6 +1,7 @@
 ---
 title: "Servicenow Integration with YouTube"
 date: 2019-01-25T03:31:17.000Z
+authors: ["Harshvardhan"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=38a97ec0db9bef402e8c2183ca96199e"
 ---
 <p>We can integrate Service-now with YouTube by using google API.</p>

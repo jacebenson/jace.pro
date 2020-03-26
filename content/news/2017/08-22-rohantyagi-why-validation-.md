@@ -1,6 +1,7 @@
 ---
 title: "Why validation errors occur on catalog variable DateTime formats"
 date: 2017-08-22T03:51:54.000Z
+authors: ["rohantyagi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=707c22e1dbd0dbc01dcaf3231f961999"
 ---
 <p>If you are getting validation errors on the Service Catalog variables, specifically for the type &#34;date&#34; or &#34;date/time&#34; variables or your users are complaining about not being able to submit requests due to invalid text errors; then you are in the right place! If you are getting a &#34;The following fields contain invalid text: Enter Date&#34; message, I have some details for you.</p>

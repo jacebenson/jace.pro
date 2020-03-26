@@ -1,6 +1,7 @@
 ---
 title: "Like many companies we are asking ourselves How can we help"
 date: 2020-03-20T19:25:32.000Z
+authors: ["Sarah Struble"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=598d5d23dbeb4c9423f4a345ca9619c2"
 ---
 <h3><strong>Let&#39;s put technology to work during the COVID-19 pandemic with apps and resources to accelerate your crisis response.</strong></h3>

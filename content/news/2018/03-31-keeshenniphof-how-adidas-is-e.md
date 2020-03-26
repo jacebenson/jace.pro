@@ -1,6 +1,7 @@
 ---
 title: "How adidas is empowering employees with an enhanced selfservice experience"
 date: 2018-03-31T01:32:06.000Z
+authors: ["keeshenniphof"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=412fa563db0d97482e247a9e0f96199c"
 ---
 <h4><a href="https://event.on24.com/wcc/r/1633795/52679BE5FE2BC9B0E334F3EB5464763F" target="_blank" rel="nofollow">Join us April 12</a> for an in-depth discussion about how adidas utilized an AI-driven agent to facilitate and automate employee service related workplace communication to modernize their IT service management (ITSM) approach.</h4>

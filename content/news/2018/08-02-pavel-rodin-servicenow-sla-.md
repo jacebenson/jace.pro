@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow SLA reporting Useful or not"
 date: 2018-08-01T18:23:01.000Z
+authors: ["Pavel Rodin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6412b693dbe393005ed4a851ca9619e0"
 ---
 <p> </p>

@@ -1,6 +1,7 @@
 ---
 title: "Carbon Paper "
 date: 2015-06-24T01:38:47.000Z
+authors: ["Slava"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e45d2629dbd0dbc01dcaf3231f96192d"
 ---
 <p style="text-align: justify;">It is no secret for any ServiceNow administrator that there are lots of situations where you need to copy information from one record to another or even create a new record as a copy of another record. The easiest way to do it programmatically is to execute a script similar to this:</p><p style="text-align: justify;"></p><pre __default_attr="javascript" __jive_macro_name="code" class="jive_text_macro jive_macro_code _jivemacro_uid_14350919848193347" jivemacro_uid="_14350919848193347">

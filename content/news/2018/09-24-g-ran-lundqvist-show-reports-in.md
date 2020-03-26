@@ -1,6 +1,7 @@
 ---
 title: "Show reports in Service Portal Easy peasy"
 date: 2018-09-23T23:51:33.000Z
+authors: ["Göran Lundqvist"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b5893ce8dbb82784d58ea345ca961905"
 ---
 <p>Many people have asked for an easy way to publish reports within the Service Portal. And there answer has actually been there, hiding OOB within the instance.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Customer service at the time of death"
 date: 2018-05-12T08:27:22.000Z
+authors: ["abbasrangwala"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=edf0e749db4a1fc04837f3231f961956"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="b9206785db4a1fc04837f3231f961958.iix" /></p>

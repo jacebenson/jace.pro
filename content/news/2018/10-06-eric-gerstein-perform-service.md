@@ -1,6 +1,7 @@
 ---
 title: "Perform ServiceNow upgrades quicker and more effectively"
 date: 2018-10-05T20:13:36.000Z
+authors: ["Eric Gerstein"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a6ba7954dbcde3005ed4a851ca961963"
 ---
 <p>ServiceNow upgrades provide a great opportunity to take advantage of new innovation. But you can fall into the trap of falling behind on upgrades because they’re perceived as too time-consuming, and not factored in appropriately to your ServiceNow roadmap. Fortunately, there are steps you can take to simplify the upgrade process, to ensure you’re delivering new functionality and value.</p>

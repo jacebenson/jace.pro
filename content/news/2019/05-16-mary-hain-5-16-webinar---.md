@@ -1,6 +1,7 @@
 ---
 title: " Webinar  Now on Now Enabling Intelligent Operations Using ITOM AIOps and the Now Platform"
 date: 2019-05-15T07:48:22.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c211aaafdb11bb8cf7fca851ca9619c8"
 ---
 <h1 class="">Now on Now: Enabling Intelligent Operations Using ITOM, AIOps, and the Now Platform</h1>

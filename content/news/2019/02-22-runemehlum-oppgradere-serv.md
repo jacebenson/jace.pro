@@ -1,6 +1,7 @@
 ---
 title: "Oppgradere ServiceNow til siste versjon Hvorfor det da"
 date: 2019-02-21T14:15:14.000Z
+authors: ["runemehlum"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c5ff04c5db37a780f7fca851ca961956"
 ---
 <p>Hei SNUGGERE!</p>

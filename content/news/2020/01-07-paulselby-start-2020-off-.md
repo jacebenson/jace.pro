@@ -1,6 +1,7 @@
 ---
 title: "Start  off right with a  focus on knowledge management"
 date: 2020-01-06T22:32:27.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f6e43037db0e4810190dfb2439961947"
 ---
 <p><img class="wp-image-4395" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2020/01/book-2869.jpg?w&#61;1024" alt="" width="351" height="233" align="left" /></p>

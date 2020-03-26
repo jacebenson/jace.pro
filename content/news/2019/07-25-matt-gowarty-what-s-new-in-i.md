@@ -1,6 +1,7 @@
 ---
 title: "Whats new in IT Operations Management in the New York release"
 date: 2019-07-24T22:44:51.000Z
+authors: ["Matt Gowarty"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7c9d4a92dbbaff00414eeeb5ca9619e4"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/2c82915edb2f778414d6fb243996192b.iix" /></p>

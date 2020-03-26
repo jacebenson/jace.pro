@@ -1,6 +1,7 @@
 ---
 title: "New Success Playbook Stand up a ServiceNow Center of Excellence and Innovation"
 date: 2019-10-07T23:56:28.000Z
+authors: ["Deaddin Edris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=813d682adb18c850d82ffb243996190a"
 ---
 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><strong>New Success Playbook: Stand up a ServiceNow Center of Excellence and Innovation</strong></span></p>

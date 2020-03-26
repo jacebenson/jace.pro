@@ -1,6 +1,7 @@
 ---
 title: "What to expect from SAM at Knowledge "
 date: 2019-04-16T21:48:57.000Z
+authors: ["Bryan Blackburn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2c6b482edbbc3340a39a0b55ca961955"
 ---
 <p class="p1">This year at Knowledge 19, SAM is excited to offer even more breakout sessions, labs, and panels. At the SAM booth, you will be able to talk with experts about ServiceNow Software Asset Management or view a demo highlighting new and enhanced features and capabilities. As the only SAM solution on the market to run on a single architecture platform, you can maximize your ServiceNow platform investments with business applications that work better together.</p>

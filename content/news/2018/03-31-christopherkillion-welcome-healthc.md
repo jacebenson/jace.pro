@@ -1,6 +1,7 @@
 ---
 title: "Welcome Healthcare Community Members"
 date: 2018-03-30T10:02:53.000Z
+authors: ["christopherkillion"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=297ada97db099b842d1efb651f961952"
 ---
 <h1>Welcome Healthcare Professionals!</h1>

@@ -1,6 +1,7 @@
 ---
 title: "ITSM Highlights in the Madrid Release"
 date: 2019-02-26T01:29:26.000Z
+authors: ["archanapenukonda"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c8a0d71adbbbe784a39a0b55ca96192d"
 ---
 <p><span style="font-size: 10pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.comhttps://community.servicenow.com/e0dfe751db88ff48190dfb24399619f6.iix" /></span></p>

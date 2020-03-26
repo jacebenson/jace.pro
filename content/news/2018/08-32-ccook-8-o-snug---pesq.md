@@ -1,6 +1,7 @@
 ---
 title: "o SNUG  Pesquisa de Satisfao"
 date: 2018-08-31T19:41:53.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=54d3a109db5caf048e7c2926ca96191d"
 ---
 <p>Prezado Participante, </p>

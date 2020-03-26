@@ -1,6 +1,7 @@
 ---
 title: "Reducing IT Outage Chaos"
 date: 2016-10-01T10:07:32.000Z
+authors: ["sheila.pickett"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=00ecaa65dbd0dbc01dcaf3231f96196f"
 ---
 <p>For banks, the consequences of an IT outage can be significant, but legacy and complex infrastructure make this problem inevitable. So how can banks handle this problem? In her most recent article, <a title="" _jive_internal="true" href="https://ca.linkedin.com/in/juliasmithconsultant" rel="nofollow" target="_blank">Julia Smith</a> reviews examples of how some banks are looking to use ServiceNow to better manage their response when an outage does occur:</p><p></p><p><a href="https://www.linkedin.com/pulse/how-servicenow-can-reduce-outage-chaos-across-banking-julia-smith?trk=prof-post" title="https://www.linkedin.com/pulse/how-servicenow-can-reduce-outage-chaos-across-banking-julia-smith?trk=prof-post">https://www.linkedin.com/pulse/how-servicenow-can-reduce-outage-chaos-across-banking-julia-smith?trk=prof-post</a> </p>

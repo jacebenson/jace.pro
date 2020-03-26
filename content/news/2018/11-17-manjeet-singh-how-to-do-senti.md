@@ -1,6 +1,7 @@
 ---
 title: "How to do Sentiment Analysis on ServiceNow Survey Result"
 date: 2018-11-17T03:44:40.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=54076775db7da700afc902d5ca96196c"
 ---
 <p class="p1">Survey Questions that let respondents reply with a comment provide valuable information. But how do you quickly analyze user&#39;s opinion when you are getting hundreds of Surveys results every week with lots of feedback comment in a text form?</p>

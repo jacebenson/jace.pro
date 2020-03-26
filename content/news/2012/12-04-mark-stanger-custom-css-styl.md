@@ -1,6 +1,7 @@
 ---
 title: "Custom CSS style sheets in nonCMS pages"
 date: 2012-12-03T23:24:38.000Z
+authors: ["Mark Stanger"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=07cda2e9dbd0dbc01dcaf3231f96198a"
 ---
 <p>One of my favorite things about doing ServiceNow work at <a href="http://www.crossfuze.com" title="Crossfuze Solutions" target="_blank">Crossfuze</a> is the opportunity to collaborate with our customers to come up with unique ways to solve problems. I'm usually brought in to train and teach, but there's not a client I've worked with that hasn't taught me a few things as well. A couple of weeks ago, a ServiceNow administrator at one of our clients, Shannon Thurston, came up with a great idea for building a common CSS stylesheet for all of their knowledge articles. This idea can be used throughout the system, and is pretty simple to implement. In this article I'll show you how to leverage custom CSS stylesheets in non-CMS pages in ServiceNow.<br /><br /><center><a href="http://www.servicenowguru.com/content-management/custom-stylesheets-noncms-pages/"><img src="http://www.servicenowguru.com/wp-content/uploads/2012/12/KBStyleSheet-300x174.jpeg" alt="KB Style Sheet" title="KB Style Sheet" width="300" height="174" class="aligncenter size-medium wp-image-4699" /></a><br /><br /><h3>Click here to learn more!</h3></center><br /><!--break--></p>

@@ -1,6 +1,7 @@
 ---
 title: "Save Email Text as Attachment"
 date: 2018-06-11T23:15:16.000Z
+authors: ["Michael Ritchie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=94ebc947db621b002be0a851ca961921"
 ---
 <p>As you may know, ServiceNow has the ability to accept an inbound email and perform some action.  <a href="https://docs.servicenow.com/bundle/kingston-servicenow-platform/page/administer/notification/concept/c_InboundEmailActions.html" rel="nofollow">Inbound email actions</a> allow you to configure what happens when the instance receives an email. Any attachments on the email will automatically get attached to the record created by the email.  If the created record is of type task, the activity stream will also contain a link to the contents of the inbound email as well:</p>

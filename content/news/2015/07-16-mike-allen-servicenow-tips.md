@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Tips and Tricks"
 date: 2015-07-15T22:21:49.000Z
+authors: ["Mike Allen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=da0deaa5dbd0dbc01dcaf3231f96197b"
 ---
 <p><span style="; font-size: 14pt; text-decoration: underline;"><strong>Useful External Websites</strong></span></p>

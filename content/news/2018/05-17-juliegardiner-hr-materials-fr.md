@@ -1,6 +1,7 @@
 ---
 title: "HR Materials from Knowledge Available to Download Now"
 date: 2018-05-17T01:31:56.000Z
+authors: ["juliegardiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=34d173aedbce57042328f3231f961973"
 ---
 <p><strong>Knowledge18 </strong>included more content than ever before focused on HR, including the HR Keynote, 30&#43;HR breakout sessions, hands-on lab learning sessions, and 2 HR industry thought-leader sessions.</p>

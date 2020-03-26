@@ -1,6 +1,7 @@
 ---
 title: "Whats New in Customer Service  Management Field Service Management Knowledge Management and Communities in the London release"
 date: 2018-08-14T04:28:11.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=96af6253dbb3db00b2102926ca96190b"
 ---
 <p><img style="float: left; margin-right: 10px;" src="467cb12fdb7f5f00fece0b55ca96193c.iix" width="245" height="152" /></p>

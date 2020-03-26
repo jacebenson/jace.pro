@@ -1,6 +1,7 @@
 ---
 title: "The right server call  http vs server update"
 date: 2018-11-22T00:31:13.000Z
+authors: ["Gaurav Bajaj"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1faa60a3dbb9a38011762183ca9619d6"
 ---
 <p> </p>

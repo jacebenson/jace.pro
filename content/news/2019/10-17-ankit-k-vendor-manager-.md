@@ -1,6 +1,7 @@
 ---
 title: "Vendor Manager Workspace"
 date: 2019-10-17T00:34:56.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=545c8f51db2c8018f7fca851ca961908"
 ---
 <p style="text-align: center;"><img src="https://community.servicenow.com/85db43d9dbe88018f7fca851ca9619fc.iix" width="796" height="57" /></p>

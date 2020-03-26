@@ -1,6 +1,7 @@
 ---
 title: "Importing LDAP Data  Matching on Multiple Fields"
 date: 2018-07-11T23:52:31.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ae14fbe8dbd75740fff8a345ca961992"
 ---
 <p>You may find yourself in a situation where the data in AD is not 100% correct (it never is) and making the corrections in AD could take a while.  For instance, you may find half of your AD records have the &#34;company&#34; attribute set to &#34;ACME Corporation&#34; and the other half set to &#34;ACME Corp&#34;.</p>

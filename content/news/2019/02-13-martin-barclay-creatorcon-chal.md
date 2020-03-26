@@ -1,6 +1,7 @@
 ---
 title: "CreatorCon Challenge  Investor Pitch Video Tips"
 date: 2019-02-12T21:56:21.000Z
+authors: ["Martin Barclay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8c33ab42dbe7e7c04abd5583ca9619e3"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="03206b8edbe3e7c04abd5583ca96197e.iix" /></p>

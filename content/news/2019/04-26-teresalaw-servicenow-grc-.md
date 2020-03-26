@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow GRC is Everywhere at Knowledge"
 date: 2019-04-25T07:52:07.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4e226709db45bb8014d6fb2439961916"
 ---
 <p><img src="https://community.servicenow.com/a4716345db45bb8014d6fb2439961905.iix" /></p>

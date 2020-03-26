@@ -1,6 +1,7 @@
 ---
 title: "Security Top Tips Part  Are you giving attackers a free password Best practices for password security"
 date: 2020-01-07T23:09:08.000Z
+authors: ["ashok-sn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8ae6cec4db1a0050190dfb24399619c0"
 ---
 <h3><strong><img src="https://community.servicenow.com/20624a08db960050190dfb2439961907.iix" width="735" height="334" /> </strong></h3>

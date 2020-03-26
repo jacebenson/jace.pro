@@ -1,6 +1,7 @@
 ---
 title: "A Discussion with Murali Subbarao and Debu Chatterjee on ServiceNows Acquisition of Parlo"
 date: 2018-05-04T23:58:46.000Z
+authors: ["Robert Duffner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8769adb2dbf51700b61ff3231f961918"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="79e465f6db751700b61ff3231f9619a9.iix" /></p>

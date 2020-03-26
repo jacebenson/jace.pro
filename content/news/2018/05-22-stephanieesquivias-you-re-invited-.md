@@ -1,6 +1,7 @@
 ---
 title: "Youre Invited Configuration Management Database Workshop"
 date: 2018-05-22T03:20:04.000Z
+authors: ["stephanieesquivias"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=298ab11cdb1e9b002e247a9e0f9619e0"
 ---
 <p><strong>Come join us for the Configuration Management Database Workshop, with our CMDB Senior Outbound Product Manager, Drew Hart!</strong></p>

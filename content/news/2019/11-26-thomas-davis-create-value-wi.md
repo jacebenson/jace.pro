@@ -1,6 +1,7 @@
 ---
 title: "Create Value with Descriptions in Performance Analytics Components"
 date: 2019-11-25T21:10:59.000Z
+authors: ["Thomas Davis"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8c8fc012db9984d4190dfb2439961900"
 ---
 <p><img style="width: 200px; max-width: 100%; max-height: 480px; float: right;" src="https://community.servicenow.com/9e34015adb9188d4190dfb2439961968.iix" /></p>

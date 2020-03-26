@@ -1,6 +1,7 @@
 ---
 title: "Combine humans and bots for a winning customer service experience"
 date: 2019-07-08T21:07:30.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b6dddb09db6efbc0e0e80b55ca96190b"
 ---
 

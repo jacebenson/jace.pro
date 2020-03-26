@@ -1,6 +1,7 @@
 ---
 title: "NowForum am  Oktober in Frankfurt"
 date: 2016-09-26T17:38:37.000Z
+authors: ["averell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=04dde2e9dbd0dbc01dcaf3231f9619a5"
 ---
 <p><img  class="image-1 jive-image" src="e8b66002db14dfc03eb27a9e0f961925.iix" style="max-width: 1200px; max-height: 900px;"/></p><p></p><p>Das deutschsprachige ServiceNow Event 2016 steht vor der Tür. Wir würden uns freuen, auch wieder unsere österreichischen Kunden dort zu treffen! Sowohl <a title="helmutpfeiler" __default_attr="38880" __jive_macro_name="user" class="jive-link-profile-small jive_macro jive_macro_user" data-id="38880" data-objecttype="3" data-orig-content="helmutpfeiler" data-renderedposition="427.20001220703125_8_100_17" data-type="person" href="/community?id=community_user_profile&user=d73fc2a5db181fc09c9ffb651f9619fb">helmutpfeiler</a> wie auch ich <a title="averell" __default_attr="28470" __jive_macro_name="user" class="jive-link-profile-small jive_macro jive_macro_user" data-id="28470" data-objecttype="3" data-orig-content="averell" data-renderedposition="427.20001220703125_193.1125030517578_59_17" data-type="person" href="/community?id=community_user_profile&user=6fffc6e1db581fc09c9ffb651f9619eb">averell</a> werden bei Breakout-Sessions Vorträge halten! Siehe <a href="http://www.servicenow.com/nowforum-frankfurt/agenda.html" title="http://www.servicenow.com/nowforum-frankfurt/agenda.html">Frankfurt NOWForum Agenda | ServiceNow</a> </p><p>CU in Frankfurt</p>

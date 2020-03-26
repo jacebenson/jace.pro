@@ -1,6 +1,7 @@
 ---
 title: "Customer service automation is now more important than ever"
 date: 2020-03-23T21:07:13.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6f811160dbb3cc944819fb243996190c"
 ---
 <p><img class="wp-image-4815" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2020/03/business-4646286.jpg?w&#61;1024" width="439" height="192" align="right" /></p>

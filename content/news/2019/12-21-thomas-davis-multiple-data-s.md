@@ -1,6 +1,7 @@
 ---
 title: "Multiple Data Sets  Drilldowns  Office Hours  Dec  Recap"
 date: 2019-12-20T19:56:37.000Z
+authors: ["Thomas Davis"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5a3e245edb750490feb1a851ca961980"
 ---
 <p class="ng-scope">During the <a title="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" href="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" rel="nofollow">Performance Analytics and Reporting Office Hours</a> on December 18th, we covered a quick introduction into how Multiple Data Sets &amp; Drilldowns work in Reporting.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Parental Leave Employee Journey"
 date: 2019-10-10T06:34:54.000Z
+authors: ["krista.forget"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=789b1897dbd488940be6a345ca9619d2"
 ---
 <p>One of the questions we hear most from customers who are looking to start using ServiceNow is, &#34;where do I start?&#34;  In my conversations with customers, a common ask is for more out-of-box configurations and content that gives a perspective on what&#39;s possible in ServiceNow. Customers know their business, but they want guidance on how to layer it into the tools we provide.</p>

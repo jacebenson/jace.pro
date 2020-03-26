@@ -1,6 +1,7 @@
 ---
 title: "Employee Scoring"
 date: 2019-08-15T20:33:37.000Z
+authors: ["Michael Fry"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fc828b19db1f37001cd8a345ca9619bc"
 ---
 <p>We were asked by management for a way to grade or rank employees by their work. After brainstorming a bit, we developed a formula of sorts. I talked to a few of you at the K19 event and thought I’d share what we developed for calculating the scores on a monthly base. I welcome feedback from others doing something similar for comparison. From the initial results we could see who’s working hard and who’s hardly working. We ran the results for a few months without telling anyone and then we announced the scoring model. At that point we built Performance Analytics (PA) indicators so employees could track their own monthly scores compared to overall scores. The number of questions we received around the scores; why my number was this, how do I get it better, meant employees were tracking their work. We felt if employees can visually see and understand their ‘numbers’, they will work to make it better. For those that don’t care or try to improve, well you can probably guess the end results.</p>

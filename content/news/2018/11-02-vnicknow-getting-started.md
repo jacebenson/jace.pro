@@ -1,6 +1,7 @@
 ---
 title: "Getting Started CMDB Health Automation"
 date: 2018-11-01T23:59:07.000Z
+authors: ["vNickNOW"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=894131c5dbe96700afc902d5ca96196d"
 ---
 <p>Management guru Peter Drucker noted that &#34;you can&#39;t manage what you can&#39;t measure&#34;.  I&#39;m going to make a bold statement and say that every customer using the CMDB is struggling, or has struggled in the past, to operationalize the data, and this is most commonly attributed to a lack of easy visibility and control over metrics surrounding CMDB health.  Whether using it for standard IPC (incident, problem, change) processes, or for other platform functions like IT Business Management or Security Operations, the CMDB is a valuable source of data for understanding your IT operating estate.  At the same time, this valuable source of data can also make platform users pull their hair out trying to keep up with all the changes going on in the environment and how that impacts CI (configuration item) data.</p>

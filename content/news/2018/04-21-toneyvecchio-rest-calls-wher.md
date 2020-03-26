@@ -1,6 +1,7 @@
 ---
 title: "REST calls where seperate Auth token must be requested  a dash of AJAX Client Script with CloudBolt Example"
 date: 2018-04-20T20:46:59.000Z
+authors: ["toneyvecchio"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d547f492db61d300fc5b7a9e0f9619d2"
 ---
 <p>Greetings all,</p>

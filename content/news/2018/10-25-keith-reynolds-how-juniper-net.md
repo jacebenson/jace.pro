@@ -1,6 +1,7 @@
 ---
 title: "How Juniper Networks Manages Security Incident Response"
 date: 2018-10-24T21:08:22.000Z
+authors: ["Keith Reynolds"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=357dbf5edb912380f0612183ca96190f"
 ---
 <p><em>“The Customer Success Team and the Development team are really great to work with and interested in improving the product. If you don’t think the product can do something you want it to do, they really want to know. They have a thirst for making the product better.” – </em>Steve Green, Incident Response and Threat Intelligence Senior Manager, Juniper Networks</p>

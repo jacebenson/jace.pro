@@ -1,6 +1,7 @@
 ---
 title: "Your journey to a successful CMDB starts here Join the Breakout at Knowledge "
 date: 2019-04-20T02:54:14.000Z
+authors: ["EmoryZhaoNOW"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fd0e282fdbbc3f0cfece0b55ca961984"
 ---
 <p><em>ServiceNow’s Drew Hart shares configuration management insights at Knowledge. Here’s a preview.</em></p>

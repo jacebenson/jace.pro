@@ -1,6 +1,7 @@
 ---
 title: "ITBM community Calling for Content for Knowledge  is now open"
 date: 2019-12-14T01:23:55.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dc06b1c0db71c010feb1a851ca9619eb"
 ---
 <p>Hello IT Business Management community,</p>

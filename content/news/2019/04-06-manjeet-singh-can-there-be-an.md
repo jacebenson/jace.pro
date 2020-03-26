@@ -1,6 +1,7 @@
 ---
 title: "Can there be an allinone Continual Improvement management tool"
 date: 2019-04-05T21:27:13.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4bec5332db2c7fc0fece0b55ca961935"
 ---
 <p style="text-align: center;"> <img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/8cec1372db2c7fc0fece0b55ca9619df.iix" /></p>

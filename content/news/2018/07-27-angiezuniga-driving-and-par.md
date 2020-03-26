@@ -1,6 +1,7 @@
 ---
 title: "Driving and Parking Instructions for the SNUG on "
 date: 2018-07-27T01:27:41.000Z
+authors: ["angiezuniga"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7eb95daddbab57442be0a851ca9619cb"
 ---
 <p>Finding the SNUG at BJC could be a little tricky. Please read the instructions below.</p>

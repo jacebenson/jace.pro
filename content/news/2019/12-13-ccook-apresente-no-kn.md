@@ -1,6 +1,7 @@
 ---
 title: "Apresente no Knowledge Penltimo Dia"
 date: 2019-12-12T23:02:52.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=502c8cfbdb69c890414eeeb5ca9619d5"
 ---
 <p><strong><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/068d854d1bbd8810a59033f2cd4bcbac.iix" /></strong></p>

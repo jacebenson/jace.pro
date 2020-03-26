@@ -1,6 +1,7 @@
 ---
 title: "Alert Suppression During Maintenance Windows and Change Implementations"
 date: 2018-09-12T19:51:12.000Z
+authors: ["joeykusky"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3d099378db286744200f0b55ca96190d"
 ---
 <p><strong><u>Alert Suppression During Maintenance Windows and Change Implementations</u></strong></p>

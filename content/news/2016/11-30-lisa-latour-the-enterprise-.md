@@ -1,6 +1,7 @@
 ---
 title: "The Enterprise Cloudcast Multitenant versus Multiinstance Cloud Architectures Episode "
 date: 2016-11-30T05:47:45.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b03d6ae5dbd0dbc01dcaf3231f9619b4"
 ---
 <p>In this 6th Episode of the Enterprise CloudCast, &#64;Allan Leinwand, ServiceNow CTO, discusses Multi-tenant versus Multi-instance cloud architectures.</p>

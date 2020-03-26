@@ -1,6 +1,7 @@
 ---
 title: "Tips for writing Steps to Reproduce and procedures"
 date: 2018-07-30T13:08:43.000Z
+authors: ["janiceg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cdf6d762dbaf97441cd8a345ca961932"
 ---
 <p><span class="ng-scope"><em>This is the third in a series of suggested practices for creating knowledge base content. </em></span></p>

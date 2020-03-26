@@ -1,6 +1,7 @@
 ---
 title: "What Else is New in the New York Release"
 date: 2019-09-27T21:34:31.000Z
+authors: ["Allison French"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=98dc6c57db4448105129a851ca9619f3"
 ---
 <p><span style="font-size: 12pt;">You might have heard all the buzz around the major release features in the <a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;46ee405bdb8bf3405ed4a851ca961992" rel="nofollow">What’s New in New York for HR Service Delivery blog post,</a> such as the new mobile apps, but that’s not all we launched. Here’s a look at some additional enhancements and features we expect will be popular with customers of HR Service Delivery.</span></p>

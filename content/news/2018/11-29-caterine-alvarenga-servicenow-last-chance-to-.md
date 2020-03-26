@@ -1,6 +1,7 @@
 ---
 title: "LAST CHANCE TO REGISTER Join Facebook ServiceNow Zoom and Okta at the Future of Work Council  in New York on "
 date: 2018-11-28T22:30:17.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=80225cf9db02a740afc902d5ca9619e0"
 ---
 <p><strong><span style="background-color: #ffff00;"><a style="background-color: #ffff00;" href="http://futureofworknewyork.splashthat.com/ServiceNow" rel="nofollow">LAST CHANCE TO REGISTER!</a></span></strong></p>

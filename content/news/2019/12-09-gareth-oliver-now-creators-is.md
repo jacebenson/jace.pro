@@ -1,6 +1,7 @@
 ---
 title: "Now Creators is Live"
 date: 2019-12-09T04:48:39.000Z
+authors: ["gareth.oliver"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f2e4f06adba1c01023f4a345ca961981"
 ---
 <div>

@@ -1,6 +1,7 @@
 ---
 title: "ITSM  Predictive Intelligence"
 date: 2019-10-16T23:51:49.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3872835ddb6040d85129a851ca9619cc"
 ---
 <div class="media-description" style="text-align: center;"><span style="font-family: verdana, geneva; font-size: 10pt;"><img src="https://community.servicenow.com/495736afdbf80c54f7fca851ca961987.iix" width="825" height="59" /> </span></div>

@@ -1,6 +1,7 @@
 ---
 title: "Part  Getting Out of the Woods of Business Service Resource Mapping Service Mapping Kingston Release"
 date: 2018-05-04T23:08:58.000Z
+authors: ["Nghia K."]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d50e517adb3997005322f4621f9619f4"
 ---
 <pre>Authored by: Steve Anderson, ITOM Product Manager</pre>

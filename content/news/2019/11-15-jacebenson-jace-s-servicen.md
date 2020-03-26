@@ -1,6 +1,7 @@
 ---
 title: "Jaces Servicenow Stuff"
 date: 2019-11-15T00:03:20.000Z
+authors: ["jacebenson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2d7d88f21bc90450ada243f6fe4bcb25"
 ---
 <p>I like the idea of listing an index of my content as I don&#39;t generally post here;</p>

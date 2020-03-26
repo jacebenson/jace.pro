@@ -1,6 +1,7 @@
 ---
 title: "Now Learning Blog  So you want to be a ServiceNow Architect Part "
 date: 2020-03-03T19:40:55.000Z
+authors: ["Julie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8240790edbd7cc10d58ea345ca961905"
 ---
 <p class="p1"><span class="s1" style="font-family: helvetica; font-size: 14pt;">Honorable mentions (or more courses that will help you become a ServiceNow Architect) </span></p>

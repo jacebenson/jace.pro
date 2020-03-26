@@ -1,6 +1,7 @@
 ---
 title: "Easily debug catalog customizations in Jakarta"
 date: 2017-08-21T22:50:21.000Z
+authors: ["rohantyagi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ed9c2ee1dbd0dbc01dcaf3231f96198d"
 ---
 <p>One of the key features of the ServiceNow platform is its flexibility. You can almost build anything on the platform OR modify and customize a number of existing features, like the Service Catalog. Sometimes the customization is really required to cater to a unique business requirement. Other times, it is about bringing a small change in the look and feel of a page or to accommodate a specific user behavior. Well, it all goes well and looks cool until some of these customizations start breaking the catalog interface; or bringing a new custom code breaks the functionality for a set of users.</p>

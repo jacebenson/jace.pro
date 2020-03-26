@@ -1,6 +1,7 @@
 ---
 title: "Integration Hub Neue Spokes Schnittstellen verfgbar"
 date: 2019-03-08T15:14:15.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f34da9b5db043700feb1a851ca9619e2"
 ---
 <p style="text-align: justify;">Sehr geehrte SNUG-Mitglieder,</p>

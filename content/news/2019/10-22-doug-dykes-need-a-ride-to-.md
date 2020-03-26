@@ -1,6 +1,7 @@
 ---
 title: "Need a ride to Now at Work  NY Boston  NYC"
 date: 2019-10-21T22:20:21.000Z
+authors: ["Doug Dykes"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a57d184fdb2c081023f4a345ca961948"
 ---
 <p>Are you planning on attending Now at Work in New York City on Tuesday, November 5th but looking for a ride? Let ServiceNow drive you in style! ServiceNow is offering free transportation in a luxury shuttle to individuals that are registered for Now at Work.The shuttle will leave the day before on the 4th and return the next day back to Framingham, MA.</p>

@@ -1,6 +1,7 @@
 ---
 title: "How to progress from ServiceNow Administrator to Implementation Specialist"
 date: 2017-07-15T12:55:44.000Z
+authors: ["Shiva Thomas"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=927ca2e1dbd0dbc01dcaf3231f961929"
 ---
 <h2><img style="max-width: 100%; max-height: 480px;" src="13b1735ddb3093004837f3231f961917.iix" /></h2>

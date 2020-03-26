@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow DevOps Podcast Episode  Charles Betz  Forrester"
 date: 2020-03-06T21:51:51.000Z
+authors: ["ericledyard"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=890be10fdb9bc09023f4a345ca9619c8"
 ---
 <p><iframe title="DevOps Episode 7 – Charles Betz - Forrester" src="https://omny.fm/shows/servicenow-cloudcast/devops-episode-7-charles-betz-forrester/embed"></iframe></p>

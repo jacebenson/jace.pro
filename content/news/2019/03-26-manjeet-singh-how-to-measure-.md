@@ -1,6 +1,7 @@
 ---
 title: "How to measure the accuracy of your sentiment analysis results"
 date: 2019-03-25T17:38:48.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bd2fb15fdb1cbf085ed4a851ca96193f"
 ---
 <p class="p1" style="text-align: center;"><span style="font-family: &#39;times new roman&#39;, times; font-size: 14pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/009ff117db5cbf085ed4a851ca961958.iix" /></span></p>

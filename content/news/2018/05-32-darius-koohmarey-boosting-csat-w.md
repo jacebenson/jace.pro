@@ -1,6 +1,7 @@
 ---
 title: "Boosting CSAT with a Walkup Experience for IT  Beyond"
 date: 2018-06-01T02:37:42.000Z
+authors: ["darius.koohmarey"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=aeb0d16fdb5a130447c8f3231f96192e"
 ---
 <p><img src="eff76c72dbdfa7009540e15b8a96194d.iix" /></p>

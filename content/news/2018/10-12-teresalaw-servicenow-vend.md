@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Vendor Risk Management Integrates with SecurityScorecard"
 date: 2018-10-12T04:47:01.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a5c9ae5adb4527c40be6a345ca96191c"
 ---
 <p>What do credit ratings, SecurityScorecard, and ServiceNow Vendor Risk Management have in common?</p>

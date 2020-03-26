@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow New York"
 date: 2019-09-29T19:22:13.000Z
+authors: ["Toru Inoue"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bdb1eab7db800450414eeeb5ca9619e9"
 ---
 <p>この記事は、ServiceNow開発者向けブログ&#xff08;<a href="https://developer.servicenow.com/blog.do" rel="nofollow">Developer Blog</a>&#xff09;の記事の抄訳です。</p>

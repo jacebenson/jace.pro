@@ -1,6 +1,7 @@
 ---
 title: "ITOM at Knowledge Real Stories Real Customers Real Success  Part "
 date: 2018-05-10T00:22:38.000Z
+authors: ["Chanda Dani"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a5de57d8db8a9b40fac7f4621f96190f"
 ---
 <p><strong>ITOM at Knowledge18: Real Stories, Real Customers, Real Success – Part 2</strong></p>

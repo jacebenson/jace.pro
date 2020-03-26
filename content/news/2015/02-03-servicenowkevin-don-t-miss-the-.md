@@ -1,6 +1,7 @@
 ---
 title: "Dont miss the ServiceNow KM webinar"
 date: 2015-02-02T22:36:47.000Z
+authors: ["servicenowkevin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3c2d26e5dbd0dbc01dcaf3231f96192a"
 ---
 <p><a title="mike.malcangio" __default_attr="2016" __jive_macro_name="user" class="jive_macro_user jive_macro" data-objecttype="3" data-orig-content="mike.malcangio" href="/community?id=community_user_profile&user=1b025ae1dbd81fc09c9ffb651f961929">mike.malcangio</a> (Product Manager) and I are doing a <a title="fo.servicenow.com/LP=3282" href="http://info.servicenow.com/LP=3282">webinar on Feb 4 to talk more about Knowledge Management.</a> The talk will include thoughts about how-to and where-to leverage KM, things that ServiceNow is doing with KM, the impact we've seen, and Mike will go over the KM roadmap. Anybody wondering where we're headed with the Knowledge Management feature should really check out that bit from Mike.</p><p></p><p>At the end of the webinar we'll take questions from the attendees. If there's something you've wanted to ask or you've really just wanted to hear my voice, register for the event.</p>

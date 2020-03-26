@@ -1,6 +1,7 @@
 ---
 title: "Service Now DUO Integration"
 date: 2019-02-20T01:41:38.000Z
+authors: ["sachin.namjoshi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=14e958a0db7be7402be0a851ca9619f9"
 ---
 <p>DUO Security application allows users to access their company network remotely using DUO token.</p>

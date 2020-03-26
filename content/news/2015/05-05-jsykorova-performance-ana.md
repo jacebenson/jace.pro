@@ -1,6 +1,7 @@
 ---
 title: "Performance Analytics analysez la performance de vos processus IT sur la plateforme ServiceNow"
 date: 2015-05-04T17:50:06.000Z
+authors: ["jsykorova"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a8aca225dbd0dbc01dcaf3231f961915"
 ---
 <p style="font-family: arial, sans-serif; color: #666666;"><span style="font-style: inherit; font-family: inherit; color: #646464;">Performance Analytics est í  l&#39;IT ce que le GPS intelligent est í  chacun de vos déplacements. Vous appréciez d&#39;être prévenu lors de forte affluence ? Vous souhaitez comprendre d&#39;où viennent ces pics ? Vous voulez savoir si une route alternative peut améliorer la situation ? </span></p>

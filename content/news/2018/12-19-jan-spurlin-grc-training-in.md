@@ -1,6 +1,7 @@
 ---
 title: "GRC Training in "
 date: 2018-12-19T01:36:18.000Z
+authors: ["Jan Spurlin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=777c7384db2a2f40656a5583ca961906"
 ---
 <p>ServiceNow offers 3 instructor-led courses around GRC.</p>

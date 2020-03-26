@@ -1,6 +1,7 @@
 ---
 title: "Call for speakers at the next DC METRO SNUG"
 date: 2018-07-25T22:30:36.000Z
+authors: ["valbonasokoli"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cb972b49db2fd704e0e80b55ca9619b1"
 ---
 <p>Good Afternoon! </p>

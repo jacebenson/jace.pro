@@ -1,6 +1,7 @@
 ---
 title: "ServiceNowBox"
 date: 2018-09-19T11:00:37.000Z
+authors: ["Ikumi Ando"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=42b26107dba0ebc0fece0b55ca9619a4"
 ---
 <p class="p1"><span class="s1">※</span>本内容は、<span class="s1">2018</span>年<span class="s1">8</span>月<span class="s1">23</span>日&#xff08;米国時間&#xff09;付けで、米国<span class="s1">ServiceNow, Inc.</span>と米国<span class="s1">Box, Inc.</span>が、発表した報道資料の抄訳版です。</p>

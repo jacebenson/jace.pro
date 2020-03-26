@@ -1,6 +1,7 @@
 ---
 title: "Change Management"
 date: 2019-09-10T00:42:34.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6b3be4e5dbbffbc84819fb2439961973"
 ---
 <p style="text-align: center;"><span style="font-family: verdana, geneva; font-size: 10pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.comhttps://community.servicenow.com/56ed358edb4908502be0a851ca961920.iix" /></span></p>

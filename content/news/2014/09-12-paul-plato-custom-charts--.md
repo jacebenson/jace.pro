@@ -1,6 +1,7 @@
 ---
 title: "Custom Charts  mostly working"
 date: 2014-09-11T18:37:21.000Z
+authors: ["Paul Plato"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=31dca665dbd0dbc01dcaf3231f96199b"
 ---
 <p>After much struggle and help from SN, I've wrestled Custom Reports to the ground and can do basic charting using jFree Charts.   I believe that the whole jFreeChart api is not fully supported in Eureka but was able to get all but the TimeSeries charts to work.   Below are a few samples, let me know if it is worth posting the script code to the blog or Share.</p><p></p><p><strong>Next step is to get the Summary Sets working properly to collect the data, <span style="text-decoration: underline;">all these examples have hard-coded data</span>:</strong><br/></p><p></p><p><img  class="image-0 jiveImage" src="97d910c6db1c9704ed6af3231f961996.iix" style="max-height: 900px; max-width: 1200px;"/></p><p><img  class="image-1 jiveImage" src="4b8c7f7ddb945fc068c1fb651f96190c.iix" style="max-height: 900px; max-width: 1200px;"/></p><p><img  class="image-2 jiveImage" src="79ef91c2dbd8d304b322f4621f9619d8.iix" style="max-height: 900px; max-width: 1200px;"/><img  class="image-3 jiveImage" src="2fd8b802db101b04ed6af3231f96192f.iix" style="max-height: 900px; max-width: 1200px;"/></p><p><img  class="image-4 jiveImage" src="686450cadb145304b322f4621f961914.iix" style="max-height: 900px; max-width: 1200px;"/></p>

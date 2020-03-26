@@ -1,6 +1,7 @@
 ---
 title: "Know where you really stand"
 date: 2019-11-28T01:53:16.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1243ef76db55401c2be0a851ca96190a"
 ---
 <p><span style="font-size: 14pt;">If 60% of your customers consider themselves “very satisfied,” are you doing a good job? Servicenow Benchmark gives you an easy way to asses and compares your KPI results across industries, Company Size, and Locations. Knowing where you really stand lets you make smarter decisions when you:</span></p>

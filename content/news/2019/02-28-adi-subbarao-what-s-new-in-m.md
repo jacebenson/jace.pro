@@ -1,6 +1,7 @@
 ---
 title: "Whats New in Madrid for Virtual Agent"
 date: 2019-02-28T04:28:10.000Z
+authors: ["Adi Subbarao"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f9bc0e8bdb3b2f08a39a0b55ca9619ec"
 ---
 <p><img src="https://community.servicenow.comhttps://community.servicenow.com/e0dfe751db88ff48190dfb24399619f6.iix" /></p>

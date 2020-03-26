@@ -1,6 +1,7 @@
 ---
 title: "Meet the ServiceNow HI Team  Know"
 date: 2017-05-03T20:41:07.000Z
+authors: ["Teena Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a1ace225dbd0dbc01dcaf3231f961950"
 ---
 <p style="text-align: center;">Will you be at Knowledge17? Come meet the people working hard behind the scenes to create your ServiceNow online support experience. Come hang out and have coffee with us and tell us how you feel (likes, dislikes etc). Customer feedback really does drive our roadmap. It's rare we get the opportunity to meet face to face, I'd love to learn how we can serve you better.</p><p style="text-align: center;"><img   alt="Room K17-550x375 v4.png" class="image-2 jive-image" src="edd6854adb5497049c9ffb651f961987.iix" style="height: auto;"/></p><p style="text-align: left;">Talk to the HI, Community, and Product Documentation teams to discuss how we are early adopters of platform features. We'll share how we're already using, or planning to use, some of the features that will soon be in general release.</p><p></p><p><strong>Got Feedback?</strong> Come tell us how we can better your experience. <em>Psst…we also have some exciting updates on the Community that we want to share with you.</em></p><p><strong><br/>Where:</strong> Hyatt Regency (Convention Level) Celebration 4</p><p><strong>When:</strong> May 9th and 10th (10am — 5pm)</p><p><strong>How:</strong> Here is the path from Convention Center</p><p><iframe frameborder="0" height="315" src="https://www.youtube.com/embed/jDt-g1BSMkY?autoplay=1" width="560">

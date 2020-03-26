@@ -1,6 +1,7 @@
 ---
 title: "MiniLab Workflows  For Loop"
 date: 2015-09-28T01:30:16.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dbed222ddbd0dbc01dcaf3231f961938"
 ---
 <p style="margin-bottom: 0.0001pt;"><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;">I was exploring ways to do looping, and wanted a method similar to a "for" loop in JavaScript.   There was simply nothing out-of-the-box in the way of activities that gave me what I wanted, and that would give me the control I was looking for.   The Turnstile Activity, while useful, did not allow for a variable to be plugged in for the value, and was in essence hard-coded.   </span></p><p style="margin-bottom: 0.0001pt;"></p><p style="margin-bottom: 0.0001pt;"><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;">Thinking it through I was able to come up with a relatively straightforward solution. I am providing this lab as an example.</span></p><p style="margin-bottom: 0.0001pt;"></p><p style="margin-bottom: 0.0001pt;"><span style="font-size: 12pt; font-family: arial,helvetica,sans-serif;">So what we will be creating will be something like the following only implemented with workflow activities:</span></p><p style="margin-bottom: 0.0001pt;"></p><pre __default_attr="javascript" __jive_macro_name="code" class="_jivemacro_uid_14434442757236441 jive_text_macro jive_macro_code" jivemacro_uid="_14434442757236441">

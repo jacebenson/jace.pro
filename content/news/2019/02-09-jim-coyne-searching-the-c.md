@@ -1,6 +1,7 @@
 ---
 title: "Searching the Community with Chromes Address Bar"
 date: 2019-02-09T01:33:07.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=187e2bb0dba3a740fa192183ca961976"
 ---
 <p>Just wanted to share an updated version of this post - <a href="community?id&#61;community_question&amp;sys_id&#61;a4fc4369db9cdbc01dcaf3231f961942" rel="nofollow">Searching the Wiki with Chrome&#39;s Address Bar</a>.</p>

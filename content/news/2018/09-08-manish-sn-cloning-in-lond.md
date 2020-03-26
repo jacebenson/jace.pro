@@ -1,6 +1,7 @@
 ---
 title: "Cloning in London results in partial clone of task table"
 date: 2018-09-07T19:09:45.000Z
+authors: ["manish_sn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b19f959fdb10a7c8a39a0b55ca9619a2"
 ---
 <p>With the ServiceNow London release, we introduced a new feature in system clone to achieve quicker &#39;task&#39; table alteration in the Sub Prods. This new field is called &#34;<strong>Amount of data copied from the Task table</strong>&#34; on the clone request form.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Free Service Portal Widget"
 date: 2017-07-13T23:15:26.000Z
+authors: ["Shahed Shah"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=84cdaea9dbd0dbc01dcaf3231f961932"
 ---
 <p>There are many people freely sharing Service Portal widgets on the <a title="Developer Share" href="https://developer.servicenow.com/app.do#!/share" target="_blank" rel="noopener noreferrer nofollow">ServiceNow Share</a>. If you haven&#39;t done it yet, stop trying to code your next widget and check if one already exists for you.</p>

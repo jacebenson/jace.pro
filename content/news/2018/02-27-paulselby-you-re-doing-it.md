@@ -1,6 +1,7 @@
 ---
 title: "Youre Doing It Wrong What to Measure in Customer Service"
 date: 2018-02-26T06:45:45.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c3bc204ddb2417084816f3231f9619bc"
 ---
 <p><img class="alignnone  wp-image-3083" style="float: right;" src="https://insightsincustomerservice.files.wordpress.com/2018/02/measurement-krawiecka-3176118.jpg" alt="measurement-krawiecka-3176118" width="368" height="255" /><a href="community?id&#61;community_blog&amp;sys_id&#61;d9695843dbd81f047b337a9e0f9619cf&amp;view_source&#61;searchResult" target="_blank" rel="nofollow">Last week</a>, I shared how early on in my career I managed a technical support and customer service center and service was considered a cost center and a necessary evil. How times have changed, and how far most companies have come in changing that perception!</p>

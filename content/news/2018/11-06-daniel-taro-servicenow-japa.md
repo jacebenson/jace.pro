@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow JapanHackathon"
 date: 2018-11-06T02:23:59.000Z
+authors: ["Daniel Taro"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=720b2ed2dba1a740fa192183ca9619ae"
 ---
 <div>数か月前、最初のServiceNow Japan主催の開発者向けミートアップイベントが成功した後、私たちはServiceNowプラットフォームの可能性を最大限に引き出すために必要な事は何かを徹底的に議論をしました。そして私がたどり着いたアイデアはHackathonを日本国内で実現することでした。これはまさにServiceNow を利用されているお客様が中心となってショーケースを作るものであり、且つ様々な多様なアイデア生み出す機会であると考えました。 </div>

@@ -1,6 +1,7 @@
 ---
 title: "Unlearn Series  Export Updateset With Name"
 date: 2018-10-09T13:54:18.000Z
+authors: ["Kalaiarasan Pushpanathan"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d54a4deddb412b08feb1a851ca961907"
 ---
 <p>This is super short blog that I am writing to share a small utility that I uploaded to share which I use occasionally. The out of box <strong>Export to XML </strong>allows us to export the updateset as a XML extract. This is a good feature while doing manual deployment but the XML file that gets generated from this button does not have a user friendly name<strong>. </strong>The utility that I have uploaded will allow you to export the updateset as XML with the name of the XML extract as the updateset name.</p>

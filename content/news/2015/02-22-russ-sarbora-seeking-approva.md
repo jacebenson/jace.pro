@@ -1,6 +1,7 @@
 ---
 title: "Seeking Approval  Part   Manual Approvals and Approval Coordinator"
 date: 2015-02-21T06:09:38.000Z
+authors: ["russ.sarbora"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=618d6669dbd0dbc01dcaf3231f96192d"
 ---
 <p><span style="line-height: 1.5em;">I&#39;ve used the the phrase &#34;Approval activities&#34; frequently in this Seeking Approval series. </span><span style="line-height: 1.5em;">If you open the Workflow Editor and load a workflow that uses a Task table as its current record, you will see seven activities listed in the Approvals category. But when I say &#34;Approval activities&#34;, I&#39;m really talking about only four of those: Approval - User, Approval - Group, Manual Approvals, and Approval Coordinator. While the other activities in that category (Generate, Rollback To, and Approval Action) are definitely approval-related, they aren&#39;t the focus of what we&#39;ve been talking about. Seeking Approval has been about a</span><span style="line-height: 1.5em; font-size: 10pt;"> basic two job concept:</span></p>

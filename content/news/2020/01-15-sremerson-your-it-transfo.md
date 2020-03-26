@@ -1,6 +1,7 @@
 ---
 title: "Your IT Transformation Resolutions for  Part "
 date: 2020-01-14T06:49:14.000Z
+authors: ["sremerson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=40c92e86db5ac810feb1a851ca9619e8"
 ---
 <p><span style="font-size: 12pt; font-family: tahoma, arial, helvetica, sans-serif;">Can you believe it? The 2010’s are over! Whenever we cross the threshold into a new decade, it’s a great time to reflect, consider where we are, where we and our business need to go, and how technology can help us get there. Over the past decade, we saw a drastic shift in technology direction and a mindset shift in terms of aligning IT to the business – and fast forward 10 years and IT is the business. After a decade of IT transformation stops and starts today many enterprises are running digital businesses where their very product and services are digital.</span></p>

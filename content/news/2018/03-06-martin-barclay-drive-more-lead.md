@@ -1,6 +1,7 @@
 ---
 title: "Drive more leads for your app  with ratings and reviews "
 date: 2018-03-06T04:53:51.000Z
+authors: ["Martin Barclay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2ddf1de7db2cd7844837f3231f9619c1"
 ---
 <p>Customer app ratings &amp; reviews are an important form of reference selling (do you look at customer reviews before buying something on Amazon?) and can be instrumental in converting visitors to your Store page into leads. Ratings and reviews on the ServiceNow Store are from real, named customers and are authenticated by ServiceNow.</p>

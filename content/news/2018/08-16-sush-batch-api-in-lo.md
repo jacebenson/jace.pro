@@ -1,6 +1,7 @@
 ---
 title: "Batch API in London"
 date: 2018-08-16T03:10:22.000Z
+authors: ["Sush"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0a01fcc4dbcce740200f0b55ca9619cd"
 ---
 <p>Prior to London if you wanted to query multiple tables like Incident, Users, Knowledge etc using REST you would have to call Table APIs individually for each Incident, User, Knowledge or Build your own Scripted REST API that does this. </p>

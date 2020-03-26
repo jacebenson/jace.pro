@@ -1,6 +1,7 @@
 ---
 title: "Knowledge   Amanh  o ltimo Dia para Submeter sua Proposta de Contedo"
 date: 2018-12-06T23:01:48.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b7066514db1aef0011762183ca96191c"
 ---
 <p>Prezados Membros da Comunidade, </p>

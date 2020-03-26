@@ -1,6 +1,7 @@
 ---
 title: "Unlearn Series  Show Related Records Updateset"
 date: 2018-10-12T16:47:58.000Z
+authors: ["Kalaiarasan Pushpanathan"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9acec1aedb41a784b2102926ca96191a"
 ---
 <p>This is another super short blog that I am writing to share a small utility that I uploaded to share which would be useful for your day-day tasks. </p>

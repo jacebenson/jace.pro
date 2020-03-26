@@ -1,6 +1,7 @@
 ---
 title: "Dont miss your chance Register Now for Knowledge"
 date: 2014-03-04T12:33:03.000Z
+authors: ["jonathan.jeffries"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4acc6265dbd0dbc01dcaf3231f961948"
 ---
 <p>Calling all IT Professionals: This short video shows why attending Knowledge14 ® in April is a must. Enjoy! <a title="w.youtube.com/watch?v=3cw392h4iE8&sns=em" href="http://www.youtube.com/watch?v=3cw392h4iE8&amp;sns=em">http://www.youtube.com/watch?v=3cw392h4iE8&amp;sns=em</a> </p><p><strong><br/></strong></p><p>Join us in San Francisco at the upcoming Knowledge14 conference, April 27-May 1, to exchange insight, experience and knowledge with ServiceNow customers, partners, executives and subject matter experts. Knowledge14 presents a highly optimized learning opportunity. In addition to the pre-conference training opportunities, which are offered at aggressively discounted rates, ServiceNow will be offering over 100 hands-on lab sessions and ~200 breakout sessions led mainly by customers. Whatever the skill level or job responsibilities, Knowledge14 has something for everyone, from leadership tracks to developer deep-dive learning opportunities. This is a must-attend IT event where ~6,000 IT professionals, including executives from many of the largest enterprise companies today, will come together to learn and share their part of the enterprise IT transformation story.</p><p></p><p><a title="owledge.servicenow.com/" href="http://knowledge.servicenow.com/">Register Now!</a></p>

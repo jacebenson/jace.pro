@@ -1,6 +1,7 @@
 ---
 title: "Employeedriven continuous improvement using Ideation and CIM"
 date: 2019-08-30T02:14:39.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8dd6d0061b2b7744d01143f6fe4bcb72"
 ---
 <p><span style="font-size: 14pt;">Digital transformation is at the tip of everyone’s lips. Yet many organizations and the tools they use are siloed, making it difficult to properly drive transformation or manage ideas from concept to continual improvement and to measurable business value.</span></p>

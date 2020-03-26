@@ -1,6 +1,7 @@
 ---
 title: "Visual Taskboards i New York"
 date: 2019-11-04T15:25:10.000Z
+authors: ["mgudmundsen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d9f6ba9f1bb0c010fff162c4bd4bcb97"
 ---
 <p>Hei,</p>

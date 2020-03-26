@@ -1,6 +1,7 @@
 ---
 title: "Clone an Instance Part  of   Schedule a System Clone"
 date: 2015-10-19T23:34:51.000Z
+authors: ["marystromberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=844ea2addbd0dbc01dcaf3231f961959"
 ---
 <p>We have updated the video for cloning an instance explaining <strong>how to clone data from one ServiceNow instance to another using the System Clone application.</strong> <span style="font-size: 10pt; line-height: 1.5em;">This demo applies to all supported releases as of Fuji and may also apply to future releases. To perform the actions in this video, you will need the </span><span style="font-size: 10pt; line-height: 1.5em;">admin role on both source and target instances'.</span></p><p></p><p style="text-align: center;"><span style="font-size: 13.3333330154419px;"><em>For best video quality, increase your player resolution to 1080p.</em></span></p><p></p><p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/POicW0HbGHU?rel=0" width="640"> 

@@ -1,6 +1,7 @@
 ---
 title: "Your CSATs might be awesome but your CX is in the toilet"
 date: 2019-03-04T23:29:44.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=76583ee0dbc8f308190dfb2439961983"
 ---
 <div class="wp-block-image"><img class="wp-image-3514" style="padding: 7 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/03/despair-1235583.jpg?w&#61;1024" alt="" width="354" height="235" align="left" /></div>

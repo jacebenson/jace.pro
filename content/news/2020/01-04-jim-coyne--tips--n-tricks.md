@@ -1,6 +1,7 @@
 ---
 title: "Tips N Tricks Series"
 date: 2020-01-04T00:56:31.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bf19f1b21b0a4010d01143f6fe4bcb50"
 ---
 <p>Happy New Year to everyone!!!</p>

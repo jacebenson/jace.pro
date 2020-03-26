@@ -1,6 +1,7 @@
 ---
 title: "The ServiceNow Store Speeds Access to New GRC Applications"
 date: 2019-05-25T02:17:55.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4b5538fadba9fb00fece0b55ca9619e0"
 ---
 <p><strong>What happened?</strong></p>

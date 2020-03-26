@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow DevOps Podcast  Episode  Richard and Eric DevOps Overview"
 date: 2019-08-15T10:58:03.000Z
+authors: ["ericledyard"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bdcef099db5b3300d58ea345ca9619c6"
 ---
 <p><span style="font-size: 14pt;"><strong>Welcome to the premiere episode of our new DevOps Podcast Series!</strong></span></p>

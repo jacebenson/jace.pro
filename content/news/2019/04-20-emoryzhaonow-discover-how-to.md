@@ -1,6 +1,7 @@
 ---
 title: "Discover how to take control of your cloud spend Join Breakout  at Knowledge "
 date: 2019-04-20T03:10:24.000Z
+authors: ["EmoryZhaoNOW"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6ab13cebdb307f0cfece0b55ca961904"
 ---
 <p><em>Shaun Millin talks about his upcoming ITOM Optimization breakout session at Knowledge 2019</em></p>

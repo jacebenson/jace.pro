@@ -1,6 +1,7 @@
 ---
 title: "Call for Customer Speakers  Connecticut SNUG December"
 date: 2018-10-09T21:38:17.000Z
+authors: ["valbonasokoli"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2d74bae5dbcd6f402be0a851ca961905"
 ---
 <p>Good Afternoon,</p>

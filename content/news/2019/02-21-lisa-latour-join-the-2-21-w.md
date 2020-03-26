@@ -1,6 +1,7 @@
 ---
 title: "Join the  Webinar How upgrading consistently can save millions a year"
 date: 2019-02-20T07:13:19.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4bc5a5e8dbb76380a39a0b55ca9619a9"
 ---
 <div style="font-size: 12pt; font-family: &#39;Century Gothic&#39;; color: #293e40;">

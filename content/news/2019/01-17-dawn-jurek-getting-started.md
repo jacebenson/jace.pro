@@ -1,6 +1,7 @@
 ---
 title: "Getting started with Security Incident Response on the Now Platform"
 date: 2019-01-16T22:32:05.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0478e869db03a3409a64e15b8a9619d7"
 ---
 <h3>All it takes is one click...</h3>

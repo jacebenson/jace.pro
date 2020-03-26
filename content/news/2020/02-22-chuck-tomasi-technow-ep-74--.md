@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Automate your ServiceNow CICD pipeline"
 date: 2020-02-21T22:38:06.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=825f296edbcf809014d6fb243996195e"
 ---
 <p><img style="padding-right: 8px;" src="3e1d4b52dbdc3fc45129a851ca96192a.iix" alt="expert-logo-2.png" align="left" />Simplify and speed up your ServiceNow CI/CD development pipeline. Join our special guest presenter, Chris Faulkner from ServiceNow, as he shows you how you can automate your ServiceNow deployment pipeline using the Now Platform CI/CD tools in the Orlando release. Integrate with existing tools like Jenkins using the scripted REST APIs or use the IntegrationHub spoke to trigger actions on source control, Automated Test Framework, the App Repo, Health Scan, and more.</p>

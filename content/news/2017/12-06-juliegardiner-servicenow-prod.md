@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Product Lab  Your Opportunity to Provide Input"
 date: 2017-12-06T00:07:10.000Z
+authors: ["juliegardiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6e6c6ea1dbd0dbc01dcaf3231f9619cf"
 ---
 <p>The ServiceNow Product Lab is a research-based community that encourages a wide range of qualified customers in various different roles and departments, to evaluate our new products, and help us shape potential new ideas, feature functionality and user interface designs.</p>

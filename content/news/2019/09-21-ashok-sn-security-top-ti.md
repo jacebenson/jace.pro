@@ -1,6 +1,7 @@
 ---
 title: "Security Top Tips Part  Navigating the maze  Making sense of the shared security model"
 date: 2019-09-20T19:20:32.000Z
+authors: ["ashok-sn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=990b8c49db0c4c145ed4a851ca961973"
 ---
 <p> <img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/7c4a880ddbc84c145ed4a851ca96199b.iix" /></p>

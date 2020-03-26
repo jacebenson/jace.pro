@@ -1,6 +1,7 @@
 ---
 title: "Knowledge  is going digital"
 date: 2020-03-17T10:39:03.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bb38c0ae1ba740107a5933f2cd4bcbc9"
 ---
 <p>Over the past few weeks, we have been closely monitoring the evolving COVID<span>-</span><span>19</span><span> pandemic. In order to protect the health and safety of our Knowledge 2020 attendees, partners, and community, we have made the decision to make Knowledge 2020 a digital community event that will launch on May 5 in place of the in-person event in Orlando, FL. ​</span><span> <br /></span></p>

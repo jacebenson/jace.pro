@@ -1,6 +1,7 @@
 ---
 title: "Orlando Early Release Open for Registration"
 date: 2019-11-22T10:00:38.000Z
+authors: ["Victoria Del Mundo"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4f4996c1db510cd4d58ea345ca9619f4"
 ---
 <p><strong>WELCOME TO THE NEW UPGRADE ADVANTAGE COMMUNITY</strong></p>

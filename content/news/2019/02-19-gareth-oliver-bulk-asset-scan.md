@@ -1,6 +1,7 @@
 ---
 title: "Bulk asset scanning using Madrid mobile app"
 date: 2019-02-19T04:29:05.000Z
+authors: ["gareth.oliver"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d796bf04dbb7eb001cd8a345ca9619d8"
 ---
 <p>A customer recently ask - &#34;how can ServiceNow support a bulk asset scan? Imagine that I&#39;m a field tech, and I&#39;ve been asked to scan all devices at a location. How can ServiceNow help?&#34;</p>

@@ -1,6 +1,7 @@
 ---
 title: "London Features for Store Developers"
 date: 2018-08-09T00:09:43.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ef8488bddb7f9bc0e0e80b55ca9619ae"
 ---
 <p><span style="font-weight: 400;">It’s that time of year again for a new feature release from ServiceNow. </span><span style="font-weight: 400;">Every release brings new applications, features, enhancements, and APIs that may be applicable to someone developing an application to list on the store or OEM. The London release is full of all of these things, so I’m going to try to distill these down into things that developers working on store apps should know about. The TPP technical team is also working on doing deep dives into many of these areas, so stay tuned.</span></p>

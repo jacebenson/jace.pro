@@ -1,6 +1,7 @@
 ---
 title: "ITSM Highlights in London"
 date: 2018-08-08T23:02:49.000Z
+authors: ["archanapenukonda"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=573537eddbb713c0f7fca851ca9619d5"
 ---
 <p><img style="float: right; margin-left: 10px; max-width: 100%; max-height: 480px;" src="28bca746dbc463408e7c2926ca961999.iix" /><strong>A star service-desk agent</strong></p>

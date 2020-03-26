@@ -1,6 +1,7 @@
 ---
 title: "How to build an AV CMDB"
 date: 2018-08-21T21:23:49.000Z
+authors: ["Matthew Fearnley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=144bde35db4427c09d612926ca96193e"
 ---
 <p>     Since you are here you have given some thought to building a CMDB for your AV assets. There are several approaches you can take, or you can build a hybrid approach, it depends on what weight you give which approach. If you take the approach that AV is the entry point for Iot (Internet of Things) then a technical approach works. If the churn of AV leaves you in a budgetary quandary then a cost approach might be the right approach. If operational stability is the main course then a volatility approach may be the best approach.</p>

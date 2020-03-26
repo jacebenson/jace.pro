@@ -1,6 +1,7 @@
 ---
 title: "Participating in the ServiceNow Certified Master Architect program"
 date: 2019-11-21T02:50:04.000Z
+authors: ["Shiva Thomas"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=822de3e8dbd504542be0a851ca961920"
 ---
 <h3 style="text-align: justify;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/ef8be3a0db9504542be0a851ca9619e0.iix" /></h3>

@@ -1,6 +1,7 @@
 ---
 title: "Product Documentation Updates Images Tables and More"
 date: 2019-07-04T06:22:10.000Z
+authors: ["lucia.randall"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cfdc27a7dbd27740a39a0b55ca96195d"
 ---
 <p>If you visit our <a href="https://docs.servicenow.com/" target="_blank" rel="noopener noreferrer nofollow">product documentation site</a>, you will find new improvements plus other functional enhancements. </p>

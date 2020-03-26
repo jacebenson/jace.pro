@@ -1,6 +1,7 @@
 ---
 title: "New Webinar How to Make DataBased Decisions Like a Boss  March th at am"
 date: 2016-03-29T01:36:27.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5b8c6ae1dbd0dbc01dcaf3231f96193c"
 ---
 <p>Hi New York City User Group Members,</p><p></p><p>There was a lot of excitement around Performance Analytics at the NYC SNUG <span style="font-size: 12pt;">last week</span>. We're having a <a title="fo.servicenow.com/LP=5122" href="http://info.servicenow.com/LP=5122">Webinar</a> tomorrow at 11am and I thought it would be interesting to share.</p><p></p><p><a title="fo.servicenow.com/LP=5122" href="http://info.servicenow.com/LP=5122">Webinar: How to Make Data-Based Decisions Like a Boss</a></p><p>Date:   Tuesday, March 29, 2016</p><p>Time:   8:00am - 9:00am PST | 11:00am - 12:00pm EST</p><p></p><p>Think quick - which services are worth automating and how much it will cost?</p><p></p><p>If you don't know off the top of your head, you're not alone. That's the type of decision that leaves you buried in spreadsheets and working overtime to pull the numbers you need.</p><p></p><p>Join us for a free webinar— How to Make Decisions like a Boss with Performance Analytics—to learn how to use ServiceNow Performance Analytics to increase service efficiency and decrease costs. <a title="fo.servicenow.com/LP=5122" href="http://info.servicenow.com/LP=5122">Register Now</a>!</p>

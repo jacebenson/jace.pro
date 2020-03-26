@@ -1,6 +1,7 @@
 ---
 title: "Customer service shouldnt be like Wheres Waldo"
 date: 2019-09-09T20:49:12.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=70d57fdddb337bc84819fb24399619dc"
 ---
 <p><img class="wp-image-3977" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/09/character.waldo_.jpg?w&#61;150" alt="" align="left" /></p>

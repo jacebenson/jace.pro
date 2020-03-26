@@ -1,6 +1,7 @@
 ---
 title: "Health Alert Employee Experience Pack"
 date: 2020-03-17T23:35:27.000Z
+authors: ["krista.forget"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=41f97ee21ba78010a59033f2cd4bcbea"
 ---
 <p>To help our HRSD customers who are on the front lines of dealing with the COVID-19 pandemic, we are introducing the Health Alert Employee Experience Pack—a blueprint for communicating with employees during a health crisis for fast engagement without writing code.</p>

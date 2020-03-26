@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Extending Approvals"
 date: 2013-12-09T22:10:11.000Z
+authors: ["TechNow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4fcda2e9dbd0dbc01dcaf3231f961990"
 ---
 <p>Wouldn&#39;t it be nice to have a way to ask a requester for &#34;More Information&#34; or &#34;Justification&#34; without really approving or rejecting it? It would be so easy to just add an option to the workflow activity and tie it to a new state... Sorry, that feature doesn&#39;t exist (yet). Until it does, the guys will show you a simple way to get this functionality you want without a lot of work. Using a simple UI action, some basic workflow skills, an email template, and an inbound action, you can make your approval process more robust!</p>

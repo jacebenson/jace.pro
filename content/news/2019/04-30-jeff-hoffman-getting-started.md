@@ -1,6 +1,7 @@
 ---
 title: "Getting Started with Advanced Work Assignment"
 date: 2019-04-30T00:37:32.000Z
+authors: ["Jeff Hoffman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=30aeafa2db013b04fece0b55ca961925"
 ---
 <h1>Getting Started with Advanced Work Assignment</h1>

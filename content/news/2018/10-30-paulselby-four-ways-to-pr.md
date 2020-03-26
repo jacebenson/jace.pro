@@ -1,6 +1,7 @@
 ---
 title: "Four ways to promote knowledge management and reap the dividends"
 date: 2018-10-29T21:30:06.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b462fd04db69ab04b1b102d5ca961921"
 ---
 <p><img class="alignnone  wp-image-3369" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2018/10/adult-banking-blur-1288483.jpg" alt="adult-banking-blur-1288483" width="421" height="281" align="left" /> Every day, your customer service agents are fielding inquiries from customers. Similarly, your online community is overflowing with customer questions. Some of these might be the same issue, over and over and some are new–new problems in need of a solution.</p>

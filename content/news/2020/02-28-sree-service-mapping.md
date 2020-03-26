@@ -1,6 +1,7 @@
 ---
 title: "Service Mapping with TAGs"
 date: 2020-02-27T22:05:21.000Z
+authors: ["Sree"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7c6124a8dbdf805013b5fb243996194c"
 ---
 <p style="text-align: justify;">The quest for business agility has led us currently to an era of digital transformation. IT organizations are adopting new operational strategies focusing on speed and precision. Hyperscale applications are increasingly built and deployed using a decentralized DevOps model, relying on composable, elastic infrastructure services from the cloud, container, serverless, and hyper-converged technologies.</p>

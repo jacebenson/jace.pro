@@ -1,6 +1,7 @@
 ---
 title: "SNUG posting as a reminder  There are people not registered I expect to see  FEB th"
 date: 2019-01-30T00:53:39.000Z
+authors: ["Mark.Bailey"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3c85c4b5db5f2700d6a102d5ca961944"
 ---
 <p>Please join ServiceNow specialists and expert users to discuss the latest ServiceNow news and updates, along with best practice discussions and opportunities for networking with your fellow IT professionals.</p>

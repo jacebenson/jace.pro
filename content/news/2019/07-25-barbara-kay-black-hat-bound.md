@@ -1,6 +1,7 @@
 ---
 title: "Black Hat Bound Join Jonathan Walker to learn the latest on Vulnerability Response And yes we have parties"
 date: 2019-07-24T06:50:01.000Z
+authors: ["Barbara Kay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4e033642dbf273c02be0a851ca96191d"
 ---
 <p>Vulnerability management best practices, including preview research from Ponemon, will be featured at the upcoming Black Hat. If you are attending, we&#39;d like to encourage you to attend the session <em>Vulnerability Response Challenges and How to Beat Them</em> by Jonathan Walker, Lead Vulnerability Response Architect, ServiceNow, on Wednesday, August 7th from 11:30 am –12:20 pm.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Trailing the trailing space"
 date: 2015-07-22T13:01:41.000Z
+authors: ["Slava"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=237ce2e1dbd0dbc01dcaf3231f961996"
 ---
 <p style="text-align: justify;">Extra spaces are clearly one of those nightmares of the IT world that continually haunt end users as well as admins and developers. While surfing the web, have you ever come across ugly hyperlinks with underlining stretching beyond the link text? Or have you ever been unable to log in to an application because you overlooked a trailing space when copying the password from an email? Or maybe you happened to waste a few hours debugging your app because of an extra whitespace character in the value of a string variable that went unnoticed?</p><p style="text-align: justify;"></p><p style="text-align: justify;">Now that these examples have hopefully evoked some reminiscences, let us get down to the business of banishing unwanted spaces from your ServiceNow instances. It goes without saying that the golden rule for any development is of course to cleanse the data before putting it into the database. In ServiceNow, this is easily achievable through a <em>before</em> business rule:</p><p style="text-align: justify;"></p><pre __default_attr="javascript" __jive_macro_name="code" class="jive_text_macro jive_macro_code _jivemacro_uid_14375521503246996" jivemacro_uid="_14375521503246996">

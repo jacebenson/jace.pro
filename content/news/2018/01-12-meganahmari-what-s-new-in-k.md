@@ -1,6 +1,7 @@
 ---
 title: "Whats New In Kingston for the Now Platform"
 date: 2018-01-11T22:24:16.000Z
+authors: ["meganahmari"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=944daee5dbd0dbc01dcaf3231f961938"
 ---
 <p>In the Kingston release, Now Platform<sup>TM</sup> introduces three innovative applications and a number of performance enhancements to improve user experience and drive digital transformation with intelligent apps.</p>

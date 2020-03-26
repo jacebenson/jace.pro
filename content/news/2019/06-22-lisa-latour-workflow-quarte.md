@@ -1,6 +1,7 @@
 ---
 title: "Workflow Quarterly Podcast The Leadership Issue"
 date: 2019-06-22T02:40:25.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f1070937db46b304afc902d5ca961922"
 ---
 <p><iframe title="Workflow Quarterly: The Leadership Issue" src="https://omny.fm/shows/servicenow-cloudcast/workflow-quarterly-the-leadership-issue/embed?style&#61;artwork" width="100%" height="180"></iframe></p>

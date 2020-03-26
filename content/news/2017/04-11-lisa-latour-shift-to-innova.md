@@ -1,6 +1,7 @@
 ---
 title: "Shift to Innovation to Achieve the Lightspeed Enterprise  Webinar"
 date: 2017-04-10T23:22:54.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=31cc2265dbd0dbc01dcaf3231f9619bf"
 ---
 <p>Competition is always a race to the finish line. The winners will be the enterprises that can transform faster than their competition. But too many IT teams don't have enough free time to innovate and drive the business forward. To succeed, they need the ability to create the right creative alignment and execution framework within their organizations.</p><p></p><h4 class="text-gray caps">webinar</h4><h1 class="caps">The Journey to <span class="text-red">IT Innovation</span></h1><p><strong>Tuesday, April 11, 2017 <br/>8:00am PDT | 11:00am EDT </strong></p><p></p><p>Join ServiceNow CIO, Chris Bedi, and explore the journey to increasing innovation, including developing frameworks around key goals and metrics, organizational implications, and risks.</p><p></p><p>Attend this webinar to hear:</p><p>•                 New strategies that will move IT out of "run mode"</p><p>•                 How to align IT with innovation</p><p>•                 An execution framework for the Lightspeed Enterprise</p><p>•                 New metrics to measure framework execution</p><p></p><p><a href="http://info.servicenow.com/LP=7613?referenceSource=community"><img  alt="Register.jpg" class="image-1 jive-image" src="fe9b814edbd0d344e9737a9e0f9619ab.iix" style="height: auto;"/></a></p>

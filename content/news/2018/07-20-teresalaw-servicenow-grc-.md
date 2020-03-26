@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow GRC  SOX Content Pack Now Available"
 date: 2018-07-20T03:39:59.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6ce4715fdbd39f40feb1a851ca961927"
 ---
 <p>I am excited to announce that the GRC SOX Content Pack is now available on the ServiceNow Store!  You can obtain more information and download it <a href="https://store.servicenow.com/sn_appstore_store.do#!/store/application/2e03fe8013705b40e94b721a6144b098/5.0.1?referer&#61;sn_appstore_store.do%23!/store/search%3Fq%3Dsox" rel="nofollow">here</a>.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Changing the Pace of Change First Global ServiceNow Insight and Vision Report K Speaker Preview"
 date: 2019-05-01T16:48:43.000Z
+authors: ["meghanlockwood"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=49865c93db05b38423f4a345ca961917"
 ---
 <div id="magicdomid2" class="ace-line"><span class="author-281618597">If you are part of the ServiceNow Knowledge Community, chances are you have seen a significant change in interest and adoption over the past 15 months. But as the power of the ServiceNow platform evolves, hard numbers can help bring that growth home. </span></div>

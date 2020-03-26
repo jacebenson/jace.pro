@@ -1,6 +1,7 @@
 ---
 title: "Responsive dashboards the best way to share data visualizations"
 date: 2017-12-08T22:55:29.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ab8caae1dbd0dbc01dcaf3231f961913"
 ---
 <p>Starting with the Istanbul release, ServiceNow instances provide a powerful feature available to all users: <a title="ocs.servicenow.com/bundle/jakarta-performance-analytics-and-reporting/page/use/dashboards/concept/c_ResponsiveDashboards.html" href="https://docs.servicenow.com/bundle/jakarta-performance-analytics-and-reporting/page/use/dashboards/concept/c_ResponsiveDashboards.html" rel="nofollow">responsive dashboards</a>.<span style="color: #3d3d3d;"> I</span>n this installment of our <a style="font-weight: inherit; font-style: inherit; font-family: inherit; color: #3778c7;" title="" href="community?id&#61;community_blog&amp;sys_id&#61;6e7d6269dbd0dbc01dcaf3231f9619c0" rel="nofollow">NOWSupport best practices series</a>, you can learn what responsive dashboards are, how to enable them, what you can use them for, and best practices for creating them and optimizing their performance.</p>

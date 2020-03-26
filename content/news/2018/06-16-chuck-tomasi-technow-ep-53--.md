@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   How to Get Started With the Guided Tour Designer"
 date: 2018-06-15T07:12:50.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4df59e84dbb21b8054250b55ca961954"
 ---
 <p><img class="image-3 jive-image" style="padding-right: 8px; width: 98px; height: 98px;" src="f2c8ebf1db54dfc0b322f4621f9619ac.iix" alt="expert-logo-2.png" width="98" height="98" align="left" />Cut down on your training material and give users a great experience with Guided Tour Designer. Guided Tours give the user step-by-step, click-by-click instructions how to use a form or list. Tours can be automatically or manually launched and tailored to each persona&#39;s role. For admins, there is a convenient dashboard to monitor tour usage.</p>

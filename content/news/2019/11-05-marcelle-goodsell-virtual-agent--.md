@@ -1,6 +1,7 @@
 ---
 title: "Virtual Agent Peoples Preference For Engaging Experiences"
 date: 2019-11-04T23:13:05.000Z
+authors: ["Marcelle Goodsell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7b02ac23db780014d58ea345ca9619e1"
 ---
 <p class="ng-scope"><strong><img class="community_image_fullscreen" src="https://community.servicenow.comhttps://community.servicenow.com/51b81ddedb70cc10d58ea345ca96195f.iix" alt="image" /></strong> </p>

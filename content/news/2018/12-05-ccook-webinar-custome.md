@@ -1,6 +1,7 @@
 ---
 title: "Webinar Customer Service  Comearemos em  minutos  Participe"
 date: 2018-12-04T17:40:53.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0f69866fdbc6e3c011762183ca96196c"
 ---
 <p>Bom dia, </p>

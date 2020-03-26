@@ -1,6 +1,7 @@
 ---
 title: "After a major merger IHS Markit went from two very different CMDBs to one trusted source of truth  Find out how by signing up for session BRE at Knowledge "
 date: 2019-04-01T21:21:51.000Z
+authors: ["Matt Gowarty"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d5557a29dbecf700fece0b55ca9619fc"
 ---
 <div class="cm-content-body">

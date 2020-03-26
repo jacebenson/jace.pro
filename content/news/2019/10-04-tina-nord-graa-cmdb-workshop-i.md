@@ -1,6 +1,7 @@
 ---
 title: "CMDB workshop i rhus  oktober"
 date: 2019-10-03T13:48:00.000Z
+authors: ["Tina Nord Graa"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=099bf5c11b188414fff162c4bd4bcb08"
 ---
 <p>Hej SNUG community,</p>

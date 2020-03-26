@@ -1,6 +1,7 @@
 ---
 title: "SNUG DE Frankfurt "
 date: 2016-10-24T17:46:15.000Z
+authors: ["dieterbürgel"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d59c2ee1dbd0dbc01dcaf3231f96192b"
 ---
 <p>Liebe SNUG's,</p><p></p><p>vielen Dank für eure Teilnahme in Frankfurt. </p><p></p><p>Ich habe mich sehr gefreut so viele Vertreter von Firmen begrüßen und moderieren zu dürfen. </p><p>So macht es Spaß und der Aufwand lohnt sich<span __jive_emoticon_name="happy" __jive_macro_name="emoticon" class="jive_macro_emoticon jive_emote jive_macro" data-renderedposition="113_296.0199890136719_16_16" src="/8.0.4.21bdc7e/images/emoticons/happy.png"></span>.</p><p></p><p>Ebenso hatte ich das gute Gefühl, dass es eine sehr gute Diskussion war, nicht zuletzt auch</p><p>durch den prima Support der ServiceNow Mitarbeiter und Mitarbeiterinnen. </p><p></p><p>Ich möchte Sie/euch bitten mir die akt. Probleme (die wir im Forum angesprochen haben) zu schildern.</p><p>Mit dem Engagement Manager Herrn Leitzbach habe ich abgestimmt eine konsolidierte Version zu verfassen und dem Management</p><p>von SNOW zu präsentieren.</p><p></p><p>In diesem Sinne los geht's</p><p></p><p>Viele Grüße</p><p>Dieter Bürgel</p>

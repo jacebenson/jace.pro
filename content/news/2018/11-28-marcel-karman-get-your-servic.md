@@ -1,6 +1,7 @@
 ---
 title: "Get your Service Desks to the next level and reduce your costs at the same time"
 date: 2018-11-27T18:44:34.000Z
+authors: ["Marcel Karman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fbd496d5db46e3009a64e15b8a96191c"
 ---
 <p><span style="font-size: 14pt;"><strong>Get your Service Desks to the next level and reduce your costs at the same time</strong></span></p>

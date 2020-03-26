@@ -1,6 +1,7 @@
 ---
 title: "Update on COVID"
 date: 2020-03-14T02:22:23.000Z
+authors: ["Dan Bruhn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c7c97615db238c14d58ea345ca96191c"
 ---
 <p>As a global company, we have critical business functions, including technical support and cloud operations, distributed in regions around the world. This model ensures consistent, world-class customer support and service levels for our customers. <br /><br /></p>

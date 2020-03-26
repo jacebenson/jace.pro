@@ -1,6 +1,7 @@
 ---
 title: "Proactive Monitoring at ServiceNow"
 date: 2018-09-07T03:17:12.000Z
+authors: ["franklynn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3c950607db1863005ed4a851ca961930"
 ---
 <p>Nothing is worse when critical business processes can’t be executed because your cloud software is slowing down or not available. Real-time monitoring and alerts can warn you of slowdowns and outages and help you prevent and respond to issues quickly.<br /><br />ServiceNow already offers <a href="https://hi.service-now.com/hisp" rel="nofollow">world-class technical support</a> as part of your subscription –  including the <a href="https://hi.service-now.com/hi_login.do" rel="nofollow">HI Service Portal</a>, and a <a href="community" rel="nofollow">support community</a>. But did you know that ServiceNow also offers Proactive Monitoring? And that it is already included at no extra cost as part of your ServiceNow subscription?</p>

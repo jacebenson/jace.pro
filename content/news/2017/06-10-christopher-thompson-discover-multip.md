@@ -1,6 +1,7 @@
 ---
 title: "Discover multiple CIs with the same serial number  Part II"
 date: 2017-06-10T01:13:29.000Z
+authors: ["christopher.thompson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a71da2e5dbd0dbc01dcaf3231f961963"
 ---
 <p><span style="text-align: center;"><em>This is in regards to the new CMDB identifiers introduced along with Service Mapping starting in the Geneva release. For information on how to handle this scenario using the old CI identifiers, please reference the first part of this series: <a href="community?id&#61;community_blog&amp;sys_id&#61;c75de629dbd0dbc01dcaf3231f9619c9" target="_blank" rel="nofollow">Discover multiple CIs with the same serial number - Part I</a></em></span></p>

@@ -1,6 +1,7 @@
 ---
 title: "AIOps provides more value when combined with better experience"
 date: 2019-03-07T21:17:45.000Z
+authors: ["Hakan Isik"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f6e631e1db84f7880be6a345ca9619fe"
 ---
 <p style="text-align: justify;"><strong><span style="font-family: helvetica; font-size: 14pt;">AIOps is not the new kid on the block anymore</span></strong></p>

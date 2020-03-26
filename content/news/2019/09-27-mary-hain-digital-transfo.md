@@ -1,6 +1,7 @@
 ---
 title: "Digital Transformation in ServiceNow Finance Observations from the front lines"
 date: 2019-09-26T20:47:37.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6b78d7ba1b08cc58d01143f6fe4bcb9c"
 ---
 <p style="text-align: left;"><strong><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/48081f321b08cc58d01143f6fe4bcb4e.iix" /></strong></p>

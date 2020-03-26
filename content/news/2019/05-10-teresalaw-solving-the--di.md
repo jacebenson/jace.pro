@@ -1,6 +1,7 @@
 ---
 title: "Solving the  dilemma of demonstrating compliance to your regulatory obligations"
 date: 2019-05-09T20:19:49.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5b8312f1db9d3b88fece0b55ca961976"
 ---
 <p>All organizations are required to comply with more mandates because of the increasing number of laws, government regulations, contractual obligations, and national and international standards. According to the research firm of <a href="https://blogs.thomsonreuters.com/answerson/cost-of-compliance-2015/" rel="nofollow">Thomson Reuters</a>, 70% of firms studied expect to undergo more regulation in the next year. Compliance staffs are becoming overwhelmed, and the cost of compliance is skyrocketing.</p>

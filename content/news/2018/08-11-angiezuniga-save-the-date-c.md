@@ -1,6 +1,7 @@
 ---
 title: "SAVE THE DATECALL FOR SPEAKERS KC SNUG  Sept th pmpm  American Century"
 date: 2018-08-11T01:10:50.000Z
+authors: ["angiezuniga"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=deb5eededbfb17c01cd8a345ca961983"
 ---
 <p><strong>Please mark your calendars for the next SNUG meeting! </strong></p>

@@ -1,6 +1,7 @@
 ---
 title: "Handling VIP support within Incident Management"
 date: 2012-03-06T19:16:16.000Z
+authors: ["SimonMorris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c3fc66a5dbd0dbc01dcaf3231f96199f"
 ---
 <p>Over at <a title="w.theitsmreview.com/2012/03/provide-support-vips/" href="http://www.theitsmreview.com/2012/03/provide-support-vips/">The ITSM Review</a> I blogged about handling VIP Support.<br /><br /><blockquote><br />One of the outcomes of IT Service Management is the regulation, consistency and predictability in the delivery of services.<br /><br />I remember working in IT before Service Management was adopted by our organisation and realising that we would over-service some customers and under-service others. Not intentionally but we didn't have a way of regulating our work and making our output predictable.<br /><br />Our method of work delivery seemed to be somewhere between "First come first served" and "She who shouts loudest shall get the best service". Not the best way to manage service delivery.<br /><br />Chris York tweeted an interesting message recently;<br /><br /><img src="http://www.theitsmreview.com/wp-content/uploads/2012/03/Twitter-_-@YorkChris_-Today-I-had-another-client-...1.png" /><br /></blockquote><br /><br /><br /><br />Head over <a title="w.theitsmreview.com/2012/03/provide-support-vips/" href="http://www.theitsmreview.com/2012/03/provide-support-vips/">to read the whole article.</a> <br /><br />How do our ServiceNow customers handle their Very Important (and possibly demanding) People?</p>

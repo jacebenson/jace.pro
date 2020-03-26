@@ -1,6 +1,7 @@
 ---
 title: "An Admins Guide to using Project Templates in PPM"
 date: 2018-09-25T03:57:38.000Z
+authors: ["sowmya123"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=187bb2bcdb7ceb84fff8a345ca961914"
 ---
 <p style="text-align: left;">A <a href="https://docs.servicenow.com/bundle/london-it-business-management/page/product/project-management/concept/c_ProjectTemplates.html" target="_blank" rel="nofollow">project template</a> defines the basic structure of a project. Because projects often get repeated, templates enable you to create, save, and reuse project structure. </p>

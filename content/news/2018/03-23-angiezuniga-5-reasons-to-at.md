@@ -1,6 +1,7 @@
 ---
 title: " Reasons to Attend the SNUG on   Even Though its the Royals Home Opener"
 date: 2018-03-23T01:51:20.000Z
+authors: ["angiezuniga"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b8d6e885dbc95b047b337a9e0f961901"
 ---
 <p>It has been brought to our attention that we chose poorly, when we chose the date for our Q1 SNUG (3/29) back in January. How would we know back then, that it would be the exact same day as the KC Royals Home Opener? Here are 5 reasons you should attend the SNUG anyway!</p>

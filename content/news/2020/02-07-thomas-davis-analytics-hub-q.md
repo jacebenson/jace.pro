@@ -1,6 +1,7 @@
 ---
 title: "Analytics Hub Quick Lookup Guide  Part "
 date: 2020-02-07T03:02:41.000Z
+authors: ["Thomas Davis"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9f0c9535db7a805cd58ea345ca961903"
 ---
 <p style="text-align: center;">In this 3-Part Series Blog, we are going to discuss the features within the Analytics Hub. Click <a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;91bb4c79dbbe8c1cd58ea345ca9619dd" rel="nofollow">here</a> for Part 1, <a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;9f0c9535db7a805cd58ea345ca961903" rel="nofollow">here</a> for Part 2 and <a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;2c47b90edbb64c5cd58ea345ca961923" rel="nofollow">here</a> for Part 3.</p>

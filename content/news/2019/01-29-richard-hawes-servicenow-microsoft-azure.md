@@ -1,6 +1,7 @@
 ---
 title: "Microsoft Azure DevOps announces integration with ServiceNow ITSM"
 date: 2019-01-29T00:46:41.000Z
+authors: ["richard.hawes@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fc5a3adddbdba7c0b1b102d5ca9619f7"
 ---
 <p>Digital Transformation is driving many organizations to adopt DevOps. Some are starting small and others are embracing DevOps on a broad scale. As Tech Republic pointed out <a href="https://www.techrepublic.com/article/how-to-avoid-the-top-5-causes-of-devops-failure/" target="_blank" rel="noopener noreferrer nofollow">in a recent article</a>, thought leaders like George Spafford of Gartner recognize that “DevOps Works” and &#34;It can deliver real value. It can help firms better deal with uncertainty, and it can help them deliver value faster.&#34; The article continues with hints for successful implementation of DevOps.</p>

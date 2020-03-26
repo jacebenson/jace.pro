@@ -1,6 +1,7 @@
 ---
 title: "TechBytes Episode  The WalkUp experience"
 date: 2018-09-28T22:47:11.000Z
+authors: ["Steve Miller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ebba5a8adbb86f848e7c2926ca9619c2"
 ---
 <p><iframe src="https://omny.fm/shows/servicenow-techbytes/episode-45-the-walk-up-experience/embed?style&#61;artwork" width="100%" height="180"></iframe></p>

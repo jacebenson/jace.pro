@@ -1,6 +1,7 @@
 ---
 title: "Slides from  Richmond SNUG"
 date: 2019-03-26T23:29:14.000Z
+authors: ["Laura Leslie Whisman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3cf8d07bdb14fb881cd8a345ca9619a2"
 ---
 <p>Hi Richmond SNUG Community,</p>

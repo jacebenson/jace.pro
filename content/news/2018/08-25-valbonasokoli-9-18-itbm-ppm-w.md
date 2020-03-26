@@ -1,6 +1,7 @@
 ---
 title: " ITBMPPM WORKSHOP  PRIOR TO THE NJ SNUG"
 date: 2018-08-24T20:26:52.000Z
+authors: ["valbonasokoli"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c7fa25fedb04af445129a851ca96198f"
 ---
 <p>Please make sure to join us on 9.18.18 for an ITBM/PPM workshop we are offering prior to the <a href="https://go.servicenow.com/LP&#61;10946" rel="nofollow">New Jersey SNUG</a>. </p>

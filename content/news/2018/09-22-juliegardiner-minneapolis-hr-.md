@@ -1,6 +1,7 @@
 ---
 title: "Minneapolis HR Customers Gather to Network and Share Best Practices with the ServiceNow HR BU"
 date: 2018-09-22T00:20:38.000Z
+authors: ["juliegardiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2c0d2ebfdbacaf44d58ea345ca961946"
 ---
 <p>The rain didn&#39;t stop our HR customers from attending a great event in Minneapolis!</p>

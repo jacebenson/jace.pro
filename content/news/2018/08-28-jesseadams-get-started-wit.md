@@ -1,6 +1,7 @@
 ---
 title: "Get Started with Search Facets for Simple Search Sources in London"
 date: 2018-08-27T19:37:19.000Z
+authors: ["jesseadams"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6e6cb8b7db8cef8467a72926ca961933"
 ---
 <div>

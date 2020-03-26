@@ -1,6 +1,7 @@
 ---
 title: "Using Setup Topics to Create a Dynamic Virtual Agent"
 date: 2019-12-20T06:49:01.000Z
+authors: ["darius.koohmarey"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=05f93d82dbfd0c50190dfb2439961916"
 ---
 <p>A unique architecture you find with the virtual agent is that of the <a href="https://docs.servicenow.com/bundle/newyork-performance-analytics-and-reporting/page/administer/virtual-agent/task/configure-va-setup-topics.html" rel="nofollow">setup topics</a>. These are core components of any conversation, regardless of the specific use case that is being handled. For those unfamiliar with the setup topics, they include a greeting, survey, live agent, explore help, error, closing, fallback and anything else topic. The execute in a specific order in every conversation the user has, beginning with a greeting topic and ending with a closing topic.</p>

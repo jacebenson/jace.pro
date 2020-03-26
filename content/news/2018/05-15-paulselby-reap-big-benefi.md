@@ -1,6 +1,7 @@
 ---
 title: "Reap Big Benefits By Running Customer Service Like A Software Startup"
 date: 2018-05-14T21:21:31.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5155640adb861fc02b6dfb651f961968"
 ---
 <p><img class="alignnone  wp-image-3175" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/05/agenda-concept-development-7376.jpg" alt="agenda-concept-development-7376" width="360" height="240" align="left" />Last week, ServiceNow held its annual customer conference. With over 18,000 attendees, it&#39;s an amazing week-long event. Among the many activities that take place, one of the most interesting is the customer-led breakout sessions. In these, customers share their business challenges, successes, and future plans and how our software is assisting in those endeavors. As I attended the customer service sessions, I found an interesting theme in many of the narratives.</p>

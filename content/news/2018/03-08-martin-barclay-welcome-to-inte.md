@@ -1,6 +1,7 @@
 ---
 title: "Welcome to Intelligent Apps World"
 date: 2018-03-07T22:42:26.000Z
+authors: ["Martin Barclay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dc0e5e80dbfcd78058dcf4621f961947"
 ---
 <p><em>Note: you can bookmark this Forum using the URL servicenow.com/intelligentappsworld</em></p>

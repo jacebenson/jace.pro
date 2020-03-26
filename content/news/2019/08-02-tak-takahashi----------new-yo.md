@@ -1,6 +1,7 @@
 ---
 title: " New York "
 date: 2019-08-01T14:20:58.000Z
+authors: ["Tak Takahashi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=79f6e1b8db4377c8190dfb24399619fe"
 ---
 <p>ServiceNow NowPlatformの新バージョン<strong> New York</strong> が9月にリリースになります。New YorkバージョンではMobile機能の強化をはじめとして数多くの機能が追加・強化されています。</p>

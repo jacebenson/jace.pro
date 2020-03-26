@@ -1,6 +1,7 @@
 ---
 title: "TechBytes Episode  Quarterly Patching Program"
 date: 2016-11-08T00:36:57.000Z
+authors: ["marystromberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c3dc2a65dbd0dbc01dcaf3231f9619b1"
 ---
 <p style="font-weight: inherit; font-style: inherit; font-family: inherit; color: #666666;">In this episode of TechBytes, <a class="jive_macro jive_macro_user" title="Sarah Holberg" href="/community?id=community_user_profile&user=4d1496eddb1c1fc09c9ffb651f961942" rel="nofollow">Sarah Holberg</a> discusses the quarterly patching program and how you can prepare for and implement new patches every quarter.</p>

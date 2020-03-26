@@ -1,6 +1,7 @@
 ---
 title: "Orlando Out of Box Solutions  Performance Analytics  Office Hours  March  Recap"
 date: 2020-03-19T01:46:22.000Z
+authors: ["Paty Montesinos"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2081e487dbef889413b5fb243996198a"
 ---
 <p><span>During the </span><a href="https://www.youtube.com/watch?v&#61;rQwppvQfa_Q&amp;list&#61;PLkGSnjw5y2U6HotK0MQUbCrzVog_zBWat&amp;index&#61;2&amp;t&#61;0s" rel="nofollow"><span>Performance Analytics and Reporting Office Hours</span></a><span> on March 11th, we covered how you can find update</span><span>d</span><span> and new out of the box </span><span>analytics and reporting </span><span>solutions</span><span> in our doc</span><span>umentation site</span><span>, </span><span>we provided an overview of Orlando</span><span>’s</span><span> </span><span>new and updated content and demoed </span><span>the Advanced Work Assignment Operations dashboard</span><span>. </span><span>[</span><span>Full presentation attached below.]</span><span> </span></p>

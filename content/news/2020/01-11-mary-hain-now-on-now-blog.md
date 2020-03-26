@@ -1,6 +1,7 @@
 ---
 title: "Now on Now blog Employees are on board with onboarding"
 date: 2020-01-11T02:55:17.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bb67168ddb564c501cd8a345ca9619e9"
 ---
 <p><a href="https://blogs.servicenow.com/2020/appreciate-employees-through-onboarding.html" rel="nofollow"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/4147128ddb564c501cd8a345ca961993.iix" /></a></p>

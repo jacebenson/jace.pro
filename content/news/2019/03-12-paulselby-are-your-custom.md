@@ -1,6 +1,7 @@
 ---
 title: "Are your customers suffering from satisfaction survey fatigue"
 date: 2019-03-11T21:22:14.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a20caaf6db807f00190dfb2439961963"
 ---
 <div class="wp-block-image"><img class="wp-image-3523" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/03/experience-3239623.jpg?w&#61;1024" alt="" width="364" height="237" align="right" /></div>

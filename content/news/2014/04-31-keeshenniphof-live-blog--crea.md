@@ -1,6 +1,7 @@
 ---
 title: "Live Blog CreateNow Hackathon  Archived"
 date: 2014-04-30T05:13:30.000Z
+authors: ["keeshenniphof"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a76caea1dbd0dbc01dcaf3231f961993"
 ---
 <p><span style="font-family: calibri, verdana, arial, sans-serif; font-size: 14pt;">Follow this blog for continuous updates, stories and scoops directly from the Moscone Center in San Francisco, where <a title="" href="community?id&#61;community_user_profile&amp;user&#61;d621d665db981fc09c9ffb651f96193c" rel="nofollow">Allan Leinwand</a> announced the winning team. This Live Blog ended May 1st, 10.30am PT.</span></p>

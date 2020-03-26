@@ -1,6 +1,7 @@
 ---
 title: "Reports showing as patterned colors instead of solid colors"
 date: 2018-02-14T23:41:01.000Z
+authors: ["sowmya123"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c75de629dbd0dbc01dcaf3231f96197b"
 ---
 <p>Starting in Jakarta, some users saw the report graph colors go from solid colors to odd colors and patterns. The reason for the change in reporting visualization is to support Accessibility in the ServiceNow product. Accessibility supports several specifications in the Web Content Accessibility Guidelines (WCAG) 2.0 to make the interface accessible to users with disabilities.</p>

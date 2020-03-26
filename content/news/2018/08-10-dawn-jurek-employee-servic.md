@@ -1,6 +1,7 @@
 ---
 title: "Employee Service Center What is it and why do you need it"
 date: 2018-08-10T01:31:55.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4df029c2db735bc0f7fca851ca961964"
 ---
 <p>Are all of your employee communications taking place via endless email threads? Are your HR agents tracking requests on sticky notes? Your employees’ experiences could be more streamlined and efficient if your organization provided a single place for employees to quickly and easily get all the services they need.</p>

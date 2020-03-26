@@ -1,6 +1,7 @@
 ---
 title: "Getting Started with ServiceNow Security"
 date: 2018-02-12T20:21:17.000Z
+authors: ["rachidh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2dbd6aa9dbd0dbc01dcaf3231f961987"
 ---
 <p><span style="font-size: 11.0pt;">Chances are, if you are using or planning to use a cloud-based service, you have some questions on cloud security. You might be asking yourself:</span></p>

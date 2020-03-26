@@ -1,6 +1,7 @@
 ---
 title: "Whats the Cost of Disconnected Customer Service"
 date: 2018-04-09T20:37:53.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=24bb8cf6dbd15b00fc5b7a9e0f9619a1"
 ---
 <div><img class="alignnone  wp-image-3123" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/04/adult-american-black-and-white-935870.jpg" alt="adult-american-black-and-white-935870" width="301" height="244" align="left" />Much has been written about using customer service as a <a href="https://www.inc.com/martin-zwilling/a-customer-experience-is-not-complete-without-exceptional-support.html" target="_blank" rel="nofollow">competitive advantage</a> in business. It makes a lot of sense. When customers find products and services so similar in functionality and price, providing the best customer service becomes a distinct differentiator.</div>

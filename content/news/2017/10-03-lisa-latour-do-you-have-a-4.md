@@ -1,6 +1,7 @@
 ---
 title: "Do you have a  Page to show from Service Portal"
 date: 2017-10-02T21:18:21.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0a7c62e1dbd0dbc01dcaf3231f9619e7"
 ---
 <p><img class="image-1 jive-image" style="float: right; height: 270px; width: 310.829px;" src="b2c8110edb5c9f048c8ef4621f9619af.iix" alt="404.jpeg" width="311" height="270" />We&#39;ve got a challenge for you -</p>

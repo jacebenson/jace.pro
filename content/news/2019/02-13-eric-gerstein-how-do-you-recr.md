@@ -1,7 +1,8 @@
 ---
 title: "How do you recruit ServiceNow champions"
-date: 2019-02-12T23:04:55.000Z
-link: "https://community.servicenow.com/community?id=community_blog&sys_id=18e27f8adb672bc04abd5583ca9619c9"
+date: 2019-02-12T22:54:38.000Z
+authors: ["Eric Gerstein"]
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=a980ff06dbe32bc04abd5583ca961960"
 ---
 <p>You’ve decided to <a href="https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/bp/subpillar19-champions.pptx" rel="nofollow">build a community of champions</a> to drive awareness and support for your ServiceNow programs, but how do you recruit <a href="https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/other-document/csc/champions.pdf" rel="nofollow">champions</a> to support your efforts? How many champions do you need to recruit?</p>
 <p>To help with this, we’ve highlighted three questions to consider when recruiting champions for your ServiceNow implementation:</p>
@@ -12,13 +13,13 @@ link: "https://community.servicenow.com/community?id=community_blog&sys_id=18e27
 <p> </p>
 <h4><strong>2. How many ServiceNow champions do you need?</strong></h4>
 <p>This depends on how big your organization is and the number of people using ServiceNow. Use these guidelines:</p>
-<p> </p>
-<p> <img style="max-width: 100%; max-height: 480px;" src="5aa2330adb672bc04abd5583ca96192e.iix" /></p>
+<p> <img style="max-width: 100%; max-height: 480px;" src="fda1ffc6db272bc04abd5583ca961933.iix" /></p>
 <p>* Different products will require different types of champions, so these numbers are a guideline for how many champions you may need per ServiceNow product implemented in your organization (e.g., ITSM, ITOM, ITBM, SAM, HR, CSM).</p>
 <p> </p>
-<h4> 3. <strong>How do you recruit ServiceNow champions?</strong></h4>
+<h4><strong>3. How do you recruit ServiceNow champions?</strong></h4>
 <p>Follow these steps:</p>
-<p><img style="max-width: 100%; max-height: 480px;" src="9db2b30adb672bc04abd5583ca96191a.iix" /></p>
+<p> <img style="max-width: 100%; max-height: 480px;" src="fb70bb06dbe32bc04abd5583ca961923.iix" /></p>
+<p> </p>
 <p>If you have any questions on this topic or you would like to be a contributor to future ServiceNow best practice content, please contact us at <a href="mailto:best.practices&#64;servicenow.com" rel="nofollow">best.practices&#64;servicenow.com</a>.</p>
 <p> </p>
 <p>Learn more:</p>

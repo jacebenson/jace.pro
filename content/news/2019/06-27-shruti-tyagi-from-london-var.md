@@ -1,6 +1,7 @@
 ---
 title: "From London variable set and variables with same name are not allowed and cause issues"
 date: 2019-06-27T00:41:29.000Z
+authors: ["shruti.tyagi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c4cb1a91db1a3340a39a0b55ca96191e"
 ---
 <p>After London upgrade, if you are seeing weird behavior with variables not populating correctly this can be the reason.</p>

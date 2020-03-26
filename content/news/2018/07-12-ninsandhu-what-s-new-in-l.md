@@ -1,6 +1,7 @@
 ---
 title: "Whats New in London for HR Service Delivery"
 date: 2018-07-12T02:11:10.000Z
+authors: ["ninsandhu"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=65d358f0db931b4067a72926ca961941"
 ---
 <p style="text-align: left;"><span style="font-size: 14.0pt;"><img style="float: left; margin-right: 10px; max-width: 100%; max-height: 480px;" src="cbd37a61db4c67008e7c2926ca961966.iix" width="255" height="149" /></span></p>

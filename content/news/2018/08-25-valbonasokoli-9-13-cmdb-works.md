@@ -1,6 +1,7 @@
 ---
 title: " CMDB WORKSHOP  Prior to the Philadelphia SNUG"
 date: 2018-08-24T20:20:58.000Z
+authors: ["valbonasokoli"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=70a9e932db04af445129a851ca9619b4"
 ---
 <p>All thank you so much for attending the CMDB Workshop. Please find the materials listed here. As always do not hesitate to reach out if you have any questions.</p>

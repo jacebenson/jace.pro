@@ -1,6 +1,7 @@
 ---
 title: "Technology Portfolio Management made easy"
 date: 2019-01-19T03:11:42.000Z
+authors: ["mark_b"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2f9bbfcedb47e3807d3e02d5ca9619d2"
 ---
 <h1>Overview</h1>

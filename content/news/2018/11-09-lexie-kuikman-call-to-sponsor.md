@@ -1,6 +1,7 @@
 ---
 title: "Call to Sponsor  Montreal SNUG Dec th"
 date: 2018-11-09T04:20:08.000Z
+authors: ["Lexie Kuikman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f562ee97dba527401089e15b8a9619b5"
 ---
 <p>Our Montreal SNUG is coming up on December 5th and we are very excited!</p>

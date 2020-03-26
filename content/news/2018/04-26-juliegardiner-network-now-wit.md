@@ -1,6 +1,7 @@
 ---
 title: "Network NOW with Your HR Peers at the HR SIG at Knowledge"
 date: 2018-04-25T19:50:55.000Z
+authors: ["juliegardiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e06ad6f3db6d5f003882fb651f9619a8"
 ---
 <h2>Going to Knowlege18?</h2>

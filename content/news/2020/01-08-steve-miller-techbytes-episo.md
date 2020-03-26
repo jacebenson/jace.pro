@@ -1,6 +1,7 @@
 ---
 title: "TechBytes Episode  Optimizing concurrent licenses using SAM"
 date: 2020-01-08T04:07:43.000Z
+authors: ["Steve Miller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6f3b0b841b5e8010a59033f2cd4bcbc0"
 ---
 <p><iframe style="height: 180px; width: 560px;" title="Episode 57: Optimizing concurrent licenses using SAM" src="https://omny.fm/shows/servicenow-techbytes/episode-57-optimizing-software-licenses/embed"></iframe></p>

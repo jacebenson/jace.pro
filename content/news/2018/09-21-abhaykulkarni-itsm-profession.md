@@ -1,6 +1,7 @@
 ---
 title: "ITSM Professional Explained  Inspired by experiences of Service Desk Owners a hypothetical use case"
 date: 2018-09-20T22:33:07.000Z
+authors: ["abhaykulkarni"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3fcac167db6ce7c08e7c2926ca96191d"
 ---
 <p style="text-align: justify;">&#34;Thank you for all the hard work in running the service desk so well&#34;, said the CIO, as he opened the monthly meeting with various service desk owners in his company.</p>

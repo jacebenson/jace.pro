@@ -1,6 +1,7 @@
 ---
 title: "Best practices for making your Benchmarks reports more useful"
 date: 2018-10-11T23:41:39.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d8e3a596db092f8023f4a345ca961984"
 ---
 <p>If your organization has opted-in to Benchmarks, you probably know that the up-to-date monthly Benchmarks peer comparison report is available right in your Instance to help you improve your service and process performance. But have you wondered, &#34;How can I make these Benchmarks reports more useful?&#34;</p>

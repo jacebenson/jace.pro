@@ -1,6 +1,7 @@
 ---
 title: "Customer service its not just a department"
 date: 2019-10-14T03:28:28.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4d47d4a8db24c854feb1a851ca961952"
 ---
 <p><img class="wp-image-4111" style="padding: 5 px:;" src="https://insightsincustomerservice.files.wordpress.com/2019/10/black-and-white-black-and-white-challenge-262488.jpg?w&#61;1024" alt="" width="271" height="203" align="right" /></p>

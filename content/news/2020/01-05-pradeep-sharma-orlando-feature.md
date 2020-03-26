@@ -1,6 +1,7 @@
 ---
 title: "Orlando Features for Store Developers"
 date: 2020-01-04T10:03:27.000Z
+authors: ["Pradeep Sharma"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e3467bfadb46801013b5fb24399619a4"
 ---
 <p class="ng-scope">When Orlando release is around the corner, it’s time for us to learn together about the new features, enhancements, and APIs that will help those of you who would like to develop an application to list on the store or OEM. I&#39;m very excited and want to share with you about the followings.</p>

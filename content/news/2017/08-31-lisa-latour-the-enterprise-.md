@@ -1,6 +1,7 @@
 ---
 title: "The Enterprise Cloudcast Episode  Digital Transformation by Allan Leinwand"
 date: 2017-08-31T03:42:24.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b48c66e1dbd0dbc01dcaf3231f961964"
 ---
 <p><span style="font-size: 12pt;">In this episode, Allan discusses digital transformation. Digital transformation is more than digital products and services; it&#39;s also about the processes that creates, enables, manages, and delivers them.</span></p>

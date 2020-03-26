@@ -1,6 +1,7 @@
 ---
 title: "Whats New in Kingston for Software Asset Management"
 date: 2018-01-11T22:25:13.000Z
+authors: ["ryanw-t"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=842de2e5dbd0dbc01dcaf3231f961935"
 ---
 <p><span style="font-size: 11.0pt;"><img class="image-3 jive-image" style="float: left; margin-right: 10px; height: 208px; width: 396.398px;" src="e186dd02db9813043eb27a9e0f9619be.iix" alt="pastedImage_0.png" width="396" height="208" /><img class="image-4 jive-image" style="max-width: 620px; width: 83px; height: 93.3106px;" src="56213406dbd8dfc03eb27a9e0f96199d.iix" alt="pastedImage_14.png" width="83" height="93" /><br /><span style="font-size: 12pt;">We are extremely excited about the Kingston release of Software Asset Management (SAM) which for us has been all about expanding the use cases to further manage, measure and optimize your software estate. With the Kingston release, it has never been easier to visualize the trend of software spend and compliance as well as show back software cost by department, cost center or another dimension.</span> </span></p>

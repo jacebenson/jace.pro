@@ -1,6 +1,7 @@
 ---
 title: "Vendor Management Workspace FAQs"
 date: 2019-09-27T21:29:17.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=af9be017dbccc4100be6a345ca961924"
 ---
 <p><span style="font-size: 24pt;"><strong>Vendor Management Workspace FAQ&#39;s</strong></span></p>

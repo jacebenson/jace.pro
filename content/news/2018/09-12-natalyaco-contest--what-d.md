@@ -1,6 +1,7 @@
 ---
 title: "Contest What Do You Do to Improve the Employee Experience at Your Company"
 date: 2018-09-11T23:48:30.000Z
+authors: ["natalyaco"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=04c5cf68dbe06380f7fca851ca961940"
 ---
 <p>Most HR professionals want to make things “Easy for Employees.” But what is it that you’d like to make easy, exactly? Health care sign-ups, benefit information, the hiring processes?</p>

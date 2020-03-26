@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow"
 date: 2019-09-30T09:41:56.000Z
+authors: ["Tetsuya Izawa"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5b76a100dbdc485014d6fb24399619b1"
 ---
 <p>ServiceNowには、業務を支援する多くの標準のアプリケーションがありますが、「標準のアプリケーションに機能を追加したい」「独自のアプリケーションを開発してServiceNowインスタンス上で利用したい」というニーズも少なくありません。</p>

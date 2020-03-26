@@ -1,6 +1,7 @@
 ---
 title: "Solution to empty variables on RITMs when created through Service Portal"
 date: 2019-04-25T20:33:20.000Z
+authors: ["mohankrishna"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3060d211db81fb80fff8a345ca9619d2"
 ---
 <p class="p1">If you have seen a few Requested Item records intermittently created with no Variable data. It could be because you might be initializing to a new catalog form.</p>

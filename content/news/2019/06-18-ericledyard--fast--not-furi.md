@@ -1,6 +1,7 @@
 ---
 title: "Fast Not Furious  Change Management at the Speed of DevOps"
 date: 2019-06-17T21:45:49.000Z
+authors: ["ericledyard"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=573d57dadb8a7b00f21f5583ca96196c"
 ---
 <p><strong>“Fast, Not Furious” – Change Management at the Speed of DevOps</strong></p>

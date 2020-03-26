@@ -1,6 +1,7 @@
 ---
 title: "How the Virtual Agent can Help Us with Emergency Response Situations"
 date: 2020-03-20T00:43:34.000Z
+authors: ["dangrady510"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=06bcd597db2f00942be0a851ca961911"
 ---
 <p>In rapidly changing and uncertain emergency situations, it is important to keep everyone informed as we anticipate and respond as things unfold.</p>

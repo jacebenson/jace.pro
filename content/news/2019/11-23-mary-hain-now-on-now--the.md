@@ -1,6 +1,7 @@
 ---
 title: "Now on Now The journey to exceptional customer service using Customer Service Management  or How ServiceNow is using the Now Platform to build worldclass customer experiences"
 date: 2019-11-22T23:04:46.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=adcc0ddddb95409413b5fb24399619a9"
 ---
 <p> </p>

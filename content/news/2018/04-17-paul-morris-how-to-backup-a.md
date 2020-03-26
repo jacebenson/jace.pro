@@ -1,6 +1,7 @@
 ---
 title: "How to Backup All Development Work in  Click"
 date: 2018-04-16T13:52:53.000Z
+authors: ["Paul Morris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1c223270dbed1fc07b337a9e0f961974"
 ---
 <p>Are you using Jakarta or a later version of ServiceNow?<br /><br />Do you wish there was an easier way to keep your environments up to date?<br /><br />Are you finding it time consuming and difficult to backup and restore your development work when cloning during release cycles?<br /><br /></p>

@@ -1,6 +1,7 @@
 ---
 title: "GRC Roles  What you need to know"
 date: 2020-02-14T22:15:26.000Z
+authors: ["Jan Spurlin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7d07e198db4b0cdc5ed4a851ca961994"
 ---
 <p>The following details are as of the Orlando version of ServiceNow.</p>

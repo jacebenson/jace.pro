@@ -1,6 +1,7 @@
 ---
 title: "Get to businesssmart customization"
 date: 2018-10-15T21:31:11.000Z
+authors: ["Mark Tonsetic"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d46c25abdb05e70054250b55ca961913"
 ---
 <p>Does customization of your ServiceNow implementation add value, or add complexity and cost?</p>

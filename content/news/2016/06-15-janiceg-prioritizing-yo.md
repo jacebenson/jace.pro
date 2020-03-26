@@ -1,6 +1,7 @@
 ---
 title: "Prioritizing Your Skipped Updates After an Upgrade"
 date: 2016-06-14T22:04:24.000Z
+authors: ["janiceg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dabc2e25dbd0dbc01dcaf3231f961988"
 ---
 <p>The Helsinki release includes the <strong>Upgrade History</strong> module that <a title="" href="community?id&#61;community_blog&amp;sys_id&#61;ca7d2269dbd0dbc01dcaf3231f9619a8" rel="nofollow">tracks every upgrade</a> that has been made to an instance. You can use it to resolve conflicts and, thanks to a prefiltered list, <a title="ocs.servicenow.com/bundle/helsinki-release-notes/page/customer-support/task/t_ResolveASkippedUpdate.html" href="https://docs.servicenow.com/bundle/helsinki-release-notes/page/customer-support/task/t_ResolveASkippedUpdate.html" rel="nofollow">review skipped updates</a>. Use this <strong>Update Details</strong> list to determine whether you want to keep the customization or possibly revert to the base system when a handy new feature has been included in an upgrade that covers the reason you created the customization in the first place.</p>

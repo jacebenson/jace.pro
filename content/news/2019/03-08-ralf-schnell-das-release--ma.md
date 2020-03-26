@@ -1,6 +1,7 @@
 ---
 title: "Das Release Madrid ist jetzt offiziell verfgbar"
 date: 2019-03-07T14:52:56.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e1ded0e1db487f481cd8a345ca96198f"
 ---
 <p style="text-align: justify;">Sehr geehrte SNUG-Mitglieder,</p>

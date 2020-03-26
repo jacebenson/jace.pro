@@ -1,6 +1,7 @@
 ---
 title: "London Release Assigning admin and securityadmin roles"
 date: 2018-07-31T14:31:11.000Z
+authors: ["andrew.venables"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=be63f4cbdb2f130054250b55ca96192e"
 ---
 <p>With the release of London there are a few  small but significant new features that ServiceNow admins might notice, one of these is the change to how the admin and security_admin roles are assigned in London.</p>

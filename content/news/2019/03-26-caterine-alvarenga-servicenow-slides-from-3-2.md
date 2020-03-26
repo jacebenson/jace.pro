@@ -1,6 +1,7 @@
 ---
 title: "Slides from  Maryland SNUG"
 date: 2019-03-25T22:21:16.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=77cfba5bdb5c7b8ca39a0b55ca961916"
 ---
 <p>Hi Maryland SNUG Community,</p>

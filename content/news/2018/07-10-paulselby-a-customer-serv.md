@@ -1,6 +1,7 @@
 ---
 title: "A Customer Service Bill of Rights"
 date: 2018-07-09T22:36:01.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ea6f4584db9f9700f7fca851ca96197e"
 ---
 <p><img class="alignnone  wp-image-3235" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/07/constitution-1486010.jpg" alt="constitution-1486010" width="374" height="250" align="left" /> This past week, the U.S. celebrated <a href="https://en.wikipedia.org/wiki/Independence_Day_%28United_States%29" target="_blank" rel="nofollow">Independence Day</a>, commemorating both the signing of the <a href="https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence" target="_blank" rel="nofollow">Declaration of Independence</a> and the establishment of the U.S. as a separate nation. Over a decade later, the <a class="" href="https://en.wikipedia.org/wiki/United_States_Constitution" target="_blank" rel="nofollow">Constitution</a> would follow, setting the laws of the land, followed later by its first ten amendments: the <a href="https://en.wikipedia.org/wiki/United_States_Bill_of_Rights" target="_blank" rel="nofollow">Bill of Rights</a>.</p>

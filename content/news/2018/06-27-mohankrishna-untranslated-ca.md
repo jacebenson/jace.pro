@@ -1,6 +1,7 @@
 ---
 title: "Untranslated Catalog item FieldsVariables in Service Portal"
 date: 2018-06-27T03:32:04.000Z
+authors: ["mohankrishna"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1086533fdb761304b2102926ca9619da"
 ---
 <p class="p1" style="text-align: left;">Users on <a href="https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/quality/kingston-patch-2.html" target="_blank" rel="nofollow">Kingston Patch 2</a> may notice that when you are viewing a catalog item from Service Portal in another language, other than English, some of the fields are not translated to the selected language after upgrading.</p>

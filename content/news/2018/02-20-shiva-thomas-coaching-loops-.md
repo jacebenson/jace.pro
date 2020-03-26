@@ -1,6 +1,7 @@
 ---
 title: "Coaching Loops  The best and most underrated plugin for Continuous Improvement"
 date: 2018-02-19T14:22:28.000Z
+authors: ["Shiva Thomas"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bc2212f2dbd897044e1df4621f9619f8"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="11223cafdb509f444e1df4621f9619be.iix" /></p>

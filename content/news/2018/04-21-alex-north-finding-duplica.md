@@ -1,6 +1,7 @@
 ---
 title: "Finding duplicates with GlideAggregate"
 date: 2018-04-21T02:01:37.000Z
+authors: ["Alex North"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=124ffd5adb2517007b337a9e0f9619c2"
 ---
 <p>This afternoon I was helping out Customer Support assist a customer with identifying any Cis which happened to have the same serial number. The following principals could be followed for any table/field combination. Normal SQL hygiene applies – if you can reduce the record sets by including an addActiveQuery clause, then do so. Obviously if you are cleaning up data inconsistencies, you may have to query the whole table to make sure you don’t miss records.<br /> <br />The following example was based on OOB demo data. It shows how you can find the duplicates and extract relevant information directly from the MySQL console, as well as performing the same using Glide functionality. Although our hosted customers don&#39;t have access to the MySQL console, my hope is that seeing the SQL will help illustrate what I&#39;m talking about.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Get started using the ServiceNow Agent mobile app"
 date: 2019-05-10T21:05:33.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cb97670edb99f74c2be0a851ca9619f3"
 ---
 <p class="ng-scope">Calling all agents!</p>

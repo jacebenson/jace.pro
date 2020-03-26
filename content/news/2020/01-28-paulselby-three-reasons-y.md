@@ -1,6 +1,7 @@
 ---
 title: "Three reasons you need a customer service roadmap"
 date: 2020-01-27T22:43:07.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=63b085eedb66c4144819fb243996193f"
 ---
 <p><img class="wp-image-4479" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2020/01/map-455769.jpg" alt="" width="365" height="242" align="left" /></p>

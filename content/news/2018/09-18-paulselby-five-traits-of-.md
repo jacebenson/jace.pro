@@ -1,6 +1,7 @@
 ---
 title: "Five traits of the best customer service chatbots"
 date: 2018-09-17T21:28:56.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=565f51e6dba863c4a8562926ca9619de"
 ---
 <p><img class="alignnone  wp-image-3320" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/09/chatbot-3589528.jpg" alt="chatbot-3589528" width="287" height="248" align="left" /> Chatbots are a hot new technology for customer service, and their rise to power isn&#39;t slowing. In fact, Gartner not only claims that <a href="https://www.gartner.com/smarterwithgartner/chatbots-will-appeal-to-modern-workers/" target="_blank" rel="nofollow">over 50 percent of medium to large enterprises will have deployed them by 2020</a>, but by that same year <a href="https://www.gartner.com/imagesrv/summits/docs/na/customer-360/C360_2011_brochure_FINAL.pdf" target="_blank" rel="nofollow">85 percent of all customer service interactions</a> will be handled by them. 2020 will be here sooner than we realize and with these predictions, one would think chatbots are seen as a positive direction for customer service.</p>

@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow  Article Collection  One Year Anniversary"
 date: 2016-07-23T04:01:07.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a81daea5dbd0dbc01dcaf3231f96197d"
 ---
 <p style="font-family: arial, sans-serif; color: #666666;"><span style="font-weight: bold; font-style: inherit; font-family: &#39;Times New Roman&#39;;">NOTE</span><span style="font-weight: inherit; font-style: inherit; font-family: Arial;">: </span><span style="font-weight: inherit; font-style: inherit; font-family: &#39;Times New Roman&#39;;">MY POSTINGS REFLECT MY OWN VIEWS AND DO NOT NECESSARILY REPRESENT THE VIEWS OF MY EMPLOYER, ACCENTURE.</span></p>

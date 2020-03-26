@@ -1,6 +1,7 @@
 ---
 title: "Hmm templated snippets what is that"
 date: 2018-05-01T21:40:29.000Z
+authors: ["Göran Lundqvist"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=000dedb5dbf157402d1efb651f961951"
 ---
 <p>Templated snippets is a plugin/functionality that has been popping up in the HR area and where ServiceNow is mention it as a functionality. After the plugin has been activated, you can see it’s got its own scoped application called “Templated Snippets”.</p>

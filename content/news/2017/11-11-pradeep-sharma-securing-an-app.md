@@ -1,6 +1,7 @@
 ---
 title: "Securing an application using Cross Scope Access Application Access Settings  Restrict Table Choices"
 date: 2017-11-10T06:49:31.000Z
+authors: ["Pradeep Sharma"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=44ad22a9dbd0dbc01dcaf3231f961921"
 ---
 <p>While developing a <a title="ocs.servicenow.com/bundle/jakarta-application-development/page/build/applications/concept/c_ApplicationScope.html" href="https://docs.servicenow.com/bundle/jakarta-application-development/page/build/applications/concept/c_ApplicationScope.html" rel="nofollow">scoped application,</a> you may want to secure scoped applications against other applications. Securing application helps the author to have control of their application and prevents customers from interacting with any other artifacts without the author&#39;s knowledge. Below are the ways in which <a title="ocs.servicenow.com/bundle/helsinki-application-development/page/build/applications/concept/c_DefaultDesignAccessPermissions.html" href="https://docs.servicenow.com/bundle/helsinki-application-development/page/build/applications/concept/c_DefaultDesignAccessPermissions.html" rel="nofollow">design time permissions </a>on the scoped application can be granted or restricted</p>

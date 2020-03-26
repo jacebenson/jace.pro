@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Script Includes"
 date: 2013-05-27T21:02:07.000Z
+authors: ["TechNow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=290eaa2ddbd0dbc01dcaf3231f96191c"
 ---
 <p>Andrew and Chuck LOVE script includes. Watch the next TechNow episode to find out the benefits script includes have. You will soon improve the effectiveness and efficiency of creating and maintaining your ServiceNow code.</p>

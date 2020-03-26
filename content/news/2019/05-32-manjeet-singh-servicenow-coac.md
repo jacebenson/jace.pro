@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Coaching App A smarter realtime Coaching solution for IT agents and employees"
 date: 2019-06-01T02:37:34.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dbfc74c9db393744feb1a851ca9619a9"
 ---
 <p class="graf graf--p"><span style="font-size: 12pt;">Digitization is transforming the role of the IT Helpdesk and contact center Agents. The demands facing help desk staff are becoming more complex, more varied, and more valuable. The unplanned and traditional appraisal methods to coach and train your people are ineffective improvement tools in today’s fast paced environment. Unfortunately, many organizations are still relying on these outdated methods. See survey results from <a class="markup--anchor markup--p-anchor" href="https://www.facebook.com/groups/247212161999185/" target="_blank" rel="noopener noreferrer nofollow">BACK2ITSM group</a> on Facebook. </span></p>

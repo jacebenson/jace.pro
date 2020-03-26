@@ -1,6 +1,7 @@
 ---
 title: "New self paced training material about Time Series Widgets and Dashboard Administration"
 date: 2019-05-15T01:17:36.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=86a70923dbdd7fcce0e80b55ca96198a"
 ---
 <p>Have you seen the new training classes about Dashboard Usage Administration and on using Time Series widgets?  These are both pretty quick to go through (~30-60 minutes each) and packed with great material.</p>

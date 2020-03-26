@@ -1,6 +1,7 @@
 ---
 title: "Leverage sightings searches to gauge and crush phishing and malware attacks"
 date: 2019-03-13T20:40:39.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f8b5b4efdb48f3804819fb2439961900"
 ---
 <p>Your network is under a phishing or malware attack - you need to know:</p>

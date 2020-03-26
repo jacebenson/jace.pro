@@ -1,6 +1,7 @@
 ---
 title: "IT Operations Management Whats New in the Kingston Release"
 date: 2018-01-11T22:25:02.000Z
+authors: ["liamyu"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0b1e626ddbd0dbc01dcaf3231f9619a0"
 ---
 <p><img class="image-1 jive-image" style="width: 281px; height: 146.845px; float: left; margin-right: 8px;" src="4b32200edb9057049c9ffb651f961944.iix" width="281" height="147" /></p>

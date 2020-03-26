@@ -1,6 +1,7 @@
 ---
 title: "Discover what Virtual Agent on HI can do for you"
 date: 2018-11-29T04:28:43.000Z
+authors: ["eclark"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=de246571db0e2f004abd5583ca96194e"
 ---
 <p><a href="https://hi.service-now.com/hisp" target="_blank" rel="nofollow">HI </a>is an internal ServiceNow Enterprise instance where employees, customers, and partners go to manage incidents, problems, changes, upgrades, as well as access the community and search for support documentation. Now, HI users can experience the <a href="https://docs.servicenow.com/bundle/london-servicenow-platform/page/administer/virtual-agent/concept/virtual-agent-overview.html" target="_blank" rel="nofollow">Virtual Agent</a> experience firsthand.</p>

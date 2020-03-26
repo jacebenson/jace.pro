@@ -1,6 +1,7 @@
 ---
 title: "Deprecated Deploy a Virtual Agent with IBM Watsons Assistant Conversation Service"
 date: 2018-01-18T00:58:40.000Z
+authors: ["darius.koohmarey"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2e7ca2e1dbd0dbc01dcaf3231f96192b"
 ---
 <p style="text-align: center;"><span style="font-size: 32pt; font-family: Calibri; color: #00000b;">Kingston Watson Virtual Agent now on <a title="hare.servicenow.com/app.do#/detailV2/58e0ef9bdb4307009a80aed15b9619be/overview" href="https://developer.servicenow.com/app.do#!/share/contents/2241642_ibm_watson_assistant_formerly_conversation_integration_virtual_agent?v&#61;1&amp;t&#61;PRODUCT_DETAILS" rel="nofollow">Share</a>!</span></p>

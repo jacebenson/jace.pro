@@ -1,6 +1,7 @@
 ---
 title: "Now Learning Blog  What is a Learning Path"
 date: 2019-12-17T01:38:03.000Z
+authors: ["Julie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=70061d4d1b39c810fff162c4bd4bcb86"
 ---
 <p class="p1"><span style="font-family: helvetica; font-size: 12pt;">If you’ve been following along in the previous blogs I’ve written you’ve probably seen references to “Learning Paths” on <a href="https://nowlearning.service-now.com/lxp" rel="nofollow"><span class="s1">Now Learning</span></a>.<span class="Apple-converted-space">  </span>In this blog, I’ll go into more detail about what <a href="https://nowlearning.service-now.com/lxp?id&#61;lxp_catalog&amp;type&#61;path" rel="nofollow"><span class="s1">Learning Paths</span></a> are and how you can use them to grow your career and become a ServiceNow expert.</span></p>

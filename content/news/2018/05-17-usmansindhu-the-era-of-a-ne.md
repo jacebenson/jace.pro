@@ -1,6 +1,7 @@
 ---
 title: "The Era of a New Customer Experience"
 date: 2018-05-16T06:06:07.000Z
+authors: ["usmansindhu"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1ff6e71adb4a17445322f4621f961944"
 ---
 <p>Knowledge18 received over 18,000 attendees. The conference theme was Spark your Transformation, focused on providing a new era of customer experience. The week was packed with keynotes, hands-on labs, customer breakout sessions, development hub, Creator Con sessions, Pavilion booths, and a lot more. </p>

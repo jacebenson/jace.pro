@@ -1,6 +1,7 @@
 ---
 title: "IT Business Management   Whats New in Madrid Release"
 date: 2019-02-20T02:38:30.000Z
+authors: ["anthonyokumura"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=59e62ce0dbb32b402be0a851ca9619dd"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.comhttps://community.servicenow.com/e0dfe751db88ff48190dfb24399619f6.iix" /></p>

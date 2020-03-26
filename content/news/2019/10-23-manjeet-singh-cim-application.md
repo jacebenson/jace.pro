@@ -1,6 +1,7 @@
 ---
 title: "CIM Application Guide Best Practices for implementation how to bring strategic alignment and show ROI"
 date: 2019-10-22T23:44:04.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f13a355fdb6000dc2be0a851ca961977"
 ---
 <p class="ng-scope"><span style="font-size: 12pt;">This guide gives you a collection of best practices for a successful implementation of Continual Improvement Management (CIM) app. Continuous Improvement is becoming a focal point for more organizations, as well as the main roadmap item in the digital transformation journey. Organizations that strive for continually improvement, stay ahead of the competition, regardless of their size or industry.</span></p>

@@ -1,6 +1,7 @@
 ---
 title: "Tips for implementing and troubleshooting Cloud Management"
 date: 2018-02-27T23:26:08.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=224bdde9dbacdf00b61ff3231f9619ef"
 ---
 <h3>Who&#39;s using our organization&#39;s cloud resources? Why is the cost so high for last month&#39;s billings? How can we make it easier for users to get the cloud resources they need?</h3>

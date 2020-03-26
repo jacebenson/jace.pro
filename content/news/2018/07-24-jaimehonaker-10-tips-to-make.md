@@ -1,6 +1,7 @@
 ---
 title: " tips to make sure your Attachments and Screenshots are relevant and useful"
 date: 2018-07-23T20:58:38.000Z
+authors: ["jaimehonaker"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=106ff4acdbef53c00be6a345ca961939"
 ---
 <p><em>This is the second in a series of suggested practices in creating Knowledge Base content.</em></p>

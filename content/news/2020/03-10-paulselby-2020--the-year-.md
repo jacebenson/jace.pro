@@ -1,6 +1,7 @@
 ---
 title: " the year of the customer service chatbot"
 date: 2020-03-09T20:59:42.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0d990104db6b4c904819fb24399619e2"
 ---
 <p><img class="wp-image-3900" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2019/08/chatbot-4071274.jpg?w&#61;840" alt="" width="354" height="224" align="left" /></p>

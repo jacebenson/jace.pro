@@ -1,6 +1,7 @@
 ---
 title: "Madrid Early Access for Technology Partners"
 date: 2019-01-08T17:37:55.000Z
+authors: ["andrew.venables"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=49685a72db36a3c0d6a102d5ca9619dc"
 ---
 <p>Note: <em>Do not publish/demo/promote in any way your Madrid instance to anyone who has not agreed to our program&#39;s legal terms and conditions (completed when joining the TPP).</em></p>

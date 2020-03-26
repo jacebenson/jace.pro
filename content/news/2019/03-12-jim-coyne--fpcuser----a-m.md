@@ -1,6 +1,7 @@
 ---
 title: "FpcUser  A More Useful User Object"
 date: 2019-03-11T07:15:21.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=343a6f2adb84f70023f4a345ca96195d"
 ---
 <h5>Included in the <a href="community?id&#61;community_blog&amp;sys_id&#61;b3c843aadb892b40fece0b55ca961906" rel="nofollow">Developer Toolbox</a> Update Set available on Share (link in the &#34;Developer Toolbox&#34; post).</h5>

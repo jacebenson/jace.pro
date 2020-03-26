@@ -1,6 +1,7 @@
 ---
 title: "Continual Improvement Management CIM"
 date: 2019-10-03T23:05:05.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ed1b3b89db5800544819fb243996196d"
 ---
 <p><img src="https://community.servicenow.com/cde629a3dbb84854f7fca851ca9619fa.iix" width="797" height="57" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "Getting Real with Now on Now  Knowledge sessions you wont want to miss"
 date: 2018-05-02T23:52:40.000Z
+authors: ["kathymckinney"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=12d4d34adbf557802d1efb651f961972"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="94d4df0adbf557802d1efb651f9619c0.iix" width="421" height="291" /></p>

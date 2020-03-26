@@ -1,6 +1,7 @@
 ---
 title: "Gracias por su participacin en Knowledge Nos vemos en Knowledge "
 date: 2019-05-24T22:31:53.000Z
+authors: ["jonathanmunozabrin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8ca1447edbadf3445129a851ca9619da"
 ---
 <p>Estimada Comunidad</p>

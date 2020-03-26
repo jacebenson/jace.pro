@@ -1,6 +1,7 @@
 ---
 title: "Business Service Mapping Application Components that do not have Entry Points"
 date: 2018-07-07T22:46:32.000Z
+authors: ["richardbrounstein"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=49ae725bdbcb93085ed4a851ca961999"
 ---
 <p><strong>(note: this solution only works for ServiceNow Jakarta version or later)</strong></p>

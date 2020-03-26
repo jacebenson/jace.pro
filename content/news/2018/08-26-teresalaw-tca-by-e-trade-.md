@@ -1,6 +1,7 @@
 ---
 title: "TCA by ETRADE Scaling GRC Across the Enterprise"
 date: 2018-08-25T10:27:21.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f25b6407dbc4ab44a39a0b55ca961990"
 ---
 <p>Why was Steve Nasalroad holding up a pair of socks at his Knowledge18 GRC presentation? It turns out they weren&#39;t just any socks. They were Rockford Reds, the socks used for the ubiquitous &#34;sock monkey&#34;, and Steve was making a point about configurability.  Just like those socks can be turned into a monkey given the proper instructions, your GRC application can be configured into a system that works for your organization&#39;s needs.</p>

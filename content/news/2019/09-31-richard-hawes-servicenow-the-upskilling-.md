@@ -1,6 +1,7 @@
 ---
 title: "The Upskilling Enterprise DevOps Skills Survey is Now Open"
 date: 2019-09-30T08:32:30.000Z
+authors: ["richard.hawes@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=92965548db1c485023f4a345ca9619d9"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/12031d04db98485023f4a345ca9619d1.iix" /></p>

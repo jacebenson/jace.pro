@@ -1,6 +1,7 @@
 ---
 title: "NEW YORK CITY FINANCIAL SERVICES ROUNDTABLE"
 date: 2018-07-30T18:17:43.000Z
+authors: ["laurieehrbar"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d3ad983adb2b5744fece0b55ca961918"
 ---
 <p><strong>We have a few spots left!</strong></p>

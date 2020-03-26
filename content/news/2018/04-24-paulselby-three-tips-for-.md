@@ -1,6 +1,7 @@
 ---
 title: "Three Tips for Winning At Proactive Customer Service from an Internet Service Provider"
 date: 2018-04-23T20:28:38.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e9dfc097dbe15f00032a7a9e0f961996"
 ---
 <p>High-speed internet service is provided in most of the United States by only a few big providers. Where those providers serve, there also tends to be a monopoly on that service. Granted, there are competitors but the speed they offer tends to pale in comparison, and when you work at home, have social media-hungry children, and every now and then want to stream a movie, the more bandwidth the better. With their monopoly, some might say the internet service providers take some liberties with the customer service they provide.</p>

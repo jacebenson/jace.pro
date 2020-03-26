@@ -1,6 +1,7 @@
 ---
 title: "Find out how London alert management streamlines alert processing Check out Knowledge  ITOM session BRE by beauty product leader Mary Kay"
 date: 2019-04-11T00:06:54.000Z
+authors: ["Matt Gowarty"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0b617128dbb8b3c4200f0b55ca9619c3"
 ---
 <p>Knowledge is a great place for ServiceNow users to share experiences and learn from each other. That’s why I’m so excited to be presenting at Knowledge 2019. My name is Louis Oliver, and I’m a Senior Technical Consultant at Mary Kay. I’ll be talking about Mary Kay’s experience with the new alert management capabilities in ServiceNow’s London release, and about how these are a major step forward compared to previous releases.</p>

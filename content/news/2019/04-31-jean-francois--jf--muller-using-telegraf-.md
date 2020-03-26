@@ -1,6 +1,7 @@
 ---
 title: "Using Telegraf OpenSource Agent for Collecting and Reporting Metrics  Data to ServiceNow Operational Intelligence"
 date: 2019-04-30T18:09:24.000Z
+authors: ["Jean-Francois (JF) Muller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=056f93f2dbcdf344fff8a345ca961965"
 ---
 <h2 class="ng-scope">The what and why…</h2>

@@ -1,6 +1,7 @@
 ---
 title: "Ever wanted to do a knowledge article search on a reference field"
 date: 2011-10-28T22:18:47.000Z
+authors: ["Kenny Wimberly"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8b7da269dbd0dbc01dcaf3231f96196a"
 ---
 <p>I was tasked today with putting a knowledge icon next to a reference field. For most of you who know, this is impossible using the knowledge_search=true attribute. Even though the page says "any field", it really only means "text" fields. Therefore, my dilemma...how do I get this to work?<br /><br />So, I started looking at the ui macros that support the ref_contributions. I simply created my own to show the kb icon for any reference field where I specified ref_contributions=show_kb_articles in the attributes.<br /><br />To accomplish this, I took these steps:<br /><br />Created a UI Macro named "show_kb_articles"<br />Added the attribute to the reference field I wanted to show the icon on: ref_contributions=show_kb_articles<br /><br />That's it. The UI Macro code is attached</p>

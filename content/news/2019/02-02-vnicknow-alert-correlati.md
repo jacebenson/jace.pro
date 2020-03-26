@@ -1,6 +1,7 @@
 ---
 title: "Alert Correlation Advanced Processing Example"
 date: 2019-02-02T03:49:36.000Z
+authors: ["vNickNOW"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5b8a88b6db9f670011762183ca9619c7"
 ---
 <p>&#34;Noise reduction&#34; ... &#34;efficiency&#34; ... &#34;work on what matters&#34; ... &#34;get to root cause faster&#34;.  These goals / aspirations / initiatives / or any other synonym for trying to achieve an outcome, are commonly associated with today&#39;s AIOps projects that want AI/ML-based event management solutions (like ServiceNow&#39;s) to perform levels of automation and understanding not previously available.  While great strides are being made towards this end, the reality is that AI/ML needs a critical mass of data before it can come to conclusions about how to achieve these outcomes and it is currently best suited for analyzing metric data to detect anomalies, which is one of the capabilities of our Operational Intelligence module.  <a href="https://www.gartner.com/doc/3893177/beginning-aiops-data-science-it" target="_blank" rel="noopener noreferrer nofollow">Gartner&#39;s 2018 report on AIOps</a> is a good read on the current state of AIOps if you have access. </p>

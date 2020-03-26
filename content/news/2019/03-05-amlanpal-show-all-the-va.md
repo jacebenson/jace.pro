@@ -1,6 +1,7 @@
 ---
 title: "Show All The Variables In A Structured Tabular Format In The Email Body"
 date: 2019-03-04T16:17:59.000Z
+authors: ["amlanpal"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ee8519acdb00bfc42be0a851ca961921"
 ---
 <p>Hello All,</p>

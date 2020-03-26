@@ -1,6 +1,7 @@
 ---
 title: "New York Release Presentation"
 date: 2019-09-24T21:29:40.000Z
+authors: ["carolinecampbell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3fee811edb08409423f4a345ca96199c"
 ---
 <p>Little Rock SNUG Community!</p>

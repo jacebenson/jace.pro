@@ -1,6 +1,7 @@
 ---
 title: "The Enterprise Cloudcast Why the Saas Model Wins Get the Picture Episode "
 date: 2016-12-16T05:31:43.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=817dae29dbd0dbc01dcaf3231f9619f9"
 ---
 <p>In this 7th Episode of the Enterprise CloudCast, &#64;<a href="/community?id=community_user_profile&user=d621d665db981fc09c9ffb651f96193c" rel="nofollow"><span class="g-link-user">Allan</span> Leinwand,</a> ServiceNow CTO, discusses Cloud Architecture software as a service (Saas) model wins for the Enterprise.</p>

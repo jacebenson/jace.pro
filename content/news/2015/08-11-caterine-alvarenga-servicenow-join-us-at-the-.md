@@ -1,6 +1,7 @@
 ---
 title: "Join us at the Philadelphia Soul Playoff Game on August th"
 date: 2015-08-11T00:41:35.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5dbcaa25dbd0dbc01dcaf3231f9619a5"
 ---
 <p>ServiceNow invites you and a guest to the Philadelphia Soul's first round playoff game on Saturday, August 15th! <a href="http://info.servicenow.com/LP=4080"><strong>Register Now to request your tickets!</strong></a></p><p></p><p>Join us for a behind the scenes VIP tour of the locker room and broadcast booth before heading up to the Club Box seats to watch the game.   </p><p></p><p>Don't miss this opportunity to network with fellow customers and ServiceNow experts as you and a guest get to watch one of Arena Football's best teams. </p><p></p><p>Agenda:</p><p>3:00pm: Ticket pick up at VIP Will Call, Check-in for Event</p><p>3:30pm: Behind the Scenes VIP Tour of the locker rooms, broadcast, booth, etc</p><p>4:15pm: Guests proceed to the Club Box Seats — Food and Drinks will be served</p><p>5:00pm: Game starts</p><p></p><p>Tickets are limited. Limit two tickets per registrant. Please <a href="http://info.servicenow.com/LP=4080"><strong>register today</strong> </a>to request your two tickets. A ServiceNow representative will be in contact within 24 business hours to confirm tickets. Tickets can be picked up at VIP Will call at 3pm on August 15th.</p><p></p><p>This event is sponsored by: InSource</p>

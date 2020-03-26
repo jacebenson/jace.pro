@@ -1,6 +1,7 @@
 ---
 title: "Incident Management"
 date: 2019-08-16T01:22:32.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b0a408a5dbd7bf0014d6fb24399619ce"
 ---
 <p><img src="https://community.servicenow.com/6e37ac29dbfbfbc84819fb24399619e2.iix" width="782" height="56" /></p>

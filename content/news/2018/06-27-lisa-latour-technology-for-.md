@@ -1,6 +1,7 @@
 ---
 title: "Technology for Compliance Risk Management Framework RMF Now Automated"
 date: 2018-06-26T05:50:24.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=709c666fdbbe1fc00be6a345ca961972"
 ---
 <p>Managing the Risk Management Framework (RMF) can be a daunting task, even with documentation! And, especially so, if you are not sure where you are in the six-step process:</p>

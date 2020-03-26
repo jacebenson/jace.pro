@@ -1,6 +1,7 @@
 ---
 title: "Slides from  New York City SNUG"
 date: 2019-04-16T02:40:06.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fb6484dedbb8bb082be0a851ca9619d0"
 ---
 <p>Thank you for attending to our SNUG and PA Workshop in New York! Many of you have requested copy of our slides. We&#39;ll be posting them throughout the next days.</p>

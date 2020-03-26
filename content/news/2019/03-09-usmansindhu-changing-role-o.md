@@ -1,6 +1,7 @@
 ---
 title: "Changing Role of CMDB in an AIOps Driven Organization"
 date: 2019-03-08T10:37:50.000Z
+authors: ["usmansindhu"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3e0e60f9db443700a39a0b55ca9619c7"
 ---
 <p><strong>The Changing Enterprise Operations </strong></p>

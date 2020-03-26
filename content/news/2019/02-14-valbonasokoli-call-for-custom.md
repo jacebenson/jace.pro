@@ -1,6 +1,7 @@
 ---
 title: "Call for customer speakers  NJ SNUG"
 date: 2019-02-13T20:26:17.000Z
+authors: ["valbonasokoli"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1e2858e2db2b67044abd5583ca96195f"
 ---
 <div class="cm-content-body">

@@ -1,6 +1,7 @@
 ---
 title: "Community Code Snippets  Logging Some Notes on Business Rules"
 date: 2016-07-08T17:25:59.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c05ee6addbd0dbc01dcaf3231f96196a"
 ---
 <p><span style="font-family: &#39;Times New Roman&#39;; color: #666666; font-weight: bold;">NOTE</span><span style="font-family: Arial; color: #666666;">: </span><span style="font-family: &#39;Times New Roman&#39;; color: #666666;">MY POSTINGS REFLECT MY OWN VIEWS AND DO NOT NECESSARILY REPRESENT THE VIEWS OF MY EMPLOYER, ACCENTURE. </span></p>

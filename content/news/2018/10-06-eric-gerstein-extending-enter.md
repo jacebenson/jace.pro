@@ -1,6 +1,7 @@
 ---
 title: "Extending Enterprise Service Management"
 date: 2018-10-05T20:15:25.000Z
+authors: ["Eric Gerstein"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c92bf194dbcde3005ed4a851ca961931"
 ---
 <p>Even when organizations are successful using the ServiceNow Platform, they can struggle to expand into areas beyond IT. This happens when business partners (like in Finance and Procurement) have less experience with service management, don’t understand how services can support their business priorities, or don’t see the value that services can bring to them. Given this, what are the most effective methods to gain support to expand the ServiceNow Platform beyond IT?</p>

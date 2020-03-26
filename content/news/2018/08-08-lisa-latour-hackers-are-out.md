@@ -1,6 +1,7 @@
 ---
 title: "Hackers are outpacing healthcare"
 date: 2018-08-08T01:51:12.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=683293d9db7b9f400be6a345ca96195e"
 ---
 <p><em>By Lyanne Paustenbach, Healthcare Solutions Marketing Director  </em></p>

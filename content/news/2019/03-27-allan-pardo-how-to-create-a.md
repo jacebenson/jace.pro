@@ -1,6 +1,7 @@
 ---
 title: "How to Create a Historical Report Based on Assignment Group Changes on the Incident Table"
 date: 2019-03-26T10:30:12.000Z
+authors: ["Allan Pardo"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d5a6e5a3db14334854250b55ca96190a"
 ---
 <p class="p1">The following may help if you would require a report that tracks assignment group changes via the incident table. Having a historical view of <a href="https://docs.servicenow.com/bundle/london-it-service-management/page/product/incident-management/task/t_DefinAnAssignRuleIncidents.html" target="_blank" rel="noopener noreferrer nofollow">Assignment Group</a> changes can help a team or organization see where their incident categories have been assigned. It can also help tell a story of teams that regularly have to reroute work that takes up valuable time in their day. </p>

@@ -1,6 +1,7 @@
 ---
 title: "New York Release Early Access"
 date: 2019-08-05T19:46:55.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=17e7df8adbc73f446064eeb5ca9619a0"
 ---
 <p>Sehr geehrte SNUG-Mitglieder,</p>

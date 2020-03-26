@@ -1,6 +1,7 @@
 ---
 title: "HR Community Day in Santa Clara  Recap"
 date: 2016-12-13T01:19:23.000Z
+authors: ["juliegardiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=de1d22e5dbd0dbc01dcaf3231f9619d6"
 ---
 <p>On December 6, we gathered HR representatives from our Bay Area customers for an afternoon of networking and best-practice sharing at the ServiceNow headquarters.   Participants got to hear a sneak peak of what's coming in Istanbul and Jakarta, had a chance to connect with others in their local ServiceNow HR community, and left with new ideas to maximize their investment in the HRSM module.</p><p></p><p>The session was hosted by the General Manager for the HR business unit at ServiceNow, Deepak R. Bharadwaj. Joining Deepak was Jeffrey Gore (Director of Product Management, HR), and Darrin Estey and Julie Gardiner, both Product Managers supporting the HRSM application.</p><p></p><p>If you are an HRSM customer and are interested in participating in and/or hosting an HR Community event in your area, please let me know. We are building our schedule for 2017 now and would love to add your city to our roadshow itinerary.</p><p></p><p>Happy holidays from all of us in the ServiceNow HR Business Unit.</p>

@@ -1,6 +1,7 @@
 ---
 title: "New Now on Now case study Driving strategic portfolio planning and execution using the Now Platform"
 date: 2020-01-28T22:09:19.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=129282b6db2e8c146064eeb5ca96193e"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/51624ef2db2e8c146064eeb5ca961935.iix" /></p>

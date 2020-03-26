@@ -1,6 +1,7 @@
 ---
 title: "NEW Value Calculator puts you on the path to success with ServiceNow ITBM"
 date: 2019-05-23T22:28:27.000Z
+authors: ["Deaddin Edris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c047b25adb25b384190dfb24399619ca"
 ---
 <p class="p1">Calculating the potential value of implementing ServiceNow’s ITBM has never been easier with the newly released ServiceNow <a href="https://www.servicenow.com/success/value-calculator-itbm.html?cid&#61;i:com:smkc:csc" rel="nofollow">ITBM Value Calculato<span class="s1">r</span></a>. This calculator is Forrester Certified, and the potential value is calculated using a financial model developed by Forrester Consulting based on a commissioned October 2018 study, <a href="https://www.servicenow.com/lpayr/the-total-economic-impact-of-servicenow-it-business-management.html?cid&#61;i:com:smkc:csc" rel="nofollow"><span class="s1">The Total Economic </span><span class="s1">Impact™ Of ServiceNow IT Business Management</span></a>, conducted with real customers on behalf of ServiceNow.</p>

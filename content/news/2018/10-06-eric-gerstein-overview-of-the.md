@@ -1,6 +1,7 @@
 ---
 title: "Overview of the Success Pillars"
 date: 2018-10-05T20:08:04.000Z
+authors: ["Eric Gerstein"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d579b158db8de3005ed4a851ca9619d9"
 ---
 <h4>What are the Success Pillars?</h4>

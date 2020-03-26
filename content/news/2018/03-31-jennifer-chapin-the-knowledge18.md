@@ -1,6 +1,7 @@
 ---
 title: "The Knowledge Session Scheduler Is Live"
 date: 2018-03-31T02:09:50.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e1c7fd23db855784c310fb651f961969"
 ---
 <p>Here we go!</p>

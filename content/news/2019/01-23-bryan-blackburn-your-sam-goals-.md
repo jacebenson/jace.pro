@@ -1,6 +1,7 @@
 ---
 title: "Your SAM Goals for "
 date: 2019-01-23T00:33:00.000Z
+authors: ["Bryan Blackburn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=39adf793dbcf27409a64e15b8a9619a7"
 ---
 <p class="p1">With 2019 now in full swing, it’s important to take a look at some of the key trends and goals that software asset managers are using to make this year one of the best yet. From single-platform operations to automated processes, gaining control of your IT and software assets doesn’t have to be so difficult. Here’s a look at five goals for 2019, including:</p>

@@ -1,6 +1,7 @@
 ---
 title: "London Early Access for Technology Partners"
 date: 2018-07-07T00:50:55.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d581de43db8f9fc4a8562926ca9619a1"
 ---
 <h3 style="color: red;">Our Early Access period is now over as ServiceNow&#39;s London release is now generally available. </h3>

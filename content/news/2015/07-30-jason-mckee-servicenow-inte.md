@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Integration APIs"
 date: 2015-07-29T23:04:34.000Z
+authors: ["jason.mckee"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f73d6ee5dbd0dbc01dcaf3231f9619be"
 ---
 <p>Boosting the signal here.</p><p></p><p> <a title="poornachander" __default_attr="30723" __jive_macro_name="user" class="jive_macro_user jive_macro" data-objecttype="3" data-orig-content="poornachander" href="/community?id=community_user_profile&user=27511a29db981fc09c9ffb651f9619f5">poornachander</a> wrote up a nice blog post on the different integration APIs available on the platform: <a title="ServiceNow Integration API Technology Stack" __default_attr="4122" __jive_macro_name="blogpost" class="jive_macro jive_macro_blogpost" data-orig-content="ServiceNow Integration API Technology Stack" href="/community?id=community_blog&sys_id=373d6ee5dbd0dbc01dcaf3231f9619bb">ServiceNow Integration API Technology Stack</a></p><p></p><p>The only note I'd like to add is that if you're starting off something new, use the new REST API instead of JSONv2.   The new REST API is faster and more consistent with what one would generally expect from a REST interface.   And it works with the <a title="ki.servicenow.com/index.php?title=REST_API_Explorer" href="http://wiki.servicenow.com/index.php?title=REST_API_Explorer">REST API Explorer</a> tool too.   JSONv2 isn't going away, but going forward the emphasis will be on the <a title="ki.servicenow.com/index.php?title=REST_API" href="http://wiki.servicenow.com/index.php?title=REST_API">REST API</a>.</p>

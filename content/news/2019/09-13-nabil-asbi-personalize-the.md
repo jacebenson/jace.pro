@@ -1,6 +1,7 @@
 ---
 title: "Personalize the Virtual Agent Experience"
 date: 2019-09-12T17:05:00.000Z
+authors: ["Nabil Asbi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=794fd6dadb3b77cc190dfb243996199a"
 ---
 <p><em><span style="font-family: symbol; font-size: 12pt;">I’m not a morning person, so any conversational-like activities usually begin after my 2nd coffee. Every morning when I stop at the local Café to get my coffee, the barista asks, ‘Good morning Adam, the usual?’ Adam is my International and local Starbucks name. I answer ‘yes’ with an awoken smile, and why not smile? I didn’t have to say much besides confirming my instant satisfaction of receiving a tall cappuccino with an extra shot. Also, she smiles back in acknowledgment of my tip. Mission accomplished.</span></em></p>

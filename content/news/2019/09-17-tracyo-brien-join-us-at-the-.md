@@ -1,6 +1,7 @@
 ---
 title: "Join us at the London Now at Work event"
 date: 2019-09-16T23:47:55.000Z
+authors: ["tracyo'brien"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c3d1e4f3db77ff004819fb2439961965"
 ---
 <p>Hello SNUG Members!</p>

@@ -1,6 +1,7 @@
 ---
 title: "How To Async GlideAjax in an onSubmit script"
 date: 2019-05-12T06:59:59.000Z
+authors: ["Jon Barnes"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dc49feeadbdd7f0c54250b55ca96191d"
 ---
 <p>As you probably already know, the only way to use GlideAjax in an onSubmit client script is to use getXMLWait and make a synchronous call to the server.</p>

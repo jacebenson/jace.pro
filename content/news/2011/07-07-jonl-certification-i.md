@@ -1,6 +1,7 @@
 ---
 title: "Certification is almost here"
 date: 2011-07-07T00:55:11.000Z
+authors: ["JonL"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=432e2a6ddbd0dbc01dcaf3231f9619e3"
 ---
 <p>Hi everyone - we hope you're anxiously awaiting the go live of the System Administrator certification exam because it's almost here! We are working feverously with our testing platform vendor, Kryterion. The exam should be live and ready for registration mid next week (July 12th) with first exam openings 24hrs after that. Kryterion has almost 800 locations worldwide to take the exam and we are also going to be offering an online proctored proctored option for your convenience. <br/><br/><span>To find out more about the exam and to download the exam blueprint covering the domains and objectives we test on, please visit </span><a title="k-external-small" class="jive-link-external-small" href="http://www.service-now.com/certification" rel="nofollow" target="_blank">http://www.service-now.com/certification</a><span> </span><br/><br/>If you were one of the beta testers at Knowledge 11, THANK YOU! You will be receiving your notification in the next few days and hopefully will have a nice shiny new certificate attached!<br/><br/><span>As always, feel free to send the training team questions at </span><a title="k-email-small" class="jive-link-email-small" href="mailto:training@service-now.com">training@service-now.com</a><span>.</span><br/><br/>Take care,<br/>jon</p>

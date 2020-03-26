@@ -1,6 +1,7 @@
 ---
 title: "Integrating New Relic and Event Management the Easy Way"
 date: 2018-09-21T01:33:48.000Z
+authors: ["briantwalter"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9224f523dbe06bc08e7c2926ca96199f"
 ---
 <p>Greetings Community!</p>

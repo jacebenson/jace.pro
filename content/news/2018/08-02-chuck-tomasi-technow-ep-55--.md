@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   London Platform Features"
 date: 2018-08-02T02:38:07.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8d632c6fdb6f1f84b2102926ca96195c"
 ---
 <p><br /><img class="image-3 jive-image" style="padding-right: 8px; width: 98px; height: 98px;" src="f2c8ebf1db54dfc0b322f4621f9619ac.iix" alt="expert-logo-2.png" width="98" height="98" align="left" />The focus of ServiceNow’s London release is delivering an improved experience. Users get a better experience with Virtual Agent and enhancements to Guided Tour Designer and Service Portal. Agents get a modern, intuitive experience with Agent Workspace. Developers improve their experience with enhancements made to Flow Designer, IntegrationHub, and REST APIs.</p>

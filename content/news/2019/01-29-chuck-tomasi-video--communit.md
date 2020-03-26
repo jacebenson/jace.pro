@@ -1,6 +1,7 @@
 ---
 title: "Video Community Live Stream  "
 date: 2019-01-28T20:11:22.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ff4bb519dbdb67005d782183ca9619df"
 ---
 <p><strong>Note: Audio is accidentally muted until 1:30 - sorry</strong></p>

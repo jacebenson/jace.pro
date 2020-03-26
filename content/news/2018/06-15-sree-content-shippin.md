@@ -1,6 +1,7 @@
 ---
 title: "Content shipping of discovery patterns via ServiceNow store"
 date: 2018-06-15T04:29:24.000Z
+authors: ["Sree"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1b80b148db3a1380e0e80b55ca96197d"
 ---
 <p style="text-align: justify;"> ServiceNow discovery technology is powered by probes/sensors and patterns. With Helsinki release, we launched a  pattern framework for horizontal discovery. The same stack is the foundational building block for service mapping product. It was a simple bold idea to leverage codeless technology stack to deliver content for discovery. Today, I see several partners and customers are leveraging this frame work to create/extend the discovery patterns.</p>

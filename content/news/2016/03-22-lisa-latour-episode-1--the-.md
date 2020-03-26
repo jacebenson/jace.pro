@@ -1,6 +1,7 @@
 ---
 title: "Episode  The CloudCast  What is The Enterprise Cloud and What it Means to You and Your Customers"
 date: 2016-03-21T23:38:56.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7f9c2225dbd0dbc01dcaf3231f961928"
 ---
 <p><strong>We hear cloud this and cloud that, but what does it mean - especially the Enterprise Cloud?</strong></p>

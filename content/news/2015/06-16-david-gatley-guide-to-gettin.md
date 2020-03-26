@@ -1,6 +1,7 @@
 ---
 title: "Guide to getting your App Certified  Certification Requirements"
 date: 2015-06-16T02:27:51.000Z
+authors: ["David.Gatley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=259dea69dbd0dbc01dcaf3231f961969"
 ---
 <p>To list your application on the ServiceNow Store (<a class="jive-link-external-small" title="k-external-small" href="https://store.servicenow.com/" target="_blank" rel="noopener noreferrer nofollow">https://store.servicenow.com</a>) you will be required to go through our application certification process. To help set the stage for what this will mean to you, how to prepare for it, and how long the process will take, we&#39;ve put together this blog post. Should you have any specific certification questions, you can always email the ServiceNow Certifiers &#64; <a class="jive-link-email-small" title="k-email-small" href="mailto:certifiers&#64;servicenow.com" rel="nofollow">certifiers&#64;servicenow.com</a> look for additional resources on <a class="jive-link-external-small" title="k-external-small" href="https://tpp.servicenow.com/" target="_blank" rel="noopener noreferrer nofollow">https://tpp.servicenow.com</a>.</p>

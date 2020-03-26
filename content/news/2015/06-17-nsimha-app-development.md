@@ -1,6 +1,7 @@
 ---
 title: "App Development in Stampede City"
 date: 2015-06-16T22:04:11.000Z
+authors: ["nsimha"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c2ec6e65dbd0dbc01dcaf3231f961939"
 ---
 <p><img   alt="rodeo.jpeg" class="image-0 jive-image" src="ed2e73f1db585704ed6af3231f96192e.iix" style="height: auto; float: right;"/>CreateNow makes building apps fun and easy - over forty of our customers and partners in beautiful Calgary built their first app yesterday at the App Dev Workshop.   We have been holding these free, four hour App Dev Workshop across the globe and if you are interested to have one in your city please ping me or contact your local sales team.   You can also go through the material by following the instructions <a title="" _jive_internal="true" href="/community?id=community_article&sys_id=dd7c62e1dbd0dbc01dcaf3231f961900">here</a>.   You will need your own instance, which you can get it for free by signing up for our <a title="eveloper.servicenow.com/app.do" href="https://developer.servicenow.com/app.do">developer program</a>.   While you are on the developer site, check out all the other <a title="eveloper.servicenow.com/app.do#!/training/landing" href="https://developer.servicenow.com/app.do#!/training/landing">training</a> we have available.</p><p></p><p>Looking for ideas on what app to build - check out the <a title="ppcentral1.service-now.com/app_showcase.do" href="https://appcentral1.service-now.com/app_showcase.do">app showcase</a> and let us know if you want your app featured there.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Community Code Snippets Articles List to Date"
 date: 2015-10-24T00:59:45.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=289d6a69dbd0dbc01dcaf3231f9619f0"
 ---
 <p><strong>NOTE</strong>: MY POSTINGS REFLECT MY OWN VIEWS AND DO NOT NECESSARILY REPRESENT THE VIEWS OF MY EMPLOYER, ACCENTURE.</p>

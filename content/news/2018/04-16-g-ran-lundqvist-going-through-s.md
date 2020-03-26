@@ -1,6 +1,7 @@
 ---
 title: "Going through some useful system properties"
 date: 2018-04-15T17:47:45.000Z
+authors: ["Göran Lundqvist"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=034e12a4dbe91bc0fc5b7a9e0f961981"
 ---
 <p>System properties is a great functionality to store configuration settings that are used within the instance. Often it’s told to use this to hold values instead of e.g. hardcoding a sys_id in the code of a business rule. Since it’s easier to administrate and doesn’t require an update of the code when you just want to change the value. This can then easy be done in the system property instead of the business rule code.</p>

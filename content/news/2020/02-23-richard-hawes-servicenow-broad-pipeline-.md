@@ -1,6 +1,7 @@
 ---
 title: "Broad pipeline coverage and new insights for DevOps in the Orlando timeframe"
 date: 2020-02-22T23:13:19.000Z
+authors: ["richard.hawes@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=63f007b6dbcbc814d82ffb243996191b"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/16ec745fdbc748101cd8a345ca9619f8.iix" /></p>

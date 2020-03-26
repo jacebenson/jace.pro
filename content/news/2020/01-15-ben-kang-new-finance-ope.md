@@ -1,6 +1,7 @@
 ---
 title: "New Finance Operations Management Enhancements Now Available for New York"
 date: 2020-01-15T00:28:18.000Z
+authors: ["Ben Kang"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e92cd2d61bd6c810fff162c4bd4bcbf4"
 ---
 <p><span style="font-weight: 400;">Intelligent automation dominates the new Finance Operations Management (“FOM”) enhancements just released to the ServiceNow Store.  Because FOM releases throughout the store, we are able to make them available now for those customers that have a New York instance.</span></p>

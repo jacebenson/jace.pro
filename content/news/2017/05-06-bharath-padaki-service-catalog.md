@@ -1,6 +1,7 @@
 ---
 title: "Service Catalog on Service Portal"
 date: 2017-05-05T23:22:30.000Z
+authors: ["Bharath Padaki"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e00d2aa5dbd0dbc01dcaf3231f96194c"
 ---
 <p><strong><span style="color: #ff0000;">***Since this question has been coming up a lot, I want to clarify that the iFrame approach proposed below is only applicable to pre-Kingston instances. We have not and do not intend to test or support this on Kingston and future instances as the new Kingston experience addresses a number of these issues. Please use the <a style="color: #ff0000;" href="https://docs.servicenow.com/bundle/kingston-it-service-management/page/product/service-catalog-management/concept/catalog-on-portal.html" rel="nofollow">Service Catalog in Service Portal</a> page to understand the changes coming with the Kingston release.</span></strong></p>

@@ -1,6 +1,7 @@
 ---
 title: "New York New York PPM Updates Make us Sing"
 date: 2019-10-01T20:42:22.000Z
+authors: ["Sheila Llewellyn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=173745e41b5c80d0ada243f6fe4bcbb8"
 ---
 <p>Whenever my family members get together, we all gather in the family room for a rousing night of karaoke. One night we had friends visiting and they decided to get involved as well. Now, although we can hold our own behind a mic, none of us are being chased down by record labels wanting to sign us. But when my friend’s husband stepped up to the platform and started singing, “New York, New York!”, I seriously considered calling America’s Got Talent.</p>

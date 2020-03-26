@@ -1,6 +1,7 @@
 ---
 title: "ATF Resources"
 date: 2019-12-12T01:20:23.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1502279bdbed40904819fb2439961974"
 ---
 <div class="panel">

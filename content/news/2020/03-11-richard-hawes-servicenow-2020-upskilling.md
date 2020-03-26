@@ -1,6 +1,7 @@
 ---
 title: " Upskilling Enterprise DevOps Skills Report"
 date: 2020-03-10T18:38:19.000Z
+authors: ["richard.hawes@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=08d2b19cdbeb84d0d58ea345ca9619c8"
 ---
 <p><span style="font-weight: 400;">At ServiceNow, our purpose is to ‘make the world of work, work better for people,’ so it’s appropriate for us to support this important piece of research about reshaping skills in the world of DevOps!</span></p>

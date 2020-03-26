@@ -1,6 +1,7 @@
 ---
 title: "Adding a Guided Setup to your Store app"
 date: 2018-06-12T13:40:12.000Z
+authors: ["andrew.venables"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d2d19417dba61f002be0a851ca9619fc"
 ---
 <p>Guided setup is a fantastic platform feature that allows for a step by step guide to configuring a ServiceNow application.</p>

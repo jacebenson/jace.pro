@@ -1,6 +1,7 @@
 ---
 title: "Orchestration run local command activity"
 date: 2014-11-04T07:53:08.000Z
+authors: ["aleck.lin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=840ee62ddbd0dbc01dcaf3231f9619e7"
 ---
 <p>Recently, upon talking to a colleague of mine (Chris Maloy), I realized that there's not an Orchestration activity to allow running a command on a MID server. Out of the box, there are SSH command activity for Linux MID server and Powershell command activity for Windows MID server that can be used, but surely there are times when one just needs to execute something outside of those context. Moreover, those activities require credentials whereas running a command locally on the MID server really doesn't require all that. </p><p></p><p>Well, if you're interested in that, here's a simple activity that will allow you to specify a command on a specified MID server. </p><p></p><p><a href="https://share.servicenow.com/app.do#/detailV2/2161602b870075002e7fb92489434d70/overview" title="https://share.servicenow.com/app.do#/detailV2/2161602b870075002e7fb92489434d70/overview">ServiceNow Share</a></p><p></p><p>Have fun with it and let me know if there's anything that can be improved!</p><p></p><p>thanks</p><p></p><p>Aleck</p>

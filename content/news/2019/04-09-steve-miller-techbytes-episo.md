@@ -1,6 +1,7 @@
 ---
 title: "TechBytes Episode  WalkUp in Madrid"
 date: 2019-04-09T02:20:12.000Z
+authors: ["Steve Miller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c8ccf7ffdba0fb04190dfb2439961969"
 ---
 <p><iframe title="Episode 50: Walk-Up in Madrid" src="https://omny.fm/shows/servicenow-techbytes/episode-50-walk-up-in-madrid/embed" width="100%" height="180"></iframe></p>

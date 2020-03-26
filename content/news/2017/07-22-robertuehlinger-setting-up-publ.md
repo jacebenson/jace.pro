@@ -1,6 +1,7 @@
 ---
 title: "Setting up public surveys in Service Portal"
 date: 2017-07-21T23:30:48.000Z
+authors: ["robertuehlinger"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=720e2e2ddbd0dbc01dcaf3231f96193a"
 ---
 <p>In our Istanbul release, we introduced the ability for users to <a title="ocs.servicenow.com/bundle/istanbul-servicenow-platform/page/administer/survey-administration/concept/c_SurveyServicePortal.html" href="https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/administer/survey-administration/concept/c_SurveyServicePortal.html" rel="nofollow">take surveys on our Service Portal</a>. We have also improved the ability of a user taking the survey without having to log in. <span style="font-size: 10pt;">In this blog, I will go over how to view surveys in the Service Portal as well as how to send surveys through an email notification so a non-roled user can take the survey. With this implementation in Istanbul came the ability for users who are not logged in to take surveys, broadening the idea of the public survey. It also delivers a responsive environment for the user, allowing a survey to be taken on any device they choose.</span></p>

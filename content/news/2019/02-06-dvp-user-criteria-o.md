@@ -1,6 +1,7 @@
 ---
 title: "User Criteria on Any table Including Custom Tables"
 date: 2019-02-06T04:50:02.000Z
+authors: ["dvp"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a3beb0c0db6baf804abd5583ca9619d9"
 ---
 <p>User criteria is one of the wonderful features SN provided, but it is opened to only a set of tables.  It is a handy configuration to grant access to the record against user information like companies, roles, groups.</p>

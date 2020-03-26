@@ -1,6 +1,7 @@
 ---
 title: "How to Setup your portal for Public Users"
 date: 2020-03-02T12:22:34.000Z
+authors: ["Divya Balasubramanian"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ba528ba5dbd344106064eeb5ca9619bf"
 ---
 <p><span style="font-family: helvetica;"> </span><span style="font-family: helvetica; font-size: 12pt;">There are many discussions/questions on how to setup different entities of Portal to be available for unauthenticated public users. This will help customers setup self-service options for public users who do not want to login to be able to access them.</span></p>

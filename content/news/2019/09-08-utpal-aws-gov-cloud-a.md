@@ -1,6 +1,7 @@
 ---
 title: "AWS Gov Cloud and AWS Organization support for Cloud Management and Cloud Discovery"
 date: 2019-09-07T12:21:50.000Z
+authors: ["Utpal"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ed8e2fe8dbbbb7c823f4a345ca961959"
 ---
 <p>AWS Gov cloud is comprised of two geographical regions that are distinct from AWS public cloud region. AWS Gov cloud provides a smaller subset of functionality of the public cloud, albeit, syntactically and semantically identical. The primary difference between gov and public cloud is the <a href="https://docs.aws.amazon.com/govcloud-us/latest/UserGuide/using-govcloud-endpoints.html" rel="nofollow">access endpoints</a>. <br />ServiceNow Cloud Management and Cloud Discovery introduced support for AWS Gov Cloud in London release (focusing on IaaS resources), refer to the <a href="https://docs.servicenow.com/bundle/madrid-it-operations-management/page/product/discovery/task/create-service-account-disco.html" rel="nofollow">documentation</a> for details.</p>

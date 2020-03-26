@@ -1,6 +1,7 @@
 ---
 title: "Why your most talented customer service agents should come off the front lines"
 date: 2019-06-17T21:34:45.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d5bad79edb82bb00b1b102d5ca9619a5"
 ---
 

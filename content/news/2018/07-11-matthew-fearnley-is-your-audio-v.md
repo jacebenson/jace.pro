@@ -1,6 +1,7 @@
 ---
 title: "Is your Audio Visual Environment in Service Now"
 date: 2018-07-10T21:28:23.000Z
+authors: ["Matthew Fearnley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=59890a5cdb5b5f0023f4a345ca961957"
 ---
 <p>As Audio Visual (AV) equipment gravitates towards a networked services model is it time for AV to be formally placed in IT? I would argue that it is long past due. This is based on the answers two quick questions:</p>

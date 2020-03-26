@@ -1,6 +1,7 @@
 ---
 title: "Tips for Knowledge Article Titling"
 date: 2018-08-27T19:16:51.000Z
+authors: ["janiceg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=feb7b87bdb442744fece0b55ca96193e"
 ---
 <p><em>This is the sixth in a series of suggested practices for creating knowledge base content.</em></p>

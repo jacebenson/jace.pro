@@ -1,6 +1,7 @@
 ---
 title: "ODBC What is Open Database Connectivity and why do you need it"
 date: 2018-09-20T19:16:50.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1ced1cafdb68e70467a72926ca96191c"
 ---
 <p>As a ServiceNow customer, your data is stored and protected in our cloud database. Have you ever wanted read-only access to this data for analysis, or to build custom reports? You have it, and it&#39;s as simple as O-D-B-C.</p>

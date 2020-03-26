@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Developer Day   Oct ExCeL London"
 date: 2015-09-07T18:25:17.000Z
+authors: ["keeshenniphof"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a6bdeaa9dbd0dbc01dcaf3231f96195c"
 ---
 <p><span style="font-size: 12pt;"><strong><img   alt="SN_Developer_Day_365x365.jpg" class="image-0 jive-image" height="246" src="0b12814edb1897041dcaf3231f961905.iix" style="height: 245.688172043011px; width: 313px; float: right;" width="313"/>We are very excited to announce ServiceNow Developer Day, a full day dedicated to Application Development on the ServiceNow platform.</strong></span></p><p></p><p><span style="font-size: 12pt;">Developer Day will be hosted by Pat Casey (co-founder of ServiceNow and GM Platform Business Unit) and take place on 14 October 2015 (the day before <a title="" _jive_internal="true" href="/community/nowforum/london">NowForum London 2015</a>).</span></p><p></p><p><span style="font-size: 12pt;">The goal of Developer Day is to help customers and partners improve the productivity, effectiveness, and technical skills of their application developers looking to create cloud-native enterprise business applications on the <br/>ServiceNow platform.</span></p><p></p><p><span style="font-size: 12pt;">We have only a limited number of seats, so register today:</span></p><p><span style="line-height: 1.5em; font-size: 12pt;"><a title="" _jive_internal="true" href="/community/nowforum/london/developer/registration">Agenda and Registration</a></span></p>

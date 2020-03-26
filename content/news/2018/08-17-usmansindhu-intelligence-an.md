@@ -1,6 +1,7 @@
 ---
 title: "Intelligence and Better Experiences for IT Operations from London Release"
 date: 2018-08-17T01:46:03.000Z
+authors: ["usmansindhu"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2c572158db882380e0e80b55ca96191c"
 ---
 <p><img style="float: right; margin-left: 10px; max-width: 100%; max-height: 480px;" src="0f85f6f9db08ab0467a72926ca9619c3.iix" width="249" height="153" />Digital transformation and new customer experience initiatives pose challenges to your IT operations. For instance, you need to be ready to respond to unplanned events and changes to business services. For these reasons, combined with ServiceNow Platform, IT operations Management brings real-time intelligence to ensure service visibility, health, and optimization.</p>

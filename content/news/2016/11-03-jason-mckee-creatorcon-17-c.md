@@ -1,6 +1,7 @@
 ---
 title: "CreatorCon  Call for Speakers is now closed"
 date: 2016-11-02T23:08:56.000Z
+authors: ["jason.mckee"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e7cda2e9dbd0dbc01dcaf3231f9619ec"
 ---
 <p>It's that time of year again!   Time to submit proposals for breakouts and workshops for the next CreatorCon.   We're making CreatorCon bigger and better this year by running for three days in parallel with Knowledge.   Which means there's even more chances for you to share all the cool stuff you're doing on the ServiceNow platform with your fellow developers and architects.</p><p></p><p>Have you built a cool integration or built an app that solved a problem in a unique and different way?   How about a super-engaging user experience with Service Portal?   Do you have an architectural model that works really well for when to use ServiceNow as a system of record vs system of engagement or to orchestrate complex processes across people and systems?   Come demo how you made it happen for your peers.   Want to take your sharing to the next level?   Design a hands-on workshop so your fellow developers can not only see how you built your solution, but get to experience building it themselves.</p><p></p><p>If your session is selected, you'll get a complimentary pass to Knowledge and CreatorCon.   Submit your proposals <a title="owledge.servicenow.com/creatorcon-form.html" href="http://knowledge.servicenow.com/creatorcon-form.html">here</a> by Dec 5th</p>

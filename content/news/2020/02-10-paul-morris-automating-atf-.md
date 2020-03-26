@@ -1,6 +1,7 @@
 ---
 title: "Automating ATF  My Journey Building a Test Recorder"
 date: 2020-02-09T14:15:21.000Z
+authors: ["Paul Morris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a4398aea1bb20c18fff162c4bd4bcbc8"
 ---
 <p>The primary Use Case is for Regression Testing to speed up the time to upgrade ServiceNow.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Now at Work Frankfurt  Registrierung ist jetzt LIVE"
 date: 2019-07-23T22:12:14.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=918c3c4adb763b805ed4a851ca961927"
 ---
 <p style="text-align: justify;">Sehr geehrte SNUG-Mitglieder,</p>

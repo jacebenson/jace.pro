@@ -1,6 +1,7 @@
 ---
 title: "Kingston  Service Portal  Service Catalog"
 date: 2018-01-07T02:29:02.000Z
+authors: ["Göran Lundqvist"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bc6daa29dbd0dbc01dcaf3231f961920"
 ---
 <p>Like always, when a ServiceNow releases a new release there is ton of stuff that is improved. Today I sat down and look at the Service Catalog and how the looks and feels was when I clicked around in the Service Portal.</p><p></p><p>Now there is a bunch of new widgets, "upgrade" of order guide and much more. I even take a look at the properties that so nicely has been categorized within the Service Catalog. It would be nice thou if on the documentation site was information about if the property effects both the Service Portal UI and the "native UI" (feedback has been sent). But we can't have it all can we <span __jive_emoticon_name="happy" __jive_macro_name="emoticon" class="jive_emote jive_macro" data-renderedposition="87.98611450195312_1158.87158203125_16_16" src="/8.0.4.21bdc7e/images/emoticons/happy.png"></span></p><p></p><p>So, sit back and relax and enjoy the show.</p><p></p><p><iframe src="https://youtube.com/embed/cB-eyhzpj4w" width="440" height="330"/></p><p></p><p></p><p></p><p><img  alt="Symfoni Logo Color Box.jpg" class="image-1 jive-image" height="50" src="b6d9c88edb1017041dcaf3231f9619e5.iix" style="width: 173px; height: 50.2258px;" width="172"/> <img  alt="sn-community-mvp.png" class="image-2 jive-image" src="1ef9ebf5db981704ed6af3231f9619b8.iix" style="height: auto;"/></p>

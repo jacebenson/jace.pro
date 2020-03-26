@@ -1,6 +1,7 @@
 ---
 title: "Slide decks from September User Group Meeting"
 date: 2012-10-06T03:59:10.000Z
+authors: ["sstgermain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=928da669dbd0dbc01dcaf3231f961984"
 ---
 <p><a href="http://community.servicenow.com/eastern-missouri-user-group"><img alt="" title="Click here to visit the User Group Site on ServiceNow.comhttp://community.servicenow.com/eastern-missouri-user-group" src="http://db.tt/vpDCQW0T" /></a><br /><br />Thanks everyone for your patience. Attached are the slide decks from our September User Group meeting. Thanks again to Scott Patten, Joshua Benware, and everyone at EHI for hosting and presenting.<br /><br />For anyone that was not able to attend, there was great discussion along with these presentations, so if you have any questions please let me know and I will get you an answer or point you to someone that can. If you don't want to miss out on the next discussion, don't forget to mark you calendar for the next EMSNUG meeting on <a title="mmunity.servicenow.com/og_calendar/9740" href="http://community.servicenow.com/og_calendar/9740" target="_blank">January 8th</a>. Hope to see you there!<br /><br />Cheers,</p>

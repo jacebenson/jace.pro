@@ -1,6 +1,7 @@
 ---
 title: "How I Know Who is Using Reports  Your Guide to Report Usage"
 date: 2020-03-20T04:59:32.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=274796dfdb23c49414d6fb2439961975"
 ---
 <h2>Identifying Impactful Slow Reports</h2>

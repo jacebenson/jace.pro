@@ -1,6 +1,7 @@
 ---
 title: "PPM Blog   Ready set go Sprint   Analysis  Validation"
 date: 2019-02-02T03:37:56.000Z
+authors: ["Wesley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dce700fadb1f2700f21f5583ca96190f"
 ---
 <p><span style="font-size: 12pt;">Okay, so we are now in full implementation mode. A few of the key items we have completed are:</span></p>

@@ -1,6 +1,7 @@
 ---
 title: "Community Code Snippets The Orchestration Integration Packs Developer Share"
 date: 2018-09-28T19:21:05.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f89ba5cadbf463c0a39a0b55ca96194a"
 ---
 <p><strong>NOTE</strong>: MY POSTINGS REFLECT MY OWN VIEWS AND DO NOT NECESSARILY REPRESENT THE VIEWS OF MY EMPLOYER, ACCENTURE.</p>

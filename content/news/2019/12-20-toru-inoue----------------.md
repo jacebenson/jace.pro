@@ -1,6 +1,7 @@
 ---
 title: " ASCAAccenture ServiceNow Configuration Assessment"
 date: 2019-12-19T14:34:24.000Z
+authors: ["Toru Inoue"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e8eada7ddbf10c50414eeeb5ca961976"
 ---
 <p class="ng-scope"><em>※本記事は、ServiceNowのパートナー様より寄稿いただいたものをServiceNow社員が代理で投稿しています</em></p>

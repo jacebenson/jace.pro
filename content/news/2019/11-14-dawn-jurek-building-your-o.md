@@ -1,6 +1,7 @@
 ---
 title: "Building your own apps for Mobile Agent in New York"
 date: 2019-11-13T22:12:40.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6e8a2ad2db410450414eeeb5ca9619ac"
 ---
 <p>In our <a title="previous post" href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;98855a4edba9fbc0fece0b55ca9619e0" target="_blank" rel="noopener noreferrer nofollow">previous post</a>, we introduced you to the resources available for building apps for <a title="Mobile Agent" href="https://www.servicenow.com/products/mobile-agent.html" target="_blank" rel="noopener noreferrer nofollow">Mobile Agent</a> in Madrid. With the New York release, some aspects of mobile development changed. We also have new resources available for app development.</p>

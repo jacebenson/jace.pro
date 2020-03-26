@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Instance Performance  master document"
 date: 2018-03-16T22:55:28.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=da050187dbb89380032a7a9e0f9619c4"
 ---
 <p>ServiceNow platform is very diverse and a powerful platform.  With the flexibility that comes with the platform comes certain challenges in terms of instance performance.</p>

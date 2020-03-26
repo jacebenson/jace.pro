@@ -1,6 +1,7 @@
 ---
 title: "Youre Doing It Wrong The New Customer Service Philosophies"
 date: 2018-03-06T00:08:49.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5e9e5ce3dba01fc87b337a9e0f961949"
 ---
 <p><img class="alignnone  wp-image-3091" src="https://insightsincustomerservice.files.wordpress.com/2018/03/spiral-2706912.jpg" alt="spiral-2706912" width="309" height="206" align="left" hspace="5" />For the last few weeks, I&#39;ve been sharing some memories from my past running a call center and some of the ways in which I have observed customer service has changed. The <a href="community?id&#61;community_blog&amp;sys_id&#61;d9695843dbd81f047b337a9e0f9619cf" target="_blank" rel="nofollow">first installment</a> touched on how customer service was considered a necessary evil of doing business in the past. <a href="community?id&#61;community_blog&amp;sys_id&#61;c3bc204ddb2417084816f3231f9619bc" target="_blank" rel="nofollow">Last week</a>, I explored how measuring the performance of customer service has evolved. The theme throughout each of these was that if your customer service was still mired in some of these past practices and conceptions, you&#39;re doing it wrong.</p>

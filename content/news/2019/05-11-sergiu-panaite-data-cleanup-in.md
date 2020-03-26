@@ -1,6 +1,7 @@
 ---
 title: "Data cleanup in ServiceNow"
 date: 2019-05-10T18:02:50.000Z
+authors: ["sergiu.panaite"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=52cdbec6dbd57fc8d58ea345ca9619ea"
 ---
 <p>As part of the Support &amp; Operations organisation I&#39;ve seen lots of customers opening cases to ServiceNow support for help in data cleanup. Most of the time the main complain from customer is that &#34;cleanup via UI is very slow&#34; and can ServiceNow do it directly from backend side!</p>

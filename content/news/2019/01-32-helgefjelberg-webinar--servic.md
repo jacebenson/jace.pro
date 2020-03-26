@@ -1,6 +1,7 @@
 ---
 title: "WEBINAR ServiceNow Virtual Agent  Boost employee selfservice productivity and CSAT"
 date: 2019-01-31T23:21:31.000Z
+authors: ["helgefjelberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a6938e1edb17eb005d782183ca9619a8"
 ---
 <p><strong>Title:</strong> ServiceNow Virtual Agent – Boost employee self-service, productivity and CSAT</p>

@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Explore New York Platform Features"
 date: 2019-07-31T03:10:53.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1404c250dbcfb3c06064eeb5ca961977"
 ---
 <p><img style="padding-right: 8px;" src="3e1d4b52dbdc3fc45129a851ca96192a.iix" alt="expert-logo-2.png" align="left" />The New York release of the Now Platform has a lot of great capabilities. These range from no-code features like Guided App Creator to predictive intelligence in Virtual Agent to enhancements on the script editor. All of these make it easier for you to configure and create solutions for your organization while providing a great experience and unlocking productivity. Join the TechNow team as they show you around the new tools to add to your toolbox!</p>

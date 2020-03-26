@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Software Asset Management is FedRAMP Certified"
 date: 2018-04-11T01:03:05.000Z
+authors: ["julianf"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dff1d24fdbd19f0047c8f3231f961968"
 ---
 <p><a href="https://www.servicenow.com/products/software-asset-management.html" rel="nofollow">ServiceNow Software Asset Management</a>(SAM) has officially received Federal Risk and Authorization Management Program (<a href="http://www.fedramp.gov/" rel="nofollow">FedRAMP</a>) certification.  Now our federal customers can leverage one of ServiceNow’s newest offerings that enables organizations to proactively manage software license compliance, optimize software spend and manage their software assets throughout the entire software asset lifecycle from a single platform.</p>

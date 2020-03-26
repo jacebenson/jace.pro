@@ -1,6 +1,7 @@
 ---
 title: "Performance Analytics  Bulk Target loading"
 date: 2019-03-05T23:46:44.000Z
+authors: ["Josh Cooper"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6dd5c441dbcc7b48fff8a345ca961998"
 ---
 <p>I recently was contacted by a customer who was having issues getting a large number of targets into ServiceNow Performance Analytics.  He understood the process, but the difficulty he was experiencing is that he needed to put in thousands of targets, one for each possible breakdown element of a very large breakdown.  The disconnected nature of the targets tables made it difficult to figure out the best way to do this.  I&#39;m not sure about best, but this is at least better than having to do it all manually through the UI.  I elected to share it here as well, since I&#39;m sure there are others of you with similar issues:</p>

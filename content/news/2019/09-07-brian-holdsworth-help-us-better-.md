@@ -1,6 +1,7 @@
 ---
 title: "Help us better understand your job so we can improve and simplify your ServiceNow experience"
 date: 2019-09-06T21:23:14.000Z
+authors: ["Brian Holdsworth"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0ed06420dbf73b08feb1a851ca96191e"
 ---
 <p><span style="font-size: 10pt;">We would like to better understand what you do as part of your day-to-day job so we can build future products and services that improve and simplify your experience on the ServiceNow platform. </span></p>

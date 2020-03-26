@@ -1,6 +1,7 @@
 ---
 title: "Application Portfolio Managementa better way to herd cats"
 date: 2018-11-20T04:46:14.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1fd1d372dbf967409a64e15b8a9619fa"
 ---
 <p>Managing a company’s software applications can be like herding cats. Over the years, many enterprises accumulate a large—and unruly!—inventory of apps. Over time, some become obsolete, or they’re duplicated by others, or they’re underutilized, or they’re no longer aligned with the company’s goals. ServiceNow’s <strong>Application Portfolio Management</strong> (APM) application helps you manage all those apps to get the best value out of them.</p>

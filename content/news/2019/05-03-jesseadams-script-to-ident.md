@@ -1,6 +1,7 @@
 ---
 title: "Script to Identify a Slow Widget on a Service Portal Page"
 date: 2019-05-02T20:55:00.000Z
+authors: ["jesseadams"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d678d26bdb81b7c414d6fb2439961970"
 ---
 <p>Ever feel like your Service Portal page has a widget or two that is slow to load? It happens. When your widgets are sluggish, how do you diagnose your Service Portal to identify the slow widget? How can you easily narrow down which widgets are contributing to the slowness so that you know where to focus your development efforts?</p>

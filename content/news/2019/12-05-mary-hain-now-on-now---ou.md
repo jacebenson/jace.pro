@@ -1,6 +1,7 @@
 ---
 title: "Now on Now  Our Journey to Create a Frictionless Employee Experience for Internal IT Support"
 date: 2019-12-04T22:32:08.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d068f201db254c9c4819fb2439961968"
 ---
 <p> </p>

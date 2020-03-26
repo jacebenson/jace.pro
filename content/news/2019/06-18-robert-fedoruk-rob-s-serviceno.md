@@ -1,6 +1,7 @@
 ---
 title: "Robs ServiceNow Videos for Admins Devs Architects  More"
 date: 2019-06-17T20:31:44.000Z
+authors: ["Robert Fedoruk"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c64c8b9edb06bb005d782183ca96191d"
 ---
 <p><span style="font-size: 14pt;"><strong>UPDATE: March9 - OneMinuteOrlando Ep4</strong></span></p>

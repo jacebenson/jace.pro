@@ -1,6 +1,7 @@
 ---
 title: "Oklahoma User Group  CMS Lab Details"
 date: 2012-08-02T20:19:20.000Z
+authors: ["Rodney"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4d1eae2ddbd0dbc01dcaf3231f9619e5"
 ---
 <p>One of the great things about ServiceNow is our extensive ecosystem of partners and technical experts. We are very lucky to have one of the best join us and guide the CMS Lab participants through a very valuable learning session.<br /><br />Matt Beran is a significant thought leader from Maryville Technologies and he is bringing his years of experience, energy and insight to this quarters user group meeting. In two hours you will discover the elements of Content Management, perform exercises to practice what you have learned, and understand the flexibility of the CMS plugin.<br /><br />By the end of the lab, participants will understand the basic elements of CMS, and how to customize a customer portal.<br /><br />Lab Time: 8am - 10am CT (at the same location, and just before the formal User Group meeting)<br /><br />Participants are encouraged to bring:<br />- Laptops<br />- Sandbox or dev instance access<br />- A logo image for your brand/company<br />- Style guidelines for your brand/company (color hex codes, font guidelines etc…)<br /><br />If you have any questions, please contact: rodney.runolfson@servicenow.com</p>

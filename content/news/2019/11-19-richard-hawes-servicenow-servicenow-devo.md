@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow DevOps is now publicly available"
 date: 2019-11-18T19:38:50.000Z
+authors: ["richard.hawes@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bd47ff331b05c050fff162c4bd4bcb7d"
 ---
 <p><img src="https://community.servicenow.com/a695fb771b81c050fff162c4bd4bcb97.iix" /></p>

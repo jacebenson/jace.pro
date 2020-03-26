@@ -1,6 +1,7 @@
 ---
 title: "TNT Screenshots Help but Code is Better"
 date: 2020-01-04T00:59:21.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5dc939761b0a4010d01143f6fe4bcb3e"
 ---
 <h5>Part of the &#34;<a href="community?id&#61;community_blog&amp;sys_id&#61;bf19f1b21b0a4010d01143f6fe4bcb50" rel="nofollow">Tips &#39;N Tricks</a>&#34; series of posts</h5>

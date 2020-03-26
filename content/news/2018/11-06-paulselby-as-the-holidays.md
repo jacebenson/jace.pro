@@ -1,6 +1,7 @@
 ---
 title: "As the holidays approach three ways to  tuneup your selfservice"
 date: 2018-11-05T23:42:33.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5a16421adbadeb449540e15b8a96192d"
 ---
 <p><img class="alignnone  wp-image-3379" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2018/11/close-up-equipment-fix-221045.jpg" alt="close-up-equipment-fix-221045" width="378" height="252" align="right" /> It&#39;s the first week of November which means the ramp up to the holiday seasons has begun. Regardless of your company&#39;s industry, the holidays probably means three things: a higher volume of customer service inquiries, anxious customers seeking fast answers, and customer service agents taking time off.</p>

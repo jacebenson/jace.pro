@@ -1,6 +1,7 @@
 ---
 title: "Continuing to build Recent Improvements to your ability to obtain Service and Support from ServiceNow Episode "
 date: 2019-10-04T08:31:02.000Z
+authors: ["Teena Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=339cbd51db1cc454d82ffb24399619c3"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/59bb3919dbd8c454d82ffb2439961909.iix" /></p>

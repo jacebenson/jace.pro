@@ -1,6 +1,7 @@
 ---
 title: " Community Articles  Experiences from the field  which might benefit you"
 date: 2020-01-24T21:41:31.000Z
+authors: ["Mark Roethof"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=14e51965db2200d013b5fb24399619fb"
 ---
 <p><a name="top"></a></p>

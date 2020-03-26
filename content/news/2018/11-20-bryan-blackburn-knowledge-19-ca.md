@@ -1,6 +1,7 @@
 ---
 title: "Knowledge  Call for Content is OPEN"
 date: 2018-11-20T00:53:07.000Z
+authors: ["Bryan Blackburn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f08c9afedb3da340f21f5583ca9619d0"
 ---
 <h1><a href="https://www.servicenowevents.com/knowledge2019/cfp" target="_blank" rel="nofollow">K19 Call for Content</a> is now open.</h1>

@@ -1,6 +1,7 @@
 ---
 title: "Now Learning Blog  Introducing our Customizable ITSM Process User Trainings Part "
 date: 2020-03-24T17:18:25.000Z
+authors: ["Julie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4ec6a9b0dbf78018d58ea345ca961951"
 ---
 <p class="p1"><span style="font-family: helvetica; font-size: 14pt;"><span class="s1">Process User Training: <span class="TextRun  BCX0 SCXW154802265" lang="EN-US"><span class="NormalTextRun  BCX0 SCXW154802265">Incident Management</span></span></span></span></p>

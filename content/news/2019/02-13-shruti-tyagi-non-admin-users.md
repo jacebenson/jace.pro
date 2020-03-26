@@ -1,6 +1,7 @@
 ---
 title: "Nonadmin users having permission issues on some knowledge fields This is why"
 date: 2019-02-12T06:04:28.000Z
+authors: ["shruti.tyagi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=14590cc6dbe7af804abd5583ca9619bc"
 ---
 <p>Have an issue with non-admin users unable to see some knowledge fields or unable to make modifications in the knowledge article after migrating to Knowledge V3? Read on.</p>

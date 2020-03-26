@@ -1,6 +1,7 @@
 ---
 title: "Disconnected customer journeys create problems for customer service"
 date: 2018-12-03T23:15:59.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0a8c0e57db022f8011762183ca961995"
 ---
 <figure class="alignleft is-resized"><img class="wp-image-3416" src="https://insightsincustomerservice.files.wordpress.com/2018/12/aeroplane-air-aircraft-912050.jpg" alt="" width="355" height="265" align="left" /></figure>

@@ -1,6 +1,7 @@
 ---
 title: "Future Of ITSM Product Roadmap"
 date: 2018-03-07T16:59:57.000Z
+authors: ["damiendavis"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6f9f8dc0dbbc5b844fc2f4621f961948"
 ---
 <p>Part of my role, in ITSM Product Management, is delivering roadmap sessions to our customers and partners. I really enjoy this part of the job; showcasing some of the latest features that will be coming out in the next few releases (a glimpse of the future). More importantly, I love the feedback I receive and hearing how our customers are implementing their own new features and migrating applications and business services onto the ServiceNow platform. As I start to hear common themes (for example what’s ServiceNow’s position on SIAM and multi-vendor management?), I have a great opportunity to help influence our product roadmap and define priorities for our core product development teams.</p>

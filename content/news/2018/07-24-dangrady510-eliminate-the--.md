@@ -1,6 +1,7 @@
 ---
 title: "Eliminate the Ill Get Back to Yous From Your Meetings"
 date: 2018-07-24T03:47:09.000Z
+authors: ["dangrady510"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a0ecda28db6f5bc05129a851ca96199b"
 ---
 <p>I&#39;m going to ask you to try and transport yourself back in time.</p>

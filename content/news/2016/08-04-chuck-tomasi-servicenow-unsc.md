@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Unscripted Podcast Episode   Jason McKee"
 date: 2016-08-03T15:29:20.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5d6ceaa1dbd0dbc01dcaf3231f9619cc"
 ---
 <p><img class="image-1 jive-image" style="width: 100px; height: 100px; float: left; margin-right: 10px;" src="7981b042db5c57049c9ffb651f9619ab.iix" alt="200x200_podcast-album_art-Final.jpg" /></p>

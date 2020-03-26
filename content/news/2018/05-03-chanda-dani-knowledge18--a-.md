@@ -1,6 +1,7 @@
 ---
 title: "Knowledge A Suggested ITOM Tour For You"
 date: 2018-05-02T21:39:26.000Z
+authors: ["Chanda Dani"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e656fa4edb351f0047c8f3231f9619da"
 ---
 <p>From the ITOM team at ServiceNow – Welcome to Knowledge18! It is the perfect opportunity to see the latest from ServiceNow and how your peers are getting the most out of the ServiceNow Platform.</p>

@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   How a MID server can help connect your data apps and resources"
 date: 2018-12-12T02:12:37.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=67a18ccadb1ee740fb115583ca961980"
 ---
 <p><img class="community_image_fullscreen" style="float: left; margin-right: 8px;" src="https://community.servicenow.com/3e1d4b52dbdc3fc45129a851ca96192a.iix" width="143" height="111" />Accessing resources from inside an organization&#39;s physical or cloud firewall can be challenging. A Management, Instrumentation, and Discovery (MID) server offers a direct, secure solution. It&#39;s a Java application that runs as a Windows service or UNIX daemon on a server in your local network. You can communicate and move data faster, easier, and more securely between a ServiceNow instance and external applications, data sources, and services. Join Chuck Tomasi, Kreg Steppe, and Stacey Bailey of ServiceNow for an introduction to this powerful, versatile tool.</p>

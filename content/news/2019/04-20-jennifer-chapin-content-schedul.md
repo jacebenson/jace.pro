@@ -1,6 +1,7 @@
 ---
 title: "Content Scheduler Update"
 date: 2019-04-20T00:10:52.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f8a8c4a7dbb8b7c8190dfb24399619b0"
 ---
 <p>Hi All, </p>

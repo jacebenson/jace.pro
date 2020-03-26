@@ -1,6 +1,7 @@
 ---
 title: "Generate csv file with the catalog variables and attaching to RITM record"
 date: 2019-10-31T12:41:48.000Z
+authors: ["Ankur Bawiskar"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e4f8bd4edbbc881014d6fb243996190e"
 ---
 <p>Recently I have see many questions regarding how to generate csv file with the catalog item variable values in it. The header row of csv should be the Variable Label and the rows should be the variable values.</p>

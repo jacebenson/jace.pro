@@ -1,6 +1,7 @@
 ---
 title: "PEAK Tokyo "
 date: 2019-10-11T13:20:51.000Z
+authors: ["ギター君"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d91287ebdbd4c814f7fca851ca96198e"
 ---
 <p>こんにちは&#xff01;</p>

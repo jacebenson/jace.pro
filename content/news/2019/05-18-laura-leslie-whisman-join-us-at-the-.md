@@ -1,14 +1,15 @@
 ---
-title: "Join us at the Future of Work event in Philadelphia on June th Register today"
-date: 2019-05-18T02:53:57.000Z
-link: "https://community.servicenow.com/community?id=community_blog&sys_id=fa7af0e0db6937c0e0e80b55ca961951"
+title: "Join us at the Future of Work event in Philadelphia on June th Register Today"
+date: 2019-05-18T02:49:16.000Z
+authors: ["Laura Leslie Whisman"]
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=9a693424db2937c0e0e80b55ca9619d0"
 ---
-<div class="cm-content-title cm-padding-bottom-10 ng-scope">
+<div class="cm-content-title cm-padding-bottom-10">
 <p class="cm-event-time-place"><span class="cm-date-time"><span class="ng-binding"><strong>Future of Work Philadelphia</strong></span></span></p>
 <p class="cm-event-time-place"><span class="cm-date-time"><span class="ng-binding"><strong>Date:</strong> June 18th, 2019</span></span></p>
 <p class="cm-event-time-place"><span class="cm-date-time"><span class="ng-binding"><strong>Time:</strong> 11:00 am to 4:30 pm ET</span></span></p>
 </div>
-<div class="ng-scope">
+<div>
 <p class="cm-event-time-place ng-scope"><span class="cm-address ng-binding"><strong>Location:</strong> The Barnes Foundation - </span>2025 Benjamin Franklin Parkway, Philadelphia PA 19130</p>
 </div>
 <p class="ng-scope"><strong>The future is here. Are you ready?</strong><br />Join ServiceNow in Philadelphia and learn new ways to break down silos, deliver better employee experiences, delight your customers, and transform the way you work. Connect with product experts to learn firsthand how the innovations of today will impact your business tomorrow.</p>

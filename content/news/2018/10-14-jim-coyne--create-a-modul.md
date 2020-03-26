@@ -1,6 +1,7 @@
 ---
 title: "Create a Module for this Instance Tool"
 date: 2018-10-14T03:22:07.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d189ac87db092300fece0b55ca961991"
 ---
 <h5>Included in the <a href="community?id&#61;community_blog&amp;sys_id&#61;b3c843aadb892b40fece0b55ca961906" rel="nofollow">Developer Toolbox</a> Update Set available on Share (link in the &#34;Developer Toolbox&#34; post).</h5>

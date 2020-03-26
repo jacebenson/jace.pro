@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Deskside Chats Learn Quick Product Tips from the Source"
 date: 2019-01-12T05:13:19.000Z
+authors: ["darius.koohmarey"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=785414c8db43a3c01089e15b8a96195d"
 ---
 <p><strong>What?</strong></p>

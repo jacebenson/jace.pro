@@ -1,6 +1,7 @@
 ---
 title: "The Power of Major Incident Management  Part  The Major Incident Management Workbench"
 date: 2018-04-19T02:28:25.000Z
+authors: ["Anne Barnes"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5f32f3e9dba51344fc5b7a9e0f961953"
 ---
 <p>This is part 3 of a three part series on Major Incident Management (MIM).  <a href="community?id&#61;community_blog&amp;sys_id&#61;9583147adb995b00fc5b7a9e0f961901" rel="nofollow">Part 1</a> covered Activation and Properties.  In <a href="community?id&#61;community_blog&amp;sys_id&#61;e8787bf4dbed5fc0fc5b7a9e0f96192f" rel="nofollow">Part 2</a> we discussed the Major Incident Management Process.  In this blog we will talk about MIM Workbench.  However, before that, a quick recap of what is <a href="https://docs.servicenow.com/bundle/kingston-it-service-management/page/product/incident-management/concept/major-incident-management.html" rel="nofollow">Major Incident Management.</a></p>

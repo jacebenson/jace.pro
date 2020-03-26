@@ -1,6 +1,7 @@
 ---
 title: "The Top  Reasons Why Continual Service Improvement CSI Initiatives Fail"
 date: 2018-03-26T07:51:47.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0616958adb09574447c8f3231f9619aa"
 ---
 <p>First, let’s look at what I mean by Continual Service Improvement (CSI).</p>

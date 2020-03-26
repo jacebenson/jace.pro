@@ -1,6 +1,7 @@
 ---
 title: "How to Write Smart GlideAjax Quickly Part "
 date: 2017-09-19T16:52:36.000Z
+authors: ["Paul Morris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f8ccee25dbd0dbc01dcaf3231f961978"
 ---
 <h1>How to Write Smart GlideAjax Quickly</h1>

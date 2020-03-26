@@ -1,6 +1,7 @@
 ---
 title: "Where has your IT budget gone Check your SaaS"
 date: 2018-11-15T23:51:04.000Z
+authors: ["Bryan Blackburn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f0f72569dbf9eb40f21f5583ca9619d9"
 ---
 <p class="p1">IT leaders everywhere are dealing with reduced budgets year after year, but SaaS spending continues to rise. Gartner is forecasting global SaaS spending to reach $55.1 billion in 2018, up 19% from 2017.</p>

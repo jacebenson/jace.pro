@@ -1,6 +1,7 @@
 ---
 title: "Lets Rock Knowledge with ITOM"
 date: 2019-05-01T22:21:11.000Z
+authors: ["donbaker"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c792e59bdb0173844819fb24399619a5"
 ---
 <p>Knowledge19 is 5 days away. Are you excited?</p>

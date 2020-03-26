@@ -1,6 +1,7 @@
 ---
 title: "Call for Topics"
 date: 2013-06-04T22:30:11.000Z
+authors: ["allison.asplund"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=583d2ae5dbd0dbc01dcaf3231f961998"
 ---
 <p>ServiceNow Northern California community members!<br /><br />We are planning our next Northern California User Group targeting early September and would like to understand which topics you are interested in hearing about. We have preselected four key topics (listed below) that were presented during the breakouts at Knowledge 13, our annual user conference that took place on May 12 — May 16, 2013 in Las Vegas.<br /><!--break--><br />Topic 1: Conducting an IT Symphony with ServiceNow Orchestration<br />Topic 2: What is new in Calgary — the latest release of ServiceNow<br />Topic 3: Debugging and Troubleshooting ServiceNow<br />Topic 4: Catalog/Request 201: Take your Service Catalog to the next level<br />Topic 5: Please provide a topic that you would like to hear about that is not listed above.<br /><br />Your feedback is very important to us please select or provide topics of your interest!<br /><br />Thank you,<br />ServiceNow!</p>

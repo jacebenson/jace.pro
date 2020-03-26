@@ -1,6 +1,7 @@
 ---
 title: "Journal Activity Formatter  With A Bit More Style"
 date: 2019-02-12T03:47:36.000Z
+authors: ["Kwabena"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e3f967b1db6f27001089e15b8a96194f"
 ---
 <p> </p>

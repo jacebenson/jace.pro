@@ -1,6 +1,7 @@
 ---
 title: "Restricting records in Survey for Question with data type as Reference"
 date: 2019-11-22T12:48:46.000Z
+authors: ["Ankur Bawiskar"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cacff2c5dbd14c541cd8a345ca96190f"
 ---
 <p>Many a times we use reference data type in Surveys as questions. One limitation of using reference data type in Survey is about filtering the records from the reference table i.e. out of the box reference qualifier cannot be applied for reference data type question in Surveys.</p>

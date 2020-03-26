@@ -1,6 +1,7 @@
 ---
 title: "Keeping Manually Created Business Services Up to Date"
 date: 2017-08-11T23:03:15.000Z
+authors: ["vNickNOW"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=006c6aa1dbd0dbc01dcaf3231f9619ea"
 ---
 <p>WARNING: The APIs used in this article may have a performance impact on your instance and should not be used at a high frequency rate.</p>

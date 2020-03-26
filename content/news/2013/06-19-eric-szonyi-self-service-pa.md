@@ -1,6 +1,7 @@
 ---
 title: "Self Service Password Reset with Active Directory"
 date: 2013-06-19T01:27:13.000Z
+authors: ["eric.szonyi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=db4da229dbd0dbc01dcaf3231f96196c"
 ---
 <p>I needed to get a solution for self-service password reset for users authenticated by Active Direcrory. I enabled the following plugin:<br/><br/><a title="k-external-small" class="jive-link-external-small" href="http://wiki.servicenow.com/index.php?title=Self_Service_Password_Reset_plugin" rel="nofollow" target="_blank">http://wiki.servicenow.com/index.php?title=Self_Service_Password_Reset_plugin</a><br/><br/>This plugin only works for locally authenticated users. Fortunately adding AD functionality can be accomplished with just a few steps.<br/><br/>1. Create a workflow which leverages the Reset AD User Password activity (Requires Orchestration).<br/><br/>2. On the workflow select Edit Inputs from the settings menu and create two string variables (or similar): <br/> - one for the username ('u_username')<br/> - one for the password ('u_password').<br/><br/>3. Open the Reset AD User Password activity and assign the following values as variables:<br/> - Username = ${workflow.inputs.u_username}<br/> - Password = ${workflow.inputs.u_password}<br/><br/>4. Under System Definition &gt; Script includes, modify the PasswordResetAJAX script as follows:<br/><br/>Change the following section so it does not bypass LDAP accounts:<br/></p><pre class="plain" name="code">

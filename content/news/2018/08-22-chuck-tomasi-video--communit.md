@@ -1,6 +1,7 @@
 ---
 title: "Video Community Live Stream  "
 date: 2018-08-21T23:31:10.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=956836f9db40efc0a39a0b55ca9619f7"
 ---
 <p>It&#39;s back to basics with inbound actions, watermarks, business rules (with complex conditions), restricting portals, pages, and a little script for dependent tasks.</p>

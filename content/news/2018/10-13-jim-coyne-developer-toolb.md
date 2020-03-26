@@ -1,6 +1,7 @@
 ---
 title: "Developer Toolbox"
 date: 2018-10-13T01:41:06.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b3c843aadb892b40fece0b55ca961906"
 ---
 <p>Here is a list of tools that I have rolled up into an Update Set called <a href="https://developer.servicenow.com/app.do#!/share/contents/7375176_developer_toolbox3?t&#61;PRODUCT_DETAILS" rel="nofollow">&#34;Developer Toolbox&#34;, downloadable from Share</a>.  Each of the tools has their own post here on the Community that describes what it does.</p>

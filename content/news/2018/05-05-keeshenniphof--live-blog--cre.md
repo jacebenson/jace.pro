@@ -1,6 +1,7 @@
 ---
 title: "Live Blog CreatorCon Hackathon  ARCHIVED"
 date: 2018-05-04T11:52:05.000Z
+authors: ["keeshenniphof"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2213cba6dbbd13002b6dfb651f9619b1"
 ---
 <h3>[wed 5/9, 12:30pm - END OF LIVE BLOG]</h3>

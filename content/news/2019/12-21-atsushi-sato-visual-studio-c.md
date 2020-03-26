@@ -1,6 +1,7 @@
 ---
 title: "Visual Studio Code  ServiceNow "
 date: 2019-12-20T12:33:32.000Z
+authors: ["Atsushi Sato"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f3c88b06dbf94c501cd8a345ca961944"
 ---
 <p>ServiceNow 上でアプリケーションを開発する際、Low Code/No Code 開発プラットフォームとは言え、やはり多少なりには JavaScript でコーディングする場面があります。コーディングを行う際に利用されるのが JavaScript syntax editor と呼ばれるエディタコンポーネントになります。New York バージョンからは JavaScript syntax editorのベースとなるコンポーネントに Monaco (<a href="https://microsoft.github.io/monaco-editor/" rel="nofollow">https://microsoft.github.io/monaco-editor/</a>)が採用され、ユーザビリティが向上し効率的にコーディングを行う事ができるようになりました。また、Monaco を採用した事で、メソッドをコールした際にドキュメントや実装部分に即座にジャンプすることのできるコンテキストメニューなどコーディングを効率的に行う為の機能が追加されました。</p>

@@ -1,6 +1,7 @@
 ---
 title: "The Enterprise Cloudcast Episode  Monitoring the Enterprise Cloud by Allan Leinwand"
 date: 2018-01-03T06:18:51.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4abdaaa9dbd0dbc01dcaf3231f961967"
 ---
 <p><span style="font-size: 12pt;">In this episode, Allan discusses how ServiceNow monitors the health and performance of the enterprise cloud and your instance using open source, third-party tools and the ServiceNow Platform.</span></p><p></p><p></p><p><iframe frameborder="0" height="180" src="https://omny.fm/shows/servicenow-cloudcast/the-enterprise-podcast-episode-12-monitoring-the-1/embed?style=artwork" width="100%">

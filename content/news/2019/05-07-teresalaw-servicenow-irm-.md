@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow IRM Ecosystem supports  your digital transformation"
 date: 2019-05-06T10:28:10.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d35f6cf4db513348190dfb2439961979"
 ---
 <p><img src="https://community.servicenow.com/511ee4fcdb113348190dfb24399619bb.iix" /></p>

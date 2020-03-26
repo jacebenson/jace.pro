@@ -1,6 +1,7 @@
 ---
 title: "Customer Support Virtual Agent conversations to manage your instance more efficiently"
 date: 2020-03-05T06:08:30.000Z
+authors: ["Howard S."]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=68890126db13885023f4a345ca961912"
 ---
 <p>We continue to enhance the <a href="https://hi.service-now.com/hisp" rel="nofollow">NOW Virtual Agent</a> in the Customer Support portal, ranging from new conversation topics to <a href="https://docs.servicenow.com/bundle/orlando-performance-analytics-and-reporting/page/administer/predictive-intelligence/concept/predictive-intelligence.html" rel="nofollow">Machine Learning</a> improvements to cosmetic upgrades.  If you’ve had the chance to try it out, leave a comment on this post with your experience! If you haven’t used it yet, you should take this post as a sign that you should.</p>

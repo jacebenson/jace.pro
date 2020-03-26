@@ -1,6 +1,7 @@
 ---
 title: "Problem Management Overview"
 date: 2017-10-10T23:22:58.000Z
+authors: ["marystromberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=83fda62ddbd0dbc01dcaf3231f9619a7"
 ---
 <p>This video provides an introduction to problem management according to the Information Technology Infrastructure Library (ITIL) framework. It demonstrates problem management in the ServiceNow platform. This video applies to all supported ServiceNow releases as of Jakarta. The itil role is required to perform actions shown in this video.</p><p></p><p style="text-align: center;"><em>For best video quality, increase your player resolution to 1080p.</em></p><p></p><p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/Ux1fub8KzT0?rel=0" width="640">

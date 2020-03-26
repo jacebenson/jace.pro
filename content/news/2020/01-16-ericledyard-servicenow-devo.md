@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow DevOps Podcast Episode   Mike Wolf"
 date: 2020-01-16T04:31:26.000Z
+authors: ["ericledyard"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=496d1cfedbda0450190dfb24399619b2"
 ---
 <p><iframe style="height: 315px; width: 560px;" title="DevOps: Episode 5 – Mike Wolf Agile transformations; RapDev.io" src="https://omny.fm/shows/servicenow-cloudcast/devops-episode-5-mike-wolf-agile-transformations/embed "></iframe></p>

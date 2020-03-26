@@ -1,6 +1,7 @@
 ---
 title: "Using Embedded Help to Provide Contextual User Information"
 date: 2018-09-22T05:56:53.000Z
+authors: ["darius.koohmarey"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b9f9bfb7dba8634467a72926ca961958"
 ---
 <p class="p1">For those unfamiliar with the feature, <a href="https://docs.servicenow.com/bundle/london-platform-user-interface/page/build/help-guided-tours/concept/embedded-help.html" target="_blank" rel="nofollow">embedded help is a great feature for providing contextual information to users</a>, depending on where they are on the platform and what roles they contain. You can define unique embedded help articles that contain rich HTML text or Video content, for each unique page on the instance. For example, your incident.do page could have a specific instruction set on the form fields technicians need to fill out, and what they mean. The same page could even serve up different content depending on the role of the user via a role priority.</p>

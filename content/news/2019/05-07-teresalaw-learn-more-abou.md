@@ -1,6 +1,7 @@
 ---
 title: "Learn more about the ServiceNow IRM Ecosystem at Knowledge "
 date: 2019-05-06T11:07:36.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8168fcb4db953348190dfb24399619fc"
 ---
 <p><span style="font-family: helvetica; font-size: 10pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/f82a3874dbd53348190dfb2439961945.iix" /></span></p>

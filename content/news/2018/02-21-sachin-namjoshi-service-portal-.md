@@ -1,6 +1,7 @@
 ---
 title: "Service Portal  Bookmark Widget"
 date: 2018-02-20T09:58:53.000Z
+authors: ["sachin.namjoshi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5d6f964bdbd4d3445322f4621f961917"
 ---
 <p>Hi All,</p>

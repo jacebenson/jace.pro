@@ -1,6 +1,7 @@
 ---
 title: "Cloud Security is a shared responsibility"
 date: 2018-02-12T20:29:46.000Z
+authors: ["rachidh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=025da629dbd0dbc01dcaf3231f961931"
 ---
 <p>As a ServiceNow customer, you have control over the security of your instance and your data within the ServiceNow cloud. You have the ability to control specific security settings within the instance that enable you to harden the application and platform settings to meet your unique security needs. You can choose from several data-at-rest encryption options, manage application-level role based access controls, and authentication mechanisms, and you are also permitted to conduct an application-level penetration test against your sub-production instance every year. We believe security is a shared responsibility between ServiceNow and our customers.</p>

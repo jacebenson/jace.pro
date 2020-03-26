@@ -1,6 +1,7 @@
 ---
 title: "SNUGPIC  February "
 date: 2016-02-23T08:38:39.000Z
+authors: ["nacime.alfaras"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=058c66e1dbd0dbc01dcaf3231f9619f3"
 ---
 <p>Many thanks to Scientific Games for hosting February LV SNUG!</p><p>(taken from Feb. 4th 2016 User Group Meeting)</p><p></p><p><img  alt="7y.JPG" class="image-1 jive-image" src="d5290846db1017041dcaf3231f96190f.iix" style="width: 620px; height: 260px;"/></p><p><img  alt="4y.JPG" class="image-2 jive-image" src="ce452bbddbdc9f04e9737a9e0f96191a.iix" style="width: 620px; height: 465px;"/></p><p><img  alt="3y.JPG" class="image-3 jive-image" src="6f9d054edbd41b04ed6af3231f9619b0.iix" style="width: 620px; height: 465px;"/></p><p><img  alt="1y.JPG" class="image-4 jive-image" src="312820cedb9457049c9ffb651f961933.iix" style="width: 620px; height: 465px;"/></p><p><img  alt="5y.JPG" class="image-5 jive-image" src="20b50c0edbd41344e9737a9e0f961928.iix" style="width: 620px; height: 465px;"/></p><p><img  alt="2y.JPG" class="image-6 jive-image" src="bef12bbddbd01fc03eb27a9e0f9619ff.iix" style="width: 620px; height: 465px;"/></p><p><img  alt="6y.JPG" class="image-7 jive-image" src="1fd60982dbd0130468c1fb651f9619c1.iix" style="width: 620px; height: 465px;"/></p>

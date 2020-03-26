@@ -1,6 +1,7 @@
 ---
 title: "Leverage natural language understanding in Virtual Agent to handle more requests automatically"
 date: 2019-08-30T02:44:42.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5dbdd0c6db2bfb04feb1a851ca961911"
 ---
 <p>Customer support, human resources, and other service providers get a lot of simple service requests through phone, chat and other channels. Those requests can take up a lot of their agents’ time. The ServiceNow Virtual Agent with new natural language understanding (NLU) capability available in the New York release can help lift that burden by handling those simple requests automatically.</p>

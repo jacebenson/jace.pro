@@ -1,6 +1,7 @@
 ---
 title: "CMDB Best Practices"
 date: 2019-04-06T02:22:54.000Z
+authors: ["danireynolds"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5690284fdbec73045ed4a851ca961974"
 ---
 <p>The CMDB is the most foundational aspect of ITSM, and with the help of this <a href="https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/bp/plan-for-successful-cmdb.pdf" rel="nofollow">four-step best practice guide</a>, you&#39;re sure to have the knowledge you need to build an maintain a healthy CMDB. Here&#39;s a summary:</p>

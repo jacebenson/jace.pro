@@ -1,6 +1,7 @@
 ---
 title: "How Are other ServiceNow Customers Deploying MID Servers"
 date: 2019-02-18T01:02:22.000Z
+authors: ["Ryan Lee"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=adbd3577dbaf6300e0e80b55ca961915"
 ---
 <div>I’ve recently had several customers approach me as they continue to expand their ServiceNow footprint across Discovery, Service Mapping and Event Management.   </div>

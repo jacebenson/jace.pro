@@ -1,6 +1,7 @@
 ---
 title: "Call for Speakers at New York SNUG on April th"
 date: 2019-03-07T21:28:44.000Z
+authors: ["Laura Leslie Whisman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=af69fdaddbc0ff00fece0b55ca9619cb"
 ---
 <p>Hello!</p>

@@ -1,6 +1,7 @@
 ---
 title: "Getting Started with ATF Guide and Best Practices"
 date: 2019-10-23T01:10:22.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4afd4213db2c08145129a851ca96195c"
 ---
 <p>So you know you should be doing some automated testing, but aren&#39;t sure how to get started? Take a look at the attached Getting Started with ATF guide for some tips on how to get started with ATF as well as guidance and best practices on planning and writing tests and suites.</p>

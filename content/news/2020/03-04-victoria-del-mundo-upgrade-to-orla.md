@@ -1,6 +1,7 @@
 ---
 title: "Upgrade to Orlando to unlock the power of AI and Analytics Five steps to achieve upgrade success"
 date: 2020-03-04T02:44:57.000Z
+authors: ["Victoria Del Mundo"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=555113c6db970050414eeeb5ca9619db"
 ---
 <p><strong><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/81f1574adb970050414eeeb5ca961943.iix" /></strong></p>

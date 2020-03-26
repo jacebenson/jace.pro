@@ -1,6 +1,7 @@
 ---
 title: "London release How to accelerate upgrades and make them easier"
 date: 2018-08-22T00:43:05.000Z
+authors: ["franklynn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=43d84fb1db44eb0467a72926ca961926"
 ---
 <p><img style="float: right; margin-left: 15px; max-width: 100%; max-height: 480px;" src="ad0c4f7ddb002f008e7c2926ca961958.iix" width="278" height="171" />The ServiceNow London release is bringing some exciting new capabilities.  <br /><br />But actually doing the upgrade can be challenging – especially if you don’t know where to begin or what steps to take. The good news is that ServiceNow has a framework and tools that will accelerate your upgrade and make it easier.</p>

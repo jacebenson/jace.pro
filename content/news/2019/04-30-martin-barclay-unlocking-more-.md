@@ -1,6 +1,7 @@
 ---
 title: "Unlocking more leads on Store"
 date: 2019-04-29T23:52:30.000Z
+authors: ["Martin Barclay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d9546f2adb8df384feb1a851ca961940"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/45e663e6db413784feb1a851ca961939.iix" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "Better Together Helps Slay the Tyranny of Unplanned Work"
 date: 2017-06-14T04:15:28.000Z
+authors: ["rickyb"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=eebdeaa9dbd0dbc01dcaf3231f961961"
 ---
 <p>In a recent webinar <span style="font-size: 10.5pt; font-family: 'Arial',sans-serif; color: #333333;">Troy DuMoulin, VP of R&amp;D at Pink Elephant, presented his thoughts on effective Service Portfolio and Program Portfolio Management (PPM) practices, explaining why it's critical to integrate PPM with other Service Management practices in order to minimize the disruptions of<span class="apple-converted-space"> </span>un-planned<span class="apple-converted-space"> </span>work on customer value delivery.   This was a great example of how the ServiceNow platform enables enterprises to combine the strengths of ServiceNow's IT Business Management solution with its IT Service Management solution - a real tribute to "Better Together".   You can access the webinar here through a recent community post, here's the link: <span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif;"><a title="" _jive_internal="true" href="/community?id=community_event&sys_id=535576e9dbdc5bc0b322f4621f9619fe">https://community.servicenow.com/events/3333</a></span></span></p><p></p><p><span style="font-size: 10.5pt; font-family: 'Arial',sans-serif; color: #333333;">Let me know what you think... </span></p>

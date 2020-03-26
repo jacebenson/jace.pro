@@ -1,6 +1,7 @@
 ---
 title: "How to Set Up Custom Help"
 date: 2014-03-14T04:42:02.000Z
+authors: ["katharine.campbell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9a2d66e5dbd0dbc01dcaf3231f9619c0"
 ---
 <p class="p1">Last week, I highlighted a video introducing the context-sensitive help feature and explaining how you can use it to give your users easy access to the information they need.</p><p class="p2"></p><p class="p1">Today's video explains how to <span class="s1">set up</span> context-sensitive help to link to articles of your choosing.</p><p class="p2"></p><p class="p1"><iframe src="https://youtube.com/embed/7PvKqCSdJxk" width="425" height="350"/></p><p class="p2"></p><p class="p1">For more information on setting up custom help, see:</p><p class="p1"></p><p class="p1">ServiceNow wiki</p><p class="p1"><a title="k-external-small" class="jive-link-external-small" href="http://wiki.servicenow.com/index.php?title=Context-Sensitive_Help" rel="nofollow" target="_blank">Context-Sensitive Help - ServiceNow Wiki</a></p><p class="p1"></p><p class="p1" style="font-family: arial, sans-serif; color: #666666;"><span style="font-weight: inherit; font-style: inherit; font-size: 10pt; font-family: inherit;">Your feedback will help us better serve you!</span></p><p class="p1" style="font-family: arial, sans-serif; color: #666666;"><span class="s1" style="font-weight: inherit; font-style: inherit; font-family: inherit;">Did you find this video helpful? Leave us a comment to let us know why or why not.</span></p>

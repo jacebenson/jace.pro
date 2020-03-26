@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow has acquired VendorHawk a market leader in SaaS Subscription Management"
 date: 2018-04-26T01:32:08.000Z
+authors: ["ryanw-t"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cf78a737dba19f40032a7a9e0f961983"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="18faffbbdb2d170058dcf4621f961908.iix" /></p>

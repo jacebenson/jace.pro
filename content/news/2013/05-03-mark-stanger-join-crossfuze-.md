@@ -1,6 +1,7 @@
 ---
 title: "Join Crossfuze and BDNA at Knowledge"
 date: 2013-05-02T15:55:18.000Z
+authors: ["Mark Stanger"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=45fca2a5dbd0dbc01dcaf3231f9619e9"
 ---
 <p>Crossfuze Solutions and ServiceNowGuru are proud to partner with BDNA at the upcoming ServiceNow Knowledge13 conference! We've developed some groundbreaking integrations with BDNA's Technopedia and Normalize products that <em>finally</em> give you the tools to deploy an effective, easy-to-manage asset management solution in ServiceNow. Come and visit us at the conference to find out more about our <a title="w.youtube.com/watch?v=sBUmlrfYMGo" href="http://www.youtube.com/watch?v=sBUmlrfYMGo" target="_blank">asset management solutions</a>, as well as our <a title="w.crossfuze.com/solutions/remote-admin" href="http://www.crossfuze.com/solutions/remote-admin" target="_blank">remote admin</a> and <a title="w.crossfuze.com/solutions/turnkey-solutions" href="http://www.crossfuze.com/solutions/turnkey-solutions" target="_blank">turnkey solutions</a> for incident, problem, change, knowledge, catalog, and CMS!<br /><br /><center><a href="http://www.servicenowguru.com/showcase/join-crossfuze-bdna-knowledge13/"><img src="http://www.servicenowguru.com/wp-content/uploads/2013/04/crossfuzebanner02.jpg" alt="Join Crossfuze and BDNA at Knowledge13!" width="375" height="230" /></a></center><br /><br /><center><h3>Click here to learn more at ServiceNowGuru.com!</h3><br /></center><br /><!--break--></p>

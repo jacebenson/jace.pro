@@ -1,6 +1,7 @@
 ---
 title: "Perth Community Meetup  August "
 date: 2018-07-06T13:54:16.000Z
+authors: ["Matt Dodd"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=123bfbfedb07170854250b55ca9619bb"
 ---
 <p>Hey Everyone,</p>

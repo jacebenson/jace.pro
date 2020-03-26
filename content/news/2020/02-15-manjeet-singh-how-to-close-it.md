@@ -1,6 +1,7 @@
 ---
 title: "How to Close IT Skills Gap for Todays Digital Organizations"
 date: 2020-02-14T06:54:14.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6324528cdb0388dc1cd8a345ca961995"
 ---
 <h1> </h1>

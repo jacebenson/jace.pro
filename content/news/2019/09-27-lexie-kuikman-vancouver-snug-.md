@@ -1,6 +1,7 @@
 ---
 title: "Vancouver SNUG  Call to Sponsor"
 date: 2019-09-26T21:58:50.000Z
+authors: ["Lexie Kuikman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=72c8e776db88001814d6fb24399619cd"
 ---
 <p>Are you a partner interested in sponsoring the next Vancouver SNUG on Oct 15th?</p>

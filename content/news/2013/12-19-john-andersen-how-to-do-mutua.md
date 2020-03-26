@@ -1,6 +1,7 @@
 ---
 title: "How to do Mutual Authentication with ServiceNow"
 date: 2013-12-18T21:07:50.000Z
+authors: ["john.andersen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=461e226ddbd0dbc01dcaf3231f9619db"
 ---
 <p>Anytime anyone wants to talk about security, certificates, and certificate authorities most people zone out as if they were on a dinner date and everyone started to talk about religion or politics (and yes, I love to talk religion and politics...that's what makes me so interesting).<br /><br />Besides being able to send and receive signed Web service requests using WS-Security, ServiceNow is also able to consume web services that require mutual authentication. Mutual authentication is also known as mutual SSL authentication, two-way SSL authentication, or certificate-based mutual authentication. <br /><br />With this method of authentication, two parties authenticate to each other by each verifying signed certificates provided by the other entity. This "handshake" process takes place before any web service payload is exchanged. <br /><br />For detailed instructions and a demo video on how to set up a ServiceNow instance for Mutual Authentication, please read more on my blog: <a href='http://www.john-james-andersen.com/blog/service-now/mutual-authentication-and-servicenow.html'>Certificate-based Authentication with ServiceNow</a>.</p>

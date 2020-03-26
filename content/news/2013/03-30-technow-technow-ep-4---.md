@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Serverside Scripting Fundamentals"
 date: 2013-03-30T02:33:20.000Z
+authors: ["TechNow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=788c66e1dbd0dbc01dcaf3231f961965"
 ---
 <p>Chuck and Andrew take you through some of the fundamentals and best practices of server side scripting. There&#39;s a lot to know and we&#39;ll share as much experience as we can in one full hour!</p>

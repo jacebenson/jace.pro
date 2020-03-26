@@ -1,6 +1,7 @@
 ---
 title: "Whats New in London for ServiceNow Security Operations"
 date: 2018-08-14T04:09:12.000Z
+authors: ["janenec"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d45b2adbdb7b5b00200f0b55ca9619e4"
 ---
 <div class="cm-content-body">

@@ -1,6 +1,7 @@
 ---
 title: "MiniLab Adding an LDAP Listener to Monitor AD in VirtualBox"
 date: 2016-06-28T18:50:33.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f0ecea65dbd0dbc01dcaf3231f96196c"
 ---
 <p><span style="font-size: 12pt;"><span style="font-family: &#39;Times New Roman&#39;; color: #666666; font-weight: bold;">NOTE</span><span style="font-family: Arial; color: #666666;">: </span><span style="font-family: &#39;Times New Roman&#39;; color: #666666;">MY POSTINGS REFLECT MY OWN VIEWS AND DO NOT NECESSARILY REPRESENT THE VIEWS OF MY EMPLOYER, ACCENTURE. </span></span></p>

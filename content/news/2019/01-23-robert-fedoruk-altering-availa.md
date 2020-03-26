@@ -1,6 +1,7 @@
 ---
 title: "Altering available nontask categories in Worker Porta"
 date: 2019-01-22T11:43:43.000Z
+authors: ["Robert Fedoruk"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=499d05d7db0baf00fa192183ca9619f8"
 ---
 <p>Spent 10 or 15 minutes searching docs for this, and only 1 minute executing.  Hopefully this saves someone 14 minutes.  <br /><br /><strong>Scenario:  The customer has seen the beautiful Worker Portal interface but wants to remove and add options to the list of available non-task work options:<br /><img src="c76c8993db0baf00fa192183ca9619ba.iix" /><br /></strong></p>

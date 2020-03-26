@@ -1,6 +1,7 @@
 ---
 title: "Transparency in Mergers  Acquisitions"
 date: 2018-07-03T01:08:30.000Z
+authors: ["laurieehrbar"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7f2fa131db0fd7845ed4a851ca9619b2"
 ---
 <p>The rollback of some postcrisis financial regulations will help small and mid-size banks get bigger and leave fewer of them.</p>

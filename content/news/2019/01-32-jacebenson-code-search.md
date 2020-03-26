@@ -1,6 +1,7 @@
 ---
 title: "Code Search"
 date: 2019-01-31T20:58:57.000Z
+authors: ["jacebenson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0af2a592db1f2380fb115583ca961982"
 ---
 <p>Ever have some code you just can&#39;t find?  Well I made an app to make it easy to search for the code.  Really its just exposing the Studio Search to many more tables.  But I thought I&#39;d post about it here.<br />Link to share:</p>

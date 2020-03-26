@@ -1,6 +1,7 @@
 ---
 title: "Whats the recipe for amazing customer service"
 date: 2019-04-29T23:26:50.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4d7edf6adb05f704fece0b55ca9619c2"
 ---
 <p><img class="alignnone  wp-image-3608" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/04/anise-aroma-art-277253.jpg" alt="anise-aroma-art-277253" width="344" height="385" align="right" /></p>

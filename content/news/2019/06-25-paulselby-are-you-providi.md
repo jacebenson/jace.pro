@@ -1,6 +1,7 @@
 ---
 title: "Are you providing th century customer service for a st century product"
 date: 2019-06-24T21:10:07.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=64389ba8dbd6fb0014d6fb243996192c"
 ---
 

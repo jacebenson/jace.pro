@@ -1,6 +1,7 @@
 ---
 title: "Field Service Management breaks out in Orlando"
 date: 2020-01-30T01:09:42.000Z
+authors: ["janenec"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2275fbc3db2a8094414eeeb5ca961932"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/d86b1aebdb0fcc101cd8a345ca961965.iix" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "Call for Sponsors  Calgary SNUG October "
 date: 2019-10-03T23:09:23.000Z
+authors: ["Reema Shah"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a81cf7c9db98c054d82ffb2439961992"
 ---
 <p class="ng-scope">The next Calgary SNUG is on October 24th!  Are you a partner interested in sponsoring?</p>

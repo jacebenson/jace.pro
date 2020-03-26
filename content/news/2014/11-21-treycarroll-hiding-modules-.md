@@ -1,6 +1,7 @@
 ---
 title: "Hiding modules from nonmanagers"
 date: 2014-11-20T20:46:16.000Z
+authors: ["treycarroll"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4c9caae1dbd0dbc01dcaf3231f9619b1"
 ---
 <p>I got a request to hide a couple of modules from non-managers.   Here is how I did it:</p><p></p><pre __default_attr="javascript" __jive_macro_name="code" class="jive_text_macro jive_macro_code _jivemacro_uid_14164944744562111" jivemacro_uid="_14164944744562111" modifiedtitle="true">

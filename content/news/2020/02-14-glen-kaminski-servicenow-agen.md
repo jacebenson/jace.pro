@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Agent mobile app Demo experience for ITOM is here"
 date: 2020-02-14T05:25:14.000Z
+authors: ["Glen Kaminski"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=84df7988db07c0dc5ed4a851ca9619cf"
 ---
 <p class="ng-scope">Updated for Orlando, the ServiceNow Agent mobile app features a new &#34;Try with a demo account&#34; demo option similar to that for Now Mobile and Now Onboarding. The built-in demo experience offers three persona experiences, including an IT Operator persona that highlights ITOM Health capabilities.</p>

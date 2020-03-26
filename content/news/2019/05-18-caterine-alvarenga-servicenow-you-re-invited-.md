@@ -1,6 +1,7 @@
 ---
 title: "Youre invited  Higher Ed Special Interest Group Charlottesville"
 date: 2019-05-17T20:02:24.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=824cd7dcdb25b3405ed4a851ca96192b"
 ---
 <p> </p>

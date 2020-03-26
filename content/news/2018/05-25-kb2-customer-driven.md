@@ -1,6 +1,7 @@
 ---
 title: "Customerdriven continuous improvement fostering an ideasdriven culture"
 date: 2018-05-24T07:04:33.000Z
+authors: ["kb2"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6d118dc1dbda9740c310fb651f961938"
 ---
 <p><strong>Kristen Bresch</strong></p>

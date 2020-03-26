@@ -1,6 +1,7 @@
 ---
 title: "Getting Started with ServiceNow Security"
 date: 2015-08-26T02:10:55.000Z
+authors: ["jlemos"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a3fde62ddbd0dbc01dcaf3231f961987"
 ---
 <p><img class="image-0 jive-image" style="font-size: 13.3333330154419px; height: auto; float: right;" src="1487b80adbdcd704ed6af3231f961997.iix" alt="0131.png" /></p>

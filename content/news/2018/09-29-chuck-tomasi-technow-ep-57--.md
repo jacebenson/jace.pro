@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Build Your First App with ServiceNow"
 date: 2018-09-28T21:49:32.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0f8d4ecadbf06f848e7c2926ca9619fa"
 ---
 <p><img style="padding-right: 8px; width: 98px; height: 98px;" src="f2c8ebf1db54dfc0b322f4621f9619ac.iix" alt="expert-logo-2.png" width="98" height="98" align="left" />In this session we start you out with the basics and explore some of the no-code capabiliites of the Now Platform to help transform legacy spreadsheet processes in to valuable applications. The great part for experienced admins and developers is that you can delegate this work to your line of business process owners and other &#34;builders&#34;.</p>

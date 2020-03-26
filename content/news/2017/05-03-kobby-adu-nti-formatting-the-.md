@@ -1,6 +1,7 @@
 ---
 title: "Formatting the Journal Field with the code tag"
 date: 2017-05-03T03:01:37.000Z
+authors: ["kobby.adu-nti"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b5bcea25dbd0dbc01dcaf3231f9619b0"
 ---
 <p>The following video presentation illustrates one of the many possibilities available to format the journal field on your Service Now forms. Here I display how n end user can utilise the [code] tag to escape HTML within a journal field and make the text presented more vibrant.</p><p></p><p><iframe src="https://youtube.com/embed/TF9DLYZAGpQ" width="440" height="330"/></p><p></p><h4 style="text-align: center;">See also <a title="Formatting within Journal fields using HTML &amp; [code]" __default_attr="6282" __jive_macro_name="blogpost" class="jive_macro jive_macro_blogpost" data-orig-content="Formatting within Journal fields using HTML &amp;amp; [code]" data-renderedposition="425.2698669433594_355.49713134765625_374_16" href="/community?id=community_blog&sys_id=4d9ceae1dbd0dbc01dcaf3231f9619e1">Formatting within Journal fields using HTML &amp; [code]</a>   by <a title="dylan.lindgren" __default_attr="63711" __jive_macro_name="user" class="jive-link-profile-small jive_macro jive_macro_user" data-id="63711" data-objecttype="3" data-orig-content="dylan.lindgren" data-renderedposition="425.2698669433594_756.7755126953125_113_16" data-type="person" href="/community?id=community_user_profile&user=98505629db581fc09c9ffb651f961934">dylan.lindgren</a></h4>

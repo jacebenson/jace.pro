@@ -1,6 +1,7 @@
 ---
 title: "Community Code Snippets  Doing a SELECT DISTINCT on a GlideRecord"
 date: 2015-08-24T00:48:11.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c4ccee25dbd0dbc01dcaf3231f961904"
 ---
 <p><span style="font-size: 12pt;">So a different problem presented itself awhile ago, and I thought I would share the solution. </span></p><p></p><p><span style="font-size: 12pt;">How do I do a distinct on multiple fields inside of a GlideRecord? </span></p><p></p><p><span style="font-size: 12pt;">As you are aware a GlideRecord does what amounts to a SQL "SELECT * FROM...". So the problem was how do you do something like the following:</span></p><p></p><p style="padding-left: 30px;"><span style="font-family: 'courier new', courier; font-size: 12pt;">SELECT DISTINCT(*) FROM incident WHERE active=1</span></p><p></p><p><span style="font-size: 12pt;">Well, you can't exactly, but you can come close:</span></p><p></p><pre __default_attr="javascript" __jive_macro_name="code" class="jive_text_macro jive_macro_code _jivemacro_uid_14405975865113702" jivemacro_uid="_14405975865113702">

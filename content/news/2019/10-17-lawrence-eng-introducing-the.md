@@ -1,6 +1,7 @@
 ---
 title: "Introducing the Idea Portal on Now Community  why we did it and whats next"
 date: 2019-10-17T01:06:06.000Z
+authors: ["lawrence.eng"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f4735f19db684cd45ed4a851ca961942"
 ---
 <p>We are proud to announce the brand new <a href="https://community.servicenow.com/community?id&#61;ideas_list&amp;sysparm_module_id&#61;enhancement_requests" rel="nofollow">Idea Portal</a> on Now Community. The Idea Portal is a new and improved method for you to submit product enhancement requests, view what others have submitted, vote on your favorite ones, and get feedback from ServiceNow product management.</p>

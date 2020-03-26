@@ -1,6 +1,7 @@
 ---
 title: "Three Important Considerations for Customer Service Surveys"
 date: 2018-03-26T21:13:22.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7f8dccdadb05d7c04fc2f4621f961908"
 ---
 <p><img class="alignnone  wp-image-3110" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/03https://community.servicenow.com/1a7cac02db18dfc03eb27a9e0f961961-iix.jpeg" alt="1a7cac02db18dfc03eb27a9e0f961961.iix" width="335" height="447" align="left" />Can you go more than a few days without receiving a survey from one of the many companies you do business with?</p>

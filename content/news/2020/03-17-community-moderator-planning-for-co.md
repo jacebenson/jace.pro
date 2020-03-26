@@ -1,6 +1,7 @@
 ---
 title: "Planning for continuity with COVID"
 date: 2020-03-17T02:31:31.000Z
+authors: ["community.moderator"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=06a85a12dbe38c141cd8a345ca96197f"
 ---
 <p><img src="https://community.servicenow.com/b9e1be96dbab8c141cd8a345ca961932.iix" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "Make Life Easy  Create Unique Names"
 date: 2019-12-04T20:53:11.000Z
+authors: ["Thomas Davis"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=03b1aa0ddbad449c190dfb2439961976"
 ---
 <p> </p>

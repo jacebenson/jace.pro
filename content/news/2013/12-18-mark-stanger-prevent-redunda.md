@@ -1,6 +1,7 @@
 ---
 title: "Prevent Redundant Approval Requests in ServiceNow"
 date: 2013-12-17T19:28:20.000Z
+authors: ["Mark Stanger"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6bad66a9dbd0dbc01dcaf3231f9619d9"
 ---
 <p>If you're like many of the customers I've worked with, you may have dealt with the frustration of having excess or redundant approval requests come to you from ServiceNow. This happens very often simply because the same user may be responsible for various different tasks in the system. For example, on a change request, I may be asked to approve as the 'Requested by' person's manager, then again because I own one of the affected CIs, and then again because I'm a member of the Change Advisory Board! While this behavior may be desirable in certain situations, most of the time it's completely redundant and annoying to end users. If I've already indicated my approval on a change as a manager, why should I be asked to approve again later? I've come up with what I think is a pretty effective solution to this problem that I'll share here in this article.<br /><br /><a title="w.servicenowguru.com/scripting/business-rules-scripting/prevent-redundant-approval-requests-servicenow/" href="http://www.servicenowguru.com/scripting/business-rules-scripting/prevent-redundant-approval-requests-servicenow/" target="_blank">Click here to learn more at ServiceNowGuru!</a><br /><!--break--></p>

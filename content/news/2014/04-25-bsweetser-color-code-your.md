@@ -1,6 +1,7 @@
 ---
 title: "Color Code Your Counters"
 date: 2014-04-24T08:26:08.000Z
+authors: ["bsweetser"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ba4d6229dbd0dbc01dcaf3231f9619c5"
 ---
 <p>Compliance with your software vendors is a key outcome of Software Asset Management (SAM). You need to know when you are out of compliance and need to purchase more software rights, but you also want to know when you own too many rights. The default configuration for ServiceNow uses tomato red to indicate that you are not in compliance. This is fine. But it uses green to indicate that you are not within 5% of your total rights count and orange to indicate that you are within 5% of your total rights count. Some customers I work with think that those color indicators are reverse what they would like. They want to optimize the use of their licenses, so if they have too many, they are paying too much. With this in mind, they want to change the colors. This video shows how to do this.</p><p></p><p>Watch in YouTube for better resolution.</p><p></p><p><iframe src="https://youtube.com/embed/C5iTV89PA6U" width="425" height="350"/></p><p></p><p><a href="https://www.youtube.com/watch?v=C5iTV89PA6U" title="https://www.youtube.com/watch?v=C5iTV89PA6U">Color Code Your Software Counters - YouTube</a></p><p>Have you identified what, if any, buffer you want on your license count? I'd be interested to hear your policies on this in the comments below.</p>

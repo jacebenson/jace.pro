@@ -1,6 +1,7 @@
 ---
 title: "Article Security and Filtering in Knowledge v"
 date: 2016-04-21T23:21:36.000Z
+authors: ["Sarup Paul"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=264e66addbd0dbc01dcaf3231f96196c"
 ---
 <p>Knowledge v3 (released with Fuji) <a title="ocs.servicenow.com/bundle/geneva-servicenow-platform/page/product/knowledge_management/reference/r_KMv3KeyDifferences.html" href="https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/product/knowledge_management/reference/r_KMv3KeyDifferences.html" rel="nofollow">integrated User Criteria</a> into the Knowledge Management application. <a title="i.service-now.com/kb_view.do?sysparm_article&#61;KB0550924" href="https://hi.service-now.com/kb_view.do?sysparm_article&#61;KB0550924" rel="nofollow">User Criteria</a> is meant to provide more configurable access controls for a more robust<a title="ocs.servicenow.com/bundle/geneva-it-service-management/page/product/service_catalog_management/reference/r_GoodPracImpleUsrCritria.html" href="https://docs.servicenow.com/bundle/geneva-it-service-management/page/product/service_catalog_management/reference/r_GoodPracImpleUsrCritria.html" rel="nofollow"> knowledge base. </a>User Criteria allows you to choose your level of security based on groups, roles, locations etc. and are applicable at the Knowledge base level. As a part of the changes, the &#34;Role&#34; field on the article was hidden. This gives the perception that it&#39;s not feasible to configure article level security, within a single Knowledge Base.</p>

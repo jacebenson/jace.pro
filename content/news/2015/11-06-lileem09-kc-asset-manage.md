@@ -1,6 +1,7 @@
 ---
 title: "KC Asset Management User Group"
 date: 2015-11-05T21:48:29.000Z
+authors: ["lileem09"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ad6eeeaddbd0dbc01dcaf3231f961957"
 ---
 <p class="Ct" style="color: #404040; font-family: Roboto, arial, sans-serif; font-size: 13px;">Yesterday was our first official meeting, and I wanted to say thank you again to everyone who joined. A special thank you to Burns &amp; McDonnell for hosting and Doc Burnham for sharing his wealth of knowledge.</p><p></p><p>I have started a Google+ group, so we can have discussions in between meetings. No reason not to share as we go throughout the month. I also went with Google+ over keeping it on ServiceNow Community because this group is tool agnostic; I was thrilled to have four people from Cerner present!!   I attempted to find people via Google+ and invite you to the community, but I do not have everyone's email address - you can find it by searching for "Kansas City Asset Management User Group" and the tagline is "Taming the Beast" <span __jive_emoticon_name="happy" __jive_macro_name="emoticon" class="jive_emote jive_macro" data-renderedposition="128_1024_16_16" src="/8.0.1.35b65d4/images/emoticons/happy.png"></span></p><p></p><p>This online community will also help in determining when we meet again and give everyone visibility to what topics we will cover.</p><p></p><p>Feel free to invite other Asset Managers! I want this to be a group that continues to grow and learn together.</p><p></p><p>Take care and talk soon!<br/>Mel</p>

@@ -1,6 +1,7 @@
 ---
 title: "The Virtual Agent chatbot solution will change the way you handle requests in London"
 date: 2018-09-04T23:09:10.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2f99729edb58e780a8562926ca96196b"
 ---
 <p>Have you ever called a customer service number to get an answer to a question or make a request, only to be bounced from one agent to another like the ball in a pinball machine? It&#39;s just as bad on the other side. Routine IT, HR and customer service requests can bog down agents and impact your entire service operation. </p>

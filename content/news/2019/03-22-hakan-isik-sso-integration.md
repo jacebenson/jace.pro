@@ -1,6 +1,7 @@
 ---
 title: "SSO integration between ServiceNow and Azure Active Directory to use Integration Hub Azure Active Directory spoke"
 date: 2019-03-21T23:26:44.000Z
+authors: ["Hakan Isik"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ab68e646dbd0ff84fff8a345ca961906"
 ---
 <p style="text-align: justify;">Importance of cloud adoption is becoming more pressing as organizations are trying to be more agile and more efficient. And naturally AWS and Azure are the most preferred platforms when it comes to public cloud. When I look at last 3-5 years, I’ve come across various “IT” and “non-IT” scenarios organizations have been trying to move to public cloud. Among those scenarios, interestingly, I started to hear hybrid use-cases (IT/non-IT) such as onboarding/offboarding users, license assignments, role management, etc. more often lately. And since Azure Active Directory is getting more and more popular among many organizations, which can be used to support those use-cases, I thought playing with the integration between Azure AD and ServiceNow to see how we can automate some of them using Integration Hub, would be useful for many of us.</p>

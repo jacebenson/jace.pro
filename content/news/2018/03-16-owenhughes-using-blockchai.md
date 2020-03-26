@@ -1,6 +1,7 @@
 ---
 title: "Using Blockchain To Protect Your Audit Logs  A Theoretical Discussion"
 date: 2018-03-16T00:15:22.000Z
+authors: ["owenhughes"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3ebd88fedb74df402328f3231f9619f5"
 ---
 <p><strong>Introduction</strong></p>

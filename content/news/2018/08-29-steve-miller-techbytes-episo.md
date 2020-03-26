@@ -1,6 +1,7 @@
 ---
 title: "TechBytes Episode  ITSM Virtual Agent"
 date: 2018-08-29T00:35:39.000Z
+authors: ["Steve Miller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d24a47c8db1463c4a39a0b55ca9619e8"
 ---
 <p><iframe src="https://omny.fm/shows/servicenow-techbytes/episode-43-virtual-agent/embed?style&#61;artwork" width="100%" height="180"></iframe></p>

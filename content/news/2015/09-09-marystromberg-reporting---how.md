@@ -1,6 +1,7 @@
 ---
 title: "Reporting  How to Access Fields on Extended Tables"
 date: 2015-09-08T22:09:12.000Z
+authors: ["marystromberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=aedc2a65dbd0dbc01dcaf3231f96196e"
 ---
 <p>This latest ServiceNow Reporting video demonstrates how to include fields on extended tables—which are not available through dot-walking—in reports. This demo was recorded in <span style="font-size: 13.3333330154419px; line-height: 1.5em;">Fuji, and applies to releases post Fuji.</span></p><p style="font-size: 13.3333330154419px;"></p><p style="font-size: 13.3333330154419px;">Role required: report_admin</p><p></p><p></p><p><span style="font-size: 13.3333330154419px;"><em>For best video quality, increase your player resolution to 1080p.</em></span></p><p></p><p><iframe src="https://youtube.com/embed/4Iz3Y8_3yYs" width="640" height="360"/></p><p></p><p>For more information on accessing fields on extended tables, see:</p><ul><li><a title="ki.servicenow.com/index.php?title=Table_Administration" href="http://wiki.servicenow.com/index.php?title=Table_Administration">Table Administration</a></li><li><a title="ki.servicenow.com/index.php?title=Tables_and_Classes" href="http://wiki.servicenow.com/index.php?title=Tables_and_Classes">Tables and Classes</a></li></ul><p></p><p style="text-align: center;">Your feedback helps us better serve you! Did you find this video helpful? Leave us a comment to tell us why or why not.</p>

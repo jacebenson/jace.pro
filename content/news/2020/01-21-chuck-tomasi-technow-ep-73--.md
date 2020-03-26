@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Build Apps Faster with Studio "
 date: 2020-01-20T21:40:50.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9f5fe058dba2c0506064eeb5ca96198f"
 ---
 <p><img style="padding-right: 8px;" src="3e1d4b52dbdc3fc45129a851ca96192a.iix" alt="expert-logo-2.png" align="left" />Kreg Steppe, Services Program Manager at ServiceNow, leads you through everything you need to know to get started using Studio, ServiceNow&#39;s built-in Integrated Development Environment (IDE). Learn how to build apps fast, manage your application files, and deploy your app to other instances.</p>

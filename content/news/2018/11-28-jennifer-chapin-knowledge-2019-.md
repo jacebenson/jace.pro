@@ -1,6 +1,7 @@
 ---
 title: "Knowledge   Call for Content is open"
 date: 2018-11-28T02:45:44.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dc03cc29db826700fa192183ca96193f"
 ---
 <p><span style="text-decoration: underline;">Knowledge 2019 - Call for Content</span></p>

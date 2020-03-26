@@ -1,6 +1,7 @@
 ---
 title: "Automation and AI only works with help from customer service agents"
 date: 2020-02-10T23:07:40.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b39cc903db36405c4819fb243996195e"
 ---
 

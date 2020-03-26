@@ -1,6 +1,7 @@
 ---
 title: "Community Code Snippets  GlideRecord  Bracket Notation Reference vs eval"
 date: 2015-08-25T21:58:04.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=34bc6a25dbd0dbc01dcaf3231f96197c"
 ---
 <p><span style="font-size: 10pt; line-height: 1.5em;">I see this particular coding technique from time-to-time.   Use of the eval(...) statement to be able to dynamically get and/or set a GlideRecord record field.</span></p><p></p><pre __default_attr="javascript" __jive_macro_name="code" class="jive_text_macro jive_macro_code _jivemacro_uid_14405218636407811" jivemacro_uid="_14405218636407811">

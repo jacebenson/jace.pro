@@ -1,6 +1,7 @@
 ---
 title: "Using Asynchronous Calls in the Classic Mobile UI"
 date: 2015-09-18T02:30:05.000Z
+authors: ["John Armstrong"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e9dda6e9dbd0dbc01dcaf3231f961983"
 ---
 <p>One of the important differences to note about scripting in the Mobile UI is that synchronous <a title="ki.servicenow.com/index.php?title&#61;Mobile_Client_GlideForm_(g_form)_Scripting#Do_Not_Make_Synchronous_JavaScript_Calls" href="http://wiki.servicenow.com/index.php?title&#61;Mobile_Client_GlideForm_%28g_form%29_Scripting#Do_Not_Make_Synchronous_JavaScript_Calls" rel="nofollow">javascript</a> or <a title="ki.servicenow.com/index.php?title&#61;Mobile_Client_GlideForm_(g_form)_Scripting#Do_Not_Make_Synchronous_GlideRecord_Calls" href="http://wiki.servicenow.com/index.php?title&#61;Mobile_Client_GlideForm_%28g_form%29_Scripting#Do_Not_Make_Synchronous_GlideRecord_Calls" rel="nofollow">glideRecord </a>calls are not allowed.   In practice, it&#39;s pretty easy to script around, and the product documentation provides examples why this is done, and how it works.</p>

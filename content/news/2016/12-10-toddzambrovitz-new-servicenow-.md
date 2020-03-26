@@ -1,6 +1,7 @@
 ---
 title: "NEW ServiceNow Script Debugger  Killing bugs is now a team sport"
 date: 2016-12-10T00:43:38.000Z
+authors: ["toddzambrovitz"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5dbcaa25dbd0dbc01dcaf3231f9619a3"
 ---
 <p>Nothing puts the brakes on productivity like waiting for a debug session. Debugging slows down the development cycle and burns a lot of cycles that would otherwise accelerate delivery. Fortunately, ServiceNow just released the new Script Debugger with the <a title="" _jive_internal="true" href="/community/product-launch/blog/2017/01/09/istanbul-release-blog-series">Istanbul release</a>.</p><p></p><p><img   alt="Script Debugger.png" class="image-1 jive-image" height="212" src="96c97335db14d3041dcaf3231f961915.iix" style="height: 212px; width: 888.1081081081081px;" width="888"/></p><p></p><p></p><p>Now, more than one user can debug at the same time while debugging across dev, test and prod instances. And, you can pause only the transaction and not the entire instance or session. Debug any server side script during live execution allowing other users to code and debug at the same time.</p><p></p><p>Please see the <a title="ocs.servicenow.com/bundle/istanbul-servicenow-platform/page/script/debugging/concept/script-debugger.html" href="https://docs.servicenow.com/bundle/istanbul-servicenow-platform/page/script/debugging/concept/script-debugger.html">Script Debugger documentation</a> for further details.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Now Learning Blog  So you want to be a ServiceNow Architect Part "
 date: 2020-03-10T18:53:16.000Z
+authors: ["Julie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=43363518db6f84d0d58ea345ca961931"
 ---
 <p class="p1"><span style="font-family: helvetica; font-size: 14pt;">Industry Best Practices and Core Competencies for a ServiceNow Architect</span></p>

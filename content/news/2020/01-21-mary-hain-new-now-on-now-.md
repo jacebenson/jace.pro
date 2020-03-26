@@ -1,6 +1,7 @@
 ---
 title: "NEW Now on Now webinar How we achieved a  CSAT with an integrated customer support experience Tues Jan  at  am PT pm ET"
 date: 2020-01-21T05:16:39.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=94b71e58db228450feb1a851ca9619c5"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/cdc69694db228450feb1a851ca96192d.iix" /></p>

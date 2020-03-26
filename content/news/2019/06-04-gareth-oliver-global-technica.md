@@ -1,6 +1,7 @@
 ---
 title: "Global Technical Support Orientation Webinar"
 date: 2019-06-03T08:25:58.000Z
+authors: ["gareth.oliver"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9eef1c31dbf137004819fb24399619ca"
 ---
 <p>Are you new to ServiceNow?</p>

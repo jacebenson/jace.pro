@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow HR Community Networking Event November  "
 date: 2018-10-31T01:23:45.000Z
+authors: ["juliegardiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0d71b758db6da344f0612183ca9619f4"
 ---
 <h3><strong>Are you in the Bay Area and a current customer of our HR product? If so, please join us at the ServiceNow HR Community Networking Event on Thursday, November 8.</strong></h3>

@@ -1,6 +1,7 @@
 ---
 title: "Lessons Learned Todoist to ServiceNow Integration"
 date: 2018-08-22T20:52:36.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=10bd9306db40a704a39a0b55ca9619af"
 ---
 <div>Process improvement opportunities exist all around us - all you had to do is look. In most cases, I look to ServiceNow as my solution to make a process or procedure more efficient and effective. My latest project was to do a bi-directional integration between ServiceNow and Todoist, the popular task management application. Below are some of the lessons I learned along the way - and you know me, when I learn something, I share it.</div>

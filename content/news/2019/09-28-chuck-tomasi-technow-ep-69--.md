@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Take a tour of Guided App Creator"
 date: 2019-09-28T03:12:25.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=422a751fdb4848106064eeb5ca961933"
 ---
 <p><img style="padding-right: 8px;" src="3e1d4b52dbdc3fc45129a851ca96192a.iix" alt="expert-logo-2.png" align="left" />Guided Application Creator is a great way to set up applications on the Now Platform®. In minutes, you can import a spreadsheet, extend existing tables, create new tables, define security, and generate multiple experiences to get your app started quickly. If you like, you can add more functionality later. Join the TechNow team and discover how easy it is to use Guided App Creator.</p>

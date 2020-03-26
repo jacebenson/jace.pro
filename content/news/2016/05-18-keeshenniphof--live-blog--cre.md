@@ -1,6 +1,7 @@
 ---
 title: "Live Blog CreatorCon Hackathon "
 date: 2016-05-18T03:07:19.000Z
+authors: ["keeshenniphof"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=26ac6625dbd0dbc01dcaf3231f96191d"
 ---
 <p><span style="font-size: 18.6666660308838px; font-family: arial, helvetica, sans-serif;"><strong><strong><strong>[5/19, 12:45pm PT — END OF LIVE BLOG] </strong></strong></strong></span></p>

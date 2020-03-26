@@ -1,6 +1,7 @@
 ---
 title: "Call for speakers at the next NJ SNUG"
 date: 2018-07-24T22:02:50.000Z
+authors: ["valbonasokoli"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2ea7da74db67dfc0e0e80b55ca961922"
 ---
 <p>Good Afternoon! </p>

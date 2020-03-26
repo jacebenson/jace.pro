@@ -1,6 +1,7 @@
 ---
 title: "Proof of Concept The Augmented Reality Assistant ARA for ServiceNow"
 date: 2018-07-10T03:23:44.000Z
+authors: ["darius.koohmarey"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4541dec0dbd39b002be0a851ca96195a"
 ---
 <p class="p1">In this blog, I’m excited to share some insights and proof of concepts around a technology that’s been making waves in the consumer space: Augmented Reality. In this blog covering a POC I&#39;ve named the Augmented Reality Assistant (ARA) for ServiceNow ITSM, I’ll cover:</p>

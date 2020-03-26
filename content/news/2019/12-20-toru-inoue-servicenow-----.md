@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow "
 date: 2019-12-19T14:21:08.000Z
+authors: ["Toru Inoue"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4ed7d671dbf10c50414eeeb5ca9619e3"
 ---
 <p>ServiceNowでは、お客様のServiceNowインスタンスの健全性をチェックするHealthScanサービスを提供しています。数千のインスタンスの分析結果を元に作り上げたベストプラクティスをベースに、お客様のインスタンスを素早くスキャンし、5つの観点でインスタンスの健全性を評価します。</p>

@@ -1,6 +1,7 @@
 ---
 title: "What is the ServiceNow OEM program  technology"
 date: 2020-01-01T01:56:50.000Z
+authors: ["David.Gatley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c22a26711bca4cd0ada243f6fe4bcba5"
 ---
 <p>Platform As A Service. That&#39;s it, that&#39;s all OEM is. I&#39;ll elaborate:</p>

@@ -1,6 +1,7 @@
 ---
 title: "Seven steps to do a better discovery"
 date: 2018-03-17T10:50:02.000Z
+authors: ["rondejong"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5d98678bdbb85780fac7f4621f961945"
 ---
 <p><strong>To generate a stronger Value Proposition and boost the changes that your get the right initiatives started is increased by doing a proper discovery. This article will help in planning and executing a discovery.</strong></p>

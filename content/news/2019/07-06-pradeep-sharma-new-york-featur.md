@@ -1,6 +1,7 @@
 ---
 title: "New York Features for Store Developers"
 date: 2019-07-06T00:28:04.000Z
+authors: ["Pradeep Sharma"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=abfe2818db667b401cd8a345ca9619a1"
 ---
 <p><span style="font-family: helvetica;">When New York release is around the corner, it’s that time of year again for us to learn about the new features, enhancements, and APIs that may be applicable to someone developing an application to list on the store or OEM. I&#39;m very excited and want to share with you about the followings.</span></p>

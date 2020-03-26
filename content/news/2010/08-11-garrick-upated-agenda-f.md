@@ -1,6 +1,7 @@
 ---
 title: "Upated Agenda for OLUG next Friday August th"
 date: 2010-08-11T02:08:16.000Z
+authors: ["Garrick"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7e5eaaaddbd0dbc01dcaf3231f9619fc"
 ---
 <p>As we get a little closer I wanted to share a quick update on how the agenda for the 20th is shaping up. We may have a few updates in the morning to the agenda and announcements from our partners in the community, like itSMF. I look forward to seeing everyone at Dublin Methodist on the 20th and will encourage you to register if you haven't already so that we can get a close nose count for the lunch hour. Registration and more details are available <strong><a title="mmunity.service-now.com/olug-gathering-august-20th-dublin-ohio-save-date" href="http://community.service-now.com/olug-gathering-august-20th-dublin-ohio-save-date">here.</a></strong> <br /><br />10:30 Check in and networking <br /><br />11:00 Service-now.com update <br /><br />11:15 Workforce Mgt &amp; Time recording - John Maneely Company<br /><br />Noon — 1 Lunch, Maryville overview &amp; networking<br /><br />1:00 Project Management - OhioHealth and Service-now.com<br /><br />2:00 Break<br /><br />2:15 Service Portfolio Management<br /><br />3:00 IT Cost Management <br /><br />3:45 Q&amp;A, Door prizes and wrap up<br /><br />4ish Happy Hour</p>

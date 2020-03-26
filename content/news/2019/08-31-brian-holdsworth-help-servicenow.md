@@ -1,6 +1,7 @@
 ---
 title: "Help ServiceNow Name and Describe Future Platform Functionality"
 date: 2019-08-30T20:42:48.000Z
+authors: ["Brian Holdsworth"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7174d856db67b3844819fb2439961956"
 ---
 <p>ServiceNow is working on future platform development tools and we would like your feedback on possible ways we could name and describe platform functionality and development activities from within those tools.  Your feedback will help make the future products more intuitive and usable for you.</p>

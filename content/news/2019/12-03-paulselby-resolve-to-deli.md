@@ -1,6 +1,7 @@
 ---
 title: "Resolve to deliver more proactive customer service in "
 date: 2019-12-02T23:38:03.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=524470a0dbed441c190dfb243996192c"
 ---
 <p><img class="wp-image-4304" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/12/dominos-1416537.jpg" alt="" width="421" height="168" align="right" /></p>

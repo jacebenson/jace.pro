@@ -1,6 +1,7 @@
 ---
 title: "The Enterprise Cloudcast Episode  Using Machine Learning on the NOW Platform for Predictive Modeling by Allan Leinwand"
 date: 2017-10-17T02:32:46.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=690daaa5dbd0dbc01dcaf3231f961983"
 ---
 <p>Are you swimming in a Data Lake or flowing with a Data Stream? In this episode, Allan continues discussing digital transformation and the NOW Platform's Intelligent Automation System. Use machine learning to customize and tailor data information to your business needs to accelerate productivity and revenues.</p><p></p><p>A survey report on the State of Work reveals that work is accelerating worldwide, that greater automation is needed to cope with rising work levels, and that automation delivers financial growth.   Highly automated companies are 6x more likely to see revenue growth of 15%+</p><p></p><p>Ready the study <a title="ww.servicenow.com/lpwhp/state-of-work-2017.html?referenceSource=community" href="https://www.servicenow.com/lpwhp/state-of-work-2017.html?referenceSource=community">Today's State of Work: At The Breaking Point</a></p><p></p><p><iframe frameborder="0" height="180" src="https://omny.fm/shows/servicenow-cloudcast/the-enterprise-cloudcast-episode-11-machine-learni/embed?style=artwork" width="100%">

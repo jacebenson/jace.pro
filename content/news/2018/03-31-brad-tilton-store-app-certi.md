@@ -1,6 +1,7 @@
 ---
 title: "Store App Certification for Knowledge Deadline  "
 date: 2018-03-30T19:24:44.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=630b1ce3dbc953084e1df4621f9619cf"
 ---
 <h4>Attention Technology Partners,</h4>

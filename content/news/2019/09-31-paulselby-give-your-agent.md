@@ -1,6 +1,7 @@
 ---
 title: "Give your agents a real gift for Customer Service Week"
 date: 2019-09-30T21:11:07.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=be348c9cdbd08c506064eeb5ca96195a"
 ---
 <p><img class="wp-image-4065" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/09/jason-leung-xaanw0s0pmk-unsplash.jpg" alt="" width="370" height="247" align="right" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "Resolve to improve customer service and experience in "
 date: 2019-12-09T22:41:37.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=108a2c72db294810190dfb243996198c"
 ---
 <p><img class="wp-image-4329" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2019/12/people-2569234.jpg?w&#61;1024" alt="" width="315" height="215" align="left" /></p>

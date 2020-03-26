@@ -1,6 +1,7 @@
 ---
 title: "Respecting privacy while offering a better customer experience"
 date: 2019-06-03T21:28:28.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e803d375db3d3f00e0e80b55ca96196e"
 ---
 <div class="wp-block-image"><span style="font-size: 10pt;"><img class="wp-image-3665" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/06/regulation-3246979.jpg?w&#61;1024" alt="" width="383" height="179" align="left" /></span></div>

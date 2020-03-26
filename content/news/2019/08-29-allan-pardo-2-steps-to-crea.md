@@ -1,6 +1,7 @@
 ---
 title: " Steps to Create a Dynamic Filter that Returns Groups Logged in Users Belong to"
 date: 2019-08-28T06:36:33.000Z
+authors: ["Allan Pardo"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8a9fb255db2bf3040be6a345ca96193d"
 ---
 <p style="text-align: left;">Dynamic filter options enhance filtering by allowing users to run existing script includes or JavaScript against a reference field within condition builders and dynamic reference qualifiers.</p>

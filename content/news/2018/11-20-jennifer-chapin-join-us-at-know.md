@@ -1,6 +1,7 @@
 ---
 title: "Join us at Knowledge  Registration is now open"
 date: 2018-11-20T00:04:13.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d8511ef2dbb1ef00107d5583ca961925"
 ---
 <p>Today’s the day!  <a href="https://knowledge.servicenow.com/" rel="nofollow">Knowledge 2019</a> is coming May 5 – 9, 2019 in Las Vegas and <a href="https://signon.service-now.com/knowledge_login.do?RelayState&#61;%252F%252Fapp%252Fservicenowexternalprod_g2pknowledgeregistrationhotel_1%252Fexkgr9t5oxldsjwYX0x7%252Fsso%252Fsaml%253FSAMLRequest%253DfZFfT8IwFMW%25252FytJX3b%25252FKABu2ZIFolqAhoL4upb" rel="nofollow">registration is now open. </a> </p>

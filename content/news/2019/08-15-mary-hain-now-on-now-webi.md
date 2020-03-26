@@ -1,6 +1,7 @@
 ---
 title: "Now on Now webinar Improving your service desk experience using machine learning Tues Aug "
 date: 2019-08-14T23:08:56.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1e7c12c9db9fbb00190dfb2439961981"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/a35c124ddb9fbb00190dfb2439961904.iix" /></p>

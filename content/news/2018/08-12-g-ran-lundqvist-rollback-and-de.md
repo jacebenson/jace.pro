@@ -1,6 +1,7 @@
 ---
 title: "Rollback and delete recovery"
 date: 2018-08-12T01:47:17.000Z
+authors: ["Göran Lundqvist"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4ea77fe6db7f9f04e0e80b55ca96191b"
 ---
 <p>When ServiceNow releases a new version there are always functionality that you don&#39;t read about, but suddenly pops up on you screen. And that was exactly what happen to me. I was just playing around with Scripts - Background and suddenly noticed a new line after I ran the code saying &#34;Script execution history and recovery available here&#34;.</p>

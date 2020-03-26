@@ -1,6 +1,7 @@
 ---
 title: "Loaner Request System"
 date: 2011-09-24T01:26:08.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f36caea1dbd0dbc01dcaf3231f9619db"
 ---
 <p>My award winning loaner request system is public. I was honored that this entry won first place at the inaugural Innovation of the Year Award at Knowledge &#39;10. After negotiations with my former employer, re-writing the product from the ground up, and a bit of beta testing (thank you everyone)... It is now available from the attachments list below. I hope you find it useful and I look forward to your feedback.</p>

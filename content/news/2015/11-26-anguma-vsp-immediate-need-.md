@@ -1,6 +1,7 @@
 ---
 title: "Immediate need for ITSM professionals at VSP Global in Rancho Cordova"
 date: 2015-11-25T09:08:30.000Z
+authors: ["anguma@vsp"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=beedaee9dbd0dbc01dcaf3231f9619f7"
 ---
 <p>Sacramento ServiceNow Group,</p><p></p><p>VSP Global is transforming their IT organization with a focus in IT Service Management supported by ServiceNow.   If you are looking for an exciting opportunity to reshape how a company delivers IT services contact me for additional information.   I have immediate needs for experienced Incident, Change and Problem Managers to work out of our Rancho Cordova office.   Get in now while we are gathering requirements for and designing our new SerivceNow instance.</p><p></p><p>Job postings can be viewed on our careers page at (see Req ID's 702, 703 and 704)</p><p><a href="https://vspglobal.com/cms/careers/" title="https://vspglobal.com/cms/careers/">Jobs at VSP Global - Careers that Make a Difference</a> </p><p></p><p>Angus MacDonald</p><p>Sr. Manager - IT Service Management</p><p>VSP Global</p><p><a title="k-email-small" class="jive-link-email-small" href="mailto:anguma@vsp.com">anguma@vsp.com</a></p>

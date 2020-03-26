@@ -1,6 +1,7 @@
 ---
 title: "How not to do ServiceNow  Maximum confusion"
 date: 2019-05-13T11:02:39.000Z
+authors: ["Fabian Kunzke"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e46a7c4fdb993f0c14d6fb243996199a"
 ---
 <h1 class="ng-scope">The series</h1>

@@ -1,6 +1,7 @@
 ---
 title: "Errata Email Marketing Lembrete SNUG So Paulo"
 date: 2019-03-11T18:31:53.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3605c23edbc8bb0014d6fb243996199d"
 ---
 <p><span style="font-size: 12pt;">Prezados membros da Comunidade, </span></p>

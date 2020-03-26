@@ -1,6 +1,7 @@
 ---
 title: "PagerDuty At Knowledge  Find us at Booth "
 date: 2019-05-01T21:26:18.000Z
+authors: ["Hadijah Creary"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c7065d5bdbc93b44d58ea345ca961990"
 ---
 <p><span style="font-weight: 400;">Today’s organizations have made significant investments in</span><a href="https://www.pagerduty.com/partners/servicenow/" rel="nofollow"> <span style="font-weight: 400;">ServiceNow</span></a><span style="font-weight: 400;"> to streamline business and technology workflows, drive down cost and risk, and ensure IT is delivering an amazing service experience to both internal and external customers. However, as technology requirements continue to shift, the ability for IT to react in real time to the volume of data becomes increasingly difficult.</span></p>

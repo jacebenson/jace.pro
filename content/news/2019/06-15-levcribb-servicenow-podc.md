@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Podcast EMEA ep  K Highlights Chris Pope  Rhiannon Prothero"
 date: 2019-06-14T20:19:06.000Z
+authors: ["levcribb"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b79ceb55db4ab3c014d6fb2439961994"
 ---
 <p><iframe title="ServiceNow Podcast EMEA ep1 - K19 Highlights" src="https://omny.fm/shows/servicenow-cloudcast/servicenow-podcast-emea-ep1-k19-highlights/embed" width="100%" height="180"></iframe></p>

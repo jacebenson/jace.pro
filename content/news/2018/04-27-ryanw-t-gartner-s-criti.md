@@ -1,6 +1,7 @@
 ---
 title: "Gartners Critical Capabilities for SAM"
 date: 2018-04-27T04:31:49.000Z
+authors: ["ryanw-t"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cd3bd558db755b40c310fb651f96199f"
 ---
 <p style="padding-left: 120px;"><img style="max-width: 100%; max-height: 480px;" src="c51819dcdb355b40c310fb651f961963.iix" /></p>

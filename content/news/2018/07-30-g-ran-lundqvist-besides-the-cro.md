@@ -1,6 +1,7 @@
 ---
 title: "Besides the Crown Jewels what does London have for us"
 date: 2018-07-29T15:19:24.000Z
+authors: ["Göran Lundqvist"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ed4bae5adbef17449d612926ca9619ea"
 ---
 <p>It&#39;s time for another drill down of a new ServiceNow release. I kind of skipping all of those big things since they being covered both inside and out. I try to focus on the smaller things that the release have for us and hopefully can give us a big &#34;YES!&#34; or &#34;Finally!&#34;. I did it for Jakarta and Kingston which you can find here:</p>

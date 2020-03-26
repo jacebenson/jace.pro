@@ -1,6 +1,7 @@
 ---
 title: "Case Study How VITAS Healthcare is Improving Patient Care with Mobile Management Program on ServiceNow"
 date: 2019-02-12T04:33:54.000Z
+authors: ["MobiChord"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=29943b71dbebe780fa192183ca961948"
 ---
 <p><span style="font-weight: 400;">VITAS Healthcare</span><span style="font-weight: 400;"> is the leading provider of hospice care in the United States. They operate 47 programs in more than 14 states and employ over 12,000 people. VITAS is a subsidiary of publicly traded Chemed Corporation.</span></p>

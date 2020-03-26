@@ -1,6 +1,7 @@
 ---
 title: "Project Portfolio Management  Basic input for setting up a project"
 date: 2019-06-25T00:57:58.000Z
+authors: ["Sheila Llewellyn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=565c44f0db967b40a39a0b55ca96193b"
 ---
 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Project Management requires collaboration with all lines of business who have a stake in the outcome of a project. There has been a lot of thought around what deliverables are expected, when the deliverables will be put in place, and how much the project will cost. As the PMs, we are responsible for setting up projects that give the stakeholders a clear, precise view of how their projects are progressing. </span></p>

@@ -1,6 +1,7 @@
 ---
 title: "ServiceKnowHow Coding Blogs"
 date: 2019-02-21T19:16:14.000Z
+authors: ["Paul Morris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=12d41149db7b67805129a851ca961966"
 ---
 <p>Please see below for a list of Blog Posts I have written to help with Scripting and Development Practices on the ServiceNow platform:</p>

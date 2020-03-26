@@ -1,6 +1,7 @@
 ---
 title: "SNUG en Mexico ha sido pospuesto para Setiembre del "
 date: 2015-06-17T22:10:03.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=df9ceee1dbd0dbc01dcaf3231f9619ca"
 ---
 <p>Estimada Comunidad Mexicana de Usuarios ServiceNow, </p><p></p><p>Queremos informarles que el evento de <strong style="color: #ff0000;">SNUG en México</strong> <strong style="color: #ff0000;">ha sido pospuesto para Setiembre del 2015.</strong> Estamos confirmando la disponibilidad del Hotel donde se llevará a cabo el evento y confirmaremos la fecha en breve.   </p><p></p><p>Pedimos disculpas por cualquier inconveniente que esto haya causado. Queremos asegurarnos que este sea un gran evento para nuestros clientes y hemos recibido retroalimentación que Setiembre es una mejor época para llevarlo a cabo.</p><p></p><p>Muchas gracias,  ¡Nos vemos pronto!</p><p></p><p><span class="short_text" lang="es"><span class="hps">En caso de duda</span> <span class="hps">póngase en contacto con</span></span> <a title="k-email-small" class="jive-link-email-small" href="mailto:caterine.alvarenga@servicenow.com">caterine.alvarenga@servicenow.com</a></p><p></p><p>Equipo ServiceNow </p>

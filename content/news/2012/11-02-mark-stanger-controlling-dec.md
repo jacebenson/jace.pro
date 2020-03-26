@@ -1,6 +1,7 @@
 ---
 title: "Controlling decimal field places"
 date: 2012-11-01T06:50:31.000Z
+authors: ["Mark Stanger"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a9bd6aa9dbd0dbc01dcaf3231f9619e6"
 ---
 <p>Here's a quick post on a simple topic that should save people some frustration. I've seen questions for a while now about setting up the number of decimal places for a field in ServiceNow. ServiceNow has a 'Decimal' field type that can be used for this, but that field type limits you to no more than two decimal places unless you understand the trick to adding more. In this post I'll show you the trick to controlling the number of decimal places for a decimal field in ServiceNow.<br /><center><br /><a href="http://www.servicenowguru.com/system-definition/controlling-decimal-field-places/"><img src="http://www.servicenowguru.com/wp-content/uploads/2012/10/decimalPlaces-300x204.jpg" alt="Decimal Places" title="Decimal Places" width="300" height="204" class="aligncenter size-medium wp-image-4643" /></a><br /><br /><a title="w.servicenowguru.com/system-definition/controlling-decimal-field-places/" href="http://www.servicenowguru.com/system-definition/controlling-decimal-field-places/">Click here to read more at ServiceNowGuru!</a><br /></center><br /><!--break--></p>

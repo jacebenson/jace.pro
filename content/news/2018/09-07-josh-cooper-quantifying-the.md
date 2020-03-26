@@ -1,6 +1,7 @@
 ---
 title: "Quantifying the Value of Performance Analytics  Request Fulfillment"
 date: 2018-09-06T23:10:06.000Z
+authors: ["Josh Cooper"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f40d814fdbdc2b481cd8a345ca96195d"
 ---
 <p>One of the things that’s always tough is to quantify the value added by an analysis tool. When used correctly, tools like ServiceNow’s Performance Analytics can result in savings of anywhere from thousands to millions of dollars depending on the size and scale and process in question. But why is it so hard to quantify?</p>

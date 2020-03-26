@@ -1,6 +1,7 @@
 ---
 title: "Higher Education Special Interest Group at Knowledge"
 date: 2014-04-25T08:58:01.000Z
+authors: ["sheila.pickett"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9a2d66e5dbd0dbc01dcaf3231f9619bf"
 ---
 <p>We are looking forward to seeing you at our annual user conference, Knowledge14!</p><p></p><p>Higher Education is one of the largest segments of the ServiceNow community and, just for you, we're hosting an exclusive session called "The Makings of a Modern Campus." A distinguished panel of IT leaders in Higher Education will discuss how they are automating and managing service relationships across their campuses.   Join us to learn how these institutions are transforming the delivery of IT services and other shared services to support the university's core mission of research and education.</p><p></p><p>Seats are limited. Reserve your seat today by adding this lunchtime session to your agenda through the <a title="event.regsvc.com/?dbGuid=E5A72BC7-3C81-43DE-8EB5-79A91C3778C0&eventID=2" href="http://myevent.regsvc.com/?dbGuid=E5A72BC7-3C81-43DE-8EB5-79A91C3778C0&amp;eventID=2">Knowledge14 Agenda Builder.</a></p><p></p><p>Date:                   Wednesday, April 30, 2014</p><p>Time:                   12:20 - 1:30pm PST<br/>Location:       Moscone South, Gateway Ballroom, Room 104</p>

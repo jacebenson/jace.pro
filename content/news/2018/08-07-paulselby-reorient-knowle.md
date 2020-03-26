@@ -1,6 +1,7 @@
 ---
 title: "Reorient Knowledge to Drive Greater Customer Satisfaction"
 date: 2018-08-06T21:46:44.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e9a09949db7b57400be6a345ca96197f"
 ---
 <p><img class="  wp-image-3270 alignleft" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2018/08/tim-graf-229428-unsplash.jpg" alt="tim-graf-229428-unsplash" width="365" height="243" align="left" /> Most companies have recognized the value of investing in <a href="https://en.wikipedia.org/wiki/Knowledge_management" target="_blank" rel="nofollow">knowledge management</a> (or KM), especially as part of their customer service strategy. It provides an always-available and ever-expanding repository of solutions accessible to customers and agents alike. It also reduces the impact of &#34;information loss&#34; for companies because, though staffing may change and skilled agents move on, solutions are preserved.</p>

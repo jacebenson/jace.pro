@@ -1,6 +1,7 @@
 ---
 title: "Migrating Projects to ServiceNow  Mass Baselines"
 date: 2018-10-25T22:11:17.000Z
+authors: ["Robert Fedoruk"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0d75117edb5563c0107d5583ca961948"
 ---
 <p>I&#39;m spending significant time researching easier ways to migrate projects from other systems into ServiceNow.  Usually a fundamental difference in how constraints, schedules, and/or predecessor &amp; successor relationships are handled causes schedule &#34;shift&#34; after migration.  </p>

@@ -1,6 +1,7 @@
 ---
 title: "Customer Success  Customer Success Center"
 date: 2019-11-11T14:19:30.000Z
+authors: ["Takeshi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6f0baa211b490890a59033f2cd4bcbe4"
 ---
 <p class="p1"><span style="font-size: 24pt;"><strong>本日お伝えしたい事</strong></span></p>

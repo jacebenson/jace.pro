@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow support for your COVID response"
 date: 2020-03-18T17:18:13.000Z
+authors: ["runemehlum"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=783de6721be30494fff162c4bd4bcb70"
 ---
 <p>Hei</p>

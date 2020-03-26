@@ -1,6 +1,7 @@
 ---
 title: "Madrid enhancements to Security Operations bring easy playbook creation and better vulnerability prioritization and visibility"
 date: 2019-02-20T02:00:53.000Z
+authors: ["janenec"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=de4e94a8db37e34023f4a345ca96193d"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.comhttps://community.servicenow.com/e0dfe751db88ff48190dfb24399619f6.iix" /></p>

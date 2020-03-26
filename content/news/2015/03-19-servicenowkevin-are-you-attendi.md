@@ -1,6 +1,7 @@
 ---
 title: "Are you attending Knowledge  Join the KM  SIG session"
 date: 2015-03-19T00:22:07.000Z
+authors: ["servicenowkevin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=632e6a6ddbd0dbc01dcaf3231f961958"
 ---
 <p>If you're attending K15, you should make a plan to attend the <a title="nowledge.servicenowevents.com/connect/search.ww#loadSearch-searchPhrase=knowledge&searchType=session&tc=0&sortBy=&p=&i(10625)=&i(10626)=&i(10627)=" href="https://knowledge.servicenowevents.com/connect/search.ww#loadSearch-searchPhrase=knowledge&amp;searchType=session&amp;tc=0&amp;sortBy=&amp;p=&amp;i(10625)=&amp;i(10626)=&amp;i(10627)=">Knowledge Management SIG</a> event being held on April 21.</p><p></p><p><a title="mike.malcangio" __default_attr="2016" __jive_macro_name="user" class="jive_macro_user jive_macro" data-objecttype="3" data-orig-content="mike.malcangio" href="/community?id=community_user_profile&user=1b025ae1dbd81fc09c9ffb651f961929">mike.malcangio</a> is moderating a QnA session that will have some customers and myself as panelists. He'll also do an overview of the roadmap for future versions of Knowledge Management. At the end of the QnA, there will be some time for networking, asking questions to us individually, and, of course, a free lunch!</p><p></p><p>I'm looking forward to meeting some of you at the event.</p><p></p><p>Are any of you planning to attend?</p>

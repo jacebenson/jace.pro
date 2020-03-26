@@ -1,6 +1,7 @@
 ---
 title: " Tips to Build Great KPIs"
 date: 2018-10-16T21:13:40.000Z
+authors: ["Andrew Marwan"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e5f1367bdb01a3402be0a851ca9619e3"
 ---
 <p>Simply put, a KPI (key performance indicator) should help you and your team understand whether you’re taking the right path toward your strategic goals. But how do you know whether your KPI is <em>really</em> building that understanding?  There are 3 key steps to assessing whether or not your KPI is on point.</p>

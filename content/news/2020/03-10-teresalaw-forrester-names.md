@@ -1,6 +1,7 @@
 ---
 title: "Forrester Names ServiceNow a Leader in The Forrester Wave for Governance Risk and Compliance Platforms Q "
 date: 2020-03-09T23:28:41.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a7aba5c8db2b8c904819fb243996196b"
 ---
 <p>I am excited to share that ServiceNow has been named a Leader in the Forrester Wave™ for Governance, Risk, and Compliance Platforms! <a name="_ftnref1"></a><a href="https://www.servicenow.com/lpayr/forrester-wave-leader-grc.html" rel="nofollow">[1]</a>    We’re humbled by the great work our customers and partners are doing every day with our GRC solutions and the Now Platform.    </p>

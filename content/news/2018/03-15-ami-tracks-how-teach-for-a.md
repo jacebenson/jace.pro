@@ -1,6 +1,7 @@
 ---
 title: "How Teach For America Consistently Achieves  Accuracy During IT Asset Audits"
 date: 2018-03-15T01:29:59.000Z
+authors: ["AMI Tracks"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ca351392db7853802e247a9e0f96194a"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="a22de752dbb493802e247a9e0f9619f9.iix" /></p>

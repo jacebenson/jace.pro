@@ -1,6 +1,7 @@
 ---
 title: "Improve your style Part   Abbreviations and why you should stop using them"
 date: 2018-04-16T15:20:15.000Z
+authors: ["Fabian Kunzke"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c4268330dbad5f802e247a9e0f9619f0"
 ---
 <h3>The Series</h3>

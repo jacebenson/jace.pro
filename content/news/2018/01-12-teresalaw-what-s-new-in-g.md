@@ -1,6 +1,7 @@
 ---
 title: "Whats New in Governance Risk and Compliance in the Kingston Release"
 date: 2018-01-11T22:25:45.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=86ac2625dbd0dbc01dcaf3231f961933"
 ---
 <table class="jiveBorder" style="border: 1px solid #ffffff; width: 1188px; height: 160px;" border="1"><tbody><tr><td style="padding: 6px;"><img class="image-13 jive-image" style="width: 430px; height: 120.677px;" src="207a888edb5cdb048c8ef4621f961919.iix" alt="Kingston banner for blog.jpg" width="430" height="121" /></td><td style="padding: 6px;">

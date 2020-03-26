@@ -1,6 +1,7 @@
 ---
 title: "A dozen reasons your customer service agent retention might be faltering"
 date: 2018-11-19T22:55:23.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bb818efadbb123401089e15b8a9619cc"
 ---
 <div class="wp-block-image"><img style="max-width: 100%; max-height: 480px; float: left;" src="28a346f6dbf16f00fa192183ca96198b.iix" width="377" height="251" />I recently attended the <a href="https://www.icmi.com/Contact-Center-Demo-Conference" target="_blank" rel="nofollow">ICMI Contact Center Demo</a> conference. While I was there representing my company <a href="https://www.servicenow.com/products/customer-service-management.html" target="_blank" rel="nofollow">ServiceNow</a> at the vendor expo, I had the opportunity to attend the keynote and breakout sessions and get a pulse on what is keeping many contact center leaders up at night. One recurring theme was agent retention.</div>

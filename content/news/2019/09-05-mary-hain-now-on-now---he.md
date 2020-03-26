@@ -1,6 +1,7 @@
 ---
 title: "Now on Now  Hear about the ServiceNow Agile transformation journey Thurs Sept  am PT"
 date: 2019-09-05T03:13:29.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=95dd577fdb6ff3c4feb1a851ca96195e"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/bcad9b7fdb6ff3c4feb1a851ca9619ef.iix" /></p>

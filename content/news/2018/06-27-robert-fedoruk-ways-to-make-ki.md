@@ -1,6 +1,7 @@
 ---
 title: "Ways to make Kingstons Time Tracking perfect"
 date: 2018-06-26T18:46:43.000Z
+authors: ["Robert Fedoruk"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b44e5973dbb2d304a8562926ca961960"
 ---
 <p>Woudln&#39;t it be awesome if...<br />EVERYONE USED SN TIME SHEETS (Kingston&#43;)</p>

@@ -1,6 +1,7 @@
 ---
 title: "The  steps to manage platform demand for ServiceNow"
 date: 2018-10-11T23:29:25.000Z
+authors: ["Glen Kaminski"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4911a516dbc5e344200f0b55ca961923"
 ---
 <p>Demand for ServiceNow functionality should be managed in partnership with business stakeholders. Demand will change as business conditions, goals, and organizational objectives change. This means that the ServiceNow platform team and service delivery function must have capacity to meet business partner demand and be responsive to business partner requirements so that services provided are fit for purpose. Without demand management, the link between business value and service delivery can be lost.</p>

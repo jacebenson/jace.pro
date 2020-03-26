@@ -1,6 +1,7 @@
 ---
 title: "Servicenow Certified system administrator exam Preparation Tips and sample questions"
 date: 2019-04-21T18:22:48.000Z
+authors: ["Rajashekhar Mushke"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=712c4dc4db017300d82ffb243996191b"
 ---
 <p>Hi All,</p>

@@ -1,6 +1,7 @@
 ---
 title: "Be cautious about adding a new Closed State to a task table choice list"
 date: 2013-07-04T02:22:45.000Z
+authors: ["Christopher.Maloy"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a17dee29dbd0dbc01dcaf3231f9619b2"
 ---
 <p>I'll try not to be too controversial here.<br /><br />I have seen several customers recently add new Closed states that do not map to the same value as a Close. This is commonly done when someone wants to add a Close - Duplicate or something of the like.<br /><br />Stop it. :) To me this is a bad practice. From an integration point of view there are times when that Close value (3) is used to trigger certain events or used to determine how many open task, etc. If this is added after those integrations are done, then you have to go and update them. <br /><br />A better approach is to leave the task state alone and personalize a close_code field (or resolution code_field) for a particular incident. This way when you resolve an incident you are given a choice list representing the different types of resolutions (duplicate being one of them). <br /><br />You could create another choice in the state field, but map that choice to the same value as Closed if possible.<br /><br />I know this is a small thing, but trust me - it sucks having to go through multiple integrations that fire outbound soap messages on a current.state.changesTo(3) and update the source code to include another state. Things start getting complicated and simplicity is our friend.<br /><br />Just some random musings. Enjoy.</p>

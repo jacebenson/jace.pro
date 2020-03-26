@@ -1,6 +1,7 @@
 ---
 title: "Step One"
 date: 2020-02-05T01:36:03.000Z
+authors: ["Nick Ferraro"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=32057205dbf64c581cd8a345ca961984"
 ---
 <p>Organizations often make a false assumption as they approach the start of a Business Impact Analysis (BIA) or recovery plan building: they assume that staff members can define the business processes that they are engaged in as part of normal operations.  The truth is that many people struggle to define the processes that they are regularly engaged in at the proper level despite being part of an organization for many years and performing in the same role for a long period of time.  A process inventory is an essential prerequisite for a BIA or for plan building.   Failing to define processes at the appropriate level will yield inaccurate BIA results and could result in the creation of ineffective recovery plans.  </p>

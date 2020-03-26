@@ -1,6 +1,7 @@
 ---
 title: "Virtual Agent"
 date: 2019-10-04T00:23:28.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f90d8c51dbd840544819fb24399619fe"
 ---
 <p style="text-align: center;"><img src="https://community.servicenow.com/ebeccc11dbd840544819fb24399619b1.iix" width="796" height="57" /></p>

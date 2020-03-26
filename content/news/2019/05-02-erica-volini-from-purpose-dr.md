@@ -1,6 +1,7 @@
 ---
 title: "From PurposeDriven to MeaningCentric How Organizations Can Help Workers Thrive"
 date: 2019-05-01T19:07:50.000Z
+authors: ["Erica Volini"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b2563c17db4db388a39a0b55ca961918"
 ---
 <p>What does it mean to be a purpose driven organization? These days, there’s a desire among professionals to work for purpose driven businesses, ones that address pressing social and economic issues instead of entities that just make money. We termed this issue of “social enterprise” in our latest annual <a href="https://trendsapp.deloitte.com/reports/2019/global-human-capital-trends/leading-the-social-enterprise-reinvent-with-a-human-focus.html" rel="nofollow">Global Human Capital Trends</a> report, which found that amongst CEOs  surveyed the most important measure of success in 2019 was “impact on society, including income inequality, diversity, and the environment.” But purpose has to be more than just corporate social responsibility. While it will inspire, while it will guide, and while it will serve as a valuable framework, it will not solve the day-to-day realities and issues that the average worker is facing and ultimately what they need to be successful.</p>

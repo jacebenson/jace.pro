@@ -1,6 +1,7 @@
 ---
 title: "Planning for a Successful CMDB Deployment  Insights from a Walmarts CMDB Expert Part"
 date: 2019-02-06T01:07:26.000Z
+authors: ["usmansindhu"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3ecb880cdb6f6700f21f5583ca961972"
 ---
 <p><span style="font-size: 10pt;">David Stefferud, from Walmart gets the full credit for this blog. The content of this and subsequent blogs is based on his Q&amp;A from <a href="https://www.servicenow.com/lpwbr/customer-panel-planning-a-successful-cmdb-deployment.html?referenceSource&#61;community" target="_blank" rel="noopener noreferrer nofollow">CMDB best practices webinar</a>. You can read CMDB best practice on<a href="https://www.servicenow.com/success/playbook/cmdb-deployment.html" rel="nofollow"> ServiceNow Success Center.</a> I hope this Q&amp;A will address some of your questions as well.</span></p>

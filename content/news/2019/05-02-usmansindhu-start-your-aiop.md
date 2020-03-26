@@ -1,6 +1,7 @@
 ---
 title: "Start your AIOps journey at Knowledge "
 date: 2019-05-02T00:26:55.000Z
+authors: ["usmansindhu"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=786f715fdb4d77440be6a345ca961903"
 ---
 <p><a href="https://knowledge.servicenow.com/" rel="nofollow">Knowledge 2019</a> (K19) is just five days away! Are you excited?</p>

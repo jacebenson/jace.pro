@@ -1,6 +1,7 @@
 ---
 title: "Listening in the Zone"
 date: 2018-05-10T05:25:37.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a324a42cdb025b805322f4621f96191a"
 ---
 <p>The Customer Success zone at Knowledge18 was created out of a simple action: listening to customers. “Customers have been asking us for the best ways to make the most of their ServiceNow investment,” says ServiceNow Success Center Content and Programs Leader Karen Cangialosi. “The zone helps us achieve that goal, making customers aware of the things we’re doing at the company now and will do in the future to help them achieve their business success.”</p>

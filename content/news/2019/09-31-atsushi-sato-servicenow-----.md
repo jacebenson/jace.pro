@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow  "
 date: 2019-09-30T13:28:54.000Z
+authors: ["Atsushi Sato"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=407a9288db10c850414eeeb5ca96199a"
 ---
 <p>ServiceNow は ITSM(IT Service Management)や CSM(Customer Service Management) に代表される、導入後すぐに利用し始めることのできるサービス群をクラウドで提供しています(SaaS)。そして、それらのサービスはすべて Now Platform と呼ばれる共通のプラットフォーム上で開発され稼働しています。この Now Platform は開発者によって自由にアプリケーションを開発して稼働させる事のできる機能も合わせて提供しています。つまり、Now Platform は Application Platform as a Service (aPaaS)の一面も併せ持っています。アプリケーション開発者は、Now Platform が提供する Studio と呼ばれる開発ツールを利用して Low Code/No Code で効率的に、企業のデジタルトランスフォーメーションを支援するアプリケーションを開発することができます。</p>

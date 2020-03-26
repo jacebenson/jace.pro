@@ -1,6 +1,7 @@
 ---
 title: "London Release  Whats New With ITOM CMDBDiscovery  Service Mapping"
 date: 2018-08-18T00:40:41.000Z
+authors: ["Sree"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7cf1e2e0db0c2b80a39a0b55ca9619ff"
 ---
 <h2><strong><img style="float: right; margin-left: 1px; max-width: 100%; max-height: 480px;" src="334276a5db0c67008e7c2926ca961925.iix" width="224" height="129" />What’s new with Discovery</strong></h2>

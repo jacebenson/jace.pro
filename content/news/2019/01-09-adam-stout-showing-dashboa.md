@@ -1,6 +1,7 @@
 ---
 title: "Showing Dashboards on Wall Mounted Displays"
 date: 2019-01-09T03:50:03.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c884a883dbb227c0656a5583ca961905"
 ---
 <h1>Overview </h1>

@@ -1,6 +1,7 @@
 ---
 title: "Baseline multiple Projects"
 date: 2018-11-02T08:50:48.000Z
+authors: ["Robert Fedoruk"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d5faeb49db2da7005d782183ca96191a"
 ---
 <p>I&#39;ve made it my Q4 2018 mission to maximize project data migration between Project and ServiceNow.  You may have seen my other threads on why this is difficult:<br /><a href="community?id&#61;community_question&amp;sys_id&#61;32a4f423db7a5bc00be6a345ca961919" rel="nofollow">Start ASAP vs Specific Date on Project Import<br /></a><a class="ng-binding" href="community?id&#61;community_blog&amp;sys_id&#61;a4fb177edb6b5f4423f4a345ca96197b" rel="nofollow">The Case for Exposing &#34;Import from MS Project&#34;<br /></a><a class="ng-binding" href="community?id&#61;community_question&amp;sys_id&#61;cb00e991dbdb57805ed4a851ca96194a" rel="nofollow">Project Import Utility</a><a class="ng-binding" href="community?id&#61;community_blog&amp;sys_id&#61;a4fb177edb6b5f4423f4a345ca96197b" rel="nofollow"><br /></a><a class="ng-binding" href="community?id&#61;community_question&amp;sys_id&#61;d7e40e7ddbc79b84f7fca851ca96199a" rel="nofollow">Crash test my MSProject Import Idea<br /></a><a class="ng-binding" href="community?id&#61;community_blog&amp;sys_id&#61;a4fb177edb6b5f4423f4a345ca96197b" rel="nofollow"><br /></a></p>

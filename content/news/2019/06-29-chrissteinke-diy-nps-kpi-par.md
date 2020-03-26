@@ -1,6 +1,7 @@
 ---
 title: "DIY NPS KPI Part   PA Content Build Out"
 date: 2019-06-28T17:19:21.000Z
+authors: ["ChrisSteinke"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d7b90775db9ebf80a39a0b55ca9619d5"
 ---
 <p><strong>DIY NPS KPI’s Part 2 -</strong></p>

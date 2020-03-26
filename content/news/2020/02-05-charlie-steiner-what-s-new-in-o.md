@@ -1,6 +1,7 @@
 ---
 title: "Whats new in Orlando for the Now Platform"
 date: 2020-02-04T06:07:11.000Z
+authors: ["Charlie Steiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6089aaf0dbba0898d58ea345ca961970"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/92e95ee3db0fcc101cd8a345ca9619dd.iix" /></p>

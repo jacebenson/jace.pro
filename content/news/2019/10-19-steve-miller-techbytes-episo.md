@@ -1,6 +1,7 @@
 ---
 title: "TechBytes Episode  Vendor Manager Workspace"
 date: 2019-10-18T22:58:54.000Z
+authors: ["Steve Miller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=018945cedba8041023f4a345ca961910"
 ---
 <p><iframe title="Episode 55: Vendor Manager Workspace" src="https://omny.fm/shows/servicenow-techbytes/episode-55-vendor-manager-workspace/embed" width="100%" height="180"></iframe></p>

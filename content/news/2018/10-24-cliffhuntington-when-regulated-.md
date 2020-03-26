@@ -1,6 +1,7 @@
 ---
 title: "When Regulated Markets Grow Teeth"
 date: 2018-10-24T00:29:27.000Z
+authors: ["cliffhuntington"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=69e16742db596b40fb4ae15b8a961980"
 ---
 <div>Australian businesses accustomed to ‘toothless’ enforcement regimes are experiencing a rude shock. Regulators are growing teeth and are ready to bite businesses that experience lapses in compliance.  </div>

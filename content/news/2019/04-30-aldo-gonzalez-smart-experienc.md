@@ -1,6 +1,7 @@
 ---
 title: "Smart Experiences The Service Management Journey to IoT"
 date: 2019-04-29T05:23:35.000Z
+authors: ["Aldo Gonzalez"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=15862712db8d7304fff8a345ca9619fc"
 ---
 <h1>The Internet of Things is the information systems revolution of our generation. Every company needs to be planning for service manageable IoT.</h1>

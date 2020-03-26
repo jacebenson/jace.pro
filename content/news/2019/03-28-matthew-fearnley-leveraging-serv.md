@@ -1,6 +1,7 @@
 ---
 title: "Leveraging Servicenow to transition AudioVisual to Unified Communications"
 date: 2019-03-27T16:42:57.000Z
+authors: ["Matthew Fearnley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=438544ccdba0b78823f4a345ca9619eb"
 ---
 <p>With Unified Communications (UC) replacing legacy Audio Visual (AV) systems ServiceNow users can take advantage of this opportunity to finally make AV a full IT function.</p>

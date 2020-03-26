@@ -1,6 +1,7 @@
 ---
 title: "Now on Now Threading the needle  Talking about cybersecurity and GRC risk with the board of directors Sept  am PT"
 date: 2019-09-05T02:15:00.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e0701f7bdbe3fb88fff8a345ca961952"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/7d30df3bdbe3fb88fff8a345ca961993.iix" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "Intro into Formula Indicators  Office Hours  April  Recap"
 date: 2019-10-14T22:28:24.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=532c90b8db284c185129a851ca961974"
 ---
 <p>Back in April, during <a href="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" rel="nofollow">Performance Analytics and Reporting Office Hours</a>, we covered the basics of Formula Indicators.  Formula Indicators provide a powerful way to gain more knowledge from existing indicators.  They allow us to transform and normalize indicators into meaningful KPIs.</p>

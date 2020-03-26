@@ -1,6 +1,7 @@
 ---
 title: "Building a customer service dream team"
 date: 2020-01-20T23:15:11.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=81f4c598dbee84504819fb24399619bd"
 ---
 <p><img class="wp-image-4442" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2020/01/photo-of-people-holding-each-other-s-hands-3184423.jpg" alt="" width="304" height="455" align="left" />The Dream Team.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Now Learning Blog  Become an Application Specialist"
 date: 2020-01-07T02:58:33.000Z
+authors: ["Julie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=34d1b53bdb060c10d82ffb24399619ee"
 ---
 <p class="p1"><span style="font-family: helvetica; font-size: 12pt;">Many of my <a href="https://community.servicenow.com/community?id&#61;community_user_profile&amp;user&#61;c4021ea1dbd81fc09c9ffb651f961935" rel="nofollow"><span class="s1">past blogs</span></a> have focused on the basics of finding content on Now Learning or introductory classes appropriate for when you are just getting started.<span class="Apple-converted-space">  </span>In a <span class="s1"><a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;70061d4d1b39c810fff162c4bd4bcb86" rel="nofollow">recent blog</a>,</span> I introduced the concept of a Learning Path and in this blog, I am going to dive into one of our newer paths and give you an overview of a more advanced set of courses.<span class="Apple-converted-space">  </span>The <a href="https://nowlearning.service-now.com/lxp?id&#61;overview&amp;sys_id&#61;e02227a7db537304de3cdb85ca9619d0&amp;type&#61;path" rel="nofollow"><span class="s2">Performance Analytics Application Specialist</span></a> path has been created to enable you to leverage best practices for using, implementing and administering the ServiceNow Performance Analytics application at an advanced level.</span></p>

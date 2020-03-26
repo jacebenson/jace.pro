@@ -1,6 +1,7 @@
 ---
 title: "Dont miss tomorrows webinar  Introduction to Customer Service Management "
 date: 2019-12-10T05:50:51.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f3bc427adb6d0c1014d6fb24399619dd"
 ---
 <p class="ng-scope"><strong>Make the case for service excellence </strong></p>

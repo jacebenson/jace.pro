@@ -1,6 +1,7 @@
 ---
 title: "We have great ITSM updates for you in New York"
 date: 2019-07-25T23:22:32.000Z
+authors: ["archanapenukonda"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e6cfdb22dbbaf380414eeeb5ca961970"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/e7d84d67db2b7b08190dfb2439961903.iix" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "Virtual Training NOW available for Scripting Adv Admin  Discovery"
 date: 2012-10-03T23:22:51.000Z
+authors: ["JonL"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ed6dea29dbd0dbc01dcaf3231f961910"
 ---
 <p>Based on the feedback and comments from the community, we are moving forward with virtual training (VILT, virtual instructor led training) for our Scripting in ServiceNow, Advanced Admin, and Discovery courses. Classes are immediately available for October and remainder of the quarter.<br /><br />Descriptions: http://www.servicenow.com/training<br /><br />Registration: through your Hi instance or you can get help from training@servicenow.com<br /><br />Course schedule: https://hi.service-now.com/sys_report_display.do?sysparm_report_id=ac4af25987d328c09a1cb3aeef434d43<br /><br />Courses are still full days as noted in the descriptions, and we actively use our Live Feed to promote interaction with the classmates and instructor.<br /><br />Pricing is the same as our standard classroom training. If you have questions about this, please see the previous discussion :) http://community.servicenow.com/blog/jonl/virtual-classroom-training-would-you<br /><br />At this time going to leave System Admin as classroom only to maximize engagement with the instructor and other new customers/students to ensure your success with the ServiceNow platform.<br /><br />Take care,<br />jon</p>

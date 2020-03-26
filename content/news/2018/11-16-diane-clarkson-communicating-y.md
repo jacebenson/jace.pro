@@ -1,6 +1,7 @@
 ---
 title: "Communicating Your Transformation Vision"
 date: 2018-11-15T23:45:31.000Z
+authors: ["Diane Clarkson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=17a6e5a9db3daf402737e15b8a96193b"
 ---
 <p><span style="font-family: helvetica; font-size: 10pt;">A transformation vision should be the “North Star” that guides strategy, road map planning, budget allocation, and priorities.</span></p>

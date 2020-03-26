@@ -1,6 +1,7 @@
 ---
 title: "Displaying if a Record has an Attachment"
 date: 2013-08-21T09:52:34.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a26c6ea1dbd0dbc01dcaf3231f96197c"
 ---
 <p>If you want to simply display in a list view when a record has an attachment, you can easily do it with a Field Style:<br /><br /><img  alt="" class="jive-image" src="2b726982db1cd304b322f4621f96199a.iix" style="width: 449px; height: auto;" /><br /><!--break--><br />The following Field Style is based on the VIP one for the Caller field:<br /><br /><pre __default_attr="plain" __jive_macro_name="code" class="jive_text_macro jive_macro_code"><br />Table: Incident<br />Field name: Number<br />Value: javascript:current.hasAttachments()<br />Style:<br />background-image: url('images/icons/attachment.gifx');<br />background-repeat: no-repeat;<br />background-position: 98% 5px;<br />padding-right: 30px;</pre><br /><br />If you want the icon to display for all task-derived tables, set the Table to "Task" instead. If you need to filter on whether the record has an attachment or not, there's an article in the wiki for that - http://wiki.servicenow.com/index.php?title=Display_Whether_Tasks_Have_Attachments_in_List_View<br /><br />It is currently setup in the <a title="emo018.service-now.com" href="https://demo018.service-now.com">demo018</a> instance for all task tables if you want to see it in action. I've attached the XML below if you just want to import the Style record (remove the .txt extension).</p>

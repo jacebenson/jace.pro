@@ -1,6 +1,7 @@
 ---
 title: "Standard vs Submission Knowledge Workflow"
 date: 2014-05-15T20:36:40.000Z
+authors: ["Beth_Carlson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c26c2ea1dbd0dbc01dcaf3231f9619fa"
 ---
 <p>If the benefits of using the Submissioin workflow are:</p><p>• Knowledge submissions can be assigned to knowledge workers outside the knowledge management team.</p><p>• Knowledge submissions appear on the knowledge worker's <strong>Service Desk &gt; My Work </strong>queue.</p><p>• Knowledge submissions appear on task-based work reports so knowledge workers get credit for working on knowledge.</p><p>• Automated feedback to knowledge submitters lets them know their submission is being worked on</p><p></p><p><span style="font-size: 10pt; font-family: Arial;">Why is it only for knowledge submitted from the Incident or Problem forms?   Why not for ad hoc knowledge created from the Knowledge form, too?   It sounds great.</span></p><p></p><p><span style="font-size: 10pt; font-family: Arial;">We don't use the Submission workflow right now,   We only use the Standard workflow.   I'd like to turn on the Submission workflow.   </span></p>

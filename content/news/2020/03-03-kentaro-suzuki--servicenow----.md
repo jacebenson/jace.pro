@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow "
 date: 2020-03-02T11:23:08.000Z
+authors: ["Kentaro Suzuki"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=10c43ea9db9f04105ed4a851ca96199e"
 ---
 <p>いつもお世話になっております。ServiceNow トレーニングチーム鈴木です。</p>

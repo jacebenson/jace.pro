@@ -1,6 +1,7 @@
 ---
 title: " ways to set up your Service Portal for redirection SUCCESS"
 date: 2017-04-01T04:24:44.000Z
+authors: ["Brandon May"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cbcda2e9dbd0dbc01dcaf3231f961949"
 ---
 <p>Wouldn&#39;t it be nice if there were only two types of users and two points to direct traffic through your site? When dealing with redirection on an enterprise level, it&#39;s rare to just send &#39;A users&#39; here, and &#39;B users&#39; there. Usually, there is an A user, a B user, an A.b user, a B.a user, an A.b.c….you get where I&#39;m going. I receive a lot of questions regarding how to set up login redirection with Service Portal.</p>

@@ -1,6 +1,7 @@
 ---
 title: "TechBytes Episode  Flow Designer"
 date: 2019-03-06T20:17:43.000Z
+authors: ["Steve Miller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a19f1419dbc8f788d58ea345ca96196c"
 ---
 <p><iframe src="https://omny.fm/shows/servicenow-techbytes/episode-47-flow-designer/embed?style&#61;cover" width="100%" height="180"></iframe></p>

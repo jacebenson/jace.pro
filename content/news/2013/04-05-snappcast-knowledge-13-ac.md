@@ -1,6 +1,7 @@
 ---
 title: "Knowledge  activities"
 date: 2013-04-05T03:19:29.000Z
+authors: ["SnappCast"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0b4ea6addbd0dbc01dcaf3231f96190b"
 ---
 <p><strong>SnappCast Recordings</strong><br />We will be recording informal, group-sized recordings again this year. It was great fun to get 20 people in a room and just chat and review the conference. We'll be tweeting the location of recording and providing updates on this blog. Let us know if you have questions, suggestions, or just want to get involved!<br /><br /><strong>Hack-a-Thon</strong><br />With the exception of expo hours - Snappcast will be streaming the Knowledge13 hackathon via UStream for people to experience it even if they cannot attend.<br /><br />It will probably be good to have that break in there to charge my devices as well. :)<br /><br />We will be tweeting the UStream links from our twitter account @SnappCast, and on this blog.<br /><br />Let us know if you have questions, suggestions, or just want to get involved!</p>

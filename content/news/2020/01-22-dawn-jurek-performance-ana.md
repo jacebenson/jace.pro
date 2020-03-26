@@ -1,6 +1,7 @@
 ---
 title: "Performance Analyticsthe right information right on time"
 date: 2020-01-22T04:25:28.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dc959f68db6a88902be0a851ca9619dd"
 ---
 <p>Different people in your company have different goals, and they take different actions to achieve them. ServiceNow’s <strong>Performance Analytics</strong> product gets the right information to each of them, right on time, so they know the effects of their actions and their progress toward their goals. And now a pair of new videos explains how.</p>

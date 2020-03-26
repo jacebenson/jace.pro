@@ -1,6 +1,7 @@
 ---
 title: "PROCESSORS  ULTIMATE FLEXIBILITY"
 date: 2016-02-21T21:06:00.000Z
+authors: ["inmorphis-consultant"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5f0e2e2ddbd0dbc01dcaf3231f9619cc"
 ---
 <p style="margin: 0px 0px 20px; color: #777777; font-size: 13px; font-family: 'Open Sans','Helvetica Neue',Arial; font-weight: normal; font-style: normal; text-align: start; text-indent: 0px;"><strong>Processors</strong><span class="Apple-converted-space"> </span>in ServiceNow are an as yet relatively undocumented feature that is used in the system to provide different formats for using the data in tables.</p><p style="margin: 0px 0px 20px; color: #777777; font-size: 13px; font-family: 'Open Sans','Helvetica Neue',Arial; font-weight: normal; font-style: normal; text-align: start; text-indent: 0px;">Scripted Web Services give more control, but they only provide a single SOAP method. Processors let you hook into the backend of the ServiceNow platform, giving you direct access to the information sent over an HTTP session. Scripts can pick up parameters and "POSTed" data, letting you transfer information in any format you need.</p><p><a title="morphis.com/blogs/processors/" href="http://inmorphis.com/blogs/processors/">Read More</a></p>

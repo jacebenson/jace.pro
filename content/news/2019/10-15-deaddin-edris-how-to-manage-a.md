@@ -1,6 +1,7 @@
 ---
 title: "How to manage application development on the Now Platform"
 date: 2019-10-15T04:57:59.000Z
+authors: ["Deaddin Edris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4655fdbcdbe8c494feb1a851ca9619c8"
 ---
 <p>Developing applications on the Now Platform can expand your opportunities for innovation, productivity, and improved customer and employee experiences. Low- and no-code can support digital transformation by expanding application development beyond IT, to citizen developers.  However, it is critical that your application development efforts are aligned to your strategy for digital transformation and that you have appropriate guardrails in place to limit technical and portfolio risk.</p>

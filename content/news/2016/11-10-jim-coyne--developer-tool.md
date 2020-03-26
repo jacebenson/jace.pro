@@ -1,6 +1,7 @@
 ---
 title: "Developer Toolbox Tool"
 date: 2016-11-10T03:38:11.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f66d2e29dbd0dbc01dcaf3231f961966"
 ---
 <p>Not really a tool in itself, but a collection of modules with links to some tables and pages within the platform.   Some are not used very often, but are useful nonetheless.   Most of them are for tables that do not have an existing module and I can never remember the table name, or keep misspelling it  </p>

@@ -1,6 +1,7 @@
 ---
 title: "Main Page is Slow to Load in Madrid Check your Connect Chats Downloadable Scheduled Job included"
 date: 2019-03-07T06:35:12.000Z
+authors: ["shruti.tyagi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f2ecee9ddbc87b00fece0b55ca9619bb"
 ---
 <p>Are some of your users or a specific user reporting slowness while loading the main page as soon as they logged in or overall instance slowness on <a href="https://docs.servicenow.com/bundle/madrid-servicenow-platform/page/use/collaboration/concept/c_Collaboration.html" rel="nofollow">Connect Chat</a>? Read on.</p>

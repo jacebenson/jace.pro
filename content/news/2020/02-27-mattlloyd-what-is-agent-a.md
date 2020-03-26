@@ -1,6 +1,7 @@
 ---
 title: "What is Agent Assist"
 date: 2020-02-26T18:17:13.000Z
+authors: ["mattlloyd"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9193e6ccdbdf84104819fb2439961967"
 ---
 <p>Agent Assist automatically searches for possible solutions when an agent is working on a record in Agent Workspace.</p>

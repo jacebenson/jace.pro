@@ -1,6 +1,7 @@
 ---
 title: "Knowledge Podcast episode   What is Knowledge A chat with Scott Schenker"
 date: 2019-02-22T22:16:48.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=81c70bdddb3b2b04a39a0b55ca961956"
 ---
 <p>We&#39;re doing some podcasts leading up to Knowledge!</p>

@@ -1,6 +1,7 @@
 ---
 title: "When overzealous customer service fails the customer"
 date: 2019-01-14T23:13:39.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=25ced63cdb8be700fb4ae15b8a961900"
 ---
 <div class="wp-block-image">

@@ -1,6 +1,7 @@
 ---
 title: "K  Apoio na redao da Chamada de Contedo"
 date: 2018-11-13T21:12:53.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=04907e7cdbfd6f00d6a102d5ca96193f"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="8a3fe634dbfd6f00d6a102d5ca9619ee.iix" /></p>

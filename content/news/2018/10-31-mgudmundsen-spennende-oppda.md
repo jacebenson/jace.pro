@@ -1,6 +1,7 @@
 ---
 title: "Spennende oppdateringer p Store"
 date: 2018-10-30T14:15:47.000Z
+authors: ["mgudmundsen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f89811d0db6523449a64e15b8a961907"
 ---
 <p>Det har kommet noen spennende oppdateringer på <a href="https://store.servicenow.com/sn_appstore_store.do#!/store/home" rel="nofollow">store.servicenow.com</a> innen IT Operations, Security og GRC</p>

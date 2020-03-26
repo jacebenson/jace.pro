@@ -1,6 +1,7 @@
 ---
 title: "How to Fix your Catalog Search on Service Portal if Type Ahead Search Doesnt Return Results in Kingston"
 date: 2019-03-26T17:42:52.000Z
+authors: ["mohankrishna"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=93a9cbe7db9c7f88d82ffb24399619b7"
 ---
 <p class="p1">If you have recently upgraded to <a href="https://docs.servicenow.com/bundle/kingston-release-notes/page/release-notes/quality/kingston-patch-12.html" rel="nofollow"><span class="s1">Kington patch 12</span></a>, you may notice that your catalog search in Service Portal isn’t returning any results. This behavior can be seen when you are using the <strong>type ahead search</strong> and <strong>Search page </strong>widgets in Service Portal but when you global search the catalog item you would see results.</p>

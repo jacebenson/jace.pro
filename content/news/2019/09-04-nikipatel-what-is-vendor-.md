@@ -1,6 +1,7 @@
 ---
 title: "What is Vendor Manager Workspace"
 date: 2019-09-04T00:14:15.000Z
+authors: ["nikipatel"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0a3ba12bdb67f3085ed4a851ca9619e5"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/8abb21a3dbaffb08190dfb24399619f6.iix" /></p>

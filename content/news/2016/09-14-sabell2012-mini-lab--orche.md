@@ -1,6 +1,7 @@
 ---
 title: "MiniLab Orchestration  Calling a Script With a Custom Run PowerShell Activity  Part  HELSINKI"
 date: 2016-09-13T07:55:29.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=263eae6ddbd0dbc01dcaf3231f9619e5"
 ---
 <p><span style="color: #303030;"><span style="font-size: 12px; font-family: &#39;Times New Roman&#39;; font-weight: bold;">NOTE</span><span style="font-size: 12px; font-family: Arial;">: </span><span style="font-size: 12px; font-family: &#39;Times New Roman&#39;;">MY POSTINGS REFLECT MY OWN VIEWS AND DO NOT NECESSARILY REPRESENT THE VIEWS OF MY EMPLOYER, ACCENTURE.</span></span> </p>

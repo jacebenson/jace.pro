@@ -1,6 +1,7 @@
 ---
 title: "Simplify software governance on a single platform"
 date: 2019-10-01T23:06:32.000Z
+authors: ["Bryan Blackburn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4038ad64dbd080d06064eeb5ca961991"
 ---
 <p><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;">The 2020 global forecast for enterprise software spend amounts to $507 billion, with SaaS spend reaching $110 billion (1). Within the first year of implementing a SAM solution, organizations can save up to 30% in software costs. Without proper SAM governance, organizations are at risk for tremendous amounts of software waste (2). By the end of 2020, $152 billion in enterprise software spend and $33 billion for SaaS will be wasted if companies don’t have SAM programs.</span></p>

@@ -1,6 +1,7 @@
 ---
 title: "Make Complex Reporting Easier using Query Techniques"
 date: 2018-02-02T02:07:21.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bd0eaa2ddbd0dbc01dcaf3231f96199e"
 ---
 <div class="alert alert-warning clearfix"><em class="fa fa-exclamation-triangle"> </em> The discussion below is intended for advanced Reporting users who have 6 or months experience with Reporting and the same or more experience with the ServiceNow Platform.   The advanced topics covered assume that you understand the basics of Reporting and have a working knowledge of JavaScript.</div>

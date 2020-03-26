@@ -1,6 +1,7 @@
 ---
 title: "Shortcut GlideRecord Queries with get"
 date: 2019-01-31T21:48:09.000Z
+authors: ["bsweetser"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b23e65d6db5bab002e8c2183ca9619e0"
 ---
 <p>We are experimenting with new training content delivery methods for the Developer Program. This tutorial blog post is one of those experiments. We are very interested in your feedback. Please let us know what you think about this format and the content in the comments below. In particular, we would like to know:</p>

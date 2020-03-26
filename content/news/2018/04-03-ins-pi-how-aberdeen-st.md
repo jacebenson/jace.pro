@@ -1,6 +1,7 @@
 ---
 title: "How Aberdeen Standard Investments ensured Merger Success  increased productivity by "
 date: 2018-04-02T21:42:52.000Z
+authors: ["ins·pi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5c771ca8db5d93c42b6dfb651f9619b5"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="974014a0dbd993c42b6dfb651f961907.iix" /></p>

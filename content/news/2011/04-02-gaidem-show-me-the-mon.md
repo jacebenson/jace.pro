@@ -1,6 +1,7 @@
 ---
 title: "Show me the money I mean Priority Matrix"
 date: 2011-04-01T06:38:04.000Z
+authors: ["gaidem"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=105de229dbd0dbc01dcaf3231f9619e4"
 ---
 <p>Show and tell for Higher Education priority matrix's. The columns represent urgency and the rows represent impact. I'd like to see what other have come up with.<br /><br />Here's what we have defined: <br /><!--break--><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><table cellspacing="1" cellpadding="1" border="1" width="305" style=""><tbody><tr><td><br /></td><td><b>Critical</b><br /></td><td><b>High</b><br /></td><td><b>Moderate</b><br /></td><td><b>Low</b><br /><br /></td></tr><tr><td><b>Campus</b><br /></td><td>Priority 1<br /></td><td>Priority 1<br /></td><td>Priority 2<br /></td><td>Priority 2<br /><br /></td></tr><tr><td><b>Multiple Groups</b><br /></td><td>Priority 1<br /></td><td>Priority 2<br /></td><td>Priority 2<br /></td><td>Priority 3<br /><br /></td></tr><tr><td><b>Group</b><br /></td><td>Priority 2<br /></td><td>Priority 2<br /></td><td>Priority 3<br /></td><td>Priority 3<br /><br /></td></tr><tr><td><b>Individual</b><br /></td><td>Priority 2<br /></td><td>Priority 3<br /></td><td>Priority 3<br /></td><td>Priority 4<br /><br /></td></tr></tbody></table></p>

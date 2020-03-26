@@ -1,6 +1,7 @@
 ---
 title: "How to Load COVID Infection Data In Your Instance"
 date: 2020-03-18T22:10:02.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dfff637edbebcc5414d6fb2439961968"
 ---
 <p>There have been a lot of requests recently to view current COVID-19 infection information. To simplify my users’ experience, I was asked how we can display this on a dashboard along with other information that is key to managing the situation.</p>

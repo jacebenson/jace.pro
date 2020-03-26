@@ -1,6 +1,7 @@
 ---
 title: "Video Community Live Stream  "
 date: 2018-07-24T20:36:08.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e4d3023cdbab9fc0e0e80b55ca9619ca"
 ---
 <p>This time it&#39;s all about how to handle business rules, events, script actions, and outbound REST messages. Thanks to Garrett Griffin for the inspiration and collaboration on a number of things I did to my integration over the weekend.</p>

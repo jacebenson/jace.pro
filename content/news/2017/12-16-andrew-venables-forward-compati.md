@@ -1,6 +1,7 @@
 ---
 title: "Forward Compatibility Considerations for Technology Partners"
 date: 2017-12-15T21:06:08.000Z
+authors: ["andrew.venables"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=22cda2e9dbd0dbc01dcaf3231f96190a"
 ---
 <div class="">

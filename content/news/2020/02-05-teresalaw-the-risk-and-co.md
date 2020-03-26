@@ -1,6 +1,7 @@
 ---
 title: "The Risk and Compliance Orlando release takes risk engagement to a new level"
 date: 2020-02-04T11:15:00.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3dffeff8dbf2081814d6fb2439961912"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/9458b6c7db134490feb1a851ca961973.iix" /></p>

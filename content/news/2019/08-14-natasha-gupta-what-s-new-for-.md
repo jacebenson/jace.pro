@@ -1,6 +1,7 @@
 ---
 title: "Whats new for Vulnerability Response in New York"
 date: 2019-08-13T23:54:00.000Z
+authors: ["Natasha Gupta"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a03dddb01b9bf700fff162c4bd4bcbf8"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/fdc5a0ebdb2bb708190dfb24399619c2.iix" /></p>

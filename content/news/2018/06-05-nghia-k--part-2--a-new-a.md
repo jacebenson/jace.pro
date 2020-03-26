@@ -1,6 +1,7 @@
 ---
 title: "Part  A New Approach to Bulk Error Handling Service Mapping Kingston Release"
 date: 2018-06-04T21:51:09.000Z
+authors: ["Nghia K."]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ff75b874dbe61b0067a72926ca9619c1"
 ---
 <pre>Authored by: Steve Anderson, ITOM Product Manager</pre>

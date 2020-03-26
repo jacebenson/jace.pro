@@ -1,6 +1,7 @@
 ---
 title: "podcast The Road to Knowledge CreatorCon"
 date: 2019-03-20T20:35:04.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4787b031dbdc37845129a851ca961926"
 ---
 <p> Learn how you can take part in the developer fun at Knowledge’s CreatorCon. Hear from Howard Beader, the Senior Director of Platform Product Marketing and CreatorCon expert.</p>

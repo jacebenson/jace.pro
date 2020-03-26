@@ -1,6 +1,7 @@
 ---
 title: "Payasyougo ITSM is now a reality for smaller companies"
 date: 2019-09-26T20:42:31.000Z
+authors: ["robwinn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7c5713f6dbc8001823f4a345ca96191d"
 ---
 <p>Keeping end users productive with proactive, consistent IT support is a challenge for organizations of any size, especially smaller ones, but there’s no reason they can’t have enterprise-class IT service management (ITSM) tools such as ServiceNow.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Try It Portal Tool"
 date: 2017-05-05T00:48:44.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c66e22eddbd0dbc01dcaf3231f96190f"
 ---
 <h5>Included in the <a href="community?id&#61;community_blog&amp;sys_id&#61;b3c843aadb892b40fece0b55ca961906" rel="nofollow">Developer Toolbox</a> Update Set available on Share (link in the &#34;Developer Toolbox&#34; post).</h5>

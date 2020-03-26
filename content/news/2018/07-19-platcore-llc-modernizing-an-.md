@@ -1,6 +1,7 @@
 ---
 title: "Modernizing an LMS to Save Lives Really"
 date: 2018-07-18T19:43:09.000Z
+authors: ["PlatCore LLC"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=862e32b6dbdbd7405ed4a851ca9619ca"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="3a036c9ddbaf5b0454250b55ca961968.iix" /></p>

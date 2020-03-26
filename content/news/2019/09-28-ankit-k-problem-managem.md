@@ -1,6 +1,7 @@
 ---
 title: "Problem Management"
 date: 2019-09-28T01:45:43.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8856e9d7db0c88100be6a345ca96191d"
 ---
 <div class="media-description"> <span style="font-family: verdana, geneva; font-size: 10pt;"><img src="https://community.servicenow.com/fc08b1d7db888810190dfb2439961901.iix" width="796" height="57" /></span></div>

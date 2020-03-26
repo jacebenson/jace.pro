@@ -1,6 +1,7 @@
 ---
 title: "New REST API docs on the developer portal"
 date: 2016-03-10T22:16:32.000Z
+authors: ["bryanbarnard"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=040de6a5dbd0dbc01dcaf3231f96197f"
 ---
 <p>I'm excited to announce that we've released new REST API documentation on the <a title="eveloper.servicenow.com/" href="https://developer.servicenow.com/">ServiceNow Developer Portal</a>. You can find the new docs by selecting API from the top menu and then choosing REST. Here you'll find developer focused documentation on ServiceNow Platform REST APIs including detailed documentation on the resources, parameters, status codes, authentication along with code samples in curl and python for making requests and sample responses.</p><p></p><p><a title="t.ly/1LdyKsQ" href="http://bit.ly/1LdyKsQ">ServiceNow Developer REST API Documentation</a></p><p><img alt="UbjRnywfmQ.gif" class="image-1 jive-image" src="http://g.recordit.co/UbjRnywfmQ.gif" style="width: 620px; height: 245px;"/></p><p></p><p>Today we have coverage of the REST APIs available in the Fuji and Geneva release (note you can select the release specific docs in the bottom right hand corner) including the Table, Import Set, Aggregate, and Attachment API (Geneva only). We will add coverage of additional REST APIs that are available soon.</p><p></p><p>Hope you enjoy and please let us know any feedback you have positive or negative so we can make these docs better over time!</p><p></p><p>Thanks,</p><p>Bryan</p>

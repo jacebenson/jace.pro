@@ -1,6 +1,7 @@
 ---
 title: "Discover multiple CIs with the same serial number  Part I"
 date: 2015-04-29T02:06:50.000Z
+authors: ["christopher.thompson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c75de629dbd0dbc01dcaf3231f9619c9"
 ---
 <p><span style="color: #1287b5; text-align: center;"><em>This is in regards to the legacy CI identifiers used prior to the Geneva release and without Service Mapping. For information on how to handle this scenario using the new CI identifiers, please reference the second part of this series: <a href="community?id&#61;community_blog&amp;sys_id&#61;a71da2e5dbd0dbc01dcaf3231f961963" target="_blank" rel="nofollow">Discover multiple CIs with the same serial number - Part II</a></em></span></p>

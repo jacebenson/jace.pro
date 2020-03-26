@@ -1,6 +1,7 @@
 ---
 title: "K Guide One Blog to Answer All Your Questions"
 date: 2018-05-01T23:46:38.000Z
+authors: ["Dale Meyer-Curley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1ce90a3ddbf113403882fb651f96198d"
 ---
 <p style="text-align: justify;"><img style="max-width: 100%; max-height: 480px;" src="f70a4e7ddbf113403882fb651f9619af.iix" width="775" height="436" /><br /><br />There is <u>A LOT </u>happening at ServiceNow’s <a href="https://exclusive.acorio.com/k18" rel="nofollow">Knowledge18</a> Las Vegas from May 7-10.  Just like the many service management solutions ServiceNow provides, the three-day conference is packed full of technology demonstrations, strategic business sessions, and inspirational speakers to guide you on your business transformation journey.  With all the opportunities to learn, network (and celebrate!) it’s hard to know where to start.</p>

@@ -1,6 +1,7 @@
 ---
 title: "All  Customer Success Best Practice webinars are now ON DEMAND"
 date: 2019-04-24T02:32:30.000Z
+authors: ["Eric Gerstein"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a26f81b4db89f7000be6a345ca9619fb"
 ---
 <p>Want to learn more about the Best Practices on the Customer Success Center? Watch one of our webinars in the Customer Success &#64; Scale series!</p>

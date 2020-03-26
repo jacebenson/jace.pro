@@ -1,6 +1,7 @@
 ---
 title: "Check out the Now Mobile Demo Support Community Forum available on September th"
 date: 2019-09-04T02:36:46.000Z
+authors: ["kmd"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a9dbcee7db633bc81cd8a345ca961977"
 ---
 <p class="ng-scope">Welcome &#34;Now Mobile Demo Support&#34; Community Forum.   </p>

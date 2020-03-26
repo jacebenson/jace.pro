@@ -1,6 +1,7 @@
 ---
 title: "How to customize fields displayed on the reference field pop up form using a syspopup view"
 date: 2019-08-03T01:53:34.000Z
+authors: ["Roger Chew"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f81f859d1b837b08ada243f6fe4bcb92"
 ---
 <p>Have you ever wanted to customize the fields displayed to a user when clicking on a reference field icon (<img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/05b3b3421b03fb48ada243f6fe4bcb74.iix" />)? If so, then you can take advantage of the sys_popup form view feature.<br /><br /></p>

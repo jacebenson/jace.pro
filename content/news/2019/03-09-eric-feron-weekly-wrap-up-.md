@@ -1,6 +1,7 @@
 ---
 title: "Weekly wrap up   Mar  what is going on"
 date: 2019-03-09T03:27:24.000Z
+authors: ["Eric Feron"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=971594cedb80330054250b55ca961906"
 ---
 <p>Hello SecOps Community,</p>

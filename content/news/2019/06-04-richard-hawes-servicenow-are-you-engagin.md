@@ -1,6 +1,7 @@
 ---
 title: "Are you engaging with your DevOps community to accelerate change"
 date: 2019-06-03T17:13:30.000Z
+authors: ["richard.hawes@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=79a81eb9db717b00e0e80b55ca9619d9"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/5d385ef5db717b00e0e80b55ca9619b7.iix" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "Register now for the Vegas Experience  your adventure awaits"
 date: 2018-04-17T03:13:45.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=af692545db2d5304fc5b7a9e0f9619e6"
 ---
 <p>Hi All,</p>

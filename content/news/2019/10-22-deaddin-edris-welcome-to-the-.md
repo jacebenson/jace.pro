@@ -1,6 +1,7 @@
 ---
 title: "Welcome to the Now Creators Forum"
 date: 2019-10-21T20:51:14.000Z
+authors: ["Deaddin Edris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9c198c43db60c05013b5fb2439961928"
 ---
 <p><strong>Join the Now Creators Movement!</strong></p>

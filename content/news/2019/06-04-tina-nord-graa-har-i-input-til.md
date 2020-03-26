@@ -1,6 +1,7 @@
 ---
 title: "Har I input til agendaen til nste SNUG"
 date: 2019-06-03T12:28:18.000Z
+authors: ["Tina Nord Graa"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0067d9f9dbfdb7004819fb24399619ea"
 ---
 <p>Kære SNUG medlemmer,</p>

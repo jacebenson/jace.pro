@@ -1,6 +1,7 @@
 ---
 title: "Digital Anrchist interviews RJ Jainendra at the DevOps Enterprise Summit"
 date: 2019-11-06T20:54:32.000Z
+authors: ["richard.hawes@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7d855a0c1b498890a59033f2cd4bcb87"
 ---
 <p><strong><img src="https://community.servicenow.com/9c3552041b498890a59033f2cd4bcb78.iix" /></strong></p>

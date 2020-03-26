@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow acquires FriendlyData to Help People Work Better In Their Own Language"
 date: 2018-10-11T02:42:06.000Z
+authors: ["Martin Barclay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=02930502db4da748feb1a851ca9619a6"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="68d10d0edbc9a748feb1a851ca9619f4.iix" /></p>

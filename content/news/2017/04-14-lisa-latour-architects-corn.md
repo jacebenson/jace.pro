@@ -1,6 +1,7 @@
 ---
 title: "Architects Corner Podcast Ep Performance Management of ServiceNow Instances"
 date: 2017-04-13T19:22:21.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cf8de669dbd0dbc01dcaf3231f9619f9"
 ---
 <p><span style="font-size: 12pt;">As customers continue to leverage more and more of their ServiceNow instance, performance becomes critical. Herman Knief who is the Director for Performance Management talks about how to manage performance of instances in this podcast. He talks about what issues generally customers can encounter in the front-end Java application or in the back-end MySQL database where queries perform poorly. He also discusses issues where customers see they don&#39;t have any worker nodes. He discusses how to identify the root cause of it and how to solve them.</span></p>

@@ -1,6 +1,7 @@
 ---
 title: " ways to Recover Missing Reference fields after Madrid Upgrade"
 date: 2019-07-26T02:05:50.000Z
+authors: ["Roger Chew"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a625c4b61bbeb304d01143f6fe4bcb14"
 ---
 <p>If you’ve upgraded to Madrid recently, you may have experienced an issue where certain <a href="https://docs.servicenow.com/bundle/madrid-platform-administration/page/administer/field-administration/concept/c_ReferenceField.html" target="_blank" rel="noopener noreferrer nofollow">reference field</a> records (e.g. Configuration item, Department, Caller, Location) are missing in the reference lookup. In some cases, no records are shown at all. The behavior you are seeing is actually expected behavior as a result of enforcing the Company field dependency in Madrid.</p>

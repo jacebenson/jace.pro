@@ -1,6 +1,7 @@
 ---
 title: "Plan Now to Attend the Next HR Ask the Expert Session The Ins and Outs of the Kingston HR Integrations Module"
 date: 2018-03-21T05:07:27.000Z
+authors: ["juliegardiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=86800f18db4553c0c310fb651f96195a"
 ---
 <p>April 10 is the date for the next HR Ask the Expert Session.</p>

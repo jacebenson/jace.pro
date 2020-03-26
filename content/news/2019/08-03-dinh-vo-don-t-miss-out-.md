@@ -1,6 +1,7 @@
 ---
 title: "Dont miss out  Learn about the future of HR"
 date: 2019-08-02T20:40:38.000Z
+authors: ["Dinh Vo"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8577c459db87bb88fff8a345ca9619c2"
 ---
 <p><strong>Rethink, reimagine, and transform the future of HR. </strong></p>

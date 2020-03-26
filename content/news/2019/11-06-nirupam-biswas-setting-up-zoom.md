@@ -1,6 +1,7 @@
 ---
 title: "Setting up Zoom with Notify"
 date: 2019-11-05T13:00:51.000Z
+authors: ["Nirupam Biswas"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dd8f9fa71bb84810a59033f2cd4bcb82"
 ---
 <p>First ensure that you are at least on <strong>New York</strong> release <strong>Patch 1</strong> and <strong>Notify</strong> is installed there (<a href="https://docs.servicenow.com/bundle/newyork-servicenow-platform/page/product/notify2/task/t_ActivateNotify.html" rel="nofollow">ref</a>).</p>

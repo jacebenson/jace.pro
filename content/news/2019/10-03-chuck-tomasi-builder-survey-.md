@@ -1,6 +1,7 @@
 ---
 title: "Builder Survey  Get Amazon "
 date: 2019-10-03T01:20:53.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=459057b8db5800146064eeb5ca961948"
 ---
 <p>ServiceNow is working with Cascade Insights to understand what app builders like you think about the Now Platform when it comes to building custom applications. Our goal is to better understand “the art of the possible” and your experience working to achieve real business value from your custom apps.</p>

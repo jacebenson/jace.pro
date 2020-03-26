@@ -1,6 +1,7 @@
 ---
 title: "CreatorCon Challenge  Create the Next Great Store App and Win Big"
 date: 2018-10-30T01:55:44.000Z
+authors: ["Martin Barclay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bf2f6648db216f04b1b102d5ca96195a"
 ---
 <p><a href="https://www.servicenow.com/company/ventures/creatorcon-challenge.html?referenceSource&#61;community" target="con" rel="nofollow"><img style="max-width: 100%; max-height: 480px;" src="7dbd260cdbed2f04b1b102d5ca96195c.iix" /></a></p>

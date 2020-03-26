@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Learning Library Demo"
 date: 2016-12-14T04:46:02.000Z
+authors: ["Andy Ho"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=466eeeaddbd0dbc01dcaf3231f9619b4"
 ---
 <p>Our Learning Library has been out for a few months now and we've got some decent traction from early adopters. However, I think one thing that's preventing people from jumping in is knowing exactly what they are getting. I thought I would provide a short 3-minute demo of the innovative platform that we have developed along with a sneak peek into what some of the modules look like. If people are interested, I can go into more depth in a future demo.</p><p></p><p><img __default_attr="195504433" __jive_macro_name="vimeo" class="jive_macro_vimeo jive_macro" data-renderedposition="92_8_442_332" height="330" src="/8.0.4.21bdc7e/images/tiny_mce3/plugins/jiveemoticons/images/spacer.gif" width="440"/></p><p></p><p>If you have any follow-up questions, please do not hesitate to contact me. More info on the courses available can be found on our website here:</p><p><a href="http://www.servicenow.com/services/training-and-certification/learning-library.html" title="http://www.servicenow.com/services/training-and-certification/learning-library.html">ServiceNow Learning Library</a></p>

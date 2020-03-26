@@ -1,6 +1,7 @@
 ---
 title: "Managing risk posed by thirdparties where do I start"
 date: 2019-05-07T10:29:45.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d059f9c1db557f08fece0b55ca961973"
 ---
 <p>With an increased dependency on third-parties in today’s age of digital transformation, understanding the cyber risk and compliance posture of enterprise vendors has never been more critical to your organization’s security posture. According to Gartner, “By 2022, cybersecurity ratings will become as important as credit ratings when assessing the risk of business relationships.”</p>

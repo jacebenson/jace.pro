@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Deconstruct Advanced Service Portal App"
 date: 2019-09-04T01:38:04.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=396ef5e71bebbf84fff162c4bd4bcb8e"
 ---
 <p><img style="padding-right: 8px;" src="3e1d4b52dbdc3fc45129a851ca96192a.iix" alt="expert-logo-2.png" align="left" />When you think of developing apps on the Now Platform, your first thought may not be an app to play the popular game show Jeopardy. Chuck Tomasi did just that - and demonstrated the app live at Knowledge 19. In this episode, Chuck takes you on a &#34;tear down&#34; of the platform capabilities, challenges, and solutions in his Jeopardy app. Add the concepts covered here to create your own apps with great experiences and unlock productivity in your organization. Links mentioned:</p>

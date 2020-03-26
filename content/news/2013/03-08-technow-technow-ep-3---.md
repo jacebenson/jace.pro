@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Jelly  Part  of "
 date: 2013-03-08T03:52:34.000Z
+authors: ["TechNow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4f2da6e5dbd0dbc01dcaf3231f9619f6"
 ---
 <p>In the final part of our series on Jelly, Andrew and Chuck walk you through testing and debugging your Jelly code along with some examples of what people have built with Jelly. Unlock even more power on your favorite platform with Jelly!</p>

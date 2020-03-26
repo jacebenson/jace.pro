@@ -1,6 +1,7 @@
 ---
 title: "Advantages of a Security Information and Event Management SIEM Integration and ServiceNow"
 date: 2018-07-19T20:45:21.000Z
+authors: ["mishayalavarthy"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b2f51c13db1b1f408e7c2926ca96197f"
 ---
 <p class="p1">This blog post is intended to cover the topic of integrating the customers ServiceNow instance with a SIEM, specifically why integrating with a SIEM will help with streamlining Security Operations and how ServiceNow can be leveraged.</p>

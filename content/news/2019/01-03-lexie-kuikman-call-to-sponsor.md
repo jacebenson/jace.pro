@@ -1,6 +1,7 @@
 ---
 title: "Call to Sponsor  Edmonton SNUG March th "
 date: 2019-01-02T22:03:08.000Z
+authors: ["Lexie Kuikman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=af8b540ddb76af00656a5583ca9619b7"
 ---
 <div class="cm-content-body">

@@ -1,6 +1,7 @@
 ---
 title: "CMS Content Management System overview"
 date: 2015-11-13T03:49:41.000Z
+authors: ["shuynh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cf6caea1dbd0dbc01dcaf3231f961959"
 ---
 <p>The <a title="ki.servicenow.com/index.php?title&#61;Content_Management_-_Versions_Prior_to_Fuji#The_ESS_Portal&amp;gsc.tab&#61;0" href="http://wiki.servicenow.com/index.php?title&#61;Content_Management_-_Versions_Prior_to_Fuji#The_ESS_Portal&amp;gsc.tab&#61;0" rel="nofollow">Content Management System (CMS)</a> is an application that provides users the ability to create a custom interface for the ServiceNow platform and custom interfaces for other applications. The CMS (plugin is com.glide.cms) is automatically in the base instance at no extra charge (OOB) and includes these applications and modules:</p>

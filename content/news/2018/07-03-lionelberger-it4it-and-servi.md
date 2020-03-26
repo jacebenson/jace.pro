@@ -1,6 +1,7 @@
 ---
 title: "ITIT and ServiceNow Request to Fulfill"
 date: 2018-07-02T21:22:34.000Z
+authors: ["lionelberger"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=067bb435db4397845ed4a851ca961981"
 ---
 <h2>Introduction </h2>

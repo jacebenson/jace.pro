@@ -1,6 +1,7 @@
 ---
 title: "Knowledge  se acerca Sea un Speaker en K y gane un FULL pass"
 date: 2018-11-14T00:44:21.000Z
+authors: ["jonathanmunozabrin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bdf0af3cdbf167001089e15b8a961978"
 ---
 <p>Knowledge 19 de acerca!</p>

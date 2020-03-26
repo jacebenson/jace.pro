@@ -1,6 +1,7 @@
 ---
 title: "Five signs you are ready to move to Flow Designer"
 date: 2020-01-21T15:49:24.000Z
+authors: ["Justin Bakker"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4188a0ec1be64810a59033f2cd4bcbcf"
 ---
 <div style="line-height: 1.8;">

@@ -1,6 +1,7 @@
 ---
 title: "Digital workflow powering dramatic customer service and experience improvements"
 date: 2019-10-28T02:52:18.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b33514cddbb04810feb1a851ca9619f5"
 ---
 <p><img class="wp-image-4163" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/10/kanban-4054380.jpg" alt="" width="380" height="253" align="right" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "Using the Service Catalog to find My IP Information"
 date: 2015-11-24T03:25:33.000Z
+authors: ["marystromberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ce6eeeaddbd0dbc01dcaf3231f9619ae"
 ---
 <p>This video shows you how to locate detailed IP Information about your instance using the Service Catalog in the self-service portal on HI.</p><p></p><p style="text-align: center;"><em>For best video quality, increase your player resolution to 1080p.</em></p><p></p><p><iframe src="https://youtube.com/embed/KldCMvvRfuk" width="640" height="360"/></p><p></p><p>For more information on finding the IP information for your instance, see:</p><p><a title="ki.servicenow.com/index.php?title=Setting_Up_a_Virtual_Private_Network_between_ServiceNow_and_a_Business_Network" href="http://wiki.servicenow.com/index.php?title=Setting_Up_a_Virtual_Private_Network_between_ServiceNow_and_a_Business_Network" style="line-height: 1.5;">Product Documentation: Setting up a Virtual Private Network Between ServiceNow and a Business Network</a></p><p><a title="i.service-now.com/kb_view.do?sysparm_article=KB0538621" href="https://hi.service-now.com/kb_view.do?sysparm_article=KB0538621" style="line-height: 1.5;">Knowledge Article: Finding the IP information for your instance</a></p><p></p><p style="text-align: center;">Your feedback helps us better serve you! Did you find this video helpful? Leave us a comment to tell us why or why not.</p>

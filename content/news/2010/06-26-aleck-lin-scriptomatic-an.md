@@ -1,6 +1,7 @@
 ---
 title: "Scriptomatic and WMI classes"
 date: 2010-06-26T03:50:59.000Z
+authors: ["aleck.lin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=582ee26ddbd0dbc01dcaf3231f9619ea"
 ---
 <p>If you are a Discovery customer interested in writing your own custom Windows probes and sensors, the first step you want to do is often identify the information you're going after. As powerful as the Discovery tool might be, it's not meant to show a list of possible WMI classes and their values. What you really need is a tool provided by the Microsoft scripting guys called "Scriptomatic". You can download it from the link below.<br /><br />http://www.microsoft.com/downloads/details.aspx?FamilyID=09dfc342-648b-4119-b7eb-783b0f7d1178&amp;displaylang=en<br /><br />When the program starts up, it automatically enumerates all the WMI classes available on the Windows OS it's running on. You can then select the namespace and the WMI class you're going after. The language format simply shows you a pre-defined script on how they're going to get the information. As for the output format, I typically choose HTML since it's a format that's easy to read. At any rate, run it and you should be able to see a list of properties and their corresponding values in the chosen class. <br /><br />Now that you've identified what you're after, create a windows WMI probe and get it!</p>

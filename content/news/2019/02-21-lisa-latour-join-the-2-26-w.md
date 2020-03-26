@@ -1,6 +1,7 @@
 ---
 title: "Join the  Webinar Accelerate Business Outcomes with the ServiceNow Customer Success Center"
 date: 2019-02-20T07:21:14.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f6972928dbf76380a39a0b55ca96197c"
 ---
 <div style="font-size: 12pt; font-family: &#39;Century Gothic&#39;; color: #293e40;">

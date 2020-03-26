@@ -1,6 +1,7 @@
 ---
 title: "Harness the power of Knowledge Search"
 date: 2016-03-18T02:46:25.000Z
+authors: ["Sarup Paul"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f91e226ddbd0dbc01dcaf3231f961910"
 ---
 <p>Time is of the essence when customers come to your Support portal, and more often their eyes try to locate the search box instead of browsing through text-heavy pages. If you are promoting self-service, search is an important vehicle for achieving that goal.The ServiceNow platform provides a rich set of features to tune Knowledge Search. This post covers how to make search work better for your implementation. ServiceNow has some awesome resources that can help you implement search in a way that works for you by considering pre and post use. There also some links here that refer to customizations that have leveraged the platform&#39;s capabilities to get even better results.</p>

@@ -1,6 +1,7 @@
 ---
 title: " Steps to Adding Custom AWS Metrics into Operational Intelligence"
 date: 2018-02-14T01:53:20.000Z
+authors: ["vNickNOW"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=adcc2265dbd0dbc01dcaf3231f961998"
 ---
 <p>Starting in Kingston, the <a title="ocs.servicenow.com/bundle/kingston-it-operations-management/page/product/event-management/concept/operational-metrics.html" href="https://docs.servicenow.com/bundle/kingston-it-operations-management/page/product/event-management/concept/operational-metrics.html" rel="nofollow">Operational Intelligence</a> module provides an out of the box connector for pulling Amazon Web Services (AWS) CloudWatch metrics.   While there are many benefits to operational intelligence, from capacity planning to proactive avoidance of outages, this article will not be an overview of what Operational Intelligence (OI) can do, but rather a specific methodology for extending default metrics sent from AWS to OI. The following articles can provide great overviews of what OI is capable of doing.</p>

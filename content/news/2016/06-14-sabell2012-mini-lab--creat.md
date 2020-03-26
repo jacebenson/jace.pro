@@ -1,6 +1,7 @@
 ---
 title: "MiniLab Creating your own AD Server with VirtualBox"
 date: 2016-06-14T03:55:03.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f60e2e2ddbd0dbc01dcaf3231f961933"
 ---
 <p style="line-height: 1.7181818181818183; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-size: 14px; font-family: &#39;Times New Roman&#39;; color: #666666; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">NOTE</span><span style="font-size: 14px; font-family: Arial; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">: </span><span style="font-size: 14px; font-family: &#39;Times New Roman&#39;; color: #666666; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">MY POSTINGS REFLECT MY OWN VIEWS AND DO NOT NECESSARILY REPRESENT THE VIEWS OF MY EMPLOYER, ACCENTURE. </span></p>

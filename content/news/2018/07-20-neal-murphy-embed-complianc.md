@@ -1,6 +1,7 @@
 ---
 title: "Embed compliance to help your business ride out the storm"
 date: 2018-07-20T04:26:00.000Z
+authors: ["Neal.Murphy"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=226ff15bdb9b9b80a39a0b55ca9619a7"
 ---
 <p class="p1">Australia’s financial services industry resembles a cruise ship caught in hurricane-force winds. Nearly every day revelations from the Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry are impacting financial services businesses like waves over a ship’s bow. Yet sometimes such events – similar to ‘burning platform’ situations – can act as catalysts for changes needed to reach calmer waters.</p>

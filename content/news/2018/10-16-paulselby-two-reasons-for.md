@@ -1,6 +1,7 @@
 ---
 title: "Two reasons for customer service to embrace and one to fear the Open Data Initiative"
 date: 2018-10-15T21:39:48.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1a5e2d6bdb49e700a39a0b55ca9619d2"
 ---
 <p><img class="alignnone  wp-image-3349" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/10/odi.jpg" alt="ODI" width="379" height="250" align="right" /> Despite living in a highly technical world, one of the greatest challenges companies face is collecting and maintaining customer data–demographics, products, usage, etc.–and then utilizing that data to craft experiences beneficial to customers. Granted, there are some exceptions out there, but generally speaking despite all the intel available on customers from in-store and online purchases as well as interactions with customer service, companies lack the ability or will to use this wealth of data to created personalized, low-friction experiences for customers. If most companies themselves aren&#39;t doing this with the data they are collecting, this is most certainly not happening <em>across</em> companies, where that interaction history at one company can be used by another for greater insights.</p>

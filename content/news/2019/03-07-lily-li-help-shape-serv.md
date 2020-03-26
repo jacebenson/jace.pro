@@ -1,6 +1,7 @@
 ---
 title: "Help shape ServiceNows new digital experience for developers"
 date: 2019-03-06T22:44:56.000Z
+authors: ["Lily Li"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=86410119dbc87b88d58ea345ca961960"
 ---
 <p>ServiceNow is on a quest to build a one-stop hub that provides an intuitive, contextual, and personalized digital experience for developers to contribute, educate, and learn about ServiceNow. To help you become successful and be recognized on your journey - but we can’t do it without you!  </p>

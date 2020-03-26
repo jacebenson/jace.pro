@@ -1,6 +1,7 @@
 ---
 title: "Lembrete  Agradecimento e Pesquisa de Satisfao SNUG Brazil Digital"
 date: 2020-03-24T21:24:23.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4d1fdeb8db3f44d42be0a851ca9619d8"
 ---
 <p>Prezado Participante, </p>

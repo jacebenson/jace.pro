@@ -1,6 +1,7 @@
 ---
 title: "Video Scripting Complex Queries Quickly"
 date: 2016-09-21T03:29:32.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7d6dea29dbd0dbc01dcaf3231f961959"
 ---
 <p>In this video I show you how to use the list filter condition builder to create complex queries and use them in your scripts.</p>

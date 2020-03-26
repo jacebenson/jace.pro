@@ -1,6 +1,7 @@
 ---
 title: "Copy Attachments"
 date: 2015-08-14T17:16:53.000Z
+authors: ["Mike Allen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9a2d66e5dbd0dbc01dcaf3231f9619c2"
 ---
 <p>The use case was to allow users to have the call record as their main entry point.   So, anytime they want to attach something to their case, they would attach it to the call.   This attachment does not copy over to the related incident.   I scripted a business rule that sits on sys_attachment to do the copy.</p><p></p><pre __default_attr="javascript" __jive_macro_name="code" class="_jivemacro_uid_14395634971388415 jive_text_macro jive_macro_code" jivemacro_uid="_14395634971388415" modifiedtitle="true">

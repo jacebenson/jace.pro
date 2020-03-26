@@ -1,6 +1,7 @@
 ---
 title: "Tennessee SNUG Name Changed to Nashville"
 date: 2018-09-11T02:52:16.000Z
+authors: ["tracyo'brien"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5636265cdb686f0067a72926ca96196d"
 ---
 <p>We have recently separated the Tennessee SNUG into three separate ones (Nashville, Memphis, and Knoxville) in order to better map our members geographically. All members of the Tennessee SNUG are now members of the Nashville SNUG by default as it had the largest number of members.</p>

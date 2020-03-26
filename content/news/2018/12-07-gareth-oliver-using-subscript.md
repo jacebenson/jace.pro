@@ -1,6 +1,7 @@
 ---
 title: "Using Subscription Management to Monitor License Usage"
 date: 2018-12-07T04:14:31.000Z
+authors: ["gareth.oliver"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ecada6d4db162f00107d5583ca9619f0"
 ---
 <p>Are you getting the best value from your licenses?</p>

@@ -1,6 +1,7 @@
 ---
 title: "Want a Word Cloud Weve got you covered"
 date: 2018-05-25T20:55:42.000Z
+authors: ["michelle.m"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cae84921db5a93802b6dfb651f96199a"
 ---
 <p>Did you know that a new Word Cloud Performance Analytics widget was rolled out in the Kingston release?</p>

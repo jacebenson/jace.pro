@@ -1,6 +1,7 @@
 ---
 title: "Dedicated online communities for HR Security and Customer Service"
 date: 2019-08-15T19:32:25.000Z
+authors: ["tracyo'brien"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6c84365ddb1b3f004819fb24399619b8"
 ---
 <p>We know our customers have questions and want discussions relating to specific ServiceNow products and solutions.</p>

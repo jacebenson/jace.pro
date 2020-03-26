@@ -1,6 +1,7 @@
 ---
 title: "Heres how you compare"
 date: 2019-01-16T20:49:34.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2ef054a9db8be340afc902d5ca9619d2"
 ---
 <p class="p1">Understanding your KPI performance is the first step toward cost saving and improving the employee experience.</p>

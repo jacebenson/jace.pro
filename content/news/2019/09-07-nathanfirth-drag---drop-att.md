@@ -1,6 +1,7 @@
 ---
 title: "Drag  Drop Attachments for Service Portal  FREE Widget"
 date: 2019-09-06T06:41:33.000Z
+authors: ["nathanfirth"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7a0755901b773348d01143f6fe4bcba8"
 ---
 <p>I&#39;ve had a lot of requests regarding how to best handle attachments on catalog items and record producers in Service Portal. Previously, I had created a widget that allowed developers to make attachments required on a catalog form, but since ServiceNow also added that capability in Madrid I thought it was time for an update. This new release also adds many new features, including Drag &amp; Drop support, all without touching the OOB widgets.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Mandatory Check"
 date: 2012-09-21T09:00:21.000Z
+authors: ["adiddigi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a95d6629dbd0dbc01dcaf3231f961982"
 ---
 <p>There is a direct g_form object method which can be used to check if all the mandatory fields on the form are filled/not.<br /><br />Usually this method wouldn't be much use to you, because submit() function in itself will call this method to check if all the mandatory fields are filled or not.<br /><br />But this method will be a lifesaver, if you are working for an idea like "draft" in Service Catalog, where you need to make all the mandatory fields on the form non-mandatory, but still track the mandatory fields that weren't filled when the "draft" button is clicked(You need to call this method in draft button, before you make all mandatory fields non mandatory, and hence get all the mandatory fields which are not filled)<br /><br /><pre __default_attr="plain" __jive_macro_name="code" class="jive_text_macro jive_macro_code"><br /><br />var arr = g_form.getMissingFields();<br />alert("The ID s of fields that are mandatory are not filled : " + arr);<br /></pre><br /><br />If arr is empty then all the mandatory fields are filled. arr gives a comma separated ids of all the fields that are mandatory and are not filled.</p>

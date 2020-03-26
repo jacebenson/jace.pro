@@ -1,6 +1,7 @@
 ---
 title: "Risk and Compliance Implementation Course is LIVE"
 date: 2018-11-13T20:48:20.000Z
+authors: ["Jan Spurlin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d8fae634dbf96f00afc902d5ca9619b4"
 ---
 <p>The new two-day Risk and Compliance Implementation class is now available!  The first public virtual class is scheduled for December 13-14 (Thurs-Fri).  Then there are additional classes in January, February and March on the calendar.</p>

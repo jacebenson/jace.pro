@@ -1,6 +1,7 @@
 ---
 title: "New York release  Enable context menu for script includes Glide APIs via JavaScript Editor"
 date: 2019-08-13T19:25:18.000Z
+authors: ["Deepak Ingale"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=78bf5474dbd773805ed4a851ca96191d"
 ---
 <p class="ng-scope">NOTE: MY POSTINGS REFLECT MY OWN VIEWS AND DO NOT NECESSARILY REPRESENT THE VIEWS OF MY EMPLOYER, DELOITTE.</p>

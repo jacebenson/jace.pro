@@ -1,6 +1,7 @@
 ---
 title: "Service Catalog Use Cases"
 date: 2019-08-15T06:53:09.000Z
+authors: ["Sanjiv Meher"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d2b6081ddb5fbf041cd8a345ca9619f5"
 ---
 <p>As always, I would like to provide solutions to the most common use cases we work on in our projects. This time it is Service Catalog Use cases.</p>

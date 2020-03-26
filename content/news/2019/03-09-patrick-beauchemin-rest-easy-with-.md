@@ -1,6 +1,7 @@
 ---
 title: "REST Easy with IntegrationHub"
 date: 2019-03-08T07:03:00.000Z
+authors: ["Patrick Beauchemin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=73dc77e5dbc87300f7fca851ca9619f3"
 ---
 <p>ServiceNow continues to innovate when it comes to integrating with other tools from the ServiceNow platform.  This blog will focus in that ability to integrate with APIs using <a href="https://docs.servicenow.com/bundle/madrid-servicenow-platform/page/administer/flow-designer/concept/flow-designer.html" rel="nofollow">Flow Designer</a> and <a href="https://docs.servicenow.com/bundle/madrid-servicenow-platform/page/administer/integrationhub/concept/integrationhub.html" rel="nofollow">IntegrationHub</a> and explain a migration path for consuming those APIs using Workflow and Orchestration to Flow Designer and IntegrationHub.  This blog will focus on integrating with REST APIs but most of the following stands true for SOAP as well.  For those of you who are reading this and saying, “<em>what the heck is an api?”  </em>I would suggest watching <a href="https://www.youtube.com/watch?v&#61;qW1qhb8r8xI" rel="nofollow">this video</a> by Glitch on YouTube, where the creator explains the power of APIs and how they connect the modern services we consume at home or work every day.  The best part Danielle Thé easily explains this technical topic with Legos, so now my Seven-year-old totally understands how APIs are utilized when he logs into <a href="https://code.org/" rel="nofollow">Code.org</a> with his google account.</p>

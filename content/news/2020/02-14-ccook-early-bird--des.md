@@ -1,6 +1,7 @@
 ---
 title: "Early Bird Desconto Knowledge  extendido at  de Fevereiro"
 date: 2020-02-14T01:39:50.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c63c09c4db8bcc10d82ffb2439961969"
 ---
 <p><strong>Prezados Membros da Comunidade, </strong></p>

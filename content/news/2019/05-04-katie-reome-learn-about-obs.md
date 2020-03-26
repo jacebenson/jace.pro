@@ -1,6 +1,7 @@
 ---
 title: "Learn about observability with Datadog  Knowledge "
 date: 2019-05-04T01:48:10.000Z
+authors: ["Katie Reome"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f22524ccdb15b388feb1a851ca96196d"
 ---
 <h1>Learn about observability with Datadog &#64; Knowledge 2019</h1>

@@ -1,6 +1,7 @@
 ---
 title: "Video Change Management Overview"
 date: 2017-11-11T00:13:26.000Z
+authors: ["marystromberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=497dae29dbd0dbc01dcaf3231f9619f4"
 ---
 <p>This video provides an introduction to change management as described by the Information Technology Infrastructure Library (ITIL) framework. Demonstrates change management in the ServiceNow platform. I applies to all supported ServiceNow releases as of Jakarta. The itil or change_manager roles are required to perform actions shown in this video.</p><p></p><p style="text-align: center;"><em>For best video quality, increase your player resolution to 1080p.</em></p><p></p><p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/3f_v7HqRgM0?rel=0" width="640"> 

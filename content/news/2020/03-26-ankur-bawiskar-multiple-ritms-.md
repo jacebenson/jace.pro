@@ -1,6 +1,7 @@
 ---
 title: "Multiple RITMs in same Request Using CartAPI"
 date: 2020-03-25T13:29:27.000Z
+authors: ["Ankur Bawiskar"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3dfb35c5dbfb04945129a851ca961942"
 ---
 <p>Many a times you would require script to create multiple RITMs for same Catalog Item under single Request.</p>

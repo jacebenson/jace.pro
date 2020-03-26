@@ -1,6 +1,7 @@
 ---
 title: "Call to Sponsor for the Maryland SNUG"
 date: 2018-01-19T04:08:10.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=861d22e5dbd0dbc01dcaf3231f961975"
 ---
 <p style="font-family: arial, sans-serif; color: #666666;">Good Afternoon,</p><p></p><p style="font-family: arial, sans-serif; color: #666666;">Posting a "Call to Sponsor" for the Maryland SNUG in March. Partners that are interested in sponsoring, please submit an application on the <a href="https://partnerportal.service-now.com/">partner portal <strong>ASAP</strong>.</a> If you have any questions regarding sponsorship details or filling out an application, please let me know.</p><p></p><p style="font-family: arial, sans-serif; color: #666666;">Thank you.</p><p></p><p style="font-family: arial, sans-serif; color: #666666;">Caterine Alvarenga</p><p style="font-family: arial, sans-serif; color: #666666;">ServiceNow<a href="mailto:caterine.alvarenga@servicenow.com"><br/></a></p><p style="font-family: arial, sans-serif; color: #666666;"><a title="terine.alvarenga@servicenow.com" href="mailto:caterine.alvarenga@servicenow.com">caterine.alvarenga@servicenow.com</a></p>

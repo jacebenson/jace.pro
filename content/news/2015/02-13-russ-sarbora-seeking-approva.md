@@ -1,6 +1,7 @@
 ---
 title: "Seeking Approval  Part  Task vs nonTask approvals and the Approval  Group Activity"
 date: 2015-02-12T21:07:12.000Z
+authors: ["russ.sarbora"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0bcda2e9dbd0dbc01dcaf3231f96198d"
 ---
 <p>In <a title="basic approvals" href="community?id&#61;community_blog&amp;sys_id&#61;2f1da2e5dbd0dbc01dcaf3231f961966" target="_blank" rel="nofollow">Part 1 of this series</a>, I covered the basics of how workflow approval activities work. This time, I&#39;m going to peel back the covers a bit more, and look at the difference between approvals for records from task-derived tables vs non-task-derived tables. Then we&#39;ll take a look at the Approval - Group activity, which only works with task-derived records.</p>

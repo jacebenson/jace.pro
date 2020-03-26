@@ -1,6 +1,7 @@
 ---
 title: "Using cyber exposure to objectively measure cyber risk"
 date: 2019-05-24T07:10:18.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=50bee8aadbe1ff04fece0b55ca96197d"
 ---
 <p>Cyber Exposure is an emerging discipline for managing and measuring cybersecurity risk in the digital era. It transforms security and risk from a static and siloed state to one that is dynamic and holistic.  </p>

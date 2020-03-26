@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Subscription Management   Did you know"
 date: 2018-08-17T22:50:40.000Z
+authors: ["ronhill"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d9c88aa0db802380d58ea345ca961902"
 ---
 <p>If you are an ServiceNow Admin and are struggling to make sure the right users have the right access to the various applications, take a <a title="ServiceNow Subscription Mgmt." href="https://youtu.be/OEy9SV-cLNY" rel="nofollow">look at this video</a>.  If you manage you ServiceNow subscriptions this is better way of doing it.</p>

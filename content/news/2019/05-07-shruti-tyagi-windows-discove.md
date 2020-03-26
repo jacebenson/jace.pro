@@ -1,6 +1,7 @@
 ---
 title: "Windows Discovery now requires PowerShell version  or higher up to  installed on the Windows target host"
 date: 2019-05-06T20:50:28.000Z
+authors: ["shruti.tyagi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0bcdf6b4db913348fff8a345ca961918"
 ---
 <p>If your Windows discovery taking a long time to complete and having errors like <em>&#34;PowershellProcessRunner was interrupted to complete in 600 seconds&#34;</em> in the classification or any other probe, read on.</p>

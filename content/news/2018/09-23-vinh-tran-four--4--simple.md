@@ -1,6 +1,7 @@
 ---
 title: "Four  Simple Steps Integrating Datadog to ServiceNow Event Management via Datadog Webhook"
 date: 2018-09-22T19:21:21.000Z
+authors: ["Vinh Tran"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=161272c0db38e7c023f4a345ca961970"
 ---
 <p>A few months ago, I had an opportunity to work with a ServiceNow customer on integrating their Datadog solution with <a href="https://www.servicenow.com/products/event-management.html%22%20%5Co%20%22Event%20Management" rel="nofollow"><span class="s1">Event Management</span></a> using one of the update set developed by Datadog.<span class="Apple-converted-space">  </span>It took some time to get everything working due to the following challenges:</p>

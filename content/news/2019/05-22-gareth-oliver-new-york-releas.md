@@ -1,6 +1,7 @@
 ---
 title: "New York release  register for Early Access andor Release Testing Preview"
 date: 2019-05-21T05:12:53.000Z
+authors: ["gareth.oliver"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9b07742ddb693b805129a851ca9619e0"
 ---
 <p>New York Release Testing Preview and Early Availability registrations are now open – you are invited to register today <a href="http://app.connect.servicenow.com/e/er?s&#61;1133&amp;lid&#61;15458&amp;elqTrackId&#61;83893546f39a472aa62a63f90cf5d5df&amp;elq&#61;00000000000000000000000000000000&amp;elqaid&#61;31595&amp;elqat&#61;1" target="_blank" rel="noopener noreferrer nofollow"><u>here</u></a>. <br /><br />As of the New York release you can self-register and gain access to both Release Testing Preview and Early Availability programs with a single registration!</p>

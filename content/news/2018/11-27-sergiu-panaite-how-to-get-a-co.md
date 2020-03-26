@@ -1,6 +1,7 @@
 ---
 title: "How to get a count of records for each table in ServiceNow instances"
 date: 2018-11-26T14:02:50.000Z
+authors: ["sergiu.panaite"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=13cac8cddb0aa7c07d3e02d5ca9619c2"
 ---
 <p>Have you ever needed to get full count of all tables in one go in ServiceNow?</p>

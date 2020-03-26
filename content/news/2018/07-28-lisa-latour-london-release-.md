@@ -1,6 +1,7 @@
 ---
 title: "London Release  Collected Links of Interest"
 date: 2018-07-27T07:01:59.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=33366265db275784a39a0b55ca9619b5"
 ---
 <div style="font-size: 12pt; font-family: &#39;Century Gothic&#39;; color: #293e40;">

@@ -1,6 +1,7 @@
 ---
 title: "Building out your ITAM Support Team"
 date: 2019-05-24T23:51:51.000Z
+authors: ["Callan Bond"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=53e35032db29fb8414d6fb2439961943"
 ---
 <p><span style="font-size: 12pt;"><strong>You&#39;ve Worked Through Your SAM Implementation. Now What?</strong></span></p>

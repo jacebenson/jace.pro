@@ -1,6 +1,7 @@
 ---
 title: "Join us at the Ritz Carlton McLean on  for our Mission Possible event  Automating Response to Cyber Exposure"
 date: 2018-08-23T20:06:46.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0bcc1c26db082704fff8a345ca9619e7"
 ---
 <p>Join ServiceNow, Tenable, and Optiv for Mission Possible, a free lunch event. Learn how customers use automated prioritization and workflows to resolve the most critical vulnerabilities first, reducing the risk window and potential exposure.</p>

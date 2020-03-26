@@ -1,6 +1,7 @@
 ---
 title: "Is chatbot a misnomer Lets think about what creates successful chat experiences"
 date: 2019-06-22T17:45:00.000Z
+authors: ["dangrady510"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=18165c08db967fc09540e15b8a9619f2"
 ---
 <p>A chatbot is a computer program that simulates interactive human conversations.</p>

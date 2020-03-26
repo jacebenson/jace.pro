@@ -1,6 +1,7 @@
 ---
 title: "ServiceNowBox"
 date: 2020-02-28T06:10:39.000Z
+authors: ["Toru Inoue"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a5705a20db97889023f4a345ca9619be"
 ---
 <p class="ng-scope"><em>※本記事は、ServiceNowのパートナー様より寄稿いただいたものをServiceNow社員が代理で投稿しています</em></p>

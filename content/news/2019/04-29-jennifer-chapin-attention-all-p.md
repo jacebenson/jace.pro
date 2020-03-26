@@ -1,6 +1,7 @@
 ---
 title: "Attention all PreConference training attendees"
 date: 2019-04-28T22:37:18.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8e898e52db4df7045129a851ca96192c"
 ---
 <p>Hello all Pre-Conference training attendees!</p>

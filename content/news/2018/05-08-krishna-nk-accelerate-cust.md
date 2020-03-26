@@ -1,6 +1,7 @@
 ---
 title: "Accelerate Customer Success with Infosys ESM Cafe   Meet us at ServiceNow Knowledge "
 date: 2018-05-08T02:14:13.000Z
+authors: ["krishna.nk"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6035657fdb7ddf00852c7a9e0f9619de"
 ---
 <p>Service Management is not so much so about having the best technology, the best devices, or just Serving End users. It is about managing your customers’ expectations and needs. This means delivering superior Customer experience - more precisely deliver a consumer-world, on-demand, as-imagined experience in a short time span.</p>

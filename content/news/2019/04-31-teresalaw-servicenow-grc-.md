@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow GRC and RiskLens  Managing Risk Based on the Impact to Your Business"
 date: 2019-04-30T07:54:22.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=37929176db49bb04fece0b55ca96196f"
 ---
 <p> </p>

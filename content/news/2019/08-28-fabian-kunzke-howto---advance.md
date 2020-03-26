@@ -1,6 +1,7 @@
 ---
 title: "HowTo  advanced Ajax Calls A custom chart framework"
 date: 2019-08-27T16:56:08.000Z
+authors: ["Fabian Kunzke"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=08d34055dbafffc013b5fb24399619a5"
 ---
 <p>This blog will extend the pevious blog about simple AjaxCalls by introducing a more complex usecase: custom reports.</p>

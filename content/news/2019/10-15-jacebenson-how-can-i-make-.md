@@ -1,6 +1,7 @@
 ---
 title: "How can I make my MVRS variables depend on other variables"
 date: 2019-10-14T21:49:45.000Z
+authors: ["jacebenson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5d531c78dbe4049423f4a345ca96190e"
 ---
 <p>FYI, this is a reposting of my post here: <a href="https://jace.pro/post/2019-09-06-mvrs-dependent-variables/" rel="nofollow">https://jace.pro/post/2019-09-06-mvrs-dependent-variables/</a></p>

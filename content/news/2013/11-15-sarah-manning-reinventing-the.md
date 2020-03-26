@@ -1,6 +1,7 @@
 ---
 title: "Reinventing the Role of IT Lets Talk Live"
 date: 2013-11-14T22:53:22.000Z
+authors: ["sarah.manning"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ac8de269dbd0dbc01dcaf3231f961991"
 ---
 <p>You're Invited: Join ServiceNow and SiliconANGLE for a live social media discussion on <b>Tuesday, November 19 from 8:30-9:30am PST</b>. <br /><br /><b>Abstract: Reinventing the Role of IT</b><br /><i>The role of IT as "Infrastructure Keeper" is quickly coming to a close. So how can you re-allocate resources and re-establish relevance? How can you rise to become a provider of services and a true partner to your company's business? With the rigor and discipline you've applied to running IT, you can now change the enterprise by reengineering processes and driving productivity to manage service relationships across the business. Join us for a Crowd Chat to discuss why IT is well positioned to drive change and why now is the time to reinvent the role of IT.</i><br /><br />Participating is easy — just sign into the <a title="ww.crowdchat.net/TransformIT" href="https://www.crowdchat.net/TransformIT">event page</a> using your Twitter OR LinkedIn account. From there you can invite others, advertise your participation and add the event to your calendar. The conversation will appear on this page once the event has started with the hashtag <b>#TransformIT</b>. <br /><br />We hope to see you there!</p>

@@ -1,6 +1,7 @@
 ---
 title: "Respond to Misconfigured Software and Phishing Emails with New Security Operations Capabilities"
 date: 2018-01-11T22:25:32.000Z
+authors: ["janenec"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=399c2ee1dbd0dbc01dcaf3231f9619dc"
 ---
 <p><span style="font-size: 11.0pt;"><img class="image-5 jive-image" style="width: 339px; height: 177.249px; float: left;" src="b27c2ccedbd45f048c8ef4621f96193f.iix" alt="pastedImage_0.png" width="339" height="177" /></span></p>

@@ -1,6 +1,7 @@
 ---
 title: "Orlando Early Access for Technology Partners"
 date: 2019-12-22T14:28:44.000Z
+authors: ["Pradeep Sharma"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7e5675fadbf1489013b5fb2439961936"
 ---
 <p class="ng-scope">Note: <em>Do not publish/demo/promote in any way your Orlando instance to anyone who has not agreed to our program&#39;s legal terms and conditions (completed when joining the TPP). </em></p>

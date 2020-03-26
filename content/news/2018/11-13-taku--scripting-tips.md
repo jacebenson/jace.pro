@@ -1,6 +1,7 @@
 ---
 title: "Scripting Tips GlideRecord"
 date: 2018-11-12T17:32:16.000Z
+authors: ["taku"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2674b4acdbf127002e8c2183ca9619ab"
 ---
 <p>[Scripting Tipsシリーズ]と題しまして、Scriptingに関する小技を紹介していきます。<br />本シリーズは、「ある程度のスクリプティングはできるスキルレベル」を前提としておりますので、細かい解説は省略していきますのでご了承ください。</p>

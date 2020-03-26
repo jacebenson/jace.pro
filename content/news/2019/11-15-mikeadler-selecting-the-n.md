@@ -1,6 +1,7 @@
 ---
 title: "Selecting the Now Platform Data Encryption Solutions"
 date: 2019-11-15T02:20:34.000Z
+authors: ["mikeadler"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e7dc2cb61bc1c450ada243f6fe4bcbbe"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/14caacfe1b01c450ada243f6fe4bcb83.iix" width="329" height="262" /></p>

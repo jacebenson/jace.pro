@@ -1,6 +1,7 @@
 ---
 title: "Orlando Early Release Open for Registration"
 date: 2019-12-09T04:37:38.000Z
+authors: ["gareth.oliver"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e162b0e2dba1c01023f4a345ca96191a"
 ---
 <p>Here&#39;s an early Christmas present!! :)</p>

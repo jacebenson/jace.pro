@@ -1,6 +1,7 @@
 ---
 title: "Three reasons rulebased chatbots rule"
 date: 2018-10-01T20:36:14.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=be89d18fdbb0afc0a39a0b55ca9619c2"
 ---
 <p><img class="alignnone  wp-image-3337" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/09/arrows-box-business-533189.jpg" alt="arrows-box-business-533189" width="427" height="320" align="left" /> Chatbots continue to <a href="https://www.forbes.com/sites/forbescommunicationscouncil/2018/02/21/using-chatbots-as-a-customer-service-virtual-agent/#1730d7da2a90" target="_blank" rel="nofollow">gain in popularity in customer service</a>. There&#39;s no questioning why: they can address most simple customer issues 24X7 every day of the year at a lower cost than a customer service agent. It&#39;s no wonder <a href="https://www.gartner.com/en/newsroom/press-releases/2018-02-19-gartner-says-25-percent-of-customer-service-operations-will-use-virtual-customer-assistants-by-2020" target="_blank" rel="nofollow">Gartner predicts</a> twenty-five percent of customer service and support operations will be using some type of chatbot by 2020. 2020 will also be the year, according to another <a href="https://www.inc.com/rebecca-hinds/by-2020-youre-more-likely-to-have-a-conversation-with-this-than-with-your-spouse.html" target="_blank" rel="nofollow">prediction by Gartner</a>, that eighty-five percent of all customer service interactions will be handled by a chatbot.</p>

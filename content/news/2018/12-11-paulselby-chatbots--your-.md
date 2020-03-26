@@ -1,6 +1,7 @@
 ---
 title: "Chatbots your private investigators in customer service"
 date: 2018-12-10T06:19:48.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=45176e51db5eab00fb4ae15b8a961975"
 ---
 <div class="wp-block-image">

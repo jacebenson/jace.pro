@@ -1,6 +1,7 @@
 ---
 title: "Doing More With Formula Indicators"
 date: 2018-01-20T01:00:55.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1f0d2ea5dbd0dbc01dcaf3231f961947"
 ---
 <p>The discussion below is intended for advanced Performance Analytics users who have 6 or months experience with Performance Analytics and the same or more experience with the ServiceNow Platform.   The advanced topics covered assume that you understand the basics of Performance Analytics and have a working knowledge of JavaScript.</p>

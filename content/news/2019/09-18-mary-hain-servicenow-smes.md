@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow SMEs will share how we use our own products to run our business at the NowWork global events this fall"
 date: 2019-09-18T03:27:48.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=35cd1a44dbccc01023f4a345ca961964"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/8e7d1a80dbccc01023f4a345ca9619ae.iix" /></p>

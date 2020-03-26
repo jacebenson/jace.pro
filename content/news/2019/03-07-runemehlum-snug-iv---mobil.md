@@ -1,6 +1,7 @@
 ---
 title: "SNUG IV  Mobile Studio Advanced Breakout lab"
 date: 2019-03-06T18:07:45.000Z
+authors: ["runemehlum"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=add1cc19db08fb48feb1a851ca961944"
 ---
 <p>Hei Snuggere</p>

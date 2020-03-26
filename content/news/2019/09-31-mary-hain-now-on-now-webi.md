@@ -1,6 +1,7 @@
 ---
 title: "Now on Now webinar How ServiceNow is changing IT selfservice for its employees  am PT Wed Oct "
 date: 2019-10-01T02:54:59.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c4f2959cdbd848905ed4a851ca9619f1"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/50ce4d28db9408d05ed4a851ca961975.iix" /></p>

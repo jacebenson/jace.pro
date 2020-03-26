@@ -1,6 +1,7 @@
 ---
 title: "Round Up Knowledge Content Dos and Donts"
 date: 2018-09-18T17:07:46.000Z
+authors: ["jaimehonaker"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=162d25badba827c0fece0b55ca96195a"
 ---
 <p>We hope you enjoyed our series of the dos and the don&#39;ts of content creation. We wanted to make it easier for those leading Knowledge Management in their company to guide their authors. Empowerment and encouragement are the greatest tools to success when it comes to sharing information.</p>

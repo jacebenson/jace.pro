@@ -1,6 +1,7 @@
 ---
 title: "A better user experience for Transferring an Incident to a Request"
 date: 2018-06-15T00:43:48.000Z
+authors: ["Michael Fry"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=daecfc84dbb2db40b2102926ca961969"
 ---
 <p>Ever try to create a Request from an Incident?</p>

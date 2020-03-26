@@ -1,6 +1,7 @@
 ---
 title: "Client script be gone Here comes UI Policy"
 date: 2018-10-14T02:30:54.000Z
+authors: ["Göran Lundqvist"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4fcdd04bdb0d23000be6a345ca9619d7"
 ---
 <p>It almost passed my eyes, but luckily Philip made me aware of it in one of my other posts about not using DOM manipulation in client scripts (<a href="https://www.linkedin.com/feed/update/urn:li:activity:6454108981790072832/" target="_blank" rel="nofollow">LINK</a>). This is also a very good example of sharing knowledge is great! If I haven&#39;t shared my stuff about client script, I might never have gotten the knowledge about the UI Policies.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Data Checks for Group without Users Manager Parent Type"
 date: 2020-01-01T16:38:54.000Z
+authors: ["Jaspal Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=df04f18edbcec4145ed4a851ca96196d"
 ---
 <p>Data management on ServiceNow platform for smooth functioning is must &amp; should be given utmost importance. For instance, there is a workflow that requires Group Manager&#39;s approval for fulfillment but the Group does not have Manager data updated. Another one being, a task to be fulfilled &amp; is assigned to a team/group which does not have members. </p>

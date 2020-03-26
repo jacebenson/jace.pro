@@ -1,6 +1,7 @@
 ---
 title: "New Study Driving Digital Transformation and Business Value with ServiceNow"
 date: 2019-01-15T03:48:07.000Z
+authors: ["Deaddin Edris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=029d5330db07ab002737e15b8a961953"
 ---
 <p><img style="max-width: 100%; max-height: 480px; float: right; margin-left: 10px;" src="90eed3f8db03ab00fb4ae15b8a96196d.iix" width="232" height="301" />ServiceNow recently commissioned Forrester Consulting to conduct a Total Economic Impact (TEI) study examining the potential business benefits enterprises can realize by using ServiceNow as a catalyst for business transformation. </p>

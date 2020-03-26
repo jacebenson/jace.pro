@@ -1,6 +1,7 @@
 ---
 title: " Webinar Effective Workshops  Preparation Execution and Outcomes"
 date: 2019-12-11T01:08:05.000Z
+authors: ["carolineluong"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9395decfdbe944506064eeb5ca96193c"
 ---
 <p><strong><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/a7778973db65c8906064eeb5ca96197d.iix" />Register <a href="https://www.servicenow.com/lpwbr/effective-workshops-preparation-execution-and-outcomes.html" rel="nofollow">HERE</a></strong></p>

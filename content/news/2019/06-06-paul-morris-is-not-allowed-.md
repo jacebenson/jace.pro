@@ -1,6 +1,7 @@
 ---
 title: "Is Not Allowed In Scope The Only Workaround Guide You Need"
 date: 2019-06-05T17:34:54.000Z
+authors: ["Paul Morris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=72b0f06adb3d33801cd8a345ca96194d"
 ---
 <h3>Contents</h3>

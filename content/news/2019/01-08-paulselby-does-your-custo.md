@@ -1,6 +1,7 @@
 ---
 title: "Does your customer service only treat the symptoms"
 date: 2019-01-07T23:00:45.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=10b81ea2db7a6b80656a5583ca9619ce"
 ---
 <div class="wp-block-image alignnone wp-image-3455">

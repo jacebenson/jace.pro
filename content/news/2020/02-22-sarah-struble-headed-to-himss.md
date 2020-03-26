@@ -1,6 +1,7 @@
 ---
 title: "Headed to HIMSS We hope to see you there"
 date: 2020-02-22T04:38:50.000Z
+authors: ["Sarah Struble"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5ee10726dbcb441023f4a345ca9619c5"
 ---
 <p><a href="https://www.himssconference.org/" target="_blank" rel="noopener noreferrer nofollow">HIMSS</a>, one of the world&#39;s largest health IT conferences, is just around the corner, and I couldn&#39;t be more excited. ServiceNow will be in Orlando March 9-13 participating in CHIME events, like the <a href="https://www.himssconference.org/education/chime-cio-forum" target="_blank" rel="noopener noreferrer nofollow">CIO Forum</a>; presenting at a lunch and learn (sold out) and in a theater session; and meeting with customers and analysts. </p>

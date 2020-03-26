@@ -1,6 +1,7 @@
 ---
 title: "Getting started as a ServiceNow System Administrator"
 date: 2019-12-04T20:24:50.000Z
+authors: ["Jeff Currier"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2b3b1ac5db21c89cfeb1a851ca9619dc"
 ---
 <p> </p>

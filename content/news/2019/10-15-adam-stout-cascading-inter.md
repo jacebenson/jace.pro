@@ -1,6 +1,7 @@
 ---
 title: "Cascading Interactive Filters  Office Hours  Aug  Recap"
 date: 2019-10-14T22:52:36.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3db1e070dbac4c185129a851ca961903"
 ---
 <p>In August, as part of a <a href="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" rel="nofollow">Performance Analytics and Reporting Office Hours</a>, we covered Cascading Interactive Filters. Cascading Interactive Filters are essentially a group of multiple reference filters together in one block. Each level depends on the previous selection.</p>

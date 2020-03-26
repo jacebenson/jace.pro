@@ -1,6 +1,7 @@
 ---
 title: "The Power of Major Incident Management  Part  The Major Incident Management Process"
 date: 2018-04-16T19:00:06.000Z
+authors: ["Anne Barnes"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e8787bf4dbed5fc0fc5b7a9e0f96192f"
 ---
 <p>This is part 2 of a three part series on Major Incident Management (MIM).  In <a href="community?id&#61;community_blog&amp;sys_id&#61;9583147adb995b00fc5b7a9e0f961901" rel="nofollow">Part 1</a> we discussed Activation and Properties.  In this blog we will talk about MIM features and process.  However, before that, a quick recap of what is <a href="https://docs.servicenow.com/bundle/kingston-it-service-management/page/product/incident-management/concept/major-incident-management.html" rel="nofollow">Major Incident Management.</a></p>

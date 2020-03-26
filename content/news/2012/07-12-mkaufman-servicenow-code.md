@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Code Backups"
 date: 2012-07-11T20:02:22.000Z
+authors: ["mkaufman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=61dca665dbd0dbc01dcaf3231f961932"
 ---
 <p><p><img src="http://i.imgur.com/czjlR.png" alt="Backup" width="100px" align='right' /><br />Are you worried the cloud will fall from the sky? Concerned someone will "adjust" your update set accidentally? Concerned <strong>you</strong> will "adjust" your update set? :)<br /><br />Your hours spent staring at code is valuable! Backup your stuff and rest easy.</p><br /><!--break--><br /><br /><strong>ServiceNow Update Sets</strong><br /> <br />Use Update Sets to add your customizations to an Update Set<br /><br />http://wiki.servicenow.com/index.php?title=Using_Update_Sets<br /><br /><strong>ServiceNow Code Backup (Single XML)</strong><br /><br />Check out this SNCWiki article about backing up your Update Set to XML:<br /><br />http://wiki.service-now.com/index.php?title=Saving_Customizations_in_a_Single_XML_File<br /><br /><strong>Tracked Customizations</strong><br /> <br />Remember not all customizations are tracked in Update Sets. Below is list of tracked customizations:<br /><br />http://wiki.service-now.com/index.php?title=Tracked_Customizations_in_Update_Sets<br /><br />Use an implementation or release plan to keep track of your untracked customizations. You can also export single records to xml in certain cases.<br /><br />Mike</p>

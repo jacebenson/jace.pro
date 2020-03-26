@@ -1,6 +1,7 @@
 ---
 title: "How do the new KPIs are added to ServiceNow Benchmarks"
 date: 2019-09-23T05:15:58.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c376e4f1db8440d01cd8a345ca9619e3"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/3626a8b1db8440d01cd8a345ca961976.iix" width="370" height="457" /></p>

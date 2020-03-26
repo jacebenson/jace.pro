@@ -1,6 +1,7 @@
 ---
 title: "Striking Treasure When Customer Service Journey Mapping"
 date: 2018-07-23T20:43:29.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=aaebf0a8db6b13c0f7fca851ca96190a"
 ---
 <p><img class="alignnone  wp-image-3254" style="border: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/07/treasure-map-1850653.jpg" alt="treasure-map-1850653" width="423" height="282" align="right" /> My company has been working with a customer on a case study and an accompanying webinar. While this probably sounds very uninteresting, this customer has a particularly interesting story because it exposes the power of customer service journey mapping.</p>

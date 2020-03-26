@@ -1,6 +1,7 @@
 ---
 title: "Are YOU Registered for CreatorCon"
 date: 2018-04-24T03:48:48.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=21947513db6d57002b6dfb651f961907"
 ---
 <p><span style="font-weight: 400;">Every year Knowledge gets bigger and better, and since 2015, so does CreatorCon. CreatorCon is THE place to get your ServiceNow developer knowledge. Admission is free with your Knowledge 18 registration. All you need to do is check the checkbox on your </span><a href="https://knowledge.servicenow.com/sessions/creator-con.html" rel="nofollow"><span style="font-weight: 400;">registration form</span></a><span style="font-weight: 400;">. </span></p>

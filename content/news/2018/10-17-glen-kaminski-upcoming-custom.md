@@ -1,6 +1,7 @@
 ---
 title: "Upcoming Customer Success Center webinars"
 date: 2018-10-17T02:40:42.000Z
+authors: ["Glen Kaminski"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bbccbf3fdbc163405ed4a851ca961964"
 ---
 <p>Want to learn more about the Best Practices on the Customer Success Center? Join us for one of our webinars in the Customer Success &#64; Scale series!</p>

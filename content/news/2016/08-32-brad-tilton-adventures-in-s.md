@@ -1,6 +1,7 @@
 ---
 title: "Adventures in Service Portaling The Form Widget"
 date: 2016-08-31T20:00:00.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ac1eae2ddbd0dbc01dcaf3231f961949"
 ---
 <p style="font-family: arial, sans-serif; color: #666666;"><span style="color: #666666; font-family: arial, sans-serif;">One of the nice features of Service Portal is the sheer number of widgets that are included by default after activating the plugins. </span>In today&#39;s AISP (yep, I acronymed it) post I&#39;m going to explore one of those widgets a bit. The Form Widget.</p>

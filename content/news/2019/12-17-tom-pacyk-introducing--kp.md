@@ -1,6 +1,7 @@
 ---
 title: "Introducing KPI Composer"
 date: 2019-12-16T22:56:51.000Z
+authors: ["Tom Pacyk"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5f11b0c9dbb14c1014d6fb24399619f8"
 ---
 <p>We know that everyone has a natural inclination to start building dashboards at the beginning of an analytics project, and for good reason!<span class="Apple-converted-space"> </span>Dashboards are the most exciting and glamorous part — these are the shiny objects that everyone will use on a daily basis to make their lives better, in theory. But the reality is that most analytics projects fail or run way over budget because the stakeholders who were supposed to use these dashboards were not aligned about what to measure or how it would be measured. So these glorious dashboards and configurations your teams worked tirelessly to build either go unused or have to be completely redesigned once the stakeholders get a peek at your work.<span class="Apple-converted-space"> </span></p>

@@ -1,6 +1,7 @@
 ---
 title: "Conditional Scheduled Reports"
 date: 2010-10-15T03:39:22.000Z
+authors: ["CapaJC"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a28c2ae1dbd0dbc01dcaf3231f961978"
 ---
 <p>You wouldn't believe how many customers have asked for the ability to have a scheduled report (one that gets emailed on a schedule) NOT get sent if the report contains no data. The lack of data, in my mind, is still highly worth knowing, but nevertheless the requests keep coming.<br /><br />In /demo currently, and hopefully it will persist to be available in Fall 2010 Stable 1, is the ability to do this. There's a new "Conditional" checkbox on the scheduled report form. If checked, two other new fields are made visible. The first is "Omit if no data". If checked, then at run time the filter on the report in question gets evaluated to see if any records are returned. If none are, the report does not get emailed. The second field is a script field, where you can script anything you like to determine whether the report will get mailed. Set a variable "answer" to either true or false, just like in security ACLs, or simply have the last line declare something that true or false, like in the following two line script, which evaluates to true if today is Tuesday or Thursday:<br /><br />var d = new Packages.com.glide.glideobject.GlideDateTime();<br />d.getDayOfWeek() == 2 || d.getDayOfWeek() == 4;</p>

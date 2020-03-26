@@ -1,6 +1,7 @@
 ---
 title: "PPM Blog   Sprint  Workflows  Testing  Use Cases"
 date: 2019-02-23T01:58:12.000Z
+authors: ["Wesley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=587a339ddbb36bc0e0e80b55ca9619e2"
 ---
 <p><span style="font-size: 12pt;">So over the last four weeks, we have been validating our workflows for the following roles:</span><br /><span style="font-size: 12pt;">1) All stakeholders - Idea generation.</span><br /><span style="font-size: 12pt;">2) PMO - Idea Triage </span><br /><span style="font-size: 12pt;">3) Demand Manager - Review complete demands - Demand Mgr and Portfolio Mgr will be the same person.</span><br /><span style="font-size: 12pt;">4) Portfolio Manager - Our IT business owners - Portfolios is where the majority of the demands and projects will reside.</span><br /><span style="font-size: 12pt;">5) Program Manager - This will be our Sr. Project Managers have responsibility for larger initiatives. We don&#39;t think we will have many Programs. We have </span><br /><span style="font-size: 12pt;">6) CIO - We kept the CIO dashboard naming convention.</span><br /><span style="font-size: 12pt;">7) Project Review Board - This is our Sr. IT Mgr / CIO / PMO team</span><br /><span style="font-size: 12pt;">8) Project Leads - Could be a project manager or anyone in our IT group. We want everyone to understand that project leadership is just another discipline in anyone&#39;s job and to build our project-based culture.</span></p>

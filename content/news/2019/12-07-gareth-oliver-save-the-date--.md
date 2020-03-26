@@ -1,6 +1,7 @@
 ---
 title: "Save the date Brisbanes Future of Work in "
 date: 2019-12-06T07:01:25.000Z
+authors: ["gareth.oliver"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8a86bd291b698010d01143f6fe4bcbf7"
 ---
 <p>Hey folks,</p>

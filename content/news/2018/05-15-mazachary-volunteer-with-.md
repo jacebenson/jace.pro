@@ -1,6 +1,7 @@
 ---
 title: "Volunteer with ServiceNow Houston  Day of Service at the Houston Food Bank"
 date: 2018-05-14T06:18:17.000Z
+authors: ["mazachary"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c696d971db46d3044837f3231f961933"
 ---
 <p><strong>ServiceNow Houston</strong> is spearheading a work day at the <strong>Houston Food Bank</strong>. Help us make an impact on the fight against hunger! Last year, the Houston Food Bank fed 800,000 hungry people by distributing food through nearly 600 hunger relief agencies in 18 southeast Texas counties. Volunteers are critical to our success in the fight against hunger. Anyone over 16 years old is invited to participate.  Come join the ServiceNow Houston team on May 31 in making this a huge success!!!  We can support as many as 350 volunteers, so let&#39;s make this a huge event and put the &#34;Service&#34; in the ServiceNow community!!!</p>

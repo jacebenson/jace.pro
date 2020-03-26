@@ -1,6 +1,7 @@
 ---
 title: "Join the Challenge  IntegrationHub Spoke Gallery from REST in IntegrationHub training"
 date: 2018-11-06T22:38:48.000Z
+authors: ["bsweetser"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=12118f22db29a700afc902d5ca96191d"
 ---
 <p>After the success of the <a href="community?id&#61;community_question&amp;sys_id&#61;80050f2ddbd8dbc01dcaf3231f96192e" target="_blank" rel="nofollow">404 Page Challenge</a>, we want to put you to the test again! </p>

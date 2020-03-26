@@ -1,6 +1,7 @@
 ---
 title: "Lets talk swag"
 date: 2016-03-21T01:20:09.000Z
+authors: ["gaiatri"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=16edaee9dbd0dbc01dcaf3231f96199a"
 ---
 <p style="font-family: arial, sans-serif; color: #666666;">We all know why we love the Knowledge conference... unlimited learning, networking opportunities and yes, SWAG.</p><p></p><p style="font-family: arial, sans-serif; color: #666666;"><span style="font-size: 14pt;"><em><strong>Got pictures of yourself with your Knowledge swag on? It could be your favorite Knowledge backpack, T-shirt or any other swag item you acquired from the Knowledge conference.</strong></em></span></p><p style="font-family: arial, sans-serif; color: #666666;"></p><p style="font-family: arial, sans-serif; color: #666666;">It's time to dig out your favorite Knowledge swag "collectibles" and pose with them, and share with us here.</p><p style="font-family: arial, sans-serif; color: #666666;"></p><p style="font-family: arial, sans-serif; color: #666666;">Prizes for the most interesting photos will be given away at Knowledge16.</p><p style="font-family: arial, sans-serif; color: #666666;"></p><p style="font-family: arial, sans-serif; color: #666666;">                                                                                     <img   alt="creatorcon t-shirt.png" class="image-1 jive-image" src="68ca9d8edb18d304b322f4621f96196c.iix" style="height: auto;"/></p>

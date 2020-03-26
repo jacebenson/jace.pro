@@ -1,6 +1,7 @@
 ---
 title: "The Technology Partner Program The Store and Scoped Apps FAQs"
 date: 2017-02-23T00:10:46.000Z
+authors: ["David.Gatley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=24ad62a9dbd0dbc01dcaf3231f961933"
 ---
 <p>As new partners orient within the Technology Partner Program, or consider joining the program, I&#39;m often put in a place where I&#39;m answering many of the same questions. I&#39;ll be updating this blog post as more frequently asked questions emerge, for now, take a look at the following to see if any of the questions you may have are answered.</p>

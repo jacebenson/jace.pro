@@ -1,8 +1,8 @@
 ---
 title: "Service Mapping and Microsoft Windows Clusters"
 date: 2019-05-07T02:33:28.000Z
+authors: ["richardbrounstein"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=234cc8c9db913f0813b5fb2439961960"
-authors: ["Someone else"]
 ---
 <h1>About Microsoft Cluster Servers</h1>
 <p>Microsoft developed a clustering and failover ability for <a href="https://docs.microsoft.com/en-us/windows-server/failover-clustering/failover-clustering-overview" rel="nofollow">Microsoft Windows Servers</a>.  This is meant to provide to customers the ability to load balance Windows servers running databases, web servers or any server software running on Windows Servers. Redundant resources can be in different data center locations and managed trough the cluster configuration.</p>

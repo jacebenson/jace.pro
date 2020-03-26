@@ -1,6 +1,7 @@
 ---
 title: "CCW Deliver a killer mobile experience for your custom app"
 date: 2019-05-02T20:27:53.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c9425e67db8dbf08feb1a851ca961962"
 ---
 <p>Welcome to CreatorCon Workshop CCW0652: Deliver a killer mobile experience for your custom app. This blog post is meant to be an easy way to access workshop links, files, share feedback, and ask questions after the workshop ends.</p>

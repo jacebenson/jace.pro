@@ -1,6 +1,7 @@
 ---
 title: "A new page for new GRC customers"
 date: 2019-12-18T02:15:37.000Z
+authors: ["Eric Feron"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fc38ae951b394050ada243f6fe4bcb1d"
 ---
 <p>Hello all,</p>

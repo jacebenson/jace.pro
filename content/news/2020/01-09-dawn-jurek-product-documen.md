@@ -1,6 +1,7 @@
 ---
 title: "Product documentation updates enhancements and personalization to streamline your experience"
 date: 2020-01-09T01:58:28.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8c477b98dbd64850f7fca851ca9619ef"
 ---
 <p>The next time you visit our product documentation, you&#39;ll see big changes to the homepage layout and document pages, all based upon your feedback. These include enhancements to help you streamline the process of finding what you need, and to personalize your experience. Read on to learn more!</p>

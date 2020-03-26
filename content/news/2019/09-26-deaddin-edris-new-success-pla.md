@@ -1,6 +1,7 @@
 ---
 title: "NEW Success Playbook How to successfully implement an efficient and proactive onboarding program"
 date: 2019-09-25T19:44:14.000Z
+authors: ["Deaddin Edris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=81604222db8000d423f4a345ca9619f7"
 ---
 <h1><strong>Overview</strong></h1>

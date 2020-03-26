@@ -1,6 +1,7 @@
 ---
 title: "Start your Journey to London at Knowledge"
 date: 2018-05-02T01:07:01.000Z
+authors: ["Melissa Schleter"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a14c9279dbbd13403882fb651f9619a7"
 ---
 <div id="mainwrapper">

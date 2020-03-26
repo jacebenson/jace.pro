@@ -1,6 +1,7 @@
 ---
 title: "How To Implement GlideAjax with  LOC"
 date: 2018-06-06T13:29:48.000Z
+authors: ["Paul Morris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a7e599d1db2a97400be6a345ca96192a"
 ---
 <h1>How to Write Smart GlideAjax Quickly</h1>

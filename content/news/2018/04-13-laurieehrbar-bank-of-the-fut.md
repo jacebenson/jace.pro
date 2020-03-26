@@ -1,6 +1,7 @@
 ---
 title: "Bank of the future"
 date: 2018-04-12T22:50:23.000Z
+authors: ["laurieehrbar"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f2c648bfdb5517002328f3231f961938"
 ---
 <h4>By Jason Bell</h4>

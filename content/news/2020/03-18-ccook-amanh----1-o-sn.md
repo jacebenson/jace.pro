@@ -1,6 +1,7 @@
 ---
 title: "Amanh  o SNUG  Digital "
 date: 2020-03-17T19:18:51.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4a3f3162dba300542be0a851ca9619a5"
 ---
 <table class="header" border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#293e40"><tbody><tr><td>

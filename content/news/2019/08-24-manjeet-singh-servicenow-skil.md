@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Skills Management A Better Way to Manage your Workforce Skills"
 date: 2019-08-23T22:07:40.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a4c4604cdb637380d58ea345ca9619aa"
 ---
 <p><span style="font-size: 14pt;">A Skill is the ability to do something that comes from training, experience, or practice. </span><span style="font-size: 14pt;">Skills is the most important resource of human beings, organizations and nations. As per the report from <a href="https://www.gartner.com/en/newsroom/press-releases/2018-03-27-gartner-says-iando-skills-gaps-will-cause-75-percent-of-organizations-to-experience-visible-business-disruptions-by-2020" target="_blank" rel="noopener noreferrer nofollow">Gartner</a>, “Most companies don’t have an accurate inventory of the available skills of their current IT workforce”. Gartner predicts that, by 2020, 75 percent of organizations will experience visible business disruptions due to skills gaps.</span></p>

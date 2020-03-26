@@ -1,6 +1,7 @@
 ---
 title: " Essentials to Improving User Experience with ServiceNow"
 date: 2019-02-06T00:56:06.000Z
+authors: ["pooja_gupta"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=20394cc0db27eb804abd5583ca961963"
 ---
 <div class="cm-content-header"> </div>

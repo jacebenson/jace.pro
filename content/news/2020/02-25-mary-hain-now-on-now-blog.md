@@ -1,6 +1,7 @@
 ---
 title: "Now on Now blog Highspeed project management"
 date: 2020-02-25T04:20:46.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7a8a1ae7db0fcc101cd8a345ca961934"
 ---
 <h5><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/ac4a1a67db0fcc101cd8a345ca96195b.iix" width="556" height="268" /></h5>

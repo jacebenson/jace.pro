@@ -1,6 +1,7 @@
 ---
 title: "Secret shop your way to better customer service"
 date: 2018-10-08T10:27:08.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=60419305db05e784a39a0b55ca96195e"
 ---
 <p><img class="alignnone  wp-image-3342" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/10/felipe-furtado-678938-unsplash.jpg" alt="felipe-furtado-678938-unsplash" width="433" height="288" align="left" /> <a href="https://en.wikipedia.org/wiki/Customer_experience#Customer_journey_mapping" target="_blank" rel="nofollow">Customer journey mapping</a> is critical to understanding where friction points exist and to chart the most effortless experience for customers. It includes the entire lifecycle, from customers first becoming aware of a product or service and their use through to non-use. It&#39;s a very formal process involving the many departments that participate in the customer lifecycle (marketing, sales, and finance, just to name a few); because of the many functions involved, it can seem like an overwhelming task to create a cross-functional task force to take this all on.</p>

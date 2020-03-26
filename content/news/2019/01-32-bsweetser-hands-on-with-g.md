@@ -1,6 +1,7 @@
 ---
 title: "Handson with GlideRecord query"
 date: 2019-01-31T21:37:20.000Z
+authors: ["bsweetser"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=68cb219edb1bab002e8c2183ca961933"
 ---
 <p>We are experimenting with new training content delivery methods for the Developer Program. This tutorial blog post is one of those experiments. We are very interested in your feedback. Please let us know what you think about this format and the content in the comments below. In particular, we would like to know:</p>

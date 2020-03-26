@@ -1,6 +1,7 @@
 ---
 title: "Whats New In Madrid for ITOM"
 date: 2019-02-16T04:42:31.000Z
+authors: ["EmoryZhaoNOW"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=87ec9497dba32b844abd5583ca961960"
 ---
 <p><img style="align: baseline;" title="" src="https://community.servicenow.comhttps://community.servicenow.com/e0dfe751db88ff48190dfb24399619f6.iix" alt="" align="bottom" border="" hspace="" vspace="" /></p>

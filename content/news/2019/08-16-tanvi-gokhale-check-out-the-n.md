@@ -1,6 +1,7 @@
 ---
 title: "Check Out the New App Developer Guides"
 date: 2019-08-16T03:14:18.000Z
+authors: ["Tanvi Gokhale"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=163edca9db1bfb44feb1a851ca9619c4"
 ---
 <p><strong>App Developer Guides for the Now Platform</strong></p>

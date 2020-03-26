@@ -1,6 +1,7 @@
 ---
 title: "Raising the customer experience bar by mapping unexpected journeys"
 date: 2018-11-12T05:41:45.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=36d19294db71a300f21f5583ca961969"
 ---
 <p><span style="font-family: verdana;"><img class="alignnone  wp-image-3383" style="padding: 5 px:;" src="https://insightsincustomerservice.files.wordpress.com/2018/11/package-delivery-2.jpg" alt="Package Delivery 2" width="334" height="501" align="left" /> <span style="font-size: 12pt;"><em>The opportunities for companies to provide amazing customer experiences are plentiful; the unfortunate fact is they are often overlooked. In this story, that&#39;s not the case.</em></span></span></p>

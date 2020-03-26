@@ -1,6 +1,7 @@
 ---
 title: "TechBytes Episode  Mobile Platform and Mobile Studio"
 date: 2019-03-15T21:02:13.000Z
+authors: ["Steve Miller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9cdd4f44db5c3bc0190dfb243996193e"
 ---
 <p><iframe src="https://omny.fm/shows/servicenow-techbytes/episode-48-mobile-platform-and-mobile-studio/embed?style&#61;cover" width="100%" height="180"></iframe></p>

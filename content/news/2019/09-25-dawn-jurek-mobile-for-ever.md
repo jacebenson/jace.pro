@@ -1,6 +1,7 @@
 ---
 title: "Mobile for everyone Configuring and getting started with the Now mobile app"
 date: 2019-09-24T19:41:29.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2f2678dedb84cc94414eeeb5ca96194b"
 ---
 <p>Wouldn&#39;t it be great if all your employees everywhere could leverage the power of the Now Platform on a mobile device to get work done anywhere?</p>

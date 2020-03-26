@@ -1,6 +1,7 @@
 ---
 title: "Customer Service Managements Knowledge Management now KCS  v verified"
 date: 2019-02-28T03:08:04.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d86ab9cbdb3faf4423f4a345ca9619e8"
 ---
 <h1><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/fd797103db3faf4423f4a345ca961960.iix" /> The knowledge challenge</h1>

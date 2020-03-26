@@ -1,6 +1,7 @@
 ---
 title: "Deliver value faster by running SAM on a single architecture platform"
 date: 2019-04-12T00:12:13.000Z
+authors: ["Bryan Blackburn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a63cf278dbf0ffc4200f0b55ca961982"
 ---
 <p class="p1">For a majority of SAM practitioners, managing software assets (both on-premise and in the cloud) has primarily been done using lengthy, manual processes on an excel spreadsheet or with external legacy SAM solutions. The next generation of IT asset management has replaced traditional SAM practices by introducing the new method of running SAM on a Single System of Action—in the same place where the rest of IT is managed. Embedding SAM into everyday IT management is what’s empowering ITAM teams to the next level of maturity. The ITAM function is now getting a seat at the strategic table, elevating C-level visibility of the ITAM function.</p>

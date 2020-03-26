@@ -1,6 +1,7 @@
 ---
 title: "Accessing Your Developer Tools in the Classic Mobile and Tablet UI"
 date: 2015-09-18T04:27:53.000Z
+authors: ["John Armstrong"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c0edaae9dbd0dbc01dcaf3231f96199f"
 ---
 <p style="font-family: &#39;Helvetica Neue&#39;; font-size: 14px;">Sometimes your Client Scripts, UI Policies, and other client side scripting doesn&#39;t work as expected.   This can be especially frustrating when you don&#39;t have access to debugging tools like your browser&#39;s developer console, which allows you to see any errors being thrown and what&#39;s triggering them.   Fortunately there are a number of ways to see what&#39;s going on under the hood in the mobile UI.   Listed below are a few ways to see what&#39;s happening in your scripts.</p>

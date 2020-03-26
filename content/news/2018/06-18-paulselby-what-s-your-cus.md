@@ -1,6 +1,7 @@
 ---
 title: "Whats your customer service roadmap"
 date: 2018-06-18T01:15:01.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8dd0a401db3e5b00fff8a345ca9619fe"
 ---
 <p><img class="alignnone  wp-image-3212" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/06/wong-san-609217-unsplash.jpg" alt="wong-san-609217-unsplash" width="349" height="523" align="left" /> Most companies maintain a roadmap of their products and services. It provides an idea of today&#39;s offerings, as well as where they are intended to go in the future. This could mean new capabilities, new markets, and more.</p>

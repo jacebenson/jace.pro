@@ -1,6 +1,7 @@
 ---
 title: "Whats new in Orlando for IntegrationHub"
 date: 2020-02-04T05:24:32.000Z
+authors: ["Charlie Steiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c8cf56f4db360898d58ea345ca961917"
 ---
 <h3 class="ng-scope"><span style="font-size: 12pt;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/2b2a9e27db0fcc101cd8a345ca96193e.iix" /></span></h3>

@@ -1,6 +1,7 @@
 ---
 title: "Quick challenge How well do you know the Now Platform"
 date: 2019-01-03T01:16:24.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=aac78545db3e6f00f0612183ca96191f"
 ---
 <h3><strong>Here&#39;s the challenge</strong></h3>

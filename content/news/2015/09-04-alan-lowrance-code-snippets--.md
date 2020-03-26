@@ -1,6 +1,7 @@
 ---
 title: "Code Snippets Related Attachments seeing ParentChildSibling attachments from current record"
 date: 2015-09-03T21:43:13.000Z
+authors: ["alan.lowrance"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d01e6e2ddbd0dbc01dcaf3231f9619de"
 ---
 <p>We often are working catalog tasks and see that someone mentioned that something's attached and were sick of climbing up to the parent (sc_req_item) and possibly up again to the request in order to see that attachment (and any other tiered tickets like change_request/change_task, etc.).   So I made a related list that you can put in its own content tab on any tables you wish to see more associated attachments on.</p><p><span style="font-size: 8pt;"><em>The only thing I would say to look out for is make sure that your Requested Items have a parent field pointing to the Request and not just the Request reference field.   To do this, I added a script activity in the REQ workflow to search for its own children and set their 'parent' as itself.   Seems that all other task-type tickets in the system use the parent field already, but if your REQ is created by bundling all the RITMs, the linkage won't be there unless its WF fills it.</em></span></p><p></p><p>First we need the back-end logic [non-client callable SCRIPT INCLUDE] that all the other components will use to make the list of related attachments:</p><pre __default_attr="javascript" __jive_macro_name="code" class="jive_text_macro jive_macro_code _jivemacro_uid_14422538047234297" jivemacro_uid="_14422538047234297">

@@ -1,6 +1,7 @@
 ---
 title: "Its Just a Reporting Field"
 date: 2018-06-12T00:15:17.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2f99990fdbee5b00fece0b55ca9619fb"
 ---
 <p>When configuring a new report Performance Analytics, we sometimes get slowed down because the data isn&#39;t structured the way we need for reporting.  There is a disconnect between the way we operationally use the data and the way we want to show it for reporting.   For example, operationally we rollup our group hierarchy on HR&#39;s hierarchy but in other cases we need to see it based on the functional area which is slightly different. </p>

@@ -1,6 +1,7 @@
 ---
 title: "The New Service Level Agreement SLA Landing Page for "
 date: 2018-08-06T15:38:47.000Z
+authors: ["benmc"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bb6c3bf4dbf75780200f0b55ca961941"
 ---
 <p>Take a look at the new Service Level Agreement (SLA) Landing page: <a href="https://bit.ly/SLAresourcepg" target="_blank" rel="nofollow">http://bit.ly/SLAresourcepg</a></p>

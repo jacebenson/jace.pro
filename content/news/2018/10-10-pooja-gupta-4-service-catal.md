@@ -1,6 +1,7 @@
 ---
 title: " Service Catalog Pitfalls and How to Solve Them"
 date: 2018-10-10T01:56:13.000Z
+authors: ["pooja_gupta"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=448f6ba1db81abc8d58ea345ca9619cc"
 ---
 <p>Service Catalog provides a great opportunity to improve employee experience and efficiency in service provisioning. But when you’re trying to deliver a consumer-grade experience, it can be hard to design the most efficient workflows to resolve requests. And the definition of the “perfect” catalog experience can keep shifting, as employee expectations and business needs evolve.</p>

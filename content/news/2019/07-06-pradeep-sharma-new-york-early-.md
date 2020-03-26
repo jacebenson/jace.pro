@@ -1,6 +1,7 @@
 ---
 title: "New York Early Access for Technology Partners"
 date: 2019-07-06T01:39:06.000Z
+authors: ["Pradeep Sharma"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dc4f305cdbea7b401cd8a345ca961917"
 ---
 <p class="ng-scope">Note: <em>Do not publish/demo/promote in any way your New York instance to anyone who has not agreed to our program&#39;s legal terms and conditions (completed when joining the TPP).</em></p>

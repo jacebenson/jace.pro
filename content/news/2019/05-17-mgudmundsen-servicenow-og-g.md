@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow og Google Cloud inngr samarbeidsavtale"
 date: 2019-05-17T02:36:30.000Z
+authors: ["mgudmundsen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e9ec2fccdb693f002be0a851ca9619dc"
 ---
 <p>ServiceNow IT Operations Management dreier seg ikke bare om &#34;on-prem&#34; IT-operations (ITOM). De fleste er i full sving med å legge produksjons-systemer i skyløsninger som Azure og AWS. Disse to er allerede omfattet av discovery, service mapping, event management og machine learning i Service Now ITOM, men nå kommer funksjonalitet for Google Cloud inn i IT Operations.</p>

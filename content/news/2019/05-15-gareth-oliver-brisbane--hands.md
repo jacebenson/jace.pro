@@ -1,6 +1,7 @@
 ---
 title: "Brisbane hands on training workshops"
 date: 2019-05-14T06:10:28.000Z
+authors: ["gareth.oliver"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=96110957dbd5fb4cf7fca851ca96196a"
 ---
 <p>Hi Brisbane folks!</p>

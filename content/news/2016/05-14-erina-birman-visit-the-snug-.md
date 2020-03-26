@@ -1,6 +1,7 @@
 ---
 title: "Visit the SNUG info booth at Knowledge in EngageNow"
 date: 2016-05-13T22:40:57.000Z
+authors: ["erina.birman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=727d6269dbd0dbc01dcaf3231f9619fa"
 ---
 <p><strong style="font-size: 14pt; font-family: Calibri;">Are you interested in joining a ServiceNow User Group (SNUG) in your area or becoming a group leader? Come visit us in South 1, Bayside C at Mandalay Bay hotel to learn more!</strong></p><p></p><p><span style="font-size: 14.0pt; font-family: Calibri;">EngageNow is open anytime registration is open but additional engagement opportunities within ServiceNow entities are as follows:</span></p><p></p><ul><li><span style="font-size: 14.0pt; font-family: Calibri;">Sunday, May 15<sup> </sup> / 1:00pm — 7:00pm</span></li><li><span style="font-size: 14.0pt; font-family: Calibri;">Monday, May 16 / 10:00am — 9:00pm</span></li><li><span style="font-size: 14.0pt; font-family: Calibri;">Tuesday, May 17 / 10:30am — 7:30pm</span></li><li><span style="font-size: 14.0pt; font-family: Calibri;">Wednesday, May 18 / 10:30am — 5:30pm </span></li></ul><p></p><p><strong style="font-size: 14pt; font-family: Calibri;">Don't forget to pickup your SNUG flare when you stop by!<em> #SNUGconnect</em></strong></p>

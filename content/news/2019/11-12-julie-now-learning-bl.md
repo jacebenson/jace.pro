@@ -1,6 +1,7 @@
 ---
 title: "Now Learning Blog  What course should I take first"
 date: 2019-11-11T19:50:54.000Z
+authors: ["Julie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9ae6ff69db0584105129a851ca961980"
 ---
 <p class="p1"><span style="font-family: helvetica; font-size: 12pt;">This may not be your first rodeo but if it is (or even if it’s your second or third rodeo, no judgment) WELCOME and let us help you get settled! </span></p>

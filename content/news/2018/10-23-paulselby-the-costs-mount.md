@@ -1,6 +1,7 @@
 ---
 title: "The costs mount when customer service is disconnected"
 date: 2018-10-22T21:45:25.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=70c27db5dbdd2f00b1b102d5ca96192c"
 ---
 <p><img class="alignnone  wp-image-3356" style="padding: 10 px;" src="https://insightsincustomerservice.files.wordpress.com/2018/10/black-and-white-cable-connection-434349.jpg" alt="black-and-white-cable-connection-434349" width="373" height="560" align="left" /> The unfortunate truth is that customer service often works in isolation. While companies realize its important role in responding quickly to customers problems, still they are left to operate on their own without support from other departments. They are a silo among many.</p>

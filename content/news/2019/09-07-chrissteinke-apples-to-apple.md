@@ -1,6 +1,7 @@
 ---
 title: "Apples to Apples An approach for assessing and evaluating your KPIs"
 date: 2019-09-06T19:33:38.000Z
+authors: ["ChrisSteinke"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=60c748a4db3b33885129a851ca961961"
 ---
 <p>If your organization is like most organizations who use Performance Analytics, you probably started with a few specific KPIs but have quickly seen that expand to hundreds. This proliferation of KPIs isn&#39;t necessarily bad, but it does present a challenge as you try to prioritize your time and determine KPIs to surface up to senior management. This post is intended to give you a tool to consistently help you assess the potential value and efficacy of KPIs. </p>

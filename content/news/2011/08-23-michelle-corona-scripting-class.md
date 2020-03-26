@@ -1,6 +1,7 @@
 ---
 title: "Scripting Class in Windsor UK  September    "
 date: 2011-08-23T01:09:44.000Z
+authors: ["Michelle.Corona"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ac7c22e1dbd0dbc01dcaf3231f96193f"
 ---
 <p>Do you need to take advantage of the complete flexibility of Service-now that extends beyond the user interface? If so then you'll need to learn how to do some scripting. The prerequisites for this class are basic familiarity with the ServiceNow platform (System Administrator) and knowledge of the fundamentals of JavaScript. <br/><br/>This class begins at a very basic level and builds from there including client scripting (using GlideForm) and server scripting (using GlideRecord and Business Rules). There are hands-on labs so that you'll create and run scripts yourself and also have an opportunity to practice doing some troubleshooting on scripts.<br/><br/>The course will cover the following topics:<br/>JavaScript Review<br/>Tables and Columns<br/>Client Scripting<br/>UI Policy Scripting<br/>Business Rules<br/>Client versus Server<br/>Tips and Tricks<br/>Events<br/>Workflow Scripting<br/>Server Side<br/>Glide System<br/>Script Actions<br/>Scheduled Jobs<br/>UI Actions<br/>Scripts Includes<br/><br/>Date: September 12 - 13, 2011<br/>Location: Windsor UK<br/>Book through the HI system / Self Service / Training Registration Request</p>

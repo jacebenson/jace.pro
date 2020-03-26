@@ -1,6 +1,7 @@
 ---
 title: "Performance Analytics Date Night Three Overlooked Capabilities"
 date: 2017-11-07T20:14:04.000Z
+authors: ["dangrady510"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=385e2aaddbd0dbc01dcaf3231f96197a"
 ---
 <p><span style="font-size: 12pt;">This past weekend my wife and I didn&#39;t have any &#34;formal&#34; plans - no family parties or kid-centered events. But, at the last minute we scrambled to find a sitter for the kids so the two of us could have a &#34;date night&#34;.</span></p>

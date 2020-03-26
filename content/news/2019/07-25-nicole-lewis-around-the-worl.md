@@ -1,6 +1,7 @@
 ---
 title: "Around the World in  Cities Now at Work"
 date: 2019-07-24T05:41:21.000Z
+authors: ["Nicole Lewis"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c853e2cadb3a3f805ed4a851ca9619c5"
 ---
 <p class="p1"> I&#39;m a relative newbie to ServiceNow, but I&#39;ve been in the events industry for nearly 15 years and I&#39;ve worked on countless teams preparing for event launches. Recently, it&#39;s been amazing to see how the teams here, well, work.</p>

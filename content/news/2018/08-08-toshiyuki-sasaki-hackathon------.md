@@ -1,6 +1,7 @@
 ---
 title: "Hackathon"
 date: 2018-08-08T03:19:01.000Z
+authors: ["Toshiyuki Sasaki"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f246efdddbf75b802be0a851ca9619eb"
 ---
 <p>Hackathonイベントへの参加登録が終わりましたら、イベント当日の時間を有効に使うために是非ServiceNowに関する知識をもう少し習得してみてください。参考となる情報を以下にお知らせします。</p>

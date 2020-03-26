@@ -1,6 +1,7 @@
 ---
 title: "Best practices for using the Flow Designer"
 date: 2018-02-22T21:21:00.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=09becbf3db589b403882fb651f961986"
 ---
 <p>At ServiceNow, we’re driving innovation by empowering you to automate your organization’s processes. With the Flow Designer, new in Kingston, even non-developers can easily build and test flows to automate approvals, tasks, notifications and record changes. In this installment of our <a href="community?id&#61;community_blog&amp;sys_id&#61;6e7d6269dbd0dbc01dcaf3231f9619c0" rel="nofollow">NOWSupport best practices series</a>, we cover some best practices to help you jumpstart your development in the Flow Designer. To learn more about getting started with creating your own flows and actions, first check out these videos from our <a href="https://www.youtube.com/user/servicenowdemo" rel="nofollow">NOWSupport YouTube channel</a>:</p>

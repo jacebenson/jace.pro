@@ -1,6 +1,7 @@
 ---
 title: "Setting the Maximum Length for a String Variable"
 date: 2013-06-05T04:12:38.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=12dde6e9dbd0dbc01dcaf3231f9619da"
 ---
 <p>Here's a UI Script you can use in the Service Catalog to set the maximum length of a string variable to limit how many characters a user can enter:<br /><pre __default_attr="plain" __jive_macro_name="code" class="jive_text_macro jive_macro_code"><br /><br />Name: u_setMaxLength<br />Description: Function to set the "maxlength" attribute on an input field<br />Active: Checked<br />Global: Checked<br />Script:<br />function u_setMaxLength(variableName, size) {<br />    try{<br />        var fieldName = g_form.getControl(variableName).name.toString();<br />        if (Prototype.Browser.IE) {<br />            fieldName.placeholder = size;<br />        } else {<br />            $(fieldName).writeAttribute('maxlength', size);<br />        }<br />    } catch(err) {}<br />}<br /></pre><br /><!--break--><br />You can then call it from an onLoad client script:<br /><pre __default_attr="plain" __jive_macro_name="code" class="jive_text_macro jive_macro_code"><br /><br />function onLoad() {<br />    u_setMaxLength("test123", 5);<br />}</pre><br /><br />And now users are limited to just 5 characters for that variable.<br /><br />It can actually be used in normal forms as well, but probably more useful with Catalog Variables as you cannot define their lengths. Attached is the UI Script XML file for import into your instance.</p>

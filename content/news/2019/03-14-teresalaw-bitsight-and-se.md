@@ -1,6 +1,7 @@
 ---
 title: "BitSight and ServiceNow Vendor Risk Management Address Thirdparty Risk"
 date: 2019-03-13T20:13:20.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ec7f6c23db4837802be0a851ca9619f9"
 ---
 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt;">Did you know that a breach that includes a third party will cost you 12% more<sup>1</sup> than if it did not include a third party – almost $4 million? But it&#39;s not just the risk of a breach, anyone familiar with the General Data Protection Regulation (GDPR) knows that assessing your third-party risk is mandatory for compliance. In other words, managing your vendors’ risk has become essential to your business. Companies must be able to manage, report on, and remediate risk wherever it exists within your third- and fourth- party network.</span></p>

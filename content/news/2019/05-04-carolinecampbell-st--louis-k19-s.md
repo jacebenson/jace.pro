@@ -1,6 +1,7 @@
 ---
 title: "St Louis K SNUG Leader MeetUp May th at pm"
 date: 2019-05-03T20:12:53.000Z
+authors: ["carolinecampbell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d36857bbdb8d77082be0a851ca961915"
 ---
 <p>Hello!</p>

@@ -1,6 +1,7 @@
 ---
 title: "EVENT Documentation and Community Open Forum at Knowledge "
 date: 2011-04-12T01:52:15.000Z
+authors: ["wallymarx"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=028da669dbd0dbc01dcaf3231f961934"
 ---
 <p>Our annual user conference, Knowledge 11, is being held here in San Diego May 15-19. I highly recommend attending. It offers a huge amount of learning opportunities and the chance to connect with Service-now developers, support people and fellow users. If that's not enticing enough, this year it's being held on an island.<br /><br />You can learn more and register here: www.service-now.com/knowledge11<br /><br />Now the plug: on <b>Wednesday the 18th from 3:40 to 4:30</b> I and the rest of the doc team will be hosting a session to discuss our documentation and this online community. We want to review a few things from the past year and hear from users about where we need to go. We'd love to discuss not just holes in the doc (are there any?), but ways to make the entire Service-now online help experience as revolutionary as the product. <br /><br />I know I have some ideas, but I'd like to hear yours as well. So if you are coming to Knowledge 11, please mark the Doc session on your calendar. If you're not registered yet, please do so now because spots are filling and we'd love to see you.<br /><br />Cheers,</p>

@@ -1,6 +1,7 @@
 ---
 title: "Requested Item Variables in Activity Formatter"
 date: 2020-03-21T10:17:23.000Z
+authors: ["Tanaji Patil"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d1a9a0b3db6388d413b5fb24399619bd"
 ---
 <p><span style="font-size: 10pt;">ServiceNow allows fulfillers to update RITMs including the variable editor. This helps fulfillers to correct the submitted requests instead of asking requester to raise request again.</span></p>

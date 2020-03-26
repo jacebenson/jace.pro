@@ -1,6 +1,7 @@
 ---
 title: "Now on Now Making your IT operations serviceaware with ServiceNow ITOM and ITSM  pm PT on Wed Feb  Live from Sydney Thurs Feb   am"
 date: 2020-02-04T00:11:49.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d7289d34db364058feb1a851ca96191b"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/e5d71dbcdbf24058feb1a851ca961998.iix" /></p>

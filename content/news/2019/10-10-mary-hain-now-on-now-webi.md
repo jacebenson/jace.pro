@@ -1,6 +1,7 @@
 ---
 title: "Now on Now webinar How to gain complete visibility of your modern stacks Wed Oct  am PT am ET"
 date: 2019-10-10T00:19:15.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=de950bc7dbd444d0d82ffb243996194e"
 ---
 <p> </p>

@@ -1,6 +1,7 @@
 ---
 title: "CMDB Identification and Reconciliation"
 date: 2016-11-07T09:24:58.000Z
+authors: ["richardbrounstein"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c33e22addbd0dbc01dcaf3231f96191a"
 ---
 <p style="margin-top: 12.0pt;"><span style="font-size: 14.0pt;"><strong>The Configuration Management Database (CMDB)</strong></span></p>

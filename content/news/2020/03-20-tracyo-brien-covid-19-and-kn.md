@@ -1,7 +1,8 @@
 ---
 title: "COVID and Knowledge  Update for SNUG Members"
-date: 2020-03-20T02:06:59.000Z
-link: "https://community.servicenow.com/community?id=community_blog&sys_id=08dfe9db1bab0894d01143f6fe4bcbe2"
+date: 2020-03-20T00:54:45.000Z
+authors: ["tracyo'brien"]
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=024fd5d31b670894d01143f6fe4bcb84"
 ---
 <p>Dear SNUG Members,</p>
 <p>At ServiceNow, our mission is to make the world of work, work better for people. As you probably imagine, the way people work has changed significantly over the past several days and weeks as organizations have adjusted to a new workplace reality in response to the COVID-19 virus.  </p>
@@ -35,6 +36,7 @@ link: "https://community.servicenow.com/community?id=community_blog&sys_id=08dfe
 <p>In the coming days and weeks, we will provide details about the Knowledge 2020 digital experience. We are committed to creating a phenomenal digital experience that will engage, inspire, and connect you to the best practices from our customers around the world. </p>
 <ul><li><strong>When will the Knowledge 2020 digital experience take place?</strong><strong><br /> </strong>We are determining the dates for our Knowledge digital experience. Stay tuned for more!</li><li><strong>Will there be access to Knowledge 2020 session content?</strong><strong><br /> </strong>We are working quickly to determine our digital plans for Knowledge in order to provide some of the fantastic content we have for you. As our plans come together, we will let you know what options are available for participating in our digital event.</li><li><strong>How can I connect with the Knowledge community?</strong><strong><br /> </strong>Connect with other Knowledge attendees who are taking their work to the next level in our <a href="https://community.servicenow.com/community?id&#61;community_forum&amp;sys_id&#61;96295a2ddbd897c068c1fb651f9619d1" rel="nofollow">Knowledge Community</a>.</li><li><strong>Are the Now at Work events still being planned for later in the year?</strong><strong><br /> </strong>Yes! Our Now at Work series will be taking place around the world in late 2020. Visit our <a href="https://www.servicenow.com/now-at-work.html" rel="nofollow">website</a> to sign up for updates.</li><li><strong>Where can I receive updates regarding Knowledge 2021?</strong><strong><br /> </strong>We have already set our sights on Knowledge 2021 in Las Vegas and can’t wait to see you there. If you registered for Knowledge 2020, we will send out a notification when you can learn more about next year’s event.</li></ul>
 <p>For further questions please access <a href="https://knowledge.servicenow.com/faq.html" rel="nofollow">https://knowledge.servicenow.com/faq.html</a>.</p>
+<p>I am not sure when our cadence of SNUG meetings will continue, but in the meantime, we are working on options to provide virtual SNUGs. If you have idea’s you would like to share please contact me at <a href="mailto:tracy.obrien&#64;servicenow.com" rel="nofollow">tracy.obrien&#64;servicenow.com</a>.</p>
 <p>Trusting that you and your families are keeping healthy and staying safe!</p>
 <p>Kind Regards,</p>
 <p>Tracy O&#39;Brien</p>

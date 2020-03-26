@@ -1,6 +1,7 @@
 ---
 title: "HI Service Portal user experience revamped for Helsinki"
 date: 2016-05-06T21:52:59.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=52dde6e9dbd0dbc01dcaf3231f9619db"
 ---
 <p>At ServiceNow, we constantly strive to improve our software, including the user interface and user experience. Last year, at Knowledge15, we unveiled the possibilities with our <a href="community?id&#61;community_blog&amp;sys_id&#61;812e266ddbd0dbc01dcaf3231f9619f9" rel="nofollow">HI CSS portal</a> that matched our Fuji release. The CSS portal allowed you to quickly and efficient view incidents, and manage users, upgrades and instance availability. This year, at Knowledge16, you&#39;ll get to see our new HI Service Portal, in action, that matches our <a title="" href="community?id&#61;community_blog&amp;sys_id&#61;f01daea5dbd0dbc01dcaf3231f9619d0" rel="nofollow">Helsinki release</a>. To that end, we are excited about our complete revamp of the HI Service Portal. Here&#39;s what to expect the next time you access HI:</p>

@@ -1,6 +1,7 @@
 ---
 title: "Things to know before you arrive at Knowledge"
 date: 2018-05-02T19:54:43.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f06e5a0edb39df004816f3231f96190d"
 ---
 <p>It’s almost time.  Time for learning, time for connecting, time for Knowledge!  We are really excited to welcome everyone to Las Vegas next week and before you arrive, I wanted to give you an update on a few important items.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Consumerize Data Imports to NonServiceNow Administrators"
 date: 2016-09-22T01:46:07.000Z
+authors: ["Michael Ritchie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=341eae2ddbd0dbc01dcaf3231f961994"
 ---
 <p>During my tenure at ServiceNow, I have always stressed the importance of &#34;data-driven&#34; code.   What I mean is make workflows, business rules, etc dependent on tables and records in ServiceNow that can be maintained outside of your internal enhancement release process.   In other words, I shouldn&#39;t have to promote code to change something as simple as an approver in a workflow.   I find that ServiceNow Administrators are often bogged down maintaining data instead of enhancing the process to be more efficient and save time.   Examples:</p>

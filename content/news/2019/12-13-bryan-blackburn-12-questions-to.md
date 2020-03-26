@@ -1,6 +1,7 @@
 ---
 title: " questions to determine software compliance readiness"
 date: 2019-12-12T07:25:33.000Z
+authors: ["Bryan Blackburn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0295342b1b6d4410a59033f2cd4bcb4b"
 ---
 <p class="p1"> </p>

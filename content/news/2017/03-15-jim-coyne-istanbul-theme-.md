@@ -1,6 +1,7 @@
 ---
 title: "Istanbul Theme Properties Visual Guide"
 date: 2017-03-14T22:13:28.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=de5eaaaddbd0dbc01dcaf3231f96193c"
 ---
 <p style="font-family: arial, sans-serif; color: #666666;"><span style="font-style: inherit; font-family: inherit;"><strong>Other posts related to Themes<br /></strong></span><span style="font-style: inherit; font-family: inherit;"><a class="jive_macro jive_macro_blogpost" title="" href="community?id&#61;community_blog&amp;sys_id&#61;40dd26e9dbd0dbc01dcaf3231f96197e" rel="nofollow">&#34;Helsinki Gray&#34; UI16 Theme<br /></a></span><span style="font-style: inherit; font-family: inherit;"><a class="jive_macro jive_macro_blogpost" title="Jakarta Theme Properties Visual Guide" href="community?id&#61;community_blog&amp;sys_id&#61;a7ace625dbd0dbc01dcaf3231f96195e" rel="nofollow">Jakarta Theme Properties Visual Guide<br /></a></span><span style="font-style: inherit; font-family: inherit;"><a class="jive_macro jive_macro_blogpost" title="Kingston Theme Properties Visual Guide" href="community?id&#61;community_blog&amp;sys_id&#61;afcda2e9dbd0dbc01dcaf3231f9619e8" rel="nofollow">Kingston Theme Properties Visual Guide<br /></a><br /></span></p>

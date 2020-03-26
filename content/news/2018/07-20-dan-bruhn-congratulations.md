@@ -1,6 +1,7 @@
 ---
 title: "Congratulations  Leaders"
 date: 2018-07-19T21:42:12.000Z
+authors: ["Dan Bruhn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fff2e017db9b5f401cd8a345ca96190d"
 ---
 <p>The ServiceNow <a href="community?id&#61;community_article&amp;sys_id&#61;5d0daaa5dbd0dbc01dcaf3231f961946" rel="nofollow">Leader Program</a> is our bi-yearly recognition of top ranked contributors on ServiceNow&#39;s community leaderboards. The leaderboards display points achieved for technical knowledge demonstrated in the community. The ServiceNow Leader status is granted to employees and non-employees, based on achievement.  </p>

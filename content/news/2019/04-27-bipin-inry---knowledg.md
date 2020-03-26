@@ -1,6 +1,7 @@
 ---
 title: "INRY  Knowledge "
 date: 2019-04-26T08:21:32.000Z
+authors: ["bipin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7672f065dbc9b7c05129a851ca96197b"
 ---
 <p> <img src="https://community.servicenow.com/77427825dbc9b7c05129a851ca9619ab.iix" /></p>

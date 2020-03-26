@@ -1,6 +1,7 @@
 ---
 title: "Create an attachment with submitted variables as its content"
 date: 2018-08-16T15:25:38.000Z
+authors: ["Jaspal Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=24595f84db886b40fece0b55ca9619a5"
 ---
 <p>Not sure how often we come across a request where we need get list of variables submitted for a request to be placed in a file to be auto generated (possibly xls, xlsx etc. format) as an attachment &amp; should be attached to the Requested item submitted.</p>

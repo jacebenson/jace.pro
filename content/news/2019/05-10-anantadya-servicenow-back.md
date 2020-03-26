@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow BacktoBox Reducing the Technical Debt on Service Management"
 date: 2019-05-09T14:02:47.000Z
+authors: ["anantadya"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=104d70f1db1db700a39a0b55ca9619e4"
 ---
 <p>Enterprises are going through a phase of digitization. CIO, CTO and business leaders are investing in modernizing Service Management to reduce TCO, reduce the technical debt and build an intuitive marketplace to drastically improve IT and business user experience. Service Management modernization is gaining traction in every industry with clients using ServiceNow as an enabler of business and digital transformation, investing in massive technology transformation programs along with organizational change management to drive positive business impact.</p>

@@ -1,6 +1,7 @@
 ---
 title: "The basics of integrating with SuccessFactors and other HR management systems"
 date: 2018-04-25T21:42:36.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2cf37273db2d5b40852c7a9e0f961920"
 ---
 <p>Did you know you can leverage the power of the ServiceNow platform to streamline and automate your HR services even if you&#39;re using a third-party system for managing your HR data?</p>

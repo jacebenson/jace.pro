@@ -1,6 +1,7 @@
 ---
 title: "Actionable analyticsnot groundhogslead to better customer service"
 date: 2020-02-03T23:07:35.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=52790df4dbfa08184819fb24399619f5"
 ---
 <p><img style="padding: 5px;" src="https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/tdy_sun_groundhog_200202_1920x1080.focal-760x428.jpg" alt="" width="398" height="223" align="right" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "Greetings ServiceNow Users and Business Partners"
 date: 2013-11-20T04:15:46.000Z
+authors: ["ebritt2"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f09ceae1dbd0dbc01dcaf3231f96197e"
 ---
 <p>Reminder - Come celebrate our first official December Atlanta SNUG Holiday event on Wednesday, December 4th from 730pm-11pm. <br /> <br /><b>There will be great food, drinks, demos, networking and prizes (iPads, gift cards and more!). The dress for the event is business/cocktail.</b><br /> <br />Please review invitation and RSVP to ATLSNUG@gmail.com<br /> <br />You must RSVP as soon as possible but no later than close of business on November 25th, 2013 to confirm your intentions to attend. Name tags will be printed for all who RSVP.<br /><br /><b>Parking will be validated.</b> All guests are encouraged to park in the parking garage across from the building. Enter into one of the daily entrances located across from the building on 6th Street and take a ticket to enter. <i>The ticket must be brought with you so that it can be validated.</i> Once parked, take the elevators to the tunnel levels and look for signs directing you to the auditorium.<br /><br /><center><img  alt="" class="jive-image" src="cd531906db94d304b322f4621f9619c9.iix" /></center><br /> <br /> <br />Thanks!</p>

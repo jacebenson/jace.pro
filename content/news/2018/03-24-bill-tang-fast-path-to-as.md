@@ -1,6 +1,7 @@
 ---
 title: "Fast path to assist users with slow homepages"
 date: 2018-03-23T12:50:25.000Z
+authors: ["Bill Tang"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=87adba41db095b0447c8f3231f9619a8"
 ---
 <p>As a ServiceNow Admin, it is always a challenge to manage homepages and complaints about them. The fact is, any user can put a few ridiculously slow reports and widgets on their homepage and start complaining. Our life will be much easier if we don&#39;t need to manage the users shooting in their foot with their homepages.</p>

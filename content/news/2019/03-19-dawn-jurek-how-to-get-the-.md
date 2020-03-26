@@ -1,6 +1,7 @@
 ---
 title: "How to Get the Latest Security Operations and GRC Applications"
 date: 2019-03-19T03:08:30.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fa6eff4ddb58b3841cd8a345ca961918"
 ---
 <p>Starting with Madrid, you can get Security Operations and Governance, Risk, and Compliance (GRC) applications, integrations and content right from the ServiceNow Store! This means that you can get new features for these applications to your instance outside of the normal family release schedule.</p>

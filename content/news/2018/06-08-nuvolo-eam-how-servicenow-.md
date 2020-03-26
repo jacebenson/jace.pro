@@ -1,6 +1,7 @@
 ---
 title: "How ServiceNow Worked With Gold ISV Partner Nuvolo to Revolutionize Their Internal Space  Move Management Experience"
 date: 2018-06-07T05:52:31.000Z
+authors: ["Nuvolo EAM"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a2d638e5dbe6db40fff8a345ca96196f"
 ---
 <p>As ServiceNow customers, you know the company&#39;s deep commitment to make work, work better for people. From IT Service Management to HR Service Delivery to ISVs building intelligent apps on the Now Platform™, ServiceNow is leading the charge in defining the future of the workplace and delivering better employee and customer experiences.<br /><br />This article outlines the ServiceNow Real Estate &amp; Workplace team&#39;s adoption of <a href="https://store.servicenow.com/sn_appstore_store.do#!/store/application/c23545ae4f954a00b794a88ca310c798/5.1.3" rel="nofollow">Nuvolo Facilities EAM application</a> built on the Now Platform, led by VP of Real Estate &amp; Workplace Robert Teed.</p>

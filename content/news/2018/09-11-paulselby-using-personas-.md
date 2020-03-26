@@ -1,6 +1,7 @@
 ---
 title: "Using Personas to Define Customer Service"
 date: 2018-09-10T21:07:07.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d6379514dbe42b04a8562926ca961983"
 ---
 <p><img class="alignnone  wp-image-3313" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2018/09/identity-683963.jpg" alt="identity-683963" width="334" height="290" align="right" /> It was once famously said, &#34;<a href="https://www.youtube.com/watch?v&#61;HMcQKz3H0yY" target="_blank" rel="nofollow">if you build it, he will come.</a>&#34; This might have been the case in the movie, but it&#39;s not always the truth in real life, especially when we&#39;re talking about customer service.</p>

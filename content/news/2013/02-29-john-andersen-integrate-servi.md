@@ -1,6 +1,7 @@
 ---
 title: "Integrate ServiceNow with Salesforcecoms Chatter feeds"
 date: 2013-03-01T04:17:54.000Z
+authors: ["john.andersen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=46bdaaa9dbd0dbc01dcaf3231f9619c6"
 ---
 <p>I was talking to a customer the other day, who had an interesting request. Their company already uses Salesforce.com's Chatter feeds for everything in their company. Every document in salesforce has an associated feed with it. They did not want to move away from Chatter at first, but they want to introduce ServiceNow into their ITSM strategy. While ServiceNow already features LiveFeed as a way to associate feeds per record or document in the system, the prospect wanted to see the possibility of connecting solely to Salesforce's chatter feeds for the mean time.<br /><br />The initial suggestion I had was to integrate the Live Feed feature with Chatter, but they wanted us to demonstrate the capability of doing this without the Live Feed in ServiceNow. So, the following article outlines how I went about creating a basic feed within ServiceNow that is Chatter-based. <br /><br />Check out the article, demo video, and update set at my blog: <a href='http://www.john-james-andersen.com/blog/service-now/salesforce-com-chatter-integration-with-servicenow.html'>ServiceNow integration with Salesforce.com Chatter</a>.</p>

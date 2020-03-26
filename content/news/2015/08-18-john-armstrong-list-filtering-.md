@@ -1,6 +1,7 @@
 ---
 title: "List Filtering in the Classic Mobile UI"
 date: 2015-08-18T03:13:34.000Z
+authors: ["John Armstrong"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5ebc2e25dbd0dbc01dcaf3231f96191d"
 ---
 <p>Understanding how filtering works within the <a title="" href="/community?id&#61;community_blog&amp;sys_id&#61;0cecaa65dbd0dbc01dcaf3231f9619cd" rel="nofollow">Mobile user interface</a> is helpful as it will allow you to customize the available options for filtering, and ensure that users accessing your instance on the go can find the information they need quickly.   The mobile UI has a more streamlined subset of the filtering options, designed to be usable within the more<strong> limited hardware</strong> and <strong>screen space</strong> and of a mobile device.   As a result, there are some differences in the way filtering functions.</p>

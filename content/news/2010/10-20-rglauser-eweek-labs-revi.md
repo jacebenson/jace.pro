@@ -1,6 +1,7 @@
 ---
 title: "eWeek Labs Reviews Servicenowcom Fall  Release"
 date: 2010-10-19T21:05:00.000Z
+authors: ["rglauser"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=20dd66e9dbd0dbc01dcaf3231f961943"
 ---
 <p>Now that the Service-now.com Fall 2010 release is out, the reviews are rolling in. Last week, eWeek reviewed the new release with a focus on <a title="w.eweek.com/c/a/IT-Management/Runbook-Automation-Extended-to-VMware-Instance-Provisioning-205063/" href="http://www.eweek.com/c/a/IT-Management/Runbook-Automation-Extended-to-VMware-Instance-Provisioning-205063/">Runbook Automation and VM provisioning</a>. Do you have anything to add? There is a way for you to share your perspective and show the eWeek analysts what they missed. <br /><br />Submit a review at <a title="bs.eweek.com/product/enterprise-applications/service-now-com-fall-2010-release/" href="http://labs.eweek.com/product/enterprise-applications/service-now-com-fall-2010-release/">eWeek Labs</a>. If you're already a registered eWeek Labs user, click the "Reviews" tab that's below the Service-now.com screenshot and click "SUBMIT A REVIEW." New users must first register via the "CREATE AN ACCOUNT" link at the top of the page. <br /><br />We think eWeek analysts Cameron Sturdevant and Jason Brooks have created a great reviews community and it would be cool if the Service-now.com community shared our thoughts on the Fall 2010 release as well.</p>

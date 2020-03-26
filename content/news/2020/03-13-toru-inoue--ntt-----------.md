@@ -1,6 +1,7 @@
 ---
 title: "NTTSSoV SerivceNow Secured over VPN "
 date: 2020-03-12T16:46:59.000Z
+authors: ["Toru Inoue"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=788ce374db67c8d05ed4a851ca96195d"
 ---
 <p class="ng-scope"><em>※本記事は、ServiceNowのパートナー様より寄稿いただいたものをServiceNow社員が代理で投稿しています</em></p>

@@ -1,6 +1,7 @@
 ---
 title: "Applying Change Approval Policies to DevOps"
 date: 2019-02-01T06:17:54.000Z
+authors: ["Jason Occhialini"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=82e26f16db5363804abd5583ca961934"
 ---
 <p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 10pt;">Previously, we discussed what <a href="community?id&#61;community_blog&amp;sys_id&#61;d00c9e02db1b6b404abd5583ca96199d" rel="nofollow">Change Approval Policies</a> are, <a href="community?id&#61;community_blog&amp;sys_id&#61;d00c9e02db1b6b404abd5583ca96199d" rel="nofollow">how to use them</a>, and how powerful they are right out of the box. We discussed how the change_request policy input we supply with the Normal and Emergency change approval policies, by default, provides seamless access to variables in the change request table or any table it references. That’s huge on its own, but what if we want to reference fields and values in a table change request doesn’t reference? What if our DevOps teams store their test results in Test Management and we want to use that information to dictate an automated approval or rejection? Test execution suite for your service which is being changed under CHG100001 is 100% complete and successful? Automatically approve for deployment. If the test suite has too many failures? Automatically reject it and approval can be requested again when the work is ready to deploy.</span></p>

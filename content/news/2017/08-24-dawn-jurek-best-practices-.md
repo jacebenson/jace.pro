@@ -1,6 +1,7 @@
 ---
 title: "Best practices for creating and editing forms"
 date: 2017-08-23T23:04:09.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6b9dae69dbd0dbc01dcaf3231f9619ec"
 ---
 <p>The power and flexibility of the ServiceNow platform allows organizations to extend existing applications and develop new ones to meet their needs. Users interact with these applications through forms and lists. It's critical that these forms and lists be simple, intuitive, and consistent across the platform, so that users can quickly work with a new application without having to learn another interface. <span style="color: #666666; font-family: arial, sans-serif;">In this installment of our </span><a title="" _jive_internal="true" href="/content?filterID=all~objecttype~objecttype%5Bblogpost%5D&amp;filterID=all~tag%5Bnowsupport+best+practices+series%5D&amp;query=nowsupport+best+practices" style="font-family: arial, sans-serif; color: #3778c7;">best practices series</a><span style="color: #666666; font-family: arial, sans-serif;">, we look at</span> some best practices for creating forms that are easy to understand and use.</p><p></p><h1>Overview of form elements and their functions</h1><p>Check out this video on our <a title="ww.youtube.com/user/servicenowdemo" href="https://www.youtube.com/user/servicenowdemo">NowSupport YouTube channel</a>:</p><p></p><p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/2Eq2oxVllOU?rel=0" width="640">

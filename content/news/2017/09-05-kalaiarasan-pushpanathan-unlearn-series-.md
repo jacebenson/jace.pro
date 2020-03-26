@@ -1,6 +1,7 @@
 ---
 title: "Unlearn Series  Reverting Workflow Version"
 date: 2017-09-04T15:09:48.000Z
+authors: ["Kalaiarasan Pushpanathan"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fcaca225dbd0dbc01dcaf3231f961976"
 ---
 <p><span style="font-size: 12pt; font-family: verdana, geneva;"><strong>Ever wanted to revert a workflow to a previous version?</strong></span></p>

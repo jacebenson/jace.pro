@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   ATF Custom UI and Parameterized Tests"
 date: 2019-06-26T01:55:45.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=22232dc1db9e77002737e15b8a96195d"
 ---
 <p><img style="padding-right: 8px;" src="3e1d4b52dbdc3fc45129a851ca96192a.iix" alt="expert-logo-2.png" align="left" />In this episode, we&#39;ll cover what Automated Test Framework (ATF) is and why your organization needs to be using it. We&#39;ll also spotlight the latest Madrid features around testing custom UI pages and using parameterized tests to reduce the number of tests you need to build. Come learn how to accelerate application delivery cycle and reduce upgrade testing time using ATF.</p>

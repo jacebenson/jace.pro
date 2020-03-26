@@ -1,6 +1,7 @@
 ---
 title: "Why some customer service chatbots are better than others"
 date: 2019-08-19T21:58:17.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=984cbb22db5b3f004819fb243996192f"
 ---
 <p><img class="wp-image-3900" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/08/chatbot-4071274.jpg" alt="" width="303" height="192" align="right" /></p>

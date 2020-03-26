@@ -1,6 +1,7 @@
 ---
 title: "Creating Custom Dashboards"
 date: 2018-11-29T03:59:52.000Z
+authors: ["Andrew Marwan"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bf8d1575dbc2af802737e15b8a961978"
 ---
 <p>A custom dashboard can be a powerful addition to any organization, revealing critical insights that lead to better decision-making, improved productivity and enhanced performance. But the key is to first understand how dashboards can help identify opportunities to deliver value.</p>

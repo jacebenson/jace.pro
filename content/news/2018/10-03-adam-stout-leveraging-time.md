@@ -1,6 +1,7 @@
 ---
 title: "Leveraging Time Series in Performance Analytics"
 date: 2018-10-03T00:46:18.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=675c5793dbbc63c85129a851ca96191c"
 ---
 <p>Almost everyone now is walking around with a watch, phone, or fitness tracker that keeps tabs on how many steps they walked each day. These devices all collect and save your measurements on a minute by minute basis, but the apps and reports are often designed to show how your activity is progressing compared to last week, last month, or last year. It’s one thing to see if you were more active at noon versus 10 am, but what you really want to know is if you’re continuing to improve over time. Aggregating your steps into weekly, monthly, and yearly scores gives you an easier way to identify trends in your activity.</p>

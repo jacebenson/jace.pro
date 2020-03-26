@@ -1,6 +1,7 @@
 ---
 title: "Improved events processing on the ServiceNow platform"
 date: 2017-05-17T10:15:52.000Z
+authors: ["Lucas Vieites"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=528c2ae1dbd0dbc01dcaf3231f961925"
 ---
 <p>A large part of &#34;under the hood&#34; communications and notifications in the ServiceNow platform are managed by events. These are triggered by specific actions, such as: an incident being created or updated, a requested item that needs an approval, an SLA that has surpassed a predefined threshold, and many more. All these events need to be processed for the needed actions, such as sending out emails and SMS, updating a Live Feed, etc. are performed. The mechanism responsible for this is the &#34;events processor.&#34;</p>

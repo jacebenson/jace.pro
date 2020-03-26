@@ -1,6 +1,7 @@
 ---
 title: "CreatorCon Challenge    The Innovative Six"
 date: 2019-03-30T00:20:55.000Z
+authors: ["Martin Barclay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=db8144b8db24b38cfece0b55ca96194b"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/9b208830db24b38cfece0b55ca9619d7.iix" /></p>

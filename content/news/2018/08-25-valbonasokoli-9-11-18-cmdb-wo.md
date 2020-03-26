@@ -1,6 +1,7 @@
 ---
 title: " CMDB WORKSHOP  PRIOR TO THE  DC METRO SNUG "
 date: 2018-08-24T20:11:02.000Z
+authors: ["valbonasokoli"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5f57e9b6db80af445129a851ca961963"
 ---
 <p>Please make sure to join us on 9.11.18 for a CMDB workshop we are offering prior to the <a href="https://go.servicenow.com/LP&#61;10836" rel="nofollow">DC METRO SNUG</a>. </p>

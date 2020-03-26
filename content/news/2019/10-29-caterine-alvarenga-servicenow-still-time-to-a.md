@@ -1,6 +1,7 @@
 ---
 title: "Still Time to Attend Now at Work events in November"
 date: 2019-10-29T04:57:49.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=589b3595db384010d58ea345ca961953"
 ---
 <h3>Don’t miss out… still time to make plans to attend.</h3>

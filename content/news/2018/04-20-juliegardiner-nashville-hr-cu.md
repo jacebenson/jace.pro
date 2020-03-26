@@ -1,6 +1,7 @@
 ---
 title: "Nashville HR Customers Gather to Network and Share Best Practices with the ServiceNow HR BU"
 date: 2018-04-19T23:40:54.000Z
+authors: ["juliegardiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8f75988edba19b044816f3231f9619a9"
 ---
 <p>This week, the ServiceNow HR business unit hosted our Nashville customers for an afternoon of networking and best practice sharing.</p>

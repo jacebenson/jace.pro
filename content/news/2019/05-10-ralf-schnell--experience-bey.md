@@ -1,6 +1,7 @@
 ---
 title: "Experience beyond Consumer  Der Vorteil der EnterpriseApplikationen"
 date: 2019-05-09T22:42:48.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b944fef9db913f00a39a0b55ca9619a3"
 ---
 <p>Sehr geehrte SNUG-Mitglieder!</p>

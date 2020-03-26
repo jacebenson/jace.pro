@@ -1,6 +1,7 @@
 ---
 title: "Flow DesignerIntegration fr den Service Catalog"
 date: 2019-03-15T13:41:14.000Z
+authors: ["ralf.schnell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=90e82548dbdc3704f7fca851ca9619ab"
 ---
 <p style="text-align: justify;">Sehr geehrte SNUG-Mitglieder,</p>

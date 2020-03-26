@@ -1,6 +1,7 @@
 ---
 title: "Global email Display Name override"
 date: 2014-11-06T05:16:39.000Z
+authors: ["anuguajayreddy"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=df1da2e5dbd0dbc01dcaf3231f961919"
 ---
 <p style="font-family: arial, sans-serif; color: #666666;">hey guys,</p><p></p><p style="font-family: arial, sans-serif; color: #666666;">Small document for all of you who are looking to have multiple display names for Service-now emails, and to over ride the global Display name function for specific emails.</p><p></p><p style="font-family: arial, sans-serif; color: #666666;">Go to Email Notification --&gt;change it to Advance view</p><p></p><p style="font-family: arial, sans-serif; color: #666666;">under What it Will Contain tab --&gt; You will see new filed From</p><p></p><p style="font-family: arial, sans-serif; color: #666666;">You will see From and Reply to field. You add "Company/Group Name" under the filed all your email will start displaying with the new name.<img  alt="DP override.PNG" class="image-0 jive-image" src="1d7c3b71db945fc03eb27a9e0f9619da.iix" style="height: 156px; width: 620px;"/></p>

@@ -1,6 +1,7 @@
 ---
 title: "Call for Sponsor  Upstate NY SNUG   Fairport NY"
 date: 2019-01-04T02:46:28.000Z
+authors: ["Doug Dykes"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6bf5ee91dbba2b40d6a102d5ca961986"
 ---
 <p>Welcome to 2019!</p>

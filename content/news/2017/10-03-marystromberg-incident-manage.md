@@ -1,6 +1,7 @@
 ---
 title: "Incident Management Overview"
 date: 2017-10-03T01:41:36.000Z
+authors: ["marystromberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5b5de629dbd0dbc01dcaf3231f9619d0"
 ---
 <p>This video provides an introduction to incident management according to the Information<span style="line-height: 1.5;"> Technology Infrastructure Library (ITIL) framework. It also demonstrates incident management on the ServiceNow platform. It a</span>pplies to all supported ServiceNow releases as of Jakarta. The itil role is required to perform the actions shown in this video.</p><p></p><p style="text-align: center;"><em>For best video quality, increase your player resolution to 1080p.</em></p><p></p><p><iframe frameborder="0" height="360" src="https://www.youtube.com/embed/ryxjWBOq3sQ?rel=0" width="640">

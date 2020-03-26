@@ -1,6 +1,7 @@
 ---
 title: "Your Audio Visual CMDBor AVCMDB Step Two Network Data"
 date: 2020-02-05T06:39:04.000Z
+authors: ["Matthew Fearnley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=616aff09db7208584819fb24399619b8"
 ---
 <p>To add a sub-layer of Audiovisual (AV) network data is necessary for two reasons. For the team managing your AV it establishes a real verifiable presence on the network and AV has a seat at the table when it comes to macro events such as disaster recovery, network upgrades and security scans. Secondarily it allows the managing team to work directly with network when it comes to determining cause/effect relationships when AV tickets are opened through the service desk.</p>

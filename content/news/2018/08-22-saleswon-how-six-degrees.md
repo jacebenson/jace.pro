@@ -1,6 +1,7 @@
 ---
 title: "How Six Degrees Group Increases Revenue with a Streamlined Quote to Cash Process from SalesWon"
 date: 2018-08-21T22:57:05.000Z
+authors: ["SalesWon"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1290bab9db04eb008e7c2926ca96198e"
 ---
 <p><strong>The Customer</strong></p>

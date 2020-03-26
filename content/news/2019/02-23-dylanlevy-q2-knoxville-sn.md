@@ -1,6 +1,7 @@
 ---
 title: "Q Knoxville SNUG  Coming Soon"
 date: 2019-02-22T23:24:51.000Z
+authors: ["dylanlevy"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3d579719dbbfebc0d58ea345ca961979"
 ---
 <p>We are very excited to announce that the next <strong>Knoxville ServiceNow User Group Meeting</strong> is in the works for Q2!</p>

@@ -1,6 +1,7 @@
 ---
 title: "Exam Review Certified Implementation Specialist  IT Service Management"
 date: 2017-12-18T02:26:08.000Z
+authors: ["Shiva Thomas"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d35c2aa1dbd0dbc01dcaf3231f9619e9"
 ---
 <p><img class="image-1 jive-image" style="width: 620px;" src="ee3fa37ddbd81fc068c1fb651f9619fa.iix" alt="Certif.png" /></p>

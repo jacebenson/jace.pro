@@ -1,6 +1,7 @@
 ---
 title: "Call to Sponsor  Toronto SNUG March "
 date: 2019-12-03T03:32:48.000Z
+authors: ["Lexie Kuikman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c10aada8db25c09c6064eeb5ca9619de"
 ---
 <p>It&#39;s that time of year again!</p>

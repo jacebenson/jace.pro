@@ -1,6 +1,7 @@
 ---
 title: "From Zero to Hero in Customer Service"
 date: 2018-08-27T21:34:02.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9827d9b3db8c6344a8562926ca961977"
 ---
 <p><img class="alignnone wp-image-3294" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/08/superhero-2503808.jpg" alt="superhero-2503808" width="405" height="230" align="right" /> &#34;Save one.&#34;</p>

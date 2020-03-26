@@ -1,6 +1,7 @@
 ---
 title: " Bad Habits To Break in Customer Service"
 date: 2018-08-13T21:00:38.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6e39c19fdbff57000be6a345ca9619ec"
 ---
 <p><img class="alignnone  wp-image-3278" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/08/domino-665547.jpg" alt="domino-665547" width="383" height="249" align="right" /> Bad habits. How do they start and take hold so easily? We all probably have a few bad habits in our private lives. We also probably have a few occurring in our business lives, as well.</p>

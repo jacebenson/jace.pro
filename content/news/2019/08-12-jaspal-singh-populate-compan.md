@@ -1,6 +1,7 @@
 ---
 title: "Populate Company Logo dynamically in email notifications"
 date: 2019-08-11T13:04:47.000Z
+authors: ["Jaspal Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=df65b0c8db9b338014d6fb24399619fc"
 ---
 <p>Though User table is base for all User records in ServiceNow the information always differs &amp; which should. We have scenarios where multiple company&#39;s User records are created as per business requirements. One such situation would be 2 companies getting merged so as to provide solution from single ServiceNow instance which means some standardtization needs to be in place in terms of process, modules, etc. But one such thing companies want to be different is to have their company specific logo maintainted &amp; to be used in the notifications being sent out &amp; also in the banner (ServiceNow backend). This may be &amp; can be considered a valid requirement which business may demand &amp; is very simple to implement by following steps below.</p>

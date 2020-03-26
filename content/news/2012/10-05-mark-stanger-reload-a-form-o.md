@@ -1,6 +1,7 @@
 ---
 title: "Reload a Form or Related list from a Client Script"
 date: 2012-10-04T18:13:41.000Z
+authors: ["Mark Stanger"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=994deee5dbd0dbc01dcaf3231f96197f"
 ---
 <p>This post comes in response to a forum question about how to reload a form or related list from a client script. This can come in extremely handy in the right situation. In the past, I've used scripts like these to refresh information on the form in response to a back-end server update of some sort. Here are a couple of code examples that show how to trigger these reload actions.<br /><br /><center><a href="http://www.servicenowguru.com/wp-content/uploads/2012/10/refreshRelatedList.png"><img src="http://www.servicenowguru.com/wp-content/uploads/2012/10/refreshRelatedList-300x246.png" alt="" title="refreshRelatedList" width="300" height="246" class="aligncenter size-medium wp-image-4567" /></a><br /><br /><a title="w.servicenowguru.com/scripting/client-scripts-scripting/reload-form-related-list-client-script/" href="http://www.servicenowguru.com/scripting/client-scripts-scripting/reload-form-related-list-client-script/">Click here to read more at ServiceNow Guru!</a></center><br /><!--break--></p>

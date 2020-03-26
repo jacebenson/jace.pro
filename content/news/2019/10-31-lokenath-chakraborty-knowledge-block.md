@@ -1,6 +1,7 @@
 ---
 title: "Knowledge Blocks  feature overview"
 date: 2019-10-30T15:44:56.000Z
+authors: ["Lokenath Chakraborty"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9549d939dbbcc0145129a851ca9619ac"
 ---
 <p>This blog introduces the<strong> Knowledge Blocks </strong>feature. As we add more capabilities around knowledge blocks, this blog will be updated.</p>

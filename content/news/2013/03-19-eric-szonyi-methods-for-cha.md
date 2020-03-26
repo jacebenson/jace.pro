@@ -1,6 +1,7 @@
 ---
 title: "Methods for Chat Actions"
 date: 2013-03-18T07:27:29.000Z
+authors: ["eric.szonyi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7ddca665dbd0dbc01dcaf3231f961997"
 ---
 <p>I was trying to configure a few custom chat actions but outside but had some challenges finding documentation on the methods available to the g_chat object. I decided to use standard Javascript to enumerate the methods in the g_form object to see what was available to use. I placed the following in my Chat Action - Onclick Action Script:<br/><br/></p><pre class="plain" name="code">

@@ -1,6 +1,7 @@
 ---
 title: "Delivering effortless customer service doesnt need to be difficult"
 date: 2019-07-01T21:34:01.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=43c027fadb5a3fc0e0e80b55ca9619ec"
 ---
 

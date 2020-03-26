@@ -1,6 +1,7 @@
 ---
 title: "Presentasjoner fra SNUG   "
 date: 2020-03-10T17:23:26.000Z
+authors: ["runemehlum"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=57a16d141bef84d0ada243f6fe4bcb99"
 ---
 <p>Hei</p>

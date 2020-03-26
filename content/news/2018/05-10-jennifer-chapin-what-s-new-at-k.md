@@ -1,6 +1,7 @@
 ---
 title: "Whats New at Knowledge on the Show Floor"
 date: 2018-05-10T03:53:57.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f43f4024db4a1b805322f4621f9619c3"
 ---
 <p>Walk in the doors at the Sands Convention Center in Las Vegas and right off you’ll see things have changed with ServiceNow and Knowledge. To start, we have a new look.</p>

@@ -1,6 +1,7 @@
 ---
 title: " Steps to Create Reports Directly from an External Excel Spreadsheet"
 date: 2019-01-05T04:36:50.000Z
+authors: ["Eric Weischedel"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=42d88875dbf26f402e8c2183ca961991"
 ---
 <p><span style="font-size: 12pt; font-family: &#39;times new roman&#39;, times;">Although unknown to many, the capability exists within SeviceNow to create a report based directly on data from an external spreadsheet file -- for example such as a spreadsheet created in the Microsoft Excel application.  This blog post will describe the steps to create a report based on data from an excel spreadsheet, with a simple example.  Much of this information is also covered, but in more detail in Knowledge Base Article<a href="http://bit.ly/KB0722420" target="_blank" rel="noopener noreferrer nofollow"> KB0722420 - How to create a report based on data from an external Excel spreadsheet.</a></span></p>

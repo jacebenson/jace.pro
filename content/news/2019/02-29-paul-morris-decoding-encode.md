@@ -1,6 +1,7 @@
 ---
 title: "Decoding Encoded Queries"
 date: 2019-02-28T14:40:29.000Z
+authors: ["Paul Morris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cfd850dbdbb36f00fece0b55ca9619f4"
 ---
 <p>Like Regular Expression, Encoded Queries are incredibly useful to write but incredibly hard to read.<br />To help with this, I created a diagram to help Decode Encoded Queries.</p>

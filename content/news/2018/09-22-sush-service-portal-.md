@@ -1,6 +1,7 @@
 ---
 title: "Service Portal Search Facets   London"
 date: 2018-09-22T02:49:59.000Z
+authors: ["Sush"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=483fcf73dbe4a348200f0b55ca9619b9"
 ---
 <p>Today I will go over the new <strong>Search Facets </strong>feature added in London for Service Portal.</p>

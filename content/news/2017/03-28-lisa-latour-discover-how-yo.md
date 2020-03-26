@@ -1,6 +1,7 @@
 ---
 title: "Discover how you can deliver effortless connected and proactive customer service KNOWLEDGE "
 date: 2017-03-28T03:54:29.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ea2e2a6ddbd0dbc01dcaf3231f961914"
 ---
 <div class="section" style="background-color: rgb(100.000000%, 75.300000%, 1.600000%);">

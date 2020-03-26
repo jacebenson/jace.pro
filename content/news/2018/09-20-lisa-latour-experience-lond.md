@@ -1,6 +1,7 @@
 ---
 title: "Experience London  the broadcast is now available ondemand"
 date: 2018-09-19T19:40:36.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=36b9db47db60a7042be0a851ca961949"
 ---
 <p>We’re thrilled to have just concluded our broadcast event that showed how our latest release delivers intelligence for everyday work and better experiences.</p>

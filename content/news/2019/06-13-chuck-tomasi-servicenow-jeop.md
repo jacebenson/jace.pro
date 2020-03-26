@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Jeopardy"
 date: 2019-06-12T17:46:43.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4c96f4b4db067380fff8a345ca96197a"
 ---
 <h2>Description</h2>

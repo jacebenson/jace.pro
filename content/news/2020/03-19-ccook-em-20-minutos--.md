@@ -1,6 +1,7 @@
 ---
 title: "Em  minutos  o SNUG Brasil Digital"
 date: 2020-03-18T16:38:47.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c724a2fedb27c4542be0a851ca9619fe"
 ---
 <p>Bom dia Comunidade, </p>

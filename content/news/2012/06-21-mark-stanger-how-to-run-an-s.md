@@ -1,6 +1,7 @@
 ---
 title: "How to Run an SLA based on a Task Due date"
 date: 2012-06-20T18:35:12.000Z
+authors: ["Mark Stanger"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=853e2e6ddbd0dbc01dcaf3231f9619ac"
 ---
 <p>SLA configuration in ServiceNow is generally a pretty straight-forward process once you understand how the system works. One fairly common SLA requirement that isn't so straight-forward to configure is a task due date-based SLA. This type of SLA is dependent on user-provided input into the 'Due date' field on a task record. Of course, you could apply the same concept to any date/time field on any record in the system. The only problem is that there's no built-in way to set up this type of SLA. This article will show you how this can be accomplished.<br /><br /><b>Special thanks to James Grinter from ServiceNow for developing this entire solution.</b> My only contribution is to share it with you here.<br /><br /><center><a href="http://www.servicenowguru.com/system-definition/sla-task-due-date/"><img src="http://www.servicenowguru.com/wp-content/uploads/2012/06/Due_Date_Task-289x300.png" alt="Due_Date_Task" title="Due_Date_Task" width="289" height="300" class="aligncenter size-medium wp-image-4478" /></a><br /><br /><a href="http://www.servicenowguru.com/system-definition/sla-task-due-date/" target="_blank"><b>Read more at SNGuru!</b></a><br /></center><br /><!--break--></p>

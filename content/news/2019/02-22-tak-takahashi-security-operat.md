@@ -1,6 +1,7 @@
 ---
 title: "Security OperationsLondon"
 date: 2019-02-21T12:47:54.000Z
+authors: ["Tak Takahashi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7dfbb7f8dbb367802be0a851ca9619ba"
 ---
 <p>セキュリティ上の脅威が紙面を飾ることがまったく珍しくない現代。もはやその被害を受ける事は可能性ではなく、いつ被害を受けるかを懸念する時代となりました。では、どう対処すればよいのでしょう。<br />御社は、セキュリティ侵害を伝える紙面に登場する側になるのでしょうか&#xff1f;</p>

@@ -1,6 +1,7 @@
 ---
 title: "Automating Log Retrieval for Faster Incident Resolution"
 date: 2018-07-17T21:22:55.000Z
+authors: ["vNickNOW"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ed6b06a6db9bdf002be0a851ca96198b"
 ---
 <p>When an incident is created and assigned to a technician, one of the first tasks the technician must complete is to look through log files for errors (at least when the incident relates to infrastructure or data center applications).  This requires the tech to swivel chair to login to the system, find the correct log file, possibly FTP or SCP the file off the system to their own computer or copy and paste to the incident.  All of this adds time to the process of resolving the incident.</p>

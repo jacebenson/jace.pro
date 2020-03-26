@@ -1,6 +1,7 @@
 ---
 title: "Join us at Mastros Steakhouse in Washington DC on  for a great dinner and workshop developed by Forrester"
 date: 2018-06-02T00:30:04.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ae1d353bdb5ed3847b337a9e0f9619ec"
 ---
 <p>Join us at Mastro&#39;s Steakhouse in Washington, DC on 6.12 for a great dinner and workshop developed by Forrester! <a href="https://go.servicenow.com/LP&#61;10296" rel="nofollow">Click here </a> </p>

@@ -1,6 +1,7 @@
 ---
 title: "Kingston Release  Collected Links of Interest"
 date: 2018-01-11T22:26:30.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=aa5ce6a1dbd0dbc01dcaf3231f961995"
 ---
 <p><span style="font-size: 12pt;"><img class="image-1 jive-image" style="height: auto; float: right;" src="ff322c02db90d704ed6af3231f9619a6.iix" alt="Kingston-Now-Available_300x185-v2.jpg" />Help us welcome in the latest ServiceNow release.   Kingston — is now available!   Check out these new blogs from subject matter experts to learn more.   Be sure to bookmark - new blogs will be adding over the next several weeks. </span></p>

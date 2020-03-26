@@ -1,6 +1,7 @@
 ---
 title: "Its Summer Go mobile on the new ServiceNow Android App"
 date: 2016-07-07T21:45:03.000Z
+authors: ["toddzambrovitz"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=84dc2665dbd0dbc01dcaf3231f96190d"
 ---
 <p>Now you can connect directly to your ServiceNow instance from any beach, lake or pool, using your Android-based phone.     This app further expands our support for mobile platforms, which also includes iOS, iPad and Apple Watch.</p><p></p><p>Whether you need to browse and make requests in the Service Catalog or create and manage new incidents on the go, it's all there in a native Android experience. You can respond to approval requests, monitor activity streams, access the Knowledge Base and instantly receive push notifications.</p><p></p><p>The ServiceNow Android app is available on the Google Play store right now at no charge. It works with any instances running Geneva Patch 6 and higher and supports smartphones running version 4.4 (KitKat) or later.</p><p></p><p><a title="lay.google.com/store/apps/details?id=com.servicenow.servicenow" href="https://play.google.com/store/apps/details?id=com.servicenow.servicenow">Download it now</a> and get out of the office!</p><p></p><p><img  alt="android.png" class="image-1 jive-image" src="6ce0c082db585fc03eb27a9e0f96197e.iix" style="width: 620px; height: 349px;"/></p>

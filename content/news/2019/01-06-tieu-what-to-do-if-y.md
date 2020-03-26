@@ -1,6 +1,7 @@
 ---
 title: "What to do if you are Missing Required Information on Mandatory Variables for Catalog Items on Service Portal in London"
 date: 2019-01-05T07:15:56.000Z
+authors: ["tieu"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ec4d2479db326b40107d5583ca961983"
 ---
 <p>Before you upgrade to London, consider <a href="http://bit.ly/KB0719979" target="_blank" rel="noopener noreferrer nofollow">checking your Variable Set names </a>are unique to avoid broken Variable sets.</p>

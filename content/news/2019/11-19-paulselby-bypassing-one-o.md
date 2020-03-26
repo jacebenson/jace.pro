@@ -1,6 +1,7 @@
 ---
 title: "Bypassing one of the greatest barriers to amazing customer service delivery"
 date: 2019-11-18T23:31:23.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ec8ce048dbdd4850190dfb24399619bb"
 ---
 <p><img class="wp-image-4227" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/11/waiting-410328.jpg" alt="" width="346" height="230" align="right" /></p>

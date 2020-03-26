@@ -1,6 +1,7 @@
 ---
 title: "TechBytes Episode  IBM Watson on the Now Platform"
 date: 2018-12-18T04:38:45.000Z
+authors: ["Steve Miller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2aacd3fbdbd26740656a5583ca9619d6"
 ---
 <p><iframe src="https://omny.fm/shows/servicenow-techbytes/episode-46-ibm-watson-on-the-now-platform/embed?style&#61;cover" width="100%" height="180"></iframe></p>

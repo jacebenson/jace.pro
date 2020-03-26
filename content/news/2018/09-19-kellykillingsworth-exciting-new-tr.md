@@ -1,6 +1,7 @@
 ---
 title: "Exciting new Training and Certification developments heading your way"
 date: 2018-09-18T20:44:47.000Z
+authors: ["kellykillingsworth"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d1de52fedb242700a39a0b55ca961943"
 ---
 <p>We’ve got some exciting Training and Certification developments headed your way. These new offerings deliver additional training options no matter where you are in your ServiceNow journey—and are designed to help your team gain the skills they need to get the most out of a ServiceNow solution. <span> </span></p>

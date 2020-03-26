@@ -1,6 +1,7 @@
 ---
 title: "Reporting on the Substrings  Part  on Conquer Challenging Reports by Leveraging the Now Platform"
 date: 2020-02-27T23:33:03.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a57578e0db5fcc1014d6fb24399619c1"
 ---
 <p>This post is part two of a three-part series on how to leverage the Now Platform to easily solve otherwise tough reporting problems.  This is a followup to the <a href="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7&amp;view_source&#61;featuredList" rel="nofollow">Performance Analytics and Reporting Office Hours</a> from 2/12/2020.  If you would like to hear me explain this, you can check out the recording and presentation <a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;0740de96dbcf889023f4a345ca96195d" rel="nofollow">here</a>.</p>

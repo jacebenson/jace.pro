@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow named a Gartner Peer Insights Customers Choice for IRM"
 date: 2019-10-24T04:37:12.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5de680ffdba0005c5ed4a851ca96197a"
 ---
 <p>We are excited to announce that ServiceNow GRC has been recognized as a 2019 <a href="https://www.gartner.com/reviews/customers-choice/integrated-risk-management" rel="nofollow">Gartner Peer Insights Customers’ Choice</a> for Integrated Risk Management.  At ServiceNow we put customers first and are humbled by their support in return.  Thank you to all our customers who submitted a review, ServiceNow had the most reviews of the vendors who received this distinction, and who help us every day to evolve our products - without you this distinction would not have been possible.</p>

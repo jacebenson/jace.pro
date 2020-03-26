@@ -1,6 +1,7 @@
 ---
 title: "Filtering CIs A Reference Qualifier Example"
 date: 2018-07-17T19:28:40.000Z
+authors: ["vNickNOW"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7b3139aedb9b9f002be0a851ca961909"
 ---
 <p>So you&#39;ve worked hard getting your CMDB populated with all the objects that should fall under configuration management and/or be part of your service management processes like incident, problem, and change.  It is very likely that you now have hundreds, thousands, or even millions of CI&#39;s from which to choose when you are handling an incident or performing a change.  How can a user reasonably sort through them and choose the correct one?</p>

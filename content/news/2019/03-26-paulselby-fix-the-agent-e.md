@@ -1,6 +1,7 @@
 ---
 title: "Fix the agent experience to improve the customer experience"
 date: 2019-03-25T19:26:52.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7ce7da5fdbd03b0814d6fb2439961925"
 ---
 <blockquote class="wp-block-quote is-style-large">

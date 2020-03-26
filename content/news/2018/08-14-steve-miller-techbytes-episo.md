@@ -1,6 +1,7 @@
 ---
 title: "TechBytes Episode  Continual Improvement Management"
 date: 2018-08-13T22:44:05.000Z
+authors: ["Steve Miller"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3de0295fdbf71f0067a72926ca96194a"
 ---
 <p><iframe src="https://omny.fm/shows/servicenow-techbytes/episode-42-continual-improvement-management/embed?style&#61;artwork" width="100%" height="180"></iframe></p>

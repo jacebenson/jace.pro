@@ -1,6 +1,7 @@
 ---
 title: "Now at Work Amsterdam Visit the SNUG Stand"
 date: 2019-09-16T23:25:22.000Z
+authors: ["tracyo'brien"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3cbc5437db33ff004819fb24399619e9"
 ---
 <p>Hello!</p>

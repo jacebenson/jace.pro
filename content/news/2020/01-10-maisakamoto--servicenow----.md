@@ -1,6 +1,7 @@
 ---
 title: "ServiceNowServiceNow Fundamentals "
 date: 2020-01-09T07:43:33.000Z
+authors: ["maisakamoto"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=be368168db1ac850f7fca851ca961927"
 ---
 <p class="p1"><span class="s1">こんにちは、</span>ServiceNow Training &amp; Certification<span class="s1">チームです。</span></p>

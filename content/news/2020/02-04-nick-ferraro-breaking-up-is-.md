@@ -1,6 +1,7 @@
 ---
 title: "Breaking Up is Hard to Do"
 date: 2020-02-03T21:34:35.000Z
+authors: ["Nick Ferraro"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=04343478dbfac4184819fb24399619f8"
 ---
 <p><em>Breaking up is hard to do.</em>  Those are not my words.  They were said, or sang by a much more talented guy named Neal Sedaka.  He sang those lyrics back in 1976, but they are still true today.  Breaking up is hard to do.  You can watch a performance of the song <a href="https://www.youtube.com/watch?v&#61;jWFgqnisSsk" rel="nofollow">here</a>.  (Watching this video could result in physical distress for viewers born after the year 1970.)  Staying in a relationship is easier than breaking up even if staying is unhealthy.  One of the main reasons people stay in broken relationships is that however unpleasant and unhealthy the situation is, change can be even more difficult.   Clinical Psychologist, Dr. Samantha Rodman wrote the following in a recent blog post for a website called <a href="http://www.talkspace.com" rel="nofollow">TalkSpace</a>:</p>

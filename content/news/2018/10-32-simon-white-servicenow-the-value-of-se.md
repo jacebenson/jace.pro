@@ -1,6 +1,7 @@
 ---
 title: "The value of Service Mapping and making it work for your applications"
 date: 2018-10-31T09:28:47.000Z
+authors: ["simon.white@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=867025e0dbada3447d3e02d5ca96197a"
 ---
 <h3>Introduction</h3>

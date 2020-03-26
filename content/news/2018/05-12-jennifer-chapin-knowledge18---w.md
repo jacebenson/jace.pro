@@ -1,6 +1,7 @@
 ---
 title: "Knowledge  Whats with the tchotchkes"
 date: 2018-05-11T05:11:03.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c07aadbcdb8a13c05322f4621f961989"
 ---
 <p>From my colleague, Tom, who thoroughly enjoyed himself at the event!  Enjoy!</p>

@@ -1,6 +1,7 @@
 ---
 title: "Now Platform New York release is available"
 date: 2019-08-01T00:33:14.000Z
+authors: ["joanne.wegener"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e089eaa4db47f308f7fca851ca961981"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/119038ca1babff04fff162c4bd4bcbe9.iix" /></p>

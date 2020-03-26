@@ -1,6 +1,7 @@
 ---
 title: "New GRC Enhancements Now Available for New York"
 date: 2019-11-12T03:49:20.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2264e9f5db8d88102be0a851ca9619d2"
 ---
 <p>Intelligence and ease of use are the dominate themes for the new GRC enhancements just released to the <a href="https://store.servicenow.com/sn_appstore_store.do#!/store/search?category&#61;Governance%252C%2520Risk%2520and%2520Compliance&amp;orderby&#61;rating" rel="nofollow">ServiceNow Store</a>.  Although they are earmarked for Orlando, because GRC releases through the store we are able to make them available now for those customers that have a New York instance. When the release of Orlando occurs early next year they will be tested and also comparable with Orlando.</p>

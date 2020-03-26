@@ -1,6 +1,7 @@
 ---
 title: "Slide Deck  Baltimore SNUG "
 date: 2019-11-05T03:22:11.000Z
+authors: ["Dinh Vo"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7c1b59abdb780c9023f4a345ca9619c2"
 ---
 <p>Hi Maryland SNUG community! </p>

@@ -1,6 +1,7 @@
 ---
 title: "April  SNUG Presesentaions Materials  Survey"
 date: 2019-04-29T20:47:39.000Z
+authors: ["bamidele"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=650a36aedb0d3384feb1a851ca961945"
 ---
 <p>Hi All,</p>

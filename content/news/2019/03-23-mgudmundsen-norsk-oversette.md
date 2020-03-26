@@ -1,6 +1,7 @@
 ---
 title: "Norsk oversettelse av ServiceNow  hvordan oversetter man Asset"
 date: 2019-03-22T22:58:54.000Z
+authors: ["mgudmundsen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=25abaf5edb90b748fece0b55ca96197d"
 ---
 <p>Hei,</p>

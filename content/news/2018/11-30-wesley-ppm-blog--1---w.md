@@ -1,6 +1,7 @@
 ---
 title: "PPM Blog   Where we came from"
 date: 2018-11-30T00:59:13.000Z
+authors: ["Wesley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2bcdb546dbc22340b1b102d5ca9619ed"
 ---
 <p><span style="font-size: 12pt;">I am taking inspiration from Kelly Kaufmann and attempting to present my firsthand account of our ServiceNow PPM implementation as we move along the maturation of our ServiceNow platform. For anyone who has not read her blogs, please search for Kelly&#39;s name and enjoy!</span></p>

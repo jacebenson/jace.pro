@@ -1,6 +1,7 @@
 ---
 title: "Upcoming Ask the Expert Sessions April  May "
 date: 2019-04-05T00:31:37.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=528d3622db2c77c0d82ffb24399619ec"
 ---
 <p><img style="float: right; margin-left: 15px;" src="https://community.servicenow.com/31ec3a6adbe877c0d82ffb24399619cb.iix" />Hello community members!</p>

@@ -1,6 +1,7 @@
 ---
 title: "GRC  Recognizes ServiceNow with a GRC Innovation Award"
 date: 2018-06-08T07:10:26.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=71421a35dbae178067a72926ca9619ad"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="4b011631dbae178067a72926ca9619c2.iix" /></p>

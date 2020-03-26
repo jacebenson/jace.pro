@@ -1,6 +1,7 @@
 ---
 title: "Attending Knowledge Action Needed For Session And Lab Content Access"
 date: 2017-05-05T21:25:56.000Z
+authors: ["Dan Bruhn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=618ce6e1dbd0dbc01dcaf3231f96196e"
 ---
 <p>Please be aware if you are attending Knowledge17 you will need to login to the Community with the same credentials used to register for Knowledge17 prior to the event, or you will not have access to session or lab content onsite through the Community.</p><p></p><p>Here's how to Log-In:</p><ol style="list-style-type: decimal;"><li><span>Go to: </span><a title="ainerTT-hover-container jive-link-community-small" class="jivecontainerTT-hover-container jive-link-community-small" data-containerId="1" data-containerType="14" data-objectId="2024" data-objectType="14" href="/community?id=community_static&sys_id=93c3be65dbdc5bc0b322f4621f961966">https://community.servicenow.com/community/knowledge-user-conference</a></li><li>Click on "SIGN IN/JOIN" in the top right</li></ol><p></p><p>USERNAME: must be the email address you used to register for Knowledge17</p><p></p><p>PASSWORD: Same used to register for Knowledge17</p><p></p><p>That's it! Thank you again for being part our community. See you next week!</p><p></p><p>Thanks,</p>

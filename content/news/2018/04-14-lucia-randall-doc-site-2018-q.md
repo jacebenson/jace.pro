@@ -1,6 +1,7 @@
 ---
 title: "Doc Site  Q Release"
 date: 2018-04-14T01:35:33.000Z
+authors: ["lucia.randall"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0c36bd84db25d380032a7a9e0f9619bc"
 ---
 <p>We have spent the past 3 months working on improvements to our product documentation site <a href="https://docs.servicenow.com/" rel="nofollow">docs.servicenow.com</a>. The below are features we just launched and are ready for you to try them! </p>

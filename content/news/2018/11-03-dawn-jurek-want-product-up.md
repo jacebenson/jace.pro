@@ -1,6 +1,7 @@
 ---
 title: "Want product updates and answers to your questions Check out our Deskside Chats video series"
 date: 2018-11-03T02:54:06.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c6e2eb55dbe92300656a5583ca96199e"
 ---
 <p>You have questions. And we have answers!</p>

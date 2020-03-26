@@ -1,6 +1,7 @@
 ---
 title: "Data Collection in Performance Analytics  Office Hours  Dec  Recap"
 date: 2019-12-10T05:13:07.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=071406ba1be94c107a5933f2cd4bcb68"
 ---
 <p>During the <a title="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" href="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" rel="nofollow">Performance Analytics and Reporting Office Hours</a> on December 4th, we covered a quick introduction into how the Data Collector works in Performance Analytics.</p>

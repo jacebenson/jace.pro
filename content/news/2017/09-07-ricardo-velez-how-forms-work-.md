@@ -1,6 +1,7 @@
 ---
 title: "How forms work  tips on identifying and fixing broken forms"
 date: 2017-09-06T20:27:08.000Z
+authors: ["Ricardo Velez"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=301eae2ddbd0dbc01dcaf3231f96199c"
 ---
 <div class="margin">

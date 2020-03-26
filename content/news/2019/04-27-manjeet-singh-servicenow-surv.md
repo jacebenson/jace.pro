@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Surveys How to create great surveys quickly using Question Bank"
 date: 2019-04-26T21:34:29.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9af76ba9db457fc05129a851ca961976"
 ---
 <p class="p1"><span style="font-size: 12pt;">How much time are you spending in creating surveys? Or ever wonder if the survey you’re creating is any good? </span></p>

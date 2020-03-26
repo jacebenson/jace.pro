@@ -1,6 +1,7 @@
 ---
 title: "Responsive Dashboard  Office Hours  Nov  Recap"
 date: 2019-11-21T06:43:26.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=74926434db150494d58ea345ca9619c5"
 ---
 <p>During the <a title="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" href="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" rel="nofollow">Performance Analytics and Reporting Office Hours</a> on November 6th, Product Manager Olga Redkina covered the benefits of Responsive Dashboard in regard to usability and security.</p>

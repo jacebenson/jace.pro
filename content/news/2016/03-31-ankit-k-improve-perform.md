@@ -1,6 +1,7 @@
 ---
 title: "Improve performance database indexes and slow queries"
 date: 2016-03-31T01:49:32.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6b4da229dbd0dbc01dcaf3231f9619ad"
 ---
 <p>Performance Degradation of a transaction could possibly reside on the Network, Browser or the Server. When the slowness is on the database server it is usually slow due to non optimal queries which take most of the transaction time. A quick way to optimize these queries is by creating indexes on them to improve query response time. Creating indexes on the queries will improve the overall transaction time. Adding the appropriate indexes to the slow queries can drastically improve the overall instance slowness issues.</p>

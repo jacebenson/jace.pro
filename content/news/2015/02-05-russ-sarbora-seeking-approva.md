@@ -1,6 +1,7 @@
 ---
 title: "Seeking Approval  Part  The Basics and the Approval  User activity"
 date: 2015-02-04T20:25:36.000Z
+authors: ["russ.sarbora"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2f1da2e5dbd0dbc01dcaf3231f961966"
 ---
 <p>Automating an approval process is a common use case for workflow, but can sometimes lead people into difficulties. I thought it would useful to explain how the different approval activities work, and when and how they should be used. Its a big subject, so I expect this will turn into a multi-post series. I&#39;m going to start with some simple examples and digging into the underlying mechanics of how Workflow uses Approvals. But I also want to address issues you&#39;re facing with complicated approval processes, so send me your questions and problems, and I&#39;ll make them the subject of a later post.</p>

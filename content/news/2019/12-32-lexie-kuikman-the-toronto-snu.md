@@ -1,6 +1,7 @@
 ---
 title: "The Toronto SNUG is on March th"
 date: 2019-12-31T21:57:57.000Z
+authors: ["Lexie Kuikman"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8373b535db0a44145ed4a851ca961995"
 ---
 <p><strong>Thank you to our sponsor: Fully Managed!!</strong></p>

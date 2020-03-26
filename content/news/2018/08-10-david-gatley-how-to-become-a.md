@@ -1,6 +1,7 @@
 ---
 title: "How to become a TOP ISV partner"
 date: 2018-08-10T01:56:10.000Z
+authors: ["David.Gatley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e0866d42dbf31b809d612926ca9619a7"
 ---
 <p>As the ServiceNow platform gains popularity as a strategic platform for the world&#39;s largest companies, more and more Independent Software Vendors are looking to ServiceNow as the quickest and most lucrative path to market for their technology. One of the many benefits of deploying a certified solution through our marketplace to our customers is access to our team and all its resources. However, not all partners are able to take advantage of this. To understand what you need to do, as an ISV, to be able to take advantage of all of the Technology Partner Program benefits, consider the following:</p>

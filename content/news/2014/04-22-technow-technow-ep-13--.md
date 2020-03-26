@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Defined Related Lists"
 date: 2014-04-21T19:45:51.000Z
+authors: ["TechNow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fd9c2ee1dbd0dbc01dcaf3231f9619d5"
 ---
 <p>See your ServiceNow related information in a whole new way. You are not limited to records with a reference field to the parent table or a many-to-many table if you want a related list.</p>

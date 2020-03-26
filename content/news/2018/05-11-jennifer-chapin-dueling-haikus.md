@@ -1,6 +1,7 @@
 ---
 title: "Dueling Haikus"
 date: 2018-05-11T01:45:03.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=124bb8b0db4adf805322f4621f96195a"
 ---
 <p>A great post from my colleague, Richard....enjoy!</p>

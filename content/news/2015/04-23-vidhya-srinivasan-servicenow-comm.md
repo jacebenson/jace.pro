@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Community MVPs Event was a blast"
 date: 2015-04-22T20:42:22.000Z
+authors: ["vidhya.srinivasan"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=714d2229dbd0dbc01dcaf3231f961915"
 ---
 <p>We had a fantastic event with our inaugural class of ServiceNow MVPs.   Out of the 10 MVPs, 5   of the MVPs could join us at the event to meet in person.</p><p><img   alt="MeetMVP2015.jpeg" class="image-0 jive-image" src="a8a86735dbd41fc068c1fb651f9619aa.iix" style="height: auto;"/><img  alt="MVP.jpg" class="image-0 jive-image" src="9396514edb1c9f048c8ef4621f961988.iix" style="height: 413px; width: 620px;"/></p><p><a __default_attr="639937" __jive_macro_name="message" class="jive_macro_message jive_macro" data-orig-content="jimcoyne22 @mark stanger" href="/community?id=community_question&sys_id=d7fb0725db9cdbc01dcaf3231f96197a" modifiedtitle="true" title="jimcoyne22 @mark stanger">jimcoyne22 @mark stanger</a> @dougandrews @travistoulson @bradtilton all of them stopped by for our Meet and greet event.</p><p></p><p>We had our exec @shane jackson, VP of Marketing stop by to meet them. It was great to hear feedback on all programs including CreatorCon. Two of them already passed our Certification exam.</p><p></p><p>All of them received</p>

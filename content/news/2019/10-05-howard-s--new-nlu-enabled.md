@@ -1,6 +1,7 @@
 ---
 title: "New NLUenabled Virtual Agent conversations are here"
 date: 2019-10-05T01:39:50.000Z
+authors: ["Howard S."]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=8218ede5db18c8105129a851ca9619b8"
 ---
 <p>Today, we launched the re-implementation of Virtual Agent in the HI Service Portal (take a look at our previous <a href="https://community.servicenow.com/community?id&#61;community_blog&amp;sys_id&#61;3d9fe366db044854190dfb243996198b" rel="nofollow">blog</a> posting on this from last week).  With this comes the enablement of <a href="https://docs.servicenow.com/bundle/newyork-release-notes/page/release-notes/performance-analytics-reporting/natural-language-understanding-rn.html" rel="nofollow">newly available Natural Language Understanding (NLU) capabilities in the New York release</a>.</p>

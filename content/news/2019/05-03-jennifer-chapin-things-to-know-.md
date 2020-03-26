@@ -1,6 +1,7 @@
 ---
 title: "Things to know before you arrive at Knowledge "
 date: 2019-05-03T00:07:18.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=17740f2bdbc577c454250b55ca96196c"
 ---
 <p>Here we go!  You can’t imagine the excitement around here as we get ready to welcome you all to Las Vegas.  There are a few things on the top of my list to remind you about, so take a look below.  Not listed here – comfortable shoes.  So, don’t forget those!</p>

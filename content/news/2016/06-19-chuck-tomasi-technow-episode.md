@@ -1,6 +1,7 @@
 ---
 title: "TechNow Episode List"
 date: 2016-06-18T05:43:56.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4d6eaeaddbd0dbc01dcaf3231f961964"
 ---
 <p>TechNow is the web series for ServiceNow developers and admins on a variety of Now Platform topics. The monthly series covers everything from platform features in the latest release to best practices. Whether you are new to ServiceNow or have years of experience, you’re sure to learn something from the TechNow team.</p>

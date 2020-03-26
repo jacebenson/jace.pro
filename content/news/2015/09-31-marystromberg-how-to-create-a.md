@@ -1,6 +1,7 @@
 ---
 title: "How to Create a Data Collection Job for Performance Analytics"
 date: 2015-09-30T23:38:03.000Z
+authors: ["marystromberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=173d6ee5dbd0dbc01dcaf3231f961926"
 ---
 <p>This video explains how to create a data collection job for Performance Analytics data in the ServiceNow platform.</p><p></p><p><iframe src="https://youtube.com/embed/73YUSlF_8y4" width="640" height="360"/></p><p></p><p><span style="font-size: 13.3333330154419px;"><em>For best video quality, increase your player resolution to 1080p.</em></span></p><p></p><p>For more information on Performance Analytics, see:</p><p><span style="font-size: 13.3333330154419px;"><a href="http://wiki.servicenow.com/index.php?title=Performance_Analytics" title="http://wiki.servicenow.com/index.php?title=Performance_Analytics">Product Documentation - Performance Analytics</a></span></p><p><span style="font-size: 10pt; line-height: 1.5em;"><br/></span></p><p><span style="font-size: 10pt; line-height: 1.5em;">Your feedback helps us better serve you! Did you find this video helpful? Leave us a comment to tell us why or why not.</span></p>

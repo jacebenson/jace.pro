@@ -1,6 +1,7 @@
 ---
 title: "The ULTIMATE Service Portal CSS Guide"
 date: 2019-11-08T06:56:25.000Z
+authors: ["dylan.lindgren"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=48e8a9ec1b050414d01143f6fe4bcb98"
 ---
 <p>I work a lot with Service Portal, and luckily my background in web development has meant that I can see through it’s sometimes complex world, so that when something strange is going on I can usually find out why it’s happening, and know what to do to resolve it.</p>

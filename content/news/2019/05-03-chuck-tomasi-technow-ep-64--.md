@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Engage users with the ServiceNow email client"
 date: 2019-05-03T02:57:43.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2f7b67abdb01f7c454250b55ca9619c1"
 ---
 <p><img style="padding-right: 8px;" src="3e1d4b52dbdc3fc45129a851ca96192a.iix" alt="expert-logo-2.png" align="left" />Regardless of popular opinion, email is still a major form of communicating with your end users. The email client in ServiceNow makes it easy to engage with your users on a topic and track that conversation in the history of the related record. The Madrid release brings some helpful new features to give you more control over the email client. Join Chuck Tomasi, Stacey Bailey, and Kreg Steppe of ServiceNow for an introduction and demonstration how to configure the email client to be most effective in your organization.</p>

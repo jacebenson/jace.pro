@@ -1,6 +1,7 @@
 ---
 title: "Whats New in London for Performance Analytics"
 date: 2018-08-16T23:39:23.000Z
+authors: ["Tom Pacyk"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=055a4958db882380b2102926ca961999"
 ---
 <p><img style="float: right; margin-left: 10px; max-width: 100%; max-height: 480px;" src="be5cabc2dbc463408e7c2926ca961991.iix" /></p>

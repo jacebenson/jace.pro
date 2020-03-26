@@ -1,6 +1,7 @@
 ---
 title: "Whats New in Kingston for Performance Analytics"
 date: 2018-01-11T22:26:07.000Z
+authors: ["lizandrews"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=985ee6addbd0dbc01dcaf3231f9619db"
 ---
 <p>The Performance Analytics release for Kingston continues to focus on user experience - from end-user to admin - to help customers get started quickly with powerful visualizations and analytics, easier access to external data, out-of-the-box content, and more.</p>

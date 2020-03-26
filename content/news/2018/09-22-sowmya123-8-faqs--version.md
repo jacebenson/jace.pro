@@ -1,6 +1,7 @@
 ---
 title: " FAQs Versioning in Knowledge Management"
 date: 2018-09-22T02:39:19.000Z
+authors: ["sowmya123"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3bbc8bf3db242344fece0b55ca96191c"
 ---
 <p>The Article versioning feature in <a href="https://docs.servicenow.com/bundle/london-servicenow-platform/page/product/knowledge-management/reference/get-started-knowledge-end-users.html" target="_blank" rel="nofollow">Knowledge Management</a> allows knowledge contributors to create and maintain multiple versions of a knowledge article. They can create a new version of a knowledge article from an existing published version. This existing version can be either the latest published version or an older outdated version. <a href="https://docs.servicenow.com/bundle/london-servicenow-platform/page/product/knowledge-management/concept/article-versioning-changes.html" target="_blank" rel="nofollow">All changes</a> are stored in the new version of the article and the information in the existing article remains the same.</p>

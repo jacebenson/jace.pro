@@ -1,6 +1,7 @@
 ---
 title: "Updated Community User Experience"
 date: 2018-04-12T23:52:09.000Z
+authors: ["Dan Bruhn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=37e4907fdb111f404e1df4621f961961"
 ---
 <p>Community Members,</p>

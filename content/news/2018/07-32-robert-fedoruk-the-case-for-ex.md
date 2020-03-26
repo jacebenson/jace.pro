@@ -1,6 +1,7 @@
 ---
 title: "The Case for Exposing Import from MS Project"
 date: 2018-07-31T08:09:00.000Z
+authors: ["Robert Fedoruk"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a4fb177edb6b5f4423f4a345ca96197b"
 ---
 <p>Those of us who&#39;ve been around Project Management and ITBM long enough are well acquainted with the ms project import utility:<br /><img src="51d9d3f2db6b5f4423f4a345ca9619e0.iix" /></p>

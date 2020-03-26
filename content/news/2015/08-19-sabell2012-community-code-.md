@@ -1,6 +1,7 @@
 ---
 title: "Community Code Snippets  Passing by Reference vs By Value"
 date: 2015-08-18T20:59:07.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d9cdeea9dbd0dbc01dcaf3231f9619aa"
 ---
 <p><span style="font-size: 10pt; line-height: 1.5em;">Here is a nifty bit of functionality to add to your toolbox.   </span></p><p></p><p>JavaScript passes most variable parameters by value.   What this means is that if you pass in a string, integer, float or anything it comes in as a copy.   Most other objects are passed by reference; such as user defined, and GlideRecord objects. </p><p></p><p>Example of passing by value:</p><p></p><pre __default_attr="javascript" __jive_macro_name="code" class="jive_text_macro jive_macro_code _jivemacro_uid_14399135392881987" jivemacro_uid="_14399135392881987">

@@ -1,6 +1,7 @@
 ---
 title: "Madrid Release Whats New with ITOM Visibility"
 date: 2019-02-25T12:35:23.000Z
+authors: ["Sree"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d17f9452db3f6304feb1a851ca9619dd"
 ---
 <p><img src="https://community.servicenow.com/06ab5896dbbb6304feb1a851ca9619aa.iix" width="584" height="426" /></p>

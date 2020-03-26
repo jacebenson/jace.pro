@@ -1,6 +1,7 @@
 ---
 title: "Three Ways To Simplify GDPR Requests in the Contact Center"
 date: 2018-05-28T21:22:49.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=24eba4eadbda17c04fc2f4621f961986"
 ---
 <p><img class="alignnone  wp-image-3190" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2018/05/regulation-3246979.jpg" alt="regulation-3246979" width="463" height="217" align="right" />As you&#39;re certainly aware, the General Data Protection Regulation (<a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation" target="_blank" rel="nofollow">GDPR</a>) officially went into effect on Friday, May 25th. The GDPR aims primarily to grant <strong>EU citizens and residents–</strong>individuals within the European Union (EU) and the European Economic Area–complete control over their personal data.</p>

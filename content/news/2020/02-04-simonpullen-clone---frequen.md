@@ -1,6 +1,7 @@
 ---
 title: "Clone  Frequently Asked Questions  FAQ"
 date: 2020-02-04T05:29:13.000Z
+authors: ["simonpullen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=acd0ae701bba8418d01143f6fe4bcbed"
 ---
 <p>Hello All,</p>

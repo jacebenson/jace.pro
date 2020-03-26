@@ -1,6 +1,7 @@
 ---
 title: "Learn how to build your own apps for the ServiceNow Agent mobile app in Madrid"
 date: 2019-05-23T01:22:31.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=98855a4edba9fbc0fece0b55ca9619e0"
 ---
 <p>You have this great idea for a mobile app that runs on the ServiceNow platform. How do you bring your vision to life? Now you can build your own mobile apps for the ServiceNow Agent mobile app, starting with the Madrid release. And if you&#39;re ready to dive in, we&#39;ve created videos and training to get you started.</p>

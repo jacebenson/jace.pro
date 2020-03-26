@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Scripting  Calling a SubWorkflow Part I"
 date: 2016-05-10T00:21:51.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fdbd6aa9dbd0dbc01dcaf3231f9619ed"
 ---
 <p style="font-family: arial, sans-serif; color: #666666;"><span style="font-style: inherit; font-family: inherit;"><strong>NOTE</strong></span>: ON APRIL 1, 2016 ACCENTURE COMPLETED THE ACQUISITION PROCESS OF CLOUDSHERPAS.   AT THAT TIME THE CLOUDSHERPAS BLOG SITES WERE DOWNED FOREVER.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Reporting on Catalog Variables  Office Hours  Jan  Recap"
 date: 2020-02-02T10:13:35.000Z
+authors: ["Thomas Davis"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6ebecdd8db3a8058d58ea345ca96194e"
 ---
 <p>During the <a href="https://youtu.be/DyB4JVY6_o4" target="_blank" rel="noopener noreferrer nofollow">Performance Analytics and Reporting Office Hours</a> on January 29th, we covered some simple methods on Reporting on Catalog Variables.</p>

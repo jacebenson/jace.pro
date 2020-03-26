@@ -1,6 +1,7 @@
 ---
 title: "Best Practices for CMDB Data Integration"
 date: 2019-06-27T03:16:29.000Z
+authors: ["Pradeep Sharma"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7e3fb6d5db5afb00fece0b55ca9619e3"
 ---
 <p>If you are building a scoped application for the <a href="https://store.servicenow.com/sn_appstore_store.do" rel="nofollow">store</a> and have got the use case for CMDB Data integration, you should refer to this blog post. In this post, I will walk you through the best practice on how developers should think about ServiceNow data model, setting up transform maps, calling IRE as well as some scripting required before transform maps are executed. The best practice applies equally to customers doing a custom import of data into the CMDB.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Hiding the Benchmark client application module for ITIL users"
 date: 2018-05-04T06:23:34.000Z
+authors: ["yandyo"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=82e73d2adbb11b002328f3231f96193e"
 ---
 <p class="p1">Are you unable to hide the <a title="Benchmark" href="https://docs.servicenow.com/bundle/kingston-it-service-management/page/product/benchmarks/reference/r_Benchmarks.html" target="_blank" rel="nofollow">Benchmark</a> client application module from ITIL users? Users that upgrade to Kingston from a previous release will notice “Benchmarks Client Application” in their left navigation even if you have not opted into using this module. Upon going to edit the roles on this module, you will see that it is private and, hence, uneditable.</p>

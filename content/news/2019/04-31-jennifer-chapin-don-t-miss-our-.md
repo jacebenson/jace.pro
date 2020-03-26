@@ -1,6 +1,7 @@
 ---
 title: "Dont miss our Diversity Inclusion and Belonging focused Sessions at Knowledge "
 date: 2019-04-30T21:56:44.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=db63500fdbc1fb4454250b55ca9619f6"
 ---
 <p>It&#39;s almost time for <a href="https://knowledge.servicenow.com/" rel="nofollow">Knowledge 2019 </a>and this year we are bringing you two great diversity, inclusion and belonging focused sessions! </p>

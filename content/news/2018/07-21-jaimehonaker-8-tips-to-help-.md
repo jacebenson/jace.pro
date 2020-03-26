@@ -1,6 +1,7 @@
 ---
 title: " Tips to Help Improve Content in your Knowledge Base"
 date: 2018-07-20T21:10:00.000Z
+authors: ["jaimehonaker"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e53569afdb1757800be6a345ca9619f5"
 ---
 <p><em>This is the first in a series of suggested practices in creating Knowledge Base content. </em></p>

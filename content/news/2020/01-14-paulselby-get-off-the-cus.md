@@ -1,6 +1,7 @@
 ---
 title: "Get off the customer service hamster wheel"
 date: 2020-01-13T23:00:53.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a78ef8cadbd24410190dfb243996195a"
 ---
 <p><img class="wp-image-4418" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2020/01/hamster-wheel-2730807.png" alt="" width="252" height="268" align="right" />Growing up, I had a hamster. Its cage included a hamster wheel. You know the type: a circular wheel held on a stand, and runged or ridged to allow the hamster to grab hold as they ran–and did my hamster love to run on it. Unfortunately, this was often in the middle of the night. (Which may have led to my decision to only ever have the one hamster.) While this was great exercise for the hamster, it never really got anywhere: just endless circles in place.</p>

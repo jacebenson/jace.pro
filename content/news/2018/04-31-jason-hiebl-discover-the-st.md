@@ -1,6 +1,7 @@
 ---
 title: "Discover the story behind our dedication to Customer Success"
 date: 2018-04-30T20:08:25.000Z
+authors: ["Jason Hiebl"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=755e04e5dbbd57004fc2f4621f961995"
 ---
 <p>When we talk about customer success at ServiceNow, one story comes to mind. The story of Phyllis.</p>

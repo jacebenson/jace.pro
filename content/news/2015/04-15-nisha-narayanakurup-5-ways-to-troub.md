@@ -1,6 +1,7 @@
 ---
 title: " Ways to Troubleshoot your Instance Performance"
 date: 2015-04-14T22:32:59.000Z
+authors: ["nisha.narayanakurup"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a6ecae65dbd0dbc01dcaf3231f961969"
 ---
 <p>Performance issues can be tricky, but there are various modules in ServiceNow applications that enable administrators to diagnose and <a title="ki.servicenow.com/index.php?title&#61;Troubleshooting_Performance" href="http://wiki.servicenow.com/index.php?title&#61;Troubleshooting_Performance" rel="nofollow">troubleshoot performance issues.</a> Here are some <a title="i.service-now.com/kb_view.do?sysparm_article&#61;KB0517241" href="https://hi.service-now.com/kb_view.do?sysparm_article&#61;KB0517241" rel="nofollow">basic troubleshooting steps to help you isolate the source of slow response times</a>. There are built in performance tools within ServiceNow</p>

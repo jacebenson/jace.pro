@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Managed Documents App  When to use and not use"
 date: 2019-11-07T06:44:54.000Z
+authors: ["Manjeet Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a1acd094db8988d4f7fca851ca961954"
 ---
 <p>I get this question quite often: &#34;<span class="ng-binding">What are the Pros and Cons of using Managed Documents (Mdocs)&#34;?</span></p>

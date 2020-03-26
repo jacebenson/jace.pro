@@ -1,6 +1,7 @@
 ---
 title: "Why do we need a Project Management Office"
 date: 2019-12-12T04:18:15.000Z
+authors: ["Sheila Llewellyn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=76ba08e71b210490ada243f6fe4bcb1e"
 ---
 <p>Project Management has been around as long as, well, as long as managing projects. The first Project Management Office, better known as the PMO, was first mentioned in 1939. In the 1950s a contemporary version of what the PMO looks like was documented. Today, the PMO is a dynamic leadership entity that governs project management standards, establishes project management methodology, and acts as a conduit between sales, leadership, and delivery for an organization. </p>

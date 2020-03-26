@@ -1,6 +1,7 @@
 ---
 title: "Thread  Nonhosted solutions formerly known as onpremise solutions"
 date: 2012-10-25T23:43:57.000Z
+authors: ["mhehn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=58dd26e9dbd0dbc01dcaf3231f961987"
 ---
 <p>Though non-hosted solutions are not the primary focus of ServiceNow due to product and strategy considerations, non-hosted solutions are supported and there are several customers using on-premise installations rather than the "usual" SaaS approach of ServiceNow.<br /><br />This thread is for questions (and answers, of course) regarding these non-hosted solutions.<br /><!--break--><br />Topics in this thread may include depending on interest of the group:<br /><br /><br /><ul class="noindent"><li>reasons why you should want on-premise rather than SaaS</li><li>things to consider when designing an on-premise solution (legal, requirements, risks etc.)</li><li>topics regarding sizing, implementation and operation of an on-premise solution</li><li>issues or things to consider when migration to or from an on-premise installation (coming from or going to SaaS)</li></ul></p>

@@ -1,6 +1,7 @@
 ---
 title: "MiniLab Orchestration  Bringing Back the SSH Run Command Activity HELSINKI"
 date: 2016-09-17T18:49:43.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6e5ce6a1dbd0dbc01dcaf3231f9619d5"
 ---
 <p><span style="font-family: &#39;Times New Roman&#39;; color: #666666; font-weight: bold;">NOTE</span><span style="font-family: Arial; color: #666666;">: </span><span style="font-family: &#39;Times New Roman&#39;; color: #666666;">MY POSTINGS REFLECT MY OWN VIEWS AND DO NOT NECESSARILY REPRESENT THE VIEWS OF MY EMPLOYER, ACCENTURE.</span></p>

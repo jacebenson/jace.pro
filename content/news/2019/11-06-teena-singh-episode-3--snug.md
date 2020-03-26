@@ -1,6 +1,7 @@
 ---
 title: "Episode  SNUG Opportunities Conversations and Ideas"
 date: 2019-11-06T03:43:14.000Z
+authors: ["Teena Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6e79a27bdbf4481413b5fb24399619a9"
 ---
 <p><span style="text-decoration: underline;"><strong><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/cf1f7eec1b894c10a59033f2cd4bcb06.iix" /></strong></span></p>

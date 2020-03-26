@@ -1,6 +1,7 @@
 ---
 title: "Join the  Webinar Build a team of ServiceNow experts for your organization"
 date: 2019-04-11T01:15:17.000Z
+authors: ["Kimberly Greene"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=28118ee4dbfcff84f7fca851ca9619d9"
 ---
 <p>Customer Success Best Practices Webinar Series</p>

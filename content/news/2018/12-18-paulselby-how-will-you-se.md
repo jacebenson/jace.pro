@@ -1,6 +1,7 @@
 ---
 title: "How will you serve customers better in "
 date: 2018-12-17T23:17:26.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f3135637db5aa340656a5583ca9619e1"
 ---
 <div class="wp-block-image">

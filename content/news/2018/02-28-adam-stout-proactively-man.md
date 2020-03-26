@@ -1,6 +1,7 @@
 ---
 title: "Proactively Manage Configuration Issues with Analytics Diagnostics"
 date: 2018-02-28T05:06:43.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f7396625db68dbc00e3dfb651f961903"
 ---
 <p>This article is targeted towards Performance Analytics administrators, both old and new. In fact, the less experience you have as an administrator, the more important it is you read this article.</p>

@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow plugin for SublimeEditor "
 date: 2014-11-19T21:47:42.000Z
+authors: ["john.andersen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=79cd62e9dbd0dbc01dcaf3231f961908"
 ---
 <p style="text-align: center;"><img alt="Screenshot_11_19_14__8_09_AM.png" class="image-0 jive-image" src="http://www.john-james-andersen.com/wp-content/uploads/Screenshot_11_19_14__8_09_AM.png" style="height: 136px; width: 620px;"/></p><p style="text-align: center;"></p><p style="text-align: left;">I have been meaning to write about the amazing ServiceNow plug-in for the SublimeText 2 editor. The plugin was developed by Paul Senatillaka and possibly others at Fruition Partners. It allows you to put a special comment header at the top of any file in the SublimeText editor. These comments give enough information for the editor to post the code up to the corresponding record in ServiceNow any time you save the document in Sublime.</p><p style="text-align: left;"></p><p style="text-align: left;">For those of you unaware of this powerful plugin, please watch my <strong>demo video</strong> and find <strong>download links</strong> on my blog post:   <a title="w.john-james-andersen.com/blog/service-now/using-sublimeeditor-write-servicenow-code.html" href="http://www.john-james-andersen.com/blog/service-now/using-sublimeeditor-write-servicenow-code.html">Edit ServiceNow Code in SublimeText Editor</a></p>

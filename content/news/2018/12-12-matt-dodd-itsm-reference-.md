@@ -1,6 +1,7 @@
 ---
 title: "ITSM Reference Architecture  Best Practises"
 date: 2018-12-11T14:22:09.000Z
+authors: ["Matt Dodd"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=181fd5f5db9ea340656a5583ca96190a"
 ---
 <p>Hi Everyone,</p>

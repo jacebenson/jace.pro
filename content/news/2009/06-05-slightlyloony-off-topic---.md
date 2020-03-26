@@ -1,6 +1,7 @@
 ---
 title: "Off Topic"
 date: 2009-06-04T19:24:44.000Z
+authors: ["SlightlyLoony"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9abc2e25dbd0dbc01dcaf3231f961986"
 ---
 <p><img  alt="" class="jive-image" src="eaa39586db94d304b322f4621f961967.iix" style="width: auto; height: 129px;" />As many of you know, my wife competes with our dogs in <a title=".wikipedia.org/wiki/Dog_agility" href="http://en.wikipedia.org/wiki/Dog_agility">dog agility</a>. If you're not familiar with the sport, it's basically about running your dog through an obstacle course (different in every competition) perfectly, as quickly as possible. Three of our four dogs are <a title=".wikipedia.org/wiki/Field_spaniel" href="http://en.wikipedia.org/wiki/Field_spaniel">field spaniels</a> (the other is a smooth-coated <a title=".wikipedia.org/wiki/Border_collie" href="http://en.wikipedia.org/wiki/Border_collie">border collie</a>). This post is in response to someone asking me what a field spaniel looks like. The cute little fellow at right (click to enlarge) is our youngest field spaniel, Miki (which means "agile" in Hawaiian), when he was but a few months old and first making himself at home in our yard. He found a stick to play with and some flowers to lie in — what more could a little field spaniel want? Now he's about two years old, and has just started competing...<!--break--></p>

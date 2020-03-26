@@ -1,6 +1,7 @@
 ---
 title: "Seeking YOUR input  recognition program coming soon"
 date: 2019-07-18T23:47:27.000Z
+authors: ["Jess Noble"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9b52a354dbb6ff041cd8a345ca9619d7"
 ---
 <p>ServiceNow will be launching a role-based recognition program this fall; the program is focused on your individual professional development (learning, growth &amp; success), and we’re looking for your input!</p>

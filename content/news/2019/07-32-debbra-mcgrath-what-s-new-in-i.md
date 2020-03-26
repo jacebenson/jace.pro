@@ -1,6 +1,7 @@
 ---
 title: "Whats new in ITBM for New York"
 date: 2019-07-31T20:37:12.000Z
+authors: ["Debbra McGrath"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=97733160db43f7085129a851ca96193f"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/2ee59596dbaf778414d6fb2439961972.iix" /></p>

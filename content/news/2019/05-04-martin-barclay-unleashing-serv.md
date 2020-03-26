@@ -1,6 +1,7 @@
 ---
 title: "Unleashing ServiceNow Store App Reviews at Knowledge "
 date: 2019-05-04T03:39:27.000Z
+authors: ["Martin Barclay"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a8aeb084db9dff840be6a345ca9619c1"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/d9170940db5133c40be6a345ca961975.iix" /></p>

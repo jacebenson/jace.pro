@@ -1,6 +1,7 @@
 ---
 title: "Three unique uses of automation in customer service"
 date: 2019-05-13T21:26:53.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ac490f87db153b8ce0e80b55ca9619b0"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "PartnerNow Hackathon  Barcelona App Dev Event for ServiceNow Partners"
 date: 2018-02-19T03:03:50.000Z
+authors: ["keeshenniphof"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fbc6f7a6db90d7045322f4621f96197c"
 ---
 <div id="ember4332" class="ember-view">

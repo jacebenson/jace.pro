@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow SAM wins Innovation of the Year award"
 date: 2018-12-04T06:08:15.000Z
+authors: ["ryanw-t"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ddea6397db0a23c4f21f5583ca9619e4"
 ---
 <p style="text-align: center;"><img src="d0196753db0a23c4f21f5583ca961909.iix" /></p>

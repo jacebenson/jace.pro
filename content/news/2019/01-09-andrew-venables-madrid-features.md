@@ -1,6 +1,7 @@
 ---
 title: "Madrid Features for Store Developers"
 date: 2019-01-08T17:52:58.000Z
+authors: ["andrew.venables"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e1db12badb76a3c0d6a102d5ca961939"
 ---
 <p>Wipe away those January blues as its that time of the year again when ServiceNow&#39;s next major release, Madrid, is almost upon us. Last week we opened up Early Access for Technology Partners to get their hands on Madrid, running it through its paces and preparing to submit their apps for certification. </p>

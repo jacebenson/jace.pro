@@ -1,6 +1,7 @@
 ---
 title: "Sneak Peek  Acorios Annual ServiceNow Insight and Vision Executive Summary"
 date: 2019-11-12T22:14:23.000Z
+authors: ["meghanlockwood"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=31512d0e1b050494fff162c4bd4bcb90"
 ---
 <p>Set against the backdrop of evolving priorities and challenges among ServiceNow customers, the company has seen some tectonic shifts in the past few months which set the stage for ServiceNow’s growth in 2020 and beyond.</p>

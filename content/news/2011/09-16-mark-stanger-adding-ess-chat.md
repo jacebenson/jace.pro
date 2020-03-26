@@ -1,6 +1,7 @@
 ---
 title: "Adding ESS Chat Capability to a Standard Homepage"
 date: 2011-09-15T21:06:05.000Z
+authors: ["Mark Stanger"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4faca625dbd0dbc01dcaf3231f96199d"
 ---
 <p>If you're reading this you've probably already seen the <a title="ki.service-now.com/index.php?title=Using_Help_Desk_Chat" href="http://wiki.service-now.com/index.php?title=Using_Help_Desk_Chat" target="_blank">chat capability that ServiceNow provides</a>. This is a great feature but it's only currently available if you deploy the ServiceNow content management system (CMS) along with it. I recently worked with a co-worker, Greg Willis, to develop a way to add end-user Help Desk chat capability to a standard homepage. This article explains how you can do it too!<br /><img src="http://www.servicenowguru.com/wp-content/uploads/2011/09/CustomChatWidget-300x216.jpg" alt="" title="CustomChatWidget" width="300" height="216" class="aligncenter size-medium wp-image-4025" /><br /><br />Here's a link to the full solution at SNCGuru.<br />http://www.servicenowguru.com/content-management/adding-ess-chat-capability-homepage/</p>

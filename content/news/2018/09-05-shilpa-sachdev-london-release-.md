@@ -1,6 +1,7 @@
 ---
 title: "London release is now available"
 date: 2018-09-05T00:18:57.000Z
+authors: ["Shilpa Sachdev"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3d99879edb58ef48a39a0b55ca961995"
 ---
 <p> </p>

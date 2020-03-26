@@ -1,6 +1,7 @@
 ---
 title: "Addressing Application TCO in ServiceNow"
 date: 2018-09-27T08:41:12.000Z
+authors: ["mark_b"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=318f0ee1db78a780a39a0b55ca96191e"
 ---
 <h1>Overview</h1>

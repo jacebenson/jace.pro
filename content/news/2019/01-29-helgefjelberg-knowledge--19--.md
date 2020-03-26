@@ -1,6 +1,7 @@
 ---
 title: "Knowledge    mai"
 date: 2019-01-28T19:47:55.000Z
+authors: ["helgefjelberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d0f5f11ddb5b67005d782183ca961950"
 ---
 <p>Kjære SNUG&#96;ere. Knowledge 19 er årets store faglige høydepunkt for mange. Her er det muligheter for å sertifisere seg, bli inspirert av andre kunder samt få de aller siste nyheter fra ServiceNow. Det er over 900 forskjellige sesjoner å velge mellom og dersom du vurderer å reise eller har behov for å forstå mer om hvilket utbytte dette kan gi deg og din virksomhet, er det bare å ta kontakt med oss. </p>

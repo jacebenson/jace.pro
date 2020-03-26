@@ -1,6 +1,7 @@
 ---
 title: "Please check your notification settings"
 date: 2018-08-13T12:42:47.000Z
+authors: ["Matt Dodd"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6147938bdb7f570067a72926ca96190e"
 ---
 <p>Hi Everyone,</p>

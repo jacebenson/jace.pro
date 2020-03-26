@@ -1,6 +1,7 @@
 ---
 title: "Integration Enables Your Digital Transformation"
 date: 2019-05-02T03:20:29.000Z
+authors: ["david.loo@perspectium"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=13172a5bdbc13f44d58ea345ca9619f7"
 ---
 <p>Digital transformation refers to how businesses adapt in order to secure the value of the Fourth Industrial Revolution, which is seeing advances in quantum computing, artificial intelligence, the Internet of Things, and robotics, among other fields.</p>

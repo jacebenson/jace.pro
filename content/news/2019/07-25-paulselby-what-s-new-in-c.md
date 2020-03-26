@@ -1,6 +1,7 @@
 ---
 title: "Whats new in Customer Service Management Field Service Management Knowledge Management and Communities in the New York release"
 date: 2019-07-24T21:04:53.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=60b63d5adbf27f041cd8a345ca9619b2"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/1fe1d19adb2f778414d6fb243996190b.iix" /></p>

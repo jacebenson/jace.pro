@@ -1,6 +1,7 @@
 ---
 title: "Surpassing the shortcomings of CRM"
 date: 2019-04-08T20:58:54.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ed3372f3db2cbb04e0e80b55ca961941"
 ---
 <div><img style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/04/portsoy-1244572.jpg?w&#61;1024" alt="" width="360" height="240" align="right" /></div>

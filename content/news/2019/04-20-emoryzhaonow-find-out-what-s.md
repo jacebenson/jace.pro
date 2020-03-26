@@ -1,6 +1,7 @@
 ---
 title: "Find out whats new with CMDB Discovery and Service Mapping Join Breakout  at Knowledge "
 date: 2019-04-20T03:12:26.000Z
+authors: ["EmoryZhaoNOW"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2432f823db707f0cfece0b55ca961998"
 ---
 <p><em>ServiceNow’s head of ITOM Visibility, Sree Subramaniam, shares our exciting progress at Knowledge 2019</em></p>

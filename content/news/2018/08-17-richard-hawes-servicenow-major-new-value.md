@@ -1,6 +1,7 @@
 ---
 title: "Major new value for ITBM in the London release"
 date: 2018-08-16T21:33:40.000Z
+authors: ["richard.hawes@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e78dec1cdbc4eb4023f4a345ca96195c"
 ---
 <p><img style="max-width: 100%; max-height: 480px; padding: 15px 15px; float: right;" src="7dbb8baadb1c27005129a851ca9619a4.iix" />With all this great content, you may want to accelerate your plans to upgrade to London!</p>

@@ -1,6 +1,7 @@
 ---
 title: "Those second customer service calls are costing a fortune"
 date: 2019-02-18T23:17:06.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ed3fae4cdbf76f00a39a0b55ca96194a"
 ---
 <div class="wp-block-image"><img class="wp-image-3502" src="https://insightsincustomerservice.files.wordpress.com/2019/02/alexander-andrews-633927-unsplash.jpg?w&#61;723" alt="" width="289" height="409" align="right" />It&#39;s not uncommon for companies to have many &#34;small issues&#34; that customers regularly encounter. You know the type: an order hasn&#39;t been delivered on time, steps in the manual aren&#39;t clear, or invoices are incorrect. These are often characterized as small because they have a relatively minor impact on the customer and don&#39;t require a lot of work on the part of a customer service agent to address. The customer picks up the phone, starts an online chat, sends an email, or even uses self-service to get their answer. It&#39;s a quick interaction for all involved.</div>

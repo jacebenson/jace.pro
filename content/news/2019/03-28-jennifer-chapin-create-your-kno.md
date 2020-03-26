@@ -1,6 +1,7 @@
 ---
 title: "Create your Knowledge  agenda today"
 date: 2019-03-27T23:10:16.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b03e5dc0dbec77884819fb24399619c3"
 ---
 <p>Hello from the Knowledge Events team!  It’s getting exciting around here as we put plans in place for <a href="https://knowledge.servicenow.com/" target="_blank" rel="noopener noreferrer nofollow">Knowledge 2019</a> coming to you from Las Vegas, May 5-9.  If you haven’t registered already, now is the time. We don’t want you to miss our biggest and best event yet.</p>

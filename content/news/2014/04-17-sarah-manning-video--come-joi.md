@@ -1,6 +1,7 @@
 ---
-title: "Video Come Join Us at ServiceNow San Diego"
-date: 2014-04-17T03:53:37.000Z
-link: "https://community.servicenow.com/community?id=community_blog&sys_id=84ccae25dbd0dbc01dcaf3231f9619b2"
+title: "Video Come Join Us at ServiceNow Santa Clara"
+date: 2014-04-17T03:42:50.000Z
+authors: ["sarah.manning"]
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=c31e626ddbd0dbc01dcaf3231f961996"
 ---
-<p><span style="color: #666666; font-family: arial, sans-serif;">People think, just because we're in San Diego, that we're all a bunch of beach bums! But at ServiceNow San Diego, we're changing the way people look at IT. Wonder what it's like to work here? Watch this new video; then </span><a title="k-external-small" class="jive-link-external-small" href="http://www.servicenow.com/company/careers/join-servicenow.html" rel="nofollow" style="font-family: arial, sans-serif; color: #000000;">visit our careers page</a><span style="color: #666666; font-family: arial, sans-serif;"> to find out how you can move the dial!</span></p><p><span style="color: #666666; font-family: arial, sans-serif;"><br/></span></p><p><span style="color: #666666; font-family: arial, sans-serif;"><iframe src="https://youtube.com/embed/8FjygXwaRi8" width="425" height="350"/></span></p>
+<p>At ServiceNow in Santa Clara, we're a culture of drivers, where we work hard and enjoy working it out. Wonder what it's like to work here? Watch this new video to see what we're all about in Silicon Valley; then <a title="w.servicenow.com/company/careers/join-servicenow.html" href="http://www.servicenow.com/company/careers/join-servicenow.html">visit our careers page</a> to find out how you can move the dial!</p><p></p><p><iframe src="https://youtube.com/embed/WZnXoujir6s" width="425" height="350"/></p>

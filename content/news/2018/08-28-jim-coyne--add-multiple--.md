@@ -1,6 +1,7 @@
 ---
 title: "Add Multiple Question Choices Tool"
 date: 2018-08-28T02:56:10.000Z
+authors: ["Jim Coyne"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=47d0eabbdb84ab8454250b55ca96198e"
 ---
 <h5>Included in the <a href="community?id&#61;community_blog&amp;sys_id&#61;b3c843aadb892b40fece0b55ca961906" rel="nofollow">Developer Toolbox</a> Update Set available on Share (link in the &#34;Developer Toolbox&#34; post).</h5>

@@ -1,6 +1,7 @@
 ---
 title: "Developing code is going back to the future"
 date: 2020-01-12T22:51:47.000Z
+authors: ["richard.hawes@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d8e2b3e51b5240107a5933f2cd4bcbf5"
 ---
 <p> </p>

@@ -1,6 +1,7 @@
 ---
 title: "How To Write GlideRecord Queries Like A Pro"
 date: 2018-01-09T18:16:27.000Z
+authors: ["Paul Morris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=392d66e5dbd0dbc01dcaf3231f96192c"
 ---
 <h3>4 Simple Steps To Write GlideRecord Queries Like A Pro</h3>

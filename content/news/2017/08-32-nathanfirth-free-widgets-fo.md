@@ -1,6 +1,7 @@
 ---
 title: "Free Widgets for Service Portal"
 date: 2017-09-01T00:55:19.000Z
+authors: ["nathanfirth"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3fdcaa65dbd0dbc01dcaf3231f96191a"
 ---
 <p><strong><img  alt="Free Widgets.png" class="image-1 jive-image" src="2013ec82db50dfc068c1fb651f96199f.iix" style="width: 450px;"/></strong></p><p><strong>I'm excited to announce the launch of a new free widget download page on ServicePortal.io.</strong></p><p></p><p>Since day 1, ServicePortal.io has existed to be a resources and source of inspiration for the ServiceNow Community. With the launch of the new widgets page, we can now share some of the most frequently requested widgets with all of our followers. Not all of them will be complex, many of the most frequently used widgets are pretty simple. Our goal is to develop and give away at least one new widget per month.</p><p></p><p>If you haven't already checked it out, head on over to <a title="erviceportal.io/" href="https://serviceportal.io/">https://ServicePortal.io</a></p>

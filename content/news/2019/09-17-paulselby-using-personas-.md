@@ -1,6 +1,7 @@
 ---
 title: "Using personas to drive better customer service"
 date: 2019-09-16T20:44:28.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=88e7b76bdb3fbb006064eeb5ca961946"
 ---
 <p><img class="wp-image-4008" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/09/daria-nepriakhina-zocdwpuirua-unsplash.jpg" alt="" width="316" height="211" align="right" /></p>

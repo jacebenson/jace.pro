@@ -1,6 +1,7 @@
 ---
 title: "Scripting for the Classic Mobile UI"
 date: 2015-09-18T04:14:11.000Z
+authors: ["John Armstrong"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9bbd2ea9dbd0dbc01dcaf3231f96198f"
 ---
 <p>If you&#39;re using the Mobile UI for the first time, you&#39;ll want to make sure your custom scripts function the way you expect as part of your testing process.   There are some limitations in the Mobile UI that may require changes in any custom created scripts, or scripts that have been modified from their out of box versions.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Your customer selfservice is failing  heres why"
 date: 2019-08-05T08:08:13.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6c08304edb8fbb885129a851ca9619f7"
 ---
 <p><img class="wp-image-3827" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/08/helmet-4326586.png" alt="" width="284" height="159" align="right" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "Weitere Info bez Snugg Treffen in WOlfsburg"
 date: 2013-10-17T16:47:09.000Z
+authors: ["heiko_h"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=967ca2e1dbd0dbc01dcaf3231f961923"
 ---
 <p>Sehr geehrte Teilnehmer der Snugg Tagung in Wolfsburg, <br /><br />Treffen für das Abendessen in der Autostadt ist um 18:45 Uhr unter der Weltkugel in der Empfangshalle der Autostadt.<br /><br />Die Teilnehmer der Volkswagen-Tour treffen sich bitte am Mittwoch 23.10. spätestens 8:15 Uhr am Eingang Tor 17 (bitte durch den Tunnel zum Werkschutz kommen).<br /><br />Noch ein Hinweis: es kann durchaus schwierig werden einen Parkplatz zu finden — bitte entsprechend berücksichtigen und gegebenenfalls vom Hotel aus Fahrgemeinschaften bilden.<br /><br /> <br />Gruppenname:ServiceNow User Group Germany, 30 Personen<br />Treffpunkt:Tor 17<br />Fotohandys sowie Kameras dürfen nicht mit auf Tour genommen werden, da auf dem gesamten Werkgelände das Filmen und Fotografieren nicht gestattet ist.<br /><br />Mit freundlichen Grüßen<br />Heiko Hoffmann</p>

@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow DevOps Podcast Episode  Predict  Overview"
 date: 2020-01-28T10:04:46.000Z
+authors: ["ericledyard"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=38ccdf6a1b260454ada243f6fe4bcb19"
 ---
 <p><iframe style="height: 315px; width: 560px;" title="DevOps Episode 6: Predict 2020 Project MP3" src="https://omny.fm/shows/servicenow-cloudcast/devops-episode-6-predict-2020-project-mp3/embed"></iframe></p>

@@ -1,6 +1,7 @@
 ---
 title: "Call for customer speakers  Philadelphia SNUG"
 date: 2019-03-07T21:21:17.000Z
+authors: ["valbonasokoli"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e6b771a5db8cff88200f0b55ca9619c3"
 ---
 <div class="cm-content-body">

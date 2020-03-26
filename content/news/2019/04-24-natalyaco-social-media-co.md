@@ -1,6 +1,7 @@
 ---
 title: "Social Media Contests at Knowledge "
 date: 2019-04-23T22:03:57.000Z
+authors: ["natalyaco"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=30f154b4db41b74023f4a345ca961934"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/60ec2591db1dfbcca39a0b55ca961987.iix" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "SOAP into ServiceNow via x WSSecurity"
 date: 2011-11-23T03:39:10.000Z
+authors: ["john.andersen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a3ed222ddbd0dbc01dcaf3231f9619fb"
 ---
 <p>ServiceNow recently added inbound WS-Security profiles as a SOAP interface option into the system. I have had several customers ask how this works, so I have created the following tutorial.<br /><br />This article will demonstrate how to set up a self-signed certificate, generate a SOAP client that utilizes the certificate, and configure a ServiceNow instance to accept SOAP communication using the x509 Certificate WS-Security profile.<br /><br /><center><a href='http://www.john-james-andersen.com/blog/service-now/tutorial-soap-into-servicenow-via-x509-ws-security.html'><img  alt="" class="jive-image" src="62b4d042dbd05344e9737a9e0f9619ae.iix" /></a></center><br /><br />The idea behind the x509 WS-Security profile is that you can sign your SOAP request and provide a key that a service can use to verify that the data in the SOAP request has not been tampered with....<a href='http://www.john-james-andersen.com/blog/service-now/tutorial-soap-into-servicenow-via-x509-ws-security.html'>[read more]</a><br /><br /><a href='http://www.john-james-andersen.com/blog/service-now/tutorial-soap-into-servicenow-via-x509-ws-security.html'>Read More...</a></p>

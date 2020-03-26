@@ -1,6 +1,7 @@
 ---
 title: "AIOpsdriven insights intelligence and workflow automation with IT Operations Management"
 date: 2020-02-05T00:13:07.000Z
+authors: ["usmansindhu"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c412aa45db3248582be0a851ca9619c6"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/eddc9e27db4fcc101cd8a345ca96196c.iix" /></p>

@@ -1,6 +1,7 @@
 ---
 title: "Congratulations  MVP  Leader Awardees"
 date: 2019-01-28T20:40:53.000Z
+authors: ["Dan Bruhn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=54128a9ddb17a3c0656a5583ca96192e"
 ---
 <p><span style="font-family: arial, helvetica, sans-serif; font-size: 12pt;"><span style="color: #333333; background: white;">The ServiceNow <a href="community?id&#61;community_static&amp;content_id&#61;a49490aedb9cd70c0e3dfb651f961916" rel="nofollow">MVP Program</a></span><span style="color: #333333; background: white;"> recognizes the top individual contributors in ServiceNow&#39;s online community. ServiceNow MVPs are well known by the collective community for their product expertise and consistent contributions. ServiceNow MVPs demonstrate a commitment to engage, guide, and share expertise with their peers. They are independent of ServiceNow and represent the voice of the community. The ServiceNow MVP award is our appreciation for the the sizable influence and technical credibility these members demonstrated in 2018.</span></span></p>

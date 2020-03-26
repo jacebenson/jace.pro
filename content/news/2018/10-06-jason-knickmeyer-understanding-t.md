@@ -1,6 +1,7 @@
 ---
 title: "Understanding the Role of the Executive Sponsor"
 date: 2018-10-06T00:25:27.000Z
+authors: ["Jason Knickmeyer"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=63547edcdb45e78054250b55ca961986"
 ---
 <p>Just having a <a href="https://hi.service-now.com/kb_view.do?sysparm_article&#61;KB0553714" rel="nofollow">ServiceNow Platform Support Team</a> isn’t enough, if you want to extend ServiceNow as a strategic platform for digital transformation. Why?</p>

@@ -1,6 +1,7 @@
 ---
 title: "A Technical Deep Dive in to Kingston  SAM Part   Blacklisting content updates  other features"
 date: 2018-02-14T20:55:52.000Z
+authors: ["Sree"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b9ac2625dbd0dbc01dcaf3231f96192a"
 ---
 <p><img class="image-6 jive-image" style="height: 281px; width: 825.687px;" src="1e39bf3ddbd0d3041dcaf3231f961985.iix" width="826" height="281" /></p>

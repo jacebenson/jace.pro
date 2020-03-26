@@ -1,6 +1,7 @@
 ---
 title: "Three ways to honor agents beyond Customer Service Week"
 date: 2018-09-24T21:42:48.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=25a5a9fcdb38a340a39a0b55ca961947"
 ---
 <p><img class="alignnone  wp-image-3332" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/09/accomplishment-achievement-adult-1059120.jpg" alt="accomplishment-achievement-adult-1059120" width="377" height="305" align="right" /> <a href="https://en.wikipedia.org/wiki/Customer_Service_Week" target="_blank" rel="nofollow">Customer Service Week</a> is only a week away. This week of celebration is a great opportunity to acknowledge the work of your customer service staff. Frontline agents are one of if not <em>the</em> most important asset in your service center. Maybe you are planning on serving them lunch and perhaps have some fun team activities planned?</p>

@@ -1,6 +1,7 @@
 ---
 title: "Service and Success Drive Experience"
 date: 2018-09-03T20:07:01.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a5560942db942b48a39a0b55ca961904"
 ---
 <p><img class="alignnone  wp-image-3308" style="padding: 5px;" src="https://insightsincustomerservice.files.wordpress.com/2018/09/art-arts-and-crafts-ball-845263.jpg" alt="art-arts-and-crafts-ball-845263" width="458" height="306" align="left" /> Customer service. Customer success. Customer experience.</p>

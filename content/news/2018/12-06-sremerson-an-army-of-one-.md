@@ -1,6 +1,7 @@
 ---
 title: "An Army of One  The Power of IT  Security Operations on a Common Platform"
 date: 2018-12-06T04:12:55.000Z
+authors: ["sremerson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5ba3e188db566b0011762183ca96199f"
 ---
 <p><span style="font-size: 12pt;">Picture this. It&#39;s 4:30 PM on a Friday and a critical vulnerability was just announced by a software vendor. The vendor states they are aware of the vulnerability and are actively working on a patch that will be released “very soon”. The vulnerability announcement states that customers could experience performance issues if the vulnerability is exploited. Just minutes before reading this announcement, your Service Desk sent out a notification that users have been reporting slowness with a critical business service. After putting two and two together, you realize this vulnerability is impacting your organization! </span></p>

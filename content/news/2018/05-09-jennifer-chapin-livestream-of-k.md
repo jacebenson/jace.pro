@@ -1,6 +1,7 @@
 ---
 title: "Livestream of Knowledge General Session Keynote"
 date: 2018-05-08T20:24:08.000Z
+authors: ["Jennifer Chapin"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f1aed1c8db825f405322f4621f961994"
 ---
 <p>Hello Everyone!</p>

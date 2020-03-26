@@ -1,6 +1,7 @@
 ---
 title: "Add expand and collapse functionality to any Knowledge article"
 date: 2019-11-05T11:29:48.000Z
+authors: ["Lokenath Chakraborty"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5faa87a3db3cc8d0190dfb2439961904"
 ---
 <p class="ng-scope">HTML5 provides a way to create this expand/collapse feature with just a few lines of HTML and no JavaScript insight. And this can be done by the <strong>details</strong> and <strong>summary</strong> tags.</p>

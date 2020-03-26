@@ -1,6 +1,7 @@
 ---
 title: "Performance Analytics is for Everyone"
 date: 2018-04-11T03:18:11.000Z
+authors: ["Tom Pacyk"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=cae07e8bdb5d1b40fc5b7a9e0f9619ce"
 ---
 <p>When we talk to our customers about Performance Analytics, we naturally hear questions about why they wouldn’t use their existing BI solution — tools like Tableau or Microsoft Power BI — which is often licensed across the entire enterprise and considered an internal standard for any reporting needs.</p>

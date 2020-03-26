@@ -1,6 +1,7 @@
 ---
 title: "Service Mapping  Its a Collaboration"
 date: 2018-08-12T07:02:41.000Z
+authors: ["Tony B"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=82dfb8b2db731300e0e80b55ca9619fc"
 ---
 <p>Last year I embarked on a customer Proof-of-Concept (PoC) involving mapping their Microsoft Exchange environment with Service Mapping.  With the scope defined, it was time to gather information needed to map the application.  Information like, how do users access the application, what are the technology layers, how is the application service distributed across networks, are firewalls involved, etc.  You know, <em>useful</em> information.  But the initial conversation went like this:</p>

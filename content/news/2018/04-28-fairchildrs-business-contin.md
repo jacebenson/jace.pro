@@ -1,6 +1,7 @@
 ---
 title: "Business Continuity and IT Disaster Recovery  AIG a Customer Success Story"
 date: 2018-04-27T18:58:50.000Z
+authors: ["FairchildRS"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=51a12860db7113802b6dfb651f9619da"
 ---
 <p style="text-align: left;"><img class="WACImage SCXW167259858" style="float: left; margin-right: 5px;" src="a53d5c68dbfddf402b6dfb651f9619e2.iix" />Leading financial organizations today are measuring their downtime tolerances in minutes, rather than hours.  When you are a true global entity such as AIG, there is always something happening in your ‘neighborhood’ that could cause a disruption.   The responsibility for ensuring that AIGs IT organization continues to support IT operations and thereby ensuring financial stability for its clients falls on their Infrastructure Services DR Team led by Kurt Sohn, Vice President.  In looking for a BCM tool, AIG was interested in addressing some very specific challenges that are facing financial organizations today, including:  </p>

@@ -1,6 +1,7 @@
 ---
 title: "Aug  Webinar  Secrets to a faster upgrade"
 date: 2019-07-30T20:42:47.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1b2ba050db47ff845ed4a851ca961950"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/49768459db47bb88fff8a345ca96197b.iix" /></p>

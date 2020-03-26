@@ -1,6 +1,7 @@
 ---
 title: "Join us in Washington DC at the Now Summit"
 date: 2018-08-07T23:26:06.000Z
+authors: ["tracyo'brien"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f6f0b65ddbfb1b409d612926ca961984"
 ---
 <p>Please join us at the upcoming Now Summit at the Ronald Regan Building in DC to learn how to deliver great experiences at work for your employees and customers. Discover what’s now and next for IT, HR, Customer service and security.</p>

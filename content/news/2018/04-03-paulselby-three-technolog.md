@@ -1,6 +1,7 @@
 ---
 title: "Three Technologies That Aid Agent Retention and Deliver Better Customer Service"
 date: 2018-04-02T20:56:50.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=06ec8420db5d57c42d1efb651f961957"
 ---
 <p><img class="alignnone  wp-image-3120" src="https://insightsincustomerservice.files.wordpress.com/2018/04/adult-beard-business-845451.jpg" alt="adult-beard-business-845451" width="383" height="255" align="right" />The customer service agent is one of if not <em>the</em> most important asset in a service center. Unfortunately, the nature of the work makes them one of the most challenging resources to maintain.</p>

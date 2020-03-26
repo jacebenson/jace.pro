@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Norge Digital Mteplass oppe  gr"
 date: 2020-03-19T16:42:01.000Z
+authors: ["runemehlum"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=488eaf0f1baf0c94fff162c4bd4bcb4f"
 ---
 <p>Hei alle SNUG-ere!</p>

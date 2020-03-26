@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Scripting  Calling a SubWorkflow Part II"
 date: 2016-05-12T04:17:52.000Z
+authors: ["sabell2012"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=11ecea65dbd0dbc01dcaf3231f9619f4"
 ---
 <p><span style="font-style: inherit; font-family: inherit;"><strong>NOTE</strong></span>: ON APRIL 1, 2016 ACCENTURE COMPLETED THE ACQUISITION PROCESS OF CLOUDSHERPAS.   AT THAT TIME THE CLOUDSHERPAS BLOG SITES WERE DOWNED FOREVER.</p>

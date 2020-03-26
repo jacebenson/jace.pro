@@ -1,6 +1,7 @@
 ---
 title: "How much Risk do I have and how much will it hurt to be compromised"
 date: 2019-05-07T02:24:49.000Z
+authors: ["teresalaw"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a85a4445db95bb08fece0b55ca96197a"
 ---
 <p>For far too long, cybersecurity leaders have struggled to translate cyber risk into the economic language of business. They’ve been lost trying to protect the business without any concrete understanding of the real risk to the business. But the status quo is rapidly changing and the dark ages of security and technology risk management are coming to an end. <br /> <br /> This is thanks to the internationally recognized <a href="https://www.fairinstitute.org/" rel="nofollow">Factor Analysis of Information Risk (FAIR)</a> model for technology risk quantification. FAIR provides a structured, defensible and repeatable model for risk quantification and it is taking the cybersecurity industry by storm. FAIR is now trusted by more than 5,000 leading professionals in security in risk and represented within 8 out of Fortune 10, 75% of the Fortune 50 and nearly 30% of the Fortune 1,000 organizations.</p>

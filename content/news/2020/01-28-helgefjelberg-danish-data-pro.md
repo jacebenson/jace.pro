@@ -1,6 +1,7 @@
 ---
 title: "Danish Data Protection Agency og EG  forklaring"
 date: 2020-01-27T19:47:56.000Z
+authors: ["helgefjelberg"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=61a8d86edb2e8cd023f4a345ca961939"
 ---
 <p>Hei alle &#34;SNUG&#96;ere&#34;. Det har den siste tiden vært en del spørsmål relatert til en hendelse mellom EG og Herning Kommune i Danmark relatert til GDPR og hvor ServiceNow har blitt nevnt. Vi har ettergått dette og under ser du vårt svar.</p>

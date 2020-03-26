@@ -1,6 +1,7 @@
 ---
 title: "Successfully Changing Your Company"
 date: 2018-08-07T19:54:36.000Z
+authors: ["eric.hemmer"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=70904a15dbfbd7805ed4a851ca9619d2"
 ---
 <p style="text-align: left;">Whether you are evolving into an HR Shared Services model, modernizing your core HR systems to the Cloud, or turning ordinary workdays into extraordinary experiences for your employees; change does not come easy.  There will be many keys to your success, but one that is not discussed often enough is the organizational change that you must navigate. Driving change in a complex organization requires a multi-faceted approach and it depends as much on creativity as science. </p>

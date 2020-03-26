@@ -1,6 +1,7 @@
 ---
 title: "New Cloud Management connectors for Google Cloud IBM Cloud and Terraform in ServiceNow Store"
 date: 2019-06-21T00:09:13.000Z
+authors: ["Utpal"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=11da5f5bdbce37044abd5583ca96195e"
 ---
 <p><span style="font-size: 14pt;"><strong>Cloud Management connectors for Google Cloud, IBM Cloud and Terraform</strong></span></p>

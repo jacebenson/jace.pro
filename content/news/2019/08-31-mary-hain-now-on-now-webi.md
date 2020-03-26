@@ -1,6 +1,7 @@
 ---
 title: "Now on Now Webinar How ServiceNow used Enterprise Service Management to drive  employee satisfaction while reducing support burdens   am PT Tues Sept "
 date: 2019-08-31T03:39:33.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9ed3311edbebb7840be6a345ca96197f"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/fbf0673bdbeff3c4feb1a851ca9619f8.iix" /></p>

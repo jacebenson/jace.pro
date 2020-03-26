@@ -1,6 +1,7 @@
 ---
 title: "The Now Platform Madrid release is available"
 date: 2019-02-28T22:13:39.000Z
+authors: ["Roni Fontaine"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=59900a13db3b6f84fff8a345ca961978"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/e0dfe751db88ff48190dfb24399619f6.iix" /></p>

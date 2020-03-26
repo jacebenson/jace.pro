@@ -1,6 +1,7 @@
 ---
 title: "The Enterprise CloudCast Episode   Cloud Security part "
 date: 2016-04-14T04:11:44.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=16edaee9dbd0dbc01dcaf3231f96199b"
 ---
 <p>In this 3rd Episode of the Enterprise CloudCast, <a title="" href="/community?id=community_user_profile&user=d621d665db981fc09c9ffb651f96193c" rel="nofollow">Allan Leinwand, ServiceNow CTO</a>, discusses the multifaceted topic of Cloud Security.</p>

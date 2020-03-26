@@ -1,6 +1,7 @@
 ---
 title: "Now on Now webinar  AIOpsdriven automation drives faster resolution Wed Dec  at  am PT am ET"
 date: 2019-11-22T22:29:29.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=28b441d5dbdd009413b5fb2439961982"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/46940595dbdd009413b5fb24399619bd.iix" /></p>

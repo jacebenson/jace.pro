@@ -1,6 +1,7 @@
 ---
 title: "ITOM at Knowledge Real Stories Real Customers Real Success  Part "
 date: 2018-05-08T21:11:41.000Z
+authors: ["Chanda Dani"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6a8925ccdb0e9b404816f3231f9619db"
 ---
 <p>Welcome to Knowledgde18 and the ITOM blog series - Real Stories, Real Customers and Real Success! Today is the first day of the conference and I hope all of you are discovering different ways in which the ServiceNow platform can be leveraged to provide a more natural experience to your users. In part I of this blog series today, I want to share with you my learnings from talking to customers about why they are choosing the ServiceNow Platform for their IT Operations.</p>

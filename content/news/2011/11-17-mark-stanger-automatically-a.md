@@ -1,6 +1,7 @@
 ---
 title: "Automatically adjust the height of a text area to fit its contents"
 date: 2011-11-16T19:51:44.000Z
+authors: ["Mark Stanger"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=bcaca225dbd0dbc01dcaf3231f961918"
 ---
 <p>Here are a couple of script examples you might find useful. Say you've got a multi-line text field or variable that contains a lot of text. To save time in scrolling (or clicking the '+' icon next to the field) to see all of the text you just want to auto-expand the height of the field to fit its contents based on some other client-side trigger. <a title="w.servicenowguru.com/scripting/client-scripts-scripting/automatically-adjust-height-text-area-fit-contents" href="http://www.servicenowguru.com/scripting/client-scripts-scripting/automatically-adjust-height-text-area-fit-contents">Here are a couple of scripts that allow you to do that.</a><br /><center><br /><a href="http://www.servicenowguru.com/scripting/client-scripts-scripting/automatically-adjust-height-text-area-fit-contents/"><img src="http://www.servicenowguru.com/wp-content/uploads/2011/11/ExpandMultiLineHeight-300x185.jpg" alt="Expand Multi-line Height" title="Expand Multi-line Height" width="300" height="185" class="aligncenter size-medium wp-image-4167" /></a></center></p>

@@ -1,6 +1,7 @@
 ---
 title: "Getting Started Building a Store App"
 date: 2018-06-08T23:50:59.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1a473dc2dbee53c08e7c2926ca961934"
 ---
 <p>So you’ve joined the technology parter program and are ready to build your app/integration with the goal of listing it on the store. In this post we&#39;ll walk through some important information to know before you start your ServiceNow Store app development. </p>

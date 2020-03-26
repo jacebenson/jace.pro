@@ -1,6 +1,7 @@
 ---
 title: "Have you put a ding in the universe"
 date: 2014-02-10T09:22:51.000Z
+authors: ["nsimha"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=283eea6ddbd0dbc01dcaf3231f961901"
 ---
 <p>Steve Jobs once said that he wanted to put a ding or make an impact in the universe.   Which he did in spades by bringing us some of the most innovative products.   </p><p>You, our customers are making an impact in your organization by innovating on the ServiceNow Platform and changing the way work is done within your organizations. Every year at Knowledge we celebrate your innovation with the Innovation of the year awards.</p><p></p><p>Start with this blog <a title="Be Inspired by the Innovators of Knowledge 12" __default_attr="1781" __jive_macro_name="blogpost" class="jive_macro jive_macro_blogpost" data-orig-content="Be Inspired by the Innovators of Knowledge 12" href="/community?id=community_blog&sys_id=7a8c2ae1dbd0dbc01dcaf3231f9619a7">Be Inspired by the Innovators of Knowledge 12</a> and then submit your entry   - you can find the details on how to do so here   <a href="https://knowledge.servicenow.com/awards.html" title="https://knowledge.servicenow.com/awards.html">ServiceNow Knowledge14 - Innovation   </a></p><p></p><p>We hope you will share your story with us and inspire the rest of the community!</p>

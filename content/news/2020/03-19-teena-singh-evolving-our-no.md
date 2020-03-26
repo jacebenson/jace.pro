@@ -1,6 +1,7 @@
 ---
 title: "Evolving our Now Support HI Experience"
 date: 2020-03-18T11:02:36.000Z
+authors: ["Teena Singh"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5e375df6db2fc494feb1a851ca961995"
 ---
 <p>By now, you’ve probably noticed that we made some changes to the <a href="https://hi.service-now.com/" target="_blank" rel="noopener noreferrer nofollow">Now Support (HI) </a>public home page – it’s all thanks to you!   </p>

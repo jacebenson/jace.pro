@@ -1,6 +1,7 @@
 ---
 title: "Agradecimento  o SNUG So Paulo"
 date: 2018-08-30T22:15:00.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ad4d70b4dbd4e7c4e0e80b55ca9619a1"
 ---
 <p>Prezados Membros da Comunidade, </p>

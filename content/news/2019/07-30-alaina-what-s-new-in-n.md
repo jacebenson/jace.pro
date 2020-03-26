@@ -1,6 +1,7 @@
 ---
 title: "Whats new in New York for the Now Platform"
 date: 2019-07-29T22:27:51.000Z
+authors: ["Alaina"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6ca9b7b71b32ff44d01143f6fe4bcbfc"
 ---
 <p><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/2c47091edba7778414d6fb2439961955.iix" /></p>

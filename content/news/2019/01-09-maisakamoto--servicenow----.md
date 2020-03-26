@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow"
 date: 2019-01-08T08:29:32.000Z
+authors: ["maisakamoto"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=80ea5c3edbfaaf009540e15b8a961912"
 ---
 <div style="direction: ltr; border-width: 100%;">

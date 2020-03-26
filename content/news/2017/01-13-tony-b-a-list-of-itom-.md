@@ -1,6 +1,7 @@
 ---
 title: "A List of ITOM Health Integrations"
 date: 2017-01-12T07:30:20.000Z
+authors: ["Tony B"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=336caea1dbd0dbc01dcaf3231f9619da"
 ---
 <p>One question often asked about ServiceNow Event Management and Operational Intelligence is &#34;what monitoring tools do they integrate with?&#34;.   Supported Event Management and Operational Intelligence integrations and integration methods are documented in ServiceNow Product Documentation, and third-party developed and supported integrations are available via the ServiceNow Store... however it&#39;s spread across a number of different places.</p>

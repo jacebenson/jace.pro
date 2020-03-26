@@ -1,6 +1,7 @@
 ---
 title: "Your Audio Visual CMDB or AVCMDB Part  Vendor Data"
 date: 2020-02-10T21:36:10.000Z
+authors: ["Matthew Fearnley"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=23a73043db3a481c23f4a345ca961955"
 ---
 <p>As an Audio Visual ecosystem evolves it will invariably contain a consortium of vendors, warranties, and service plans. The following is a guideline as to how an enterprise can leverage ServiceNow to manage the lifecycle of Audio Visual Support.</p>

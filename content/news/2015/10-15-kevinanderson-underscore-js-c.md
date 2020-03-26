@@ -1,6 +1,7 @@
 ---
 title: "Underscorejs client side templates in CMS"
 date: 2015-10-14T23:51:21.000Z
+authors: ["kevinanderson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=3c9ceae1dbd0dbc01dcaf3231f961981"
 ---
 <p>I spent a few days working to get client side js based templates to work in our CMS.   I wanted to share with everyone how I made that work.</p><p></p><p>1. The templates will have to be embedded in the DOM under script tags.</p><p>2. The template syntax will require using the Jelly tags for special characters, and some interesting 2 stage parsing to clean up the mess jelly leaves in the templates</p><p>         this includes replacing the "&amp;", "&lt;" and "&gt;" characters with jelly equivalents: ${AMP}, ${LT}, ${GT}</p><p>3.   Jelly mangles the special characters contained in HTML attributes, which is the reason for a wierd second stage string replace in the client</p><pre __default_attr="javascript" __jive_macro_name="code" class="jive_text_macro jive_macro_code _jivemacro_uid_14448485000665603" jivemacro_uid="_14448485000665603" modifiedtitle="true">

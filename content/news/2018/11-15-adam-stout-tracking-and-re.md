@@ -1,6 +1,7 @@
 ---
 title: "Tracking and Reporting on Dashboard Usage in ServiceNow"
 date: 2018-11-15T03:17:57.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=19bdcd95dbb5ef001089e15b8a961937"
 ---
 <h1>Overview</h1>

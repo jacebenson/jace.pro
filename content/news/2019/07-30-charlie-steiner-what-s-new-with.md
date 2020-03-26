@@ -1,6 +1,7 @@
 ---
 title: "Whats new with IntegrationHub in New York"
 date: 2019-07-30T04:21:19.000Z
+authors: ["Charlie Steiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9a8ac9081b87fb44ada243f6fe4bcb47"
 ---
 <p><strong><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/d9a078ca1babff04fff162c4bd4bcbda.iix" /></strong></p>

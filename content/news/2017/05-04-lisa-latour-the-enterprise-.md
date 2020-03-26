@@ -1,6 +1,7 @@
 ---
 title: "The Enterprise Cloudcast Episode  Data Sovereignty by Allan Leinwand"
 date: 2017-05-03T07:13:31.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4faca625dbd0dbc01dcaf3231f96199b"
 ---
 <p><img class="image-2 jive-image" style="float: right; width: 288px; height: 179.913px;" src="1587e0cadb14dfc03eb27a9e0f961911.iix" alt="Data-Sovereignty-Enterprise-Cloud-ServiceNow.jpg" width="288" height="180" /><span style="font-size: 12pt;">In this episode, Allan discusses data sovereignty. How do we think about the regularity and compliance needs of the many data sovereignty laws across the world while using cloud computing to drive our company forward? Are data sovereignty and cloud computing at odds with each other or can we make them work together? Allan talks about a strategy here to make this work for the enterprise.</span></p>

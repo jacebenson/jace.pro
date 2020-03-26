@@ -1,6 +1,7 @@
 ---
 title: "The Value of Kiosks"
 date: 2018-06-13T21:56:47.000Z
+authors: ["Pamela Graulich"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1a1d43e7db229b40f7fca851ca96195a"
 ---
 <p>Look around you as you are out and about. . . how many kiosks do you see? At the airport, retail stores, banks, hotels, medical offices, your favorite restaurant. . . the list goes on. They are everywhere. Companies are leveraging kiosks to expand their reach to engage with customers.</p>

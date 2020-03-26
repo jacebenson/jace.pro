@@ -1,6 +1,7 @@
 ---
 title: "Now Learning Blog  Learn what you need to make an impact and grow your career"
 date: 2019-11-04T19:45:53.000Z
+authors: ["Julie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=64a27f17dbbc08942be0a851ca961911"
 ---
 <p class="p1"><span style="font-size: 12pt;">I just heard about <a href="https://nowlearning.service-now.com/" rel="nofollow"><span class="s1">Now Learning</span></a> – where do I start?</span></p>

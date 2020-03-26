@@ -1,6 +1,7 @@
 ---
 title: " Essentials to Improving User Experience with ServiceNow"
 date: 2019-02-08T22:59:41.000Z
+authors: ["pooja_gupta"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a05b47f0dbafa3405d782183ca9619c6"
 ---
 <p>Great experiences should improve productivity and value, but investments in user experience often fail to ‘go to the source’ to understand where productivity can be improved.</p>

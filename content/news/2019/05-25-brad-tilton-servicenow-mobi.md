@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow Mobile Resources"
 date: 2019-05-24T18:44:22.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=578d0b6e1b617780ada243f6fe4bcbaa"
 ---
 <p>ServiceNow released a new mobile app and functionality with the Madrid release that includes offline support, push notifications, and other enhanced capabilities. It allows you a lot of control over the user experience and allows for configuration through studio. There is a lot of information and tutorials out there around how to configure it, but I thought I&#39;d try centralizing everything I know about into one post. </p>

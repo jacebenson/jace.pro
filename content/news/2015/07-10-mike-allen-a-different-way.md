@@ -1,6 +1,7 @@
 ---
 title: "A different way to do data"
 date: 2015-07-09T19:10:58.000Z
+authors: ["Mike Allen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1f8c6ae1dbd0dbc01dcaf3231f961943"
 ---
 <p>For years, if I wanted to move data through the system, I would export XML, go to the next instance, import the XML, etc.   I never really though about it; I thought this was the way to do it and that was it.   Then, recently, a colleague showed me something he does:</p><p></p><p><img   alt="Capture.PNG" class="image-1 jive-image" src="1b267739dbd05704ed6af3231f9619ea.iix" style="height: 378px; width: 620px;"/></p><p>He uses it to create backout update sets that can just be applied to revert changes.   But, all it does is save the XML of the current record.   He uses it to make originals of scripts he touches.   But, this got me thinking.   I could use it to save the XML of data used to support my releases.</p><p></p><pre __default_attr="javascript" __jive_macro_name="code" class="jive_text_macro jive_macro_code _jivemacro_uid_143679779612940" jivemacro_uid="_143679779612940">

@@ -1,6 +1,7 @@
 ---
 title: "Top  Reasons You Should Consider Employee Forums"
 date: 2019-10-05T04:22:44.000Z
+authors: ["Allison French"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=906d42addb1c88100be6a345ca96199b"
 ---
 <p><span style="font-family: helvetica; font-size: 12pt;">It’s often said that the best communication isn’t just a one-way push of information from an organization to employees. Employee Forums, a feature of the Employee Service Center, provides a place for employees to discuss the topics they’re interested in, ask questions, and help their colleagues with questions—all while enhancing the employee service experience.</span></p>

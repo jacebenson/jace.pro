@@ -1,6 +1,7 @@
 ---
 title: "Hands on Labs Customer Speakers ServiceNow Keynote Breakouts Roundtables  All at the Future of Work  Boston  Oct th"
 date: 2018-09-20T00:31:34.000Z
+authors: ["Doug Dykes"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b85cd81bdba8ef808e7c2926ca961952"
 ---
 <p><strong><span id="ember5613" class="ember-view">Calling all IT, CSM, HR, SecOps &amp; Platform professionals. Hands-on-Labs, IT Breakouts , Customer Speakers, Roundtable - Networking with your peers, Priceless! </span></strong></p>

@@ -1,6 +1,7 @@
 ---
 title: "The opportunities automation and AI create for humans in customer service"
 date: 2019-04-15T20:51:23.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e794ba8adbf07388fece0b55ca9619c7"
 ---
 <div class="wp-block-image"><img class="wp-image-3591" style="padding: 6 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/04/artificial-intelligence-3382507.jpg?w&#61;1024" alt="" width="342" height="228" align="left" /></div>

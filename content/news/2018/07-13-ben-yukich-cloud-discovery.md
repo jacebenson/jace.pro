@@ -1,6 +1,7 @@
 ---
 title: "Cloud Discovery Supporting new cloud tech"
 date: 2018-07-12T19:27:48.000Z
+authors: ["ben.yukich"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=621104c1dbd79780a39a0b55ca96196e"
 ---
 <p>Unless you&#39;ve been under a rock for a while, you&#39;ve probably noticed that cloud technology moves FAST. Well, being born in the cloud, so do we at ServiceNow, and so can YOU as a Discovery/Mapping customer! If you haven&#39;t seen it already, I recommend checking out how you can stay up to date on the latest content releases from ServiceNow: <a title="Content shipping of discovery patterns via ServiceNow store." href="community?id&#61;community_blog&amp;sys_id&#61;1b80b148db3a1380e0e80b55ca96197d" target="_blank" rel="nofollow">Content shipping of discovery patterns via ServiceNow store.</a></p>

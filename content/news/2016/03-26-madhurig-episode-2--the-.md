@@ -1,6 +1,7 @@
 ---
 title: "Episode  The CloudCast  Redundancy and Availability on The Enterprise Cloud"
 date: 2016-03-26T03:17:40.000Z
+authors: ["madhurig"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=773d6ee5dbd0dbc01dcaf3231f961977"
 ---
 <p><strong>Availability is the life blood of any service. Enterprise Cloud Service needs to be available at all times.   </strong></p>

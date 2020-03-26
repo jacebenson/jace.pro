@@ -1,6 +1,7 @@
 ---
 title: "Youre Invited Karl Strauss Brewing Company"
 date: 2018-05-17T00:43:16.000Z
+authors: ["stephanieesquivias"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7fa66f6adb4a1f445322f4621f961980"
 ---
 <p><strong>Come join us at Karl Strauss Brewing Company in Anaheim on May 30th!</strong></p>

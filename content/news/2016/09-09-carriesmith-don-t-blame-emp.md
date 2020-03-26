@@ -1,6 +1,7 @@
 ---
 title: "Dont blame employees when technology doesnt work"
 date: 2016-09-09T01:14:15.000Z
+authors: ["carriesmith"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b94e26addbd0dbc01dcaf3231f961982"
 ---
 <p>I recently read an article in HR Magazine that talked about why new HR technology failed.   And, after being in HR and the software world for the latest 22 years, what surprised me was that the emphasis is still on TRAINING...   The article says that leaders need to better enable workers to adapt to new technology.   When was the last time a "millennial" had to adapt to technology?   When the focus has to be on employees knowing why the change is needed or having employees teach each other rather than simplifying &amp; consumerizing technology, organizations will continue to struggle to gain adoption of technology.   HR will still be bogged down in answering routine, repetitive inquiries and not have the strategic position they need and deserve.   The article did get one thing right, in my opinion, and that is to "Keep It Simple", focus on the end-users' needs and embrace simplicity.   This is great advice which AirBnB, Amazon, Uber &amp; Open Table will all agree on.   ServiceNow's HR Service Portal is a great example of this philosophy and many of our clients agree.   @HRNOW</p>

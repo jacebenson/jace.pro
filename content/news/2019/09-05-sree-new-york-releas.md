@@ -1,6 +1,7 @@
 ---
 title: "New York Release Whats New with ITOM Visibility"
 date: 2019-09-05T04:22:07.000Z
+authors: ["Sree"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=268d633bdbaf3f085129a851ca96196b"
 ---
 <p><span style="font-size: 14pt;"><strong>Unified Cloud Discovery</strong></span></p>

@@ -1,6 +1,7 @@
 ---
 title: "ITBM What is IT Business Management and why do you need it"
 date: 2018-10-04T02:46:58.000Z
+authors: ["Dawn Jurek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b491817bdb78ef04a39a0b55ca9619ca"
 ---
 <p>If you&#39;ve employed ServiceNow&#39;s <a title="IT Service Management solution" href="community?id&#61;community_blog&amp;sys_id&#61;0dd93b5bdb5edfc02d1efb651f961927" target="_blank" rel="nofollow">IT Service Management solution</a> to take control of your service processes, and our <a title="IT Operations Management solution" href="community?id&#61;community_blog&amp;sys_id&#61;6ab2a303db0d9bc4852c7a9e0f96194b" target="_blank" rel="nofollow">IT Operations Management solution</a> to manage IT operations, what about the business side of IT? Are you managing IT projects, development and financials? </p>

@@ -1,6 +1,7 @@
 ---
 title: "Thanks to the host sponsors  presenters"
 date: 2012-10-19T17:47:52.000Z
+authors: ["jasonb5232"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1bcce265dbd0dbc01dcaf3231f961950"
 ---
 <p><p>It was great to see everyone at the 1st Indiana LUG event! I great many thanks need to go around so here we go.</p><br /><br /><ul><li>KAR Auctions for hosting</li><li>Scott Gardner &amp; Terri Hubbard from Health &amp; Hospital Corporation for their presentation on how they've implemented the Service Catalog</li><li>John Summitt for his multiple presentations and general question answering</li><li>Bomgar for Lunch and their presentation on SNC integration with their remote access product</li><li>Brian Osborne, KAR Auctions, on their CSQ customization</li><li>Fruition for happy hour and their presentation on building an application</li></ul><br /><br /><p>If I've forgotten anyone please let me know and I apologize.</p><br /><br /><p>I will be creating a Poll to get an idea of topic interest level for our next event so please check back and offer your feedback.</p><br /><br /><p>Hoping to speak to you soon!</p></p>

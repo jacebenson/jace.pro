@@ -1,6 +1,7 @@
 ---
 title: "Decoration in form header to refresh the form"
 date: 2012-06-08T01:44:59.000Z
+authors: ["CapaJC"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=a94deee5dbd0dbc01dcaf3231f9619bd"
 ---
 <p>Are you an admin that frequently needs to refresh the form you're on? Whether for testing purposes, or some other reason? Tired of right-clicking the form header to do it?<br /><br />I know others have solved this their own way, but here's mine.<!--break--> A global UI Script with the following script puts an icon in your form header to refresh the form:<br /><br /><pre __default_attr="plain" __jive_macro_name="code" class="jive_text_macro jive_macro_code"><br /><br />addRenderEvent(bounce);<br />function bounce() {<br />   if (!g_user.hasRole("admin"))<br />      return;<br /><br />   var e = $("mandatory_explained");<br />   if (!e)<br />      return;<br />  <br />   var p = e.parentNode;<br />   var span = document.createElement("span");<br />   span.setAttribute("id", "refresh_this_form");<br />   p.insertBefore(span, e);<br />   span.innerHTML = " &lt;span class='pointerhand' onclick='reloadWindow(window);' style='padding-left:4px;'&gt;&lt;img width='16' height='16' src='images/icons/refresh.gifx'&gt;&lt;/span&gt;";<br />}<br /></pre></p>

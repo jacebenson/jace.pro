@@ -1,6 +1,7 @@
 ---
 title: "Q Security Patching Underway"
 date: 2017-10-17T22:44:05.000Z
+authors: ["kristinaek"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=079dae69dbd0dbc01dcaf3231f961928"
 ---
 <p>With October being National CyberSecurity Month, the Patching and Upgrades team is highlighting the series of security patches ServiceNow is deploying in Q4.</p><p></p><p>These patches bring the latest in security improvements to keep our customers' instances and data secure. We are patching customer instances to the applicable target, as announced in the Q4 Quarterly Patching Program (QPP) customer communication, and are specifying the target within their HI communication (COM) record.</p><p></p><p>We encourage customers to keep their instances on the latest available versions.</p><p></p><p>If you have questions about security patching, please see the Security Patching FAQs <a title="i.service-now.com/kb_view.do?sysparm_article=KB0635379" href="https://hi.service-now.com/kb_view.do?sysparm_article=KB0635379">KB0635379</a>, or visit the new <a title="" _jive_internal="true" href="/community?id=community_forum&sys_id=71291a2ddbd897c068c1fb651f9619c8">Patching &amp; EOL Upgrades Community</a>. </p>

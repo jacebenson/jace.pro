@@ -1,6 +1,7 @@
 ---
 title: "Import a knowledge article  How To and known limitations"
 date: 2019-10-30T15:53:47.000Z
+authors: ["Lokenath Chakraborty"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b64bd979db3004145129a851ca96199c"
 ---
 <p>How to import a word document as a knowledge article:</p>

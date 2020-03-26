@@ -1,6 +1,7 @@
 ---
 title: "Query Business Rules A Definitive Guide"
 date: 2019-11-10T11:27:06.000Z
+authors: ["Paul Morris"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=240af05ddb010cd44819fb24399619ca"
 ---
 <p><a name="top"></a></p>

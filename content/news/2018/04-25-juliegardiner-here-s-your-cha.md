@@ -1,6 +1,7 @@
 ---
 title: "Heres Your Chance to Participate in the SierraCedar  HR Systems Survey"
 date: 2018-04-24T22:48:02.000Z
+authors: ["juliegardiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e159752bdb291b003882fb651f96191f"
 ---
 <p><img src="3488b163db291b003882fb651f96197f.iix" width="475" height="213" /></p>

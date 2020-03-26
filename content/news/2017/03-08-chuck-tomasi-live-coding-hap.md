@@ -1,6 +1,7 @@
 ---
 title: "Live Coding Happy Hour Recap  Inter widget communications"
 date: 2017-03-07T22:32:46.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=132de6e5dbd0dbc01dcaf3231f96192f"
 ---
 <h2>Introduction</h2><p></p><p>In this episode, Chuck and Josh discuss some API methods with GlideSysAttachment and how to make Service Portal widgets talk to each other.</p><p></p><h2>Video</h2><center><p><iframe frameborder="0" height="480" src="https://www.youtube.com/embed/Wcz0PixUneQ" width="853"> 

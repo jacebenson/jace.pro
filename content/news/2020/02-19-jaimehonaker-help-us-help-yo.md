@@ -1,6 +1,7 @@
 ---
 title: "Help us help you Share your favorite KB article"
 date: 2020-02-18T20:56:24.000Z
+authors: ["jaimehonaker"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=b24b75691b0f0010fff162c4bd4bcb24"
 ---
 <p>We are working on ways to recognize our employees for a job well done when creating a new KB article, and would love your help!</p>

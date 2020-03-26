@@ -1,6 +1,7 @@
 ---
 title: "TPP Technical Office Hours"
 date: 2018-07-17T02:51:21.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fefc8ad6dbd3d700feb1a851ca96195f"
 ---
 <p>Attention Technology Partners!</p>

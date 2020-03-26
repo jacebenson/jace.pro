@@ -1,6 +1,7 @@
 ---
 title: "The Now Platform New York release  collected links of interest"
 date: 2019-07-24T22:35:44.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d77bc612db767fc0d58ea345ca96190e"
 ---
 <p class="ng-scope"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/56d5ec96db63378414d6fb243996198e.iix" /></p>

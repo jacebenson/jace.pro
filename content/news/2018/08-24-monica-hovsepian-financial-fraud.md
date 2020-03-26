@@ -1,6 +1,7 @@
 ---
 title: "Financial fraud and cybercrime Can banks stay one step ahead"
 date: 2018-08-23T20:14:46.000Z
+authors: ["Monica Hovsepian"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0cae1caadbc4eb4467a72926ca961918"
 ---
 <p>There seems to be no shortage of news around cybercrime and fraud at financial services institutions.  The latest involves a security breach at one of the oldest cooperative banks in India. Within 24 hours of the FBI issuing a global alert around an <a href="https://krebsonsecurity.com/2018/08/fbi-warns-of-unlimited-atm-cashout-blitz/" rel="nofollow">ATM cash-out threat</a>, the bank suffered a breach. Hackers executed 12,000 transactions and stole $13.5 million from the bank’s accounts via ATMs in Canada, Hong Kong, and India.</p>

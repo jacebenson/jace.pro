@@ -1,6 +1,7 @@
 ---
 title: "Take the hitIts worth it"
 date: 2018-11-19T20:53:30.000Z
+authors: ["Dave Deal"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d2a56db6db752f00fa192183ca9619ca"
 ---
 <p>Before joining the most innovative cloud company in the world I spent a significant portion of my professional life implementing discovery, cmdb, and other competitive product point solutions in a post sales world.  I can&#39;t even begin to put a number on the amount of implementations I&#39;ve led or been a part of, but I&#39;m certain its well over 40 or more over the past 10 years or so.  Along with that implementation experience I spent my initial 10 or so years living in and working within the boundaries of IT Operations.</p>

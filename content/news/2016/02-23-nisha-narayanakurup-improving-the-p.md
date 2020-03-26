@@ -1,6 +1,7 @@
 ---
 title: "Improving the performance of your ServiceNow homepage"
 date: 2016-02-23T04:02:51.000Z
+authors: ["nisha.narayanakurup"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=dd6dea29dbd0dbc01dcaf3231f96190c"
 ---
 <p>In my last blog post <a class="jive_macro jive_macro_blogpost" title="5 Ways to Troubleshoot your Instance Performance" href="/community?id&#61;community_blog&amp;sys_id&#61;a6ecae65dbd0dbc01dcaf3231f961969" rel="nofollow">5 Ways to Troubleshoot your Instance Performance</a> I have shared a few tips which enable administrators to diagnose performance issues. As a performance expert, homepage performance is one of the most commonly diagnosed problem areas we assist customers with.<strong> Heavy home pages can lead to overall instance performance degradation</strong>.</p>

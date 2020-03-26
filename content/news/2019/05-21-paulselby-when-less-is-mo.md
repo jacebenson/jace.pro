@@ -1,6 +1,7 @@
 ---
 title: "When less is more in customer service"
 date: 2019-05-20T20:52:08.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=00744395dba97f04e0e80b55ca961945"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Enabling Service Excellence Through ServiceNows Agent Intelligence Accenture report"
 date: 2017-12-20T13:49:50.000Z
+authors: ["runemehlum"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ecfda22ddbd0dbc01dcaf3231f961961"
 ---
 <p>Hei</p><p></p><p>Da har vi publisert en ny rapport som beskriver Agent Intelligence i Kingston og verdien av dette. Rapporten er utarbeidet av Accenture og gir et godt innblikk i hvordan en slik løsning kan påvirke hverdagen for de som sitter på en service desk.</p><p><img  alt="Screen Shot 2017-12-20 at 08.45.50.png" class="image-1 jive-image" src="c1599982db1c1b04ed6af3231f96195d.iix" style="height: auto;"/></p><p>Rapporten finner du her:</p><p><a href="https://www.servicenow.com/content/dam/servicenow/documents/analyst-research/accenture-servicenow-agent-intelligence-machine-learning-pov.pdf" title="https://www.servicenow.com/content/dam/servicenow/documents/analyst-research/accenture-servicenow-agent-intelligence-machine-learning-pov.pdf">https://www.servicenow.com/content/dam/servicenow/documents/analyst-research/accenture-servicenow-agent-intelligence-mac…</a> </p><p></p><p>OBS! Krever utfylling av info før du får laste ned.</p><p></p><p>Rune</p>

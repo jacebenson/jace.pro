@@ -1,6 +1,7 @@
 ---
 title: "ServiceNow UI Actions Best Practices"
 date: 2014-12-23T23:04:24.000Z
+authors: ["katharine.campbell"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=67dc6a65dbd0dbc01dcaf3231f9619f4"
 ---
 <p class="p1">In this video, Chuck Tomasi introduces best practices for developing User Interface (UI) actions, which simplify processes and guide user activity on lists and forms.</p><p class="p2"></p><p class="p1">These best practices include:</p><p class="p2"></p><p class="p1">- Give each UI action a distinct action name.</p><p class="p1">- Use conditions in UI actions</p><p class="p1">- Use buttons, menus, and links appropriately in forms and lists.</p><p class="p1"></p><p class="p1">And more!</p><p class="p1"><iframe src="https://youtube.com/embed/L6Ft_9fCgS8" width="640" height="360"/></p><p class="p2">For more information on UI Actions, see:</p><p class="p2"></p><p class="p2">ServiceNow wiki</p><p class="p2"><a href="https://wiki.servicenow.com/index.php?title=Modifying_the_Application_Design#UI_Actionshttps://wiki.servicenow.com/index.php?title=UI_ActionsServiceNow" title="https://wiki.servicenow.com/index.php?title=Modifying_the_Application_Design#UI_Actionshttps://wiki.servicenow.com/index.php?title=UI_ActionsServiceNow">Modifying the Application Design - ServiceNow Wiki</a></p><p class="p2"></p><p class="p2">Your feedback helps us better serve you! Did you find this video helpful? Leave us a comment to tell us why or why not.</p>

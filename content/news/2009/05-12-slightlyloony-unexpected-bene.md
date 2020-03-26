@@ -1,6 +1,7 @@
 ---
 title: "Unexpected Benefits"
 date: 2009-05-11T20:41:15.000Z
+authors: ["SlightlyLoony"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=edcd22e9dbd0dbc01dcaf3231f96194b"
 ---
 <p><img  alt="" class="jive-image" src="4e1b6331db5893041dcaf3231f961916.iix" style="width: auto; height: 84px;" />Normally Discovery uses the <a title="lightlyLoony/blog/2008/11/4/1914" href="/community?id=community_blog&sys_id=f8aca225dbd0dbc01dcaf3231f961974">ping utility</a> to determine whether there is a device at a particular IP address. One of our customers located in France ran into a slight difficulty with this, however. <!--break-->Some of their MID servers were installed on localized (to French) Windows servers, and on these servers even the ping utility is localized. The MID server's code expects English-language results from ping, so this didn't work well at all.<br /><br /><a title="lightlyLoony/blog/2009/2/20/1969" href="/community?id=community_blog&sys_id=774de229dbd0dbc01dcaf3231f961939">Shazzam</a> to the rescue! While this wasn't part of the reason for creating Shazzam, a nice-but-unexpected side benefit is that Shazzam doesn't depend on running any utilities (like ping) on the host server, so it doesn't run into any localization-related issues. The rest of the exploration of Windows targets uses WMI, and it works the same way on localized or non-localized machines.<br /><br />So our customer simply turned on Shazzam, and now Discovery is working like a champ for them!</p>

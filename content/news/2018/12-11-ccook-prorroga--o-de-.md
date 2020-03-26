@@ -1,6 +1,7 @@
 ---
 title: "Prorrogao de Prazo  Knowledge CFC Call for Content"
 date: 2018-12-11T02:26:47.000Z
+authors: ["ccook"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e95bf66ddbd2e34011762183ca9619bb"
 ---
 <p>Prezados Membros da Comunidade, </p>

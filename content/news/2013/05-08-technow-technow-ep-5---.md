@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   ClientSide Scripting Fundamentals"
 date: 2013-05-07T18:59:32.000Z
+authors: ["TechNow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1d5e6aaddbd0dbc01dcaf3231f96191d"
 ---
 <p>This time Chuck and Andrew cover fundamentals and best practices of client side scripting. It&#39;s going to be another full hour of examples and best practices to help make you more effective with ServiceNow.</p>

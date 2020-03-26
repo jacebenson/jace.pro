@@ -1,6 +1,7 @@
 ---
 title: "Validate controls  defenses with Customer Security Testing"
 date: 2016-03-29T02:32:45.000Z
+authors: ["jlemos"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f1fd262ddbd0dbc01dcaf3231f961926"
 ---
 <p>While ServiceNow&#39;s Product Security Team works tirelessly testing and validating the security controls within ServiceNow&#39;s Platform, you may wish to, or have a requirement, to test your company&#39;s instance or specific instance customizations. The <a title="i.service-now.com/kb_view.do?sysparm_article&#61;KB0538598" href="https://hi.service-now.com/kb_view.do?sysparm_article&#61;KB0538598" rel="nofollow">Customer Penetration Testing Program</a> has been around for several years and is the only approved way to perform security testing against your ServiceNow instance.</p>

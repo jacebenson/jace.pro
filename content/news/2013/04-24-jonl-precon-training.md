@@ -1,6 +1,7 @@
 ---
 title: "PreCon Training  Your Success"
 date: 2013-04-24T01:39:42.000Z
+authors: ["JonL"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=989caae1dbd0dbc01dcaf3231f9619f2"
 ---
 <p>We are starting to close some of the classes in PreCon training so if you're on the fence about coming in for training on Sunday and Monday, please come join the fun! As typical, almost 30% of the conference attendees come to PreCon. This is a great way to get some training, and then extend your learning throughout the rest of the conference. <br /><br />Every class will provide a recommended 'Top 5' labs for you to attend, and be staffed by 2 instructors and several TAs in each and every classroom. In fact, 91% of attendees last year, rated the training an 8 or better, and 37% rated a perfect 10.<br /><br />We also have brand new classes around Orchestration (Runbook), Application Development, and Domain Separation. <br /><br />https://knowledge.service-now.com/k13/k13_preconference.do<br /><br />Hope to see you there!<br />jon</p>

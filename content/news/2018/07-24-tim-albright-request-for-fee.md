@@ -1,6 +1,7 @@
 ---
 title: "Request for Feedback"
 date: 2018-07-23T22:27:35.000Z
+authors: ["tim.albright"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1bb3592cdb631704a39a0b55ca9619c5"
 ---
 <p class="p1"><strong>All,</strong></p>

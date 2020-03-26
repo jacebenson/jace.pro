@@ -1,6 +1,7 @@
 ---
 title: "Using Flow Designer to Create a Customized Incident with Event Management"
 date: 2019-01-31T20:29:01.000Z
+authors: ["Vinh Tran"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=af1c919edb1f67406c1c02d5ca961908"
 ---
 <p><span style="font-family: arial, helvetica, sans-serif;">In the London release of event management, ServiceNow introduced alert management and using the flow designer </span>subflows<span style="font-family: arial, helvetica, sans-serif;"> to create incidents, knowledge articles, application launch, and remediation.<span class="Apple-converted-space">  </span>The feature is new to our customers and they often ask us to explain or show how to modify, create, or customize the OOB “Create Incident” </span>subflows<span style="font-family: arial, helvetica, sans-serif;">.  This blog will </span><span style="font-family: arial, helvetica, sans-serif;">specifically focus on this topic and will show you how to copy and modify the OOB “Create Incident” </span>subflow<span style="font-family: arial, helvetica, sans-serif;"> and customize the following:</span></p>

@@ -1,6 +1,7 @@
 ---
 title: "Certified Application Developer Tips and Sample questions"
 date: 2019-06-24T14:53:23.000Z
+authors: ["Rajashekhar Mushke"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=65f14e20db123f00fff8a345ca961978"
 ---
 <p><span style="font-size: 10pt;">Hi All,</span></p>

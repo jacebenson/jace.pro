@@ -1,6 +1,7 @@
 ---
 title: "Cast your vote for ServiceNow"
 date: 2011-06-03T21:52:28.000Z
+authors: ["lawrence.eng"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=024e26addbd0dbc01dcaf3231f9619d4"
 ---
 <p>BIG NEWS!<br /><br />ServiceNow is in the running to win the 2011 American Business Award for Best New Product!<br /><br />TODAY IS THE ONLY DAY TO VOTE! Please click on the links below to help ServiceNow win this prestigious award.<br /><br /><center><b><br /><a title="opleschoice.stevieawards.com/" href="http://peopleschoice.stevieawards.com/">See all the categories and choices</a><br /><br />or<br /><br /><a title="w.stevieawards.com/FavoriteNewProducts.peopleschoice/default.cfm?action=votewithlogo&sitetype=A&Nomination_Id=4410AA1DC3354E0849710C2A25018E8D58FF996D" href="http://www.stevieawards.com/FavoriteNewProducts.peopleschoice/default.cfm?action=votewithlogo&amp;sitetype=A&amp;Nomination_Id=4410AA1DC3354E0849710C2A25018E8D58FF996D">Vote directly for ServiceNow here</a></b><br /></center><br /><br />Thanks, and happy Friday!</p>

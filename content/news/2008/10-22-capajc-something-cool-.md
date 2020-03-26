@@ -1,6 +1,7 @@
 ---
 title: "Something cool today in demo"
 date: 2008-10-22T02:05:50.000Z
+authors: ["CapaJC"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d55e6aaddbd0dbc01dcaf3231f96191a"
 ---
 <p>/demo is an interesting instance to watch. New stuff shows up there first with every night's development build, and (before the next release) either stays as-is, gets improved, or gets pulled entirely. <br /><br />(psst, the middle one's the best)<br /><br />Something new and cool that showed up today: admins can click a little pencil icon to edit a gauge directly from the homepage, without having to go find the "thing" responsible for it (be it a gauge, UI Page, Application record, or some other widget.<br /><br />Something even cooler that showed up last week: admins can define multiple homepage layouts. Users can switch between them using the "Change Layout" selection in the "Switch to page" dropdown. There are four layouts out of box, currently, and you get a graphical representation of the layout when you're switching between them, so you can see what each looks like. Layouts have multiple dropzones (top, bottom, left, right, middle, etc.) based on the layout's construction. Then, when adding content, users can easily choose which layout "dropzone" to stick it in. Previously it'd get stuck in the upper left corner and you'd have to move it where you wanted it.<br /><br />--J</p>

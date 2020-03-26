@@ -1,6 +1,7 @@
 ---
 title: "Are you ready to implement ServiceNow"
 date: 2018-10-16T00:04:05.000Z
+authors: ["pooja_gupta"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=c06f06a7db492b00f7fca851ca961986"
 ---
 <p>Preparing for your ServiceNow journey is a lot like preparing for most journeys. Your experience and success depend on how well you have planned for it— what gear to carry, which route to take, what contingencies you need to prepare for — in advance.</p>

@@ -1,6 +1,7 @@
 ---
 title: "st Party Security Risk Management"
 date: 2019-10-17T23:18:47.000Z
+authors: ["Syra Arif "]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ee74c8b1dbecc4100be6a345ca9619cc"
 ---
 <p>Here&#39;s a new concept on how to utilize your security ratings solution, like <em>Bitsight, </em>to help you reduce your own security risk. Many organizations are struggling with running a Third Party Risk Management (TPRM) program - if spreadsheets, email, phone calls &amp; missed SLAs sound familiar, I urge you to consider <em>Vendor Risk Management </em>on ServiceNow. If you&#39;re already using ServiceNow for Vendor Risk Management, there are still some considerations you should have for your first party security risk program, in addition to TPRM. </p>

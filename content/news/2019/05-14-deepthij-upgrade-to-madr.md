@@ -1,6 +1,7 @@
 ---
 title: "Upgrade to Madrid Patch  if you are getting an onSubmit script error when updating a catalog task"
 date: 2019-05-13T22:06:59.000Z
+authors: ["deepthij"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=08725747db1d3b4cd82ffb243996193a"
 ---
 <p><span style="font-size: 12pt;"><strong>Issue</strong></span>: When saving a catalog task, form will not save and seeing below errors in the form -</p>

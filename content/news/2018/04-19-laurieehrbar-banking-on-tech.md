@@ -1,6 +1,7 @@
 ---
 title: "Banking on technology for growth"
 date: 2018-04-19T03:59:51.000Z
+authors: ["laurieehrbar"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9a278cb5db29d3042b6dfb651f961928"
 ---
 <h4>By Renee Haeberlin</h4>

@@ -1,6 +1,7 @@
 ---
 title: "I am seeking two more customer presenters for the user group"
 date: 2015-09-01T20:41:06.000Z
+authors: ["Mark.Bailey"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=74dd66e9dbd0dbc01dcaf3231f961948"
 ---
 <p><span style="font-size: 12pt;">I need to recruit two more customer presenters for the September 16, user group.   Don't be shy! </span></p><p></p><p><span style="font-size: 12pt;">I have two lined up which will be about 15 minutes each.</span></p><p></p><p><span style="font-size: 12pt;">You can represent a customization you made, you can present a solution in development for discussion, or you can even present a challenge you have not started and want some feedback on.</span></p><p><span style="font-size: 12pt;"><br/></span></p><p><em style="font-size: 12pt;">Did you do something cool with notifications?</em></p><p><span style="font-size: 12pt;"><em>Are you proud of a dashboard you created?</em></span></p><p><em style="font-size: 12pt;">Did you design an intricate catalog items?</em></p><p></p><p><span style="font-size: 12pt;">Please contact me via a message on this board and I will get in contact with you to add you to the schedule. </span></p>

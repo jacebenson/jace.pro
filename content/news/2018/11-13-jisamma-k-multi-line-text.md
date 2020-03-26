@@ -1,6 +1,7 @@
 ---
 title: "Multiline text fields exceeding character limit"
 date: 2018-11-13T00:59:31.000Z
+authors: ["Jisamma K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4eda1ee4db7d6f001089e15b8a9619c8"
 ---
 <p>As per documentation, for 254 characters or less, the string field is a single-line text field. Anything 255 characters or above appears as a multi-line text box.</p>

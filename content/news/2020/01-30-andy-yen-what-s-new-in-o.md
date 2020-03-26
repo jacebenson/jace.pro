@@ -1,6 +1,7 @@
 ---
 title: "Whats New in Orlando HR Service Delivery"
 date: 2020-01-29T06:40:06.000Z
+authors: ["Andy Yen"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6c87f372db668854414eeeb5ca96195d"
 ---
 <p><strong><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/439b9e2fdb0fcc101cd8a345ca96190e.iix" /></strong></p>

@@ -1,6 +1,7 @@
 ---
 title: "Adding Copy Permalink to the top of your Knowledge Base Article view kbview"
 date: 2020-03-06T20:45:50.000Z
+authors: ["Lucas Vieites"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=39eb190bdb178850190dfb24399619b2"
 ---
 <p>I was recently browsing the <a title="Idea Portal on the ServiceNow Community " href="https://community.servicenow.com/community?id&#61;ideas_list&amp;sysparm_module_id&#61;enhancement_requests" target="_blank" rel="noopener noreferrer nofollow">Idea Portal on this Community</a> (you <em>did</em> know we had this, didn&#39;t you?) to see what our customers have been suggesting we add to the platform, and I came across some really good ideas that are actually quite easy to customize by yourself. In today&#39;s blog post I will show how to squash two <span style="text-decoration: line-through;">bugs</span> ideas in one go:</p>

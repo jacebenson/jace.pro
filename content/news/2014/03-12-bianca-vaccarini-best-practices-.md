@@ -1,6 +1,7 @@
 ---
 title: "Best Practices for Upgrading your ServiceNow Product Downloadable"
 date: 2014-03-12T02:45:47.000Z
+authors: ["bianca.vaccarini"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=568da669dbd0dbc01dcaf3231f96198c"
 ---
 <p>Need help with upgrades? Follow the steps in our new <a href="https://www.servicenow.com/success/deploy/now/upgrade-servicenow-quicker.html" target="_blank" rel="nofollow">Upgrades Best Practices </a>page on the ServiceNow product documentation to conduct a well-organized upgrade to a new version of ServiceNow.</p>

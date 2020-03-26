@@ -1,6 +1,7 @@
 ---
 title: "Learn how Fiat Chrysler Automobiles increased its CMDB data accuracy by   Sign up for session BRE at Knowledge  to meet the Fiat Chrysler team"
 date: 2019-04-05T02:21:41.000Z
+authors: ["Matt Gowarty"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=32b6976adba437c0fece0b55ca96193d"
 ---
 <p>We all get better when we learn from each other. That’s why I’m really looking forward to going to Knowledge 19 – it’s a great opportunity to share our experiences and to keep up to date with the latest ServiceNow capabilities. I’m James Kailukaitis from Fiat Chrysler Automobiles, and I’m excited to be presenting at Knowledge this year. Along with my co-presenter, Ritesh Shah, I’ll be talking about how Fiat Chrysler has dramatically improved the accuracy of its CMDB by leveraging out-of-the-box ServiceNow capabilities.</p>

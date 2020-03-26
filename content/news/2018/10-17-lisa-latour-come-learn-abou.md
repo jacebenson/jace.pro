@@ -1,6 +1,7 @@
 ---
 title: "Come Learn about Common Services Data Model CSDM and post your questions"
 date: 2018-10-16T19:29:02.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=f00a523bdb4563408e7c2926ca9619df"
 ---
 <p>We&#39;ve got another ask the experts event for you.. <span class="ng-scope">we&#39;ll be covering ITSM&#39;s Common Services Data Model (CSDM). </span></p>

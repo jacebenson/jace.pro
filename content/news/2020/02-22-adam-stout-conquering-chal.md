@@ -1,6 +1,7 @@
 ---
 title: "Conquering Challenging Reports  Office Hours  Feb  Recap"
 date: 2020-02-21T06:23:35.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=0740de96dbcf889023f4a345ca96195d"
 ---
 <p>During the <a title="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" href="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" rel="nofollow">Performance Analytics and Reporting Office Hours</a> on February 12th, we covered some techniques to leverage the <a href="https://docs.servicenow.com/bundle/orlando-platform-administration/page/get-started/servicenow-overview/reference/r_AdministerServiceNow.html" rel="nofollow">Now Platform</a> to conquering challenging reports.</p>

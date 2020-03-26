@@ -1,6 +1,7 @@
 ---
 title: "Why Demands Dont Output Stories"
 date: 2018-11-14T22:51:18.000Z
+authors: ["Robert Fedoruk"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d7a0d8d1db71e3406c1c02d5ca961932"
 ---
 <p>I recently replied to a demand management question that I also had for ages.  Thought it might be a suitable blog for ITBM newcomers who are also familiar with SN&#39;s previously stand-alone agile paradigms.</p>

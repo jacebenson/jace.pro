@@ -1,6 +1,7 @@
 ---
 title: "Congratulations  Now Community MVP Awardees"
 date: 2020-01-22T03:27:34.000Z
+authors: ["Dan Bruhn"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=fb488720dbaacc504819fb2439961900"
 ---
 <p><span style="font-size: 12pt;"><span style="color: #333333; background: white;"><img style="float: right; margin-left: 4px;" src="https://community.servicenow.com/70f5fc4ddb6208904819fb24399619bd.iix" width="153" height="158" />The ServiceNow <a href="https://community.servicenow.com/community?id&#61;community_article&amp;sys_id&#61;330d6ea5dbd0dbc01dcaf3231f961965" rel="nofollow">Now Community MVP Program</a></span><span style="color: #333333; background: white;"> recognizes the top individual contributors in ServiceNow&#39;s online community. ServiceNow Now Community MVPs are well known by the collective community for their product expertise and consistent contributions. ServiceNow Now Community MVPs demonstrate a commitment to engage, guide, and share expertise with their peers. They represent the voice of the community. The ServiceNow MVP award is our appreciation for the the sizable influence and technical credibility these members demonstrated in 2019.</span></span></p>

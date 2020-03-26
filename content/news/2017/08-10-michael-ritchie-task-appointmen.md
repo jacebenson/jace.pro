@@ -1,6 +1,7 @@
 ---
 title: "Task Appointment Scheduling"
 date: 2017-08-09T20:01:17.000Z
+authors: ["Michael Ritchie"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e46e6eaddbd0dbc01dcaf3231f9619ba"
 ---
 <p>Ever since the &#34;Genius Lounge&#34; concept was created by Apple many years ago many companies, including ServiceNow internally, have created walk up style technical support, especially as BYOD has gotten popular.   While ServiceNow is a powerful platform to schedule and capture the details of a task/request, it lacks a nice feature rich UI that allows users to easily schedule an appointment similar to OpenTable&#39;s view of making a restaurant reservation.   That is until now!</p>

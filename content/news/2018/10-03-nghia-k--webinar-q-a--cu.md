@@ -1,6 +1,7 @@
 ---
 title: "Webinar QA Cultivating a DevOps Culture in a ServiceNow World"
 date: 2018-10-03T00:07:59.000Z
+authors: ["Nghia K."]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d69313dfdb302f008e7c2926ca961913"
 ---
 <h4><strong>DESCRIPTION</strong></h4>

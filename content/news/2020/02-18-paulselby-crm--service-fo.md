@@ -1,6 +1,7 @@
 ---
 title: "CRM service for a bygone era"
 date: 2020-02-17T07:07:32.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7ff3f541dbc388dc13b5fb243996195f"
 ---
 

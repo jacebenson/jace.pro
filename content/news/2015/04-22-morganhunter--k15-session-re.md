@@ -1,6 +1,7 @@
 ---
 title: "K Session Review Fired up about Financial Management"
 date: 2015-04-22T02:31:29.000Z
+authors: ["morganhunter"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=87ad66a9dbd0dbc01dcaf3231f961906"
 ---
 <p><span style="font-size: 12pt;">Presenter: <a title="" _jive_internal="true" href="/community?id=community_user_profile&user=44a0926ddb581fc09c9ffb651f961913">Fran Fernandez</a>, <span style="color: #666666; font-family: arial, sans-serif;">Senior Product Manager ServiceNow</span></span></p><p><span style="font-size: 12pt;">Session title: Align Business Needs and Investment with Financial Management</span></p><p></p><p><span style="font-size: 12pt;">In Fran's presentation today (Align Business Needs and Investment with Financial Management) he leads with a classic CIO challenge; how do I cut costs, and maintain quality, while simultaneously increasing investment in key areas, so that I don't get fired? Getting fired may seem like an extreme outcome to the problem, but according to Larry Bonfante at CIO Insights:</span></p><pre __jive_macro_name="quote" class="jive_text_macro jive_macro_quote">

@@ -1,6 +1,7 @@
 ---
 title: "TechNow Ep   Explore the Madrid Platform Features"
 date: 2019-01-18T21:23:41.000Z
+authors: ["Chuck Tomasi"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e5fb2ac6db8baf409a64e15b8a961973"
 ---
 <p><img class="community_image_fullscreen" style="float: left; margin-right: 8px;" src="https://community.servicenow.com/3e1d4b52dbdc3fc45129a851ca96192a.iix" width="143" height="111" />The focus of ServiceNow&#39;s Madrid release is delivering an intuitive and intelligent experience for everyday work. Users get a better experience with Mobile Studio and enhancements to Service Portal. Agents get a modern, intuitive experience with Agent Workspace. Developers and administrators improve their experience with enhancements made to Flow Designer, IntegrationHub, and REST APIs. Join Chuck Tomasi, Kreg Steppe, and Stacey Bailey as they take a look at each one of the platform changes in Madrid and show you why you&#39;ll be eager to upgrade.</p>

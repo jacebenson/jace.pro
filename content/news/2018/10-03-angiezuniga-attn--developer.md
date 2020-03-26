@@ -1,6 +1,7 @@
 ---
 title: "Attn Developers and DevelopersatHeart  Join us for lunch TODAY "
 date: 2018-10-02T19:27:52.000Z
+authors: ["angiezuniga"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=4b739e5fdbb06b4067a72926ca9619cb"
 ---
 <p>If you don&#39;t have plans for lunch today, plan to head over to <strong>El Big Bad, 419 Travis Street, Houston, TX 77002</strong> &#64; 11:30 am for free food and a brief, eye-opening presentation by Lauren McManamon, Solution Consultant at ServiceNow. </p>

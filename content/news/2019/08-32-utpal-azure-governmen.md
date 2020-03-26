@@ -1,6 +1,7 @@
 ---
 title: "Azure Government and Azure National Cloud region support for Cloud Management and Cloud Discovery"
 date: 2019-09-01T00:07:17.000Z
+authors: ["Utpal"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=7edc4aaadba7bb481cd8a345ca9619f0"
 ---
 <p>This blog post applies to Madrid release and above.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Developing a multilingual chatbot for ServiceNow using AI and NLP"
 date: 2017-10-16T20:57:05.000Z
+authors: ["danturchin-astound"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=76dd2ae9dbd0dbc01dcaf3231f9619ed"
 ---
 <p>Join the <a title="ww.meetup.com/The-Future-of-AI-in-IT/" href="https://www.meetup.com/The-Future-of-AI-in-IT/">"Future of AI in IT"</a> meetup for an event where we'll develop a multi-lingual chatbot integrated with ServiceNow and Neva using NLP in an hour. </p><p></p><p>The chatbot can be used to automate routine service requests like password resets and system access.</p><p></p><p>Bot expert <a title="ww.codementor.io/ashish1dev" href="https://www.codementor.io/ashish1dev">Ashish Kumar</a> will demonstrate how to use Google Translate APIs plus Slack using Neva NLP and AI plus ServiceNow for workflow and incident management.</p><p></p><p>Register here: <a href="https://www.meetup.com/The-Future-of-AI-in-IT/events/243966978/" title="https://www.meetup.com/The-Future-of-AI-in-IT/events/243966978/">Developing a multi-lingual chatbot for IT support using NLP - The Future of AI in IT (Palo Alto, CA) - Meetup</a> </p><p></p><p>Details:</p><p></p><ul><li>Date: Thursday, October 26</li><li>Time: noon EST</li><li>Location: live voice and video streaming or Menlo Park, CA</li><li>Duration: 60 minutes</li><li>Cost: Free (RSVP required)</li></ul><p></p><p><img  alt="multi-lingual chat.png" class="image-1 jive-image" src="23d2014edbd01b04ed6af3231f9619d9.iix" style="width: 620px; height: 326px;"/></p>

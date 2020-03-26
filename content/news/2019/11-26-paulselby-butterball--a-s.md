@@ -1,6 +1,7 @@
 ---
 title: "Butterball a study in customer service experience and success"
 date: 2019-11-25T23:13:55.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=78aba41edb9908d4190dfb24399619bc"
 ---
 <p><img class="wp-image-4271" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2019/11/turkey-218742.jpg" alt="" width="361" height="234" align="left" /></p>

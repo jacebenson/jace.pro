@@ -1,6 +1,7 @@
 ---
 title: "Looking for a customer to host the next Central PA SNUG"
 date: 2019-01-15T21:22:44.000Z
+authors: ["caterine.alvarenga@servicenow"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2afecb01db4b2f00f21f5583ca9619c4"
 ---
 <p>Hello Central PA Community Members,</p>

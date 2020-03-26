@@ -1,6 +1,7 @@
 ---
 title: "The Enterprise Cloudcast Knowledge CreatorCon and Keynote Insights"
 date: 2017-04-26T00:29:45.000Z
+authors: ["allan.leinwand"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=74aca225dbd0dbc01dcaf3231f96191b"
 ---
 <p style="font-family: arial, sans-serif; color: #666666;">We're just a few short weeks away from Knowledge17 in Orlando and I hope to see all of you there! I wanted to share the latest Enterprise Cloudcast that gives you a brief preview into some exciting parts of the event. You can find this podcast here:</p><p></p><p style="font-family: arial, sans-serif; color: #666666;"><a title="The Enterprise Cloudcast: Episode 8: Knowledge 17, CreatorCon and Keynote Insights" __default_attr="6686" __jive_macro_name="blogpost" class="jive_macro jive_macro_blogpost" data-orig-content="The Enterprise Cloudcast: Episode 8: Knowledge 17, CreatorCon and Keynote Insights" data-renderedposition="73_8_558_16" href="/community?id=community_blog&sys_id=d55e6aaddbd0dbc01dcaf3231f961919">The Enterprise Cloudcast: Episode 8: Knowledge 17, CreatorCon and Keynote Insights</a></p><p></p><p style="font-family: arial, sans-serif; color: #666666;">I hope you enjoy this podcast and see you in Orlando!</p>

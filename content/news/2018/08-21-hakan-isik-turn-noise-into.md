@@ -1,6 +1,7 @@
 ---
 title: "Turn Noise into Actionable Insight to Answer Your Questions"
 date: 2018-08-20T22:48:25.000Z
+authors: ["Hakan Isik"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e505a529db84230467a72926ca9619ec"
 ---
 <p style="margin: 0in; font-size: 14.0pt;"><span style="font-weight: bold;">Answers make the world go around</span></p>

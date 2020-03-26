@@ -1,6 +1,7 @@
 ---
 title: "Indianapolis Software Asset Management Lunch  Learn Register Today"
 date: 2018-06-07T20:08:50.000Z
+authors: ["david.foradori"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d6da7fa5dbe2df405129a851ca961983"
 ---
 <p>Hello Indiana SNUG Members,</p>

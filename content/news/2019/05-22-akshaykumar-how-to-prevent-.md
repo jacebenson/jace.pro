@@ -1,6 +1,7 @@
 ---
 title: "How to Prevent Values of Variables not Displaying on List and Reports on Madrid"
 date: 2019-05-21T10:04:40.000Z
+authors: ["akshaykumar"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e9d9b1e1dbadff80f7fca851ca9619e1"
 ---
 <p>After an upgrade to Madrid, if you have an issue with values of variables are not displayed on list or reports. A few variables are not shown in report results though there is valid data for these variables. Read On.</p>

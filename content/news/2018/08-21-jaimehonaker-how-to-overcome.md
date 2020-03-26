@@ -1,6 +1,7 @@
 ---
 title: "How to Overcome  Obstacles to Content Creation for your Knowledge Base "
 date: 2018-08-20T23:55:56.000Z
+authors: ["jaimehonaker"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=767475a9db4427008e7c2926ca961954"
 ---
 <p>When someone says they don’t create content, does it leave you feeling like this?</p>

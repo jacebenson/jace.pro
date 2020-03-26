@@ -1,6 +1,7 @@
 ---
 title: "UI action to open a form in a new window"
 date: 2014-03-13T22:32:40.000Z
+authors: ["Brian Arndt"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=e3cce265dbd0dbc01dcaf3231f961956"
 ---
 <p>I've long been waiting for a ServiceNow platform feature to allow me, when looking at the form view of an existing record in the content frame of the standard user interface, to open the form in its own window. The need typically occurs when I want to look up some related piece of information and I need to navigate away from the current record but want to keep it close at hand.</p><p></p><p>In lieu of a ServiceNow feature, I created my own UI action.</p><p></p><p>Name: Pop Out (or whatever you want to call it)</p><p>Table: Global</p><p>Order: -2,000 (or wherever you want to put it)</p><p>Client: true</p><p>Form button: true</p><p>Show update: true</p><p>Hint: Open this record in a new window</p><p>Onclick: popOutLink()</p><p>Condition: none (unless you want it only available for certain users)</p><p></p><pre __default_attr="javascript" __jive_macro_name="code" class="jive_text_macro jive_macro_code _jivemacro_uid_13947283358514779" jivemacro_uid="_13947283358514779" modifiedtitle="true">

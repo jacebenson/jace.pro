@@ -1,6 +1,7 @@
 ---
 title: "How ServiceNow IT Workflows  HR Solutions Drive a Truly Great Employee Experience"
 date: 2019-06-04T01:46:30.000Z
+authors: ["sremerson"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=d01e88cadbfdff00e0e80b55ca961902"
 ---
 <p><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt;">When you hear the words “employee experience”, what comes to mind? Most people I talk to about this think in terms of the Human Resources perspective – culture, benefits, perks, role responsibilities, etc. It’s true that all of these things contribute to creating an overall positive experience at work, but there’s a foundational area that&#39;s needed to deliver a truly great employee experience – IT. At ServiceNow, our purpose is straightforward - We make the world of work, work better for people. We do this by offering customers a powerful workflow platform underpinned by a common data model and machine learning. This trifecta unlocks productivity and creates great experiences across employee, customer and IT workflows.</span></p>

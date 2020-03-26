@@ -1,6 +1,7 @@
 ---
 title: "Easy steps to make your portals SEO friendly"
 date: 2020-02-26T12:36:26.000Z
+authors: ["Divya Balasubramanian"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ad959508db130c906064eeb5ca961901"
 ---
 <p><span style="font-family: helvetica; font-size: 12pt;">Search Engine Optimization (SEO) is the science behind optimizing a website’s content so that the search engines are more likely to show it as a top result for relevant keyword searches. ServiceNow offers OOTB capabilities to support customers in making their portal SEO friendly.  We believe that many of our customers are aware that their users rely on organic search engines to surface customer-focused and detailed help content to address their issues. So, to help customers setup their portal in a way they can get the relevant help information easier and quicker, some simple configuration and customization steps have been listed below.</span></p>

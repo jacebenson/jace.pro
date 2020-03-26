@@ -1,6 +1,7 @@
 ---
 title: "Contests at Knowledge"
 date: 2018-05-03T03:31:45.000Z
+authors: ["natalyaco"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=6bf680d2db79d3807b337a9e0f961915"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="7fe68416db79d3807b337a9e0f961921.iix" width="609" height="292" /></p>

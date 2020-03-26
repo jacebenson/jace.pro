@@ -1,6 +1,7 @@
 ---
 title: "Now Available Configuration Management and CMDB for Dummies Book"
 date: 2019-04-16T20:47:46.000Z
+authors: ["Lisa Latour"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=9c6df39edb30fb4823f4a345ca96194a"
 ---
 <p><img style="float: right; margin-left: 10px;" src="https://community.servicenow.com/72cc7f1adb30fb4823f4a345ca9619a8.iix" width="290" height="418" /><strong>Come check it out.. </strong></p>

@@ -1,6 +1,7 @@
 ---
 title: "ITSM to ITSM PRO Evolution Why What"
 date: 2020-02-26T06:35:20.000Z
+authors: ["Ankit K"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=33e24880db5bc850d58ea345ca96190d"
 ---
 <h2><strong>Welcome to ITSM PRO! The journey starts here...</strong></h2>

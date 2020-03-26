@@ -1,6 +1,7 @@
 ---
 title: "New York and Scoped Applications  some new features"
 date: 2019-11-01T03:16:40.000Z
+authors: ["coryseering"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ef21c1d21bf04c507a5933f2cd4bcb34"
 ---
 <div>

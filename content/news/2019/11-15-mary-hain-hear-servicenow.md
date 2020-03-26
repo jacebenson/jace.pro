@@ -1,6 +1,7 @@
 ---
 title: "Hear ServiceNow IT share is ramping up employee selfservice to improve productivity and provide better service"
 date: 2019-11-14T22:58:55.000Z
+authors: ["Mary Hain"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=adbebba2db0988d02be0a851ca96196f"
 ---
 <p style="text-align: center;"><img style="max-width: 100%; max-height: 480px;" src="https://community.servicenow.com/8b5e372edbc588d02be0a851ca9619be.iix" width="435" height="208" /></p>

@@ -1,7 +1,8 @@
 ---
 title: "Covid and Knowledge  Update for SNUG Members"
-date: 2020-03-19T02:30:14.000Z
-link: "https://community.servicenow.com/community?id=community_blog&sys_id=f28b64031b2b8094d01143f6fe4bcb9b"
+date: 2020-03-19T01:08:07.000Z
+authors: ["tracyo'brien"]
+link: "https://community.servicenow.com/community?id=community_blog&sys_id=fbb810871b238094d01143f6fe4bcb9b"
 ---
 <p>Dear SNUG Members,</p>
 <p>At ServiceNow, our mission is to make the world of work, work better for people. As you probably imagine, the way people work has changed significantly over the past several days and weeks as organizations have adjusted to a new workplace reality in response to the COVID-19 virus.  </p>

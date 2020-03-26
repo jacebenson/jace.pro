@@ -1,6 +1,7 @@
 ---
 title: ""
 date: 2019-11-25T07:28:37.000Z
+authors: ["Toru Inoue"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1943d54edb154c94feb1a851ca961997"
 ---
 <p><em>※本記事は、ServiceNowのパートナー様より寄稿いただいたものをServiceNow社員が代理で投稿しています</em></p>

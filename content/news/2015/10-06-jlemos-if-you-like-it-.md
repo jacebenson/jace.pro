@@ -1,6 +1,7 @@
 ---
 title: "If you like it then you shouldve put an ACL on it"
 date: 2015-10-06T04:26:40.000Z
+authors: ["jlemos"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=40fd622ddbd0dbc01dcaf3231f9619c1"
 ---
 <p>Despite Beyonce&#39;s advice to protect what you love with a ring, ServiceNow recommends ACLs to secure your second love...your data. The ACLs we are referring to are ServiceNow <a title="ki.servicenow.com/index.php?title&#61;Using_Access_Control_Rules" href="http://wiki.servicenow.com/index.php?title&#61;Using_Access_Control_Rules" rel="nofollow">Access Control List</a> rules that allow and deny access to data and objects in your instance.</p>

@@ -1,6 +1,7 @@
 ---
 title: "Good to Know How Knowledge Management is avoiding Words copypaste problems"
 date: 2019-09-26T15:44:51.000Z
+authors: ["Justin Bakker"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1c331a72db008854d82ffb243996196c"
 ---
 <div style="line-height: 1.8;">

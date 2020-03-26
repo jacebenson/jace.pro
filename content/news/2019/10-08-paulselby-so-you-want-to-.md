@@ -1,6 +1,7 @@
 ---
 title: "So you want to use a bot in customer service"
 date: 2019-10-07T20:48:41.000Z
+authors: ["paulselby"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=1e32ccee1b5cc450fff162c4bd4bcb43"
 ---
 <p><img class="wp-image-3320" style="padding: 5 px;" src="https://insightsincustomerservice.files.wordpress.com/2018/09/chatbot-3589528.jpg?w&#61;840" alt="" width="322" height="277" align="left" /></p>

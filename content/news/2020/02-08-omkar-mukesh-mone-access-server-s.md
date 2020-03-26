@@ -1,6 +1,7 @@
 ---
 title: "Access Server Side variable directly in the script tag of HTML in widget"
 date: 2020-02-07T16:10:34.000Z
+authors: ["Omkar Mukesh Mone"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=2c6094c6db3684d82be0a851ca961947"
 ---
 <p>All,</p>

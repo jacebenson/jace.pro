@@ -1,6 +1,7 @@
 ---
 title: "How VividCharts Helps Radiology Partners Make Sense of Their ServiceNow Data"
 date: 2018-06-28T21:42:10.000Z
+authors: ["VividCharts"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=5e99d4a8dbc3df040be6a345ca961910"
 ---
 <p><strong>The Customer</strong></p>

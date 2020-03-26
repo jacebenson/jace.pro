@@ -1,6 +1,7 @@
 ---
 title: "Check Out the Kingston Release Video for HRSD"
 date: 2018-03-16T19:58:15.000Z
+authors: ["juliegardiner"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=167cd40bdb301b80852c7a9e0f9619b3"
 ---
 <h2>Interested in the latest product features for the Kingston release of HR Service Delivery?</h2>

@@ -1,6 +1,7 @@
 ---
 title: "Leveraging Hierarchies in Performance Analytics  Office Hours  Nov  Recap"
 date: 2019-11-21T06:23:12.000Z
+authors: ["Adam Stout"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=58fd1c78dbddc094d58ea345ca961903"
 ---
 <p>During the <a title="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" href="https://community.servicenow.com/community?id&#61;community_event&amp;sys_id&#61;169b4b61db682f8ca39a0b55ca9619a7" rel="nofollow">Performance Analytics and Reporting Office Hours</a> on November 20th, we covered a quick introduction into how to leverage hierarchies in Performance Analytics.</p>

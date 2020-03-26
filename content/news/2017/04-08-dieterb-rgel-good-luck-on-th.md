@@ -1,6 +1,7 @@
 ---
 title: "Good Luck on the journey SNUG DE"
 date: 2017-04-07T15:19:22.000Z
+authors: ["dieterbürgel"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=332de6e5dbd0dbc01dcaf3231f9619c7"
 ---
 <p><em>Hallo Zusammen,   </em></p><p></p><p><em>das gestrige SNUG DE Meeting in Köln war aus meiner Sicht erneut wertvoll und erfolgreich. </em></p><p></p><p><em>Die Community wächst und ich hoffe, dass dieser Trend anhält. </em></p><p></p><p><em>Der gestrige Vortrag aus Kundenperspektive war ein sehr gutes Beispiel wie es über eine Information auch zu einer </em></p><p><em>sehr guten und interessanten Diskussion kommt. </em></p><p></p><p><em>Bitte behalten sie dies bei und stellen ihr Wissen den Kolleginnen weiterhin auch so zur Verfügung.</em></p><p></p><p><em>Ich persönlich möchte mich verabschieden als LEAD, die zwei Jahre haben mir persönlich Spaß gemacht und haben mein Netzwerk erweitert. </em></p><p></p><p><em>Meine Nachfolgerin seitens der Firma DM steht fest und wird sich sicher sehr bald persönlich vorstellen. </em></p><p></p><p><em>Ich werde aber im Netzwerk erhalten bleiben und sicher auch Teilnehmer weiterer Veranstaltungen sein. </em></p><p></p><p><em>In diesem Sinne wünsche ich alles erdenklich Gute. </em></p><p></p><p><em>Dieter Bürgel</em>   </p>

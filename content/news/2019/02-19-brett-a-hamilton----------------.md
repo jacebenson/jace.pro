@@ -1,6 +1,7 @@
 ---
 title: "　 Now"
 date: 2019-02-18T06:05:47.000Z
+authors: ["Brett A Hamilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=42238333db6fa300d58ea345ca9619af"
 ---
 <p>本ブログで、<span lang="EN-US">2018</span>年<span lang="EN-US">9</span>月に東京で開催したハッカソンに参加した各チームが作成したアプリケーションを数回にわたりご紹介します。ハッカソンに関する投稿の一覧をご覧になりたい場合は、<span lang="EN-US"><a href="community?id&#61;community_topic&amp;sys_id&#61;08fbad3bdba4e7440be6a345ca9619b4" rel="nofollow">Hackathon Japan</a></span>をクリックしてください</p>

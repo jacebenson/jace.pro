@@ -1,6 +1,7 @@
 ---
 title: "Technology Partner Technical Resources"
 date: 2017-11-01T20:16:24.000Z
+authors: ["Brad Tilton"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=546e2eaddbd0dbc01dcaf3231f9619ee"
 ---
 <table style="border: 1px solid #c6c6c6; width: 100%;" border="1"><tbody><tr><th style="text-align: left; background-color: #f2f2f2; color: #505050; padding: 6px;" valign="middle"><strong>TPP Resources</strong></th><th style="text-align: left; background-color: #f2f2f2; color: #505050; padding: 6px;" valign="middle"><strong>General Technical Resources</strong></th></tr><tr><td style="padding: 6px;" valign="top">

@@ -1,6 +1,7 @@
 ---
 title: "Search for Duplicates  Delete Based on  Columns"
 date: 2019-06-28T20:56:20.000Z
+authors: ["Ankur Bawiskar"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=656b373ddb96ff401cd8a345ca961958"
 ---
 <p>You must have seen many articles on community informing about how to find duplicates in particular table with single column.</p>

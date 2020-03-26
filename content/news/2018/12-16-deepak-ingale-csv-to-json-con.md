@@ -1,6 +1,7 @@
 ---
 title: "CSV to JSON Converter"
 date: 2018-12-15T14:11:41.000Z
+authors: ["Deepak Ingale"]
 link: "https://community.servicenow.com/community?id=community_blog&sys_id=ca038687db56a7009a64e15b8a96193e"
 ---
 <p>Many a times we require to convert a CSV formatted data to JSON. This CSV data can come from CSV file inside ServiceNow or it may come from WebService response as well.</p>
