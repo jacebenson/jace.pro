@@ -68,7 +68,7 @@ var getNowQuestions = function(start, callback){
                         if (err) {
                             throw err;
                         }
-                        console.log(data);
+                        //console.log(data);
                         var tempData = JSON.parse(data);
                         var newArr = tempData.concat(outputArr);
                         var uniqueArray = newArr.filter(function(item, pos) {
