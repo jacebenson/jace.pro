@@ -50,7 +50,8 @@ let feeds = [
     { "title": "WomenNow", "type": "Blog", "url": "https://womennow.dev/?feed=rss2" },
     { "title": "Pathway", "type": "Blog", "url": "https://pathwayscg.com/feed/" },
     { "title": "Man Myth and Legend", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCT3ONLZwnTIfmVqRiDsRMVA" },
-    { "title": "PhilGoesDeep", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCTmjY6H5roYkGQmwAQAcgQ"}
+    { "title": "PhilGoesDeep", "type": "YouTube", "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCTmjY6H5roYkGQmwAQAcgQ"},
+    { "title": "Dylan Lindgren", "type": "Blog", "url": "https://www.dylanlindgren.com/feed/"}
     //{ "title": "Reddit", "type": "Questions", "url": "http://reddit.com/r/servicenow/.rss" },
     //{ "title": "StackOverflow", "type": "Questions", "url": "https://stackoverflow.com/feeds/tag?tagnames=servicenow&amp;sort=newest" },
 ];

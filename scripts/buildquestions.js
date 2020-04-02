@@ -35,7 +35,7 @@ var getNowQuestions = function(start, callback){
     
         res.on("end", function () {
             var body = Buffer.concat(chunks);
-            console.log(body.toString());
+            //console.log(body.toString());
             var responseObj = JSON.parse(body);
             
             console.log((start,'/',responseObj.result.nextRecord), 'ServiceNow Community')
