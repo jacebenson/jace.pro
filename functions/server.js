@@ -3,7 +3,7 @@ const express = require('express');
 const serverless = require('serverless-http');
 const app = express();
 const bodyParser = require('body-parser');
-const feeds = require('../data/feeds.json');
+const feeds = require('../feeds');
 
 const router = express.Router();
 router.get('/', (req, res) => {
