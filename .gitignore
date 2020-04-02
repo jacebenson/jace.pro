@@ -108,4 +108,4 @@ typings/
 
 # Local Netlify folder
 .netlify
-/data/feeds.json
+#/data/feeds.json
