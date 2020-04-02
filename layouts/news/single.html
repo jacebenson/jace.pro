@@ -41,7 +41,12 @@
           var type = document.createElement('td');
           type.innerText = item.category;
           var site = document.createElement('td');
-          site.innerText = item.site;
+          if(item.author){
+            site.innerText = item.site + ' - ' + item.author;
+          } else {
+            site.innerText = item.site;
+          }
+
           var link = document.createElement('td');
           link.innerHTML = '<a href="' + item.link + '" target="_blank">' + item.title + '</a>';
           tr.appendChild(date);
