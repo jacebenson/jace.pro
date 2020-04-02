@@ -5,7 +5,7 @@
 
     <h1 class="hero-title">
       All ServiceNow news updated on <span>
-        <a href="https://app.netlify.com/sites/flamboyant-sinoussi-bbae45/deploys">{{ dateFormat "2006-01-02" now }}</a>
+        <a href="https://app.netlify.com/sites/zen-jones-6f4442/deploys">{{ dateFormat "2006-01-02" now }}</a>
       </span>
     </h1>
     <script>
@@ -13,7 +13,7 @@
       let params = (new URL(document.location)).searchParams;
       let start = params.get('start'); // is the string "Jonathan Smith".
       let end = params.get('end');
-      var url = "/.netlify/functions/server";
+      var url = "https://zen-jones-6f4442.netlify.com/.netlify/functions/server";
       if(start && !end){
         url = url + '?start=' + start;
       }
