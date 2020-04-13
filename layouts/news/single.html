@@ -14,12 +14,8 @@
       let start = params.get('start'); // is the string "Jonathan Smith".
       let end = params.get('end');
       var url = "https://zen-jones-6f4442.netlify.com/.netlify/functions/server";
-      if(start && !end){
-        url = url + '?start=' + start;
-      }
-      if(start && end){
-        url = url + '?start=' + start + '&end=' + end;
-      }
+      var myURL = new URL(document.URL);
+      url += myURL.search;
       xmlhttp.onreadystatechange = function () {
         if (this.readyState == 4 && this.status == 200) {
           var responseObj = JSON.parse(this.responseText);
