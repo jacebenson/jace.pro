@@ -1,100 +1,139 @@
 {{- define "main" -}}
-{{ $feeds := site.Data.feeds }}
-<div class="container">
-  <section id="news" class="home-section wg-pages">
+  {{ $feeds := site.Data.feeds }}
+  <div class="container">
+    <section id="news" class="home-section wg-pages">
 
-    <h1 class="hero-title">
+      <h1 class="hero-title">
       All ServiceNow news updated on <span>
-        <a href="https://app.netlify.com/sites/zen-jones-6f4442/deploys">{{ dateFormat "2006-01-02" now }}</a>
-      </span>
-    </h1>
-    <script>
-      var xmlhttp = new XMLHttpRequest();
-      let params = (new URL(document.location)).searchParams;
-      let start = params.get('start'); // is the string "Jonathan Smith".
-      let end = params.get('end');
-      var url = "https://zen-jones-6f4442.netlify.com/.netlify/functions/server";
-      var myURL = new URL(document.URL);
-      url += myURL.search;
-      xmlhttp.onreadystatechange = function () {
-        if (this.readyState == 4 && this.status == 200) {
-          var responseObj = JSON.parse(this.responseText);
-          parseResponse(responseObj);
-        }
-      };
-      xmlhttp.open("GET", url, true);
-      xmlhttp.send();
-
-      function parseResponse(responseObj) {
-        console.log(responseObj);
-        var table = document.getElementById('newsTable');
-        var news = responseObj.filteredFeeds;
-        news.forEach(function (item) {
-          var tr = document.createElement('tr');
-          var date = document.createElement('td');
-          var d = new Date(item.date)
-          date.innerText = d.toLocaleDateString();
-          var type = document.createElement('td');
-          type.innerText = item.category;
-          var site = document.createElement('td');
-          if(item.author){
-            site.innerText = item.site + ' - ' + item.author;
-          } else {
-            site.innerText = item.site;
+          <a href="https://app.netlify.com/sites/zen-jones-6f4442/deploys">{{ dateFormat "2006-01-02" now }}</a>
+        </span>
+      </h1>
+      <script>
+      document.addEventListener("DOMContentLoaded", function(event) { 
+      document.getElementById('submitquery').addEventListener('click', function() {
+          //event.preventDefault(); // To prevent following the link (optional)
+          var form = {};
+          form.date = document.getElementById('date').value
+          form.search = document.getElementById('searchtext').value
+          form.finalQuery = [];
+          if(form.date.length === 4){
+            form.dateQuery = 'start='+form.date + '-01-01&end=' + form.date + '-12-31';
+            form.finalQuery.push(form.dateQuery);
+          } else if(form.date.length>4 && form.date.indexOf('-')>-1){
+            form.dateQuery = 'start='+form.date.split('-')[0] + '-01-01&end=' + form.date.split('-')[1] + '-12-31';
+            form.finalQuery.push(form.dateQuery);
           }
-
-          var link = document.createElement('td');
-          link.innerHTML = '<a href="' + item.link + '" target="_blank">' + item.title + '</a>';
-          tr.appendChild(date);
-          tr.appendChild(type);
-          tr.appendChild(site);
-          tr.appendChild(link);
-          table.appendChild(tr);
+          if(form.search.length>0){
+            form.searchQuery = 'text=' + form.search;
+            form.finalQuery.push(form.searchQuery);
+          }
+          console.log(form);
+          window.location.href = './?' + form.finalQuery.join('&');
         });
-        var navigationBar = document.createElement('div');
-        navigationBar.setAttribute('class','row');
-        var previous = document.createElement('a');
-        previous.setAttribute('id','previous');
-        previous.innerHTML ='Previous';
-        var previousDate;
-        if(start){
-          previousDate = new Date(start);
-        } else {
-          previousDate = new Date()
+
+      });
+        
+        var xmlhttp = new XMLHttpRequest();
+        let params = (new URL(document.location)).searchParams;
+        let start = params.get('start'); // is the string "Jonathan Smith".
+        let end = params.get('end');
+        var url = "https://zen-jones-6f4442.netlify.com/.netlify/functions/server";
+        if (start && !end) {
+          url = url + '?start=' + start;
         }
-        previousDate.setDate(previousDate.getDate()-30)
-        previous.setAttribute('href', '/news?start=' + previousDate.toISOString().split('T')[0]);
+        if (start && end) {
+          url = url + '?start=' + start + '&end=' + end;
+        }
+        xmlhttp.onreadystatechange = function () {
+          if (this.readyState == 4 && this.status == 200) {
+            var responseObj = JSON.parse(this.responseText);
+            parseResponse(responseObj);
+          }
+        };
+        xmlhttp.open("GET", url, true);
+        xmlhttp.send();
 
-        var next = document.createElement('a');
-        var nextDate = new Date(previousDate.toISOString());
-        nextDate.setDate(nextDate.getDate()+60);
-        next.setAttribute('id','next');
-        next.innerHTML = 'Next';
-        next.setAttribute('href', '/news?start=' + nextDate.toISOString().split('T')[0]);
+        function parseResponse(responseObj) {
+          console.log(responseObj);
+          var table = document.getElementById('newsTable');
+          var news = responseObj.filteredFeeds;
+          news.forEach(function (item) {
+            var tr = document.createElement('tr');
+            var date = document.createElement('td');
+            var d = new Date(item.date)
+            date.innerText = d.toLocaleDateString();
+            var type = document.createElement('td');
+            type.innerText = item.category;
+            var site = document.createElement('td');
+            if (item.author) {
+              site.innerText = item.site + ' - ' + item.author;
+            } else {
+              site.innerText = item.site;
+            }
 
-        navigationBar.appendChild(previous);
-        navigationBar.appendChild(next);
-        var newsSection = document.getElementById('news');
-        newsSection.appendChild(navigationBar);
-      }
-    </script>
-    <table id="newsTable">
-      <thead>
-        <td>Date</td>
-        <td>Type</td>
-        <td>Site</td>
-        <td>Link</td>
-      </thead>
-      <tr id="startRow">
-        <td colspan="4">
+            var link = document.createElement('td');
+            link.innerHTML = '<a href="' + item.link + '" target="_blank">' + item.title + '</a>';
+            tr.appendChild(date);
+            tr.appendChild(type);
+            tr.appendChild(site);
+            tr.appendChild(link);
+            table.appendChild(tr);
+          });
+          var navigationBar = document.createElement('div');
+          navigationBar.setAttribute('class', 'row');
+          var previous = document.createElement('a');
+          previous.setAttribute('id', 'previous');
+          previous.innerHTML = 'Previous';
+          var previousDate;
+          if (start) {
+            previousDate = new Date(start);
+          } else {
+            previousDate = new Date()
+          }
+          previousDate.setDate(previousDate.getDate() - 30)
+          previous.setAttribute('href', '/news?start=' + previousDate.toISOString().split('T')[0]);
+
+          var next = document.createElement('a');
+          var nextDate = new Date(previousDate.toISOString());
+          nextDate.setDate(nextDate.getDate() + 60);
+          next.setAttribute('id', 'next');
+          next.innerHTML = 'Next';
+          next.setAttribute('href', '/news?start=' + nextDate.toISOString().split('T')[0]);
+
+          navigationBar.appendChild(previous);
+          navigationBar.appendChild(next);
+          var newsSection = document.getElementById('news');
+          newsSection.appendChild(navigationBar);
+        }
+      </script>
+      <form class="form-inline">
+        <label class="sr-only" for="date">Year</label>
+        <input type="text" class="form-control mb-2 mr-sm-2 col-md-2" id="date" placeholder="2020 or 2019-2020">
+
+        <label class="sr-only" for="searchtext">Search</label>
+        <div class="input-group mb-2 mr-sm-2 col-md-8">
+          <input type="text" class="form-control" id="searchtext" placeholder="Search (looks for title or site containing this)">
+        </div>
+
+        <button type="button" id="submitquery" class="btn btn-primary mb-2">Submit</button>
+      </form>
+
+      <table id="newsTable">
+        <thead>
+          <td>Date</td>
+          <td>Type</td>
+          <td>Site</td>
+          <td>Link</td>
+        </thead>
+        <tr id="startRow">
+          <td colspan="4">
           Is your content missing here? Open a
           <a target="_blank" href="https://github.com/jacebenson/jace.pro/issues/new?template=add_news.md">issue</a>.
         </td>
-      </tr>
+        </tr>
+      </table>
 
-    </table>
+    </section>
 
-  </section>
-
-</div>
+  </div>
 {{- end -}}
