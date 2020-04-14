@@ -10,6 +10,14 @@
       </h1>
       <script>
       document.addEventListener("DOMContentLoaded", function(event) { 
+      var urlParam = new URL(document.URL);
+      urlParam = new URLSearchParams(urlParam.search)
+      if (urlParam.has('text')){
+        document.getElementById('searchtext').value = urlParam.get('text');
+      }
+      if(urlParam.has('start') && urlParam.has('end')){
+        document.getElementById('date').value = urlParam.get('start').substring(0,5) + urlParam.get('end').substring(0,4)
+      }
       document.getElementById('submitquery').addEventListener('click', function() {
           //event.preventDefault(); // To prevent following the link (optional)
           var form = {};
@@ -53,6 +61,9 @@
           console.log(responseObj);
           var table = document.getElementById('newsTable');
           var news = responseObj.filteredFeeds;
+          if(news.length === 0){
+
+          }
           news.forEach(function (item) {
             var tr = document.createElement('tr');
             var date = document.createElement('td');
