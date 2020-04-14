@@ -38,7 +38,14 @@
           console.log(form);
           window.location.href = './?' + form.finalQuery.join('&');
       }
-      document.querySelector('#txtSearch').addEventListener('keypress', function (e) {
+      document.getElementById('date').addEventListener('keypress', function (e) {
+        var key = e.which || e.keyCode;
+        if (key === 13) { // 13 is enter
+          // code for enter
+          submitForm();
+        }
+      });
+      document.getElementById('searchtext').addEventListener('keypress', function (e) {
         var key = e.which || e.keyCode;
         if (key === 13) { // 13 is enter
           // code for enter
