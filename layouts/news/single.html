@@ -18,8 +18,8 @@
       if(urlParam.has('start') && urlParam.has('end')){
         document.getElementById('date').value = urlParam.get('start').substring(0,5) + urlParam.get('end').substring(0,4)
       }
-      document.getElementById('submitquery').addEventListener('click', function() {
-          //event.preventDefault(); // To prevent following the link (optional)
+      function submitForm(){
+      //event.preventDefault(); // To prevent following the link (optional)
           var form = {};
           form.date = document.getElementById('date').value
           form.search = document.getElementById('searchtext').value
@@ -37,6 +37,16 @@
           }
           console.log(form);
           window.location.href = './?' + form.finalQuery.join('&');
+      }
+      document.querySelector('#txtSearch').addEventListener('keypress', function (e) {
+        var key = e.which || e.keyCode;
+        if (key === 13) { // 13 is enter
+          // code for enter
+          submitForm();
+        }
+      });
+      document.getElementById('submitquery').addEventListener('click', function() {
+          submitForm();
         });
 
       });
