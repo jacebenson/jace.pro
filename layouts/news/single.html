@@ -4,9 +4,7 @@
     <section id="news" class="home-section wg-pages">
 
       <h1 class="hero-title">
-      All ServiceNow news updated on <span>
-          <a href="https://app.netlify.com/sites/zen-jones-6f4442/deploys">{{ dateFormat "2006-01-02" now }}</a>
-        </span>
+      All ServiceNow news updated daily.
       </h1>
       <script>
         document.addEventListener("DOMContentLoaded", function (event) {
@@ -136,7 +134,7 @@
               tr.appendChild(link);
               table.appendChild(tr);
             });
-            var navigationBar = document.createElement('div');
+            /*var navigationBar = document.createElement('div');
             navigationBar.setAttribute('class', 'row');
             var previous = document.createElement('a');
             previous.setAttribute('id', 'previous');
@@ -161,6 +159,7 @@
             navigationBar.appendChild(next);
             var newsSection = document.getElementById('news');
             newsSection.appendChild(navigationBar);
+            */
           }
         });
       </script>
