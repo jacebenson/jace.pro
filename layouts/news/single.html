@@ -119,10 +119,12 @@
               var type = document.createElement('td');
               type.innerText = item.category;
               var site = document.createElement('td');
+              site.innerText = item.site;
+              var author = document.createElement('td');
               if (item.author) {
-                site.innerText = item.site + ' - ' + item.author;
+                author.innerText = item.author;
               } else {
-                site.innerText = item.site;
+                author.innerText = "Unknown";
               }
 
               var link = document.createElement('td');
@@ -130,6 +132,7 @@
               tr.appendChild(date);
               tr.appendChild(type);
               tr.appendChild(site);
+              tr.appendChild(author);
               tr.appendChild(link);
               table.appendChild(tr);
             });
@@ -178,6 +181,7 @@
           <td>Date</td>
           <td>Type</td>
           <td>Site</td>
+          <td>Author</td>
           <td>Link</td>
         </thead>
         <tr id="startRow">
