@@ -89,7 +89,11 @@
           var url = "https://snnews.jace.pro/.netlify/functions/server";
           var pageUrl = new URL(document.URL);
           url += pageUrl.search;
+          if(pageUrl.search){
           url += '&unique=' + new Date().toISOString();
+          }else {
+            url += '?unique=' + new Date().toISOString();
+          }
           var settings = {
             "async": true,
             "crossDomain": true,
