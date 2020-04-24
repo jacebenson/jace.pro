@@ -51,3 +51,4 @@ May the odds be ever in your favor.
 - [Preparing for K20 hackathon by Jarod Mundt](https://finite-partners.com/preparing-for-the-k20-hackathon/)
 - [2013-2018 Hackathon winners](https://jace.pro/post/2019-04-22-knowledge-hackathon-past/)
 - [Robert Fedoruk's amazing Hackathon video](https://www.youtube.com/watch?v=ctzX-ANG_Sk&feature=youtu.be)
+- [Official site](https://hacknow.service-now.com/creatorcon)
