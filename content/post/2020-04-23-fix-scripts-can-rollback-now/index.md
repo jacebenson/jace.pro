@@ -40,6 +40,7 @@ What do I mean?  Well according to [this hi article(KB0761248)](https://hi.servi
 
 | Feature                    | Background Script  | Fix Script         |
 | -------------------------- | ------------------ | ------------------ |
+| Captured in update sets    | :no_entry:         | :white_check_mark: |
 | Syntax Highlighting        | :no_entry:         | :white_check_mark: |
 | Intellisense               | :no_entry:         | :white_check_mark: |
 | Can run in the background  | :no_entry:         | :white_check_mark: |
