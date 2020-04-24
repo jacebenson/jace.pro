@@ -35,7 +35,8 @@ You might know about this [old feature called "labels"](https://www.youtube.com/
 
 How can you see this problem?  Take these steps;
 
-Steps to reproduce: 
+Steps to reproduce
+
 1. Log in to Dev
 2. Create a visual task board.
 3. Add a new Label
@@ -51,9 +52,9 @@ I opened a HI ticket ally was able for them to give me a work around.
 
 I didn't write this code, it worked for me in my tests.  It's saved some other work too, but read the code and ensure it's doing what you think it should.
 
-- [Fix Script "Make VTB Labels Inactive"](sys_script_fix_make_vtb_labels_inactive.xml)
-- [Business Rule "Make VTB Labels Inactive"](sys_script_make_vtb_labels_inactive.xml)
-- [Business Rule "Make non-VTB Labels Active"](sys_script_make_non_vtb_labels_active.xml)
+- <a href="sys_script_fix_make_vtb_labels_inactive.xml" download="sys_script_fix_make_vtb_labels_inactive.xml">Fix Script "Make VTB Labels Inactive</a>
+- <a href="sys_script_make_vtb_labels_inactive.xml" download="sys_script_make_vtb_labels_inactive.xml">Business Rule "Make VTB Labels Inactive</a>
+- <a href="sys_script_make_non_vtb_labels_active.xml" download="sys_script_make_non_vtb_labels_active.xml">Business Rule "Make non-VTB Labels Active</a>
 
 ## Further Reading
 - [HI KB0788952 - VTB Working as designed](https://hi.service-now.com/kb_view.do?sysparm_article=KB0788952)
