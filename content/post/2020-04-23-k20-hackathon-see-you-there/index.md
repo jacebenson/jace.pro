@@ -30,7 +30,7 @@ First lets go over what you'll get out of this.
 - You will learn how to build whatever it is you're building.  So if you want to try out the new now-expierence, here's your time to shine.
 - You will likely form a team and make better bonds with those on it.
 - You might win one the five categories, if you do you'll get $500 USD, or $5,000 USD for your team.
-- You may also be featured in some content sent out to people who want that kind of stuff.
+- ServiceNow may feature your work in some content sent out to people who want that kind of stuff.
 
 Now let's go over the specifics.
 
@@ -45,3 +45,9 @@ Now let's go over the specifics.
 Last year [I wrote up a detailed blog about winning hackathons](https://jace.pro/post/2019-04-22-knowledge-hackathon-past/) and reviewed all the past hackathon's I could find (2013-2018).
 
 May the odds be ever in your favor.
+
+## Further reading
+
+- [Preparing for K20 hackathon by Jarod Mundt](https://finite-partners.com/preparing-for-the-k20-hackathon/)
+- [2013-2018 Hackathon winners](https://jace.pro/post/2019-04-22-knowledge-hackathon-past/)
+- [Robert Fedoruk's amazing Hackathon video](https://www.youtube.com/watch?v=ctzX-ANG_Sk&feature=youtu.be)
