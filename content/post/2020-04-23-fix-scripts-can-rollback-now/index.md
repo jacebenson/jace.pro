@@ -38,13 +38,24 @@ What do I mean?  Well according to [this hi article(KB0761248)](https://hi.servi
 
 ## Here's what I saw
 
-| Feature                    | Background Script  | Fix Script         |
-| -------------------------- | ------------------ | ------------------ |
-| Captured in update sets    | :no_entry:         | :white_check_mark: |
-| Syntax Highlighting        | :no_entry:         | :white_check_mark: |
-| Intellisense               | :no_entry:         | :white_check_mark: |
-| Can run in the background  | :no_entry:         | :white_check_mark: |
-| Can be cancelled           | :white_check_mark: | :white_check_mark: |
-| Updates can be rolled back | :white_check_mark: | If you tell it     |
+| Feature                              | Background Script  | Fix Script         |
+| ------------------------------------ | ------------------ | ------------------ |
+| Can choose your scope at execution   | :white_check_mark: | :no_entry:         |
+| [Can run on application install][1]  | :no_entry:         | :white_check_mark: |
+| Audit                                | System Log only    | :white_check_mark: |
+| Instant Return                       | :white_check_mark: | When run in foreground |
+| Can run in the background            | :no_entry:         | :white_check_mark: |
+| Syntax Highlighting                  | :no_entry:         | :white_check_mark: |
+| Intellisense                         | :no_entry:         | :white_check_mark: |
+| Versioning                           | :no_entry:         | :white_check_mark: |
+| Can be cancelled                     | :white_check_mark: | :white_check_mark: |
+| Updates can be rolled back           | :white_check_mark: | If you tell it     |
 
 This feature is great, but why is it default unchecked?  I know it's new as of London but come on.  This makes using Fix Scripts the way to do things.  
+
+## Further Reading
+
+- Steven Bell has a post titled, "[Two Methods for Code Development](https://community.servicenow.com/community?id=community_blog&sys_id=e81eae2ddbd0dbc01dcaf3231f96194f)"
+- John Roberts writes about Fix Scripts in "[FujiForty - Get Your Fix](http://www.cavucode.com/blog/2015/4/12/fujiforty-get-your-fix)"
+
+[1]: https://community.servicenow.com/community?id=community_question&sys_id=67610b29db98dbc01dcaf3231f9619a0
