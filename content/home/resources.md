@@ -127,8 +127,10 @@ subtitle = ""
             <li><a href="http://www.snc-blog.com/" target="_blank">SNC-Blog</a></li>
             <li><a href="https://snprotips.com" target="_blank">SNProTips</a></li>
             <li><a href="https://www.servicenowelite.com/blog" target="_blank">ServiceNowElite</a></li>
+            <li><a href="https://snhackery.com" target="_blank">snhackery.com</a></li>
             <li><a href="https://github.com/jacebenson/jace.pro/issues/new?title=Add%20a%20new%20blog"
                     target="_blank">Add one here!</a></li>
+            
         </ul>
     </div>
 </div>
