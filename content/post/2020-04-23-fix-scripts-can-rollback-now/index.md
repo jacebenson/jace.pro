@@ -59,3 +59,7 @@ This feature is great, but why is it default unchecked?  I know it's new as of L
 - John Roberts writes about Fix Scripts in "[FujiForty - Get Your Fix](http://www.cavucode.com/blog/2015/4/12/fujiforty-get-your-fix)"
 
 [1]: https://community.servicenow.com/community?id=community_question&sys_id=67610b29db98dbc01dcaf3231f9619a0
+
+How long do these rollbacks last?  Well that depends on the value of the property, `glide.rollback.expiration_days`.  More about that here on this [rollback contexts doc](https://docs.servicenow.com/bundle/orlando-platform-administration/page/administer/table-administration/concept/rollback-contexts.html).
+
+Thanks Kalai for the information on the rollback contexts.

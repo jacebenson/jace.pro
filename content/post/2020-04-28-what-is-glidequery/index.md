@@ -56,10 +56,10 @@ gs.info('testGlideQuery: ' + JSON.stringify(testGlideQuery,'',' '));
 */
 ```
 
-So, yea.  That's intersteing.  Before you go and look if you can use this in your instance, you probably don't have it yet.  To get it, enable the SAM and SAAS plugings.  
+So, yea.  That's interesting.  Before you go and look if you can use this in your instance, you probably don't have it yet.  To get it, enable the SAM and SAAS plugins.  
 
 The methods are exposed and is written in a interesting way.  I suggest you check it out.
 
-This brings up the big question, is GlideRecord going away?  No.  I don't think so.  This seems to be just a wrapper to allow chainable calls to query the data.  Maybe as the Now Experience comes up this will be used more in that but I don't think so.  I think this is just a wrapper some team made to make their code look one way.  
+This brings up the big question, is GlideRecord going away?  No.  I don't think so.  This seems to be just a wrapper to allow chain-able calls to query the data.  Maybe as the Now Experience comes up this will be used more in that but I don't think so.  I think this is just a wrapper some team made to make their code look one way.  
 
-In anycase, I wanted to write this down so if anyone looks for it something comes up, because as of now, it's not written down anywhere.
+In any case, I wanted to write this down so if anyone looks for it something comes up, because as of now, it's not written down anywhere.

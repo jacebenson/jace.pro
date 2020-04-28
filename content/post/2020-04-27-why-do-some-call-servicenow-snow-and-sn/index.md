@@ -34,7 +34,7 @@ Is there a right way to shorten ServiceNow?
 
 As much as I want to say one way is right, and the other is wrong, by the results of the survey, really we should just use the full name.
 
-What do you use when refering to ServiceNow, let me know in the comments or reply to the [survey](https://twitter.com/jacebenson/status/1254853140551069702) and why.
+What do you use when referring to ServiceNow, let me know in the comments or reply to the [survey](https://twitter.com/jacebenson/status/1254853140551069702) and why.
 
 ## Further Reading
 
