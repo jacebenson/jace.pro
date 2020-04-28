@@ -32,7 +32,7 @@ As part of my getting familiar with some of the new features of Orlando, I wante
 
 ## Why might I use this?
 
-So in looking for use-case I found a community post by [Vinod].  He has a csv file that he needs to parse.  Good enough for me.  [Ankur Bawiskar] proposed a solution, but it's using some Packages call, that is not supported in scopes.  With that lets dig in.
+So in looking for use-case I found a community post by Vinod.  He has a csv file that he needs to parse.  Good enough for me.  Ankur Bawiskar proposed a solution, but it's using some Packages call, that is not supported in scopes.  With that lets dig in.
 
 I am using the [Library survey from 2011](https://catalog.data.gov/dataset/fy-2011-public-libraries-survey)  data and I'm planning to write that to an import table, then to that could be used to update Locations.
 
@@ -66,7 +66,7 @@ while (agr.next()) {
         "STABR", "FSCSKEY", "FSCS_SEQ", "LIBID", "LIBNAME", "ADDRESS", "CITY", "ZIP", "ZIP4", "CNTY", "PHONE", "C_OUT_TY", "C_MSA", "SQ_FEET", "F_SQ_FT", "L_NUM_BM", "F_BKMOB", "HOURS", "F_HOURS", "WKS_OPEN", "F_WKSOPN", "YR_SUB", "STATSTRU", "STATNAME", "STATADDR", "LONGITUD", "LATITUDE", "FIPSST", "FIPSCO", "FIPSPLAC", "CNTYPOP", "LOCALE", "CENTRACT", "CENBLOCK", "CDCODE", "MAT_CENT", "MAT_TYPE", "CBSA", "MICROF"
     ];
     // with out this, the call fails;
-    // now if you csv is not formed consistentlt yhis still fails.... so im just going to remove ,'s in quotes, then quotes.
+    // now if you csv is not formed consistently this still fails.... so im just going to remove ,'s in quotes, then quotes.
     contentArr.forEach(function (line) {
         // regex to remove commas from within `"` parts e.g. a,b,"test,test./#&"
         var regex = /"([A-Z0-9\s\.#-\/&]+),([A-Z0-9\s\.#-\/&]+)"/gm;

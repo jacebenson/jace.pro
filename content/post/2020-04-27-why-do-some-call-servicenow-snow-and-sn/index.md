@@ -1,7 +1,7 @@
 ---
 title: "How do you refer to ServiceNow?"
 subtitle: "Between ServiceNow, Snow, and SN, why do folks call it these different things?"
-summary: "This is an unsual post.  I just want to write out my thoughts on this."
+summary: "This is an unusual post.  I just want to write out my thoughts on this."
 authors: ["jace"]
 tags: []
 categories: []

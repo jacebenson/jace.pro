@@ -28,10 +28,10 @@ image:
 projects: []
 ---
 1.  Checked version of node; `node --version` it's at 12.16.1
-1.  Checked version of npm; `npm --version` it's at 6.13.4 (howver there's a upgrade to 6.14.4)
+1.  Checked version of npm; `npm --version` it's at 6.13.4 (however there's a upgrade to 6.14.4)
 1.  Checked version of now-cli; `now-cli --version` it's at 17.0.2
 1.  Created folder/repository to render a joke from joke.jace.pro
-1.  Created README.md file with aweseome contnet (thanks AAD)
+1.  Created README.md file with awesome content (thanks AAD)
 1.  Staged my commit of the update to README.md
 1.  Created Repository on Github https://github.com/jacebenson/now-joke
 1.  Added SSH Repository link

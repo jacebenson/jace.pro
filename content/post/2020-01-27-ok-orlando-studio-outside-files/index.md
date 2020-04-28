@@ -38,5 +38,5 @@ projects: []
 
 it works great., you can see the file structure there now app path is defined by root file sn_source_control.properties
 
-Then I tried editing an application file (based on the notes it wasnt clear how that works to me) there's upposed to be some... sanitization process but i guess that allows for editing of app files out of sn as well.
+Then I tried editing an application file (based on the notes it wasn't clear how that works to me) there's supposed to be some... sanitization process but i guess that allows for editing of app files out of sn as well.
 ScreenShot-2020-Jan-27-248-PM.png 

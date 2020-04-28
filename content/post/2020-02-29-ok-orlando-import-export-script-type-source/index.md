@@ -76,4 +76,4 @@ The data loader script has one input parameter, import_set_table, and the follow
 })(import_set_table);
 ```
 
-So this didn't wrok right away, but it was only because the import set table has be exist before things can work it seems.  Once that table was made it worked exactly like I thought it would.
+So this didn't work right away, but it was only because the import set table has be exist before things can work it seems.  Once that table was made it worked exactly like I thought it would.

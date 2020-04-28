@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "K20 Turned Virtual"
-subtitle: "Coronvirus strikes again"
+subtitle: "Coronavirus strikes again"
 summary: ""
 authors: ["jace"]
 tags: []
@@ -22,7 +22,7 @@ projects: []
 
 # K20 has gone digital
 
-ServiceNow just annouced it has gone digital for this event.  Below is the statement from https://knowledge.servicenow.com/faq.html#more_1
+ServiceNow just announced it has gone digital for this event.  Below is the statement from https://knowledge.servicenow.com/faq.html#more_1
 
 > Over the past few weeks, we have been closely monitoring the evolving COVID-19 pandemic. In order to protect the health and safety of our Knowledge 2020 attendees, partners, and community, we have made the decision to make Knowledge 2020 a digital community event that will launch on May 5 in place of the in-person event in Orlando, FL.
 > 
@@ -38,7 +38,7 @@ ServiceNow just annouced it has gone digital for this event.  Below is the state
 
 Which has a lot of details.
 
-## My take aways
+## My takeaways
 
 It seems that ServiceNow has taken a page from Google's book here.  That's fine.  Great even.  No reason to rethink some of these decisions.
 
@@ -48,11 +48,11 @@ It seems that ServiceNow has taken a page from Google's book here.  That's fine.
 | Hotel | Cancelled automatically | Cancelled automatically | 
 | Keynotes | Still happening | Not addressed, but I imagine they will show this like they have previously |
 | Sessions | Listed, not scheduled (Maybe they were scheduled, but I wasn't watching then) | They were listed, not anymore, and not scheduled |
-| Attendence | Everyone can join for free | ~~Not addressed~~ Everyone can join for free |
+| Attendance | Everyone can join for free | ~~Not addressed~~ Everyone can join for free |
 | Swag? | There will not be swag | Not addressed |
 | Flight | You are on your own | ~~Not addressed~~ You are on your own |
 
-- Full refunds of your pass.  If you booked a hotel through Knowlege 2020 website, the reservation will be cancelled. 
+- Full refunds of your pass.  If you booked a hotel through Knowledge 2020 website, the reservation will be cancelled. 
 - A "digital experience" was mentioned three times in this short FAQ.  It should engage, inspire, and connect individuals.
 
 
@@ -61,13 +61,13 @@ It seems that ServiceNow has taken a page from Google's book here.  That's fine.
 Here we get into what could be.  If we look at other conferences that went digital, and ones that have always have been there seems to be some competing agendas.
 
 
-1.  Dissemenating information.  I assume will be done via Zoom Meetings or some other screensharing tool.
+1.  Disseminating information.  I assume will be done via Zoom Meetings or some other screen-sharing tool.
 2.  Connecting individuals.  I assume this will be either not available, or some digital way, but in either case, it will be new and different.  It will take getting used to.
 3.  Expo floor.  I assume this will be either not available, or some digital way, but in either case, it will be new and different.  It will take getting used to.
 
 ## How can we capitalize on this change?
 
-Since everything will be digital, all streaming of ServiceNow stuff is nearly equal.  If you're a small partner, spinning up Youtube Live or Twitch, you are not much different than however ServiceNow official will handle it in my opinion.  With that being said I expect to see a lot of steaming video coming up out of this.
+Since everything will be digital, all streaming of ServiceNow stuff is nearly equal.  If you're a small partner, spinning up YouTube Live or Twitch, you are not much different than however ServiceNow official will handle it in my opinion.  With that being said I expect to see a lot of steaming video coming up out of this.
 
 # Changes
 
