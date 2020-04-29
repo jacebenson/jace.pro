@@ -56,7 +56,7 @@ subtitle = ""
             <li><a href="https://workflow.jace.pro" target="_blank">Workflow Diagrammer</a></li>
             <li><a href="https://code.jace.pro" target="_blank">Code Collab Tool</a></li>
             <li><a href="http://bin.jace.pro" target="_blank">Request Bin</a></li>
-            <li><a href="https://atf.jace.com/" target="_blank">Scoped ATF Tests</a></li>
+            <li><a href="https://atf.jace.pro/" target="_blank">Scoped ATF Tests</a></li>
             <li><a href="http://devtoolbox.jace.pro/" target="_blank">Scoped Dev Toolbox</a></li>
             <li><a href="https://osaf.jace.pro/" target="_blank">Alt. Activity Formatter</a></li>
         </ul>
