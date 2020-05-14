@@ -36,5 +36,6 @@ I can hear you now, Jace, how can you do that?  Well it seems the K19 and K20 bo
 
 1.  Right click the video being presented, open "Player Information"
 2.  Copy the "Video ID" into this string replacing YourVideoID `http://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=YourVideoID`
+  - <input value="http://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=YourVideoID" />
 3.  Take that string and paste it into [bitdownloader.com](https://bitdownloader.com) and click the "Download".
 4.  Now at the bottom is a list of videos with resolutions, Right click the video download button at the bottom, and click Save as, give it an apt name and you're set.
