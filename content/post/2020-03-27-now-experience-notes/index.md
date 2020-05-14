@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "2020 03 27 Now Experience Notes"
+title: "Following along with Andrew Aulbury-Dor's Now Experience Notes"
 subtitle: ""
 summary: ""
-authors: []
+authors: ["jace"]
 tags: []
 categories: []
 date: 2020-03-27T22:37:06-05:00
@@ -27,6 +27,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+I've decided to mess with the now-experience thing.  I don't think it's ready.  I've only seen one talk about it on Knowledge20 [here by Wolfgang Wedemeyer](https://events.servicenow.com/widget/servicenow/knowledge2020/myagenda/session/1579800994423001T4Sz)
+
 1.  Checked version of node; `node --version` it's at 12.16.1
 1.  Checked version of npm; `npm --version` it's at 6.13.4 (however there's a upgrade to 6.14.4)
 1.  Checked version of now-cli; `now-cli --version` it's at 17.0.2
