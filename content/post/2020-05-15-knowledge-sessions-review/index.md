@@ -55,7 +55,7 @@ With all that being said, here's what I attended and my thoughts on those.
 - [Creating now community content that matters](https://events.servicenow.com/widget/servicenow/knowledge2020/knowledgecatalog/session/1578864913431001De0N) - Chuck Tomasi and Mark Obee
 
     - How does Chuck create impactful content? @6:40
-		- Be Passionate abotu the topic, know your audience and what you want to say, and then find the right delivery channel for that.
+		- Be Passionate About the topic, know your audience and what you want to say, and then find the right delivery channel for that.
 
   		- If you're not passionate about the content.  You will stop.
 
