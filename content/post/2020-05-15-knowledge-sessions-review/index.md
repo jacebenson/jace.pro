@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Knowledge20 Session Review "
+title: "Knowledge20 Session Review Week of May 10th"
 subtitle: "So I was going to do this at the end, but I'll try this weekly"
 summary: "A short review of sessions I looked up during Knowledge20"
 authors: ["jace"]
