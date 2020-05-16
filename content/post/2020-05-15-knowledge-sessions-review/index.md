@@ -75,11 +75,11 @@ With all that being said, here's what I attended and my thoughts on those.
 
 		- Get started creating content - Mark Obee
 
-- [Visibility for TLS Certificatates and automation of task workflows](https://events.servicenow.com/widget/servicenow/knowledge2020/knowledgecatalog/session/1574470626591001xEbX)
+- [Visibility for TLS Certificates and automation of task workflows](https://events.servicenow.com/widget/servicenow/knowledge2020/knowledgecatalog/session/1574470626591001xEbX)
 
   > I have a personal interest in this as I've written integrations with Sectigo and other Certificate authorities to end-to-end provision certificates.  This seems to be just a tool to watch when certificates expire, not provisioning them.  
 
-	- Visibility to deployed TLS Certifcates
+	- Visibility to deployed TLS Certificates
 	- Proactive Management for TLS cert expiry stuff
 	- Automated incident creation
 	- Integrations with Vulnerability management and Risk Management
