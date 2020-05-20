@@ -79,3 +79,6 @@ for the inspiration to make this post.
 
 This is from the
 [docs](https://docs.servicenow.com/bundle/helsinki-servicenow-platform/page/administer/notification/task/t_CreateANotification.html).
+
+
+Looks like ServiceNow made [a better KB article](https://hi.service-now.com/kb_view.do?sysparm_article=KB0521382) about this since this post was created.  It looks like it says more of the same but you may find it useful.
