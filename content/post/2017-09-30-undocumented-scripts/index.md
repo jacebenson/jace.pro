@@ -49,8 +49,8 @@ ServiceNow just omits about their code.
             valid to use in a script.
         -   https://community.servicenow.com/thread/264780\#1153792
         -   https://community.servicenow.com/thread/192359
-        -   Clearing this out on tasks when "restarting" workflow will
-            reuse tasks, if you clear this out, it will make new.
+        -   *Not* Clearing this out on tasks when "restarting" workflow will
+            reuse tasks, if you clear this out, it will make new. ( thanks for the clarification Pók)
         -   I had a requirement where a customer wanted a "Revert to
             New" UI Action inside a Change record but wanted to keep the
             history of Closed Incomplete Change Tasks to show that a
