@@ -44,10 +44,12 @@ Check these things.
     [KB0523580](https://hi.service-now.com/kb_view.do?sysparm_article=KB0523580)
     [Youtube](https://www.youtube.com/watch?v=gYVwq8pH0-A)
 
-1.  Validate any mail is working
-2.  Validate the system is not sending to the debug user. [Outbound Mail Configuration](https://docs.servicenow.com/bundle/helsinki-servicenow-platform/page/administer/reference-pages/reference/r_OutboundMailConfiguration.html)
-3.  Validate the system is enabled to send email
+13.  Validate any mail is working
+14.  Validate the system is not sending to the debug user. [Outbound Mail Configuration](https://docs.servicenow.com/bundle/helsinki-servicenow-platform/page/administer/reference-pages/reference/r_OutboundMailConfiguration.html)
+15.  Validate the system is enabled to send email
     [KB0524529](https://hi.service-now.com/kb_view.do?sysparm_article=KB0524529)
+15.  If there's mail scripts, its possible there is an error in the code.  I'm told this will also cause the notification
+     to fail to send. - Thanks Abi for this detail.
 
 Thanks Andrew Barnes and some other random person from sndevs.slack.com
 for the inspiration to make this post.
