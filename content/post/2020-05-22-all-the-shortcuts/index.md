@@ -27,6 +27,8 @@ There's only a few that ServieNow observes.  Extensions add some too.
 
 ## Out of box shortcuts
 
+A thing to note, [some of these are configurable](https://docs.servicenow.com/bundle/orlando-platform-user-interface/page/use/navigation/task/configure-keyboard-shortcut-preferences.html)
+
 | Action                                   | Windows keyboard shortcut                   | Mac keyboard shortcut                       |
 | ---------------------------------------- | ------------------------------------------- | ------------------------------------------- |
 | Activate global search field             | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>G</kbd> | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>G</kbd> |
@@ -54,6 +56,8 @@ There's only a few that ServieNow observes.  Extensions add some too.
 Source: https://twitter.com/sn_utils/status/1192913388906713088
 
 ## Navigation shortcuts
+
+ServiceNow's docs on this are... well they say this same thing.  I just wish there was more to this.  [Source](https://docs.servicenow.com/bundle/orlando-platform-user-interface/page/administer/navigation-and-ui/task/t_NavigateDirectlyToATable.html)
 
 | Shortcut       | Do I Use This | What does it do                                                  |
 | ---------------| ------------- | ---------------------------------------------------------------- |
