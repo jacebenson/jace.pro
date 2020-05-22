@@ -35,6 +35,8 @@ There's only a few that ServieNow observes.  Extensions add some too.
 | Impersonate user                         | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>I</kbd> | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>I</kbd> |
 | Navigate to the main content on the page | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>P</kbd> | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>P</kbd> |
 | Client Debugger Window                   | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>J</kbd> | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>J</kbd> |
+| On Service Portal id=form Save the form  | <kbd>Ctrl</kbd>+<kbd>S</kbd>                | <kbd>Ctrl</kbd>+<kbd>S</kbd>                |
+| On Service Portal widget editor, Save    | <kbd>Ctrl</kbd>+<kbd>S</kbd>                | <kbd>Ctrl</kbd>+<kbd>S</kbd>                |
 
 ## From SN Utils
 
