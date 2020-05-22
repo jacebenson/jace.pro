@@ -38,7 +38,7 @@ There's only a few that ServieNow observes.  Extensions add some too.
 
 ## From SN Utils
 
-| Action                        | Keyboard shortcut                                    | 
+| Action                        | Keyboard shortcut                                    |
 | ----------------------------- | ---------------------------------------------------- |
 | Save the current form         | <kbd>Ctrl</kbd>+<kbd>S</kbd>                         |
 | Create List filter            | <kbd>Ctrl</kbd>+<kbd>Left Click</kbd> on Field Label |
@@ -49,7 +49,7 @@ There's only a few that ServieNow observes.  Extensions add some too.
 | Open slashcommand popup       | Configurable |
 | Open VS Code ScriptSync tab   | Configurable |
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you dont want SN Utils to &quot;Hijack&quot; your slash, but do want to use the commands, you can now assign your own shortcut via the Extension Shortcut menu <a href="https://t.co/aTgfnH8hNI">pic.twitter.com/aTgfnH8hNI</a></p>&mdash; sn_utils (@sn_utils) <a href="https://twitter.com/sn_utils/status/1192913388906713088?ref_src=twsrc%5Etfw">November 8, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Source: https://twitter.com/sn_utils/status/1192913388906713088
 
 ## Navigation shortcuts
 
