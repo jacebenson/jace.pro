@@ -37,6 +37,7 @@ There's only a few that ServieNow observes.  Extensions add some too.
 | Client Debugger Window                   | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>J</kbd> | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>J</kbd> |
 
 ## From SN Utils
+
 | Action                        | Keyboard shortcut                                    | 
 | ----------------------------- | ---------------------------------------------------- |
 | Save the current form         | <kbd>Ctrl</kbd>+<kbd>S</kbd>                         |
