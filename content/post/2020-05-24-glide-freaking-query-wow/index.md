@@ -50,7 +50,7 @@ In GlideQuery, this will fail and not execute on error.
 
 | GlideRecord Example | GlideQuery Example |
 | --- | --- |
-| [![](fieldCheckingGr.png)](fieldCheckingGr.png) | ![](fieldCheckingGq.png) |
+| [![](fieldCheckingGr.png)](fieldCheckingGr.png) | [![](fieldCheckingGq.png)](fieldCheckingGq.png) |
 
 ### Choice checking
 
@@ -60,7 +60,7 @@ Really if the api said, hey that value is not valid, that could help you faster.
 
 | GlideRecord Example | GlideQuery Example |
 | --- | --- |
-| ![](choiceCheckingGr.png) | ![](choiceCheckingGq.png) |
+| [![](choiceCheckingGr.png)](choiceCheckingGr.png) | [![](choiceCheckingGq.png)]((choiceCheckingGq.png)) |
 
 ### Type checking
 
@@ -69,8 +69,8 @@ Travis Toulson wrote a whole post about [Is GlideRecord GetValue the king of the
 
 | GlideRecord Example | GlideQuery Example |
 | --- | --- |
-| ![](typeCheckingGr.png) | ![](typeCheckingGq.png) |
-| ![](typeCheckingGrUpdate.png) | ![](typeCheckingGqUpdate.png) |
+| [![](typeCheckingGr.png)](typeCheckingGr.png) | [![](typeCheckingGq.png)](typeCheckingGq.png) |
+| [![](typeCheckingGrUpdate.png)](typeCheckingGrUpdate.png) | [![](typeCheckingGqUpdate.png)](typeCheckingGqUpdate.png) |
 
 ## Be JavaScript
 Isolation from Java
@@ -81,15 +81,15 @@ One problem with GlideRecord, things are not always as they appear.  Sometimes y
 
 | GlideRecord Example | GlideQuery Example |
 | --- | --- |
-| ![](beJavaScriptStringlyTyped.png) | ![](beJavaScriptStringlyTypedGq.png) |
-| ![](beJavaScriptStringlyTyped2.png) | |
-| ![](beJavaScriptStringlyTyped3.png) | |
+| [![](beJavaScriptStringlyTyped.png)](beJavaScriptStringlyTyped.png) | [![](beJavaScriptStringlyTypedGq.png)](beJavaScriptStringlyTypedGq.png) |
+| [![](beJavaScriptStringlyTyped2.png)](beJavaScriptStringlyTyped2.png) | |
+| [![](beJavaScriptStringlyTyped3.png)](beJavaScriptStringlyTyped3.png) | |
 
 ### Stacktraces
 
 | GlideRecord Example | GlideQuery Example |
 | --- | --- |
-| ![](stacktraceGr.png) | ![](stacktraceGq.png) |
+| [![](stacktraceGr.png)](stacktraceGr.png) | [![](stacktraceGq.png)](stacktraceGq.png) |
 
 ### Complex Queries should work how you expect
 
@@ -97,7 +97,7 @@ Queries that use both "AND" and "OR" logic.  How do you think this is evaluated?
 
 | GlideRecord Example | GlideQuery Example |
 | --- | --- |
-| ![](complexQueriesGr.png) | ![](complexQueriesGq.png) |
+| [![](complexQueriesGr.png)](complexQueriesGr.png) | [![](complexQueriesGq.png)](complexQueriesGq.png) |
 
 In SQL "AND" has priority over "OR".  In GlideRecord, "OR" has priority over "AND" and this causes problems.  In GlideQuery they solve this by being allowing nested GlideQuery methods.
 
@@ -118,30 +118,30 @@ When reading data with GlideQuery there are two classes used; Stream and Optiona
 
 Examples;
 
-![](mapOnStream.png)
-![](someOnStream.png)
-![](everyOnStream.png)
+[![](mapOnStream.png)](mapOnStream.png)
+[![](someOnStream.png)](someOnStream.png)
+[![](everyOnStream.png)](everyOnStream.png)
 
 ### Aggregation
 
 Examples; 
 
-![](aggregate1.png)
-![](aggregate2.png)
-![](aggregate3.png)
+[![](aggregate1.png)](aggregate1.png)
+[![](aggregate2.png)](aggregate2.png)
+[![](aggregate3.png)](aggregate3.png)
 
 ### Insert
 
-![](insert.png)
+[![](insert.png)](insert.png)
 
 ### Delete
 
-![](insert.png)
+[![](delete.png)](delete.png)
 
 ### Update
 
-![](updateOne.png)
-![](updateMultiple.png)
+[![](updateOne.png)](updateOne.png)
+[![](updateMultiple.png)](updateMultiple.png)
 
 ### Field Flags
 
@@ -149,7 +149,7 @@ This is important for currency and display values.
 
 Flags mentioned `$DISPLAY` and `$CURRENCY_CODE`
 
-![](flagsCurrency.png)
+[![](flagsCurrency.png)](flagsCurrency.png)
 
 
 ## Performance
@@ -165,9 +165,9 @@ With business rules disabled here's how GlideQuery stacks up to GlideRecord.
 
 It's important to note that GlideQuery avoids common performance mistakes.
 
-![](commonPerfMistakes.png)
+[![](commonPerfMistakes.png)](commonPerfMistakes.png)
 
-![](commonPerfMistakes2.png)
+[![](commonPerfMistakes2.png)](commonPerfMistakes2.png)
 
 ## Current Limitations and Future work
 
