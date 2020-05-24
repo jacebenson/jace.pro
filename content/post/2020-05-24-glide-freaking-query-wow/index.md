@@ -50,7 +50,7 @@ In GlideQuery, this will fail and not execute on error.
 
 | GlideRecord Example | GlideQuery Example |
 | --- | --- |
-| ![](fieldCheckingGr.png) | ![](fieldCheckingGq.png) |
+| [![](fieldCheckingGr.png)](fieldCheckingGr.png) | ![](fieldCheckingGq.png) |
 
 ### Choice checking
 
