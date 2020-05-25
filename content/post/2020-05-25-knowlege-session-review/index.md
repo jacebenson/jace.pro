@@ -7,8 +7,8 @@ summary: "A short review of sessions I looked up during Knowledge20"
 authors: ["jace"]
 tags: []
 categories: []
-date: 2020-05-25T21:57:49-05:00
-lastmod: 2020-05-25T21:57:49-05:00
+date: 2020-05-25T08:57:49-05:00
+lastmod: 2020-05-25T08:57:49-05:00
 featured: false
 draft: false
 
