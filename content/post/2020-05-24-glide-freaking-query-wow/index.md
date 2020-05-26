@@ -60,7 +60,7 @@ Really if the api said, hey that value is not valid, that could help you faster.
 
 | GlideRecord Example | GlideQuery Example |
 | --- | --- |
-| [![](choiceCheckingGr.png)](choiceCheckingGr.png) | [![](choiceCheckingGq.png)]((choiceCheckingGq.png)) |
+| [![](choiceCheckingGr.png)](choiceCheckingGr.png) | [![](choiceCheckingGq.png)](choiceCheckingGq.png) |
 
 ### Type checking
 
