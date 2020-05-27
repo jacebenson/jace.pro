@@ -32,12 +32,13 @@ This is "Connect Week".
 
 - [GlideQuery: A modern upgrade to GlideRecord](https://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=ref:K20-CCB3052)
 - [Lab/Workshop Advanced Scoped Development Techniques (CCW2583)](http://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=ref:K20-CCW2583)
+  - [Lab](https://nowlearning.service-now.com/lxp?id=overview&sys_id=f89a140b1b74d4901759b8c11a4bcbd4&type=course)
   - Guided Application Creator
   - Code Search
   - Source Control
   - Adding files to the studio project
   - Deployment Best Practices
-<!-- Full Stack Developer serier... was last week.. also this week.- [](http://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=ref:K20-CCW2889)-->
+<!-- Full Stack Developer series... was last week.. also this week.- [](http://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=ref:K20-CCW2889)-->
 - [KEY4943](http://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=ref:K20-KEY4943)
   - Encourage networking
   - K20's whole event's objective is "focused on helping customers to achieve their business objects through digital transformation" - David Schneider
@@ -65,34 +66,28 @@ This is "Connect Week".
         - Now support portal
         - Now support mobile app
   - Calls to action
-    - Visit the Customer Succes Center
-    - Get invovled of "Success experiences"
+    - Visit the Customer Success Center
+    - Get involved of "Success experiences"
     - learn about success services
   - Jace's take.  Community is big, you can get a lot from local events like the ServiceNow User Groups, and meetups.  You can encourage people to use NowLearning to up their skills.  However, ultimately, they recommended to buy success services from ServiceNow.
-
 - [Knowledge Management](http://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=ref:K20-DEM1202)
   - Provide consistent resolutions for self-service
   - Encourage employees to create knowledge from their work
   - Identify gaps, curate new content, track usage, gov', and quality trends
   - This Shows how it can be used from desktop/mobile/chat apps
-
 - [Augmented Reality for Field Service Management via CareAR](http://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=ref:K20-BRE2961)
   - Primary user servicing expectations
     - Fast
     - Personalized 
     - Consistent
-  - So this is all about making video/collab, not using 3rd party consumer apps, aka Facetime, Facebook messaging etc.  It is pretty cool @ 18:20 you can see a demo of it.
-
+  - So this is all about making video/collaborate, not using 3rd party consumer apps, aka FaceTime, Facebook messaging etc.  It is pretty cool @ 18:20 you can see a demo of it.
 - [Lab/Workshop Story Testing Scripts - Scoped Application (CCW2554)](http://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=ref:K20-CCW2554)
   - This appears to be a lab to create a scoped app to build test scripts... Not sure how this is different than Test Management
   - Best Practices for this* (@55:16)
     - Define involved users and roles of the story
     - Create a Test Script
     - Create Scenario for the Story
-
 - [Lab/Workshop Working with Remote Tables (CCW1735)](http://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=ref:K20-CCW1735)
-  - 
-
 - [Theater Generating Ideas Fast with Crazy 8’s (THS3220)](http://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=ref:K20-THS3220)
   - What are Crazy 8s
     - Crazy 8's is a brainstorming exercise that challenges people to sketch 8 distinct ideas in 8 minutes.  The goal is to push beyond your first idea, and generate a wide variety of solutions to any challenge.
@@ -114,9 +109,10 @@ This is "Connect Week".
       - Have participants Explain ideas individually.
       - Give participants a set number of votes on for things they like e.g. green dots.
       - Give participants a set number of votes on for things they dislike e.g. red dots.
-      - As a team discuss where the ideas coalesc'd
+      - As a team discuss where the ideas coalesced
     - Post session
       - Story board the workflows
       - Add more details to the better ideas
       - Build out prototypes
       - Consider a second crazy 8's session with a different group      
+- [Creating products on the Now Platform® to drive company growth](http://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=ref:K20-BRE1066)
