@@ -10,7 +10,7 @@ categories: []
 date: 2020-05-25T18:03:12-05:00
 lastmod: 2020-05-25T18:03:12-05:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-This is "Connect Week".  
+This is "Connect Week".  Here's what I watched and my very rough notes.
 
 - [GlideQuery: A modern upgrade to GlideRecord](https://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=ref:K20-CCB3052)
 - [Lab/Workshop Advanced Scoped Development Techniques (CCW2583)](http://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=ref:K20-CCW2583)
@@ -116,3 +116,7 @@ This is "Connect Week".
       - Build out prototypes
       - Consider a second crazy 8's session with a different group      
 - [Creating products on the Now Platform® to drive company growth](http://players.brightcove.net/5703385908001/zKNjJ2k2DM_default/index.html?videoId=ref:K20-BRE1066)
+
+Non SN stuff;
+
+[Lockdown Productivity: Spaceship You](https://www.youtube.com/watch?v=snAhsXyO3Ck)
