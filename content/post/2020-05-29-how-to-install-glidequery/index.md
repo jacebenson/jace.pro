@@ -1,6 +1,4 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "How to install GlideQuery"
 subtitle: "It's great to talk about this, but lets get it so your can try it out."
 summary: "This is how to install the GlideQuery plugin without SAM Pro"
@@ -12,19 +10,11 @@ lastmod: 2020-05-29T15:31:50-05:00
 featured: false
 draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 ---
 
@@ -54,4 +44,5 @@ main.start();
 
 ### Bonus video showing installation and usage
 
-<iframe width="1903" height="924" src="https://www.youtube.com/embed/vVltGSUWDls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--<iframe width="1903" height="924" src="https://www.youtube.com/embed/vVltGSUWDls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+{{< youtube vVltGSUWDls >}}
