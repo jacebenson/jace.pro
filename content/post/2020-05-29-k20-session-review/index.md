@@ -7,8 +7,8 @@ summary: "Just a short list of the things I watched and notes I took"
 authors: ["jace"]
 tags: []
 categories: []
-date: 2020-05-25T18:03:12-05:00
-lastmod: 2020-05-25T18:03:12-05:00
+date: 2020-05-29T18:03:12-05:00
+lastmod: 2020-05-29T18:03:12-05:00
 featured: false
 draft: false
 
