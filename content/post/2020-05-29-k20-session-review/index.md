@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "2020 05 29 K20 Session Review"
-subtitle: ""
-summary: ""
-authors: []
+title: "K20 Session Review"
+subtitle: "Another week, another list of things"
+summary: "Just a short list of the things I watched and notes I took"
+authors: ["jace"]
 tags: []
 categories: []
 date: 2020-05-25T18:03:12-05:00
