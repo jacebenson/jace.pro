@@ -1,5 +1,5 @@
 ---
-title: "Own Your Content - Or someone else will"
+title: "Own Your Content"
 subtitle: "Always own your platform"
 summary: "It's worth stating, if your don't you could lose it"
 authors: ["jace"]
