@@ -34,6 +34,12 @@ function onLoad(){
 }
 ```
 
+Another way... that is really overkill but I think handles it the best, is to disable the item and make a new version of the item.
+
+- Deactivate the item
+- Make a Copy - this ensures all past requests work as they were intended. It's a big change for a little bit of work I have seen this.
+- Delete the option on the new version of the item
+
 ## Related things
 - Related Question: https://community.servicenow.com/community?id=community_question&sys_id=1f5fb2a9db58dbc01dcaf3231f96199a
 - Related Post: https://www.servicenowguru.com/scripting/client-scripts-scripting/removing-disabling-choice-list-options
