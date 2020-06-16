@@ -25,6 +25,9 @@ googleAnalytics = "UA-42868059-4"
 # Name of Academic theme folder in `themes/`.
 theme = "academic"
 
+# Enable Robots txt?
+enableRobotsTXT = true
+
 # Get last modified date for content from Git?
 enableGitInfo = false
 

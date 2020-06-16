@@ -1,0 +1,5 @@
+# This rule will trigger at /blog/my-old-title
+/post/2020-05-25-knowlege-session-review/    /post/2020-05-25-knowledge-session-review/
+/wp-login.php https://www.dontbeadickday.com/
+/backup https://www.dontbeadickday.com/
+/.env https://www.dontbeadickday.com/
