@@ -19,14 +19,13 @@ projects: []
 ---
 Have you ever had a something you made and loved?  Then did you ever look for it later and find it gone?  
 
-I have.  It's a terrible, terrible feeling.  For me it was my Geocities site.  
-Thinking back on it now, it was my ten year old me writing my thoughts and feelings.
+I have.  It's a terrible, terrible feeling.  For me it was my Geocities site. Thinking back on it now, it was my ten year old me writing my thoughts and feelings.  But it was mine.  
 
-But it was mine.  I know their was a project to save geocities content somehow, but for me, that site is long gone.  
-There's other things like this.  A lot of my early work on ServiceNow also is gone.  
-Not because the code is gone.  I assume those solutions are still on those instances.  
-But, my access to those are gone, my reasons for those solutions are gone.  
-If I've learned anything about other peoples platforms, it's that you can't trust they will be there forever.  
+I know their was a project to save geocities content somehow, but for me, that site is long gone.
+
+There's other things like this.  A lot of my early work on ServiceNow also is gone. Not because the code is gone.  I assume those solutions are still on those instances. 
+But, my access to those are gone, my reasons for those solutions are gone. If I've learned anything about other peoples platforms, it's that you can't trust they will be there forever. 
+
 If you want that level of security, you need to **always own your platform**.
 
 ## Why should you own your own content
@@ -52,11 +51,16 @@ Ok Jace, I'm in, how do I get started?
 
 Longer answer;
 
-So there is some set up, however if you've been doing any scoped app development, it's literally a click away.  No joke.  I'm a big fan of [Netlify](https://www.netlify.com/).  They have a site with templates and everything to get started.  This site, as it is now uses [Hugo](https://gohugo.io/).  I'm working on moving to [11ty](https://www.11ty.dev/).  If you're getting started, I'd go to Phil Hawksorth's github repository for [eventyone](https://github.com/philhawksworth/eleventyone), and click the ![](deployToNetlify.png). 
+So there is some set up, however if you've been doing any scoped app development, it's literally a click away.  No joke.  I'm a big fan of [Netlify](https://www.netlify.com/).  They have a site with templates and everything to get started.  This site, as it is now uses [Hugo](https://gohugo.io/).  I'm working on moving to [11ty](https://www.11ty.dev/).  If you're getting started, I'd go to Phil Hawksorth's github repository for [eventyone](https://github.com/philhawksworth/eleventyone), and click ![](deployToNetlify.png)
 
-Jace, I don't like Javascript!
+### Jace, I don't like Javascript!
 
-Okay, okay there's tons of generators.  [Hugo](https://gohugo.io/) uses go, [Gatsby](https://www.gatsbyjs.org/) uses React, [11ty](https://www.11ty.dev/) uses javascript.  Each one has it's pros and cons.  I've used all of these.  Effectively they are the same.  
+Okay, okay there's tons of generators.  
+- [Hugo](https://gohugo.io/) uses go
+- [Gatsby](https://www.gatsbyjs.org/) uses React
+- [11ty](https://www.11ty.dev/) uses javascript.  
+
+Each one has it's pros and cons.  I've used all of these.  Effectively they are the same.  
 
 ## What else can I do with one of these sites
 
