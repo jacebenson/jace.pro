@@ -7,8 +7,8 @@ summary: "This is a rough review of the K20 content I consumed and my notes on t
 authors: ["jace"]
 tags: []
 categories: []
-date: 2020-06-02T00:28:26-05:00
-lastmod: 2020-06-02T00:28:26-05:00
+date: 2020-06-05T00:28:26-05:00
+lastmod: 2020-06-05T00:28:26-05:00
 featured: false
 draft: true
 
