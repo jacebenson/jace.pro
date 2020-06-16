@@ -33,6 +33,7 @@ If you want that level of security, you need to **always own your platform**.
 Simple.  When it's yours, you have ultimate control of it's distribution.  
 If you post it on Facebook, you are conceding to the fact that users have to also be on Facebook.  
 If you post it on ServiceNow's community, you're giving up things like;
+
 - [canonical URL](https://yoast.com/what-is-a-canonical-url/)
 - [social media image control](https://css-tricks.com/essential-meta-tags-social-media/)
 - the ability to see traffic via [Google Analytics](https://accounts.google.com/ServiceLogin?service=analytics), [Plausible](https://plausible.io/), or [Clicky](https://clicky.com/)
@@ -57,9 +58,9 @@ So there is some set up, however if you've been doing any scoped app development
 
 Okay, okay there's tons of generators.  
 
-- [Hugo](https://gohugo.io/) uses go
-- [Gatsby](https://www.gatsbyjs.org/) uses React
-- [11ty](https://www.11ty.dev/) uses javascript.  
+ - [Hugo](https://gohugo.io/) uses Go.
+ - [Gatsby](https://www.gatsbyjs.org/) uses React.
+ - [11ty](https://www.11ty.dev/) uses javascript.
 
 Each one has it's pros and cons.  I've used all of these.  Effectively they are the same.  
 
