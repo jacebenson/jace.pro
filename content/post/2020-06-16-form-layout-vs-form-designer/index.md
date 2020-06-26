@@ -37,3 +37,20 @@ projects: []
 | Adding Annotations          | yes           | yes         |
 | Adding Scripted Annotations | no            | yes         |
 | Removing Annotations        | yes           | yes         |
+
+<!--
+Creating Fields
+Creating Sections
+Creating Views
+Adding Related Fields
+Removing Fields
+Removing Sections
+Removing Views
+Adding Related Lists
+Removing Related Lists
+Adding Embedded Lists
+Removing Embedded Lists
+Adding Annotations
+Adding Scripted Annotations
+Removing Annotations
+-->
