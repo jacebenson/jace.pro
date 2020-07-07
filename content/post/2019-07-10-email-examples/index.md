@@ -79,3 +79,11 @@ Subject: \[Priority\] \[Record Class\] Commented \- \[Company\] - \[Record\]: \[
 > Click here to view \[Record Class\] \[Record\]
 >
 > Sincerely, ServiceNow Customer Support
+
+## Your maintenance notifications experience: Be informed
+
+![](feedback-request.png)
+
+https://hi.service-now.com/kb_view.do?sysparm_article=KB0829964
+
+## 
