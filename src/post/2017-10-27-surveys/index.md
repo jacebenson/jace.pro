@@ -1,0 +1,342 @@
+---
+title: "Thoughts on surveys"
+subtitle: ""
+summary: ""
+date: 2017-10-27T20:25:56-05:00
+---
+
+Surveys are great, if they make them concise and to the point.
+
+# Surveys
+
+-   [What makes a great survey](#What-Makes-a-Great-Survey)
+    -   [Keep it short, stupid](#Keep-it-short-stupid)
+    -   [Ask only questions that fulfill your end goal](#Ask-only-questions-that-fulfill-your-end-goal)
+    -   [Construct smart, open-ended questions](#Construct-smart-open-ended-questions)
+    -   [Ask one question at a time](#Ask-one-question-at-a-time)
+    -   [Make rating scales consistent](#Make-rating-scales-consistent)
+    -   [Avoid leading and loaded questions](#Avoid-leading-and-loaded-questions)
+    -   [Make use of Yes/No questions](#Make-use-of-Yes/No-questions)
+    -   [Get specific and avoid assumptions](#Get-specific-and-avoid-assumptions)
+    -   [Timing is important](#Timing-is-important)
+    -   [Give them a bonus](#Give-them-a-bonus)
+-   [Ways of Surveying](#Ways-of-Surveying)
+    -   [Immediate Feedback](#Immediate-Feedback)
+    -   [After an Event](#After-an-Event)
+    -   [Regularly Scheduled](#Regularly-Scheduled)
+-   [Examples](#Examples)
+    -   [List of questions seen](#List-of-questions-seen)
+    -   [Most Common Survey](#Most-Common-Survey)
+    -   [Survey used after the close of an incident](#Survey-used-after-the-close-of-an-incident)
+    -   [Survey used by ServiceNow internally](#Survey-used-by-Servicenow-internally)
+    -   [Wordpress Minneapolis 2017](#Wordpress-Minneapolis-2017)
+    -   [Upgrade Instance Survey](#Upgrade-Instance-Survey)
+-   [Sources](#Sources)
+
+## What Makes a Great Survey
+
+### Keep it short, stupid
+
+Your biggest concern is being **clear and concise**, or in finding the
+shortest way to ask a question without muddying its intent. It's not
+just about reducing the character count; you must **eliminate
+superfluous phrasing** from your questions.
+
+**Survey length remains important** for keeping abandon rates low. Think
+about the last time you sat around and excitedly answered a 10-minute
+survey. Not likely.
+
+### Ask only questions that fulfill your end goal
+
+You need to be ruthless when it comes to cutting unnecessary questions
+from your surveys.
+
+Ask this question about every question you include, "Does this question
+drive action once received?" If the answer is no, why are you asking it?
+The action doesn't have to get you calling the surveyee, but should
+drive trends to changes you want to make.
+
+### Construct smart, open-ended questions
+
+Some of your most insightful feedback will come from open-ended
+questions. However, nothing makes a survey more intimidating than a huge
+text box connected to the very first question. It's best to take on
+brief questions first to create a sense of progress, and then give
+survey takers who've made it to the closing questions the opportunity to
+elaborate on their thoughts.
+
+One strategy is to get people to commit to a question with a simple
+introduction, and then follow up with an open-ended question such as,
+"Why do you feel this way?"
+
+### Ask one question at a time
+
+We've all been hit with an extensive series of questions before: "How
+did you find on our site? Do you understand what our product does? Why
+or why not?"
+
+It can begin to feel like you're being interrogated by someone who won't
+let you finish your sentences. If you want quality responses, you need
+to give people time to think through each individual question.
+
+Bombarding them with multiple points to consider leads to half-hearted
+answers by respondents who will just be looking to get through to the
+end --- if they even stay with the survey at all. Make things easy by
+sticking to one main point at a time.
+
+### Make rating scales consistent
+
+Common scales used for surveys can become cumbersome and confusing when
+the context begins to change.
+
+Here's an example I ran into recently. While answering a survey's
+initial questions, I was told to respond by choosing between 1-5, with 1
+= "Strongly Disagree" and 5 = "Strongly Agree."
+
+Later on in the survey, however, I was asked to evaluate the importance
+of certain items. The problem: Now 1 was assigned as "Most Important,"
+but I had been using 5 as the agreeable answer to every previous
+question.
+
+It was incredibly confusing, and although I realized what was going on,
+I have to wonder how many people completely missed this change and gave
+inaccurate answers, completely by accident.
+
+### Avoid leading and loaded questions
+
+Questions that lead respondents towards a certain answer due bias in
+their phrasing are not useful for your surveys. SurveyMonkey offers a
+great example of a leading question to avoid: \> We have recently
+upgraded SurveyMonkey's features to become a first-class tool. What are
+your thoughts on the new site?
+
+Remember to cut out language that caters to ego or contorts a
+respondent's understanding of what's being asked. To avoid loaded
+questions, stay away from any presupposed facts or assumptions.
+
+A well-known example on disciplinary action with children is as follows:
+\> Should a smack as part of good parental correction be a criminal
+offence in New Zealand?
+
+The assumption here is that smacking a child is inherently a part of
+"good" parental correction, when in fact that is simply the opinion
+being argued. You can avoid loaded questions in your surveys by
+eliminating emotionally charged language that hints at preferences or
+assumed facts.
+
+### Make use of Yes/No questions
+
+When you are asking a question that has a simple outcome, try to frame
+the question as a Yes/No option.
+
+The Survey Monkey study showed that these closed-ended questions make
+for great starter questions because they are typically easier to
+evaluate and complete.
+
+These questions can also be used to qualify the respondent with less of
+an ego bias, such as asking a question like, "Are you considered an
+expert in \[blank\]?" vs. "What level of expertise do you have in
+\[blank\]?"
+
+### Get specific and avoid assumptions
+
+When you create questions that implicitly assume a customer is
+knowledgeable about something, you're likely going to run into problems
+(unless you are surveying a very targeted subset of people).
+
+One big culprit is the language and terminology you use in questions,
+which is why I'd recommend staying away from industry acronyms, jargon,
+or references.
+
+One of the worst assumptions you can make is to assume people will
+answer with specific examples, or to explain their reasoning. It's
+better to ask them to be specific, and let them know you welcome this
+sort of feedback:
+
+> How do you feel about \[blank\]? Feel free to get specific; we love
+> detailed feedback!
+
+### Timing is important
+
+Interestingly, the Survey Monkey study found the highest survey open and
+click-through rates occurred on Monday, Friday and Sunday respectively.
+
+There was no discernible difference between the response quality
+gathered on weekdays versus weekends, either, so your best bet is to
+seek out survey-takers first thing during a new week or to wait for the
+weekend. Perhaps Monday has such high response rates because nobody
+feels like working.
+
+### Give them a bonus
+
+It sometimes makes sense to entice customers to take your survey: a
+variety of data show that incentives can increase survey response rates
+by 5 to 20 percent. These incentives could be a discount, a giveaway or
+account credit.
+
+A valid fear is that a freebie may detract from the quality of
+responses, but a few studies show that this isn't likely to be the case.
+Last but not least, in order to ensure that you don't lose your shirt,
+be sure to make incentives something you can financially handle, such as
+an extended trial of your software for a period of time.
+
+## Ways of Surveying
+
+Three ways of surveying your end users are:
+
+-   Immediate feedback on any page
+-   After some event like the close of an incident or request
+-   On a frequency survey
+
+Survey's can be really helpful and I'd suggest having at least one of
+the below set up to get a indicator of where you are, and how you can
+improve.
+
+ServiceNow's built in survey engine has some room for improvement but is
+good enough for most survey's needs. The problem is they are not nearly
+as intuitive to set up as [SurveyMonkey](http://surveymonkey.com).
+
+Based on the feedback that you begin to receive you can decide if
+additional questions should be asked. However, you want to make sure
+that Surveys are **simple and short** so that people complete your
+survey.
+
+Follow up on any comments that indicate someone had less then a stellar
+experience to get more details Adjust your question in the event that
+you find a pattern with comments that people are leaving to ensure you
+are capturing the right data
+
+### Immediate Feedback
+
+I love the idea of having a simple "How can we make this page better for
+you?" as pictured below. However, I'd have it have a thumbs up, and
+thumbs down to submit, and on press of enter submit w/out thumb up or
+down value. ![Immediate
+Feedback](./surveys-immediate-feedback.png)
+
+### After an Event
+
+What kinds of events?
+
+-   Resolution of an Incident accepted.
+-   Close of an Incident.
+-   Close of a Requested Item.
+-   Close of a Project.
+
+The key here is **asking immediately** as to keep information fresh in
+the users mind.
+
+### Regularly Scheduled
+
+These are great in keeping a heart beat on the satisfacation and other
+metrics gathered from the survey.
+
+Pretty much per application, I'd ask some questions monthly or
+quarterly.
+
+## Examples
+
+### List of questions seen
+
+| Category                     | Goals: What do you need to know? | Great! Then you should ask this:                                                               |
+|------------------------------|----------------------------------|------------------------------------------------------------------------------------------------|
+| Overall satisfaction         | How the customer felt overall    | Was the incident/issue resolved to your satisfaction?                                          |
+| Overall satisfaction         | How the customer felt overall    | Was this ticket resolved to your satisfaction?                                                 |
+| Overall satisfaction         | How the customer felt overall    | How would you rate your overall satisfaction?                                                  |
+| Overall satisfaction         | How the customer felt overall    | What changes could we make that would have improved your experience?                            |
+| Overall satisfaction         | How the customer felt overall    | How likely is it that you would recommend our services to your peers?                          |
+| Overall satisfaction         | How the customer felt overall    | How likely is it that you would recommend us to a colleague?                                   |
+| Overall satisfaction         | How the customer felt overall    | How likely are you to recommend this website to a colleague?                                   |
+| Overall satisfaction         | How the customer felt overall    | How would you describe your experience?                                                        |
+| Overall satisfaction         | How the customer felt overall    | What would you like us to know about this experience?                                           |
+| Quality of products/services |                                  | How satisfied were you with \_\_\_\_\_ product?                                                |
+| Quality of products/services |                                  | Do you have any suggestions for improving our products/services?                               |
+| Quality of products/services |                                  | Which of the following words best describe our products?                                       |
+| Quality of products/services |                                  | How well do our products meet your needs?                                                      |
+| Quality of products/services |                                  | How satisfied were you with the implementation related to the attention to detail?             |
+| Time to Completion           | Customer perspective             | Were you satisfied with the response time to your \_\_\_\_\_?                                  |
+| Time to Completion           | Customer perspective             | Was your \_\_\_\_ completed within the expected time frame?                                    |
+| Staffing                     | satisfaction with staff          | How satisfied were you with how the support staff resolved your most recent problem?           |
+| Staffing                     | Knowledgeable                    | Did you feel the associate was knowledgeable in the area of support?                           |
+| Staffing                     | Knowledgeable                    | How knowledgeable was the associate who handled your inquiry?                                  |
+| Staffing                     |                                  | Please rate the technical competency of the technician serving you.                            |
+| Staffing                     | Effective                        | How helpful was the associate who handled your inquiry?                                        |
+| Staffing                     | Professionalism                  | Did the associate help you in a professional and courteous manner?                             |
+| Staffing                     | Communication                    | How did your support associate communicate with you?                                           |
+| Staffing                     | Communication                    | Rate your satisfaction of your support associate's communications.                             |
+| Staffing                     | Communication                    | How responsive have we been to your questions or concerns as we completed work on this ticket? |
+| Staffing                     | Communication                    | How well did we communicate with you during the completion of this ticket?                     |
+| Room Booking                 | Room                             | How well did the room meet your meeting needs?                                                 |
+| Room Booking                 | Setup                            | Was the room set up as requested?                                                              |
+| Room Booking                 | Ease of use                      | How easy was it to use the room equipment?                                                     |
+| Self-support experience      | Portal design                    | How satisfied are you with our website?                                                        |
+| Self-support experience      | Portal design                    | Rate the Ease of navigation of the site.                                                       |
+| Self-support experience      | Portal design                    | Rate the Freshness of content                                                                  |
+| Self-support experience      | Portal design                    | Rate the Accuracy of information                                                               |
+| Self-support experience      | Portal design                    | Rate the Quality of content                                                                    |
+| Self-support experience      | Portal design                    | Rate the Quantity of content                                                                   |
+| Self-support experience      | Portal design                    | Rate the Layout/design                                                                         |
+| Self-support experience      | Portal design                    | Rate the Customer support                                                                      |
+| Self-support experience      | marketing/evangelism             | How did you learn about this site?                                                             |
+| Self-support experience      | use & effectiveness              | Did you try to solve this issue using the knowledge base before opening this ticket?            |
+| Self-support experience      |                                  | How would you rate the ease of use when creating your service catalog request?                 |
+| Change Requests              |                                  | Were there any issues created by the implementation of this change request?                    |
+| Change Requests              |                                  | How satisfied were you with your overall change request experience?                            |
+| Closing                      | Additional comments              | Is there anything else you would like us to know about your support experience?                |
+
+### Most Common Survey
+
+| Question                                                                        | Answer                                                                                                                                     |
+|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| How would you rate your overall satisfaction?                                   | Very SatisfiedSatisfiedDissatisfiedVery dissatisfied                                                                                       |
+| What changes could we make that would have improved your experience?            | Open Text                                                                                                                                  |
+| Were you satisfied with the response time to your ticket?                       | YesNo                                                                                                                                      |
+| How helpful was the associate who handled your inquiry?                         | He/she was fabulous!They did the needfulMy experience with this associate was somewhat frustratingThe associate did not resolve this issue |
+| Is there anything else you would like us to know about your support experience? | Open Text                                                                                                                                  |
+
+### Survey used after the close of an incident
+
+| Question                                                                                                    | Answer Type   |
+|-------------------------------------------------------------------------------------------------------------|---------------|
+| How satisfied were you with the service you received?                                                       | 1-10          |
+| We value your feedback: Please provide us with any comments regarding your experience with this interaction | Open Text Box |
+
+### Survey used by Servicenow internally
+
+| Question                                                                                  | Answer Type   |
+|-------------------------------------------------------------------------------------------|---------------|
+| Is this the best support you have received in any company/organization?                   | 1-10          |
+| Please rate your experience with reaction/response time                                   | 1-10          |
+| Please rate your experience with effectiveness                                            | 1-10          |
+| Please rate your experience with customer service                                         | 1-10          |
+| Are there any tools or services that you feel need better training & documentation        | 1-10          |
+| We value your feedback: Please tell us what we can do to improve your overall experience? | Open Text Box |
+
+### Wordpress Minneapolis 2017
+
+This survey isn't short, and asks more than one question at a time. It
+also asks questions regardless of answers. Don't do this.
+
+![Wordpress Survey](./surveys-wp.png)
+
+### Upgrade Instance Survey
+
+This survey is consice and satisfying.
+
+![Concise Survey](./surveys-pheedbaq-1.png) ![Concise
+Survey](./surveys-pheedbaq-2.png) ![Concise
+Survey](./surveys-pheedbaq-3.png) ![Concise
+Survey](./surveys-pheedbaq-4.png) ![Concise
+Survey](./surveys-pheedbaq-5.png)
+
+I know at a past place, I set up a business rule on a question to notify
+the manager of the incident that spawned the survey to followup. That
+was a easy big win
+
+## Further Reading
+
+-   [The 5 Best Ways to Get Feedback from Your Customers](https://blog.kissmetrics.com/best-ways-to-get-feedback/)
+-   [Survey Question Examples](https://community.servicenow.com/docs/DOC-4451)
+-   [CSAT Question and Answer Option Menu](https://community.servicenow.com/docs/DOC-6393)
+-   [ServiceNow Survey Docs](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/administer/survey-administration/concept/c_SurveyServicePortal.html)
+-   [Wordpress Survey](http://wcminneapolis.polldaddy.com/s/wordcamp-minneapolis-st-paul-2017-survey)

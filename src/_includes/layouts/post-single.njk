@@ -1,0 +1,39 @@
+{% extends "base.njk" %}
+{% block content %}
+<div class="jumbotron text-center">
+
+  <!-- Title -->
+  <h4 class="card-title h4 pb-2"><strong>{{ title }}</strong></h4>
+
+  <!-- Card image -->
+  <div class="view overlay my-4">
+    <img src="./{{imageName}}" class="img-fluid" alt="">
+    <a href="#">
+      <div class="mask rgba-white-slight"></div>
+    </a>
+  </div>
+
+  <h5 class="indigo-text h5 mb-4">{{ subtitle }}</h5>
+
+  <p class="card-text">{{ summary }}</p>
+
+</div>
+<div class="container">
+    <div class="row justify-content-md-center">
+        <div class="col-md-10">
+            {{ content | safe }}
+        </div>
+    </div>
+</div> 
+
+<script src="https://utteranc.es/client.js"
+        repo="jacebenson/jace.pro"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>Please enable JavaScript to view the comments powered by Utterances.</a></noscript>
+
+{% endblock content %}

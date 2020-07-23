@@ -1,0 +1,155 @@
+$font: 'Roboto', sans-serif
+$fa: 'fontawesome'
+
+
+*
+    margin: 0
+    padding: 0
+
+
+a:focus,
+a:hover,
+a:visited,
+input,
+input:hover,
+input:focus,
+input:active,
+select
+    text-decoration: none
+    outline: none !important
+
+img
+    max-width: 100%
+
+span
+    display: inline-block
+
+.no-padding
+    padding: 0
+
+.static
+    position: static
+    
+.relative
+    position: relative
+
+.bg2
+    background-color: #f3f6fa
+.bg1
+    @extend .c3-bg
+.sp
+    padding-top: 90px
+    padding-bottom: 90px
+.spt
+    padding-top: 90px
+.spb
+    padding-bottom: 90px
+    
+/*
+    preloader css
+
+.preloader
+    +flex_center
+    height: 100%
+    width: 100%
+    z-index: 99
+    position: fixed
+    top: 0
+    left: 0
+    background: #fff
+    text-align: center
+
+.preloader-spin
+    margin: 0 auto
+    height: 35px
+    width: 35px
+    display: inline-block
+    background: transparent
+    border-radius: 50%
+    border-width: 2px
+    border-style: solid
+    border-color: #d0d0d0 #d0d0d0 #111111 #d0d0d0
+    animation: 1s linear 0s normal none infinite running spinner_preloader
+
+@keyframes spinner_preloader
+    0%
+        transform: rotate(0deg)
+    50%
+        transform: rotate(360deg)
+    100%
+        transform: rotate(720deg)
+
+/* 
+    button
+
+.button
+    font-size: 14px
+    line-height: 40px
+    padding: 0 20px
+    border: 2px solid
+    color: #fff
+    @extend .c3-bg
+    @extend .c3-bo
+    @extend .trns
+    border-radius: 3px
+    font-weight: 400
+    &:hover
+        color: #fff
+        background-color: #333
+        border-color: #333 !important
+    +mq(xsm)
+        font-size: 13px
+        padding: 0 15px
+        line-height: 32px
+    
+.button-2
+    font-size: 14px
+    line-height: 40px
+    padding: 0 20px
+    border: 2px solid
+    color: #fff
+    background-color: transparent
+    border: 2px solid #c1c2c5
+    color: $c1
+    @extend .trns
+    border-radius: 3px
+    font-weight: 400
+    &:hover
+        color: #fff
+        background-color: #333
+        border-color: #333
+    +mq(xsm)
+        font-size: 13px
+        padding: 0 15px
+        line-height: 32px
+
+/*
+    section title
+.section-title
+    text-align: center
+    font-size: 16px
+    color: #7d91aa
+    font-weight: 300
+    margin-bottom: 30px
+    h2
+        margin: 0 0 5px
+        font-size: 40px
+        font-weight: 700
+        color: $c2
+    &.white
+        color: #ffffff
+        h2
+            color: #fff
+            
+/*
+    page-title
+
+.page-title
+    font-size: 16px
+    color: #7d91aa
+    h2
+        font-size: 50px
+        font-weight: 700
+        color: #333
+    p:last-child
+        margin-bottom: 0

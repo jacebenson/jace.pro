@@ -1,0 +1,22 @@
+$c1: #2d3666
+$c2: #222538
+$c3: #4698ff
+$c4: #f4f4f4
+
+
+=colors($color, $class)
+    .#{$class}
+        color: $color
+    .#{$class}-bg 
+        background-color: $color
+    .#{$class}-bo 
+        border-color: $color !important
+
+
++colors($c1, c1)
++colors($c2, c2)
++colors($c3, c3)
+
+.trns
+    -webkit-transition: all 0.3s cubic-bezier(0.84, 0.35, 0.39, 0.74) 0s
+    transition: all 0.3s cubic-bezier(0.84, 0.35, 0.39, 0.74) 0s

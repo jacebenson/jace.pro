@@ -1,0 +1,116 @@
+=trns()
+    @extend .trns
+
+=transition($transition)
+    -webkit-transition: $transition
+    transition: $transition
+
+=transition-duration($transition-duration)
+    -webkit-transition-duration: $transition-duration
+    transition-duration: $transition-duration
+
+=transition-delay($transition-delay)
+    -webkit-transition-duration: $transition-delay
+    transition-duration: $transition-delay
+
+=transition-timing-function($transition-timing-function)
+    -webkit-transition-duration: $transition-timing-function
+    transition-duration: $transition-timing-function
+
+    
+=transform($x)
+    -webkit-transform: $x
+    transform: $x
+    
+    
+=display-flex($flex)
+    display: -webkit-box
+    display: -ms-flexbox
+    display: -webkit-flex
+    display: flex
+
+=inline-flex($flex)
+    display: -webkit-inline-box
+    display: -webkit-inline-flex
+    display: -ms-inline-flexbox
+    display: inline-flex
+
+=flex-column($column)
+    -webkit-box-orient: vertical
+    -webkit-box-direction: normal
+    -ms-flex-direction: column
+    -webkit-flex-direction: column
+    flex-direction: column
+
+=justify-content($value)
+    -webkit-box-pack: $value
+    -ms-flex-pack: $value
+    -webkit-justify-content: $value
+    justify-content: $value
+
+=flex_center()
+    +display-flex(flex)
+    +justify-content(center)
+    +flex-column(column)
+
+=appearance($none)
+    -webkit-appearance: $none
+    -moz-appearance: $none
+    appearance: $none
+
+=placehold()
+    &::-webkit-input-placeholder
+        @content
+    &::-moz-placeholder
+        @content
+    &:-ms-input-placeholder
+        @content
+    &:-moz-placeholder
+        @content
+
+=keyframe($animName)
+    @-webkit-keyframes #{$animName}
+        @content
+    @keyframes #{$animName}
+        @content
+
+//responsive media query mixin
+
+=mq($mediaName)
+    @if $mediaName == "xs"
+        @media only screen and (max-width: 575px)
+            @content
+    @else if $mediaName == "sm"
+        @media only screen and (min-width: 576px) and (max-width: 767px)
+            @content
+    @else if $mediaName == "xsm"
+        @media only screen and (max-width: 767px)
+            @content
+    @else if $mediaName == "md"
+        @media only screen and (min-width: 768px) and (max-width: 991px)
+            @content
+    @else if $mediaName == "xmd"
+        @media only screen and (max-width: 991px)
+            @content
+    @else if $mediaName == "mmd"
+        @media only screen and (min-width: 991px)
+            @content
+    @else if $mediaName == "lg"
+        @media only screen and (min-width: 992px) and (max-width: 1199px)
+            @content
+    @else if $mediaName == "xlg"
+        @media only screen and (max-width: 1199px)
+            @content
+    @else if $mediaName == "mlg"
+        @media only screen and (min-width: 992px)
+            @content
+    @else if $mediaName == "xl"
+        @media only screen and (min-width: 1200px)
+            @content
+    @else if $mediaName == "xxl"
+        @media only screen and (max-width: 1199px)
+            @content
+
+=cmq($val1, $val2)
+    @media only screen and (min-width: $val1) and (max-width: $val2)
+        @content

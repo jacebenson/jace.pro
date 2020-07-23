@@ -1,0 +1,52 @@
+
+<footer>
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-lg-6 footer_widget">
+                    <div class="inner">
+                        <h4>Recent Posts</h4>
+                        {% for post in collections.post.slice(collections.post.length-4,collections.post.length) | reverse %}
+                            <div class="media">
+                                <a href="{{ post.url }}">
+                                    <img class="d-flex mr-3" 
+                                        src="{{post.url}}{{post.data.imageName}}" 
+                                        alt="{{post.url}}{{post.data.imageName}}" 
+                                        style="max-width:150px;"
+                                    />
+                                </a>
+                                <div class="media-body">
+                                    <p>
+                                        <a href="{{ post.url }}">{{ post.data.title }}</a>
+                                    </p>
+                                    <span>{{post.data.date.toISOString().split('T')[0]}}</span>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-6 footer_widget">
+                    <div class="inner">
+                        <h4>Want to hear more from me? Say thanks? Or have a discussion?</h4>
+                        <p>Become a Patron and you'll get access to my posts in progress, polls, thoughts and other things I want to share.  A monthly happy hour with me and access to my PDI.</p>
+                        <a class="nav-link" href="https://www.patreon.com/bePatron?u=23597006"><img src="/assets/img/patron.png" alt="Become a Patron!" style="height:50px"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="copyright-txt">
+                        Jace Benson © 2020 · <a href="/index.xml">RSS <i class="fa fa-rss" aria-hidden="true"></i></a>
+                                <a href="https://twitter.com/jacebenson" class="fa fa-twitter"></a>
+                                <a href="https://github.com/jacebenson" class="fa fa-github"></a>
+                                <a href="https://linkedin.com/jacebenson" class="fa fa-linkedin"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
