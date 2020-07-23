@@ -16,17 +16,33 @@
     <link rel="apple-touch-icon" type="image/png" href="/assets/img/apple-touch-icon.png">
     <link rel="canonical" href="https://jace.pro/">
     <!--<link rel="manifest" href="/index.webmanifest">-->
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:site" content="@jacebenson">
-    <meta property="twitter:creator" content="@jacebenson">
-    <meta property="og:site_name" content="jace.pro">
-    <meta property="og:url" content="https://jace.pro/">
-    <meta property="og:title" content="jace.pro">
-    <meta property="og:description" content="Jace's ServiceNow Blog">
-    <meta property="og:image" content="https://jace.pro/assets/img/logo.jpg">
-    <meta property="twitter:image" content="https://jace.pro/assets/img/logo.jpg">
-    <meta property="og:locale" content="en-us">
-    <meta property="og:updated_time" content="2020-06-26T15:46:01-05:00">
+
+ {%- block seo -%}
+    <!--Twitter Card-->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@{{site.twitter}}">
+    <meta name="twitter:creator" content="@{{site.twitter}}">
+    <meta name="twitter:url" content="{{site.baseURL}}{{page.url}}">
+    <meta name="twitter:title" content="{{title}}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    
+    <!--Schema-->
+    <link rel="author" href="{{site.baseURL}}">
+    <link rel="publisher" href="{{site.baseURL}}">
+    <meta itemprop="name" content="{{title}}">
+    <meta itemprop="description" content="{{ site.description }}">
+    
+    <!-- Facebook OpenGraph -->
+    <meta property="fb:app_id" content="{{site.FB_APP_ID}}">
+    <meta property="og:url" content="{{site.baseURL}}{{page.url}}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{title}}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:site_name" content="{{site.title}}">
+    <meta property="og:locale" content="en_GB">
+    <meta property="article:author" content="{{site.baseURL}}">
+    {%- endblock -%}
+    
 
     <title>{{ title }}</title>
 
