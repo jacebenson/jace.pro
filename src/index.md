@@ -2,7 +2,6 @@
 layout: "/layouts/simple.njk"
 title: "jace.pro"
 description: ""
-backgroundImage: "/assets/img/about-title.jpg"
 ---
 
 I work on web technogies every day with ambition to learn more about what makes the web work. I love working on new/new to me libraries and all things Javascript.

@@ -1,12 +1,8 @@
 ---
 layout: "layouts/news.njk"
-title: "News"
+title: "Thank you to all my patrons for showing your support"
 description: ""
-backgroundImage: "/assets/img/resources-title.jpg"
 ---
+News highlighted from my patrons
 
-Thank you to all my patrons for showing your support.
-
-News highlighted from my patrons.
-
-# All ServiceNow news updated daily.
+# All ServiceNow news updated daily
