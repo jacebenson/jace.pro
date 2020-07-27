@@ -4,8 +4,8 @@ subtitle: "I'm not a fan but free is free"
 summary: "I'm not a fan but free is free"
 date: 2020-06-26T15:46:01-05:00
 ---
-A while ago I wrote about how Certificates are not as important as Projects.  I hold that believe.  But free is free.  I caved and took the training to get the voucher.  If you haven't you should too.
-
+A while ago I wrote about how certificates are not as important as Projects.  I hold that believe.  But free is free.  I caved and took the training to get the voucher.  If you have not, you should.
+ 
 The NowLearning has improved a lot.  They go over a lot of stuff.  Here's a list of the things I worked on to get it;
 
 - ServiceNow Platform Overview
