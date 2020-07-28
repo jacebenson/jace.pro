@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 date: 2019-09-28T21:33:20-05:00
 imageName: "featured.png"
-imageThumbnail: "featured-thumbnail.png",
+imageThumbnail: "featured-thumbnail.png"
 ---
 
 First, I have to say, thank you @paige for making me aware.  I really appreciate you and this info. 

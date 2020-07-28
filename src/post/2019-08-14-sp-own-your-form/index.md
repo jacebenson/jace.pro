@@ -4,7 +4,7 @@ subtitle: ""
 summary: ""
 date: 2019-08-14T20:25:56-05:00
 imageName: "featured.png"
-imageThumbnail: "featured-thumbnail.png",
+imageThumbnail: "featured-thumbnail.png"
 ---
 Sometimes, you have to really control your form.  For the most part you can 
 use the out of box variable types ServiceNow gives you and the messages they give you.
