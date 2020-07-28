@@ -4,6 +4,7 @@ subtitle: ""
 summary: ""
 date: 2019-10-05T00:24:27-05:00
 imageName: "featured.png"
+imageThumbnail: "featured-thumbnail.png",
 ---
 So I’ve built many automation tasks that didn’t account for what to do during an error or an expected output.
 

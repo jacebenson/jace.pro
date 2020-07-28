@@ -4,6 +4,7 @@ subtitle: ""
 summary: ""
 date: 2019-09-28T19:07:20-05:00
 imageName: "featured.png"
+imageThumbnail: "featured-thumbnail.png",
 ---
 
 [Syntax Editor Macros](https://docs.servicenow.com/bundle/geneva-servicenow-platform/page/script/general_scripting/reference/r_SyntaxEditorMacros.html) are rarely talked about.

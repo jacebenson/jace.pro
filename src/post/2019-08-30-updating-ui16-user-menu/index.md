@@ -4,6 +4,7 @@ subtitle: "This is great, and undocumented"
 summary: ""
 date: 2019-08-30T23:25:56-05:00
 imageName: "featured.png"
+imageThumbnail: "featured-thumbnail.png",
 ---
 
 Ever wanted to add an item in the drop down menu on the header or

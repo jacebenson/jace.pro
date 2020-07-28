@@ -4,6 +4,7 @@ subtitle: "Every. Single. Day."
 summary: ""
 date: 2019-09-28T09:51:14-05:00
 imageName: "featured.png"
+imageThumbnail: "featured-thumbnail.png",
 ---
 
 I posted a survey on Twitter a few weeks ago;
