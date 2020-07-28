@@ -3,7 +3,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(pluginRss);  
     eleventyConfig.addPassthroughCopy("assets");
-    eleventyConfig.addPassthroughCopy("**/*.jpg");
+    eleventyConfig.addPassthroughCopy("./src/**/*.jpg");
     eleventyConfig.addPassthroughCopy("./src/**/*.png");
     eleventyConfig.addPassthroughCopy("./src/**/*.gif");
     eleventyConfig.addPassthroughCopy("./src/**/*.mp4");
