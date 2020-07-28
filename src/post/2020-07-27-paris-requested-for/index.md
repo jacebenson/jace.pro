@@ -23,8 +23,8 @@ I started my work on ServiceNow in Service Catalog.  This is actually one of the
 ## Steps to set up "Requested For" variable
 
 1. Add a "Requested For" variable to the catalog item.
-  - Decide who you want to be able to pick these values (they have a field for that control)
-  - Set up the reference qualifier
+   - Decide who you want to be able to pick these values (they have a field for that control)
+   - Set up the reference qualifier
 2. That's it.
 
 ## Limitations 
