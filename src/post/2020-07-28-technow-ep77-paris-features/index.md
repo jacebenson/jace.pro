@@ -139,9 +139,12 @@ They hit a lot of things.  Here's what I noted from the video.
 **TinyMCE Updates** _[Default toolbar](https://docs.servicenow.com/bundle/paris-platform-administration/page/administer/workspace/concept/tinymce.html#set-dictionary-attributes-workspace). [Table specific attributes](https://docs.servicenow.com/bundle/paris-platform-administration/page/administer/workspace/concept/tinymce.html#change-tinymce-toolbar-specific-table).  [TinyMCE plugins for specific table](https://docs.servicenow.com/bundle/paris-platform-administration/page/administer/workspace/concept/tinymce.html#set-attributes-tinymce-dictionary)._\
 **Lists** _Live badges with refresh icon.  Column resizing._
 
-## QA
+## Question and Answers
 
 - Any recommendations for when to upgrade as a new customer?  Right now, you don't have any data. 
 - Flow designer rollback - up vote the idea it's coming
 - Lots of questions about IDR and e-bonding
 - Q's will be answered later on the [community post for Technow ep77](https://community.servicenow.com/community?id=community_blog&sys_id=130bff98db7dd090feb1a851ca9619cd).
+
+## Slides
+![Link to the deck](technowep77parisplatformfeatures202007151595891712984.pdf)
