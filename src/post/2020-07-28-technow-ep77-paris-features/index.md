@@ -147,4 +147,4 @@ They hit a lot of things.  Here's what I noted from the video.
 - Q's will be answered later on the [community post for Technow ep77](https://community.servicenow.com/community?id=community_blog&sys_id=130bff98db7dd090feb1a851ca9619cd).
 
 ## Slides
-![Link to the deck](technowep77parisplatformfeatures202007151595891712984.pdf)
+[Link to the deck](technowep77parisplatformfeatures202007151595891712984.pdf)
