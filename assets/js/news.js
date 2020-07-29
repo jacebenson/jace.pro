@@ -87,7 +87,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
   var params = (new URL(document.location)).searchParams;
   var start = params.get('start'); // is the string "Jonathan Smith".
   var end = params.get('end');
-  var url = "https://snnews.jace.pro/.netlify/functions/server";
+  var url = "https://news.jace.pro/.netlify/functions/server";
   var pageUrl = new URL(document.URL);
   url += pageUrl.search;
   if (pageUrl.search) {
