@@ -25,14 +25,14 @@ Presonally I have a "Base" resume I keep up to date with all my experience and s
 
 1.  **Keep it current.**               - Update that resume anytime you get a job with the tasks or skills they list.
 2.  **Don't lie.**                     - It's easy to lie, not so easy to get away with it.  If caught you won't be hired.
-3.  **Describe creatively.** - Change things like, "Handled integrations" with, "Saved 5 hours per week per person automating ServiceNow to Payroll feeds"
-4.  **Know your skills.**              - An admin and a developer can look the same on paper.  
+3.  **Describe creatively.**           - "Handled integrations" becomes, "Saved 5 hours per week per person automating ServiceNow to Payroll feeds"
+4.  **Know your skills.**              - An admin and a developer can look the same on paper.
 5.  **Clean up your social media.**    - If they look you up, you don't want contriveral things coming up.
 6.  **Know your resume.**              - BE READY TO SPEAK ON EVERY THING YOU PUT ON THE RESUME.
-7.  **Make it personal.**              - Tailor the resume to the job.  Use their lingo from their job posting.\
-8.  **Quantify your successes.**       - Numbers will find attention.\
-9.  **Enlist your community.**         - Share the details where you help others and they help you.\
-10. **Pair your resume down.**         - Be concise.  This isn't an biography.\
+7.  **Make it personal.**              - Tailor the resume to the job.  Use their lingo from their job posting.
+8.  **Quantify your successes.**       - Numbers will find attention.
+9.  **Enlist your community.**         - Share the details where you help others and they help you.
+10. **Pair your resume down.**         - Be concise.  This isn't an biography.
 
 You *should* update your resumer per position applied to show your best sides to the potiental employer.  I've done this but not everytime.
 
@@ -51,13 +51,13 @@ I encourage everyone in this space to listen to Robert Fedoruk and Kyle Carson
 
 **One**, **two**, **three**, **four**, **five**, **six**, **seven**, **eight**, **nine**... It's the **ten** jobby commandments.
 
-**One   - Focus and elevate.**               Know your worth and expect it.(I read [this](https://www.kalzumeus.com/2012/01/23/salary-negotiation) to get there. **Every**. **Single**. **Time**.\
-**Two   - Make ready questions for poeple.** On the screening call ask for benefits, culture, company expectations.  During the interview ask the team about fit, team, and technical specifics.
-**Three - Apply to at least three places.**  One you don't want work at, and the rest you do.  Practice with the "don't" place.\
-**Four  - Take notes.**                      Use pen and paper to write stuff down during the all interview steps.  You won't regret it, and then you'll have it to reference later.
-**Five  - Research. Research. Research.**    Undertsand the goals of each company.  What their lines of business are, and consider would you fit in there.
-**Six   - Never give a number first.**       Make the goal to figure out if you **want** to work here a lot and they **want** to hire you a lot.  When that's true, numbers are more flexible.
-**Seven - Listen and repeat.**               Pick out keywords from the job posting, and use them where appropriate.  Someone in the hiring chain will have written it.
-**Eight - Money isn't everything.**          It's the important thing, but sometimes a place can't offer you what you deserve, consider negotiating extra pto where salary is set.
-**Nine  - "Interesting" is a great word.**   If they tell you a number, tell them it's an "interesting" number, not a "great" number.  Interesting, is a positive and non-commital at the same time.\
-**Ten   - Defer to a EXTERNAL_AUTHORTY**     This injects an automatic delay in the process, and gives you a scapegoat for refusing a request while not being guilty of the refusal yourself.
+1. **Focus and elevate.**               Know your worth and expect it.(I read [this](https://www.kalzumeus.com/2012/01/23/salary-negotiation) to get there. **Every**. **Single**. **Time**.
+1. **Make ready questions for poeple.** Screening call: benefits, culture, company expectations. Interview: team, and technical specifics.
+1. **Apply to at least three places.**  One you don't want work at, and the rest you do.  Practice with the "don't" place.
+1. **Take notes.**                      Use pen and paper to write stuff down during the all interview steps.  You won't regret it, and then you'll have it to reference later.
+1. **Research. Research. Research.**    Undertsand the goals of each company.  What their lines of business are, and consider would you fit in there.
+1. **Never give a number first.**       Goal: Figure out if you **want** to work here and if they **want** to hire you a lot.  When that's true, numbers are flexible.
+1. **Listen and repeat.**               Pick out keywords from the job posting, and use them where appropriate.  Someone in the hiring chain will have written it.
+1. **Money isn't everything.**          It's important.  Sometimes a place can't offer you what you deserve, consider negotiating extra pto where salary is set.
+1. **"Interesting" is a great word.**   Them: We can offer you 80k.  You: 80k is interesting.  It's not quite where we need this.
+1. **Defer to a EXTERNAL_AUTHORTY**     This gives you a scapegoat for refusing a request while not being guilty of the refusal yourself.

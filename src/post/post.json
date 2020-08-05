@@ -5,6 +5,5 @@
     "imageThumbnail": "featured-thumbnail.jpg",
     "passthroughFiles": ["*.(jpg|png)"],
     "authors": ["jace"],
-    "featured": "false",
-    "draft": "false"
+    "featured": "false"
 }
