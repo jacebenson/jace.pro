@@ -41,19 +41,19 @@ I have a "Base" resume I keep up to date with all my experience and such, and I 
 
 You *should* update your resume per position applied.  Show your best sides to the potential employer. I've done this but not every time.
 
-### Interviews are just converations to give and get information
+### Interviews are just conversations to give and get information
 
 So since I'm still loving Hamilton I'm going to try something new;
 
 **One**, **two**, **three**, **four**, **five**, **six**, **seven**, **eight**, **nine**... It's the **ten** jobby commandments.
 
 1. **Focus and elevate.**               Know your worth and expect it.(I read [this](https://www.kalzumeus.com/2012/01/23/salary-negotiation) to get there. **Every**. **Single**. **Time**.
-1. **Make ready questions for poeple.** Screening call: benefits, culture, company expectations. Interview: team, and technical specifics.
+1. **Make ready questions for people.** Screening call: benefits, culture, company expectations. Interview: team, and technical specifics.
 1. **Apply to at least three places.**  One you don't want work at, and the rest you do.  Practice with the "don't" place.
 1. **Take notes.**                      Use pen and paper to write stuff down during the all interview steps.  You won't regret it, and then you'll have it to reference later.
-1. **Research. Research. Research.**    Undertsand the goals of each company.  What their lines of business are, and consider would you fit in there.
+1. **Research. Research. Research.**    Understand the goals of each company.  What their lines of business are, and consider would you fit in there.
 1. **Never give a number first.**       Goal: Figure out if you **want** to work here and if they **want** to hire you a lot.  When that's true, numbers are flexible.
 1. **Listen and repeat.**               Pick out keywords from the job posting, and use them where appropriate.  Someone in the hiring chain will have written it.
-1. **Money isn't everything.**          It's important.  Sometimes a place can't offer you what you deserve, consider negotiating extra pto where salary is set.
+1. **Money isn't everything.**          It's important. Sometimes a place can't offer you what you need. Consider negotiating extra time off where salary is set.
 1. **"Interesting" is a great word.**   Them: We can offer you 80k.  You: 80k is interesting.  It's not quite where we need this.
-1. **Defer to a EXTERNAL_AUTHORTY**     This gives you a scapegoat for refusing a request while not being guilty of the refusal yourself.
+1. **Defer to a EXTERNAL_AUTHORTY.**     This gives you a scapegoat for refusing a request while not being guilty of the refusal yourself.
