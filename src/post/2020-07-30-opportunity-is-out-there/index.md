@@ -52,7 +52,7 @@ So since I'm still loving Hamilton I'm going to try something new;
 | &nbsp; | &nbsp; |
 | --- | --- |
 |1. **Focus and elevate.**               | Know your worth and expect it.(I read [this](https://www.kalzumeus.com/2012/01/23/salary-negotiation) to get there. **Every**. **Single**. **Time**). |
-|2. **Ready questions for people.** | Screening call: benefits, culture, company expectations. Interview: team, and technical specifics. |
+|2. **Ready questions for people.**      | Screening call: benefits, culture, company expectations. Interview: team, and technical specifics. |
 |3. **Apply to at least three places.**  | One you don't want work at, and the rest you do.  Practice with the "don't" place. |
 |4. **Take notes.**                      | Write down notes during the all interview steps.  You won't regret it, and then you'll have it to reference later. |
 |5. **Research. Research. Research.**    | Understand the goals of each company.  What their lines of business are, and consider would you fit in there. |
@@ -60,4 +60,4 @@ So since I'm still loving Hamilton I'm going to try something new;
 |7. **Listen and repeat.**               | Use keywords from the job posting, and use them where appropriate. |
 |8. **Money isn't everything.**          | It's important. Some places can't offer you what you need. Consider negotiating extra time off then. |
 |9. **"Interesting" is a great word.**   | Them: We can offer you 80k.  You: 80k is interesting.  It's not quite where we need this. |
-|10. **Defer to a EXTERNAL_AUTHORTY.**    | This gives you a scapegoat for refusing a request while not being guilty of the refusal yourself. |
+|10. **Defer to a EXTERNAL_AUTHORTY.**   | This gives you a scapegoat for refusing a request while not being guilty of the refusal yourself. |
