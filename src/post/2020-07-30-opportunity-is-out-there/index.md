@@ -47,7 +47,7 @@ So since I'm still loving Hamilton I'm going to try something new;
 
 **One**, **two**, **three**, **four**, **five**, **six**, **seven**, **eight**, **nine**... It's the **ten** jobby commandments.
 
-1. **Focus and elevate.**               Know your worth and expect it.(I read [this](https://www.kalzumeus.com/2012/01/23/salary-negotiation) to get there. **Every**. **Single**. **Time**.
+1. **Focus and elevate.**               Know your worth and expect it.(I read [this](https://www.kalzumeus.com/2012/01/23/salary-negotiation) to get there. **Every**. **Single**. **Time**).
 1. **Make ready questions for people.** Screening call: benefits, culture, company expectations. Interview: team, and technical specifics.
 1. **Apply to at least three places.**  One you don't want work at, and the rest you do.  Practice with the "don't" place.
 1. **Take notes.**                      Use pen and paper to write stuff down during the all interview steps.  You won't regret it, and then you'll have it to reference later.
