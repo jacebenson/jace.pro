@@ -13,3 +13,22 @@ I've dabbled with GraphQL when setting up GatsbyJS sites, so I thought I could m
 
 ![Screenshot of new GraphQL Record](graphql-ss.png)
 
+## What is GraphQL
+
+As stated on [graphql.org](https://graphql.org), "A query language for your API".  You specify with a rest request, what you need, and how you need it, and it's returned that way.  So where you might have had to make a call to incident, to find incidents for issues against your application.  Then a call to user's devices to know how to reach the user.  GraphQL allows for one call to get that.  I'm sure there's more to it, but that's the benefit I see.
+
+## Getting GraphQL
+
+I'm going to be going over the points made here: https://github.com/noxify/ServiceNow-GraphQL-Example
+
+I'm going to make a few assumptions if you're here.  
+1.  You are using a Paris PDI.
+2.  You have Postman installed (or a similar rest tool).
+3.  GraphQL is enabled (System Web Service > GraphQL > Properties).  Check all the things.
+
+What are these things;
+
+ - Schema: This is the definition of your graphQL.  It will direct the query to resolvers and mutations as needed.
+ - Resolver: These are scripts to return defined Objects from your Schema
+ - Mutation: I assume this is to modify something you got back.  I'd guess, changing languages might be best done with these.
+
