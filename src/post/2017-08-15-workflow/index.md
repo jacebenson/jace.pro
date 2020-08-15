@@ -1,0 +1,300 @@
+---
+title: "Workflow considerations"
+subtitle: ""
+summary: "There are a few things I always think should be considered when using a workflow."
+date: 2017-08-15T23:25:56-05:00
+---
+
+There are a few things I always think should be considered when using a
+workflow.
+
+-   [Patterns](#patterns)
+-   [Activities](#activities)
+-   [Script](#script)
+
+# Patterns
+
+1.  Always, always add a timer after the Begin activity.
+2.  Avoid Switches because they don't update when their conditioned
+    field changes.
+3.  Avoid Email Activities, instead, opt for Event activities.
+
+Here I have a diagram showing a timer added after the Begin activity.
+This timer returns the user's session so it seems immediately which is
+great for user experience. But, it makes your workflow dependent on
+the events queue. If that goes down, this is the least of your worries.
+
+![](workflow-1.png)
+
+Next, I have a Diagram showing the Switch, if some changed the
+variable/field values of "Standard" to "Mechanical" the workflow
+activity won't know to use the new value until you check it out, then
+recreate the switch, and check it back in. Because of this, I use If
+activities. It is more activities but, because the If activities are
+scripted, they won't break when you change the variable. If activities
+used to allow you to create any number of "result" boxes below, one of
+them being an "else" but now If's only allow yes and no for results.
+Below is an example Switch Workflow and it in the If pattern.
+
+![](workflow-2.png)
+
+![](workflow-3.png)
+
+Last but not least, because you should avoid checking out
+workflows, always use events in workflows if you need a workflow to
+generate a notification. There are some extra steps to take to do
+this but it's well worth it because now you can use the notification
+records how they are for the rest of the system, you can generate the
+notification without the workflow by running the following in a business
+rule or any server-side script;
+
+`gs.eventQueue('custom.notification', current, 'parm1', 'parm2');`
+
+Now if you were using variables and are not sure how to pass more than
+two parameters, don't fear. Make your first parm a `JSON.stringify`
+object. Sure you'll need to `JSON.parse` the object in the notification,
+but now you can pass everything in a way not dependent on the workflow.
+
+# Activities
+
+| Type          | Activity                                          | Description                                                                                                                                    |
+|---------------|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Subflows      | [Parallel Flow Launcher](#parallel-flow-launcher) | Launches multiple subflows in parallel.                                                                                                        |
+| Utilities     | [Branch](#branch)                                 | Splits the workflow into multiple transition paths from a single activity.                                                                     |
+| Utilities     | [Join](#join)                                     | Unites multiple execution paths into one transition.                                                                                           |
+| Utilities     | [Return Value](#return-value)                     | Returns a value to a parent workflow, when run from a subflow.                                                                                 |
+| Utilities     | [Run Script](#run-script)                         | Runs the specified script in the scope of the workflow version.                                                                                |
+| Utilities     | [Set Values](#set-values)                         | Sets values on the current record when the workflow quiesces or ends.                                                                          |
+| Conditions    | [If](#if)                                         | Checks a condition or script to determine if a Yes or No transition should be taken.                                                           |
+| Approvals     | [Approval Action](#approval-action)               | Performs an approval action on the current task.                                                                                               |
+| Approvals     | [Approval Coordinator](#approval-coordinator)     | Creates an approval whose outcome depends on the outcome of one or more child activities.                                                      |
+| Approvals     | [Approval - Group](#approval-group)               | Creates approval records for each member of a specified group.                                                                                 |
+| Approvals     | [Approval - User](#approval-user)                 | Creates one or more individual user approvals.                                                                                                 |
+| Approvals     | [Manual Approvals](#manual-approvals)             | Watches and manages any approvals that users add manually outside of the workflow process.                                                     |
+| Tasks         | [Catalog Task](#catalog-task)                     | Creates a service catalog task record.                                                                                                         |
+| Tasks         | [Create Task](#create-task)                       | Generates a record on any of the tables that extend Task \[task\].                                                                             |
+| Timers        | [SLA Percentage Timer](#sla-percentage-timer)     | Pauses the workflow for a duration equal to a percentage of an SLA.                                                                            |
+| Timers        | [Timer](#timer)                                   | Pauses the workflow for a specified period of time.                                                                                            |
+| Notifications | [Create Event](#create-event)                     | Adds an event to the event queue, but does not immediately fire the event.                                                                     |
+| Utilities     | Lock                                              | (no use-case) Prevents other instances of this workflow from continuing past this activity until the lock is released.                         |
+| Utilities     | Unlock                                            | (no use-case) Releases a lock that was previously placed by the Lock activity.                                                                 |
+| Utilities     | Log Message                                       | (no use-case) Writes a message to the workflow log.                                                                                            |
+| Utilities     | Log Trace Message                                 | (no use-case) Writes a trace message to the workflow log.                                                                                      |
+| Utilities     | REST Message legacy                               | (use run script instead) Enables an administrator to override the REST endpoint or supply the variables configured in the REST Message module. |
+| Utilities     | SOAP Message legacy                               | (use run script instead) Uses SOAP messages defined in the System Web Services plugin and can call the messages using a MID Server.            |
+| Utilities     | Turnstile                                         | (no use-case) Limits how many times a workflow can pass through the same point.                                                                |
+| Tasks         | Add Worknote                                      | (use set values instead) Adds text to the Worknotes field of the current incident record.                                                      |
+| Tasks         | Attachment Note                                   | (use run script instead) Adds an attachment to the current record.                                                                             |
+| Notifications | Notification                                      | (no use-case) Sends an email or SMS message to specified users or groups.                                                                      |
+| Conditions    | Switch                                            | (no use-case) Checks if the value of a passed field or variable is equivalent to one of several case values.                                   |
+| Conditions    | Wait for condition                                | (no use-case) Causes the workflow to wait at this activity until the current record matches the specified condition.                           |
+| Conditions    | Wait for WF Event                                 | (no use-case) Causes the workflow to wait at this activity until the specified event is fired.                                                 |
+| Approvals     | Generate                                          | (no use-case) Immediately creates task or approval records from any task or approval activities placed this.                                   |
+| Approvals     | Rollback To                                       | (no use-case) Transitions directly to the activity specified by the outgoing transition line arrow.                                            |
+| Orchestration | JDBC                                              | Allows you to execute ANSI SQL statements or stored procedures on a target database.                                                           |
+| Orchestration | SOAP web service                                  | Create a custom SOAP activity.                                                                                                                 |
+| Orchestration | Javascript Probe                                  | Has the same functionality as making 'Packages' calls into standard Java libraries.                                                            |
+| Orchestration | PowerShell                                        | Return data to a workflow from a host using Microsoft PowerShell.                                                                              |
+| Orchestration | REST web service                                  | Use this procedure to create a custom REST web service Orchestration activity.                                                                 |
+| Orchestration | SFTP                                              | Executes basic SFTP commands on a remote server.                                                                                               |
+| Orchestration | probe                                             | Runs a probe on the target host that is configured to return specific information.                                                             |
+| Orchestration | SSH                                               | Extracts data from a target host that uses the SSH network protocol.                                                                           |
+| Orchestration | run script                                        | Runs any script.                                                                                                                               |
+| Orchestration | JMS                                               | Create a custom JMS activity to retrieve or send messages to external systems using the Java Messaging Service.                                |
+| Notify        | Forward call                                      | Forwards a Notify call to an E.164-compliant phone number.                                                                                     |
+| Notify        | Input                                             | Creates a phone menu by presenting a list of options on a Notify call.                                                                         |
+| Notify        | Hangup                                            | Disconnects an active Notify phone call.                                                                                                       |
+| Notify        | Play                                              | Plays a sound file on a Notify call.                                                                                                           |
+| Notify        | Record                                            | Records audio from a user on a Notify call.                                                                                                    |
+| Notify        | Reject                                            | Rejects an incoming Notify call.                                                                                                               |
+| Notify        | Say                                               | Allows you to play a message, using text to speech, on a Notify call.                                                                          |
+| Notify        | Forward to notify client                          | Connects a phone call to a Notify WebRTC client.                                                                                               |
+| Notify        | Call                                              | Makes outbound phone calls using a Notify workflow.                                                                                            |
+| Notify        | Join conference call                              | Connects an incoming or outgoing call to a Notify conference call.                                                                             |
+| Notify        | Send SMS                                          | Allows you to send short text messages using Notify to users' phones.                                                                          |
+| Notify        | Queue                                             | Places an active Notify call in a queue.                                                                                                       |
+
+## Parallel Flow Launcher
+
+Launches multiple subflows in parallel.
+
+A few things;
+
+-   You **MUST** specify a count, without it, you'll get an error.
+-   If you want to get an output from a subflow, in hte Flow complete
+    script you can access it via `flow.output`
+-   `flow.output` requires the subflow has Return activity.
+
+## Branch
+
+The offical use of this is "Splits the workflow into multiple transition
+paths from a single activity."
+
+I like to use this to keep my lines clean.
+
+## Join
+
+Unites multiple execution paths into one transition.
+
+Generally I remove the "incomplete" transistion off of the activity.
+Also, **ALL** activities connecting **TO** this must complete.
+
+## Return Value
+
+Returns a value to a parent workflow, when run from a subflow.
+
+## Run Script
+
+Runs the specified script in the scope of the workflow version.
+
+This activity is ver versitile. You can add transisitions based on
+values you set in the scratchpad and then have those go off. This is a
+great replacement for;
+
+-   Attachment Note
+-   Soap Message Legacy
+-   Rest Message Legacy
+-   REST web service
+-   SOAP web service
+
+## Set Values
+
+Sets values on the current record when the workflow quiesces or ends.
+
+## If
+
+Checks a condition or script to determine if a Yes or No transition
+should be taken.
+
+## Approval Action
+
+Performs an approval action on the current task.
+
+## Approval Coordinator
+
+Creates an approval whose outcome depends on the outcome of one or more
+child activities.
+
+## Approval - Group
+
+Creates approval records for each member of a specified group.
+
+## Approval - User
+
+Creates one or more individual user approvals.
+
+## Manual Approvals
+
+Watches and manages any approvals that users add manually outside of the
+workflow process.
+
+## Catalog Task
+
+Creates a service catalog task record. These records are associated to
+the workflow via the `wf_activity` field.
+
+## Create Task
+
+Generates a record on any of the tables that extend Task \[task\]. These
+records are associated to the workflow via the `wf_activity` field.
+
+## SLA Percentage Timer
+
+Pauses the workflow for a duration equal to a percentage of an SLA.
+
+## Timer
+
+Pauses the workflow for a specified period of time.
+
+This should be added to the begininng of every workflow to have the
+workflow run on it's own thread.
+
+## Create Event
+
+Adds an event to the event queue, but does not immediately fire the
+event.
+
+# Script
+
+## initialize
+
+Method called by the Prototype JavaScript Framework during object
+construction.
+
+## startFlow
+
+(workflowId, current, operation, vars) Starts a specified workflow.
+
+## startFlowFromContextInsert
+
+(context, operation) Helper method for business rule "Auto start on
+context".
+
+## startFlowRetroactive
+
+(workflowId, retroactiveMSecs, current, operation, vars, withSchedule)
+Used by the "Start Workflow" business rule on table task\_sla to start a
+workflow. \#\# runFlows
+
+(record, operation) Runs all workflows for a given record in a given
+table and its descendant tables. \#\# getReturnValue
+
+(workflowId) Gets the appropriate workflow return value for the input
+workflow ID. \#\# getVersion
+
+(workflowId) Gets the appropriate workflow version for the input
+workflow ID. \#\# getVersionFromName
+
+(workflowName) Gets the appropriate workflow version for the input
+workflow name. \#\# getWorkflowFromName
+
+(workflowName) Gets the appropriate workflow for the input workflow
+name. \#\# hasWorkflow
+
+(record) Determines if a specified record has an associated workflow.
+\#\# fireEvent
+
+(eventRecord, eventName) Fires the named event on the input record. \#\#
+fireEventById
+
+(eventRecordId, eventName) Fires the named event on the record specified
+by record ID. \#\# broadcastEvent
+
+(contextId, eventName) Broadcasts the named event for the specified
+context ID. \#\# cancel
+
+(record) Cancels any running workflows for the document.
+
+## cancelContext
+
+(context) Cancels the specific running workflow context.
+
+## getRunningFlows
+
+(record) Gets the running workflow contexts for a specified record.
+
+## getContexts
+
+(record) Gets the workflow contexts for a specified record whether it is
+running or not.
+
+## restartWorkflow
+
+(current, maintainStateFlag) Restarts the workflows associated with a
+GlideRecord.
+
+## deleteWorkflow
+
+(current) Deletes all workflows associated with a specified GlideRecord.
+
+## sortStages
+
+(versionID) Not implemented.
+
+## getEstimatedDeliveryTime
+
+(workflowID) Gets the estimated time for a workflow to complete.
+
+## getEstimatedDeliveryTimeFromWFVersion
+
+(wf\_version) Gets the estimated time for a workflow to complete.

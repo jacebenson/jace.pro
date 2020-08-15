@@ -1,0 +1,67 @@
+{% extends "base.njk" %}
+{%- block seo -%}
+<!--Twitter Card-->
+<meta name="twitter:card" content="{{post.data.summary}}">
+<meta name="twitter:site" content="@{{site.twitter}}">
+<meta name="twitter:creator" content="@{{site.twitter}}">
+<meta name="twitter:url" content="{{site.baseURL}}{{page.url}}">
+<meta name="twitter:title" content="{{title}}">
+<meta name="twitter:description" content="{{content | striptags | truncate(196) }}">
+<meta name="twitter:image" content="{{post.url}}{{post.data.imageName}}">
+
+<!--Schema-->
+<link rel="author" href="{{site.baseURL}}">
+<link rel="publisher" href="{{site.baseURL}}">
+<meta itemprop="name" content="{{title}}">
+<meta itemprop="description" content="{{content | striptags | truncate(196) }}">
+<meta itemprop="image" content="{{post.url}}{{post.data.imageName}}">
+
+<!-- Facebook OpenGraph -->
+<!--<meta property="fb:app_id" content="{{site.FB_APP_ID}}">-->
+<meta property="og:url" content="{{site.baseURL}}{{page.url}}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{title}}">
+<meta property="og:image" content="{{post.url}}{{post.data.imageName}}">
+<meta property="og:description" content="{{content | striptags | truncate(196) }}">
+<meta property="og:site_name" content="{{site.title}}">
+<meta property="og:locale" content="en_GB">
+<meta property="article:author" content="{{site.baseURL}}">
+{%- endblock -%}
+{% block content %}
+<div class="jumbotron text-center">
+
+  <!-- Title -->
+  <h4 class="card-title h4 pb-2"><strong>{{ title }}</strong></h4>
+
+  <!-- Card image -->
+  <div class="view overlay my-4">
+    <img src="./{{imageName}}" class="img-fluid" alt="">
+    <a href="#">
+      <div class="mask rgba-white-slight"></div>
+    </a>
+  </div>
+
+  <h5 class="indigo-text h5 mb-4">{{ subtitle }}</h5>
+
+  <p class="card-text">{{ summary }}</p>
+
+</div>
+<div class="container">
+    <div class="row justify-content-md-center">
+        <div class="col-md-10">
+            {{ content | safe }}
+        </div>
+    </div>
+</div> 
+
+<script src="https://utteranc.es/client.js"
+        repo="jacebenson/jace.pro"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+<noscript>Please enable JavaScript to view the comments powered by Utterances.</a></noscript>
+
+{% endblock content %}

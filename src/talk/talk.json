@@ -1,0 +1,5 @@
+{
+    "layout": "layouts/simple.njk",
+    "tags": "talks",
+    "faIcon": "file-powerpoint-o"
+}

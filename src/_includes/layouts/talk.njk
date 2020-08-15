@@ -1,0 +1,26 @@
+{% extends "layouts/simple.njk" %}
+
+{% block postContent %}
+<div class="service-area">
+    <div class="container">
+        <div class="row">
+        {% for talk in collections.talks %}
+            <div class="col-lg-4 col-md-6 single-service-2">
+                <div class="inner">
+                    <div class="title">
+                        <div class="icon">
+                            <i class="fa fa-{{ talk.data.faIcon }}"></i>
+                        </div>
+                        <h4>{{ talk.data.title }}</h4><span>{{ talk.data.date.toISOString().split('T')[0] }}</span>
+                    </div>
+                    <div class="content">
+                        <p>{{ talk.data.summary }}</p>
+                        <a href="{{ talk.url }}">Read More</a>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+        </div>
+    </div>
+</div> 
+{% endblock postContent%}

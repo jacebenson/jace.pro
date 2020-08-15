@@ -1,0 +1,9 @@
+{
+    "layout": "layouts/post-single.njk",
+    "tags": "post",
+    "imageName": "featured.jpg",
+    "imageThumbnail": "featured-thumbnail.jpg",
+    "passthroughFiles": ["*.(jpg|png)"],
+    "authors": ["jace"],
+    "featured": "false"
+}

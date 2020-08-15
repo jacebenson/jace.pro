@@ -1,33 +1,23 @@
 {
-  "name": "blog",
+  "name": "jace-11ty",
   "version": "1.0.0",
-  "description": "![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg)",
-  "main": "functions/server.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "post": "echo \"hugo new --kind post post/post-name\"",
-    "talk": "echo \"hugo new  --kind talk talk/my-talk-name\"",
-    "build": ""
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve",
+    "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jacebenson/blog.git"
-  },
-  "author": "Jace Benson",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jacebenson/blog/issues"
-  },
-  "homepage": "https://github.com/jacebenson/blog#readme",
-  "dependencies": {
-    "atomic-algolia": "^0.3.15",
-    "rss-parser": "^3.7.6",
-    "yargs": "^13.3.0"
-  },
   "devDependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
-    "netlify-lambda": "^1.6.3",
-    "serverless-http": "^2.3.2"
+    "@11ty/eleventy": "^0.10.0",
+    "@11ty/eleventy-plugin-rss": "^1.0.7",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1"
+  },
+  "dependencies": {
+    "@11ty/eleventy-img": "^0.3.0"
   }
 }

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <meta name="generator" content="11ty">
+    <meta name="author" content="Jace Benson">
+    <meta name="description" content="Jace's ServiceNow Blog">
+    <link rel="alternate" hreflang="en-us" href="https://jace.pro/">
+    <meta name="theme-color" content="hsl(339, 90%, 68%)">
+    <link rel="alternate" href="/index.xml" type="application/rss+xml" title="jace.pro">
+    <link rel="icon" type="image/png" href="/assets/img/icon-32.png">
+    <link rel="apple-touch-icon" type="image/png" href="/assets/img/apple-touch-icon.png">
+    <link rel="canonical" href="https://jace.pro/">
+    <!--<link rel="manifest" href="/index.webmanifest">-->
+
+ {%- block seo -%}
+    <!--Twitter Card-->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@{{site.twitter}}">
+    <meta name="twitter:creator" content="@{{site.twitter}}">
+    <meta name="twitter:url" content="{{site.baseURL}}{{page.url}}">
+    <meta name="twitter:title" content="{{title}}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    
+    <!--Schema-->
+    <link rel="author" href="{{site.baseURL}}">
+    <link rel="publisher" href="{{site.baseURL}}">
+    <meta itemprop="name" content="{{title}}">
+    <meta itemprop="description" content="{{ site.description }}">
+    
+    <!-- Facebook OpenGraph -->
+    <meta property="fb:app_id" content="{{site.FB_APP_ID}}">
+    <meta property="og:url" content="{{site.baseURL}}{{page.url}}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{title}}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:site_name" content="{{site.title}}">
+    <meta property="og:locale" content="en_GB">
+    <meta property="article:author" content="{{site.baseURL}}">
+    {%- endblock -%}
+    
+
+    <title>{{ title }}</title>
+
+        <!-- Required CSS files -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/owl.carousel.css" lazyload>
+    <link rel="stylesheet" href="/assets/css/barfiller.css" lazyload>
+    <link rel="stylesheet" href="/assets/css/animate.css" lazyload>
+    <link rel="stylesheet" href="/assets/css/font-awesome.min.css" lazyload>
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css" lazyload>
+    <link rel="stylesheet" href="/assets/css/slicknav.css" lazyload>
+    <link rel="stylesheet" href="/assets/css/main.css" lazyload>
+    <link rel="stylesheet" href="/assets/css/prism-a11y-dark.css">
+</head>
+
+
+
+
+<body>
+    <div class="preloader">
+        <span class="preloader-spin"></span>
+    </div>
+    <div class="site">
+        
+{% include "header.njk" %}
+        
+{% block content %}
+  {{ content | safe  }}
+{% endblock content %}
+{% block postContent %}{% endblock postContent %}
+
+
+{% include "footer.njk" %}
+
+       
+       
+        
+    </div>
+
+    <!--Required JS files-->
+<script src="/assets/js/jquery-2.2.4.min.js"></script>
+<script src="/assets/js/vendor/popper.min.js"></script>
+<script src="/assets/js/vendor/bootstrap.min.js"></script>
+<script src="/assets/js/vendor/owl.carousel.min.js"></script>
+<script src="/assets/js/vendor/isotope.pkgd.min.js"></script>
+<script src="/assets/js/vendor/jquery.barfiller.js"></script>
+<script src="/assets/js/vendor/loopcounter.js"></script>
+<script src="/assets/js/vendor/slicknav.min.js"></script>
+<script src="/assets/js/active.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,52 @@
+---
+pagination:
+  data: collections.post
+  size: 20
+  alias: posts
+  reverse: true
+permalink: /post/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber }}/{% endif %}index.html
+---
+{% extends "layouts/simple.njk" %}
+
+{% block postContent %}
+
+
+<div class="posts-area">
+
+    <div class="container-fluid">
+    <ul class="list-group">
+        {% for post in posts %}
+        
+        <li class="list-group-item">
+            <a href="{{ post.url }}">
+            <div class="media">
+            
+                <img class="d-flex align-self-center mr-3" 
+                     src="{{post.url}}{{post.data.imageThumbnail}}" 
+                     alt="{{post.url}}{{post.data.imageThumbnail}}" 
+                     style="max-width:150px;"
+                    />
+                <div class="media-body">
+                    <h5 class="mt-0">{{ post.data.title }}</h5>
+                    <!--<p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>-->
+                    <p class="mb-0">{{post.data.summary}}</p>
+                    <p>Posted: {{post.data.date.toISOString().split('T')[0]}}</p>
+                </div>
+                </div>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+    </div>
+</div> 
+
+<div class="pagination">
+  {% if pagination.previousPageHref %}
+  <a class="pagination-item prev" rel="prev" href="{{ pagination.previousPageHref }}">← Newer</a>
+  {% endif %}
+
+  {% if pagination.nextPageHref %}
+  <a class="pagination-item next" rel="next" href="{{ pagination.nextPageHref }}">Older →</a>
+  {% endif %}
+</div>
+{% endblock postContent%}

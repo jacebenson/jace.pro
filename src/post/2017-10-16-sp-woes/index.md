@@ -1,0 +1,77 @@
+---
+title: "Service Portal Woes"
+subtitle: "These are all important things that seemed to have changed from the standard UI to the Service Portal. Be cautious."
+summary: "These are all important things that seemed to have changed from the standard UI to the Service Portal. Be cautious."
+date: 2017-10-16T20:25:56-05:00
+---
+
+Two things I have to call out. First, this was inspired by [Ratesh Shah's post](https://community.servicenow.com/thread/282244). Second, you can read "Official" client script restrictions here on the [docs](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/build/service-portal/concept/unsupported_client_scripts.html).
+
+## Client Scripting issues
+
+So a lot of things we did in the past in client scripts aren't available
+in the Service Portal. In the past, any DOM manipulation or access and
+use of window across scripts was just frowned on. With the Service
+Portal Service-now has removed the use of those things. So if you want
+to use those you'll have to change your scripts below.
+
+### Unsupported client scripting globals
+
+The following globals and APIs are unavailable in client scripts in the
+Service Portal.
+
+| Thing      | Description of the thing                                                                                                         |
+|------------|----------------------------------------------------------------------------------------------------------------------------------|
+| `window`   | [This is a object used by all browsers](https://developer.mozilla.org/en-US/docs/Web/API/Window)                                 |
+| `document` | [This is a object used by all browsers](https://developer.mozilla.org/en-US/docs/Web/API/document)                               |
+| `$`        | [Prototypejs selector](http://api.prototypejs.org/dom/dollar/)                                                                   |
+| `$$`       | [Prototypejs css selector](http://api.prototypejs.org/dom/dollar-dollar/)                                                        |
+| `jQuery`   | [jQuery](http://api.jquery.com/)                                                                                                 |
+| `$j`       | Alias for [jQuery](http://api.jquery.com/)                                                                                       |
+| `angular`  | [Angular](https://docs.angularjs.org/api/)                                                                                       |
+| `jslog`    | [Docs](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/script/debugging/concept/c_WritingToTheDebugLog.html) |
+| `gel`      | Shortcut for `window.getElementByID()`                                                                                           |
+
+## Re-usable utility functions
+
+Macros and any [Jelly](/jelly) are not supported on Service Portal. A
+few ways around this would be Widget dependencies or the ScriptLoader
+utility.
+
+### Widget Dependencies
+
+In Service Portal, you can add [widget
+dependencies](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/build/service-portal/task/widget-dependencies.html)
+for re-usable utility functions.
+
+### ScriptLoader
+
+Another way would be to add a [ScriptLoader](https://sn.jace.pro/docs/scripting/scriptloader/) to the
+client script.
+
+## UI Type for Catalog Client Scripts and Catalog UI Policies
+
+If you want a catalog client script to work on both service portal /
+mobile and regular platform, you must select UI Type = ALL or service
+portal / mobile. It may be tempting to simply update every client
+script's UI Type to All. for all catalog client scripts, but it may not
+be a good idea for performance reasons. Sometimes, there is a valid
+reason not to make the catalog client script available on portal due to
+functional requirements.
+
+If you want a catalog UI policy to work on both service portal / mobile
+and regular platform, you must select Run scripts in UI Type = All. Use
+All, Desktop or Service Portal / Mobile based on your requirement as
+explained above. This field is not available on the form, you can change
+it from list view.
+
+You can use window object to detect if your catalog item is being used
+in Service Portal or CMS (Rest of platform).
+
+```js
+if (window) {
+    // you are in CMS
+} else {
+    // you are in Service Portal</em>
+}
+```
