@@ -56,7 +56,7 @@ backgroundImage: "/assets/img/resources-title.jpg"
 ### Blogs
 * [RSS OPML import](./uploads/2020-03-16-1441-sn.opml)
 * [News from many sources](/news)</a></li>
-* [Andrew Albury-Dor Blog](https://dev.alburydor.com/posts/)
+* [Andrew Albury-Dor Blog](https://andrew.alburydor.com/posts/)
 * [Women of ServiceNow](https://womennow.dev/)
 * [Mav's blog](https://mavembry.info)
 * [An Errant Programmer](http://anerrantprogrammer.com)
