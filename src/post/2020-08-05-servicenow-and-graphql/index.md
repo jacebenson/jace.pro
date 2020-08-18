@@ -32,3 +32,8 @@ What are these things;
  - Resolver: These are scripts to return defined Objects from your Schema
  - Mutation: I assume this is to modify something you got back.  I'd guess, changing languages might be best done with these.
 
+## Starting from an example
+
+number=INC0010112^sys_idISNOTEMPTY^caller_idNOTIN^ORcaller_id=005d500b536073005e0addeeff7b12f4
+number=INC0010112^sys_idISNOTEMPTY^caller_id=^ORcaller_idNOT IN
+number=INC0010112^sys_idISNOTEMPTY^caller_id=b21a4f8d2fc51010bd54d5f62799b6a2^NQnumber=INC0010112^sys_idISNOTEMPTY^caller_idNOT INb21a4f8d2fc51010bd54d5f62799b6a2
