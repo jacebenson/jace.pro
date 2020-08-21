@@ -103,7 +103,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
     url += '&start=' + startDate;
   }
   if(end){
-    url += '&start=' + end;
+    url += '&end=' + end;
    }
   var settings = {
     "async": true,
