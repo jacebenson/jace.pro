@@ -1,55 +1,53 @@
+Date.prototype.addDays = function(days) {
+  var date = new Date(this.valueOf());
+  date.setDate(date.getDate() + days);
+  return date;
+}
+//debugger;
+function setValue(fieldID, value){
+  console.log('trying to set', fieldID, 'to', value);
+  console.log('document.getElementById("'+fieldID+'").value("'+value+'");')
+  document.getElementById(fieldID).value = value;
+}
 document.addEventListener("DOMContentLoaded", function (event) {
   var urlParam = new URL(document.URL);
   urlParam = new URLSearchParams(urlParam.search)
   if (urlParam.has('text')) {
-    document
-      .getElementById('searchtext')
-      .value = urlParam.get('text');
+    setValue('searchtext', urlParam.get('text'));
   }
-  if (urlParam.has('start') && urlParam.has('end')) {
-    document
-      .getElementById('date')
-      .value = urlParam
-      .get('start')
-      //.substring(0, 5) 
-      + '/'
-      + urlParam
-      .get('end')
-      //.substring(0, 4)
+  if (urlParam.has('start')) {
+    setValue('start', urlParam.get('start'));
+  } else {
+    var start = new Date().addDays(-14);
+    start = start.toISOString().split('T')[0];
+    var end = new Date().toISOString().split('T')[0];
+    setValue('start', start);
+    
+  }
+  if (urlParam.has('end')){
+    setValue('end', urlParam.get('end'));  
+  } else {
+    var end = new Date().toISOString().split('T')[0]; 
+    setValue('end', end);  
   }
 
   function submitForm() {
     //event.preventDefault();  To prevent following the link (optional)
     var form = {};
-    form.date = document
-      .getElementById('date')
+    form.start = document
+      .getElementById('start')
+      .value
+    form.end = document
+      .getElementById('end')
       .value
     form.search = document
       .getElementById('searchtext')
       .value
     form.finalQuery = [];
-    if (form.date.length === 4) {
-      form.dateQuery = 'start=' + form.date + '-01-01&end=' + form.date + '-12-31';
+    form.dateQuery = 'start=' + form.start + '&end=' + form.end;
       form
         .finalQuery
         .push(form.dateQuery);
-    } else if (form.date.length > 4 && form.date.length < 10 && form.date.indexOf('-') > -1) {
-      form.dateQuery = 'start=' + form
-        .date
-        .split('-')[0] + '-01-01&end=' + form
-        .date
-        .split('-')[1] + '-12-31';
-      form
-        .finalQuery
-        .push(form.dateQuery);
-    } else if (form.date.length > 16) {
-      //assume its either
-      //yyyy-mm-dd-yyyy-mm-dd or other seperator
-      form.dateQuery = 'start=' + form.date.substring(0,10) + '&end=' + form.date.substring(11,form.date.length);
-      form
-        .finalQuery
-        .push(form.dateQuery);
-    }
     if (form.search.length > 0) {
       form.searchQuery = 'text=' + form.search;
       form
@@ -61,6 +59,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
       .finalQuery
       .join('&');
   }
+  /*
   document
     .getElementById('date')
     .addEventListener('keypress', function (e) {
@@ -70,6 +69,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
         submitForm();
       }
     });
+    */
     document
     .getElementById('searchtext')
     .addEventListener('keypress', function (e) {
@@ -85,7 +85,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
       submitForm();
     });
   var params = (new URL(document.location)).searchParams;
-  var start = params.get('start'); // is the string "Jonathan Smith".
+  var start = params.get('start');
   var end = params.get('end');
   var url = "https://news.jace.pro/.netlify/functions/server";
   var pageUrl = new URL(document.URL);
@@ -95,6 +95,16 @@ document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     url += '?unique=' + new Date().toISOString();
   }
+  if(start){
+   url += '&start=' + start; 
+  } else {
+    var startDate = new Date().addDays(-14);
+    startDate = startDate.toISOString().split('T')[0];
+    url += '&start=' + startDate;
+  }
+  if(end){
+    url += '&start=' + end;
+   }
   var settings = {
     "async": true,
     "crossDomain": true,
