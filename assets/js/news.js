@@ -76,6 +76,8 @@ document.addEventListener("DOMContentLoaded", function (event) {
       var key = e.which || e.keyCode;
       if (key === 13) { // 13 is enter
         // code for enter
+        //debugger;
+        console.log('enter pressed')
         submitForm();
       }
     });
@@ -84,10 +86,8 @@ document.addEventListener("DOMContentLoaded", function (event) {
     .addEventListener('click', function () {
       submitForm();
     });
-  var params = (new URL(document.location)).searchParams;
-  var start = params.get('start');
-  var end = params.get('end');
-  var url = "https://news.jace.pro/.netlify/functions/server";
+  //var url = "https://news.jace.pro/.netlify/functions/server";
+  var url = "https://zen-jones-6f4442.netlify.com/.netlify/functions/server";
   var pageUrl = new URL(document.URL);
   url += pageUrl.search;
   if (pageUrl.search) {
@@ -95,16 +95,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     url += '?unique=' + new Date().toISOString();
   }
-  if(start){
-   url += '&start=' + start; 
-  } else {
-    var startDate = new Date().addDays(-14);
-    startDate = startDate.toISOString().split('T')[0];
-    url += '&start=' + startDate;
-  }
-  if(end){
-    url += '&end=' + end;
-   }
+  
   var settings = {
     "async": true,
     "crossDomain": true,
@@ -112,7 +103,6 @@ document.addEventListener("DOMContentLoaded", function (event) {
     "method": "GET",
     "headers": {}
   }
-
   jQuery
     .ajax(settings)
     .done(function (response) {
