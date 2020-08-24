@@ -70,6 +70,7 @@ backgroundImage: "/assets/img/resources-title.jpg"
 * [SNC-Blog](http://www.snc-blog.com/)
 * [SNProTips](https://snprotips.com)
 * [ServiceNowElite](https://www.servicenowelite.com/blog)
+* [Dhruv's Blog](https://dhruvsn.wordpress.com/)
 * [Add one here!](https://github.com/jacebenson/jace.pro/issues/new?title=Add%20a%20new%20blog)
 
 </div>
