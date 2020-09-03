@@ -1,5 +1,5 @@
 ---
-title: "Undocumented - Setting User Prefernce via URL"
+title: "Undocumented - Setting User Preferences via URL"
 subtitle: "This is a thing but probably shouldn't be"
 summary: "Thanks Tim Woodruff for sharing this on slack."
 date: 2020-09-03T10:45:14-05:00
