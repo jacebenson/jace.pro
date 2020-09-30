@@ -9,7 +9,10 @@ tags: ["draft"]
  What is it, why do you think it’s worth participating, how did you get started, what does it typically look like, what is a quality pull request, then how do they get started at the end.
 
 
-# What is Hacktober
+# What is Hacktoberfest
+
+[Hacktoberfest][1] is a event run by stewards of open source to encourage contributing to projects that are also open source.
+
 # Why participate in Hactoberfest  
 
 - The more able you have your community, the more that community can contribute.  
@@ -30,7 +33,7 @@ That could be something as simple as cleaning up the CONTRIBUTORS.md file to som
 
 # How did I get started
 
-Why did I start doing the "[Hacktoberfest][1]" events?  For me, it's all about doing something, anything.
+Why did I start doing the Hacktoberfest events?  For me, it's all about doing something, anything.
 Hacktoberfest started in 2013.  I didn't know about it until 2016.  I'm pretty sure I got the shirt that year, but I can't find the evidence.
 
 Do you want get more familiar with git?  Do you want to learn something new?  Great, nothing like Hacktoberfest to push you into something.  That's my take on it.
