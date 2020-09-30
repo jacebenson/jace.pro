@@ -9,7 +9,7 @@ tags: ["draft"]
  What is it, why do you think it’s worth participating, how did you get started, what does it typically look like, what is a quality pull request, then how do they get started at the end.
 
 
-# What is Hacktoberfest
+# What is Hacktober
 # Why participate in Hactoberfest  
 
 - The more able you have your community, the more that community can contribute.  
@@ -45,15 +45,13 @@ I know I've had some.
 
 Here's a short list of projects I'd suggest looking at;
 
-| Project | Summary |
-| ---     | ---     |
-| https://github.com/ServiceNowDevProgram/sn-slack-points-thing/ | Slacker on [SNDevs](https://sndevs.slack.com/), you know you want to make this better. |
-| https://github.com/j4rodm/sn-libra/ | A toolkit of utilies to use on development instances. |
-| https://github.com/NowComponents/nowcomponents.github.io/ | Catalog of open source Now Components for the Now Experience. |
-| https://github.com/jacebenson/cajunbot | Cajunbot on Discord (used on the [unoffical ServiceNow Discord](https://discord.gg/QaMwnGd)) |
-| https://github.com/jacebenson/news-api | https://news.jace.pro - A ServiceNow News Aggregetor |
-| https://github.com/jacebenson/sndocs | A ServiceNow Version Tracker |
-| https://github.com/jacebenson/workflow | A tool to visualize diagrams in a markdown like text where there's also some standard flows |
+- [Slacker](https://github.com/ServiceNowDevProgram/sn-slack-points-thing/) on [SNDevs](https://sndevs.slack.com/), you know you want to make this better.
+- [Libra](https://github.com/j4rodm/sn-libra/) is a toolkit of utilies to use on development instances.
+- [NowComponents](https://github.com/NowComponents/nowcomponents.github.io/) Catalog of open source Now Components for the Now Experience.
+- [Cajunbot](https://github.com/jacebenson/cajunbot) on Discord (used on the [unoffical ServiceNow Discord](https://discord.gg/QaMwnGd))
+- [ServiceNow News Aggregetor](https://github.com/jacebenson/news-api) See it in action here [news.jace.pro](https://news.jace.pro)
+- [ServiceNow Version Tracker](https://github.com/jacebenson/sndocs)
+- [Workflow](https://github.com/jacebenson/workflow) is tool to visualize diagrams in a markdown like text where there's also some standard flows
 
 If none of those stand out, here's the [link to issues from the official site](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+no%3Aassignee+is%3Aissue&type=Issues)
 
