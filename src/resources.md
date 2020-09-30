@@ -17,6 +17,7 @@ backgroundImage: "/assets/img/resources-title.jpg"
 * [Scoped ATF Tests](https://atf.jace.com/)
 * [Scoped Dev Toolbox](http://devtoolbox.jace.pro/)
 * [Alt. Activity Formatter](https://osaf.jace.pro/)
+* [Code Search (Scoped app)](https://github.com/jacebenson/servicenow-code)
 
 ### Shared Code and Labs
 * [Dev-Labs.io](https://dev-labs.io/)
