@@ -30,9 +30,38 @@
                                 <li><a href="/resources">Resources</a></li>
                                 <li><a href="/news">News</a></li>
                                 <li><a class="nav-link" href="https://www.patreon.com/bePatron?u=23597006"><img src="/assets/img/patron.png" alt="Become a Patron!" style="height:50px"></a></li>
+                                <li><div><a data-toggle="modal" href="#searchModal">🔎</a></div></li>
                             </ul>
                         </nav>
                     </div>
                 </div>
+            </div>
+            <!-- Modal -->
+             <div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel">
+              <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">Search my posts
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+
+                  </div>
+                  <div class="modal-body">
+
+                    <form class="navbar-form " role="search">
+                      
+
+                      <div class="input-group">
+                        <input id="searchText" type="text" class="form-control" placeholder="" aria-label="" aria-describedby="search" />
+                            <div class="input-group-append">
+                                <button class="btn btn-success" type="button" onclick="searchPosts()">Search</button>
+                            </div>
+                        </div>
+                    </form>
+                    <div id="searchResults">TSET</div>
+
+                  </div>
+
+
+                </div>
+              </div>
             </div>
         </header>

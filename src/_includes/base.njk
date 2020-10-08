@@ -56,6 +56,56 @@
     <link rel="stylesheet" href="/assets/css/slicknav.css" lazyload>
     <link rel="stylesheet" href="/assets/css/main.css" lazyload>
     <link rel="stylesheet" href="/assets/css/prism-a11y-dark.css">
+    <!--Load Searchable Posts-->
+    <script>
+    const posts = [
+  {%- for post in collections.post %}
+  {
+    "title": "{{ post.data.title }}",
+    "url":"{{ post.url }}",
+    "date": "{{ post.date | rssDate }}",
+    "content": "{{ post.data.subtitle }} - {{ post.data.summary }}",
+    "meta": "{{ post.data.meta }}"
+  }{% if not loop.last %},{% endif %}
+  {%- endfor %}
+];
+function searchPosts(){
+    console.log('arguments', arguments)
+    console.log('arguments[0]',arguments[0]);
+    console.log("document.getElementById('searchText').value;", document.getElementById('searchText').value);
+    var text = arguments[0] || document.getElementById('searchText').value;
+    text = text.toLowerCase();
+    var returnArr = posts.filter(function(post){
+        var title = post.title.toLowerCase();
+        var content = post.content.toLowerCase();
+        var meta = post.meta.toLowerCase();
+        if(title.includes(text) || 
+        content.includes(text) ||
+        meta.includes(text)){
+            return true;
+        } else {
+            return false;
+        }
+        //if(post.content, post.meta, post.title, post.url)
+    });
+    returnArr = returnArr.sort(function(a,b){
+        return b-a;
+    })
+    showSearchResults(returnArr);
+    return returnArr
+}
+function showSearchResults(arrOfPosts){
+    var searchResults = document.getElementById('searchResults');
+    searchResults.innerHTML = '';//clear results
+    arrOfPosts.forEach(function(post){
+        var div = document.createElement('div');
+        var localeDate = new Date(post.date).toISOString().split('T')[0];
+        div.innerHTML = localeDate + ' - <a href="' + post.url + '">' + post.title + '</a>';
+        document.getElementById('searchResults').appendChild(div);
+    });
+}
+
+    </script>
 </head>
 
 
