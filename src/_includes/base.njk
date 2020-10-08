@@ -104,6 +104,37 @@ function showSearchResults(arrOfPosts){
         document.getElementById('searchResults').appendChild(div);
     });
 }
+function preventSubmitwithEnter() {
+  var formElement = document.getElementById("search-form");
+
+  function handleForm(event) {
+    event.preventDefault();
+  }
+  formElement.addEventListener('submit', handleForm);
+}
+function submitWithEnterInTextbox() {
+  document
+    .getElementById('searchText')
+    .addEventListener('keypress', function (e) {
+      var key = e.which || e.keyCode;
+      if (key === 13) { // 13 is enter
+        // code for enter
+        //debugger;
+        console.log('enter pressed')
+        searchPosts();
+      }
+    });
+}
+document.addEventListener("DOMContentLoaded", function (event) {
+    
+  preventSubmitwithEnter();
+  submitWithEnterInTextbox();
+  $(document).ready(function() {
+      $('#searchModal').on('shown.bs.modal', function() {
+    $('#searchText').trigger('focus');
+  });
+  });
+});
 
     </script>
 </head>
