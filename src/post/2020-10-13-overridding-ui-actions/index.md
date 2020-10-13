@@ -3,7 +3,6 @@ title: "How to override a UI Action"
 subtitle: "Overriding UI Actions"
 summary: ""
 date: 2020-10-13T09:11:14-05:00
-tags: ["draft"]
 ---
 
 Someone asked the other day, how to override the "Submit" ui action for incident.
