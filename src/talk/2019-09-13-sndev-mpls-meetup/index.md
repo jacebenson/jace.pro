@@ -1,5 +1,5 @@
 ---
-description: "Lorem ipsum dolor amet sum"
+description: "ServiceNow Developer Meetup (happy hour)"
 title: "ServiceNow Developer Meetup (happy hour)"
 event: "Bimonthly meetup"
 event_url: "https://www.meetup.com/Minneapolis-ServiceNow-Developer-Meetup/events/261674085/"

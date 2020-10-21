@@ -1,0 +1,20 @@
+{% extends "base.njk" %}
+{% block content %}
+{% if backgroundImage !="" %}
+<div class="page-title sp" style="background-color: #222538">
+    <div class="container text-center">
+        <h1 class="text-white">{{ title }}</h1>
+        <p class="text-white">{{ description }}</p>
+    </div>
+</div>
+{% endif %}
+{% if content !="" %}
+<div class="container sp">
+    <div class="row justify-content-md-center">
+        <div class="col-md-10">
+            {{ content | safe }}
+        </div>
+    </div>
+</div> 
+{% endif %}
+{% endblock content %}

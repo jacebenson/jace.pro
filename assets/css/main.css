@@ -244,7 +244,7 @@ iframe {
   border: none; }
 
 .slicknav_menu {
-  background-color: #1f2131;
+  background-color: #222538;
   border-bottom: 1px solid #585757; }
   @media only screen and (min-width: 991px) {
     .slicknav_menu {
@@ -619,9 +619,9 @@ form.search-form button {
         background-color: #fff;
         border-color: #fff !important; }
         .single-portfolio .inner .portfolio-img .hover-content .button:hover {
-          background-color: #222;
+          background-color: #222538;
           color: #fff;
-          border-color: #222 !important; }
+          border-color: #222538 !important; }
     .single-portfolio .inner .portfolio-img:hover .hover-content {
       opacity: 1;
       visibility: visible; }
@@ -716,7 +716,7 @@ form.search-form button {
       width: 25px;
       height: 25px;
       border-radius: 50%;
-      background-color: #222;
+      background-color: #222538;
       color: #fff;
       position: absolute;
       left: 15px;
@@ -727,7 +727,7 @@ form.search-form button {
     .faq .single-item.active::after {
       content: "-";
       background-color: #fff;
-      color: #222; }
+      color: #222538; }
     .faq .single-item.active {
       color: #fff; }
       .faq .single-item.active h4 {
@@ -789,7 +789,7 @@ form.search-form button {
     position: relative;
     padding-left: 20px; }
     .faq-sidebar li a:hover {
-      color: #222; }
+      color: #222538; }
     .faq-sidebar li span {
       color: #7d91aa;
       position: absolute;
@@ -800,7 +800,7 @@ form.search-form button {
  *   08. footer-top
  ***************************** */
 footer {
-  background-color: #272938;
+  background-color: #222538;
   color: #9EA9BD;
   line-height: 24px; }
 
@@ -853,10 +853,10 @@ footer {
   .footer_widget .nw_form input {
     width: 100%;
     display: block;
-    background-color: #1f2131;
+    background-color: #222538;
     border-radius: 3px;
     height: 40px;
-    border: 1px solid #1f2131;
+    border: 1px solid #222538;
     color: #9EA9BD;
     text-indent: 20px; }
     .footer_widget .nw_form input::-webkit-input-placeholder {
@@ -878,7 +878,7 @@ footer {
     border-radius: 0 3px 3px 0; }
 
 .footer-bottom {
-  background-color: #1f2131;
+  background-color: #222538;
   padding: 25px 0; }
   .footer-bottom a {
     color: #9EA9BD;
@@ -1066,7 +1066,7 @@ footer {
  *   13. skill-area
  ***************************** */
 .skill-area .container {
-  background-color: #1f2131;
+  background-color: #222538;
   border-radius: 5px;
   padding: 70px 100px;
   color: #fff; }
@@ -1113,7 +1113,7 @@ footer {
 .single-pricing, .single-pricing-2 {
   margin: 7.5px 0; }
   .single-pricing .inner, .single-pricing-2 .inner {
-    background-color: #1f2131;
+    background-color: #222538;
     padding: 35px;
     color: #90a0b2;
     border-radius: 5px;
@@ -1160,8 +1160,8 @@ footer {
   .single-pricing.active .inner, .active.single-pricing-2 .inner {
     color: #fff; }
     .single-pricing.active .inner a.button, .active.single-pricing-2 .inner a.button {
-      background-color: #222;
-      border-color: #222 !important; }
+      background-color: #222538;
+      border-color: #222538 !important; }
 
 .single-pricing-2 .inner {
   text-align: center; }
@@ -1173,7 +1173,7 @@ footer {
     display: -o-inline-flex;
     display: inline-flex; }
 .single-pricing-2.active .inner {
-  background-color: #1f2131;
+  background-color: #222538;
   color: #90a0b2; }
   .single-pricing-2.active .inner a.button {
     background-color: #fff;

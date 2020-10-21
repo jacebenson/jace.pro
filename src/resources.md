@@ -1,8 +1,7 @@
 ---
-layout: "layouts/simple.njk"
+layout: "layouts/home.njk"
 title: "Resources"
 description: ""
-backgroundImage: "/assets/img/resources-title.jpg"
 ---
 
 <div class="row">
