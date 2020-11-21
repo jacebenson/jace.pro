@@ -3,7 +3,7 @@ title: "New ServiceNow CLI"
 subtitle: "A new preview of the ServiceNow CLI"
 summary: "Think of it as a custom curl if you will, but you dont have to specify the full url 
 or your credentials and all the stuff to be able to run macros. - Chuck Tomasi"
-date: 2020-10-23T09:11:14-05:00
+date: 2020-11-20T22:00:00-05:00
 ---
 
 Tonight I popped in the latest Let's Code Happy Hour on ServiceNow's Youtube channel.  They were going to "Enhance the Karaoke App" that Chuck Tomasi maintains.
