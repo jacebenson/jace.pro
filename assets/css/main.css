@@ -216,6 +216,7 @@ span {
 /* page-title */
 .blur {
   -webkit-filter: blur(5px) grayscale(50%);
+  filter: blur(5px) grayscale(50%);
 }
 
 .page-title {
@@ -901,7 +902,7 @@ footer {
     width: 25%;
     padding: 0 12.5px;
     display: inline-block;
-    float: left;
+    /*float: left;*/
     position: relative; }
     @media only screen and (max-width: 991px) {
       .tabs-area .tabs-nav li {
@@ -1266,7 +1267,7 @@ footer {
       height: 300px; } }
   .error-area h1 {
     font-size: 40px;
-    font-weith: 400;
+    font-weight: 400;
     margin: 0 0 20px; }
 
 /*# sourceMappingURL=main.css.map */
@@ -1274,3 +1275,37 @@ footer {
 a {
   color: #006FE6
 }
+
+blockquote::before {
+  content: "\201C";
+  display: block;
+  font-size: 80px;
+  float:left;
+    position: relative;
+  height: 0;
+  }
+
+blockquote {
+
+margin: 20px;
+padding: 20px;
+font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+font-size: 20px;
+color: #428bca;
+border-left: 4px solid #428bca;
+}
+
+blockquote::after {
+  content: "\201D";
+  display: block;
+  font-size: 80px;
+  float:right;
+    position: relative;
+  height: 0;
+  }
+
+  cite {
+    float: right;
+    padding-top:1em;
+    color: #000;
+  }
