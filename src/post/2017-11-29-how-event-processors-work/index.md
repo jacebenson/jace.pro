@@ -32,3 +32,7 @@ spawns another and the old one is deleted
     where you modify the script from
     `fcScriptName=javascript\\\\:gs.processDelegatedEvents();` to
     `fcScriptName=javascript\\\\:gs.processDelegatedEvents('my_queue_name');`
+
+## Extra Sources 
+
+- [https://hi.service-now.com/kb_view.do?sysparm_article=KB0676909](https://hi.service-now.com/kb_view.do?sysparm_article=KB0676909)
