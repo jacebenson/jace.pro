@@ -19,5 +19,7 @@
     "now.instance.host.url": "",
     "now.instance.oAuth.client.id": "",
     "now.instance.user.password": "",
-    "now.instance.oAuth.client.secret": ""
+    "now.instance.oAuth.client.secret": "",
+    "editor.accessibilitySupport": "off",
+    "editor.wordWrap": "wordWrapColumn"
 }
