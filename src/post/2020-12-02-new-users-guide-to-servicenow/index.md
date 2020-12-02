@@ -113,13 +113,14 @@ Hold <kbd>CTRL</kbd> and Left click the cell you want to list edit, then another
 
 ## General Stuff
 
-<details><summary>Creating Favorites</summary></details>
+<details><summary>Creating Favorites</summary>
 
 1. Favorite a list? Use the hamburger icon to "Create a Favorite"
 2. Favorite a list another way? Drag the filter to the left on the navigation sidebar
 3. Favorite a record from a list? Drag the first link for the record to the left on the navigation sidebar
 4. Favorite a record from the record? Use the hamburger icon to "Create a Favorite"
 
+</details>
 <details><summary>Delegates</summary>
 
 1. Goto My Profile
