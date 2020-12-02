@@ -9,7 +9,7 @@ I was asked the other day what do I show folks who are just starting to use Serv
 
 First things first, I gotta recognize that I used [Robert Fedoruk's list](https://jace.pro/post/2019-10-06-faster-with-servicenow/) as a base, you can see his amazing video "[Work BLAZING FAST on ServiceNow](https://www.youtube.com/watch?v=UvwA4_9ajX8)" here.
 
-Secondly, I didn't come up with this list alone, Paige, Robery, Rob M, Ashley and others from Slack all chimed in with suggestions.  I'll like to those detail after the beef of the content.
+Secondly, I didn't come up with this list alone, Mav, Paige, Robert Fedoruk, Rob M, Ashley and others from Slack all chimed in with suggestions.  I'll like to those detail after the beef of the content.
 
 Eleven things came up.  I'm going to jump around a bit. 
 
