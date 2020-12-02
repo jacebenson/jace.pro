@@ -1,5 +1,5 @@
 ---
-title: "Listacle of intersting posts"
+title: "Listacle of interesting posts"
 subtitle: ""
 summary: ""
 date: 2020-10-23T09:11:14-05:00
