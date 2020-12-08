@@ -53,9 +53,9 @@
         </div>
     </div>
 </div> 
-
+{% if site.utterancesRepo %}
 <script src="https://utteranc.es/client.js"
-        repo="jacebenson/jace.pro"
+        repo="{{site.utterancesRepo}}"
         issue-term="pathname"
         label="comment"
         theme="github-light"
@@ -63,5 +63,5 @@
         async>
 </script>
 <noscript>Please enable JavaScript to view the comments powered by Utterances.</a></noscript>
-
+{% endif %}
 {% endblock content %}

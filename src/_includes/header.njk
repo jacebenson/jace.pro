@@ -1,49 +1,50 @@
- <header>
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 col-sm-12 nav-column clearfix">
-                        <nav id="menu" class="d-none d-lg-block">
-                            <ul>
-                                <li class="current-menu-item">
-                                    <a href="/">Home</a>
-                                </li>
-                                <li><a href="/post">Posts</a></li>
-                                <li><a href="/talk">Talks</a></li>
-                                <li><a href="/resources">Resources</a></li>
-                                <li><a href="/news">News</a></li>
-                                <li><a class="nav-link" href="https://www.patreon.com/bePatron?u=23597006"><img src="/assets/img/patron.png" alt="Become a Patron!" style="height:50px"></a></li>
-                                <li><div><a data-toggle="modal" href="#searchModal">🔎</a></div></li>
-                            </ul>
-                        </nav>
+<header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="/">{{site.title}}</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/post">Posts</a>
+                </li>
+                
+                <li class="nav-item">
+                    <a class="nav-link" href="/talk">Talks</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/resources">Resources</a>
+                </li>
+                {% if site.patreon %}
+                <li class="nav-item"><a class="nav-link" href="{{site.patreon}}"><img src="/assets/img/Digital-Patreon-Logo_White.png" alt="Become a Patron!" style="height:25px;padding-right:5px;">Become a Patron!</a></li>
+                {% endif %}
+                <!--<li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Dropdown
+        </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Action</a>
+                        <a class="dropdown-item" href="#">Another action</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">Something else here</a>
                     </div>
-                </div>
-            </div>
-            <!-- Modal -->
-             <div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel">
-              <div class="modal-dialog modal-lg" role="document">
-                <div class="modal-content">
-                  <div class="modal-header">Search my posts
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-
-                  </div>
-                  <div class="modal-body">
-
-                    <form class="navbar-form " role="search" id="search-form">
-                      
-
-                      <div class="input-group">
-                        <input id="searchText" type="text" class="form-control" placeholder="" aria-label="" aria-describedby="search" autofocus />
-                            <div class="input-group-append">
-                                <button class="btn btn-success" type="button" onclick="searchPosts()">Search</button>
-                            </div>
-                        </div>
-                    </form>
-                    <div id="searchResults"></div>
-
-                  </div>
-
-
-                </div>
-              </div>
-            </div>
-        </header>
+                </li>-->
+                <!--<li class="nav-item">
+                    <a class="nav-link disabled" href="#">Disabled</a>
+                </li>-->
+            </ul>
+            <form class="form-inline my-2 my-lg-0" id="search-form">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" id="searchText">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="button" onclick="searchPosts()">Search</button>
+            </form>
+        </div>
+    </nav>
+</header>
+<div id="searchResultsBox" class="text-white bg-dark">
+<div id="searchResults"></div>
+</div>

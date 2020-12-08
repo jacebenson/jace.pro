@@ -28,8 +28,12 @@
                 <div class="col-md-6 col-lg-6 footer_widget">
                     <div class="inner">
                         <h4>Want to hear more from me? Say thanks? Or have a discussion?</h4>
+                        
+                        {% if site.patreon %}
                         <p>Become a Patron and you'll get access to my posts in progress, polls, thoughts and other things I want to share.  A monthly happy hour with me and access to my PDI.</p>
-                        <a class="nav-link" href="https://www.patreon.com/bePatron?u=23597006"><img src="/assets/img/patron.png" alt="Become a Patron!" style="height:50px"></a>
+                                <a class="nav-link" href="{{site.patreon}}"><img src="/assets/img/patron.png" alt="Become a Patron!" style="height:50px"></a>
+                        {% endif %}
+                        
                     </div>
                 </div>
             </div>
@@ -39,11 +43,19 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="copyright-txt">
-                        Jace Benson © 2020 · <a href="/index.xml">RSS <i class="fa fa-rss" aria-hidden="true"></i></a>
-                                <a href="https://twitter.com/jacebenson" class="fa fa-twitter"></a>
-                                <a href="https://github.com/jacebenson" class="fa fa-github"></a>
-                                <a href="https://linkedin.com/in/jacebenson" class="fa fa-linkedin"></a>
+                    <div class="copyright-txt text-center">
+                        {{site.author}} © {{site.lastBuildYear}} · 
+                        <a href="/index.xml">RSS <i class="fa fa-rss" aria-hidden="true"></i></a>
+                        <a href="{{site.twitter}}">Twitter</a>
+                        <a href="{{site.github}}">GitHub</a>
+                        <a href="{{site.linkedin}}">LinkedIn</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row  text-center">
+                <div class="col-lg-12">
+                    <div class="copyright-txt text-center">
+                        Updated on: {{site.lastBuildDate}}
                     </div>
                 </div>
             </div>
