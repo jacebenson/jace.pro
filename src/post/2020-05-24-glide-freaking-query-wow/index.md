@@ -4,6 +4,7 @@ subtitle: "So I thought this was... just another odd class.  It's so much more."
 summary: "I want this and so should you.  GlideQuery is better than GlideRecord because it does safe and smart defaults"
 date: 2020-05-24T01:42:31-05:00
 ---
+<<<<<<< HEAD
 
 1. [../...](../2020-04-28-what-is-glidequery)
 1. [./post/...](./post/2020-04-28-what-is-glidequery)
@@ -11,6 +12,9 @@ date: 2020-05-24T01:42:31-05:00
 1. [/post/...](/post/2020-04-28-what-is-glidequery)
 
 A month ago I [wrote about GlideQuery](/post/2020-04-28-what-is-glidequery), asking "... is GlideRecord going away?  No.  I don't think so. "  
+=======
+A month ago I [wrote about GlideQuery](../2020-04-28-what-is-glidequery), asking "... is GlideRecord going away?  No.  I don't think so. "  
+>>>>>>> 94c3a7b48d3e3eabdd3ddf6b2a47a322df9a2c22
 
 Well, I need to revise my thoughts on this.  Before I go into why, lets first link to the sources and you can watch the 20+ minute video of the genius (Peter Bell) behind GlideQuery.
 
