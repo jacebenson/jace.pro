@@ -1,6 +1,6 @@
 module.exports = 
 {
-    twitter: "https://twitter.com/jacebenson",
+    twitter: "jacebenson",//twitter handle
     github: "https://github.com/jacebenson",
     linkedin: "https://linkedin.com/in/jacebenson",
     baseURL: "https://jace.pro",

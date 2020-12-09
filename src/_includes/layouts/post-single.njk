@@ -1,7 +1,7 @@
 {% extends "base.njk" %}
 {%- block seo -%}
 <!--Twitter Card-->
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@{{site.twitter}}">
 <meta name="twitter:creator" content="@{{site.twitter}}">
 <meta name="twitter:url" content="{{site.baseURL}}{{page.url}}">
@@ -12,6 +12,10 @@
 <meta name="twitter:description" content="{{content | striptags | truncate(196) }}">
 {% endif %}
 <meta name="twitter:image" content="{{site.baseURL}}{{page.url}}{{imageName}}">
+{% if imageAltText %}
+<meta name="twitter:image:alt" content="{{imageAltText}}">
+{% endif %}
+
 
 <!--Schema-->
 <link rel="author" href="{{site.baseURL}}">
@@ -27,9 +31,12 @@
 <meta property="og:type" content="website">
 <meta property="og:title" content="{{title}}">
 <meta property="og:image" content="{{site.baseURL}}{{page.url}}{{imageName}}">
-<meta property="og:description" content="{{content | striptags | truncate(196) }}">
+{% if summary %}
+<meta property="og:description" content="{{summary | striptags | truncate(196) }}">{% else %}
+<meta property="og:description" content="{{content | striptags | truncate(196) }}">}}">
+{% endif %}
 <meta property="og:site_name" content="{{site.title}}">
-<meta property="og:locale" content="en_GB">
+<meta property="og:locale" content="en_US">
 <meta property="article:author" content="{{site.baseURL}}">
 {%- endblock -%}
 {% block content %}
@@ -40,10 +47,7 @@
 
   <!-- Card image -->
   <div class="view overlay my-4">
-    <img src="./{{imageName}}" class="img-fluid" alt="">
-    <a href="#">
-      <div class="mask rgba-white-slight"></div>
-    </a>
+    <img src="./{{imageName}}" class="img-fluid" alt="{{imageAltText}}">
   </div>
 
   <h5 class="indigo-text h5 mb-4">{{ subtitle }}</h5>
