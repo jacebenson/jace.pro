@@ -14,11 +14,11 @@ Rules to follow for emails in ServiceNow.
 -   [Always set up your own mailbox](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/administer/reference-pages/concept/c_AlternateEmailConfigurations.html)
 -   Once someone knows about the email address, they never, ever, forget
     it, at least now you can get rid of it or change it accordingly.
--   Changing the "From" on notifications can't be set without setting
+-   Changing the "From" on notifications is not possible without setting
     this up.
 -   This puts all the content submitted on your own servers where you 
     can control it.  Otherwise they are all on ServiceNow's servers 
-    where you don't have the same type of control.
+    where you don't have the same control.
 
 ## Events or Workflow Activities? Always Events and here's a list of reasons why
 
@@ -63,7 +63,7 @@ Rules to follow for emails in ServiceNow.
     -   ServiceNow Weekly Summary for 2017-09-08
     -   ServiceNow Daily Summary for 2017-09-04
 
-## Decide if you want users to be allowed to unsubscribe to actionable, or informational emails
+## Allow users to unsubscribe to actionable, or informational emails or not
 
 > Actively discourage the use of Inbound Email as a mechanism for ticket
 > creation. It should only be used when the sending party is a robot.
@@ -73,7 +73,7 @@ Rules to follow for emails in ServiceNow.
 > into ServiceNow, they'll never stop. I force stakeholders to sign off
 > to knowing about a 30% failure rate if they want inbound email
 > processing. --
-> [rfedoruk](https://community.servicenow.com/message/990963#991021)
+> [Robert Fedoruk](https://community.servicenow.com/message/990963#991021)
 
 ## Memorize this diagram
 

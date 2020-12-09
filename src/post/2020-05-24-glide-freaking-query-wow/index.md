@@ -1,6 +1,6 @@
 ---
 title: "Glide Freaking Query Wow"
-subtitle: "So I thought this was... just another odd class.  It's so much more."
+subtitle: "So I thought this was... another odd class.  It's so much more."
 summary: "I want this and so should you.  GlideQuery is better than GlideRecord because it does safe and smart defaults"
 date: 2020-05-24T01:42:31-05:00
 ---
@@ -14,14 +14,14 @@ Okay.  Now that is out of the way lets talk about some of the major points here 
 
 # What does GlideQuery do that GlideRecord fails?
 
-GlideQuery is a **server-side** only api for querying, updating, and deleting data.  It's being used in Orlando, and Paris.  Behind the scenes it uses GlideRecord but with smart defaults that often will cause problems eventually.
+GlideQuery is a **server-side** api for querying, updating, and deleting data.  It's in Orlando, and Paris.  Behind the scenes it uses GlideRecord but with smart defaults that often will cause generally problems.
 
 This api follows three guiding principals;
 - Fail Fast
 - Be JavaScript
 - Expressive
 
-There are some considerations;
+Here's some considerations;
 - Performance
 
 ## Failing Fast
@@ -41,9 +41,9 @@ In GlideQuery, this will fail and not execute on error.
 
 ### Choice checking
 
-Here's another example where unless you check your code you may miss it.  This is because it just returns no results.
+Here's another example where unless you check your code you may miss it.  This is because it returns no results.
 
-Really if the api said, hey that value is not valid, that could help you faster.
+If the api said, hey that value is not valid, that could help you faster.
 
 | GlideRecord Example | GlideQuery Example |
 | --- | --- |
@@ -64,7 +64,7 @@ Isolation from Java
 
 ### GlideQuery should behave you expect a regular JavaScript should behave.
 
-One problem with GlideRecord, things are not always as they appear.  Sometimes you'll get a value to print but where you might think the value is a type of number it's in fact a string.
+Type assumptions in are a real headache in ServiceNow with GlideRecord.  It seems you get back a string type when you should get a number type.
 
 | GlideRecord Example | GlideQuery Example |
 | --- | --- |
@@ -80,7 +80,7 @@ One problem with GlideRecord, things are not always as they appear.  Sometimes y
 
 ### Complex Queries should work how you expect
 
-Queries that use both "AND" and "OR" logic.  How do you think this is evaluated?
+Queries that use both "AND" and "OR" logic.  How is this evaluated?
 
 | GlideRecord Example | GlideQuery Example |
 | --- | --- |
@@ -98,9 +98,9 @@ When reading data with GlideQuery there are two classes used; Stream and Optiona
 
 | Stream | Optional |
 | --- | --- |
-| Used for reading multiple records | Used for reading a single record |
-| Returned by `select(1)` | Is considered "empty" if a record isn't found by a query |
-| Is lazily evaluated | Returned by `selectOne()`, `insert()`, and `update()` |
+| Used for reading records | Used for reading a single record |
+| Returned by `select(1)` | "Empty" if a record isn't found by a query |
+| Lazily evaluated | Returned by `selectOne()`, `insert()`, and `update()` |
 | Common Stream methods:<br/>- map<br/>- flatMap<br/>- forEach<br/>- reduce<br/>- some<br/>- any |  Common Optional methods:<br/>- get \[throws if empty\]<br/>- map<br/>- isEmpty<br/>- isPresent<br/>- ifPresent<br/>- orElse |
 
 Examples;
