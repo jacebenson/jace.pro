@@ -1,3 +1,4 @@
+let now = new Date();
 module.exports = 
 {
     twitter: "jacebenson",//twitter handle
@@ -11,13 +12,7 @@ module.exports =
     author: "Jace Benson",//used all over
     email: "jace.benson@gmail.com",//used specificly for rss feed
     utterancesRepo: "jacebenson/jace.pro",//used for comments//if commented, doesnt load
-    lastBuildDate: (()=>{
-        var now = new Date();
-        return now.toISOString().split('T')[0]
-    })(),
-    lastBuildYear: (()=>{
-        var now = new Date();
-        return now.getFullYear();
-    })(),
+    lastBuildDate: now.toLocaleString('en-CA',{hour12:false}).replace(',',''),
+    lastBuildYear: now.getFullYear()
        
 }

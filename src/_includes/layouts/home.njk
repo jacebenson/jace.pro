@@ -1,4 +1,44 @@
 {% extends "base.njk" %}
+{%- block seo -%}
+<!--Twitter Card-->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@{{site.twitter}}">
+<meta name="twitter:creator" content="@{{site.twitter}}">
+<meta name="twitter:url" content="{{site.baseURL}}{{page.url}}">
+<meta name="twitter:title" content="{{title}}">
+{% if summary %}
+<meta name="twitter:description" content="{{summary | striptags | truncate(196) }}">
+{% else %}
+<meta name="twitter:description" content="{{content | striptags | truncate(196) }}">
+{% endif %}
+<meta name="twitter:image" content="{{site.baseURL}}{{page.url}}{{imageName}}">
+{% if imageAltText %}
+<meta name="twitter:image:alt" content="{{imageAltText}}">
+{% endif %}
+
+
+<!--Schema-->
+<link rel="author" href="{{site.baseURL}}">
+<link rel="publisher" href="{{site.baseURL}}">
+<meta itemprop="name" content="{{title}}">
+
+<meta itemprop="description" content="{{content | striptags | truncate(196) }}">
+<meta itemprop="image" content="{{site.baseURL}}{{page.url}}{{imageName}}">
+
+<!-- Facebook OpenGraph -->
+<!--<meta property="fb:app_id" content="{{site.FB_APP_ID}}">-->
+<meta property="og:url" content="{{site.baseURL}}{{page.url}}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{title}}">
+<meta property="og:image" content="{{site.baseURL}}{{page.url}}{{imageName}}">
+{% if summary %}
+<meta property="og:description" content="{{summary | striptags | truncate(196) }}">{% else %}
+<meta property="og:description" content="{{content | striptags | truncate(196) }}">
+{% endif %}
+<meta property="og:site_name" content="{{site.title}}">
+<meta property="og:locale" content="en_US">
+<meta property="article:author" content="{{site.baseURL}}">
+{%- endblock -%}
 {% block content %}
 {% if backgroundImage !="" %}
 <div class="page-title sp" style="background-color: #222538">
