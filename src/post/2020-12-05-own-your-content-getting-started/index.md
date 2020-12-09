@@ -83,7 +83,7 @@ By tracking this backlog of ideas you can let those thoughts go.  You can comeba
 
 ## Actually making the content
 
-I use [11ty](11ty.dev) for my blog.  I think it's great.  I've made a template of my blog for you.  Really.
+I use [11ty](https://11ty.dev) for my blog.  I think it's great.  I've made a template of my blog for you.  Really.
 
 Here's what I like about how [Jace-ty](https://github.com/jacebenson/jace-ty) works.
 
