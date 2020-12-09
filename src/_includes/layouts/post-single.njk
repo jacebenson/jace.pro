@@ -7,21 +7,21 @@
 <meta name="twitter:url" content="{{site.baseURL}}{{page.url}}">
 <meta name="twitter:title" content="{{title}}">
 <meta name="twitter:description" content="{{content | striptags | truncate(196) }}">
-<meta name="twitter:image" content="{{post.url}}{{post.data.imageName}}">
+<meta name="twitter:image" content="{{site.baseURL}}{{page.url}}{{imageName}}">
 
 <!--Schema-->
 <link rel="author" href="{{site.baseURL}}">
 <link rel="publisher" href="{{site.baseURL}}">
 <meta itemprop="name" content="{{title}}">
 <meta itemprop="description" content="{{content | striptags | truncate(196) }}">
-<meta itemprop="image" content="{{post.url}}{{post.data.imageName}}">
+<meta itemprop="image" content="{{site.baseURL}}{{page.url}}{{imageName}}">
 
 <!-- Facebook OpenGraph -->
 <!--<meta property="fb:app_id" content="{{site.FB_APP_ID}}">-->
 <meta property="og:url" content="{{site.baseURL}}{{page.url}}">
 <meta property="og:type" content="website">
 <meta property="og:title" content="{{title}}">
-<meta property="og:image" content="{{post.url}}{{post.data.imageName}}">
+<meta property="og:image" content="{{site.baseURL}}{{page.url}}{{imageName}}">
 <meta property="og:description" content="{{content | striptags | truncate(196) }}">
 <meta property="og:site_name" content="{{site.title}}">
 <meta property="og:locale" content="en_GB">
