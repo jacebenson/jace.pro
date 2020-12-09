@@ -1,7 +1,7 @@
 ---
 title: "You want a blog?  Here's how to get started"
 subtitle: "A brief guide to get started blogging"
-summary: "Follow along and share your perspective"
+summary: "Here I go over a quick and dirty guide to leveling up by blogging"
 date: 2020-12-09T00:30:00-05:00
 ---
 

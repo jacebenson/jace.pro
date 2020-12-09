@@ -6,13 +6,18 @@
 <meta name="twitter:creator" content="@{{site.twitter}}">
 <meta name="twitter:url" content="{{site.baseURL}}{{page.url}}">
 <meta name="twitter:title" content="{{title}}">
+{% if summary %}
+<meta name="twitter:description" content="{{summary | striptags | truncate(196) }}">
+{% else %}
 <meta name="twitter:description" content="{{content | striptags | truncate(196) }}">
+{% endif %}
 <meta name="twitter:image" content="{{site.baseURL}}{{page.url}}{{imageName}}">
 
 <!--Schema-->
 <link rel="author" href="{{site.baseURL}}">
 <link rel="publisher" href="{{site.baseURL}}">
 <meta itemprop="name" content="{{title}}">
+
 <meta itemprop="description" content="{{content | striptags | truncate(196) }}">
 <meta itemprop="image" content="{{site.baseURL}}{{page.url}}{{imageName}}">
 
