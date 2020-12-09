@@ -1,8 +1,8 @@
 ---
 title: "You want a blog?  Here's how to get started"
-subtitle: "These are my notes on the blogging systems as of 2020"
-summary: "I've been maintaining this site since 2016, it's had a lot of iterations, learn from them"
-date: 2020-12-05T22:00:00-05:00
+subtitle: "A brief guide to get started blogging"
+summary: "Follow along and share your perspective"
+date: 2020-12-09T00:30:00-05:00
 ---
 
 1.  [Why Blog](#why-blog)
