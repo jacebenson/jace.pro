@@ -8,6 +8,7 @@ module.exports =
     title: "jace.pro",
     
     patreon: "https://www.patreon.com/bePatron?u=23597006",//if uncommented adds a link to header and footer
+    description: "Jace's Blog",
     subtitle: "I am writing about my experiences as a ServiceNow Developer.",
     author: "Jace Benson",//used all over
     email: "jace.benson@gmail.com",//used specificly for rss feed
