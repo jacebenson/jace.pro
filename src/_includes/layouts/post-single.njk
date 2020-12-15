@@ -28,14 +28,14 @@
       "@type": "ImageObject",
       "width": 32,
       "height": 32,
-      "url": "{{site.baseURL}}{{page.url}}{{imageName}}"
+      "url": "{{site.baseURL}}/assets/img/icon-32.png"
     }
   },
     "image": {
     "@type": "ImageObject",
     "width": {{ imageWidth }},
     "height": {{ imageHeight }},
-    "url": "{{ site.url }}{{ page.img_url | default: site.img_url }}"
+    "url": "{{site.baseURL}}{{page.url}}{{imageName}}"
   }
 }
 </script>
@@ -86,7 +86,7 @@
 
   <!-- Card image -->
   <div class="view overlay my-4">
-    <img src="./{{imageName}}" class="img-fluid" width="{{imageWidth}}" height="{{imageHeight}}" alt="{{imageAltText}}">
+    <img src="./{{imageName}}" class="img-fluid" width="{{imageWidth}}px" height="{{imageHeight}}px" alt="{{imageAltText}}">
   </div>
 
   <h5 class="indigo-text h5 mb-4">{{ subtitle }}</h5>
