@@ -3,6 +3,7 @@ title: "You want a blog?  Here's how to get started"
 subtitle: "A brief guide to get started blogging"
 summary: "Here I go over a quick and dirty guide to leveling up by blogging"
 date: 2020-12-09T00:30:00-05:00
+meta: ["asdf","own your own content"]
 ---
 
 1.  [Why Blog](#why-blog)

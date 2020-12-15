@@ -5,5 +5,7 @@
     "imageThumbnail": "featured-thumbnail.jpg",
     "passthroughFiles": ["*.(jpg|png)"],
     "authors": ["jace"],
-    "featured": "false"
+    "featured": "false",
+    "meta": [],
+    "summary": "I am a summary, Set me on the post"
 }
