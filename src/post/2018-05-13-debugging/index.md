@@ -9,13 +9,13 @@ Debugging for me always starts with isolating the parts of the failing
 code.
 
 So the quickest way for me to find the issue varies but it almost always
-includes some variation of order of some of these things;
+includes some variation of order of some of these;
 
 | Question                               | Debugging Tool                   | Description                                                                                                                                                                                                          |
 |----------------------------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Any errors or logs?                    | System Log                       | Navigate to System Logs \> System Log. You can place alert statements in your business rule which can write information to the log.                                                                                  |
 | Any errors or logs?                    | Debug Business Rule (Details)    | Navigate to System Diagnostics \> Debug Business Rule (Details). This debugging module displays the results business rules. Use this module to see if conditions are being met and values are being set as expected. |
-| Did anything about this change lately? | `sys_update_xml` record list     |                                                                                                                                                                                                                      |
+| Did anything about this change?        | `sys_update_xml` record list     |                                                                                                                                                                                                                      |
 | Can you reproduce the problem?         | Background Scripts / Fix Scripts | See [Simulating the Script](#simulating-the-script)                                                                                                                                                                  |
 
 ## Simulating the script
@@ -34,6 +34,8 @@ Different area's have differnt variables available to them;
 
 I'd copy the appropriate script, and then paste your code in the run
 function.
+
+<a name="business-rules"></a>
 
 ### Business Rules
 
@@ -54,6 +56,8 @@ try {
     gs.info(error.message, "fix script " + gs.getUserName());
 }
 ```
+
+<a name="inbound-emails"></a>
 
 ### Inbound Emails
 
@@ -79,6 +83,8 @@ try {
 }
 ```
 
+<a name="script-actions"></a>
+
 ### Script Actions
 
 ```js
@@ -98,6 +104,8 @@ try {
     gs.info(error.message, "fix script " + gs.getUserName());
 }
 ```
+
+<a name="workflow-activity"></a>
 
 ### Workflow Activity
 
@@ -120,6 +128,8 @@ try {
     gs.info(error.message, "fix script " + gs.getUserName());
 }
 ```
+
+<a name="transform-scripts"></a>
 
 ### Transform Scripts
 
@@ -149,6 +159,8 @@ try {
 }
 ```
 
+<a name="relationship-scripts"></a>
+
 ## Relationship Scripts
 
 ```js
@@ -169,6 +181,8 @@ var current = new GlideRecord('task');//queries from table
 })(current, parent);
 current.query();
 ```
+
+<a name="mail-scripts"></a>
 
 ## Mail Scripts
 
@@ -222,7 +236,7 @@ try {
 }
 ```
 
-## Additional Debugging tools
+## Debugging tools
 
 | Debugging Tool                | Description                                                                                                                                                                                                                                                       |
 |-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
