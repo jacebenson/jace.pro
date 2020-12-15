@@ -28,8 +28,14 @@
       "@type": "ImageObject",
       "width": 32,
       "height": 32,
-      "url": "{{site.baseURL}}/assets/img/icon-32.png"
+      "url": "{{site.baseURL}}{{page.url}}{{imageName}}"
     }
+  },
+    "image": {
+    "@type": "ImageObject",
+    "width": {{ imageWidth }},
+    "height": {{ imageHeight }},
+    "url": "{{ site.url }}{{ page.img_url | default: site.img_url }}"
   }
 }
 </script>
