@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "@11ty/eleventy-img": "^0.3.0",
-    "netlify-cli": "^2.69.8"
+    "netlify-cli": "^2.69.9"
   }
 }
