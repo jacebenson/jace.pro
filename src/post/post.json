@@ -2,6 +2,8 @@
     "layout": "layouts/post-single.njk",
     "tags": "post",
     "imageName": "featured.jpg",
+    "imageWidth": "1024px",
+    "imageHeight": "512px",
     "imageThumbnail": "featured-thumbnail.jpg",
     "passthroughFiles": ["*.(jpg|png)"],
     "authors": ["jace"],
