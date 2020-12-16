@@ -817,8 +817,7 @@ footer {
   @media only screen and (max-width: 991px) {
     .footer-top {
       padding: 30px 0; } }
-  .footer-top .media img {
-    width: 60px; }
+
     .footer-top .media img img {
       width: 100%; }
 

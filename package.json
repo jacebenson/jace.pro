@@ -3,11 +3,17 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "config": {
+    "path": "./src/post/"
+  },
   "scripts": {
     "build": "npx @11ty/eleventy",
     "serve": "npx @11ty/eleventy --serve",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "lighthouse-ci http://localhost:8081 --report=./_site/lh/ --view",
+    "cwebp": "find ./src/post/2020-12-05-own-your-own-content-getting-started/ -type f -name '*.jpg' -exec `sh -c 'cwebp -q 75 $1 -o \"${1%.jpg}.webp\"' _ {} \\;`",
+    "cweb2": "echo $(pwd) && find /src/post/2020-12-05-own-your-own-content-getting-started/ -type f -name '*.jpg'",
+    "cweb3": "echo $npm_package_config_path node"
   },
   "keywords": [],
   "author": "",
@@ -15,7 +21,9 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
     "@11ty/eleventy-plugin-rss": "^1.0.7",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1"
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
+    "cwebp": "^2.0.5",
+    "lighthouse-ci": "^1.11.0"
   },
   "dependencies": {
     "@11ty/eleventy-img": "^0.3.0",

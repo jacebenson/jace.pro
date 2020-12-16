@@ -6,6 +6,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPassthroughCopy("./src/**/*.jpg");
     eleventyConfig.addPassthroughCopy("./src/**/*.png");
     eleventyConfig.addPassthroughCopy("./src/**/*.gif");
+    eleventyConfig.addPassthroughCopy("./src/**/*.webp");
     eleventyConfig.addPassthroughCopy("./src/**/*.mp4");
     eleventyConfig.addPassthroughCopy("./src/**/*.pdf");
     eleventyConfig.addPassthroughCopy("./src/**/*.mmd");
@@ -24,16 +25,16 @@ module.exports = function (eleventyConfig) {
       }
       return `<${detailstag}><summary style="${summarystyle}"><span>${title}</span></summary>${content}</details>`;
    });
-   
+
     return {
         addPassthroughCopy: true,
         markdownTemplateEngine: "njk",
         templateFormats: ["njk", "md"],
         dir: {
-            input: "src", // html and layouts for project
-            output: "_site",
-            include: "includes",
-            data: "_data"
+            input: "./src", // html and layouts for project
+            output: "./_site",
+            include: "./includes",
+            data: "./_data",
         }
     }
 }

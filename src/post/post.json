@@ -1,10 +1,10 @@
 {
     "layout": "layouts/post-single.njk",
     "tags": "post",
-    "imageName": "featured.jpg",
+    "imageName": "featured.webp",
     "imageWidth": "1024",
     "imageHeight": "512",
-    "imageThumbnail": "featured-thumbnail.jpg",
+    "imageThumbnail": "featured-thumbnail.webp",
     "passthroughFiles": ["*.(jpg|png)"],
     "authors": ["jace"],
     "featured": "false",
