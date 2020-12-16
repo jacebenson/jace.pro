@@ -22,7 +22,7 @@ echo "$BASEFILE check"
 if [[ "$BASEFILE" =~ ^featured ]]; then
     echo "WINNER $FILE"
     ./bin/cwebp -q 75 $FILE -o "${OUTPUTFILE}" -resize 1024 0
-    ./bin/cwebp -q 75 $FILE -o "${OUTPUTFILETHUMB}" -resize 150 0
+    ./bin/cwebp -q 75 $FILE -o "${OUTPUTFILETHUMB}" -resize 394 0
     echo "rm $FILE"
     #rm $FILE
 fi
