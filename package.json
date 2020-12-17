@@ -10,7 +10,7 @@
     "build": "npx @11ty/eleventy",
     "serve": "npx @11ty/eleventy --serve",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
-    "test": "lighthouse-ci http://localhost:8081 --report=./_site/lh/ --view",
+    "test": "lighthouse-ci http://localhost:8080 --report=./_site/lh/ --view",
     "g": "npx ./generators/generic.js",
     "generate": "npx ./generators/generic.js"
   },
@@ -21,10 +21,8 @@
     "@11ty/eleventy": "^0.10.0",
     "@11ty/eleventy-plugin-rss": "^1.0.7",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
-    "cwebp": "^2.0.5",
     "dotenv": "^8.2.0",
-    "lighthouse-ci": "^1.11.0",
-    "pixabayjs": "^2.0.5"
+    "lighthouse-ci": "^1.11.0"
   },
   "dependencies": {
     "@11ty/eleventy-img": "^0.3.0",

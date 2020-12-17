@@ -48,8 +48,14 @@
 
         <!-- Required CSS files -->
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" lazyload>
-    <link rel="stylesheet" href="/assets/css/main.css" lazyload>
-    <link rel="stylesheet" href="/assets/css/prism-a11y-dark.css" lazyload>
+{% set css %}
+  {% include "../../assets/css/main.css" %}
+  {% include "../../assets/css/prism-a11y-dark.css" %}
+{% endset %}
+<!-- feed it through our cssmin filter to minify -->
+<style>
+  {{ css | cssmin | safe }}
+</style>
 </head>
 
 
@@ -75,8 +81,27 @@
 
     <!--Required JS files-->
     <!-- enables search -->
-    <script src="/postsJS.js"></script>
-    <script src="/assets/js/search.js"></script>
+    <!-- capture the JS content as a Nunjucks variable -->
+    
+    <!--<script src="/postsJS.js"></script>-->
+{% set js %}
+  {% include "../../assets/js/search.js" %}
+  const posts = [
+{%- for post in collections.post %}
+    {
+      "title": "{{ post.data.title }}",
+      "url":"{{ post.url }}",
+      "date": "{{ post.date | rssDate }}",
+      "content": "{{ post.data.subtitle }} - {{ post.data.summary }}",
+      "meta": "{{ post.data.meta }}"
+    }{% if not loop.last %},{% endif %}
+{%- endfor %}
+];
+{% endset %}
+<!-- feed it through our jsmin filter to minify -->
+<script>
+  {{ js | jsmin | safe }}
+</script>
 
 <script
 			  src="https://code.jquery.com/jquery-3.5.1.slim.min.js"

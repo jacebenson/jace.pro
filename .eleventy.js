@@ -1,5 +1,7 @@
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const CleanCSS = require("clean-css");
+const { minify } = require("terser");
 module.exports = function (eleventyConfig) {
     try {
         eleventyConfig.addPlugin(pluginRss);
@@ -16,6 +18,23 @@ module.exports = function (eleventyConfig) {
 
         // add support for syntax highlighting
         eleventyConfig.addPlugin(syntaxHighlight);
+        eleventyConfig.addFilter("cssmin", function (code) {
+            return new CleanCSS({}).minify(code).styles;
+        });
+
+        eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
+            code,
+            callback
+        ) {
+            try {
+                const minified = await minify(code);
+                callback(null, minified.code);
+            } catch (err) {
+                console.error("Terser error: ", err);
+                // Fail gracefully.
+                callback(null, code);
+            }
+        });
 
         eleventyConfig.addPairedShortcode('details', function (content, title) {
             let detailstag = 'details';

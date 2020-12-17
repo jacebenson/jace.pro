@@ -22,6 +22,7 @@ let doesFolderExist = (folderName, callback) => {
   })
 }
 let createFolder = (folderName, callback) => {
+  //make folder lowercast and replace specials with -
   fs.mkdir(folderName, function (err) {
     if (err) {
       error(err)
@@ -171,9 +172,9 @@ if (args[2] && args[3]) {
   let newFolderName = (() => {
     let today = new Date().toISOString().split('T')[0];
     return [today, args[3]].join('-');
-  })()
+  })().replace(/[^a-zA-Z0-9]/g,'-').toLowerCase();
   let folder = path.join(eleventySite.dir.input, args[2], newFolderName);
-  log('folder', folder);
+  error('folder', folder);
   //does directory already exist?
   //doesFolderExist(folder, () => {
   createFolder(folder, () => {
