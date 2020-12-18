@@ -9,10 +9,12 @@
                         {% for post in collections.post.slice(collections.post.length-4,collections.post.length) | reverse %}
                             <div class="media">
                                 <a href="{{ post.url }}">
+                                   <source 
+                                   srcset="{{post.url}}{{post.data.imageThumbnail}}" 
+                                   media="(min-width: 600px)">
                                     <img class="d-flex mr-3" 
                                         src="{{post.url}}{{post.data.imageThumbnail}}" 
-                                        alt="{{post.url}}{{post.data.imageThumbnail}}" 
-                                        width="150px"
+                                        alt="{{post.url}}{{post.data.imageThumbnail}}"
                                     />
                                 </a>
                                 <div class="media-body">

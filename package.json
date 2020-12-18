@@ -10,7 +10,7 @@
     "build": "npx @11ty/eleventy",
     "serve": "npx @11ty/eleventy --serve",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
-    "test": "lighthouse-ci http://localhost:8080 --report=./_site/lh/ --view",
+    "test": "lighthouse-ci http://localhost:8081 --report=./_site/lh/ --view",
     "g": "npx ./generators/generic.js",
     "generate": "npx ./generators/generic.js"
   },

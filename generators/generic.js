@@ -101,6 +101,7 @@ let createIndexWithorWithoutImage = (folderName,callback) => {
         log('done w/downloadimage', imagePath)
         sharp(imagePath)
           .toFile(imageWebpPath, (err, info) => {log(info)})
+          .resize(150)
           .toFile(imageWebpPathThumb, (err, info) => {log(info)})
         })
         createIndex(folderName, randomImage)
