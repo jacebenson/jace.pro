@@ -21,7 +21,7 @@
                                     <p>
                                         <a href="{{ post.url }}">{{ post.data.title }}</a>
                                     </p>
-                                    <span>{{post.data.date.toISOString().split('T')[0]}}</span>
+                                    <span>{{ post.date | formatDate }}</span>
                                 </div>
                             </div>
                         {% endfor %}
@@ -57,7 +57,7 @@
             <div class="row  text-center">
                 <div class="col-lg-12">
                     <div class="copyright-txt text-center">
-                        Updated on: {{site.lastBuildDate}}
+                        Updated on: {{site.lastBuildDate | formatDate}}
                     </div>
                 </div>
             </div>

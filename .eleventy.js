@@ -18,6 +18,7 @@ module.exports = function (eleventyConfig) {
 
         // add support for syntax highlighting
         eleventyConfig.addPlugin(syntaxHighlight);
+
         eleventyConfig.addFilter("cssmin", function (code) {
             return new CleanCSS({}).minify(code).styles;
         });
@@ -46,6 +47,12 @@ module.exports = function (eleventyConfig) {
             return `<${detailstag}><summary style="${summarystyle}"><span>${title}</span></summary>${content}</details>`;
         });
 
+        eleventyConfig.addFilter("formatDate", function(value) { 
+            var d = new Date(value).toLocaleString("en-CA");
+            d = d.replace(',','');
+            d = d.replace(/\./g,'');
+            return d;
+        });
     } catch (e) {
         //console.log('ERROR', e);
     }

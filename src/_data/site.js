@@ -18,6 +18,6 @@ module.exports =
     email: "jace.benson@gmail.com",//used specificly for rss feed
     utterancesRepo: "jacebenson/jace.pro",//used for comments//if commented, doesnt load
     lastBuildDate: now.toLocaleString('en-CA',{hour12:false}).replace(',',''),
-    lastBuildYear: now.getFullYear()
-       
+    lastBuildYear: now.getFullYear(),
+    environment: process.env.ELEVENTY_DEV
 }

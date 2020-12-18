@@ -52,10 +52,12 @@
   {% include "../../assets/css/main.css" %}
   {% include "../../assets/css/prism-a11y-dark.css" %}
 {% endset %}
+{% if myProject.environment == "production" %}
 <!-- feed it through our cssmin filter to minify -->
-<style>
-  {{ css | cssmin | safe }}
-</style>
+<style>{{ css | cssmin | safe }}</style>
+{% else %}
+<style>{{ css }}</style>
+{% endif %}
 </head>
 
 
@@ -87,21 +89,24 @@
 {% set js %}
   {% include "../../assets/js/search.js" %}
   const posts = [
-{%- for post in collections.post %}
-    {
-      "title": "{{ post.data.title }}",
-      "url":"{{ post.url }}",
-      "date": "{{ post.date | rssDate }}",
-      "content": "{{ post.data.subtitle }} - {{ post.data.summary }}",
-      "meta": "{{ post.data.meta }}"
-    }{% if not loop.last %},{% endif %}
-{%- endfor %}
-];
+    {%- for post in collections.post %}
+        {
+        "title": "{{ post.data.title }}",
+        "url":"{{ post.url }}",
+        "date": "{{ post.date | rssDate }}",
+        "content": "{{ post.data.subtitle }} - {{ post.data.summary }}",
+        "meta": "{{ post.data.meta }}"
+        }{% if not loop.last %},{% endif %}
+    {%- endfor %}
+  ];
 {% endset %}
-<!-- feed it through our jsmin filter to minify -->
-<script>
-  {{ js | jsmin | safe }}
-</script>
+{% if myProject.environment == "production" %}
+<!-- feed it through our cssmin filter to minify -->
+<script>{{ js | jsmin | safe }}</script>
+{% else %}
+<script>{{ js }}</script>
+{% endif %}
+
 
 <script
 			  src="https://code.jquery.com/jquery-3.5.1.slim.min.js"

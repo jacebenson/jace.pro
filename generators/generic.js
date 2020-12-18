@@ -57,13 +57,7 @@ date: ${new Date().toISOString()}
 let createIndexWithorWithoutImage = (folderName,callback) => {
   //load env variables...
   //if PIXABAYUESER && PIXABAYPASS
-  let colors = [
-    'red',
-    'blue',
-    'green',
-    'orange',
-    'purple'
-  ]
+  let colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo','violet']
   let things = [
     'animal',
     'building',
