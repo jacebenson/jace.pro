@@ -4,7 +4,7 @@ const path = require('path')
 const https = require('https')
 const sharp = require('sharp')
 let log = (message)=>{
-  //console.log(message);
+  console.log(message);
 }
 let error = (errMessage)=>{
   console.error(errMessage);
