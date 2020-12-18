@@ -85,27 +85,21 @@
     <!-- enables search -->
     <!-- capture the JS content as a Nunjucks variable -->
     
-    <!--<script src="/postsJS.js"></script>-->
-{% set js %}
-  {% include "../../assets/js/search.js" %}
-  const posts = [
+    <script src="/assets/js/search.js"></script>
+
+<script>
+const posts = [
     {%- for post in collections.post %}
         {
-        "title": "{{ post.data.title }}",
-        "url":"{{ post.url }}",
-        "date": "{{ post.date | rssDate }}",
-        "content": "{{ post.data.subtitle }} - {{ post.data.summary }}",
-        "meta": "{{ post.data.meta }}"
+          title: "{{ post.data.title }}",
+          url:"{{ post.url }}",
+          date: "{{ post.date | rssDate }}",
+          content: "{{ post.data.subtitle }} - {{ post.data.summary }}",
+          meta: "{{ post.data.meta }}"
         }{% if not loop.last %},{% endif %}
     {%- endfor %}
   ];
-{% endset %}
-{% if myProject.environment == "production" %}
-<!-- feed it through our cssmin filter to minify -->
-<script>{{ js | jsmin | safe }}</script>
-{% else %}
-<script>{{ js }}</script>
-{% endif %}
+</script>
 
 
 <script
