@@ -47,17 +47,9 @@
     <title>{{ title }}</title>
 
         <!-- Required CSS files -->
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" lazyload>
-{% set css %}
-  {% include "../../assets/css/main.css" %}
-  {% include "../../assets/css/prism-a11y-dark.css" %}
-{% endset %}
-{% if myProject.environment == "production" %}
-<!-- feed it through our cssmin filter to minify -->
-<style>{{ css | cssmin | safe }}</style>
-{% else %}
-<style>{{ css }}</style>
-{% endif %}
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" lazyload />
+<link rel="stylesheet" href="/assets/css/main.css" lazyload />
+<link rel="stylesheet" href="/assets/css/prism-a11y-dark.css" lazyload />
 </head>
 
 

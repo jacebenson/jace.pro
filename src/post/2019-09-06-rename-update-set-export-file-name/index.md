@@ -13,7 +13,7 @@ You can update a OOB Script include `ExportWithRelatedLists` to change how it wo
 ```js
   getFileName: function(){
   // added customized name for exported update sets
-              // script include: ExportWithRelatedLists
+  // script include: ExportWithRelatedLists
   var name = (this.parent_table + '_' + this.sys_id + '.xml');
   if(this.parent_table == "sys_remote_update_set"){
     var sus = new GlideRecord('sys_remote_update_set');
@@ -26,6 +26,7 @@ You can update a OOB Script include `ExportWithRelatedLists` to change how it wo
       // return (this.parent_table + '_' + this.sys_id + '.xml');
   },
 ```
+
 
 Further Reading: [Community Post](https://community.servicenow.com/community?id=community_question&sys_id=d2ca7e63dbb723c41cd8a345ca9619c7)
 
