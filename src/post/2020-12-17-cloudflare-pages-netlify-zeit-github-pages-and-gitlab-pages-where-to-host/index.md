@@ -11,43 +11,45 @@ tags: "post"
 
 Let me know in the comments or via a [GitHub issue](https://github.com/jacebenson/jace.pro/issues/new) if I'm missing something or got something wrong.
 
-| ⬇ Feature / Host ➡ | [GitHub Pages][GH-Free]    | [GitLab Pages][GL]    | [Netlify][NE]            | [Vercel][⁽⁶⁶⁾]         | [CloudFlare][⁽⁸⁸⁾]  |
-| ------------------- | -------------------------- | --------------------- | ------------------------ | ---------------------- | ------------------- |
-| Price               | $0 if Public [⁽¹⁾]         | Free[⁽²³⁾]            | Free[⁽⁴⁴⁾]               | Free[⁽⁶⁶⁾]             | Free[⁽⁸⁸⁾]          |
-| **Build**           | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              |
-| Build Limits        | 10 / hour[⁽²⁾]             | None[⁽²⁴⁾]            | 3 / minute[⁽⁴⁵⁾]         | 32 / hour[⁽⁶⁷⁾]        | 500 / month[⁽⁸⁹⁾]   |
-| Build Time to Error | NA[⁽³⁾]                    | 3 Hours[⁽²⁵⁾]         | 15 minutes[⁽⁴⁶⁾]         | 30 Minutes[⁽⁶⁸⁾]       | Unlisted[⁽⁹⁰⁾]      |
-| Build Time/Month    | NA[⁽⁴⁾]                    | 400 minutes[⁽²⁶⁾]     | 300 minutes[⁽⁴⁷⁾]        | 100 Hours[⁽⁶⁹⁾]        | Unlisted[⁽⁹¹⁾]      |
-| Concurrent Builds   | NA[⁽⁵⁾]                    | Yes[⁽²⁷⁾]             | One[⁽⁴⁸⁾]                | One[⁽⁷⁰⁾]              | One[⁽⁹²⁾]           |
-| Deploy Limits       | NA[⁽⁶⁾]                    | No[⁽²⁸⁾]              | NA[⁽⁴⁹⁾]                 | 100 / day[⁽⁷¹⁾]        | None Listed[⁽⁹³⁾]   |
-| Deploy Previews     | No[⁽⁷⁾]                    | No[⁽²⁸ᵃ⁾]             | Yes[⁽⁵⁰⁾]                | Yes[⁽⁷²⁾]              | Yes[⁽⁹⁴⁾]           |
-| **Serverless**      | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              |
-| Serverless Functions| No[⁽⁸⁾]                    | No[⁽²⁹⁾]              | Yes[⁽⁵¹⁾]                | Yes[⁽⁷³⁾]              | Yes[⁽⁹⁵⁾]           |
-| Invocations/Mo      | NA[⁽⁹⁾]                    | NA[⁽³⁰⁾]              | 125k/per site[⁽⁵²⁾]      | 100GB-hours[⁽⁷⁴⁾]      | 100,000 / day[⁽⁹⁶⁾] |
-| Duration Allowed    | NA[⁽¹⁰⁾]                   | NA[⁽³¹⁾]              | 10 seconds[⁽⁵³⁾]         | 10 seconds[⁽⁷⁵⁾]       | 10ms[⁽⁹⁷⁾]          |
-| **Domain**          | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              |
-| DNS Management      | No[⁽¹¹⁾]                   | No[⁽³²⁾]              | Yes[⁽⁵⁴⁾]                | Yes[⁽⁷⁶⁾]              | Yes[⁽⁹⁸⁾]           |
-| HTTPS available     | Yes[⁽¹¹⁾]                  | Yes[⁽³³⁾]             | Yes[⁽⁵⁵⁾]                | Yes[⁽⁷⁷⁾]              | Yes[⁽⁹⁹⁾]           |
-| Bandwidth           | 100 GB / month[⁽¹³⁾]       | No Limit[⁽³⁴⁾]        | 100 GB / month[⁽⁵⁶⁾]     | 100 GB / month[⁽⁷⁸⁾]   | No Limit[⁽¹⁰⁰⁾]     |
-| **Site**            | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              |
-| Site Limit          | 1 GB[⁽¹⁴⁾]                 | 10 GB[⁽³⁵⁾]           | 100 GB[⁽⁵⁷⁾]             | 10K Files[⁽⁷⁹⁾]        | 20K Files[⁽¹⁰¹⁾]    |
-| Default URL         | github.io[⁽¹⁵⁾]            | gitlab.io[⁽³⁶⁾]       | netlify.app[⁽⁵⁸⁾]        | vercel.app[⁽⁸⁰⁾]       | pages.dev[⁽¹⁰²⁾]    |
-| **Teams**           | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              |
-| # of Team Members   | Unlimited[⁽¹⁶⁾]            | Unlimited[⁽³⁷⁾]       | One[⁽⁵⁹⁾]                | One[⁽⁸¹⁾]              | Unlimited[⁽¹⁰³⁾]    |
-| SSO Available       | Yes[⁽¹⁷⁾]                  | Yes[⁽³⁸⁾]             | Yes[⁽⁶⁰⁾]                | Not for free[⁽⁸²⁾]     | Unlisted[⁽¹⁰⁴⁾]     |
-| **Users**           | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              |
-| # of Users          | Yes[⁽¹⁸⁾]                  | Yes[⁽³⁹⁾]             | 1000/site/month[⁽⁶¹⁾]    | No[⁽⁸³⁾]               | No[⁽¹⁰⁵⁾]           |
-| SSO Available       | Yes[⁽¹⁹⁾]                  | Yes[⁽⁴⁰⁾]             | Not for free[⁽⁶²⁾]       | NA[⁽⁸⁴⁾]               | NA[⁽¹⁰⁶⁾]           |
-| **Forms**           | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              |
-| Submissions/Mo      | NA[⁽²⁰⁾]                   | NA[⁽⁴¹⁾]              | 100[⁽⁶³⁾]                | NA[⁽⁸⁵⁾]               | Yes & No[⁽¹⁰⁷⁾]     |
-| **Analytics**       | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              |
-| Pageviews/month     | No[⁽²¹⁾]                   | Not Yet[⁽⁴²⁾]         | No[⁽⁶⁴⁾]                 | Unclear[⁽⁸⁶⁾]          | Yes[⁽¹⁰⁸⁾]          |
-| **Split Testing**   | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              |
-| A / B Testing       | No[⁽²²⁾]                   | No[⁽⁴³⁾]              | Yes[⁽⁶⁵⁾]                | No[⁽⁸⁷⁾]               | No[⁽¹⁰⁹⁾]           |
-| **Prohibited Uses** | 
+I excluded AWS Amplify as they are only "free for a year".  That is a while but it will cost you something every month after that year.  
 
-| References|                                                                                                                                                                     |   |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |---|
+| ⬇ Feature / Host ➡ | [GitHub Pages][GH-Free]    | [GitLab Pages][GL]    | [Netlify][NE]            | [Vercel][⁽⁶⁶⁾]         | [CloudFlare][⁽⁸⁸⁾]  | [Firebase][⁽¹¹⁰⁾] |
+| ------------------- | -------------------------- | --------------------- | ------------------------ | ---------------------- | ------------------- | ----------------- |
+| Price               | $0 if Public [⁽¹⁾]         | Free[⁽²³⁾]            | Free[⁽⁴⁴⁾]               | Free[⁽⁶⁶⁾]             | Free[⁽⁸⁸⁾]          | Free[⁽¹¹¹⁾]       |
+| **Build**           | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              | <hr/>             |
+| Build Limits        | 10 / hour[⁽²⁾]             | None[⁽²⁴⁾]            | 3 / minute[⁽⁴⁵⁾]         | 32 / hour[⁽⁶⁷⁾]        | 500 / month[⁽⁸⁹⁾]   | NA[⁽¹¹²⁾]         |
+| Build Time to Error | NA[⁽³⁾]                    | 3 Hours[⁽²⁵⁾]         | 15 minutes[⁽⁴⁶⁾]         | 30 Minutes[⁽⁶⁸⁾]       | Unlisted[⁽⁹⁰⁾]      | NA[⁽¹¹³⁾]         |
+| Build Time/Month    | NA[⁽⁴⁾]                    | 400 minutes[⁽²⁶⁾]     | 300 minutes[⁽⁴⁷⁾]        | 100 Hours[⁽⁶⁹⁾]        | Unlisted[⁽⁹¹⁾]      | NA[⁽¹¹⁴⁾]         |
+| Concurrent Builds   | NA[⁽⁵⁾]                    | Yes[⁽²⁷⁾]             | One[⁽⁴⁸⁾]                | One[⁽⁷⁰⁾]              | One[⁽⁹²⁾]           | NA[⁽¹¹⁵⁾]         |
+| Deploy Limits       | NA[⁽⁶⁾]                    | No[⁽²⁸⁾]              | NA[⁽⁴⁹⁾]                 | 100 / day[⁽⁷¹⁾]        | None Listed[⁽⁹³⁾]   | NA[⁽¹¹⁶⁾]         |
+| Deploy Previews     | No[⁽⁷⁾]                    | No[⁽²⁸ᵃ⁾]             | Yes[⁽⁵⁰⁾]                | Yes[⁽⁷²⁾]              | Yes[⁽⁹⁴⁾]           | Yes[⁽¹¹⁷⁾]        |
+| **Serverless**      | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              | <hr/>             |
+| Serverless Functions| No[⁽⁸⁾]                    | No[⁽²⁹⁾]              | Yes[⁽⁵¹⁾]                | Yes[⁽⁷³⁾]              | Yes[⁽⁹⁵⁾]           | Yes[⁽¹¹⁸⁾]        | 
+| Invocations/Mo      | NA[⁽⁹⁾]                    | NA[⁽³⁰⁾]              | 125k/per site[⁽⁵²⁾]      | 100GB-hours[⁽⁷⁴⁾]      | 100,000 / day[⁽⁹⁶⁾] | 125k/month[⁽¹¹⁹⁾] |
+| Duration Allowed    | NA[⁽¹⁰⁾]                   | NA[⁽³¹⁾]              | 10 seconds[⁽⁵³⁾]         | 10 seconds[⁽⁷⁵⁾]       | 10ms[⁽⁹⁷⁾]          | 540s[⁽¹²⁰⁾]       |
+| **Domain**          | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              | <hr/>             |
+| DNS Management      | No[⁽¹¹⁾]                   | No[⁽³²⁾]              | Yes[⁽⁵⁴⁾]                | Yes[⁽⁷⁶⁾]              | Yes[⁽⁹⁸⁾]           | No[⁽¹²⁰⁾]         |
+| HTTPS available     | Yes[⁽¹²⁾]                  | Yes[⁽³³⁾]             | Yes[⁽⁵⁵⁾]                | Yes[⁽⁷⁷⁾]              | Yes[⁽⁹⁹⁾]           | [⁽¹²¹⁾]           |
+| Bandwidth           | 100 GB / month[⁽¹³⁾]       | No Limit[⁽³⁴⁾]        | 100 GB / month[⁽⁵⁶⁾]     | 100 GB / month[⁽⁷⁸⁾]   | No Limit[⁽¹⁰⁰⁾]     | [⁽¹²²⁾]           |
+| **Site**            | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              | <hr/>             |
+| Site Limit          | 1 GB[⁽¹⁴⁾]                 | 10 GB[⁽³⁵⁾]           | 100 GB[⁽⁵⁷⁾]             | 10K Files[⁽⁷⁹⁾]        | 20K Files[⁽¹⁰¹⁾]    | 10 GB[⁽¹²³⁾]      |
+| Default URL         | github.io[⁽¹⁵⁾]            | gitlab.io[⁽³⁶⁾]       | netlify.app[⁽⁵⁸⁾]        | vercel.app[⁽⁸⁰⁾]       | pages.dev[⁽¹⁰²⁾]    | [⁽¹²⁴⁾]           |
+| **Teams**           | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              | <hr/>             |
+| # of Team Members   | Unlimited[⁽¹⁶⁾]            | Unlimited[⁽³⁷⁾]       | One[⁽⁵⁹⁾]                | One[⁽⁸¹⁾]              | Unlimited[⁽¹⁰³⁾]    | [⁽¹²⁵⁾]           |
+| SSO Available       | Yes[⁽¹⁷⁾]                  | Yes[⁽³⁸⁾]             | Yes[⁽⁶⁰⁾]                | Not for free[⁽⁸²⁾]     | Unlisted[⁽¹⁰⁴⁾]     | [⁽¹²⁶⁾]           |
+| **Users**           | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              | <hr/>             |
+| # of Users          | Yes[⁽¹⁸⁾]                  | Yes[⁽³⁹⁾]             | 1000/site/month[⁽⁶¹⁾]    | No[⁽⁸³⁾]               | No[⁽¹⁰⁵⁾]           | Yes[⁽¹²⁷⁾]        |
+| SSO Available       | Yes[⁽¹⁹⁾]                  | Yes[⁽⁴⁰⁾]             | Not for free[⁽⁶²⁾]       | NA[⁽⁸⁴⁾]               | NA[⁽¹⁰⁶⁾]           | ?[⁽¹²⁸⁾]          |
+| **Forms**           | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              | <hr/>             |
+| Submissions/Mo      | NA[⁽²⁰⁾]                   | NA[⁽⁴¹⁾]              | 100[⁽⁶³⁾]                | NA[⁽⁸⁵⁾]               | Yes & No[⁽¹⁰⁷⁾]     | No[⁽¹²⁹⁾]         |
+| **Analytics**       | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              | <hr/>             |
+| Pageviews/month     | No[⁽²¹⁾]                   | Not Yet[⁽⁴²⁾]         | No[⁽⁶⁴⁾]                 | Unclear[⁽⁸⁶⁾]          | Yes[⁽¹⁰⁸⁾]          | Yes[⁽¹³⁰⁾]        |
+| **Split Testing**   | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              | <hr/>             |
+| A / B Testing       | No[⁽²²⁾]                   | No[⁽⁴³⁾]              | Yes[⁽⁶⁵⁾]                | No[⁽⁸⁷⁾]               | No[⁽¹⁰⁹⁾]           | Yes[⁽¹³¹⁾]        |
+
+
+|References |                                                                                                                                                                     |     |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |-----|
 |           | **GitHub**                                                                                                                                         <a name="1"></a> |[Top]|
 | [⁽¹⁾]     | GitHub public repos are "Free" and have access to GitHub Pages.  Private repos don't have this feature unless paid.                                <a name="2"></a> |[Top]|
 | [⁽²⁾]     | [GitHub Pages sites have a soft limit of 10 builds per hour.][GH-Usage-Limits]                                                                     <a name="3"></a> |[Top]|
@@ -164,6 +166,31 @@ Let me know in the comments or via a [GitHub issue](https://github.com/jacebenso
 | [⁽¹⁰⁷⁾]   | With Workers, you get access to a Key-Value database, but you don't have a way to do forms without building a worker to handle the submission.   <a name="108"></a> |[Top]|
 | [⁽¹⁰⁸⁾]   | Cloudflare is all about caching your sites.  They show you uncached traffic, you gotta pay for cached analytics.                                 <a name="109"></a> |[Top]|
 | [⁽¹⁰⁹⁾]   | I could find [A / B testing for workers][CF-Workers-AB-Testing].  Not for pages.                                                                 <a name="110"></a> |[Top]|
+|           | **Firebase**                                                                                                                                     <a name="111"></a> |[Top]|
+| [⁽¹¹¹⁾]   | [Freeeee!][FB-Pricing]                                                                                                                           <a name="112"></a> |[Top]|
+| [⁽¹¹²⁾]   | From what I can tell, you need to do the build.  No build process in Firebase that I can tell.                                                   <a name="113"></a> |[Top]|
+| [⁽¹¹³⁾]   | From what I can tell, you need to do the build.  No build process in Firebase that I can tell.                                                   <a name="114"></a> |[Top]|
+| [⁽¹¹⁴⁾]   | From what I can tell, you need to do the build.  No build process in Firebase that I can tell.                                                   <a name="115"></a> |[Top]|
+| [⁽¹¹⁵⁾]   | From what I can tell, you need to do the build.  No build process in Firebase that I can tell.                                                   <a name="116"></a> |[Top]|
+| [⁽¹¹⁶⁾]   | From what I can tell, you need to do the build.  No build process in Firebase that I can tell.                                                   <a name="117"></a> |[Top]|
+| [⁽¹¹⁷⁾]   | [FB-Deploy-Preview]                                                                                                                              <a name="118"></a> |[Top]|
+| [⁽¹¹⁸⁾]   | [FB-Pricing]                                                                                                                                     <a name="119"></a> |[Top]|
+| [⁽¹¹⁹⁾]   | [FB-Serverless-Limits]                                                                                                                           <a name="120"></a> |[Top]|
+| [⁽¹²⁰⁾]   | [FB-Serverless-Limits]                                                                                                                           <a name="121"></a> |[Top]|
+| [⁽¹²¹⁾]   | [FB-Domains]                                                                                                                                     <a name="122"></a> |[Top]|
+| [⁽¹²²⁾]   |                                                                                                                                                  <a name="123"></a> |[Top]|
+| [⁽¹²³⁾]   | [FB-Pricing]                                                                                                                                     <a name="124"></a> |[Top]|
+| [⁽¹²⁴⁾]   |                                                                                                                                                  <a name="125"></a> |[Top]|
+| [⁽¹²⁵⁾]   |                                                                                                                                                  <a name="126"></a> |[Top]|
+| [⁽¹²⁶⁾]   |                                                                                                                                                  <a name="127"></a> |[Top]|
+| [⁽¹²⁷⁾]   | [FB-Pricing]                                                                                                                                     <a name="128"></a> |[Top]|
+| [⁽¹²⁸⁾]   |                                                                                                                                                  <a name="129"></a> |[Top]|
+| [⁽¹²⁹⁾]   |                                                                                                                                                  <a name="130"></a> |[Top]|
+| [⁽¹³⁰⁾]   | [FB-Pricing]                                                                                                                                     <a name="131"></a> |[Top]|
+| [⁽¹³¹⁾]   | [FB-Pricing]                                                                                                                                     <a name="132"></a> |[Top]|
+| [⁽¹³²⁾]   |                                                                                                                                                  <a name="133"></a> |[Top]|
+
+
 [GH-Free]: https://github.com/pricing
 [GH-Usage-Limits]: [https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-github-pages#usage-limits]
 [GH-Action-to-function]: https://github.com/serverless/github-action
@@ -238,6 +265,10 @@ Let me know in the comments or via a [GitHub issue](https://github.com/jacebenso
 [CF-Users]: https://developers.cloudflare.com/workers/tutorials/authorize-users-with-auth0
 [CF-Analytics]: https://www.cloudflare.com/web-analytics/
 [CF-Workers-AB-Testing]: https://developers.cloudflare.com/workers/examples/ab-testing
+[FB-Domains]: https://firebase.google.com/docs/hosting/custom-domain
+[FB-Pricing]: https://firebase.google.com/pricing/
+[FB-Deploy-Preview]: https://firebase.google.com/docs/hosting/test-preview-deploy
+[FB-Serverless-Limits]: https://firebase.google.com/docs/functions/quotas
 [⁽¹⁾]: #1
 [⁽²⁾]: #2
 [⁽³⁾]: #3
@@ -350,4 +381,25 @@ Let me know in the comments or via a [GitHub issue](https://github.com/jacebenso
 [⁽¹⁰⁹⁾]: #109
 [⁽¹¹⁰⁾]: #110
 [⁽¹¹¹⁾]: #111
+[⁽¹¹²⁾]: #112
+[⁽¹¹³⁾]: #113
+[⁽¹¹⁴⁾]: #114
+[⁽¹¹⁵⁾]: #115
+[⁽¹¹⁶⁾]: #116
+[⁽¹¹⁷⁾]: #117
+[⁽¹¹⁸⁾]: #118
+[⁽¹¹⁹⁾]: #119
+[⁽¹²⁰⁾]: #120
+[⁽¹²¹⁾]: #121
+[⁽¹²²⁾]: #122
+[⁽¹²³⁾]: #123
+[⁽¹²⁴⁾]: #124
+[⁽¹²⁵⁾]: #125
+[⁽¹²⁶⁾]: #126
+[⁽¹²⁷⁾]: #127
+[⁽¹²⁸⁾]: #128
+[⁽¹²⁹⁾]: #129
+[⁽¹³⁰⁾]: #130
+[⁽¹³¹⁾]: #131
+[⁽¹³²⁾]: #132
 [Top]: #top
