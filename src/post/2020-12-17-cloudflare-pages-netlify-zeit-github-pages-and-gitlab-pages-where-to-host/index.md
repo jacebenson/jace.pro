@@ -11,7 +11,7 @@ tags: "post"
 
 Let me know in the comments or via a [GitHub issue](https://github.com/jacebenson/jace.pro/issues/new) if I'm missing something or got something wrong.
 
-| ⬇ Feature / Host ➡ | [GitHub Pages][GH-Free]    | [GitLab Pages][GL]    | [Netlify][NE]            | [Vercel][VE-1]         | [CloudFlare][CF-1]  |
+| ⬇ Feature / Host ➡ | [GitHub Pages][GH-Free]    | [GitLab Pages][GL]    | [Netlify][NE]            | [Vercel][⁽⁶⁶⁾]         | [CloudFlare][⁽⁸⁸⁾]  |
 | ------------------- | -------------------------- | --------------------- | ------------------------ | ---------------------- | ------------------- |
 | Price               | $0 if Public [⁽¹⁾]         | Free[⁽²³⁾]            | Free[⁽⁴⁴⁾]               | Free[⁽⁶⁶⁾]             | Free[⁽⁸⁸⁾]          |
 | **Build**           | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              |
@@ -44,6 +44,7 @@ Let me know in the comments or via a [GitHub issue](https://github.com/jacebenso
 | Pageviews/month     | No[⁽²¹⁾]                   | Not Yet[⁽⁴²⁾]         | No[⁽⁶⁴⁾]                 | Unclear[⁽⁸⁶⁾]          | Yes[⁽¹⁰⁸⁾]          |
 | **Split Testing**   | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              |
 | A / B Testing       | No[⁽²²⁾]                   | No[⁽⁴³⁾]              | Yes[⁽⁶⁵⁾]                | No[⁽⁸⁷⁾]               | No[⁽¹⁰⁹⁾]           |
+| **Prohibited Uses** | 
 
 | References|                                                                                                                                                                     |   |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |---|
