@@ -6,9 +6,9 @@ date: 2019-09-06T22:12:41-05:00
 ---
 I know I've lost an update set in the past after a clone.  Not because I didn't back it up.  But because I couldn't find it locally on my drive.  Or I did but all the names were too much to keep straight.  
 
-There's a bunch of ways to mitigate that loss.  I'm not going to go into weather or not you should move everything up or what not.  This post is just about making the "Export Update Set" button give you a file name that makes more sense.
+There's a bunch of ways to mitigate that loss.  I'm not going to go into weather or not you should move everything up or what not.  This post is about making the "Export Update Set" button give you a file name that makes more sense.
 
-You can update a OOB Script include `ExportWithRelatedLists` to change how it works for exporting update sets.  There's a function, `getFileName` that determines the name of the file.  Normally it's just `table_sysid.xml`.  You can add an if and rename it.  Here's the code I've used to do this.
+You can update a OOB Script include `ExportWithRelatedLists` to change how it works for exporting update sets.  There's a function, `getFileName` that determines the name of the file.  It's `table_sysid.xml`.  You can add an if and rename it.  Here's the code I've used to do this.
 
 ```js
   getFileName: function(){
