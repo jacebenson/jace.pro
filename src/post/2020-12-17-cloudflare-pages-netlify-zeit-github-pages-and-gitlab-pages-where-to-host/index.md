@@ -23,8 +23,8 @@ Let me know in the comments or via a [GitHub issue](https://github.com/jacebenso
 | Deploy Previews     | No[⁽⁷⁾]                    | No[⁽²⁸ᵃ⁾]             | Yes[⁽⁵⁰⁾]                | Yes[⁽⁷²⁾]              | Yes[⁽⁹⁴⁾]           |
 | **Serverless**      | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              |
 | Serverless Functions| No[⁽⁸⁾]                    | No[⁽²⁹⁾]              | Yes[⁽⁵¹⁾]                | Yes[⁽⁷³⁾]              | Yes[⁽⁹⁵⁾]           |
-| Invocations/Mo      | NA[⁽⁹⁾]                    | NA[⁽³⁰⁾]              | 125k/per site[⁽⁵²⁾]      | 100GB-hours[⁽⁷⁴⁾]      | [⁽⁹⁶⁾]              |
-| Duration Allowed    | NA[⁽¹⁰⁾]                   | NA[⁽³¹⁾]              | 10 seconds[⁽⁵³⁾]         | 10 seconds[⁽⁷⁵⁾]       | [⁽⁹⁷⁾]              |
+| Invocations/Mo      | NA[⁽⁹⁾]                    | NA[⁽³⁰⁾]              | 125k/per site[⁽⁵²⁾]      | 100GB-hours[⁽⁷⁴⁾]      | 100,000 / day[⁽⁹⁶⁾] |
+| Duration Allowed    | NA[⁽¹⁰⁾]                   | NA[⁽³¹⁾]              | 10 seconds[⁽⁵³⁾]         | 10 seconds[⁽⁷⁵⁾]       | 10ms[⁽⁹⁷⁾]          |
 | **Domain**          | <hr />                     | <hr />                | <hr />                   | <hr />                 | <hr />              |
 | DNS Management      | No[⁽¹¹⁾]                   | No[⁽³²⁾]              | Yes[⁽⁵⁴⁾]                | Yes[⁽⁷⁶⁾]              | Yes[⁽⁹⁸⁾]           |
 | HTTPS available     | Yes[⁽¹¹⁾]                  | Yes[⁽³³⁾]             | Yes[⁽⁵⁵⁾]                | Yes[⁽⁷⁷⁾]              | Yes[⁽⁹⁹⁾]           |
