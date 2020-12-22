@@ -12,7 +12,9 @@
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
     "test": "lighthouse-ci http://localhost:8081 --report=./_site/lh/ --view",
     "g": "npx ./generators/generic.js",
-    "generate": "npx ./generators/generic.js"
+    "generate": "npx ./generators/generic.js",
+    "buildImages": "npx ./generators/buildImages.js",
+    "downloadImage": "npx ./generators/downloadImage.js"
   },
   "keywords": [],
   "author": "",
