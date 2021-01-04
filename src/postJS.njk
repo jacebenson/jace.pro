@@ -1,0 +1,17 @@
+---json
+{
+  "permalink": "postsJS.js",
+  "eleventyExcludeFromCollections": true
+}
+---
+const posts = [
+{%- for post in collections.post %}
+    {
+      "title": "{{ post.data.title }}",
+      "url":"{{ post.url }}",
+      "date": "{{ post.date | rssDate }}",
+      "content": "{{ post.data.subtitle }} - {{ post.data.summary }}",
+      "meta": "{{ post.data.meta }}"
+    }{% if not loop.last %},{% endif %}
+{%- endfor %}
+];
