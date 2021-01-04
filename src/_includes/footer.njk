@@ -1,72 +1,37 @@
-
 <footer>
-    <div class="footer-top">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6 col-lg-6 footer_widget">
-                    <div class="inner">
-                        <div class="h4">Recent Posts</div>
-                        {% for post in collections.post.slice(collections.post.length-4,collections.post.length) | reverse %}
-                            <div class="media">
-                                <a href="{{ post.url }}">
-                                    <img width="100px" class="d-flex mr-3" data-sizes="auto" sizes="100px"
-                                        src="{{post.url}}{{post.data.imageThumbnail}}"
-                                        srcset="
-                                        {{post.url}}featured-100.webp 100w,
-                                        {{post.url}}featured-200.webp 200w,
-                                        {{post.url}}featured-320.webp 320w,
-                                        {{post.url}}featured-360.webp 360w,
-                                        {{post.url}}featured-640.webp 640w,
-                                        {{post.url}}featured-720.webp 720w,
-                                        {{post.url}}featured-960.webp 960w,
-                                        {{post.url}}featured-1280.webp 1280w"
-                                        alt="{{post.url}}{{post.data.imageThumbnail}}"
-                                    />
-                                </a>
-                                <div class="media-body">
-                                    <p>
-                                        <a href="{{ post.url }}">{{ post.data.title }}</a>
-                                    </p>
-                                    <span>{{ post.date | formatDate }}</span>
-                                </div>
-                            </div>
-                        {% endfor %}
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-6 footer_widget">
-                    <div class="inner">
-                        <div class="h4">Want to hear more from me? Say thanks? Or have a discussion?</div>
-                        
-                        {% if site.patreon %}
-                        <p>Become a Patron and you'll get access to my posts in progress, polls, thoughts and other things I want to share.  A monthly happy hour with me and access to my PDI.</p>
-                                <a class="nav-link" href="{{site.patreon}}"><img src="/assets/img/patron.webp" alt="Become a Patron!" style="height:51px" width="217px" height="51px"></a>
-                        {% endif %}
-                        
-                    </div>
-                </div>
+    <div class="main-footer">
+    {% for post in collections.post.slice(collections.post.length-4,collections.post.length) | reverse %}
+        <article class="article">
+            <!--<img width="100px" class="article-thumb-footer" data-sizes="auto" sizes="100px"
+                src="{{post.url}}{{post.data.imageThumbnail}}"
+                srcset="
+                {{post.url}}featured-100.webp 100w,
+                {{post.url}}featured-200.webp 200w,
+                {{post.url}}featured-320.webp 320w,
+                {{post.url}}featured-360.webp 360w,
+                {{post.url}}featured-640.webp 640w,
+                {{post.url}}featured-720.webp 720w,
+                {{post.url}}featured-960.webp 960w,
+                {{post.url}}featured-1280.webp 1280w"
+                alt="{{post.url}}{{post.data.imageThumbnail}}"
+            />-->
+            <div class="content">
+              <h2 class="title"><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+              <p class="text">{{post.data.subtitle}} {{post.data.date.toISOString().split('T')[0]}}</p>
+              <div class="actions">
+              {% if post.data.linkText %}
+                <a class="button secondary" href="{{ post.url }}">{{ post.data.linkText }}</a>
+              {% endif %}
+              </div>
             </div>
-        </div>
+        </article>
+    {% endfor %}
     </div>
-    <div class="footer-bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="copyright-txt text-center">
-                        {{site.author.name}} © {{site.lastBuildYear}} · 
-                        <a href="/index.xml">RSS <i class="fa fa-rss" aria-hidden="true"></i></a>
-                        <a href="https://twitter.com/{{site.twitter}}">Twitter</a>
-                        <a href="{{site.github}}">GitHub</a>
-                        <a href="{{site.linkedin}}">LinkedIn</a>
-                    </div>
-                </div>
-            </div>
-            <div class="row  text-center">
-                <div class="col-lg-12">
-                    <div class="copyright-txt text-center">
-                        Updated on: {{site.lastBuildDate | formatDate}}
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <div class="copyright-txt text-center">
+        {{site.author}} © <span alt="{{site.lastBuildDate}}">{{site.lastBuildYear}}</span> · 
+        <a href="/index.xml">RSS</a>
+        <a href="https://twitter.com/{{site.twitter}}">Twitter</a>
+        <a href="{{site.github}}">GitHub</a>
+        <a href="{{site.linkedin}}">LinkedIn</a>
+    </div> 
 </footer>

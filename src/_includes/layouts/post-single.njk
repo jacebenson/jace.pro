@@ -1,44 +1,6 @@
 {% extends "base.njk" %}
+
 {%- block seo -%}
-<!--Google Structured Data-->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "url": "{{site.baseURL}}{{page.url}}",
-  "name": "{{ title }}",
-  "headline": "{{ title }}",
-  "keywords": "{{ meta.toString() }}",
-  "description": "{{ summary }}",
-  "articleBody":  "{{ content | striptags }}",
-  "datePublished": "{{ date }}",
-  "dateModified": "{{ date }}",
-  "author": {
-    "@type": "Person",
-    "name": "{{ site.author.name }}",
-    "givenName": "{{ site.author.firstName }}",
-    "familyName": "{{ site.author.lastName }}",
-    "email": "{{ site.email }}"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "{{ site.title }}",
-    "url": "{{site.baseURL}}",
-    "logo": {
-      "@type": "ImageObject",
-      "width": 32,
-      "height": 32,
-      "url": "{{site.baseURL}}/assets/img/icon-32.png"
-    }
-  },
-    "image": {
-    "@type": "ImageObject",
-    "width": {{ imageWidth }},
-    "height": {{ imageHeight }},
-    "url": "{{site.baseURL}}{{page.url}}{{imageName}}"
-  }
-}
-</script>
 <!--Twitter Card-->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@{{site.twitter}}">
@@ -86,7 +48,19 @@
 
   <!-- Card image -->
   <div class="view overlay my-4">
-    <img src="./{{imageName}}" class="img-fluid" width="{{imageWidth}}px" height="{{imageHeight}}px" alt="{{imageAltText}}">
+    <img width="70%" class="img-fluid" data-sizes="auto" sizes="640px"
+      src="{{post.url}}{{post.data.imageName}}"
+      srcset="
+      {{post.url}}featured-100.webp 100w,
+      {{post.url}}featured-200.webp 200w,
+      {{post.url}}featured-320.webp 320w,
+      {{post.url}}featured-360.webp 360w,
+      {{post.url}}featured-640.webp 640w,
+      {{post.url}}featured-720.webp 720w,
+      {{post.url}}featured-960.webp 960w,
+      {{post.url}}featured-1280.webp 1280w"
+      alt="{{post.url}}{{post.data.imageName}}"
+    />
   </div>
 
   <h5 class="indigo-text h5 mb-4">{{ subtitle }}</h5>
