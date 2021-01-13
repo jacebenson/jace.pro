@@ -23,13 +23,13 @@ I work on web technogies every day with ambition to learn more about what makes 
 
 # Achievements
 
-| Certifications                                 | Skills                                                                   | 
+| Certifications / Achievements                  | Skills                                                                   | 
 | ---------------------------------------------- | ------------------------------------------------------------------------ |
 | ITIL v3 Foundations                            | Languages: (HTML, CSS, SCSS, JavaScript, XML, Jelly, PHP, MySQL)         |
-| ServiceNow Certified System Administrator      | Libraries: (jQuery, Angular, Prototype, Node.js, React, Redwoodjs, 11ty) |
-| ServiceNow Certified Implementation Specialist | Platforms: (ServiceNow, Mediawiki, Node-red, Docker, Wordpress)          |
-| ServiceNow Certified Application Developer     | Web Services: (REST, SOAP, GraphQL)                                      |
-| Free Code Camp Front End Certificate           |                                                                          |
+| Free Code Camp Front End Certificate           | Libraries: (jQuery, Angular, Prototype, Node.js, React, Redwoodjs, 11ty) |
+| 2020 ServiceNow Developer MVP                  | Platforms: (ServiceNow, Mediawiki, Node-red, Docker, Wordpress)          |
+| ServiceNow Minneapolis MN organizer            | Web Services: (REST, SOAP, GraphQL)                                      |
+
 
 # Experiences
 
