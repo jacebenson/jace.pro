@@ -75,7 +75,7 @@ I work on web technogies every day with ambition to learn more about what makes 
 
 
 ## Senior Technical Analyst
-<sup>Fruition Partners, Minneapolis 2014-2014</sup>
+<sup>Fruition Partners, Minneapolis 2011-2014</sup>
  ---
 * Provided guidance on technical matters to both the client and internal resources alike, created a collaborative environment that maintained scope and met all the objectives set by the statements of work
 * Worked with project sponsors and system administrators to customize ServiceNow to work for their organizations
