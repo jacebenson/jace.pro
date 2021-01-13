@@ -11,7 +11,6 @@ I work on web technogies every day with ambition to learn more about what makes 
 # Social
 
 * Email: [jace.benson@gmail.com](mailto:jace.benson@gmail.com)
-* Phone: [(612) 562-8761](tel:6125628762)
 * Website: [https://jace.pro](https://jace.pro)
 * LinkedIn: [https://linkedin.com/in/jacebenson](https://linkedin.com/in/jacebenson)
 * ServiceNow Community Profile: [jacebenson](https://community.servicenow.com/community?id=community_user_profile&user=d6625a69dbd81fc09c9ffb651f9619fc) 
