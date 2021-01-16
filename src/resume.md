@@ -11,7 +11,6 @@ I work on web technogies every day with ambition to learn more about what makes 
 # Social
 
 * Email: [jace.benson@gmail.com](mailto:jace.benson@gmail.com)
-* Phone: [(612) 562-8761](tel:6125628762)
 * Website: [https://jace.pro](https://jace.pro)
 * LinkedIn: [https://linkedin.com/in/jacebenson](https://linkedin.com/in/jacebenson)
 * ServiceNow Community Profile: [jacebenson](https://community.servicenow.com/community?id=community_user_profile&user=d6625a69dbd81fc09c9ffb651f9619fc) 
@@ -23,13 +22,13 @@ I work on web technogies every day with ambition to learn more about what makes 
 
 # Achievements
 
-| Certifications                                 | Skills                                                                   | 
+| Certifications / Achievements                  | Skills                                                                   | 
 | ---------------------------------------------- | ------------------------------------------------------------------------ |
 | ITIL v3 Foundations                            | Languages: (HTML, CSS, SCSS, JavaScript, XML, Jelly, PHP, MySQL)         |
-| ServiceNow Certified System Administrator      | Libraries: (jQuery, Angular, Prototype, Node.js, React, Redwoodjs, 11ty) |
-| ServiceNow Certified Implementation Specialist | Platforms: (ServiceNow, Mediawiki, Node-red, Docker, Wordpress)          |
-| ServiceNow Certified Application Developer     | Web Services: (REST, SOAP, GraphQL)                                      |
-| Free Code Camp Front End Certificate           |                                                                          |
+| Free Code Camp Front End Certificate           | Libraries: (jQuery, Angular, Prototype, Node.js, React, Redwoodjs, 11ty) |
+| 2020 ServiceNow Developer MVP                  | Platforms: (ServiceNow, Mediawiki, Node-red, Docker, Wordpress)          |
+| ServiceNow Minneapolis MN organizer            | Web Services: (REST, SOAP, GraphQL)                                      |
+
 
 # Experiences
 
@@ -75,7 +74,7 @@ I work on web technogies every day with ambition to learn more about what makes 
 
 
 ## Senior Technical Analyst
-<sup>Fruition Partners, Minneapolis 2014-2014</sup>
+<sup>Fruition Partners, Minneapolis 2011-2014</sup>
  ---
 * Provided guidance on technical matters to both the client and internal resources alike, created a collaborative environment that maintained scope and met all the objectives set by the statements of work
 * Worked with project sponsors and system administrators to customize ServiceNow to work for their organizations
