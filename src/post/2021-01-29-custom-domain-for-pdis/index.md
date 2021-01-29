@@ -25,7 +25,7 @@ You can read the repo's readme, or follow along here.  Also there are at least t
 
 1. Copy/Fork/Clone this repo.  
 2. Update the `netlify.toml` file to the site you want.
-3. In netlify, add this repository as a site.
+3. On Netlify, add this repository as a site.
 4. Update the site's domain under "Custom domains" to the domain you want.
 
 (You'll need your DNS set up to Netlify, here's the [docs on that](https://docs.netlify.com/domains-https/netlify-dns/).)
@@ -34,7 +34,7 @@ You can read the repo's readme, or follow along here.  Also there are at least t
 
 1. Copy/Fork/Clone this repo.  
 2. Update the `netlify.toml` file to the site you want.
-3. In netlify, add this repository as a site.
+3. On Netlify, add this repository as a site.
 4. Update the site's domain under "Domain mangement=>Custom domains" to the domain you want.
 5. If domain is a subdomain
    1. [On your DNS, add a CNAME record to the site name given in step 3.](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/)
