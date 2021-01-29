@@ -11,11 +11,13 @@ I was looking at my PDI the other day and decided I wanted to change the domain.
 
 Jarod M. was speaking on a zoom call and I was reminded of the domain work he did.  He said something about proxying the domain on Cloudflare.  I'm not sure how he did it to his instance last year, but I thought, I know how to do that on Netlify.  The next day I tried it out and bam, worked.
 
-You're here because you want to know how.  Here's what you'll need.
+You're here because you want to know how.  
 
-1.  Access to your DNS for the domain.  Either to move to Netlify DNS, or to create appropriate records.
-2.  A Netlify account.
-3.  A Git repository pointing to the proper domain [like this one](https://github.com/jacebenson/dev)
+## Here's what you'll need.
+
+1.  **Access to your DNS** for the domain.  Either to move to Netlify DNS, or to create appropriate records.
+2.  A **Netlify account**.
+3.  A **Git repository pointing to the proper domain [like this one](https://github.com/jacebenson/dev)**.
 
 You can read the repo's readme, or follow along here.  Also there are at least two other ways to do this.  One is using [ServiceNow's custom URL feature](https://docs.servicenow.com/bundle/paris-platform-administration/page/integrate/authentication/concept/custom-url.html).  The other is some magic on Cloudflare.
 
