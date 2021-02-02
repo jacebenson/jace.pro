@@ -1,0 +1,994 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{{site.author}}</title>
+
+  <!-- Google font typography settings - defined in _config.yml -->
+  
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,700|Open+Sans:400,300,800,700" rel="stylesheet" type="text/css">
+  
+
+  <meta name="description" content="A resume template for Jekyll and GitHub Pages sites.">
+
+  <style>
+  /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+html {
+    font-family: sans-serif;
+    text-size-adjust: 100%
+}
+
+body {
+    margin: 0
+}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary {
+    display: block
+}
+
+audio,canvas,progress,video {
+    display: inline-block;
+    vertical-align: baseline
+}
+
+audio:not([controls]) {
+    display: none;
+    height: 0
+}
+
+[hidden],template {
+    display: none
+}
+
+a {
+    background-color: transparent
+}
+
+a:active,a:hover {
+    outline: 0
+}
+
+abbr[title] {
+    border-bottom: 1px dotted
+}
+
+b,strong {
+    font-weight: bold
+}
+
+dfn {
+    font-style: italic
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0
+}
+
+mark {
+    background: #ff0;
+    color: #000
+}
+
+small {
+    font-size: 80%
+}
+
+sub,sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline
+}
+
+sup {
+    top: -0.5em
+}
+
+sub {
+    bottom: -0.25em
+}
+
+img {
+    border: 0
+}
+
+svg:not(:root) {
+    overflow: hidden
+}
+
+figure {
+    margin: 1em 40px
+}
+
+hr {
+    box-sizing: content-box;
+    height: 0
+}
+
+pre {
+    overflow: auto
+}
+
+code,kbd,pre,samp {
+    font-family: monospace, monospace;
+    font-size: 1em
+}
+
+button,input,optgroup,select,textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0
+}
+
+button {
+    overflow: visible
+}
+
+button,select {
+    text-transform: none
+}
+
+button,html input[type="button"],input[type="reset"],input[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer
+}
+
+button[disabled],html input[disabled] {
+    cursor: default
+}
+
+button::-moz-focus-inner,input::-moz-focus-inner {
+    border: 0;
+    padding: 0
+}
+
+input {
+    line-height: normal
+}
+
+input[type="checkbox"],input[type="radio"] {
+    box-sizing: border-box;
+    padding: 0
+}
+
+input[type="number"]::-webkit-inner-spin-button,input[type="number"]::-webkit-outer-spin-button {
+    height: auto
+}
+
+input[type="search"] {
+    -webkit-appearance: textfield;
+    box-sizing: content-box
+}
+
+input[type="search"]::-webkit-search-cancel-button,input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none
+}
+
+fieldset {
+    border: 1px solid #c0c0c0;
+    margin: 0 2px;
+    padding: 0.35em 0.625em 0.75em
+}
+
+legend {
+    border: 0;
+    padding: 0
+}
+
+textarea {
+    overflow: auto
+}
+
+optgroup {
+    font-weight: bold
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+td,th {
+    padding: 0
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+html {
+    background: #fff
+}
+
+body {
+    font-family: "Lora", "Minion Pro", Palatino, Georgia, serif;
+    color: #333;
+    font-size: 16px;
+    line-height: 1.5
+}
+
+.wrapper:before,.wrapper:after {
+    content: "";
+    display: table
+}
+
+.wrapper:after {
+    clear: both
+}
+
+.wrapper {
+    max-width: 728px;
+    padding: 0 24px;
+    margin: 0 auto;
+    zoom:1}
+
+.group:before,.group:after {
+    content: "";
+    display: table
+}
+
+.group:after {
+    clear: both
+}
+
+.group {
+    zoom:1}
+
+::-moz-selection {
+    background: rgba(51,51,51,0.8);
+    color: #fff;
+    text-shadow: none
+}
+
+::selection {
+    background: rgba(51,51,51,0.8);
+    color: #fff;
+    text-shadow: none
+}
+
+.container {
+    width: 980px;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.container:before {
+    display: table;
+    content: ""
+}
+
+.container:after {
+    display: table;
+    clear: both;
+    content: ""
+}
+
+.columns {
+    margin-right: -10px;
+    margin-left: -10px
+}
+
+.columns:before {
+    display: table;
+    content: ""
+}
+
+.columns:after {
+    display: table;
+    clear: both;
+    content: ""
+}
+
+.column {
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px
+}
+
+.one-third {
+    width: 33.333333%
+}
+
+.two-thirds {
+    width: 66.666667%
+}
+
+.one-fourth {
+    width: 25%
+}
+
+.one-half {
+    width: 50%
+}
+
+.three-fourths {
+    width: 75%
+}
+
+.one-fifth {
+    width: 20%
+}
+
+.four-fifths {
+    width: 80%
+}
+
+.single-column {
+    padding-right: 10px;
+    padding-left: 10px
+}
+
+.table-column {
+    display: table-cell;
+    width: 1%;
+    padding-right: 10px;
+    padding-left: 10px;
+    vertical-align: top
+}
+
+.section-header {
+    border-top: 4px solid #c7c7c7;
+    border-bottom: 2px solid #c7c7c7;
+    padding: .2rem 0 .4rem;
+    margin-bottom: 1.5rem
+}
+
+.section-header h2 {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 900;
+    font-size: 1.75rem;
+    letter-spacing: -.05rem;
+    margin: 0
+}
+
+.page-header {
+    padding: 1.5rem 0
+}
+
+.page-header .avatar {
+    width: 95px;
+    max-width: 100%;
+    overflow: hidden;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    margin: 0 auto;
+    display: block
+}
+
+.page-header .header-name {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 3rem;
+    font-weight: 900;
+    text-align: center;
+    letter-spacing: -.15rem;
+    line-height: 1;
+    margin: 1rem 0 0
+}
+
+.page-header .header-contact-info {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center
+}
+
+.page-header .header-contact-info p a {
+    color: inherit
+}
+
+.page-header .title-bar {
+    border-top: 4px solid #c7c7c7;
+    border-bottom: 2px solid #c7c7c7;
+    padding: .2rem 0 .4rem;
+    margin-top: 2rem;
+    padding: .4rem 0
+}
+
+.page-header .title-bar:before {
+    display: table;
+    content: ""
+}
+
+.page-header .title-bar:after {
+    display: table;
+    clear: both;
+    content: ""
+}
+
+.page-header .title-bar .header-title {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 1.75rem;
+    line-height: 2rem;
+    letter-spacing: -.05rem;
+    text-align: center;
+    margin: 0 0 .5rem
+}
+
+@media (min-width: 600px) {
+    .page-header .title-bar .header-title {
+        float:left;
+        margin: 0
+    }
+}
+
+@media (min-width: 600px) {
+    .page-header .executive-summary {
+        font-size:1.125rem
+    }
+}
+
+.icon-links {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: relative;
+    top: 4px;
+    text-align: center;
+    border-top: 2px solid #c7c7c7;
+    padding-top: .4rem
+}
+
+@media (min-width: 600px) {
+    .icon-links {
+        float:right;
+        border-top: none;
+        padding-top: 0
+    }
+}
+
+.icon-links .icon-link-item {
+    display: inline-block;
+    margin-left: 5px
+}
+
+.icon-links .icon-link {
+    display: inline-block
+}
+
+.icon-links .icon-link:hover .icon path {
+    fill: #333;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    transition: all 0.2s ease
+}
+
+.icon-links .icon {
+    height: 28px
+}
+
+.contact-button {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color: #efefef;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    margin: 1.5rem auto;
+    width: 220px;
+    font-size: 1.375rem;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    color: #333;
+    line-height: 55px;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    transition: all 0.2s ease
+}
+
+.contact-button:hover {
+    background-color: #333;
+    color: #fff
+}
+
+.contact-button.not-looking {
+    width: 400px
+}
+
+.content-section {
+    margin: 0 0 3rem
+}
+
+.content-section .resume-item {
+    margin-bottom: 2rem
+}
+
+.content-section .resume-item-title {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    margin: 0 0 .75rem;
+    font-size: 1.5rem;
+    letter-spacing: -.05rem;
+    line-height: 1
+}
+
+.content-section .resume-item-details {
+    font-size: 1.125rem;
+    margin: 0 0 .75rem;
+    line-height: 1
+}
+
+.content-section .resume-item-details.award-title {
+    font-size: 1rem
+}
+
+.content-section .resume-item-title a,.content-section .resume-item-details a,.content-section .resume-item-copy a,.content-section .resume-item-list a {
+    color: #333;
+    text-decoration: none;
+    border-bottom: 1px solid
+}
+
+.content-section .resume-item-title a:hover,.content-section .resume-item-details a:hover,.content-section .resume-item-copy a:hover,.content-section .resume-item-list a:hover {
+    border-bottom: none;
+    color: #9c9c9c
+}
+
+.content-section .resume-item-copy {
+    margin: .75rem 0 0
+}
+
+.page-footer {
+    border-top: 4px solid #c7c7c7;
+    padding-top: 1.5rem;
+    text-align: center;
+    margin-bottom: 3rem
+}
+
+.page-footer .footer-line {
+    margin: 0;
+    font-size: .875rem;
+    color: #999
+}
+
+.page-footer .footer-line>a {
+    font-weight: 700;
+    color: #333
+}
+
+.print-only {
+    display: none !important
+}
+
+@media print {
+    .no-print {
+        display: none !important
+    }
+
+    .print-only {
+        display: block !important
+    }
+
+    body {
+        font-size: 12px;
+        line-height: 1rem
+    }
+
+    .page-header {
+        padding: 1rem 0 .2rem
+    }
+
+    .page-header .header-name {
+        font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-weight: 700;
+        font-size: 2rem;
+        margin: 0 0 .2rem
+    }
+
+    .section-header {
+        border-top: 1px solid #c7c7c7;
+        border-bottom: 1px solid #c7c7c7;
+        padding: .2rem 0 .2rem;
+        margin-bottom: 1rem
+    }
+
+    .section-header h2 {
+        font-size: 1.2rem;
+        line-height: 1.5rem
+    }
+
+    .content-section {
+        margin: 0 0 1rem
+    }
+
+    .content-section .resume-item {
+        margin-bottom: 1rem
+    }
+
+    .content-section .resume-item-title {
+        font-size: 16px;
+        line-height: .7em
+    }
+
+    .content-section .resume-item-details {
+        font-size: 12px;
+        margin: 0 0 .75rem;
+        line-height: .7em;
+        font-style: italic
+    }
+
+    .content-section .resume-item-details.award-title {
+        font-size: 11px
+    }
+}
+</style>
+  <link rel="canonical" href="http://jace.pro/resume">
+  <link rel="icon" type="image/x-icon" href="/favicon.png">
+</head>
+
+
+  <body class="theme-default">
+
+    <div class="wrapper" itemscope="" itemtype="http://schema.org/Person">
+      <meta itemprop="telephone" content="555-7334">
+      <meta itemprop="address" content="{{resume.location}}">
+
+      <header class="page-header">
+
+        <!-- You can turn off the avatar in _config.yml by setting to false -->
+        
+        <img src="./me2.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+        
+
+        <!-- Your name is defined in the _config.yml file -->
+        <h1 class="header-name" itemprop="name">{{site.author}}</h1>
+
+        <!-- To display contact info here, change `display_header_contact_info` value in _config.yml to true -->
+        
+
+        <div class="title-bar no-print">
+
+          <!-- Your title is also defined in the _config.yml file -->
+          <h2 class="header-title" itemprop="jobTitle">{{resume.experience[0].title}}</h2>
+
+          <!-- This is the markup for the icon links; moved out to an include because it's very verbose, and you shouldn't ever need to edit the markup (unless you want to re-order the icons); if you want to customize which links appear, define them in the _config.yml file -->
+          <!-- and guess where these are defined? Yup, you guessed it: the _config.yml file -->
+
+<ul class="icon-links">
+
+<!-- Now community link -->
+<li class="icon-link-item"><a aria-label="ServiceNow Community Profile" href="{{resume.socials.nowcommunity}}" class="icon-link" itemprop="sameAs">
+<svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 116.82 32" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
+  <defs><style>.cls-1,.cls-3{fill:#293e40;}.cls-1,.cls-2{fill-rule:evenodd;}.cls-2{fill:#81b5a1;}</style></defs><title>ServiceNow</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M0,31.35V.63H7.89V3.1A13.44,13.44,0,0,1,16.53,0a13.76,13.76,0,0,1,10.6,4.94c2,2.41,3.16,5.51,3.16,10.77V31.35h-8.2V15.07c0-3-.7-4.62-1.83-5.76A6.45,6.45,0,0,0,15.65,7.6,9.79,9.79,0,0,0,8.2,11.4v20Z"/><path class="cls-2" d="M51.41,0A18,18,0,0,0,39,31a3.54,3.54,0,0,0,4.61.24,12.85,12.85,0,0,1,15.31,0A3.55,3.55,0,0,0,63.6,31,18,18,0,0,0,51.41,0m-.1,26.93a8.72,8.72,0,0,1-9-8.94,8.95,8.95,0,1,1,17.89,0,8.71,8.71,0,0,1-8.94,8.94"/><polygon class="cls-1" points="85.43 31.35 79.32 31.35 67.13 0.63 75.33 0.63 82 18.19 88.55 0.63 95.4 0.63 101.89 18.19 108.63 0.63 116.82 0.63 104.64 31.35 98.53 31.35 91.98 13.86 85.43 31.35"/><polygon class="cls-3" points="112.32 27.45 112.32 28.12 111.29 28.12 111.29 31.35 110.54 31.35 110.54 28.12 109.5 28.12 109.5 27.45 112.32 27.45"/><polygon class="cls-3" points="114.87 29.79 116.29 27.45 116.82 27.45 116.82 31.35 116.07 31.35 116.07 29.18 115.13 30.71 114.61 30.71 113.67 29.18 113.67 31.35 112.92 31.35 112.92 27.45 113.45 27.45 114.87 29.79"/></g></g></svg>
+  </a></li>
+  
+
+  <!-- GitHub link -->
+  
+  <li class="icon-link-item"><a aria-label="GitHub" href="{{resume.socials.github}}" class="icon-link" itemprop="sameAs"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
+<path id="GitHub" fill-rule="evenodd" clip-rule="evenodd" fill="#D1CECC" d="M14.01,0C6.27,0-0.01,6.28-0.01,14.02
+  c0,6.19,4.02,11.45,9.59,13.3c0.7,0.13,0.96-0.3,0.96-0.68c0-0.33-0.01-1.21-0.02-2.38c-3.9,0.85-4.72-1.88-4.72-1.88
+  c-0.64-1.62-1.56-2.05-1.56-2.05c-1.27-0.87,0.1-0.85,0.1-0.85c1.41,0.1,2.15,1.44,2.15,1.44c1.25,2.14,3.28,1.52,4.08,1.16
+  c0.13-0.91,0.49-1.52,0.89-1.87c-3.11-0.35-6.38-1.56-6.38-6.93c0-1.53,0.55-2.78,1.44-3.76C6.37,9.17,5.89,7.74,6.65,5.81
+  c0,0,1.18-0.38,3.85,1.44c1.12-0.31,2.32-0.47,3.51-0.47c1.19,0.01,2.39,0.16,3.51,0.47c2.68-1.81,3.85-1.44,3.85-1.44
+  c0.76,1.93,0.28,3.35,0.14,3.71c0.9,0.98,1.44,2.23,1.44,3.76c0,5.38-3.28,6.57-6.4,6.92c0.5,0.43,0.95,1.29,0.95,2.6
+  c0,1.87-0.02,3.39-0.02,3.84c0,0.37,0.25,0.81,0.96,0.67c5.56-1.86,9.58-7.11,9.58-13.3C28.03,6.28,21.75,0,14.01,0z"></path>
+</svg>
+</a></li>
+  
+
+  <!-- Twitter link -->
+  
+  <li class="icon-link-item"><a aria-label="Twitter" href="{{resume.socials.twitter}}" class="icon-link" itemprop="sameAs"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
+<path id="Twitter" fill="#D1CECC" d="M14,0C6.27,0,0,6.27,0,14s6.27,14,14,14s14-6.27,14-14S21.73,0,14,0z M20.69,10.57
+  c0.01,0.15,0.01,0.3,0.01,0.45c0,4.56-3.47,9.82-9.82,9.82c-1.95,0-3.76-0.57-5.29-1.55c0.27,0.03,0.54,0.05,0.82,0.05
+  c1.62,0,3.11-0.55,4.29-1.48c-1.51-0.03-2.79-1.03-3.23-2.4c0.21,0.04,0.43,0.06,0.65,0.06c0.31,0,0.62-0.04,0.91-0.12
+  c-1.58-0.32-2.77-1.71-2.77-3.39c0-0.01,0-0.03,0-0.04c0.47,0.26,1,0.41,1.56,0.43c-0.93-0.62-1.54-1.68-1.54-2.87
+  c0-0.63,0.17-1.23,0.47-1.74c1.7,2.09,4.25,3.46,7.12,3.61c-0.06-0.25-0.09-0.52-0.09-0.79c0-1.91,1.55-3.45,3.45-3.45
+  c0.99,0,1.89,0.42,2.52,1.09c0.79-0.15,1.53-0.44,2.19-0.84c-0.26,0.81-0.81,1.48-1.52,1.91c0.7-0.08,1.36-0.27,1.98-0.54
+  C21.95,9.47,21.37,10.08,20.69,10.57z"></path>
+</svg>
+</a></li>
+  
+  <!-- LinkedIn link -->
+  
+  <li class="icon-link-item"><a aria-label="LinkedIn" href="{{resume.socials.linkedin}}" class="icon-link" itemprop="sameAs"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
+<path id="LinkedIn" fill="#D1CECC" d="M18.82,15.09v3.61h-2.09v-3.37c0-0.85-0.3-1.42-1.06-1.42c-0.58,0-0.92,0.39-1.07,0.77
+  c-0.06,0.13-0.07,0.32-0.07,0.51v3.52h-2.09c0,0,0.03-5.71,0-6.3h2.09v0.89c0,0.01-0.01,0.01-0.01,0.02h0.01V13.3
+  c0.28-0.43,0.77-1.04,1.89-1.04C17.79,12.25,18.82,13.16,18.82,15.09z M9.18,18.7h2.09v-6.3H9.18V18.7z M10.24,9.36
+  c-0.72,0-1.19,0.47-1.19,1.09c0,0.61,0.45,1.09,1.16,1.09h0.01c0.73,0,1.18-0.48,1.18-1.09C11.39,9.84,10.95,9.36,10.24,9.36z
+   M28,14c0,7.73-6.27,14-14,14S0,21.73,0,14S6.27,0,14,0S28,6.27,28,14z M20.93,8.02c0-0.55-0.46-1-1.02-1H8.09
+  c-0.57,0-1.02,0.45-1.02,1v11.96c0,0.55,0.46,1,1.02,1h11.82c0.57,0,1.02-0.45,1.02-1V8.02z"></path>
+</svg>
+</a></li>
+  
+  <!-- Website link -->
+  
+  <li class="icon-link-item"><a aria-label="Personal Website" href="{{resume.socials.website}}" class="icon-link" itemprop="url"><svg class="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 28 28" enable-background="new 0 0 28 28" xml:space="preserve" width="28">
+<path id="Website" fill="#D1CECC" d="M14.83,7.6c0.03,0.08,0.03,0.14,0,0.19s-0.08,0.07-0.17,0.07c-0.12,0-0.26-0.01-0.4-0.04
+  s-0.2-0.06-0.18-0.1c0.15-0.15,0.16-0.26,0.03-0.33c-0.13-0.07-0.27-0.11-0.42-0.11s-0.25-0.04-0.3-0.09s-0.03-0.09,0.05-0.09
+  s0.22,0,0.4,0.01c0.19,0.01,0.31,0.04,0.37,0.08s0.17,0.1,0.33,0.19S14.8,7.52,14.83,7.6z M15.9,13.35c-0.11-0.03-0.2-0.03-0.26,0
+  s-0.13,0.05-0.2,0.05c-0.08-0.01-0.25-0.09-0.5-0.24s-0.5-0.22-0.77-0.22c-0.11,0.01-0.17,0.04-0.19,0.08s-0.01,0.07,0.01,0.08
+  c0.02,0.01,0.12,0.03,0.29,0.05s0.4,0.11,0.67,0.26c0.28,0.15,0.48,0.21,0.61,0.19s0.22-0.06,0.28-0.1
+  c0.07-0.01,0.12-0.03,0.16-0.06S16.01,13.38,15.9,13.35z M13.62,6.85c0.17-0.03,0.3-0.13,0.38-0.3c0.03-0.14-0.04-0.2-0.21-0.18
+  s-0.29,0.07-0.37,0.13c-0.01,0.03-0.02,0.06-0.03,0.09s-0.02,0.06-0.03,0.07l-0.08,0.1c-0.03,0.03-0.03,0.05-0.02,0.06
+  C13.32,6.88,13.44,6.89,13.62,6.85z M16.12,7.08c-0.02-0.16-0.11-0.3-0.26-0.41s-0.32-0.19-0.5-0.22c-0.18-0.03-0.38-0.07-0.61-0.12
+  s-0.4-0.04-0.53,0.04c-0.21,0.18-0.25,0.31-0.12,0.39c0.07,0.03,0.2,0.05,0.38,0.06s0.44,0.15,0.76,0.41
+  c0.11,0.08,0.29,0.21,0.55,0.37s0.44,0.23,0.55,0.19c0.06-0.06,0.04-0.15-0.05-0.28S16.14,7.24,16.12,7.08z M28,14
+  c0,7.73-6.27,14-14,14S0,21.73,0,14S6.27,0,14,0S28,6.27,28,14z M21.95,14c-0.06-2.25-0.83-4.12-2.33-5.62
+  c-1.5-1.5-3.37-2.27-5.62-2.33c-2.25,0.06-4.12,0.83-5.62,2.33c-1.5,1.5-2.27,3.37-2.33,5.62c0.06,2.25,0.83,4.12,2.33,5.62
+  c1.5,1.5,3.37,2.27,5.62,2.33c0.54,0,1.06-0.05,1.57-0.14c-0.11-0.07-0.17-0.24-0.18-0.51s0.04-0.52,0.16-0.76
+  c0.15-0.26,0.3-0.61,0.46-1.04c0.15-0.43,0.08-0.77-0.23-1c-0.32-0.18-0.51-0.34-0.57-0.49s-0.19-0.32-0.37-0.54
+  s-0.28-0.36-0.28-0.44v-0.21c-0.01-0.21,0.05-0.43,0.19-0.66l0.25-0.39c0.01-0.04,0.02-0.1,0.02-0.19v-0.19
+  c-0.01-0.04-0.07-0.09-0.17-0.16s-0.17-0.1-0.22-0.1s-0.09,0.01-0.11,0.05s-0.07,0.06-0.13,0.06s-0.17-0.04-0.33-0.13
+  c-0.16-0.09-0.27-0.16-0.32-0.21s-0.1-0.11-0.14-0.19s-0.09-0.15-0.16-0.22s-0.11-0.1-0.16-0.09s-0.12,0-0.23-0.03l-1.45-0.56
+  c-0.26-0.11-0.43-0.23-0.5-0.37c-0.07-0.14-0.1-0.26-0.1-0.37s-0.06-0.23-0.17-0.37l-0.29-0.37c-0.08-0.12-0.14-0.24-0.17-0.34
+  s-0.05-0.15-0.06-0.13c-0.01,0.07,0.02,0.23,0.1,0.48s0.12,0.39,0.1,0.43c-0.03,0.01-0.07-0.02-0.12-0.11s-0.12-0.19-0.19-0.3
+  c-0.06-0.07-0.07-0.15-0.04-0.25c0.03-0.1-0.07-0.38-0.29-0.85c-0.22-0.47-0.26-0.85-0.11-1.15s0.24-0.57,0.3-0.82
+  c0.03-0.21,0.09-0.25,0.19-0.13c0.1,0.12,0.1,0.11,0.02-0.01c-0.08-0.18-0.11-0.4-0.08-0.65c0.03-0.26,0.01-0.46-0.06-0.61
+  c-0.11-0.1-0.3-0.08-0.58,0.05S9.12,8.14,9.1,8.16c0.03-0.12,0.18-0.28,0.46-0.46l0.87-0.58c0.26-0.17,0.49-0.22,0.69-0.17
+  s0.41,0.12,0.62,0.21s0.34,0.12,0.37,0.1s0.01-0.06-0.06-0.13s-0.07-0.13,0.01-0.16S12.26,6.96,12.43,7
+  c0.17,0.03,0.31,0.11,0.42,0.24s0.3,0.18,0.54,0.17s0.32,0.01,0.25,0.06s-0.11,0.12-0.11,0.19c0.04,0.06,0.02,0.1-0.05,0.13
+  s-0.2,0.1-0.36,0.21s-0.18,0.19-0.05,0.26c0.13,0.07,0.36,0.21,0.67,0.41c0.28,0.19,0.41,0.19,0.41-0.01s-0.02-0.4-0.06-0.61
+  c-0.01-0.14,0.05-0.19,0.2-0.14s0.22,0.07,0.24,0.08c0.17,0.11,0.27,0.15,0.32,0.11s0.13-0.04,0.26-0.01
+  c0.17,0.07,0.37,0.19,0.6,0.37l0.41,0.33c-0.43,0.25-0.6,0.41-0.51,0.49s0.2,0.14,0.32,0.2c0.06,0.06,0.02,0.12-0.1,0.21
+  s-0.2,0.12-0.23,0.12c-0.08-0.08-0.15-0.1-0.2-0.05s-0.1,0.09-0.16,0.13c-0.06,0.04-0.07,0.09-0.05,0.14s0.04,0.09,0.05,0.1
+  c-0.3,0.07-0.47,0.22-0.49,0.44s-0.02,0.39-0.01,0.49c0,0.08-0.07,0.18-0.21,0.3s-0.24,0.23-0.31,0.34c-0.03,0.14,0,0.29,0.08,0.47
+  c0.08,0.17,0.08,0.27,0,0.3c-0.08-0.01-0.22-0.12-0.41-0.32c-0.19-0.2-0.55-0.24-1.08-0.13c-0.19,0.04-0.39,0.16-0.6,0.36
+  s-0.23,0.49-0.06,0.88c0.21,0.32,0.43,0.38,0.68,0.19c0.25-0.19,0.43-0.3,0.56-0.31c0.1,0.08,0.12,0.2,0.06,0.35
+  c-0.06,0.15-0.08,0.24-0.08,0.27c0.06-0.01,0.17,0.02,0.34,0.09s0.28,0.27,0.32,0.58c0.04,0.31,0.19,0.49,0.46,0.55
+  s0.45,0.08,0.57,0.07s0.28-0.09,0.48-0.24s0.32-0.24,0.37-0.27s0.17-0.06,0.35-0.1s0.47,0.03,0.84,0.23s0.67,0.31,0.88,0.35
+  s0.38,0.11,0.5,0.2s0.18,0.2,0.18,0.33s0.05,0.23,0.14,0.3c0.15,0.04,0.39,0.07,0.72,0.07s0.57,0.1,0.72,0.28
+  c0.07,0.28-0.08,0.73-0.46,1.38c-0.37,0.64-0.68,1.05-0.93,1.23c-0.18,0.12-0.34,0.29-0.48,0.49s-0.3,0.38-0.49,0.55
+  s-0.41,0.34-0.66,0.52s-0.51,0.34-0.78,0.5c-0.21,0.15-0.36,0.32-0.46,0.51s-0.19,0.32-0.27,0.4c1.81-0.43,3.28-1.34,4.43-2.75
+  C21.31,17.6,21.9,15.93,21.95,14z"></path>
+</svg>
+</a></li>
+  
+
+</ul>
+
+
+        </div>
+
+        <div class="executive-summary" itemprop="description">
+          <p>{{resume.overview}}</p>
+        </div>
+        
+        <a href="mailto:{{site.email}}" class="contact-button no-print" itemprop="email">Contact me</a>
+        
+
+      </header>
+
+      
+      <!-- begin Experience -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Experience</h2>
+        </header>
+
+        
+        {% for job in resume.experience %}
+        
+        <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{job.company}}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{job.title}} • {{job.duration}}</h4>
+          <p class="resume-item-copy">{{job.summary}}</p>
+          <ul class="resume-item-list">
+            {% for duty in job.duties %}
+            <li>{{duty}}</li>
+            {% endfor %}
+          </ul>
+          <p></p>
+        </div><!-- end of resume-item -->
+        {% endfor %}
+
+      </section>
+      <!-- end Experience -->
+      
+      <!-- begin Education -->
+      <!--
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Education</h2>
+        </header>
+
+        
+        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name">Yale University</h3>
+          <h4 class="resume-item-details group" itemprop="description">Bachelor of Arts, Human Rights • 2004 — 2008</h4>
+          <h5 class="resume-item-details award-title" itemprop="description"></h5>
+          <p class="resume-item-copy" itemprop="description">
+            </p><ul class="resume-item-list">
+              
+              <li>Summa Cumme Laude graduate</li>
+              
+            </ul>
+
+
+          <p class="resume-item-copy">If you had any meaningful roles at college, feel free to write about them here</p>
+        </div>
+        
+        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name">Springfield High School</h3>
+          <h4 class="resume-item-details group" itemprop="description">High School Diploma • 2004</h4>
+          <h5 class="resume-item-details award-title" itemprop="description">Most likely to succeed</h5>
+          <p class="resume-item-copy" itemprop="description">
+            </p><ul class="resume-item-list">
+              
+            </ul>
+
+
+          <p class="resume-item-copy">You can choose to have either a single or multiple awards</p>
+        </div>
+        
+      </section>-->
+      <!-- end Education -->
+      
+
+
+      
+      <!-- begin Projects -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Projects</h2>
+        </header>
+
+        {% for project in resume.projects %}
+        
+        <div class="resume-item" itemscope="" itemtype="http://schema.org/CreativeWork">
+          <meta itemprop="creator" content="{{site.author}}" itemtype="http://schema.org/Person">
+          <h3 class="resume-item-title" itemprop="name"><a href="{{project.link}}">{{project.title}}</a></h3>
+          <h4 class="resume-item-details" itemprop="description">{{project.role}} • {{project.duration}}</h4>
+          <p class="resume-item-copy">{{project.summary}}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Projects -->
+      
+
+      
+      <!-- begin Skills -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Skills</h2>
+        </header>
+        {% for skill in resume.skills %}
+        <div class="resume-item">
+          <h3 class="resume-item-details">{{skill.title}}</h4>
+          <p class="resume-item-copy">{{skill.summary}}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Skills -->
+      
+
+      
+      <!-- begin Recognition -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Recognition</h2>
+        </header>
+
+        {% for award in resume.awards %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="award"><a href="{{award.link}}">{{award.title}}</a></h3>
+          <h4 class="resume-item-details">{{award.organization}} • {{award.duration}}</h4>
+          <p class="resume-item-copy">{{award.summary}}</p>
+        </div>
+        {% endfor %}
+        
+      </section>
+      <!-- end Recognition -->
+      
+
+      
+      <!-- begin Associations -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Associations</h2>
+        </header>
+
+        {% for association in resume.associations %}
+        <div class="resume-item" itemscope="" itemprop="memberOf" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name"><a href="{{association.link}}">{{association.title}}</a></h3>
+          <h4 class="resume-item-details" itemprop="description">{{association.role}} • {{association.duration}}</h4>
+          <p class="resume-item-copy">{{association.summary}}</p>
+        </div>
+        {% endfor %}
+               
+
+      </section>
+      <!-- end Associations -->
+      
+
+      
+
+      
+      <!-- begin Links -->
+      <!--<section class="content-section">
+
+        <header class="section-header">
+          <h2>Additional Links</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            
+            <li><a href="#" itemprop="url">Springfield Jazz Enthusiasts</a></li>
+            
+            <li><a href="#" itemprop="url">Springfield Young Professionals</a></li>
+            
+          </ul>
+        </div>
+
+      </section>-->
+      <!-- end Links -->
+      
+
+      
+      <!-- begin Print Social Links -->
+      <section class="content-section print-only">
+
+        <header class="section-header">
+          <h2>Social Links</h2>
+        </header>
+
+        <div class="resume-item">
+        <!-- and guess where these are defined? Yup, you guessed it: the _config.yml file -->
+
+<ul>
+
+  <!-- GitHub link -->
+  
+  <li><strong>Github</strong>: https://github.com/jglovier/resume-template</li>
+  
+
+  <!-- Twitter link -->
+  
+  <li><strong>Twitter</strong>: http://twitter.com/jglovier</li>
+  
+
+  <!-- Dribbble link -->
+  
+  <li><strong>Dribbble</strong>: https://dribbble.com/jag</li>
+  
+
+  <!-- Facebook link -->
+  
+
+  <!-- LinkedIn link -->
+  
+  <li><strong>LinkedIn</strong>: https://www.linkedin.com/in/joelglovier</li>
+  
+
+  <!-- Instagram link -->
+  
+
+  <!-- Website link -->
+  
+  <li><strong>Website</strong>: http://joelglovier.com</li>
+  
+
+</ul>
+
+
+        </div>
+
+      </section>
+      <!-- end Print Social Links -->
+      
+
+      <footer class="page-footer">
+        <!--<p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
+        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>-->
+        <!--<p class="footer-line">Written with 💗 to work on 11ty</p>-->
+        
+      </footer>
+
+    </div>
+
+  
+
+
+</body></html>
