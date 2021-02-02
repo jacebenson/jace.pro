@@ -158,7 +158,7 @@ module.exports = {
     awards: [
         { title: "2020 ServiceNow Developer MVP", link: "https://developer.servicenow.com/blog.do?p=/post/all-stars/", organization: "ServiceNow", duration: "2020"},
         { title: "2020 ServiceNow Community MVP", link: "https://community.servicenow.com/community?id=community_blog&sys_id=fb488720dbaacc504819fb2439961900", organization: "ServiceNow", duration: "2020"} ,
-        { title: "2021 ServiceNow Developer MVP", link: "https://https://developer.servicenow.com/blog.do?p=/post/2021-developer-mvp-announcement/", organization: "ServiceNow", duration: "2021"},
+        { title: "2021 ServiceNow Developer MVP", link: "https://developer.servicenow.com/blog.do?p=/post/2021-developer-mvp-announcement/", organization: "ServiceNow", duration: "2021"},
         { title: "2021 ServiceNow Community MVP", link: "https://community.servicenow.com/community?id=community_blog&sys_id=ebc85e18db42ec10b1b102d5ca96193e", organization: "ServiceNow", duration: "2021"}
 
     ],
