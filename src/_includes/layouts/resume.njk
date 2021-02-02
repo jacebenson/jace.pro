@@ -631,7 +631,7 @@ body {
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         
-        <img src="./resume/me2.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+        <img src="/resume/me2.jpg" alt="my photo" class="avatar no-print" itemprop="image">
         
 
         <!-- Your name is defined in the _config.yml file -->
@@ -941,25 +941,19 @@ body {
 
   <!-- GitHub link -->
   
-  <li><strong>Github</strong>: https://github.com/jglovier/resume-template</li>
+  <li><strong>Github</strong>: {{resume.social.github}}</li>
   
 
   <!-- Twitter link -->
   
-  <li><strong>Twitter</strong>: https://twitter.com/jglovier</li>
+  <li><strong>Twitter</strong>: {{resume.social.twitter}}</li>
   
 
-  <!-- Dribbble link -->
-  
-  <li><strong>Dribbble</strong>: https://dribbble.com/jag</li>
-  
-
-  <!-- Facebook link -->
-  
+ 
 
   <!-- LinkedIn link -->
   
-  <li><strong>LinkedIn</strong>: https://www.linkedin.com/in/joelglovier</li>
+  <li><strong>LinkedIn</strong>: {{resume.social.linkedin}}</li>
   
 
   <!-- Instagram link -->
@@ -967,7 +961,7 @@ body {
 
   <!-- Website link -->
   
-  <li><strong>Website</strong>: https://joelglovier.com</li>
+  <li><strong>Website</strong>: {{resume.social.website}}</li>
   
 
 </ul>

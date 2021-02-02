@@ -16,7 +16,7 @@ module.exports = {
             title: "ServiceNow Developer",
             location: "Roseville, MN",
             duration: "2016 - Present",
-            summary: "Summary of job",
+            summary: "",
             duties: [
                 "Rewrote how server patching is evaluated from Servicenow",
                 "Automated the CSR and KEY file generation for certificates",
@@ -33,7 +33,7 @@ module.exports = {
             title: "Senior Engineer II",
             location: "Bellevue, WA",
             duration: "2014 - 2016",
-            summary: "Summary of job",
+            summary: "",
             duties: [
                 "Played a key role in helping to define, document, and improve existing and new ServiceNow development processes with a goal of increasing quality while making the team more efficient",
                 "Determined projects scope, functional requirements and a strategy that meets our customer's needs while satisfying scalability, reliability, performance, and resource constraints",
@@ -52,7 +52,7 @@ module.exports = {
             title: "Senior Integration Consultant",
             location: "Minneapolis, MN",
             duration: "2014 - 2014",
-            summary: "Summary of job",
+            summary: "",
             duties: [
                 "Developed integrations between the ServiceNow and various supporting software solutions. Participated in presales scoping meetings to properly scope the estimated level of effort for client's integrations",
                 "Designed and develop integrations to meet the requirements of the client and ensure that the goals, objectives, and quality of project deliverables are met",
@@ -68,7 +68,7 @@ module.exports = {
             title: "Senior Technical Analyst",
             location: "Minneapolis, MN",
             duration: "2011 - 2014",
-            summary: "Summary of job",
+            summary: "",
             duties: [
                 "Provided guidance on technical matters to both the client and internal resources alike, created a collaborative environment that maintained scope and met all the objectives set by the statements of work",
                 "Worked with project sponsors and system administrators to customize ServiceNow to work for their organizations",
@@ -91,14 +91,14 @@ module.exports = {
             role: "Creator",
             duration: "2015 - Present",
             summary: "A blog where I post anything I find helpful regarding ServiceNow and JamStack"
-        },
+        },/*
         {
             title: "Treetop",
             link: "https://treetop.jace.pro",
             role: "Creator",
             duration: "2019 - 2019",
             summary: "A wooden computer case for a raspberry pi."
-        },
+        },*/
         {
             title: "Jace-ty",
             link: "https://jace-ty.netlify.app",
@@ -133,7 +133,7 @@ module.exports = {
             role: "Maintainer",
             duration: "2020 - 2020",
             summary: "Hacktoberfest 2020 Project to learn ServiceNow Now Components on Seismic"
-        },
+        },/*
         {
             title: "Cajunbot",
             link: "https://github.com/jacebenson/cajunbot",
@@ -147,7 +147,7 @@ module.exports = {
             role: "Creator",
             duration: "2016 - Present",
             summary: "A simple Joke site"
-        }
+        }*/
     ],
     skills: [
         { title: "Languages", summary: "HTML, CSS, SCSS, JavaScript, XML, Jelly, PHP, and SQL"},
