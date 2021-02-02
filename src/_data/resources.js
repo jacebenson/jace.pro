@@ -5,7 +5,7 @@ module.exports = {
         {"text": "Workflow Diagrammer","link": "https://workflow.jace.pro/"}, 
         {"text": "Code Collab Tool","link": "https://code.jace.pro/"}, 
         {"text": "Request Bin","link": "http://bin.jace.pro/"}, 
-        {"text": "Scoped ATF Tests","link": "https://atf.jace.com/"}, 
+        {"text": "Scoped ATF Tests","link": "https://atf.jace.pro/"}, 
         {"text": "Scoped Dev Toolbox","link": "http://devtoolbox.jace.pro/"}, 
         {"text": "Alt. Activity Formatter","link": "https://osaf.jace.pro/"}, 
         {"text": "Code Search (Scoped app)","link": "https://github.com/jacebenson/servicenow-code"}
