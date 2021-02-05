@@ -9,6 +9,8 @@ date: 2021-02-05T07:25:34.061Z
 
 I was able to do this with the help of Mav and Mike Bahr.  Thanks guys!
 
+First of all this fixes the redirect issues from the Netlify verison.  Netlify appends a slash to some endpoints.  I don't see a way to control it, Vercel however lets you control how that works.
+
 # Simple Vercel Proxy 
 
 This is a simple repo.

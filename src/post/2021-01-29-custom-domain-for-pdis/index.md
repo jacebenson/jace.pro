@@ -5,6 +5,12 @@ summary: "I use Netlify, this solution uses Netlify.  I do not recomend using th
 date: 2021-01-29T03:11:51.774Z
 ---
 
+# WARNING I don't recomend this, please use Vercel 
+
+[Vercel Post](/2021-02-05-custom-domain-for-pdis-using-vercel) detailing how to do this.
+
+
+
 # Custom Domain for PDIs
 
 I was looking at my PDI the other day and decided I wanted to change the domain.  This isn't the first time I wanted to do this.  ServiceNow has a feature that allows custom URLs.  It's only for non-PDIs though.  
