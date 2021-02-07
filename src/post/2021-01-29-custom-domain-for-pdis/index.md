@@ -7,7 +7,7 @@ date: 2021-01-29T03:11:51.774Z
 
 # WARNING I don't recomend this, please use Vercel 
 
-[Vercel Post](/2021-02-05-custom-domain-for-pdis-using-vercel) detailing how to do this.
+[Vercel Post](/post/2021-02-05-custom-domain-for-pdis-using-vercel) detailing how to do this.
 
 
 

@@ -9,7 +9,7 @@ date: 2021-02-05T07:25:34.061Z
 
 I was able to do this with the help of Mav and Mike Bahr.  Thanks guys!
 
-First of all this fixes the redirect issues from the Netlify verison.  Netlify appends a slash to some endpoints.  I don't see a way to control it, Vercel however lets you control how that works.
+First of all this fixes the redirect issues from the Netlify verison.  Netlify appends a slash to some endpoints.  I don't see a way to control it, Vercel  lets you control how that works.
 
 # Simple Vercel Proxy 
 
@@ -56,3 +56,25 @@ It's purpose it to create a proxy to a site you own.
 1. It will show you, that your DNS is wrong.  Go forth and set the dns as depicted.
 1. Comeback to Vercel's domain page and "Refresh" your domain entry.  You may need to wait for your DNS to propegate.
 1. That's it.
+
+<!--
+If you want a short domain for a specific portal, or a domain for a PDI this is for you!
+
+Do you want multiple domains pointed to your instance?
+Do you want domains pointed specifically to your service portal?  
+
+Go no further then this session.  
+
+What can I do after this session?
+
+- Make a short url for your serivce portal
+- Make multiple domains proxy ServiceNow
+- Have full control over this proxy on GitHub
+
+Use cases
+
+- Walkup experience
+- Service portal
+- Now experience
+- Fun for your PDI
+-->
