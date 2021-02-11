@@ -16,7 +16,7 @@ Me: "Sorry."
 
 There's a fix for that.  ServiceNow calls it a feature.  I call it long over due.  Requested For variable is the name of it.
 
-I was reading [/news for Paris](https://jace.pro/news/?text=paris).  This caught my attention. [Jenny Hu](https://www.linkedin.com/in/jennytthu/)'s "[A Day in Paris Series: Exploring Delegated Request Experience](https://community.servicenow.com/community?id=community_article&sys_id=52c3e490db569090d5c4d9d968961951)".
+I was reading [/news for Paris](https://news.jace.pro/?text=paris).  This caught my attention. [Jenny Hu](https://www.linkedin.com/in/jennytthu/)'s "[A Day in Paris Series: Exploring Delegated Request Experience](https://community.servicenow.com/community?id=community_article&sys_id=52c3e490db569090d5c4d9d968961951)".
 
 I started my work on ServiceNow in Service Catalog.  This is actually one of the first problems I had to address.  In this post I'm going to focus on how this works.
 

@@ -53,7 +53,7 @@ Each one has it's pros and cons.  I've used all of these.  Effectively they are 
 
 ## What else can I do with one of these sites
 
-Lots of things.  You know that [/news](/news) site I have.  Yep, that is actually built daily using this stuff.  The code feels ugly but it works.  I plan to move it around a bit, but that's a more complicated thing you can do.  Phil Hawksworth has a site showing the same kinda of stuff called [vlolly.net](https://vlolly.net) working the same kind of stuff.  
+Lots of things.  You know that [news.jace.pro](https://news.jace.pro) site I have.  Yep, that is actually built daily using this stuff.  The code feels ugly but it works.  I plan to move it around a bit, but that's a more complicated thing you can do.  Phil Hawksworth has a site showing the same kinda of stuff called [vlolly.net](https://vlolly.net) working the same kind of stuff.  
 
 
 ## This post was inspired by Sean Blanda
