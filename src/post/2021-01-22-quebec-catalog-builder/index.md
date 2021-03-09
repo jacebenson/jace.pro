@@ -38,11 +38,16 @@ Before you can even try this as a "Catalog Builder", you need a template.  This 
    - Doesn't allow editing variables with two levels of containers.
 - Logic limitations
    - Catalog Client Scripts are not available.
-   - Data lookup rules
+   - Data lookup rules (maybe ref. qualifier)
+   - Catalog UI policy (Source: AAtrey)
+      - On Load field (defaults to true)
+      - Script field. When a catalog UI policy has a script, it does not show up in the question’s behavior settings list in the catalog builder.
+      - Reverse if false field. By default, it is set to true.
+      - Multiple actions. When a catalog UI policy has multiple actions, it does not show up in the question’s behavior settings list in the catalog builder.
 
 ## Creating a template
 
-A heads up, all the choices here can be overridden on a granular basis.  So you'll probably want to be more permissive then restrictive here.
+A heads up, all the choices here can be overridden on a granular basis. So you'll probably want to be more permissive then restrictive here.
 
 There's 8 sections to these templates.  Here's the [official docs](https://docs.servicenow.com/bundle/quebec-servicenow-platform/page/product/service-catalog-management/task/create-cat-item-template-cat-builder.html) on this, but I'll spell it out here too.
 
