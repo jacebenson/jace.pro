@@ -1,5 +1,5 @@
 ---
-layout: "layouts/home.njk"
+layout: "layouts/simple.njk"
 title: "Resources"
 description: ""
 ---

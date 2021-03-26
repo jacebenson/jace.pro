@@ -1,3 +1,6 @@
+const markdownIt = require("markdown-it");
+const markdownItTocAndAnchor = require("markdown-it-toc-and-anchor").default; // the .default is essential: https://github.com/medfreeman/markdown-it-toc-and-anchor#readme
+
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const CleanCSS = require("clean-css");
@@ -53,6 +56,17 @@ module.exports = function (eleventyConfig) {
             d = d.replace(/\./g,'');
             return d;
         });
+        let markdownLibrary = markdownIt({ // add IDs to headings with links inside. Perfect!
+            html: true,
+            breaks: true,
+            linkify: true
+          }).use(markdownItTocAndAnchor, {
+            tocClassName: null,
+            tocFirstLevel: 2,
+            anchorClassName: null,
+            wrapHeadingTextInAnchor: true    
+          });
+          eleventyConfig.setLibrary("md", markdownLibrary);
     } catch (e) {
         //console.log('ERROR', e);
     }

@@ -41,15 +41,22 @@
 {%- endblock -%}
 
 {% block content %}
-<div>
   {% if imageName !="" %}
-  <div class="text-center">
     <h1>{{ title }}</h1>
     <p>{{ description }}</p>
-  </div>
   {% endif %}
   {% if content !="" %}
     {{ content | safe }}
   {% endif %}
-</div>
+
+  {% for post in collections.post | reverse %}
+        <article>
+              <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+              <time datetime="{{post.data.date.toISOString().split('T')[0]}}">{{post.data.date.toISOString().split('T')[0]}}
+              <p>{{post.data.subtitle}}</p>
+              {% if post.data.linkText %}
+                <a class="button secondary" href="{{ post.url }}">{{ post.data.linkText }}</a>
+              {% endif %}
+        </article>
+    {% endfor %}
 {% endblock content %}
