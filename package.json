@@ -29,6 +29,8 @@
   },
   "dependencies": {
     "@11ty/eleventy-img": "^0.3.0",
-    "netlify-cli": "^2.69.9"
+    "markdown-it": "^12.0.4",
+    "markdown-it-toc-and-anchor": "^4.2.0",
+    "netlify-cli": "^3.13.7"
   }
 }

@@ -3,10 +3,6 @@ module.exports =
 {
     menu: [
         {
-            link: "/post",
-            text: "Posts",
-        },
-        {
             link: "/resources",
             text: "Resources",
         },

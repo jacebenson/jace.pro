@@ -12,7 +12,7 @@
 {% else %}
 <meta name="twitter:description" content="{{content | striptags | truncate(196) }}">
 {% endif %}
-<meta name="twitter:image" content="{{site.baseURL}}{{page.url}}{{imageName}}">
+<meta name="twitter:image" content="{{site.baseURL}}/assets/img/logo.jpg">
 {% if imageAltText %}
 <meta name="twitter:image:alt" content="{{imageAltText}}">
 {% endif %}
@@ -41,41 +41,11 @@
 <meta property="article:author" content="{{site.baseURL}}">
 {%- endblock -%}
 {% block content %}
-<div class="jumbotron text-center">
-
-  <!-- Title -->
-  <h4 class="card-title h4 pb-2"><strong>{{ title }}</strong></h4>
-
-  <!-- Card image -->
-  <div class="view overlay my-4">
-    <img width="70%" class="img-fluid" data-sizes="auto" sizes="640px"
-      src="{{post.url}}{{post.data.imageName}}"
-      srcset="
-      {{post.url}}featured-100.webp 100w,
-      {{post.url}}featured-200.webp 200w,
-      {{post.url}}featured-320.webp 320w,
-      {{post.url}}featured-360.webp 360w,
-      {{post.url}}featured-640.webp 640w,
-      {{post.url}}featured-720.webp 720w,
-      {{post.url}}featured-960.webp 960w,
-      {{post.url}}featured-1280.webp 1280w"
-      alt="{{post.url}}{{post.data.imageName}}"
-    />
-  </div>
-
-  <h5 class="indigo-text h5 mb-4">{{ subtitle }}</h5>
-
-  <p class="card-text">{{ summary }}</p>
-
-</div>
-<div class="container">
-    <div class="row justify-content-md-center">
-        <div class="col-md-10">
-            {{ content | safe }}
-        </div>
-    </div>
-</div> 
+<section>        
+  {{ content | safe }}
+</section>
 {% if site.utterancesRepo %}
+<section>
 <script src="https://utteranc.es/client.js"
         repo="jacebenson/jace.pro"
         issue-term="pathname"
@@ -85,5 +55,6 @@
         async >
 </script>
 <noscript>Please enable JavaScript to view the comments powered by Utterances.</a></noscript>
+</section>
 {% endif %}
 {% endblock content %}
