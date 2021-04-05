@@ -473,8 +473,8 @@ module.exports = {
         },
         {
             vendor: "Vercel",
-            answer: "10K Files",
-            detail: "Vercel has a limit on files quantity, it's 10k",
+            answer: "12.5K Files",
+            detail: "Vercel has a limit on files quantity, it's 12.5k pre build.",
             source: "https://vercel.com/docs/platform/limits#files"
         },
         {
