@@ -16,17 +16,17 @@ There's only a few that ServieNow observes.  Extensions add some too.
 
 A thing to note, [some of these are configurable](https://docs.servicenow.com/bundle/orlando-platform-user-interface/page/use/navigation/task/configure-keyboard-shortcut-preferences.html)
 
-| Action                                   | Windows keyboard shortcut                   | Mac keyboard shortcut                       |
-| ---------------------------------------- | ------------------------------------------- | ------------------------------------------- |
-| Activate global search field             | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>G</kbd> | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>G</kbd> |
-| Toggle application navigator             | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>C</kbd> | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>C</kbd> |
-| Activate navigation filter field         | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F</kbd> | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>F</kbd> |
-| Impersonate user                         | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>I</kbd> | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>I</kbd> |
-| Navigate to the main content on the page | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>P</kbd> | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>P</kbd> |
-| Client Debugger Window                   | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>J</kbd> | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>J</kbd> |
-| On Service Portal id=form Save the form  | <kbd>Ctrl</kbd>+<kbd>S</kbd>                | <kbd>Ctrl</kbd>+<kbd>S</kbd>                |
-| On Service Portal widget editor, Save    | <kbd>Ctrl</kbd>+<kbd>S</kbd>                | <kbd>Ctrl</kbd>+<kbd>S</kbd>                |
-| On script editor fields, format code     | <kbd>Shift</kbd>+<kbd>Tab</kbd>             | <kbd>Shift</kbd>+<kbd>Tab</kbd>             |
+| Action                                   | Windows keyboard shortcut                     | Mac keyboard shortcut                         |
+| ---------------------------------------- | --------------------------------------------- | --------------------------------------------- |
+| Activate global search field             | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>G</kbd>   | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>G</kbd>   |
+| Toggle application navigator             | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>C</kbd>   | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>C</kbd>   |
+| Activate navigation filter field         | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F</kbd>   | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>F</kbd>   |
+| Impersonate user                         | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>I</kbd>   | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>I</kbd>   |
+| Navigate to the main content on the page | <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>P</kbd>   | <kbd>Ctrl</kbd>+<kbd>Opt</kbd>+<kbd>P</kbd>   |
+| Javascript Executor Window               | <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>J</kbd> | <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>J</kbd> |
+| On Service Portal id=form Save the form  | <kbd>Ctrl</kbd>+<kbd>S</kbd>                  | <kbd>Ctrl</kbd>+<kbd>S</kbd>                  |
+| On Service Portal widget editor, Save    | <kbd>Ctrl</kbd>+<kbd>S</kbd>                  | <kbd>Ctrl</kbd>+<kbd>S</kbd>                  |
+| On script editor fields, format code     | <kbd>Shift</kbd>+<kbd>Tab</kbd>               | <kbd>Shift</kbd>+<kbd>Tab</kbd>               |
 
 ## From SN Utils
 
@@ -311,4 +311,4 @@ angular.module('Magellan').directive('magellanNavigationFilter', function(
 
 ## Notes
 
-Thanks chait for some of these.  I appreciate all feedback on this stuff.
+Thanks chait and tgcentral for these.  I appreciate all feedback on this.
