@@ -213,7 +213,7 @@ html[data-theme='dark'] {
     padding-left: unset;
   }
 
-  p {
+p {
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
