@@ -192,7 +192,6 @@ html[data-theme='dark'] {
   article p > code {
     padding: 0.25rem 0.25rem 0.125rem;
     border: 0.0625rem solid;
-    background-color: whitesmoke;
   }
   
   /*footer > * {
@@ -213,3 +212,8 @@ html[data-theme='dark'] {
     list-style: none;
     padding-left: unset;
   }
+
+  p {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
