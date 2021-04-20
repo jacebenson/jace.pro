@@ -20,17 +20,18 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0",
-    "@11ty/eleventy-plugin-rss": "^1.0.7",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-plugin-rss": "^1.1.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.0",
+    "clean-css": "^5.1.2",
     "dotenv": "^8.2.0",
-    "lighthouse-ci": "^1.11.0",
-    "sharp": "^0.27.0"
+    "lighthouse-ci": "^1.12.0",
+    "sharp": "^0.28.1",    
+    "@11ty/eleventy-img": "^0.8.3",
+    "markdown-it": "^12.0.6",
+    "markdown-it-toc-and-anchor": "^4.2.0",
+    "netlify-cli": "^3.19.0"
   },
   "dependencies": {
-    "@11ty/eleventy-img": "^0.3.0",
-    "markdown-it": "^12.0.4",
-    "markdown-it-toc-and-anchor": "^4.2.0",
-    "netlify-cli": "^3.13.7"
   }
 }
