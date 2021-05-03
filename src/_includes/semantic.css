@@ -217,3 +217,29 @@ p {
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
+
+table {
+  border: 1px solid var(--text-color); 
+  background-color: var(--background-color);
+}
+table td, table th {  
+  border-bottom: 1px solid var(--text-color);
+  padding: 5px 5px;
+  color: var(--text-color);
+}
+table tbody td {
+  font-size: 12px;
+  color: var(--text-color);
+}
+table tr:nth-child(even) {
+  background: var(--header-footer-background);
+}
+table thead {
+  background: var(--header-footer-background);
+}
+table thead th {
+  font-weight: normal;
+}
+table tfoot {
+  font-weight: bold;
+}
