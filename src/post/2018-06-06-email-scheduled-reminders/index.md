@@ -23,30 +23,38 @@ Each of these have their pro's and con's, lets get into it.
 Probably the easiest to set up as it just requires a report, and a
 scheduled report.
 
-| Pro                                        | Con                                        |
-|--------------------------------------------|--------------------------------------------|
-| Only requires Report, and Scheduled Report | Only occurs at the frequency it scheduled  |
-| No coding required                         | Less configurable                          |
-| No email template to set up                | Email is set based on report sharing       |
+| Pro                                        | Con                                       |
+| ------------------------------------------ | ----------------------------------------- |
+| Only requires Report, and Scheduled Report | Only occurs at the frequency it scheduled |
+| No coding required                         | Less configurable                         |
+| No email template to set up                | Email is set based on report sharing      |
 
 ## SLA Notifications
 
-| Pro                | Con                                        |
-|--------------------|--------------------------------------------|
+| Pro                | Con                                       |
+| ------------------ | ----------------------------------------- |
 | No coding required | Only occurs at the frequency it scheduled |
-|                    | Specific to tasks                          |
+|                    | Specific to tasks                         |
 
 ## Scheduled Job
 
-| Pro                                             | Con                                        |
-|-------------------------------------------------|--------------------------------------------|
+| Pro                                              | Con                                       |
+| ------------------------------------------------ | ----------------------------------------- |
 | Only Requires Scheduled Job, Event, Notification | Only occurs at the frequency it scheduled |
-| Very configurable due to coding                 | Requires coding                            |
+| Very configurable due to coding                  | Requires coding                           |
 
 ## Scheduled Events
 
 | Pro                            | Con                                                                             |
-|--------------------------------|---------------------------------------------------------------------------------|
+| ------------------------------ | ------------------------------------------------------------------------------- |
 | Triggers when it's supposed to | Requires Event, Notification, Business Rules, and possibly it's own event queue |
 | Very configurable              | Requires coding                                                                 |
 |                                | Requires managing the scheduled events if the date/time changes                 |
+
+## Scheduled Flow Trigger
+
+| Pro                                                                      | Con                                                                      |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
+| Access be delegated using Scoped App and Flow Designer content filtering | Delegates can reak havoc, shouldn't really create them directly in prod. |
+
+<sup>Thansks @milligna!</sup>
