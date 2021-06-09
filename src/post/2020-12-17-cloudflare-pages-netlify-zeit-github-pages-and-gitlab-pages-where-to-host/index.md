@@ -30,7 +30,7 @@ I excluded AWS Amplify as they are "free for a year".  That is a while but it wi
   <a title="{{item.detail}}" href="{{item.source}}">{{item.answer}}</a>
     {% endif %}
     {% if item.source == "" %}
-      {{item.answer}}
+  {{item.answer}}
     {% endif %}
   </td>
     {% endfor %}
