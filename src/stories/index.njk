@@ -1,0 +1,18 @@
+---
+title: "Web Stories"
+description: "Some stories I'm working on."
+layout: "/layouts/simple.njk"
+eleventyExcludeFromCollections: true
+---
+
+{% block content %}
+  {% if content !="" %}
+    {{ content | safe }}
+  {% endif %}
+
+  {% for story in collections.stories | reverse %}
+        <article>
+              <h2><a href="{{ story.url }}">{{ story.data.title }}</a></h2>
+        </article>
+    {% endfor %}
+{% endblock content %}
