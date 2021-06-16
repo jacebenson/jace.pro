@@ -6,6 +6,10 @@ module.exports =
             link: "/resources",
             text: "Resources",
         },
+        {
+            link: "/stories",
+            text: "stories",
+        },
     ],
     twitter: "jacebenson",//twitter handle
     github: "https://github.com/jacebenson",

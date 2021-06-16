@@ -4,6 +4,7 @@
   "publisher-logo-src" : "assets/AMP-Brand-White-Icon.svg"
   "poster-portrait-src": "assets/cover.jpg"
   "date": 2021-06-05T23:25:57-05:00
+  eleventyExcludeFromCollections: true
 ---
 
 <amp-story-page id="cover">
