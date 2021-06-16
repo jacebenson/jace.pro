@@ -1,8 +1,9 @@
 ---
-  "title": "Report on Variables"
+  "title": "Joy of Jace"
   "publisher": "Jace"
   "publisher-logo-src" : "assets/AMP-Brand-White-Icon.svg"
   "poster-portrait-src": "assets/cover.jpg"
+  "date": 2021-06-05T23:25:57-05:00
 ---
 
 <amp-story-page id="cover">
@@ -25,23 +26,18 @@
 <!-- Page 1 (Cat): 1 layer (vertical) -->
 <amp-story-page id="page1">
   <amp-story-grid-layer template="vertical">
-    <h1>Open your items</h1>
+    <h1>Cats</h1>
     <amp-img
-      src="assets/page1.png"
+      src="assets/cat.jpg"
       width="720"
       height="1280"
       layout="responsive"
     >
     </amp-img>
-  </amp-story-grid-layer>
-  <amp-story-grid-layer template="thirds">
-    <h1 grid-area="upper-third">Dogs</h1>
-    <p grid-area="lower-third">
-      Dogs were probably the first tame animals. They have accompanied
-      humans for some 10,000 years. Some scientists assert that all dogs,
-      domestic and wild, share a common ancestor in the small South Asian
-      wolf.
-    </p>
+    <q
+      >Dogs come when they're called. Cats take a message and get back to
+      you. --Mary Bly</q
+    >
   </amp-story-grid-layer>
 </amp-story-page>
 
@@ -58,14 +54,13 @@
   </amp-story-grid-layer>
   <amp-story-grid-layer template="thirds">
     <h1 grid-area="upper-third">Dogs</h1>
-    <p grid-area="lower-third" >
+    <p grid-area="lower-third">
       Dogs were probably the first tame animals. They have accompanied
       humans for some 10,000 years. Some scientists assert that all dogs,
       domestic and wild, share a common ancestor in the small South Asian
       wolf.
     </p>
   </amp-story-grid-layer>
- 
 </amp-story-page>
 
 <!-- Page 3 (Bird): 3 layers (fill + vertical + vertical) + Audio-->
