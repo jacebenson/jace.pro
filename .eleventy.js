@@ -18,6 +18,7 @@ module.exports = function (eleventyConfig) {
         eleventyConfig.addPassthroughCopy("./src/**/*.mmd");
         eleventyConfig.addPassthroughCopy("./src/**/*.xml");
         eleventyConfig.addPassthroughCopy("./src/**/*.xslx");
+        eleventyConfig.addPassthroughCopy("./src/stories/**/bookend.json");
 
         // add support for syntax highlighting
         eleventyConfig.addPlugin(syntaxHighlight);

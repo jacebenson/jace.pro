@@ -1,0 +1,41 @@
+{
+    "bookendVersion": "v1.0",
+    "shareProviders": [
+      "facebook",
+      "twitter",
+      "email"
+    ],
+    "components": [
+      {
+        "type": "heading",
+        "text": "More to read"
+      },
+      {
+        "type": "small",
+        "title": "Learn about Reports via URL",
+        "url": "https://jace.pro/post/2019-07-21-building-reports-via-url/",
+        "image": "assets/ilya-pavlov-IcclLmLQuw8-unsplash.jpg"
+      },
+      {
+        "type": "landscape",
+        "title": "Host your PDI on a custom domain",
+        "url": "https://jace.pro/post/2021-02-05-custom-domain-for-pdis-using-vercel/",
+        "image": "assets/david-boca-wh7ruevEmrY-unsplash.jpg"
+      },
+      {
+        "type": "portrait",
+        "title": "Learn about Catalog Builder",
+        "url": "https://jace.pro/post/2021-01-22-quebec-catalog-builder/",
+        "image": "assets/austin-distel-Imc-IoZDMXc-unsplash.jpg"
+      },
+      {
+        "type": "cta-link",
+        "links": [
+          {
+            "text": "Learn more",
+            "url": "https://jace.pro"
+          }
+        ]
+      }
+    ]
+  }

@@ -69,7 +69,7 @@
       loop
       width="720"
       height="1280"
-      poster="assets/list-your-itmes.png"
+      poster="assets/list-your-items.png"
       layout="responsive"
     >
       <source src="assets/list-your-items.mp4" type="video/mp4" />
