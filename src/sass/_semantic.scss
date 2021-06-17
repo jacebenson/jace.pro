@@ -1,0 +1,245 @@
+/* Generic bit */
+  
+  :root {
+    --body-width: 50rem;
+    --background-color: whitesmoke;
+    --text-color: #2d2d35;
+    --link-color: #003052;
+}
+
+html[data-theme='light'] {
+    --background-color: whitesmoke;
+    --header-footer-background: #979797;
+    --text-color: #2d2d35;
+    --link-color: #003052;
+    --dark-toggle: none;
+    --light-toggle: inline-block;
+}
+
+html[data-theme='dark'] {
+    --background-color: #212a2e;
+    --header-footer-background: #474747;
+    --text-color: #F7F8F8;
+    --link-color: #828fff;
+    --dark-toggle: inline-block;
+    --light-toggle: none;
+}
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .dark-toggle {
+    cursor: pointer;
+    display: var(--light-toggle);
+}
+.light-toggle {
+    cursor: pointer;
+    display: var(--dark-toggle);
+}
+  a {
+    position: relative;
+    text-decoration: none;
+    color: var(--link-color);
+    border-bottom: 0.125rem solid currentColor;
+    padding: 0 0.125rem 0.125rem;
+    border-radius: 0.125rem;
+    transition: all 0.2s ease-out;
+    touch-action: manipulation;
+  }
+  
+  a:focus, a:hover {
+    color: black;
+    
+    /*color: var(--link-color);*/
+    background-color: #9dc0d7;
+    box-shadow: 0 0 0 0.125rem currentColor;
+  }
+  
+  
+  h2 a:visited,
+  h3 a:visited,
+  h4 a:visited {
+    color: inherit;
+  }
+  
+  a:focus:visited {
+    
+    color: var(--link-color);
+  }
+  
+  body {
+    background: var(--background-color);
+    color: var(--text-color);
+    display: flex;
+    flex-direction: column;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 1.1875rem;
+    line-height: 1.7;
+    text-rendering: optimizeLegibility;
+  }
+  
+  body > * {
+    padding: 1rem 0;
+    margin-bottom: 2fr;
+  }
+  
+  header, main, footer { 
+    display: grid;
+    grid-template-columns: minmax(1rem, 1fr) minmax(18rem, var(--body-width)) minmax(1rem, 1fr);
+  }
+  header, footer {
+      background-color: var(--header-footer-background);
+  }
+  
+  .utterances {
+      margin-bottom: 4rem;
+  }
+  footer {
+      position: fixed;
+      left:0;
+      right:0;
+      bottom: 0;
+      height: 2fr;
+  }
+
+  header nav {
+    display: flex;
+    grid-column: 2;
+    justify-content: space-between;
+  }
+  
+  header nav ul li {
+    display: inline-block;
+    padding-left: 1rem;
+  }
+  
+  nav a {
+    display: inline-block;
+  }
+  
+  main {
+    /*background-color: white;*/
+    
+    background: var(--background-color);
+  }
+  
+  main > *,
+  footer > * {
+    grid-column: 2;
+    padding: 1rem 0; 
+  }
+  footer nav ul li {
+    display: inline-block;
+    padding-left: 1rem;
+  }
+  
+  main > section + section > ul,
+  main > article > ol {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(18rem,1fr));
+    gap: 2rem;
+    list-style: none;
+    padding: 0;
+  }
+  
+  main > section article {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  main > article > * + *,
+  main > article > aside > * + * {
+    margin-bottom: 1rem;
+  }
+  
+  article > p:nth-of-type(2){
+    font-size: 1.6rem;
+  }
+  
+  article > ul + p:nth-of-type(2) {
+    font-size: inherit;
+  }
+  
+  main > article picture > img {
+    width: 100vw;
+    max-width: calc(var(--body-width) + 2rem);
+    margin-left: -1rem;
+    height: auto;
+  }
+  
+  article > h2 > a,
+  article > h3 > a,
+  article > h4 > a {
+    position: relative;
+    color: unset;
+  }
+  
+  article blockquote {
+    padding-left: 2.5rem;
+    border-left: 0.25rem solid;
+  }
+  
+  article pre {
+    padding: 1.25rem;
+    white-space: pre-wrap;
+    border: 0.0625rem solid;
+    background-color: whitesmoke;
+  }
+  
+  article p > code {
+    padding: 0.25rem 0.25rem 0.125rem;
+    border: 0.0625rem solid;
+  }
+  
+  /*footer > * {
+    max-width: calc(var(--body-width)/2);
+  }*/
+  
+  ul {
+    padding-left: 2rem;
+  }
+  
+  ol {
+    margin-bottom: 1rem;
+  }
+  
+  aside > nav > ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-left: unset;
+  }
+
+p {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+table {
+  border: 1px solid var(--text-color); 
+  background-color: var(--background-color);
+}
+table td, table th {  
+  border-bottom: 1px solid var(--text-color);
+  padding: 5px 5px;
+  color: var(--text-color);
+}
+table tbody td {
+  font-size: 12px;
+  color: var(--text-color);
+}
+table tr:nth-child(even) {
+  background: var(--header-footer-background);
+}
+table thead {
+  background: var(--header-footer-background);
+}
+table thead th {
+  font-weight: normal;
+}
+table tfoot {
+  font-weight: bold;
+}

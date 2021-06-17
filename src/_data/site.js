@@ -8,7 +8,7 @@ module.exports =
         },
         {
             link: "/stories",
-            text: "stories",
+            text: "Stories",
         },
     ],
     twitter: "jacebenson",//twitter handle

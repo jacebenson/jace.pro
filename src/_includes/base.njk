@@ -52,19 +52,8 @@
 
     <title>{{ title }}</title>
 
-        <!-- Required CSS files -->
-      <!--<link rel="stylesheet" href="/assets/css/flex.css" lazyload>-->
-      <!--<link rel="stylesheet" href="/assets/css/prism-a11y-dark.css" lazyload>-->
+	<link rel="stylesheet" href="{{ '/css/style.css' | url }}" />
 
-<!-- capture the CSS content as a Nunjucks variable -->
-{% set css %}
-  {% include "semantic.css" %}
-  {% include "prism-a11y-dark.css" %}
-{% endset %}
-<!-- feed it through our cssmin filter to minify -->
-<style>
-  {{ css | cssmin | safe }}
-</style>
 
 
       <meta name="viewport" content="width=device-width, initial-scale=1">

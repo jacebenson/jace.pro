@@ -7,31 +7,42 @@
     "path": "./src/post/"
   },
   "scripts": {
-    "build": "npx @11ty/eleventy",
-    "serve": "npx @11ty/eleventy --serve",
-    "debug": "DEBUG=Eleventy* npx @11ty/eleventy",
-    "test": "lighthouse-ci http://localhost:8081 --report=./_site/lh/ --view",
-    "g": "npx ./generators/generic.js",
-    "generate": "npx ./generators/generic.js",
-    "buildImages": "npx ./generators/buildImages.js",
-    "downloadImage": "npx ./generators/downloadImage.js"
+    "watch:eleventy": "eleventy --serve",
+    "watch:sass":     "sass  --no-source-map --watch src/sass:_site/css",
+    "build:eleventy": "eleventy",
+    "build:sass":     "sass  --no-source-map src/sass:_site/css",
+    "postbuild":      "postcss _site/css/*.css -u autoprefixer cssnano -r --no-map",
+    "start":          "npm-run-all build:sass --parallel watch:*",
+    "build":          "npm-run-all build:sass build:eleventy",
+
+    "buildImages":    "npx ./generators/buildImages.js",
+    "downloadImage":  "npx ./generators/downloadImage.js",
+    "g":              "npx ./generators/generic.js",
+    "generate":       "npx ./generators/generic.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-img": "^0.8.3",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.0",
+    "@11ty/eleventy": "^0.12.1",
+    "autoprefixer": "^9.8.6",
     "clean-css": "^5.1.2",
+    "cross-env": "^7.0.3",
+    "cssnano": "^4.1.10",
     "dotenv": "^8.2.0",
-    "lighthouse-ci": "^1.12.0",
-    "sharp": "^0.28.1",    
-    "@11ty/eleventy-img": "^0.8.3",
-    "markdown-it": "^12.0.6",
     "markdown-it-toc-and-anchor": "^4.2.0",
-    "netlify-cli": "^3.19.0"
+    "markdown-it": "^12.0.6",
+    "netlify-cli": "^3.19.0",
+    "npm-run-all": "^4.1.5",
+    "postcss-cli": "^8.3.1",
+    "postcss": "^8.2.6",
+    "sass": "^1.32.7",
+    "sharp": "^0.28.1"
   },
-  "dependencies": {
-  }
+  "browserslist": [
+    "last 2 versions"
+  ]
 }

@@ -7,6 +7,7 @@ const CleanCSS = require("clean-css");
 const { minify } = require("terser");
 module.exports = function (eleventyConfig) {
     try {
+        eleventyConfig.addWatchTarget("./src/sass/");
         eleventyConfig.addPlugin(pluginRss);
         eleventyConfig.addPassthroughCopy("assets");
         eleventyConfig.addPassthroughCopy("./src/**/*.jpg");
