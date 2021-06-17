@@ -13,7 +13,7 @@
   publish = "_site/"
 
   # Default build command.
-  command = "eleventy"
+  command = "npm run build"
 
   # Directory with the serverless functions, including background functions,
   # to deploy to AWS. This is relative to the base directory if one has been set, 
@@ -24,7 +24,7 @@
 # deploy contexts will inherit these settings.
 [context.production]
   publish = "_site/"
-  command = "eleventy"
+  command = "npm run build"
 
 # Deploy Preview context: all deploys generated from a pull/merge request will
 # inherit these settings.
