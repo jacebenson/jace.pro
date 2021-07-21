@@ -111,6 +111,6 @@ module.exports = {
             answer: "90",
             detail: "11ty has a small number of starters.",
             source: "https://www.11ty.dev/docs/starter/"
-        }],
+        }]
     }
 };

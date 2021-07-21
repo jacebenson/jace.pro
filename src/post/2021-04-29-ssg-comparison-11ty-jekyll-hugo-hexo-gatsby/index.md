@@ -5,7 +5,6 @@ summary: "I've personally built sites with each of these and want to keep a list
 date: 2021-04-21T21:27:27.004Z
 tags: "draft"
 ---
-
 <a name="top"></a>
 # What features are on each of these SSG tools?
 
@@ -40,12 +39,35 @@ I excluded other static site generators I'm not familiar with, but if you'd like
 </table>
 
 
-| Vendor | Feature | Comment |
-| ----   | -----   | -----   |
-{% for name, feature in ssgtools.features %}{%- for item in feature -%}{%- if item.source -%}
-{%set answer = item.answer %}
+<table>
+<thead>
+<tr>
+<th>Tool</th>
+<th>Feature</th>
+<th>Comment</th>
+</tr>
+</thead>
+<tbody>
+{% for name, feature in ssgtools.features %}
+  {% for item in feature %}
+<tr>
+  
 
-| {{item.vendor}} | {{name}} | [{{answer|replace("\n",",")}} - {{item.detail}}]({{item.source}}) |
-{% endif %}{%- if item.source == "" -%}
-| {{item.vendor}} | {{name}} | {{item.answer}} - {{item.detail}} |
-{% endif %}{% endfor %}{% endfor %}
+  <th style="text-align:left">{{item.tool}}</th>
+  <td style="font-size:10px">
+  <p>{{name}}</p>
+  </td>
+  <td style="font-size:10px">
+  <p>
+  {% if item.source %}<a title="{{item.detail}}" href="{{item.source}}">{% endif %}
+  {{item.answer|replace("\n",",")}} - {{item.detail}}
+  {% if item.source %}</a>{% endif %}
+  </p>
+  </td>
+
+</tr>
+  {% endfor %}
+{% endfor %}
+
+</tbody>
+</table>
