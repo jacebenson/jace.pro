@@ -8,32 +8,44 @@ The other day I was looking at the [licensing training](https://nowlearning.serv
 To me it's very bizarre why these are the tables selected so in this post I want to talk through each of them.  
 If you have any thoughts to the reasoning I'd love to have some back and forth on it.  Here's my thoughts so far.
 
-| Table                                                  | Reason                                              |
-| ------------------------------------------------------ | --------------------------------------------------- |
-| Configuration Items [`cmdb_*`]                         | Design Choice - has a Class field and it's in use   |
-| Location [`cmn_location`]                              | See notes below                                     |
-| Knowledge [`kb_knowlege`]                              |                                                     |
-| Import Set Row [`sys_import_set_row`]                  | Design Choice - has a Class field and it's in use   |
-| Transform Map Script [`sys_transform_script`]          | I cannot find a reason this is included             |
-| Transform Map [`sys_transform_map`]                    | I cannot find a reason this is included             |
-| Authentication Profile [`sys_auth_profile`]            | Design Choice - has a Class field and it's not used |
-| Action Type Base [`sys_hub_action_type_base`]          | Design Choice - has a Class field and it's in use   |
-| Report Import Table [`sys_report_import_table_parent`] | What does this table even do?                       |
-| Dictionary [`sys_dictionary`]                          | Design Choice - has a Class field and it's in use   |
-| Choice [`sys_choice`]                                  | I cannot find a reason this is included             |
-| System Log [`syslog`]                                  | I cannot find a reason this is included             |
-| User Preference [`sys_user_preference`]                | I cannot find a reason this is included             |
-| Filter [`sys_filter`]                                  | Design Choice - has a Class field and it's in use   |
-| Portal Page [`sys_portal_page`]                        | Design Choice - has a Class field and it's not used |
-| Scheduled Job [`sysauto`]                              | Design Choice - has a Class field and it's in use   |
-| Data Lookup Definition [`dl_definition`]               | Design Choice - has a Class field and it's not used |
-| Data Lookup Matcher Rules [`dl_matcher`]               | Design Choice - has a Class field and it's in use   |
-| State Flow [`sf_state_flow`]                           | Design Choice - has a Class field and it's not used |
-| Exection Plan Task [`sc_cat_item_delivery_task`]       | Design Choice - has a Class field and it's in use   |
+| Table                            | Label                     | Reason                                              | Extensible OOTB |
+| -------------------------------- | ------------------------- | --------------------------------------------------- | --------------- |
+| `cmdb_*`                         | Configuration Items       | Design Choice - has a Class field and it's in use   | Many No         |
+| `cmn_location`                   | Location                  | See notes below                                     | No              |
+| `cmn_schedule_condition` **new** |                           |                                                     | Yes             |
+| `dl_definition`                  | Data Lookup Definition    | Design Choice - has a Class field and it's not used | Yes             |
+| `dl_matcher`                     | Data Lookup Matcher Rules | Design Choice - has a Class field and it's in use   | Yes             |
+| `kb_knowlege`                    | Knowledge                 |                                                     | No              |
+| `sc_cat_item_delivery_task`      | Exection Plan Task []     | Design Choice - has a Class field and it's in use   | Yes             |
+| `scheduled_data_import` **new**  |                           |                                                     | Yes             |
+| `sf_state_flow`                  | State Flow                | Design Choice - has a Class field and it's not used | Yes             |
+| `sys_auth_profile`               | Authentication Profile    | Design Choice - has a Class field and it's not used | Yes             |
+| `sys_choice`                     | Choice                    | I cannot find a reason this is included             | No              |
+| `sys_dictionary`                 | Dictionary                | Design Choice - has a Class field and it's in use   | Yes             |
+| `sys_filter`                     | Filter                    | Design Choice - has a Class field and it's in use   | Yes             |
+| `sys_hub_action_type_base`       | Action Type Base          | Design Choice - has a Class field and it's in use   | Yes             |
+| `sys_import_set_row`             | Import Set Row            | Design Choice - has a Class field and it's in use   | Yes             |
+| `sys_portal_page`                | Portal Page               | Design Choice - has a Class field and it's not used | No              |
+| `sys_report_import_table_parent` | Report Import Table       | What does this table even do?                       | No              |
+| `sys_transform_map`              | Transform Map             | I cannot find a reason this is included             | No              |
+| `sys_transform_script`           | Transform Map Script      | I cannot find a reason this is included             | No              |
+| `sys_user_preference`            | User Preference           | I cannot find a reason this is included             | No              |
+| `sysauto`                        | Scheduled Job             | Design Choice - has a Class field and it's in use   | Yes             |
+| `syslog`                         | System Log                | I cannot find a reason this is included             | Yes             |
 
 ## My thoughts on extending tables
 
-I can categorize my opinions about when and why to extend a table into three reasons
+I can categorize my opinions about when and why to extend a table into three reasons.
+
+Edit: At the time I wrote this, there were two things I had not considered.  One.  Extending tables is really complicated.
+
+| Pros                                   | Cons                                                                                                                                                                      |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| You get all the fields from the parent | You get all the fields from the parent                                                                                                                                    |
+|                                        | You could add fields that may hit the limit of the technical length in SQL                                                                                                |
+|                                        | Reporting on it can be difficult                                                                                                                                          |
+|                                        | If you need two records with the same unique value in the two tables, the system will not allow this                                                                      |
+|                                        | To extend some of these tables is uncharted waters and may not work well see [sys_choice](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0538947) |
 
 ### Usability
 
