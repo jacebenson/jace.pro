@@ -7,7 +7,7 @@ tags: "draft"
 ---
 
 # naming-things-is-hard
-
+<!--from web editor on 2021-08-11 2:22pm-->
 Ideas for naming lots of things.
 
 Ubuntu uses animals, simple and straight forward.
