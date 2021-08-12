@@ -36,8 +36,9 @@ date: 2021-08-12T07:00:14-05:00
 [Interis]:         https://itbrief.co.nz/story/servicenow-acquires-intreis-launches-new-grc-offering
 [BrightPoint]:     https://fortune.com/2016/06/01/servicenow-security-software-brightpoint/
 [ITapp]:           https://www.servicenow.com/company/media/press-room/servicenow-acquires-cloud-management-provider-itapp.html
-[DxConinuum]:      https://www.zdnet.com/article/servicenow-buys-dxcontinuum-to-boost-enterprise-automation-services/
+[DxContinuum]:      https://www.zdnet.com/article/servicenow-buys-dxcontinuum-to-boost-enterprise-automation-services/
 [Qlue Inc]:        https://www.servicenow.com/company/media/press-room/servicenow-acquires-qlue-and-invests-in-buildonme-to-deliver-intelligent-automation-to-everyday-enterprise-work.html
+[Telepathy]:       https://www.zdnet.com/article/servicenow-acquires-telepathy-a-ux-ui-consulting-company-that-has-worked-with-quip-new-relic/
 [SkyGiraffe]:      https://www.zdnet.com/article/servicenow-buys-mobile-platform-startup-skygiraffe/
 [VendorHawk]:      https://www.zdnet.com/article/servicenow-beats-estimates-acquires-vendorhawk/
 [Parlo]:           https://www.zdnet.com/article/servicenow-buys-ai-startup-parlo/
