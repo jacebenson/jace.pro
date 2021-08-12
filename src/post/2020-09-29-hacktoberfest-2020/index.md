@@ -3,7 +3,6 @@ title: "Hacktoberfest 2020 - lets get started"
 subtitle: "This is why I started doing the hacktoberfest events, maybe you should too."
 summary: "Free t-shirt for code - Why and how to contribute to open source"
 date: 2020-09-29T14:11:14-05:00
-tags: ["draft"]
 ---
  I was thinking something about your past experience and why you think people should participate, but it could really be whatever you want.
  What is it, why do you think it’s worth participating, how did you get started, what does it typically look like, what is a quality pull request, then how do they get started at the end.
