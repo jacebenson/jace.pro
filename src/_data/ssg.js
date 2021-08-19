@@ -780,12 +780,12 @@ module.exports = {
             vendor: "Netlify",
             answer: "Yes",
             detail: "I looked and nothing says you can or cannot use for any personal or business website, however, their offerings do.",
-            source: "https://www.netlify.com/pricing/"
+            source: "https://answers.netlify.com/t/is-the-free-tier-safe-for-client-projects/13535"
         }, {
             vendor: "Vercel",
-            answer: "Yes",
-            detail: "You shall not use the Services to host any protected health information or information that is subject to the Health Insurance Portability and Accountability Act, unless you first obtain Vercel's prior written approval.",
-            source: "https://vercel.com/legal/terms"
+            answer: "No for hobby",
+            detail: "Hobby accounts are restricted to non-commercial personal use only.",
+            source: "https://vercel.com/docs/platform/fair-use-policy#commercial-usage"
         }, {
             vendor: "CloudFlare",
             answer: "Yes",
