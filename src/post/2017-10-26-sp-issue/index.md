@@ -6,8 +6,7 @@ date: 2017-10-26T20:25:56-05:00
 ---
 
 So today I was working on a widget [Accept / Reject
-Solution](/post/2017-10-26-sp-accept-reject/). I found a
-[share](https://share.servicenow.com/app.do#/detailV2/b419262413caa600f609d6076144b030/overview)
+Solution](/post/2017-10-26-sp-accept-reject/). I found a share (link defunct)
 that looked like it would meet all of my needs. It looked great, until I
 tried rejecting a custom extended task table.
 
