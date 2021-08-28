@@ -9,7 +9,7 @@ I am starting to make a page I can easily reference with things that
 ServiceNow just omits about their code.
 
 -   Server-Side APIs (gathered using
-    [Xplore](https://share.servicenow.com/app.do#/detailV2/9a1be70e13800b000de935528144b04c/overview)
+    [Xplore](https://developer.servicenow.com/connect.do#!/share/contents/9650888_xplore_developer_toolkit?v=4.9&t=PRODUCT_DETAILS)
     manually and via posts on community)
     -   Glide
         -   get()

@@ -99,21 +99,21 @@ Self-paced developer training modules are available with the ServiceNow
 Developer program. They are step-by-step, guides on how parts of the
 platform work.
 
-[Landing Page](https://developer.servicenow.com/app.do#!/training/landing)
+[Landing Page](https://developer.servicenow.com/connect.do#!/training/landing)
 
 This interactive course has things like;
 
--   [Developer Site Walkthrough](https://developer.servicenow.com/app.do#!/trainlist/app_store_learn_dev_site_walkthrough_kingston_c_DeveloperSiteIntro)
--   [Build the NeedIt Application](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_buildneedit_kingston_build_the_needit_application?v=kingston)
--   [Securing Applicaitons](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_securingapps_kingston_securing_applications?v=kingston)
--   [Automating Application logic](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_automatingapps_kingston_automating_application_logic?v=kingston)
--   [Automated Test Framework](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_atf_kingston_automated_test_framework?v=kingston)
--   [Building Apps with AngularJS](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_angularjs_kingston_building_apps_with_angularjs?v=kingston)
--   [Build My First Application](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_buildmyfirstapp_kingston_build_my_first_application?v=kingston)
--   [Scripting in ServiceNow](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_scripting_kingston_scripting_in_servicenow?v=kingston)
--   [Importing Data into ServiceNow](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_importingdata_kingston_importing_data_into_servicenow?v=kingston)
--   [REST Integrations](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_rest_kingston_rest_integrations?v=kingston)
--   [Service Portal](https://developer.servicenow.com/app.do#!/trainlist/app_store_learnv2_serviceportal_kingston_service_portal?v=kingston)
+-   [Developer Site Walkthrough](https://developer.servicenow.com/connect.do#!/trainlist/app_store_learn_dev_site_walkthrough_kingston_c_DeveloperSiteIntro)
+-   [Build the NeedIt Application](https://developer.servicenow.com/connect.do#!/trainlist/app_store_learnv2_buildneedit_kingston_build_the_needit_application?v=kingston)
+-   [Securing Applicaitons](https://developer.servicenow.com/connect.do#!/trainlist/app_store_learnv2_securingapps_kingston_securing_applications?v=kingston)
+-   [Automating Application logic](https://developer.servicenow.com/connect.do#!/trainlist/app_store_learnv2_automatingapps_kingston_automating_application_logic?v=kingston)
+-   [Automated Test Framework](https://developer.servicenow.com/connect.do#!/trainlist/app_store_learnv2_atf_kingston_automated_test_framework?v=kingston)
+-   [Building Apps with AngularJS](https://developer.servicenow.com/connect.do#!/trainlist/app_store_learnv2_angularjs_kingston_building_apps_with_angularjs?v=kingston)
+-   [Build My First Application](https://developer.servicenow.com/connect.do#!/trainlist/app_store_learnv2_buildmyfirstapp_kingston_build_my_first_application?v=kingston)
+-   [Scripting in ServiceNow](https://developer.servicenow.com/connect.do#!/trainlist/app_store_learnv2_scripting_kingston_scripting_in_servicenow?v=kingston)
+-   [Importing Data into ServiceNow](https://developer.servicenow.com/connect.do#!/trainlist/app_store_learnv2_importingdata_kingston_importing_data_into_servicenow?v=kingston)
+-   [REST Integrations](https://developer.servicenow.com/connect.do#!/trainlist/app_store_learnv2_rest_kingston_rest_integrations?v=kingston)
+-   [Service Portal](https://developer.servicenow.com/connect.do#!/trainlist/app_store_learnv2_serviceportal_kingston_service_portal?v=kingston)
 
 ## YouTube Channels
 

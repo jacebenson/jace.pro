@@ -60,8 +60,7 @@ This was a really awesome lab. It showed a new feature that lets you
 merge and handle the remaining duplicate ci's and their relationships in
 a very flexible way.
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/knowledge18/LAB1012)
+[Lab URL](https://developer.servicenow.com/connect.do#!/event/knowledge18/LAB1012)
 
 [On-demand Library
 URL](https://community.servicenow.com/community?id=community_search&q=LAB1012)
@@ -74,11 +73,9 @@ to self-teach myself it. It did confirm that I did learn this correctly.
 There's a great youtube video where they show how to do most of this
 stuff there.
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/creatorcon18/CCW0194)
+[Lab URL](https://developer.servicenow.com/connect.do#!/event/creatorcon18/CCW0194)
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_search&q=CCW0194)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_search&q=CCW0194)
 
 <https://www.youtube.com/watch?v=R_49vxeGz78>
 
@@ -88,11 +85,9 @@ Again this was a really great session had I taken it three weeks prior.
 It did confirm I did learn the right things and it focused on the Cloud
 Services Plugin v2.
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/knowledge18/LAB0272)
+[Lab URL](https://developer.servicenow.com/connect.do#!/event/knowledge18/LAB0272)
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_search&q=LAB0272)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_search&q=LAB0272)
 
 ### LAB0299 Threat Hunting, Awareness and Sharing with Security Operations
 
@@ -100,11 +95,9 @@ This was a nice overview of what the Secops application brings to
 ServiceNow. I thought of it to something similar to an overview of how
 GRC would work except you were guided along setting it up.
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/knowledge18/LAB0299)
+[Lab URL](https://developer.servicenow.com/connect.do#!/event/knowledge18/LAB0299)
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_search&q=LAB0299)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_search&q=LAB0299)
 
 ### CCW1088 -- Service Portal: Advanced Widget Development
 
@@ -113,55 +106,42 @@ can use them and share them across widgets. I also learned about a
 different way to have widgets communicate to each other than the
 broadcast and emitted events.
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/creatorcon18/CCW1088)
+[Lab URL](https://developer.servicenow.com/connect.do#!/event/creatorcon18/CCW1088)
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_search&q=CCW1088)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_search&q=CCW1088)
 
 ## Labs I need to check out yet
 
 ### CCW0343 Using Event Management to Monitor Your ServiceNow Instance Health
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/creatorcon18/CCW0343)
+[Lab URL](https://developer.servicenow.com/connect.do#!/event/creatorcon18/CCW0343)
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_search&q=CCW0343)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_search&q=CCW0343)
 
 ### CCW0504 Agent Intelligence - Deployment Best Practices
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/creatorcon18/CCW0504)
+[Lab URL](https://developer.servicenow.com/connect.do#!/event/creatorcon18/CCW0504)
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_search&q=CCW0504)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_search&q=CCW0504)
 
 ### CCW0471 Test Driven Development with ServiceNow
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/creatorcon18/CCW0471)
+[Lab URL](https://developer.servicenow.com/connect.do#!/event/creatorcon18/CCW0471)
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_search&q=CCW0471)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_search&q=CCW0471)
 
 ### CCW1224 Best Practices for Scripted REST APIs
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/creatorcon18/CCW1224)
+[Lab URL](https://developer.servicenow.com/connect.do#!/event/creatorcon18/CCW1224)
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_search&q=CCW1224)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_search&q=CCW1224)
 
 ### CCW0682 Advanced Scripting and JSON
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/creatorcon18/CCW0682)
+[Lab URL](https://developer.servicenow.com/connect.do#!/event/creatorcon18/CCW0682)
 
-[On-demand Library
-URL](https://community.servicenow.com/community?id=community_search&q=CCW0682)
+[On-demand Library URL](https://community.servicenow.com/community?id=community_search&q=CCW0682)
 
 ### CCW1358 Advanced Techniques for Creating High Usability Chatbot Conversations
 
-[Lab
-URL](https://developer.servicenow.com/app.do#!/event/creatorcon18/CCW1358)
+[Lab URL](https://developer.servicenow.com/connect.do#!/event/creatorcon18/CCW1358)

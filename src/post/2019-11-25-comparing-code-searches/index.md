@@ -22,7 +22,7 @@ This includes 2 files;
 - UI action that is available on sys_* forms
 - UI page that does the search using the `/api/sn_codesearch/` apis
 
-Download: [Share](https://developer.servicenow.com/app.do#!/share/contents/8451237_global_code_search?v=1.01&t=PRODUCT_DETAILS)
+Download: [Share](https://developer.servicenow.com/connect.do#!/share/contents/8451237_global_code_search?v=1.01&t=PRODUCT_DETAILS)
 
 ![](global-rgm-search-1.png)
 ![](global-rgm-search-2.png)
@@ -49,7 +49,7 @@ This include 3 files;
 
 Download: 
 
-- [Share](https://developer.servicenow.com/app.do#!/share/contents/4888545_ms_codesearch?v=0.1&t=PRODUCT_DETAILS)
+- [Share](https://developer.servicenow.com/connect.do#!/share/contents/4888545_ms_codesearch?v=0.1&t=PRODUCT_DETAILS)
 - [Git](https://github.com/TechAdvis0r/NowDevelopment)
 
 ![](ms-codesearch-1.png)
@@ -76,7 +76,7 @@ This includes 321 Updates, on Share it lists these;
 - 3 UI Pages
 - 8 UI Scripts
 
-Download: [Share](https://developer.servicenow.com/app.do#!/share/contents/1176688_fetchcode_an_instance_code_search_utility?v=1.03&t=PRODUCT_DETAILS)
+Download: [Share](https://developer.servicenow.com/connect.do#!/share/contents/1176688_fetchcode_an_instance_code_search_utility?v=1.03&t=PRODUCT_DETAILS)
 
 ![](fetchcode-1.png)
 ![](fetchcode-2.png)
@@ -101,7 +101,7 @@ This also has an opt-in feature to tell you about bad code.
 
 Download: 
 
-- [Share](https://developer.servicenow.com/app.do#!/share/contents/7596230_code_share_for_sp?v=2.4&t=PRODUCT_DETAILS)
+- [Share](https://developer.servicenow.com/connect.do#!/share/contents/7596230_code_share_for_sp?v=2.4&t=PRODUCT_DETAILS)
 - [Git](https://github.com/jacebenson/servicenow-code.git)
 
 Downloads as of 2019-11-25: 115
@@ -133,7 +133,7 @@ One thing it does really well is find Workflow Activity results.
 
 Download:
 
-- [Share](https://developer.servicenow.com/app.do#!/share/contents/9326002_developer_search?t=PRODUCT_DETAILS)
+- [Share](https://developer.servicenow.com/connect.do#!/share/contents/9326002_developer_search?t=PRODUCT_DETAILS)
 
 Downloads as of 2019-11-25: 47
 

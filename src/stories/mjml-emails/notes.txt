@@ -1,0 +1,50 @@
+
+1. Identify the notification to make better
+2. identify the actionable things from the email
+- do you want to keep them.  Most have a "Unsubscribe" and "Notification Preferences"
+- do you want to keep using variables in the email...
+
+ofr "Verify your email address"
+- do you want to keep the unsub and notification preferences? Sure
+- do you want to keep "verify"? yes
+- do you want to keep using the variables? yes
+
+3. 
+look through templates for ideas or create your own.  I'm going to just use the "Card" template
+
+card template changes
+
+* text will need to be specific
+* a - title - REMOVE - (header)
+* b - Headline - (body)
+* c - headline context - (body)
+* d - details - (body)
+* e - footer text (footer)
+1. company name (header)
+2. home link (header)
+3. service link (header)
+4. third link (header)
+5. call to action button/label/link
+6. Unsubscribe link (footer)
+
+Now that we've identified what we need to change and the parts lets create a email layout to deail with it.
+
+What's a email layout?  Well its' a way serivcenow lets you create a wrapper for emails to have a consistent look.  Ours will have our header and footer.
+
+In our header we need to get the company name, and links that will exist there.
+Welcom Mail Scripts...
+- Mail script to get company info (https://docs.servicenow.com/bundle/quebec-platform-user-interface/page/administer/navigation-and-ui/task/t_CreateACompanyProfile.html)
+- Mail script to create list of links
+- Mail script to get footer text
+
+Welcome Layout
+(remove !doctype)
+(end tags)
+(fix xml issues)
+
+Welcome Template...
+(set table to global)
+
+
+
+Related links: https://css-tricks.com/choosing-a-responsive-email-framework%E2%80%8Amjml-vs-foundation-for-emails/

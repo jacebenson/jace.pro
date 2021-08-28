@@ -23,11 +23,10 @@ Things you should do with you PDI when you zboot it.
 
 | Share                             | Share                                                                                                                           | Git                                                                         |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| Xplore                            | [Share](https://developer.servicenow.com/app.do#!/share/contents/9650888_xplore_developer_toolkit?v=4.05&t=PRODUCT_DETAILS)     | [Github](https://github.com/thewhitespace/Xplore/)                          |
-| UI 16 Developer Patch             | [Share](https://developer.servicenow.com/app.do#!/share/contents/9650888_ui16_developer_patch?v=2.04&t=PRODUCT_DETAILS)         | [Github](https://github.com/thewhitespace/UI16-Developer-Patch/)            |
-| Upgrade Assistant                 | [Share](https://developer.servicenow.com/app.do#!/share/contents/2574393_ws_upgrade_assistant?v=2&t=PRODUCT_DETAILS)            |                                                                             |
+| Xplore                            | [Share](https://developer.servicenow.com/connect.do#!/share/contents/9650888_xplore_developer_toolkit?v=4.9&t=PRODUCT_DETAILS)     | [Github](https://github.com/thewhitespace/Xplore/)                          |
+| UI 16 Developer Patch             |         | [Github](https://github.com/thewhitespace/UI16-Developer-Patch/)            |
 | Code Search Service Portal Widget |                                                                                                                                 | [Github](https://github.com/jacebenson/servicenow-code/blob/docs/README.md) |
-| Security Best Practice Audit      | [Share](https://developer.servicenow.com/app.do#!/share/contents/7852853_security_best_practice_audit?v=3.03&t=PRODUCT_DETAILS) |                                                                             |
+| Security Best Practice Audit      | Not available anymore |                                                                             |
 
 ## Background Script To Do This
 
@@ -48,7 +47,7 @@ var users = [{
 
 function createUserWithRoles(userObj) {
     var userGR = new GlideRecord('sys_user');
-    if(userGR.get('user_name',userObj.id)) {
+    if (userGR.get('user_name', userObj.id)) {
         // donothing
     } else {
         userGR.newRecord();
@@ -67,6 +66,7 @@ function createUserWithRoles(userObj) {
     giveRole(userSysId, 'admin');
     giveRole(userSysId, 'security_admin');
 }
+
 function giveRole(userId, roleName) {
     var give = new GlideRecord('sys_user_has_role');
     give.newRecord();
@@ -74,6 +74,7 @@ function giveRole(userId, roleName) {
     give.setDisplayValue('role', roleName);
     give.insert();
 }
+
 function lockOutEveryoneElse() {
     var usersToLockOut = new GlideRecord('sys_user');
     usersToLockOut.addEncodedQuery('sys_created_on<javascript:gs.beginningOfToday()');
@@ -83,7 +84,7 @@ function lockOutEveryoneElse() {
         usersToLockOut.update();
     }
 }
-users.map(function(user){
+users.map(function(user) {
     createUserWithRoles(user);
 });
 lockOutEveryoneElse();

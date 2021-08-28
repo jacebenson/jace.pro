@@ -7,7 +7,7 @@
     "path": "./src/post/"
   },
   "scripts": {
-    "watch:eleventy": "eleventy --serve",
+    "watch:eleventy": "eleventy --serve --watch",
     "watch:sass":     "sass  --no-source-map --watch src/sass:_site/css",
     "build:eleventy": "eleventy",
     "build:sass":     "sass  --no-source-map src/sass:_site/css",
