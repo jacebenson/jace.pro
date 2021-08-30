@@ -30,7 +30,7 @@ from working via a browser plugin
 
 Another way would be to subscribe to the updates via a "Data Service".\
 A full example can be seen on the [CCW1088
-Lab](https://developer.servicenow.com/app.do#!/event/creatorcon18/CCW1088/creatorcon_18_CCW1088_5_sharing_data_and_events).\
+Lab](https://developer.servicenow.com/connect.do#!/event/creatorcon18/CCW1088/creatorcon_18_CCW1088_5_sharing_data_and_events).\
 Other examples just around and about angular include;
 
 -   [Working example](https://jsfiddle.net/jeremylikness/zba74rk3/)
