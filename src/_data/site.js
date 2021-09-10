@@ -3,6 +3,10 @@ module.exports =
 {
     menu: [
         {
+            link: "https://news.jace.pro",
+            text: "News"
+        },
+        {
             link: "/resources",
             text: "Resources",
         },
