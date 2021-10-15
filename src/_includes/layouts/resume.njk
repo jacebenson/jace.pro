@@ -775,7 +775,7 @@ body {
           <p class="resume-item-copy">{{job.summary}}</p>
           <ul class="resume-item-list">
             {% for duty in job.duties %}
-            <li>{{duty}}</li>
+            <li>{{duty | safe}}</li>
             {% endfor %}
           </ul>
           <p></p>
