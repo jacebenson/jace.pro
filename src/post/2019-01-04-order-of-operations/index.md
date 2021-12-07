@@ -22,7 +22,7 @@ Here I've been messing with this and I thought now is a great time to
 share this diagram I keep out there.
 
 
-{{mermaid}}
+```mermaid
     sequenceDiagram
     participant uxux as User Interactions
     participant csup as UI Policy
@@ -76,4 +76,3 @@ share this diagram I keep out there.
     ssss->>uxux: Return UI
 
 Note over uxux,dbdb: Thanks to http://www.snc-blog.com/2017/02/02/script-execution-flow/
-{{mermaid}}

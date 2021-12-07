@@ -988,6 +988,11 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
+"@kevingimbel/eleventy-plugin-mermaid@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@kevingimbel/eleventy-plugin-mermaid/-/eleventy-plugin-mermaid-1.1.0.tgz#f198e3cb3d384fc5a826d179fb9b68e5092631fa"
+  integrity sha512-h4e2Fd624Fd6TGS/JFyABBCXLhTdV9AT1CF9JNRaKIV7Pj+/EGzVUE1AVuo/mT8nZI+nv3naSuZJMgA5TZtX9A==
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"

@@ -5,6 +5,7 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const CleanCSS = require("clean-css");
 const { minify } = require("terser");
+
 module.exports = function (eleventyConfig) {
     try {
         eleventyConfig.addWatchTarget("./src/sass/");
@@ -23,11 +24,17 @@ module.exports = function (eleventyConfig) {
 
         // add support for syntax highlighting
         eleventyConfig.addPlugin(syntaxHighlight);
-
         eleventyConfig.addFilter("cssmin", function (code) {
             return new CleanCSS({}).minify(code).styles;
         });
 
+        const highlighter = eleventyConfig.markdownHighlighter;
+        eleventyConfig.addMarkdownHighlighter((str, language) => {
+          if (language === "mermaid") {
+            return `<pre class="mermaid jace-was-here">${str}</pre>`;
+          }
+          return highlighter(str, language);
+        });
         eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
             code,
             callback
