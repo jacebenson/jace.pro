@@ -12,10 +12,22 @@ module.exports = {
     },
     experience: [
         {
+            company: "AgilitiHealth",
+            title: "ServiceNow Developer",
+            location: "Minneapolis, MN",
+            duration: "2022 - Present",
+            summary: "",
+            duties: [
+                "Created simple interface for entering historical activites",
+                "Evaluated XType for CICD purposes",
+                "Peer reviewed, validated, and contributed to the team by working on stories using AGILE"
+            ]
+        },
+        {
             company: "FICO",
             title: "ServiceNow Developer",
             location: "Roseville, MN",
-            duration: "2016 - Present",
+            duration: "2016 - 2022",
             summary: "",
             duties: [
                 "Ensure ServiceNow is current with releases as they come out",
@@ -163,16 +175,24 @@ module.exports = {
         }*/
     ],
     skills: [
-        { title: "Languages", summary: "HTML, CSS, SCSS, JavaScript, XML, Jelly, PHP, and SQL"},
-        { title: "Libraries", summary: "jQuery, Angular, Prototype, Node.js, React, Redwoodjs, and 11ty"},
+        { title: "Languages", summary: "HTML, CSS, SCSS, JavaScript, TypeScript, XML, Jelly, PHP, and SQL"},
+        { title: "Libraries", summary: "jQuery, Angular, Prototype, Node.js, React, RedwoodJS, and 11ty"},
         { title: "Platforms", summary: "ServiceNow, Mediawiki, Node-red, Docker, and Wordpress"},
         { title: "Web Services", summary: "REST, SOAP, and GraphQL"}
     ],
     awards: [
-        { title: "2020 ServiceNow Developer MVP", link: "https://developer.servicenow.com/blog.do?p=/post/all-stars/", organization: "ServiceNow", duration: "2020"},
-        { title: "2020 ServiceNow Community MVP", link: "https://community.servicenow.com/community?id=community_blog&sys_id=fb488720dbaacc504819fb2439961900", organization: "ServiceNow", duration: "2020"} ,
-        { title: "2021 ServiceNow Developer MVP", link: "https://developer.servicenow.com/blog.do?p=/post/2021-developer-mvp-announcement/", organization: "ServiceNow", duration: "2021"},
-        { title: "2021 ServiceNow Community MVP", link: "https://community.servicenow.com/community?id=community_blog&sys_id=ebc85e18db42ec10b1b102d5ca96193e", organization: "ServiceNow", duration: "2021"}
+        { 
+            title: "2020 ServiceNow Developer MVP", link: "https://developer.servicenow.com/blog.do?p=/post/all-stars/", organization: "ServiceNow", duration: "2020"},
+        { 
+            title: "2020 ServiceNow Community MVP", link: "https://community.servicenow.com/community?id=community_blog&sys_id=fb488720dbaacc504819fb2439961900", organization: "ServiceNow", duration: "2020"} ,
+        { 
+            title: "2021 ServiceNow Developer MVP", link: "https://developer.servicenow.com/blog.do?p=/post/2021-developer-mvp-announcement/", organization: "ServiceNow", duration: "2021"},
+        { 
+            title: "2021 ServiceNow Community MVP", link: "https://community.servicenow.com/community?id=community_blog&sys_id=ebc85e18db42ec10b1b102d5ca96193e", organization: "ServiceNow", duration: "2021"},
+        { 
+            title: "2022 ServiceNow Developer MVP", link: "https://developer.servicenow.com/blog.do?p=/post/2022-mvp-announcement/", organization: "ServiceNow", duration: "2022"},
+        { 
+            title: "2022 ServiceNow Community MVP", link: "https://community.servicenow.com/community?id=community_blog&sys_id=6dfc8b591be58150be4955fa234bcbc8", organization: "ServiceNow", duration: "2022"}
 
     ],
     associations: [

@@ -34,7 +34,7 @@ I work on web technogies every day with ambition to learn more about what makes 
 
 ## ServiceNow Developer
 
-<sup>FICO, Roseville 2016 - Present</sup>
+<sup>FICO, Roseville 2016-2022</sup>
 ---
 * Rewrote how server patching is evaluated from Servicenow
 * Automated the CSR and KEY file generation for certificates
