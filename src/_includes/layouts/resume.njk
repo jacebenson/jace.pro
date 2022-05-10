@@ -628,7 +628,7 @@ body {
   <body class="theme-default">
 
     <div class="wrapper" itemscope="" itemtype="https://schema.org/Person">
-      <meta itemprop="telephone" content="555-7334">
+      <meta itemprop="email" content="{{resume.socials.email}}">
       <meta itemprop="address" content="{{resume.location}}">
 
       <header class="page-header">
@@ -640,7 +640,6 @@ body {
 
         <!-- Your name is defined in the _config.yml file -->
         <h1 class="header-name" itemprop="name">{{site.author}}</h1>
-
         <!-- To display contact info here, change `display_header_contact_info` value in _config.yml to true -->
         
 
@@ -754,7 +753,6 @@ body {
         </div>
         
         <a href="mailto:{{site.email}}" class="contact-button no-print" itemprop="email">Contact me</a>
-        
 
       </header>
 
@@ -769,15 +767,19 @@ body {
         
         {% for job in resume.experience %}
         
-        <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="https://schema.org/Organization">
+        <div class="resume-item {{job.class}}" itemscope="" itemprop="worksFor" itemtype="https://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{job.company}}</h3>
           <h4 class="resume-item-details" itemprop="description">{{job.title}} • {{job.duration}}</h4>
           <p class="resume-item-copy">{{job.summary}}</p>
+          <!--<details>
+          <summary>{{job.summary}}</summary>
+-->
           <ul class="resume-item-list">
             {% for duty in job.duties %}
             <li>{{duty | safe}}</li>
             {% endfor %}
           </ul>
+   <!--       </details>-->
           <p></p>
         </div><!-- end of resume-item -->
         {% endfor %}
@@ -835,7 +837,7 @@ body {
 
         {% for project in resume.projects %}
         
-        <div class="resume-item" itemscope="" itemtype="https://schema.org/CreativeWork">
+        <div class="resume-item {{project.class}}" itemscope="" itemtype="https://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{site.author}}" itemtype="https://schema.org/Person">
           <h3 class="resume-item-title" itemprop="name"><a href="{{project.link}}">{{project.title}}</a></h3>
           <h4 class="resume-item-details" itemprop="description">{{project.role}} • {{project.duration}}</h4>
@@ -874,7 +876,7 @@ body {
         </header>
 
         {% for award in resume.awards %}
-        <div class="resume-item">
+        <div class="resume-item {{award.class}}">
           <h3 class="resume-item-title" itemprop="award"><a href="{{award.link}}">{{award.title}}</a></h3>
           <h4 class="resume-item-details">{{award.organization}} • {{award.duration}}</h4>
           <p class="resume-item-copy">{{award.summary}}</p>
@@ -946,22 +948,16 @@ body {
   <!-- GitHub link -->
   
   <li><strong>Github</strong>: {{resume.socials.github}}</li>
-  
 
   <!-- Twitter link -->
   
   <li><strong>Twitter</strong>: {{resume.socials.twitter}}</li>
   
-
- 
-
   <!-- LinkedIn link -->
   
   <li><strong>LinkedIn</strong>: {{resume.socials.linkedin}}</li>
-  
 
-  <!-- Instagram link -->
-  
+  <li class="print-only"><strong>Email</strong>: {{resume.socials.email}}</li>
 
   <!-- Website link -->
   

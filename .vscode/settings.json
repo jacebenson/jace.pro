@@ -25,5 +25,8 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "[markdown]": {
         "editor.defaultFormatter": "mervin.markdown-formatter"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
     }
 }

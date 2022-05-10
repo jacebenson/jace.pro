@@ -5,8 +5,7 @@ summary: "Rules I follow for emails"
 date: 2016-03-24T23:06:38-06:00
 meta: 
  - notification
- - workflow
- - actionable
+ - reference
 ---
 Rules to follow for emails in ServiceNow.
 ## Do not use the ServiceNow provided email address

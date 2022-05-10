@@ -8,6 +8,7 @@ module.exports = {
         linkedin: "https://linkedin.com/in/jacebenson",
         "nowcommunity": "https://community.servicenow.com/community?id=community_user_profile&user=d6625a69dbd81fc09c9ffb651f9619fc",
         github: "https://github.com/jacebenson",
+        email: "jace@benson.run",
         website: site.baseURL
     },
     experience: [
@@ -68,15 +69,14 @@ module.exports = {
                 "Added integration to Puppet and SCCM to make our CMDB represent what Discovery couldn't get to",
                 "Measured ServiceNow's performance after two unscheduled outages",
                 "Created past metrics where possible to allow better insights into previous trends",
-                "Implemented a Aggregate API which allowed other teams to get more data with less calls (before the official Aggregate API was released)",
-                "Published three code bases on share.serivcenow.com. \"Automagically linking to records in journaled fields\", \"ServiceCatalog Custom Rest Processor\", and \"Slack Integration\""
+                "Implemented a Aggregate API which allowed other teams to get more data with less calls (before the official Aggregate API was released)"
             ]
         },
         {
             company: "Fruition Partners",
             title: "Senior Integration Consultant",
             location: "Minneapolis, MN",
-            duration: "2014 - 2014",
+            duration: "2011 - 2014",
             summary: "",
             duties: [
                 "Developed integrations between the ServiceNow and various supporting software solutions. Participated in presales scoping meetings to properly scope the estimated level of effort for client's integrations",
@@ -85,16 +85,7 @@ module.exports = {
                 "Participated in presales scoping meetings to help the sales team properly scope the estimated level of effort for a potential client's integration",
                 "Worked with clients to understand and meet their data conversion needs",
                 "Was the onsite and primary integrations specialist for creating a fully automated end-to-end internal cloud offering leveraging the customers CHEF implentation, ServiceNow's Service Portfolio, and CMDB",
-                "Worked to move some integrations from a previous solution to APIGEE as a middle technology with ServiceNow on the other side"
-            ]
-        },
-        {
-            company: "Fruition Partners",
-            title: "Senior Technical Analyst",
-            location: "Minneapolis, MN",
-            duration: "2011 - 2014",
-            summary: "",
-            duties: [
+                "Worked to move some integrations from a previous solution to APIGEE as a middle technology with ServiceNow on the other side",
                 "Provided guidance on technical matters to both the client and internal resources alike, created a collaborative environment that maintained scope and met all the objectives set by the statements of work",
                 "Worked with project sponsors and system administrators to customize ServiceNow to work for their organizations",
                 "Researched, diagnosed, documented and resolved technical issues",
@@ -106,7 +97,8 @@ module.exports = {
                 "Created a tool to import thousands of Microsoft documents with images intact in the knowledge application",
                 "Managed Mediawiki installation",
                 "Earned ITIL v3 Foundations and ServcieNow Administration certifications"
-            ]
+            ],
+            class: "no-print"
         },
     ],
     projects: [
@@ -115,7 +107,8 @@ module.exports = {
             link: "https://jace.pro",
             role: "Creator",
             duration: "2015 - Present",
-            summary: "A blog where I post anything I find helpful regarding ServiceNow and JamStack"
+            summary: "A blog where I post anything I find helpful regarding ServiceNow and JamStack",
+            class: "print-only"
         },/*
         {
             title: "Treetop",
@@ -129,35 +122,40 @@ module.exports = {
             link: "https://jace-ty.netlify.app",
             role: "Creator",
             duration: "2020 - Present",
-            summary: "A 11ty starter I maintain that is used on jace.pro"
+            summary: "A 11ty starter I maintain that is used on jace.pro",
+            class: "no-print"
         },
         {
             title: "SNDocs",
             link: "https://sndocs.jace.pro",
             role: "Creator",
             duration: "2017 - Present",
-            summary: "An unofficial ServiceNow version tracker"
+            summary: "An unofficial ServiceNow version tracker",
+            class: "no-print"
         },
         {
             title: "ServiceNow presonal docs",
             link: "https://sn.jace.pro",
             role: "Creator",
             duration: "2017 - Present",
-            summary: "Started as a place to track the undocumented things.  Changed to hold any technical docs I find useful"
+            summary: "Started as a place to track the undocumented things.  Changed to hold any technical docs I find useful",
+            class: "no-print"
         },
         {
             title: "news.jace.pro",
             link: "https://news.jace.pro",
             role: "Creator",
             duration: "2019 - Present",
-            summary: "A ServiceNow News Aggregator"
+            summary: "A ServiceNow News Aggregator",
+            class: "print-only"
         },
         {
             title: "NowComponents",
             link: "https://nowcomponents.github.io",
             role: "Maintainer",
             duration: "2020 - 2020",
-            summary: "Hacktoberfest 2020 Project to learn ServiceNow Now Components on Seismic"
+            summary: "Hacktoberfest 2020 Project to learn ServiceNow Now Components on Seismic",
+            class: "no-print"
         },/*
         {
             title: "Cajunbot",
@@ -175,27 +173,36 @@ module.exports = {
         }*/
     ],
     skills: [
-        { title: "Languages", summary: "HTML, CSS, SCSS, JavaScript, TypeScript, XML, Jelly, PHP, and SQL"},
-        { title: "Libraries", summary: "jQuery, Angular, Prototype, Node.js, React, RedwoodJS, and 11ty"},
-        { title: "Platforms", summary: "ServiceNow, Mediawiki, Node-red, Docker, and Wordpress"},
-        { title: "Web Services", summary: "REST, SOAP, and GraphQL"}
+        { title: "Languages", summary: "HTML, CSS, SCSS, JavaScript, TypeScript, XML, Jelly, PHP, and SQL" },
+        { title: "Libraries", summary: "jQuery, Angular, Prototype, Node.js, React, RedwoodJS, and 11ty" },
+        { title: "Platforms", summary: "ServiceNow, Mediawiki, Node-red, Docker, and Wordpress" },
+        { title: "Web Services", summary: "REST, SOAP, and GraphQL" }
     ],
     awards: [
-        { 
-            title: "2020 ServiceNow Developer MVP", link: "https://developer.servicenow.com/blog.do?p=/post/all-stars/", organization: "ServiceNow", duration: "2020"},
-        { 
-            title: "2020 ServiceNow Community MVP", link: "https://community.servicenow.com/community?id=community_blog&sys_id=fb488720dbaacc504819fb2439961900", organization: "ServiceNow", duration: "2020"} ,
-        { 
-            title: "2021 ServiceNow Developer MVP", link: "https://developer.servicenow.com/blog.do?p=/post/2021-developer-mvp-announcement/", organization: "ServiceNow", duration: "2021"},
-        { 
-            title: "2021 ServiceNow Community MVP", link: "https://community.servicenow.com/community?id=community_blog&sys_id=ebc85e18db42ec10b1b102d5ca96193e", organization: "ServiceNow", duration: "2021"},
-        { 
-            title: "2022 ServiceNow Developer MVP", link: "https://developer.servicenow.com/blog.do?p=/post/2022-mvp-announcement/", organization: "ServiceNow", duration: "2022"},
-        { 
-            title: "2022 ServiceNow Community MVP", link: "https://community.servicenow.com/community?id=community_blog&sys_id=6dfc8b591be58150be4955fa234bcbc8", organization: "ServiceNow", duration: "2022"}
+        {
+            title: "2020 ServiceNow Developer MVP", link: "https://developer.servicenow.com/blog.do?p=/post/all-stars/", organization: "ServiceNow", duration: "2020", class: "no-print"
+        },
+        {
+            title: "2020 ServiceNow Community MVP", link: "https://community.servicenow.com/community?id=community_blog&sys_id=fb488720dbaacc504819fb2439961900", organization: "ServiceNow", duration: "2020", class: "no-print"
+        },
+        {
+            title: "2021 ServiceNow Developer MVP", link: "https://developer.servicenow.com/blog.do?p=/post/2021-developer-mvp-announcement/", organization: "ServiceNow", duration: "2021", class: "no-print"
+        },
+        {
+            title: "2021 ServiceNow Community MVP", link: "https://community.servicenow.com/community?id=community_blog&sys_id=ebc85e18db42ec10b1b102d5ca96193e", organization: "ServiceNow", duration: "2021", class: "no-print"
+        },
+        {
+            title: "2022 ServiceNow Developer MVP", link: "https://developer.servicenow.com/blog.do?p=/post/2022-mvp-announcement/", organization: "ServiceNow", duration: "2022", class: "no-print"
+        },
+        {
+            title: "2022 ServiceNow Community MVP", link: "https://community.servicenow.com/community?id=community_blog&sys_id=6dfc8b591be58150be4955fa234bcbc8", organization: "ServiceNow", duration: "2022", class: "no-print"
+        },
+        {
+            title: "ServiceNow Community and Developer MVP", organization: "ServiceNow", duration: "2020, 2021, 2022", class: "print-only"
+        }
 
     ],
     associations: [
-        { title: "ServiceNow Minneapolis Meetup", link: "https://www.meetup.com/Minneapolis-ServiceNow-Developer-Meetup/", organization: "ServiceNow", role: "Organizer", duration: "2016 - Present"}
+        { title: "ServiceNow Minneapolis Meetup", link: "https://www.meetup.com/Minneapolis-ServiceNow-Developer-Meetup/", organization: "ServiceNow", role: "Organizer", duration: "2016 - Present" }
     ]
 };
