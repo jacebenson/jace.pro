@@ -397,9 +397,9 @@ module.exports = {
             source: "https://support.cloudflare.com/hc/en-us/articles/360024787372-End-to-end-HTTPS-with-Cloudflare-Part-1-conceptual-overview"
         }, {
             vendor: "Firebase",
-            answer: "",
+            answer: "Yes",
             detail: "",
-            source: ""
+            source: "https://firebase.google.com/docs/hosting"
         }, {
             vendor: "Render",
             answer: "Yes",
@@ -433,9 +433,9 @@ module.exports = {
             source: "https://pages.cloudflare.com/#plans"
         }, {
             vendor: "Firebase",
-            answer: "",
+            answer: "10GB/Mo",
             detail: "",
-            source: ""
+            source: "https://firebase.google.com/docs/hosting/usage-quotas-pricing"
         }, {
             vendor: "Render",
             answer: "100GB/Mo",
@@ -505,9 +505,9 @@ module.exports = {
             source: "https://developers.cloudflare.com/pages/getting-started#add-a-custom-cname-record"
         }, {
             vendor: "Firebase",
-            answer: "",
+            answer: "web.app and firebaseapp.com",
             detail: "",
-            source: ""
+            source: "https://firebase.google.com/docs/hosting"
         }, {
             vendor: "Render",
             answer: "onrender.com",
