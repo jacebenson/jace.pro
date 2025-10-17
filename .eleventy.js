@@ -138,7 +138,7 @@ module.exports = function (eleventyConfig) {
   
   // Explicitly define the post collection for better file watching
   eleventyConfig.addCollection("post", function(collectionApi) {
-    return collectionApi.getFilteredByGlob("./src/post/*.md");
+    return collectionApi.getFilteredByGlob("./src/post/**/*.md");
   });
   
   return {

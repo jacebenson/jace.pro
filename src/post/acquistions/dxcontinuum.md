@@ -1,8 +1,8 @@
 ---
-title: "BrightPoint Security: Automating Trust for the Enterprise"
-permalink: /brightpoint/
+title: "Predicting the Future: The DxContinuum Story "
+permalink: /dxcontinuum/
 author: Jace Benson
-image: /static/img/brightpoint.png
+image: /static/img/dxcontinuum.png
 date: 2025-05-19T07:28:42.310Z
 draft: false
 stage: published
