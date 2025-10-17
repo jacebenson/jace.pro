@@ -7,6 +7,9 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const {
   fortawesomeBrandsShortcode,
 } = require('@vidhill/fortawesome-brands-11ty-shortcode');
+const markdownIt = require("markdown-it");
+const markdownItAnchor = require("markdown-it-anchor");
+
 module.exports = function (eleventyConfig) {
   // Allow missing file extensions for permalinks
   eleventyConfig.configureErrorReporting({ allowMissingExtensions: true });
@@ -31,6 +34,27 @@ module.exports = function (eleventyConfig) {
 
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
+  
+  // Custom Markdown configuration with Mermaid support and anchor links
+  const markdownLibrary = markdownIt({
+    html: true,
+    breaks: true,
+    linkify: true,
+    highlight: function (str, lang) {
+      if (lang && lang === 'mermaid') {
+        return `<pre class="mermaid">${str}</pre>`;
+      }
+      // For all other languages, use the default highlighter
+      return '';
+    }
+  }).use(markdownItAnchor, {
+    permalink: false, // Don't add permalink symbols
+    slugify: (s) => s.toLowerCase().replace(/[^\w]+/g, '-'), // Custom slugify function to match your existing IDs
+    level: [1, 2, 3, 4, 5, 6], // Which headings to add anchors to
+  });
+  
+  // Use custom markdown library
+  eleventyConfig.setLibrary("md", markdownLibrary);
 
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
@@ -104,10 +128,32 @@ module.exports = function (eleventyConfig) {
 
   // Let Eleventy transform HTML files as nunjucks
   // So that we can use .html instead of .njk
+  
+  // Add specific watch targets for better hot reloading
+  eleventyConfig.setWatchThrottleWaitTime(100); // Default is 300ms
+  
+  // Configure watch targets specifically to detect new markdown posts
+  eleventyConfig.addWatchTarget("./src/post/");
+  eleventyConfig.addWatchTarget("./src/blog/");
+  
+  // Explicitly define the post collection for better file watching
+  eleventyConfig.addCollection("post", function(collectionApi) {
+    return collectionApi.getFilteredByGlob("./src/post/*.md");
+  });
+  
   return {
     dir: {
       input: "src",
     },
     htmlTemplateEngine: "njk",
+    // Improve watch mode with better file detection
+    watchOptions: {
+      usePolling: true,
+      alwaysStat: true,
+      awaitWriteFinish: {
+        stabilityThreshold: 50,
+        pollInterval: 100
+      }
+    }
   };
 };

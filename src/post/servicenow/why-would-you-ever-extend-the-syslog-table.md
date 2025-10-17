@@ -1,0 +1,25 @@
+---
+title: Why would you ever extend the syslog table?
+permalink: /why-would-you-ever-extend-the-syslog-table/
+author: Jace Benson
+date: 2022-11-14T05:35:46.413Z
+draft: true
+stage: research
+prism: false
+---
+
+Table Guide: https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/legal/custom-table-guide.pdf
+
+Past Post on the Table guide: ?
+
+Post on extending syslog: https://www.servicenow.com/community/developer-forum/anyone-with-experience-extending-the-quot-syslog-quot-table/m-p/1969471
+
+Support KB item on the syslog table: https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0721331
+
+Support KB item on logging in scoped apps and their destinations (but not to extended tables): https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0714743
+
+Maik's Log Utility: https://www.servicenow.com/community/developer-articles/just-another-log-helper/ta-p/2315453
+
+
+
+John Anderson's decade old post on Custom Logging: http://www.john-james-andersen.com/blog/service-now/custom-logging-with-servicenow.html

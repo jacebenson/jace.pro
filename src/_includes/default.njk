@@ -74,5 +74,46 @@
     <!--<script async defer data-website-id="60e2812d-39d0-4e6b-980b-ca7b1f5d7b09" src="https://monitoring.jace.pro/minneapolis.js"></script>-->
     <script defer src="https://cloud.umami.is/script.js" data-website-id="3082b902-4834-4a97-b19b-d06a5294cefd"></script>
     <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/23428445.js"></script>
+    
+    <!-- MermaidJS Support -->
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mermaid@10.5.0/dist/mermaid.min.js"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        // Initialize MermaidJS with specific configuration
+        mermaid.initialize({
+          startOnLoad: false,  // We'll handle rendering manually
+          theme: 'default',
+          securityLevel: 'loose',
+          flowchart: { 
+            htmlLabels: true,
+            useMaxWidth: true 
+          }
+        });
+        
+        // Process all mermaid code blocks
+        document.querySelectorAll('pre code.language-mermaid').forEach(function(element) {
+          // Get the code content
+          const content = element.textContent;
+          
+          // Create a unique ID for the div
+          const id = 'mermaid-diagram-' + Math.random().toString(36).substring(2);
+          
+          // Create a div to replace the code block
+          const div = document.createElement('div');
+          div.className = 'mermaid';
+          div.id = id;
+          div.textContent = content;
+          
+          // Replace the code block with the div
+          const pre = element.parentElement;
+          if (pre && pre.parentElement) {
+            pre.parentElement.replaceChild(div, pre);
+          }
+        });
+        
+        // Render all mermaid diagrams
+        mermaid.run();
+      });
+    </script>
   </body>
 </html>
