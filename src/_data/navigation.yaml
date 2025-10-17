@@ -1,0 +1,21 @@
+items:
+  - text: JaceNow
+    id: JaceNow
+    url: /news
+    target: _blank
+    faIcon: youtube
+  - text: news.jace.pro
+    id: newsJacePro
+    url: https://news.jace.pro
+    target: _blank
+    faIcon: newspaper
+  - text: Resources
+    id: linkedIn
+    url: /resources
+    faIcon: gift
+    target: _blank
+  - text: Blog
+    id: blog
+    url: /blog
+    target: _self
+    faIcon: blog

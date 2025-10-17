@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Raleway&display=swap');
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  background-color: #f2f2f2;
+}
+
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+h1 {
+  text-align: right;
+  margin: 2vh 3vw 10vh 20vw;
+  background: rgb(11,35,238);
+  background: linear-gradient(to right, #3b82f6, #a855f7, rgb(59 130 246 / 100%));
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-family: 'Anton';
+  font-size: 14vh;
+  text-transform: uppercase;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+h2 {
+  color: white;
+  margin: 0;
+  font-family: 'Raleway';
+  font-size: 10vh;
+}
+
+footer {
+  flex: 0 0;
+  min-height: 20vh;
+  display: flex;
+  align-items: center;
+  background: rgb(11,35,238);
+  background: linear-gradient(to right, #a855f7, #3b82f6, rgb(59 130 246 / 100%));
+  padding: 2vh 3vw 2vh 3vw;
+}
+
+footer img {
+  width: auto;
+  height: 100%;
+  border-radius: 50%;
+  margin-right: 3vw;
+}

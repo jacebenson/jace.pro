@@ -1,0 +1,106 @@
+---
+layout: default
+path: planner
+---
+<style>
+@font-face {
+  font-family: "Pacifico";
+  src: url(/static/fonts/Pacifico-Regular.ttf) format("truetype");
+}
+
+</style>
+<!-- Vertical Grid going over Monday-Sunday -->
+<div class="grid place-content-center gap-4">
+  <div class="grid-item-content w">
+      <div class="flex gap-4">
+        <h3 
+        contenteditable="true"
+        class="
+          bg-red-500 
+          font-['Pacifico'] 
+          text-gray-700 
+          rounded-full 
+          flex 
+          items-center 
+          justify-center
+          w-4/12
+          whitespace-nowrap
+          ">Week of June 6th
+        </h3>
+        <div class="
+          px-5 
+          pb-5 
+          pt-4 
+          border-gray-600 
+          rounded-md
+          w-8/12">
+            <div class="">
+              <p 
+        contenteditable="true"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+{% for event in snevents.events %} 
+ <!--Each week is an object of days with day, afternoon, and evening-->
+    <div class="grid-item-content w">
+      <div class="flex gap-4">
+        <h3 class="
+          bg-red-500 
+          font-['Pacifico'] 
+          text-gray-700 
+          rounded-full 
+          flex 
+          items-center 
+          justify-center
+          w-4/12
+          whitespace-nowrap
+          ">{{ event.date | plannerDate}}
+        </h3>
+        <div class="
+          px-5 
+          pb-5 
+          pt-4 
+          border-b 
+          border-t 
+          border-r 
+          border-l 
+          border-gray-600 
+          rounded-md
+          w-8/12">
+            <div class="">
+              {% if event.day %}
+                {% for item in event.day %}
+                  <p contenteditable="true">🏙️{{ item }}</p>
+                {% endfor %}
+              {% endif %}
+              {% if event.afternoon %}
+                {% for item in event.afternoon %}
+                  <p contenteditable="true">🌇{{ item }}</p>
+                {% endfor %}
+              {% endif %}
+              {% if event.evening %}
+                {% for item in event.evening %}
+                  <p contenteditable="true">🌆{{ item }}</p>
+                {% endfor %}
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+{% endfor %}
+{% if snevents.eventsToAdd %}
+<ul>
+
+{% for eventsToAdd in snevents.eventsToAdd %}
+<!-- print out date, title, link -->
+<li>
+  <a href="{{ eventsToAdd.link }}">
+    {{ eventsToAdd.date}}
+    {{ eventsToAdd.title }}
+  </a>
+</li>
+{% endfor %}
+</ul>
+{% endif %}
+</div>

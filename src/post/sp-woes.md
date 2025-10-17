@@ -1,0 +1,59 @@
+---
+title: Service Portal Woes
+permalink: /post/2017-10-16-sp-woes/
+author: Jace Benson
+date: 2017-10-17T02:00:58.225Z
+draft: false
+prism: true
+---
+Two items I have to call out. First, this was inspired by [Ratesh Shah's post](https://community.servicenow.com/thread/282244). Second, you can read "Official" client script restrictions here on the [docs](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/build/service-portal/concept/unsupported_client_scripts.html).
+
+## Client Scripting issues
+
+The Service Portal has more restrictions on it then the classic UI. In the past, any DOM manipulation or access and use of window across scripts was frowned on. With the Service Portal ServiceNow has removed the ability to mess with the Document Object Model (DOM). If you want to use those you'll have to change your scripts below.
+
+### Unsupported client scripting globals
+
+The following globals and APIs are unavailable in client scripts in the Service Portal.
+
+| Thing      | Description of the thing                                                                                                         |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| `window`   | [This is a object used by all browsers](https://developer.mozilla.org/en-US/docs/Web/API/Window)                                 |
+| `document` | [This is a object used by all browsers](https://developer.mozilla.org/en-US/docs/Web/API/document)                               |
+| `$`        | [Prototypejs selector](http://api.prototypejs.org/dom/dollar/)                                                                   |
+| `$$`       | [Prototypejs css selector](http://api.prototypejs.org/dom/dollar-dollar/)                                                        |
+| `jQuery`   | [jQuery](http://api.jquery.com/)                                                                                                 |
+| `$j`       | Alias for [jQuery](http://api.jquery.com/)                                                                                       |
+| `angular`  | [Angular](https://docs.angularjs.org/api/)                                                                                       |
+| `jslog`    | [Docs](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/script/debugging/concept/c_WritingToTheDebugLog.html) |
+| `gel`      | Shortcut for `window.getElementByID()`                                                                                           |
+
+## Re-usable utility functions
+
+Macros and any [Jelly](https://jace.pro/jelly) are not supported on Service Portal. Two ways around this is Widget dependencies or the ScriptLoader utility.
+
+### Widget Dependencies
+
+In Service Portal, you can add [widget dependencies](https://docs.servicenow.com/bundle/jakarta-servicenow-platform/page/build/service-portal/task/widget-dependencies.html) for re-usable utility functions.
+
+### ScriptLoader
+
+Another way would be to add a [ScriptLoader](https://sn.jace.pro/docs/scripting/scriptloader/) to the client script.
+
+## UI Type for Catalog Client Scripts and Catalog UI Policies
+
+If you want a catalog client script to work on both service portal / mobile and regular platform, you must select UI Type = ALL or service portal / mobile. It may be tempting to update every client script's UI Type to All. for all catalog client scripts, but it may not be a good idea for performance reasons. Sometimes, there is a valid reason not to make the catalog client script available on portal due to functional reasons.
+
+If you want a catalog UI policy to work on both service portal / mobile and regular platform, you must select Run scripts in UI Type = All. Use All, Desktop or Service Portal / Mobile based on your ask as explained above. This field is not available on the form, you can change it from list view.
+
+You can use window object to detect if your catalog item is being used in Service Portal or CMS (Rest of platform).
+
+```javascript
+if (window) {
+    // you are in CMS
+} else {
+    // you are in Service Portal</em>
+}
+```
+
+<!--EndFragment-->

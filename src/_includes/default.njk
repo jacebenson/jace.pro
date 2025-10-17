@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="viewport"              content="width=device-width, initial-scale=1.0">
+    <meta name="generator"             content="11ty">
+    <meta name="author"                content="{{settings.author}}">
+    <meta name="description"           content="{{settings.description}}">
+    <link rel="icon"             type="image/png" href="{{settings.url}}{{settings.icon}}">
+    <link rel="apple-touch-icon" type="image/png" href="{{settings.url}}{{settings.icon}}">
+    <link rel="canonical"                         href="{{settings.url}}{{page.url}}">
+    {% set socialImage %}
+    {%- resoc
+          template = "default",
+          slug = (title or metadata.title) | slug,
+          values = {
+            title: title or metadata.title,
+            description: description or metadata.description
+          }
+    -%}
+    {% endset %}
+    {%- block seo -%}
+    <!--Twitter Card-->
+    <meta name="twitter:card"        content="summary">
+    <meta name="twitter:site"        content="@{{ settings.twitter }}">
+    <meta name="twitter:creator"     content="@{{ settings.twitter }}">
+    <meta name="twitter:url"         content="{{ settings.url }}{{ page.url }}">
+    <meta name="twitter:title"       content="{{ title }}">
+    <meta name="twitter:description" content="{{ settings.description }}">
+    
+    <!--Schema-->
+    <link rel="author"               href="{{ settings.url }}">
+    <link rel="publisher"            href="{{ settings.url }}">
+    <meta itemprop="name"            content="{{ title }}">
+    <meta itemprop="description"     content="{{ settings.description }}">
+    
+    <!-- Facebook OpenGraph -->
+    <meta property="fb:app_id"      content="{{ settings.FB_APP_ID }}">
+    <meta property="og:url"         content="{{ settings.url }}{{ page.url }}">
+    <meta property="og:type"        content="website">
+    <meta property="og:title"       content="{{ title }}">
+    <meta property="og:description" content="{{ settings.description }}">
+    <meta property="og:site_name"   content="{{ settings.name }}">
+    <meta property="og:locale"      content="en_US">
+    <meta name="og:image" content="{{ socialImage }}"/>
+    <meta property="article:author" content="{{ settings.url }}">
+    {%- endblock -%}
+    <title>
+      {{title}}
+    </title>
+
+    {% block head %}{% endblock %}
+    <link rel="stylesheet" type="text/css" href="/static/css/style.css"/>
+    {% if prism == true %}
+      <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
+    {% endif %}
+  </head>
+  <body>
+    {% include "./partials/navbar.html" %}
+    {%- block content -%}
+  
+    {{ content | safe }}
+{%- endblock -%}
+    {% include "./partials/footer.html" %}
+
+    <script defer src="/static/js/alpine.js"></script>
+
+    {% if path == "home" %}
+      <!-- Netlify Identity Widget -->
+      <!-- Needed only if you are using Netlify Identity feature -->
+      
+    {% endif %}
+    <!--<script async defer data-website-id="60e2812d-39d0-4e6b-980b-ca7b1f5d7b09" src="https://monitoring.jace.pro/minneapolis.js"></script>-->
+    <script defer src="https://cloud.umami.is/script.js" data-website-id="3082b902-4834-4a97-b19b-d06a5294cefd"></script>
+    <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/23428445.js"></script>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+_site/
+_tmp/
+.DS_Store
+node_modules/
+.vscode/
+*git/
+package-lock.json
+.env
+
+# Local Netlify folder
+.netlify
+
+# Resoc image data mapping file
+resoc-image-data.json

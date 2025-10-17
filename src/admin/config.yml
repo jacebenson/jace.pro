@@ -1,0 +1,133 @@
+backend:
+  # Use netlify identity as backend
+  name: git-gateway
+  branch: master
+  ### enable below lines for github integration ###
+  # name: github
+  # repo: surjithctly/neat-starter
+media_folder: "src/static/img"
+public_folder: "/static/img"
+
+# Please run "npx netlify-cms-proxy-server" for local backend
+local_backend: true
+# publish_mode: editorial_workflow
+collections:
+  - name: "post"
+    label: "Posts"
+    label_singular: 'Post'
+    folder: "src/post"
+    create: true
+    summary: "{{stage}} Date: {{year}}-{{month}}-{{day}} - {{title}}"
+    view_groups:
+      - label: Year
+        field: date
+        # groups items based on the value matched by the pattern
+        pattern: \d{4}
+      - label: Stage
+        field: stage
+        #pattern: research
+    view_filters:
+      - label: Drafts
+        field: draft
+        pattern: true
+      - label: "Stage: Research"
+        field: stage
+        pattern: research
+      - label: "Stage: Drafting"
+        field: stage
+        pattern: drafting
+      - label: "Stage: Editing"
+        field: stage
+        pattern: editing
+      - label: "Stage: Published"
+        field: stage
+        pattern: published
+    editor:
+      preview: false
+    fields:
+      - { label: "Title",                name: "title",        widget: "string", default: "Enter a short description summarizing why this is important"}
+      - { label: "Permalink",            name: "permalink",    widget: "string", required: false }
+      - { label: "Description",          name: "description",  widget: "string", required: false }
+      - { label: "Author",               name: "author",       widget: "string", default: "Jace Benson"}
+      - { label: "Image",                name: "image",        widget: "file", required: false }
+      - { label: "Image Alt Text",       name: "imageAltText", widget: "string", required: false }
+      - { label: "Date",                 name: "date",         widget: "datetime" }
+      - { label: "Draft",                name: "draft",        widget: "boolean", default: true, required: false}
+      - { label: "Stage",                name: "stage",        widget: "select", default: "research", required: false, options: [{ label: "Research", value: "research"}, {label: "Drafting", value: "drafting"}, { label: "Editing", value: "editing" }, { label: "Published", value: "published" }]}
+      - { label: "Include Code Styling", name: "prism",        widget: "boolean", default: false, required: false}      
+      - { label: "Body",                 name: "body",         widget: "markdown", required: false, default: "This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It’s like a stuck record. The ear demands some variety. 
+      
+
+      Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. 
+
+
+      And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important. — Gary Provost" }
+  - label: "Settings"
+    name: "settings"
+    editor:
+      preview: true
+    files:
+      - label: "Navigation"
+        name: "items"
+        file: "src/_data/navigation.yaml"
+        fields:
+          - label: Nav Items
+            name: items
+            widget: list
+            allow_add: false
+            collapsed: false
+            fields:
+              - { label: Title, name: text, widget: string }
+              - { label: FontAwesome Icon, name: faIcon, widget: string }
+              - { label: URL,   name: url,  widget: string }
+      - label: "Quick Links"
+        name: "links"
+        file: "src/_data/quicklinks.yaml"
+        fields:
+          - label: Nav Items
+            name: links
+            widget: list
+            collapsed: false
+            fields:
+              - { label: Title,       name: title, widget: string }
+              - { label: URL,         name: url,   widget: string }
+              - { label: Description, name: desc,  widget: string }
+      - label: "Meta Settings"
+        name: "settings"
+        file: "src/_data/settings.yaml"
+        fields:
+          - { label: Name,             name: name,           widget: string }
+          - { label: Author,           name: author,         widget: string }
+          - { label: URL,              name: url,            widget: string }
+          - { label: Repo URL,         name: repo_url,       widget: string }
+          - { label: Description,      name: description,    widget: string }
+          - { label: Twitter handle,   name: twitter,        widget: string }
+          - { label: Icon,             name: icon,           widget: file}
+          - { label: Brand Text Color, name: BrandColorText, widget: string}
+          - { label: Black Text Color, name: BlackColorText, widget: string}
+      - label: "Readme"
+        name: "README.md"
+        file: "README.md"
+        fields:
+          - { label: "Body",          name: "body",     widget: "markdown" }
+  - label: "Pages and Partials"
+    editor:
+      preview: false
+    name: "pages"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "src/_includes/partials/content.html"
+        fields:
+          - { label: Body, name: body, widget: "markdown", modes: ["raw"] }
+      - label: "Navbar"
+        name: "navbar"
+        file: "src/_includes/partials/navbar.html"
+        fields:
+          - { label: Body, name: body, widget: "markdown", modes: ["raw"]}
+      - label: "Footer"
+        name: "footer"
+        file: "src/_includes/partials/footer.html"
+        fields:
+          - { label: Body, name: body, widget: "markdown", modes: ["raw"] }
+  

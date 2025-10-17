@@ -1,0 +1,11 @@
+repo_url: https://github.com/jacebenson/jace-pro-neat
+authorUrl: https://linkedin.com/in/jacebenson
+name: jace.pro
+author: Jace Benson
+url: https://jace.pro/
+description: A site for my notes on ServiceNow
+twitter: jacebenson
+icon: /static/img/jace-pro-apple-touch-icon.png
+BrandColorText: text-emerald-700
+BlackColorText: text-stone-800
+email: jace@benson.run

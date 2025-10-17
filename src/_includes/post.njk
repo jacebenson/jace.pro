@@ -1,0 +1,115 @@
+---
+permalink: "/post/{{ page.date | date: '%Y-%m-%d' }}-{{title|slugify}}/index.html"
+---
+{% extends "default.njk" %}
+<!-- 
+  {% set socialImage %}
+    {%- resoc
+          template = "default",
+          slug = (title or metadata.title) | slug,
+          values = {
+            title: title or metadata.title,
+            description: description or metadata.description
+          }
+    -%}
+  {% endset %}
+  -->
+{%- block seo -%}
+<!--Twitter Card-->
+<meta name="twitter:card" content="summary_large_image">
+{% if settings.twitter %}
+<meta name="twitter:site" content="@{{settings.twitter}}">
+<meta name="twitter:creator" content="@{{settings.twitter}}">
+{% endif %}
+<meta name="twitter:url" content="{{settings.url}}{{page.url}}">
+<meta name="twitter:title" content="{{title}}">
+{% if summary %}
+<meta name="twitter:description" content="{{summary | striptags | truncate(196) }}">
+{% else %}
+<meta name="twitter:description" content="{{content | striptags | truncate(196) }}">
+{% endif %}
+<!--<meta name="twitter:image" content="{{settings.url}}{{ socialImage }}">-->
+
+{% if image %}
+<meta name="twitter:image" content="{{settings.url}}{{image}}">
+{% endif %}
+{% if imageAltText %}
+<meta name="twitter:image:alt" content="{{ imageAltText }}">
+{% endif %}
+
+
+<!--Schema-->
+<!--<link rel="author" href="{{site.baseURL}}">-->
+<!--<link rel="publisher" href="{{site.baseURL}}">-->
+<meta itemprop="name" content="{{title}}">
+
+<meta itemprop="description" content="{{content | striptags | truncate(196) }}">
+<!--{% if image %}
+<meta itemprop="image" content="{{settings.url}}{{image}}">
+{% endif %}-->
+<!-- Facebook OpenGraph -->
+<!--<meta property="fb:app_id" content="{{site.FB_APP_ID}}">-->
+<meta property="og:url" content="{{settings.url}}{{page.url}}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{title}}">
+{% if image %}
+<meta property="og:image" content="{{settings.url}}{{image}}">
+{% endif %}
+    <!--<meta name="image" property="og:image" content="{{settings.url}}{{ socialImage }}"/>-->
+{% if summary %}
+<meta property="og:description" content="{{summary | striptags | truncate(196) }}">{% else %}
+<meta property="og:description" content="{{content | striptags | truncate(196) }}">
+{% endif %}
+<meta property="og:site_name" content="{{settings.name}}">
+<meta property="og:locale" content="en_US">
+<meta property="article:author" content="{{author}}">
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{settings.url}}{{page.url}}"
+      },
+      "headline": "{{title}}",
+      "image": [
+        "{{settings.url}}{{ image }}"
+      ],
+      "datePublished": "{{date}}",
+      "dateModified": "{{date}}",
+      "author": {
+        "@type": "Person",
+        "name": "{{author}}",
+        "url": "{{authorUrl}}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{settings.name}}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{settings.url}}{{settings.icon}}"
+        }
+      }
+    }
+</script>
+{%- endblock -%}
+{%- block content -%}
+<div class="container max-w-4xl mt-6  px-6">
+    <div class="pb-5 mb-5 border-b border-gray-100">
+        <h1 class="font-bold text-5xl {{settings.BlackColorText}}">{{title}}</h1>
+        {% if image %}
+        <div class="flex items-center">
+                <img src="{{settings.url}}{{image}}" alt="{{imageAltText}}">
+        </div>    
+        {% endif %}
+        <p class="text-center text-base leading-6 font-medium text-gray-500">
+            <time> {{ date | readableDate }} by {{ author }} </time>
+        </p>
+    </div>
+    <article class="prose lg:prose-xl my-4 mx-auto">
+        {{ content | safe }}
+    </article>
+    
+    {% include "./partials/comments.html" %}
+</div>
+{%- endblock -%}

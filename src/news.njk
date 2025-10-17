@@ -1,0 +1,23 @@
+---
+layout: default
+path: news
+---
+{% block head %}
+    <meta http-equiv="refresh" content="4; url='https://www.youtube.com/c/JaceNow/videos'" />
+{% endblock %}
+<h1 class="{{settings.BlackColorText}}">
+    Redirecting to <strong class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-green-500">
+        YouTube</strong>
+         in <span id="timeLeft">4</span> seconds...
+    </strong>
+</h1>
+<script>
+    var timeleft = 10;
+var redirectTimer = setInterval(function(){
+  if(timeleft <= 0){
+    clearInterval(redirectTimer);
+  }
+  document.getElementById("timeLeft").innerHTML = timeleft;
+  timeleft -= 1;
+}, 1000);
+</script>

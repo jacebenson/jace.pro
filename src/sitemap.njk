@@ -1,0 +1,17 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+eleventyComputed:
+  metadata:
+    title: "{{settings.name}}"
+    subtitle: "{{settings.description}}"
+    url: "{{settings.url}}"
+---
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{% for page in collections.all %}{% set draft = page.data.draft %}{% if draft != true %}{% set absolutePostUrl %}{{ page.url | url | absoluteUrl(metadata.url) }}{% endset %}
+    <url>
+        <loc>{{ site.url}}{{ absolutePostUrl }}</loc>
+        <lastmod>{{ page.date.toISOString() }}</lastmod>
+        <changefreq>{{ page.data.changeFreq if page.data.changeFreq else "monthly" }}</changefreq>
+    </url>{% endif %}{% endfor %}
+</urlset>

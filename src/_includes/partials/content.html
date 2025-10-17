@@ -1,0 +1,34 @@
+<script>  
+    window.addEventListener('load', function () {
+        // loop over links by id and create varaibles for each link
+        {% if quicklinks.links %}
+        {% for item in quicklinks.links %}
+        const ql{{item.id}} = document.getElementById('ql{{item.id}}');
+        ql{{item.id}}.onclick = () => umami.trackEvent('{{item.id}}', 'home-cta');
+        {% endfor %}
+        {% endif %}
+  })
+</script>
+<h1 class="{{settings.BlackColorText}}">
+    Welcome to
+    <strong class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-green-500">
+        {{settings.name}}
+    </strong>
+</h1>
+<div class="w-full max-w-2xl grid grid-cols-1 lg:grid-cols-2 gap-4 my-8 px-4 lg:mx-0">
+
+    {% if quicklinks.links %}
+
+    {% for item in quicklinks.links %}
+    <a href="{{item.url}}" 
+       class="p-5 border rounded border-gray-200 hover:border-green-400 {{settings.BlackColorText}}"
+       id="ql{{item.id}}"
+       >
+        <h2 class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-green-500">{{item.title}}→</h2>
+        <p>{{item.desc}}</p>
+    </a>
+    {% endfor %}
+
+    {% endif %}
+
+</div>

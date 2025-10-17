@@ -1,0 +1,35 @@
+---
+layout: blog
+---
+
+<section class="mt-15">
+    {% set postslist = collections.post %}
+
+    {% for post in postslist | reverse %}
+        {% set draft = post.data.draft %}
+        {% if draft != true %}
+        <article class="my-8">
+            <h2 class="font-bold text-3xl {{settings.BlackColorText}} mb-2">
+                <a href="{{ post.url | url }}">
+                    {% if post.data.title %}
+                        {{ post.data.title }}
+                    {% else %}
+                        Untitled
+                    {% endif %}
+                </a>
+            </h2>
+            <p class="text-base leading-6 text-gray-500 mb-3">
+                <time> {{ post.date | readableDate }} by {{ post.data.author }} </time>
+            </p>
+            {% if post.data.description %}
+                <p class="text-lg text-gray-500 mb-3"> {{ post.data.description }} </p>
+            {% endif %}
+            <p>
+                <a href="{{ post.url | url }}" class="{{ settings.BrandColorText }} font-bold text-lg">
+                    Read more →
+                </a>
+            </p>
+        </article>
+        {% endif %}
+    {% endfor %}
+</section>

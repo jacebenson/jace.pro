@@ -1,0 +1,35 @@
+---
+layout: default
+path: 404
+---
+<div class="container mx-auto lg:h-screen flex flex-col justify-center items-center">
+  <h1 class="{{settings.BlackColorText}}">
+      Oops, page not found.
+  </h1>
+  <p class="{{settings.BlackColorText}}">
+      If this used to work and you still can't find it, reach out.
+  </p>
+  <script>  
+    window.addEventListener('load', function () {
+      umami('Page not found');
+      const twitterLink = document.getElementById('twitter-link');
+      const linkedInLink = document.getElementById('linkedin-link');
+      twitterLink.onclick = () => umami('404 CTA Twitter');
+      linkedInLink.onclick = () => umami('404 CTA LinkedIn');
+  })
+  </script>
+  <div class="w-full max-w-2xl grid grid-cols-1 lg:grid-cols-2 gap-4 my-8 px-4 lg:mx-0">
+    <a href="https://twitter.com/messages/compose?recipient_id=14321037&text=Hey%20Jace%2C%20I%20got%20a%20404%20on%20this%20page%2C%20do%20you%20know%20where%20it%20is%3F"
+      data-screen-name="@jacebenson"
+      class="p-5 border rounded border-gray-200 hover:border-green-400 {{settings.BlackColorText}}"
+      id="twitter-link">
+      <h3 class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-green-500">Twitter→</h3>
+        <p>Tell me on Twitter</p>
+      </a>
+      <a href="https://linkedin.com/in/jacebenson" class="p-5 border rounded border-gray-200 hover:border-green-400 {{settings.BlackColorText}}"
+      id="linkedin-link">
+        <h3 class="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-green-500">LinkedIn→</h3>
+        <p>Tell me on LinkedIn</p>
+    </a>
+  </div>
+</div>

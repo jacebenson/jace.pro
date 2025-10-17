@@ -1,0 +1,43 @@
+---
+permalink: "feed"
+eleventyExcludeFromCollections: true
+eleventyAllowMissingExtension: true
+eleventyComputed:
+  metadata:
+    title: "{{settings.name}}"
+    subtitle: "{{settings.description}}"
+    url: "{{settings.url}}"
+    feedUrl: "{{settings.url}}feed"
+    author:
+      name: "{{settings.author}}"
+      email: "{{settings.email}}"
+      url: "{{settings.authorUrl}}"
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ metadata.title }}</title>
+    <link>{{ metadata.url }}</link>
+    <description>{{ metadata.subtitle }}</description>
+    <lastBuildDate>{{ collections.post | RFC822Date }}</lastBuildDate>
+    <pubDate>{{ collections.post | RFC822Date }}</pubDate>
+    <generator>Eleventy</generator>
+    <managingEditor>{{ metadata.author.email }} ({{ metadata.author.name }})</managingEditor>
+    <webMaster>{{ metadata.author.email }} ({{ metadata.author.name }})</webMaster>
+    <atom:link href="{{ metadata.feedUrl }}" rel="self" type="application/rss+xml" />
+    {%- for post in collections.post | reverse %}
+    {% set draft = post.data.draft %}
+    {% if draft != true %}
+    {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+    <item>
+      <title>{{ post.data.title }}</title>
+      <link>{{ absolutePostUrl }}</link>
+      <guid>{{ absolutePostUrl }}</guid>
+      <pubDate>{{ post.date | RFC822Date }}</pubDate>
+      <author>{{ metadata.author.email }} ({{ metadata.author.name }})</author>
+      <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
+    </item>
+    {% endif %}
+    {%- endfor %}
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+---
+permalink: "index.xml"
+eleventyExcludeFromCollections: true
+eleventyComputed:
+  metadata:
+    title: "{{settings.name}}"
+    subtitle: "{{settings.description}}"
+    url: "{{settings.url}}"
+    feedUrl: "{{settings.url}}/index.xml"
+    author:
+      name: "{{settings.author}}"
+      email: "{{settings.email}}"
+      url: "{{settings.authorUrl}}"
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ metadata.title }}</title>
+  <subtitle>{{ metadata.subtitle }}</subtitle>
+  <link href="{{ metadata.feedUrl }}" rel="self"/>
+  <link href="{{ metadata.url }}"/>
+  <updated>{{ collections.post | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
+  <id>{{ metadata.url }}</id>
+  <author>
+    <name>{{ metadata.author.name }}</name>
+    <email>{{ metadata.author.email }}</email>
+  </author>
+  {%- for post in collections.post | reverse %}
+  {% set draft = post.data.draft %}
+  {% if draft != true %}
+  {% set absolutePostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
+  <entry>
+    <title>{{ post.data.title }}</title>
+    <link href="{{ absolutePostUrl }}"/>
+    <updated>{{ post.date | dateToRfc3339 }}</updated>
+    <id>{{ absolutePostUrl }}</id>
+    <author>
+        <name>{{ post.data.author }}</name>
+    </author>
+    <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+  </entry>
+  {% endif %}
+  {%- endfor %}
+</feed>

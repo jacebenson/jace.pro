@@ -1,0 +1,20 @@
+links:
+  - title: JaceNow
+    url: /news
+    desc: Weekly news on YouTube
+    id: JaceNow
+  - title: News Aggregator
+    url: https://news.jace.pro
+    desc: All the ServiceNow news
+    id: newsJacePro
+  - title: Discord
+    url: https://discord.com/invite/y43VtUX
+    desc: The ServiceNow Discord
+    id: discord
+  - title: My Blog
+    url: /blog
+    desc: Here's where my 200+ posts are
+    id: blog
+  - title: Resources
+    url: /resources
+    desc: ServiceNow Resources I use

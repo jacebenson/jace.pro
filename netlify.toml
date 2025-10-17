@@ -1,0 +1,17 @@
+[build]
+publish = "_site"
+command = "npm run build"
+targetPort=8081
+
+[[plugins]]
+package = "@resoc/netlify-plugin-social-image"
+
+  [plugins.inputs]
+  templates_dir = "resoc-templates"
+  open_graph_base_path = "/social-images"
+  slug_to_image_data_mapping_file = "resoc-image-data.json"
+
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404 

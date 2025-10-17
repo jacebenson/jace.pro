@@ -1,0 +1,10 @@
+---
+layout: default
+path: home
+eleventyComputed:
+  title: "{{settings.name}}"
+---
+
+<div class="container mx-auto lg:h-screen flex flex-col justify-center items-center">
+  {% include "./_includes/partials/content.html" %}
+</div>
