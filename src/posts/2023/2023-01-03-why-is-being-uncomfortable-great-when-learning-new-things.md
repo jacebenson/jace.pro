@@ -18,7 +18,7 @@ redirectFrom:
 
 Are you ready to learn a new skill and get out of your comfort zone? We all need to challenge ourselves and push our boundaries to grow, but it can be intimidating to take the plunge. That's why I'm here to encourage and motivate you to explore the unknown and discover the power of resilience and perseverance.
 
-![A bike chain forming the number six next to the word "Reasons!".  Credit padrinan on pixabay](/assets/images/reasons-.png "A bike chain forming the number six next to the word \"Reasons!\".  Credit padrinan on pixabay")
+![A bike chain forming the number six next to the word Reasons. Credit padrinan on pixabay](/assets/images/reasons-.png "A bike chain forming the number six next to the word Reasons. Credit padrinan on pixabay")
 
 Here's 6 Reasons You Should Step Out of Your Comfort Zone:
 
@@ -29,7 +29,7 @@ Here's 6 Reasons You Should Step Out of Your Comfort Zone:
 5. You'll become more open to new ideas.
 6. You'll become more confident and motivated.
 
-![The number 7 next to the word "Ways".  7 has a mountain and tree in it.](/assets/images/ways.png "The number 7 next to the word \"Ways\"")
+![The number 7 next to the word Ways. 7 has a mountain and tree in it.](/assets/images/ways.png "The number 7 next to the word Ways")
 
 Ready to take the leap? Here's 7 Ways to Get Out of Your Comfort Zone:
 

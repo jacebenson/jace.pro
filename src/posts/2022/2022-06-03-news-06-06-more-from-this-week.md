@@ -44,7 +44,7 @@ Links on my blog here: https://jace.pro/post/2022-06-03-save-money-on-servicenow
 
   * [![](/assets/images/rfedoruk-sn-toolbox-ui-actions.jpg)](https://www.youtube.com/watch?v=ztews1Vltoo)
   * [![](/assets/images/rfedoruk-sn-toolbox-stylish-emails.jpg)](https://www.youtube.com/watch?v=PpWMFORUsv0)
-  * [![Titans of now themed photo with Etta Wilson on it.](/assets/images/titans-of-now-etta-wilson.jpg 'Titans of now with Etta "Happy Path" Wilson')](https://www.youtube.com/watch?v=s5LKO45r1eQ)
+  * [![Titans of now themed photo with Etta Wilson on it.](/assets/images/titans-of-now-etta-wilson.jpg 'Titans of now with Etta Happy Path Wilson')](https://www.youtube.com/watch?v=s5LKO45r1eQ)
 * Kevin and Matt talk about good service come from on Ticket Volume podcast
   [![](/assets/images/kevin-matt-podcast.jpg)](https://www.youtube.com/watch?v=Rc-vx4S5Arg)
 * Jeff pierce has been convincing clients to make intranets with Sevicenow for a decade[](https://www.linkedin.com/posts/portalguru_the-next-generation-intranet-with-servicenow-activity-6938522673454956545-OxuH?utm_source=linkedin_share&utm_medium=ios_app).  ServiceNow shared a video on Vimeo how Next Experience can make this great.
