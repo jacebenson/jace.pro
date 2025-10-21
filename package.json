@@ -22,7 +22,7 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "https://github.com/madrilene/eleventy-excellent.git"
+    "url": "https://github.com/jacebenson/jace.pro.git"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",

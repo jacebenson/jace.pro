@@ -1,0 +1,24 @@
+---
+permalink: /search.json
+eleventyExcludeFromCollections: true
+---
+{
+  "posts": [
+    {%- for post in collections.allPosts -%}
+    {
+      "title": {{ (post.data.title or '') | dump | safe }},
+      "url": "{{ post.url }}",
+      "date": "{{ post.date | formatDate('YYYY-MM-DD') }}",
+      "description": {{ (post.data.description or post.data.summary or '') | dump | safe }},
+      "tags": [
+        {%- for tag in post.data.tags -%}
+          {%- if tag != 'posts' -%}
+          {{ tag | dump | safe }}{% if not loop.last %},{% endif %}
+          {%- endif -%}
+        {%- endfor -%}
+      ],
+      "content": {{ (post.templateContent | striptags | replace('\n', ' ') | replace('\r', ' ') | replace('\t', ' ') | truncate(300)) | dump | safe }}
+    }{% if not loop.last %},{% endif %}
+    {%- endfor -%}
+  ]
+}

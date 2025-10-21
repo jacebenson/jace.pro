@@ -1,0 +1,98 @@
+---
+title: 'Quick Guide: New York'
+description: "Here's my take of whats new with New York\r\n\r\nDeprecated things\r\n\r\n Processors-Listed under changes\r\n\r\n   Note: This feature is deprecated. While legacy, cust..."
+date: '2019-07-26'
+tags:
+  - servicenow
+  - service-portal
+  - update-sets
+  - api
+  - service-catalog
+  - javascript
+  - html
+  - json
+  - release-new-york
+  - tutorial
+  - integration
+redirectFrom:
+  - /quick-guide-new-york/
+---
+
+<!--StartFragment-->
+
+Here's my take of whats new with New York
+
+Deprecated things
+
+* [Processors-Listed under changes](https://docs.servicenow.com/bundle/newyork-application-development/page/script/processors/concept/c_Processors.html)
+
+  * Note: This feature is deprecated. While legacy, custom processors will continue to be supported, creating new custom processors has been deprecated. Instead, please use the Scripted REST APIs. The following information is left in the documentation for existing processors only.
+  * **You can still create them, so it's just a recommendation**
+* [Mid server property mid.download.through.instance](https://jace.pro/properties/mid.download.through.instance/)
+
+  * In previous releases, this property was set to true to force all MID Servers to upgrade through the instance and was configurable by customers. In the New York release, auto-upgrades are performed by the MID Server host computer and not by the instance. To implement this behavior, the default value of this property was changed to **false**, and the property was concealed to protect the setting. DO NOT change the value of this property.
+
+[Updated things](https://docs.servicenow.com/bundle/newyork-release-notes/page/release-notes/summary/rn-summary-changes.html)
+
+* [Multi-row variable set](https://docs.servicenow.com/bundle/newyork-it-service-management/page/product/service-catalog-management/concept/c_ServiceCatalogVariableSets.html)
+
+  * When you clone a request that contains a multi-row variable set, the information that is specified in the multi-row variable set is available in all cloned requests.
+  * A multi-row variable set is now visible in the variable summarizer in Service Portal.
+  * Set a limit to the number of rows that you can add to a multi-row variable set by using the \`max_rows\` attribute in the Variable Set attributes field.
+
+[New things](https://docs.servicenow.com/bundle/newyork-release-notes/page/release-notes/summary/rn-summary-new-features.html)
+
+* Remote Tables
+
+  * [Retrieve external data using remote tables and scripts](https://docs.servicenow.com/bundle/newyork-servicenow-platform/page/administer/remote-tables/concept/remote-tables.html)\
+
+    * retrieve the data from external sources or from another instance with REST or SOAP services. The external data lives in the memory in read-only mode, which makes the data temporary, or transient, within the Now Platform. You can then view and manipulate the external data without importing or storing it.
+    * Plugin: "Remote Tables" or `com.glide.script.vtable`
+    * Recommended limit is 1000 records
+    * example use cases;
+    * weather-related data that appears on a homepage when a user logs in.
+    * customer details that are stored in an external Customer Relationship Management
+    * personnel data from Human Capital Management
+    * Example working script;
+
+```javascript
+    (function executeQuery(v_table, v_query) {
+    try {
+    // <https://randomuser.me/api/>\
+    var requestBody = {};
+    var restMessage = new sn_ws.RESTMessageV2();
+    restMessage.setHttpMethod("get");
+    restMessage.setEndpoint("<https://randomuser.me/api/?results=1000&seed=foobar>");\
+    restMessage.setRequestBody(JSON.stringify(requestBody));
+    var response = restMessage.execute();
+    var error = response.haveError();
+    if (error) {
+      var errorCode = response.getErrorCode();
+      var errorMsg = response.getErrorMessage();
+      gs.info(errorCode);
+      gs.info(errorMsg);
+    } else {
+      var headerVal = response.getHeader("Content-Type");
+      var headers = response.getHeaders();
+      var queryString = response.getQueryString();
+      var statusCode = response.getStatusCode();
+      var responseBody = response.getBody();
+      var responseObj = JSON.parse(responseBody);
+      var responseObjLen = responseObj.results.length;
+    }
+    })()
+```
+
+* System Clone
+
+  * [Automatic, repeated cloning](https://docs.servicenow.com/bundle/newyork-platform-administration/page/administer/managing-data/task/schedule-cloning.html) - Clone instances automatically on a recurring basis.
+* Delegated development and deployment
+
+  * [Manage Update sets](https://docs.servicenow.com/bundle/newyork-application-development/page/build/applications/task/t_AddADeveloper.html) - Grant non-admin users permission to manage local and retrieved update sets. Allow users to create, update, and delete local update sets as well as preview, resolve conflicts, and commit retrieved update sets.
+
+Further Reading:
+
+* [Pradeep's blog post](https://community.servicenow.com/community?id=community_blog&sys_id=abfe2818db667b401cd8a345ca9619a1)
+* [Dave Slusher's post](https://developer.servicenow.com/blog.do?p=/post/newyork-pdi/)
+
+<!--EndFragment-->

@@ -7,6 +7,18 @@
 
       <span class="font-display">{{ meta.siteName }}</span>
     </a>
-    {% include "partials/main-nav.njk" %}
+    
+    <div class="header-right | cluster">
+      {% include "partials/search.njk" %}
+      {% include "partials/main-nav.njk" %}
+    </div>
   </div>
 </header>
+
+{% css "local" %}
+  {% include "css/search.css" %}
+{% endcss %}
+
+{% js "defer" %}
+  {% include "scripts/search.js" %}
+{% endjs %}
