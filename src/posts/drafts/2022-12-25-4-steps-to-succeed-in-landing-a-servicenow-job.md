@@ -10,6 +10,7 @@ tags:
   - knowledge
   - knowledge-conference
   - career
+  - draft
 redirectFrom:
   - /4-steps-to-succeed-in-landing-a-servicenow-job/
 ---

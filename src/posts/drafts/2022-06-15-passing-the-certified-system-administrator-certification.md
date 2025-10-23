@@ -9,6 +9,7 @@ tags:
   - servicenow
   - best-practices
   - career
+  - draft
 redirectFrom:
   - /passing-the-certified-system-administrator-certification/
 ---

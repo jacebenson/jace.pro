@@ -7,6 +7,7 @@ description: >-
 date: '2022-06-30'
 tags:
   - service-portal
+  - draft
 redirectFrom:
   - /millingas-service-portal-redirector/
 ---

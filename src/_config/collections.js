@@ -1,6 +1,14 @@
 /** All blog posts as a collection. */
 export const getAllPosts = collection => {
-  return collection.getFilteredByGlob('./src/posts/**/*.md').reverse();
+  // lets exclude drafts from the allPosts collection
+  // unless ELEVENTY_ENV is set to 'development'
+  if (process.env.ELEVENTY_ENV === 'development') {
+    return collection.getFilteredByGlob('./src/posts/**/*.md').reverse();
+  }
+  // in production build, exclude drafts
+  if (process.env.ELEVENTY_ENV !== 'development') {
+    return collection.getFilteredByGlob(['./src/posts/**/*.md', '!./src/posts/drafts/**/*.md']).reverse();
+  }
 };
 
 /** All relevant pages as a collection for sitemap.xml */
