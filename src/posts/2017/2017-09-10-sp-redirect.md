@@ -9,6 +9,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /sp-redirect/
+  - /post/2017-09-10-sp-redirect/
 ---
 
 <!--StartFragment-->
