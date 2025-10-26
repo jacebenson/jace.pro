@@ -1,5 +1,5 @@
 ---
-title: Knowledge 19's Hackthon, a personal look
+title: Knowledge 19 Hackathon, a personal look
 description: >-
   In my last post I said, "The hackathon is a great place to learn a new feature
   but it's not a hackathon. They expect you to have the app prebuilt before you

@@ -1,13 +1,7 @@
 ---
 title: 'Understanding AI and ML: From ServiceNow to OpenAI'
 description: >-
-  Let me take you on my journey to understanding Artificial Intelligence (AI)
-  and Machine Learning (ML). From my first introduction to ServiceNow's
-  offering, to understanding the concept of assigning weights to recognize
-  images, to learning about OpenAI's offerings, I document my steps in
-  understanding AI and ML. I then document my journey to developing an
-  AI-powered Chrome extension, Scribe.Monster. Stay for the end where I share my
-  thoughts on what's next.
+    How I came to understand AI and ML through my experiences with ServiceNow, OpenAI, and other platforms.
 date: '2022-12-23'
 tags:
   - servicenow

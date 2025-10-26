@@ -1,6 +1,8 @@
 ---
-title: You want a blog? Here's how to get started
-description: "1. Why Blog\r\n2. Getting started\r\n\r\n    The logical workflow\r\n    Actually making the content\r\n3. Let me know if you set one up I'd love to follow along\r\n\r\nHe..."
+title: How to get started with a blog on 11ty
+description: >-
+  If you're looking to start a blog to document your journey, share your knowledge,
+  or just have a place to write, this guide will help you get started with 11ty.
 date: '2020-12-05'
 tags:
   - workflow
@@ -8,6 +10,7 @@ tags:
   - tutorial
 redirectFrom:
   - /you-want-a-blog-heres-how-to-get-started/
+  - /how-to-get-started-with-a-blog-on-11ty/
 ---
 
 <!--StartFragment-->

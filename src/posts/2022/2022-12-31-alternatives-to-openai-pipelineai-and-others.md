@@ -1,9 +1,8 @@
 ---
 title: Alternatives to OpenAI, AI21, CoHere, Azure, AWS Sagemaker, Google Colab,
 description: >-
-  I'm trying to understand the pricing to all of this AI / ML tech. This is a
-  work in progress so far I'm categorizing the different solutions as Hosted,
-  Other, or Compute.
+  A breakdown of alternatives to OpenAI including AI21, CoHere, Azure, AWS
+  Sagemaker, Google Colab, PipelineAI, and others with pricing details for each.
 date: '2022-12-31'
 tags:
   - api

@@ -3,14 +3,12 @@ title: Definitive Guide to URL Parameters in ServiceNow
 description: >-
     A comprehensive guide to using URL parameters in ServiceNow to customize user
     experience, control navigation, and enhance functionality.
-date: '2025-10-22'
+date: '2025-10-01'
 tags:
     - servicenow
     - url-parameters
     - navigation
     - tips-and-tricks
-redirectFrom:
-    - /definitive-guide-to-url-parameters-in-servicenow/
 ---
 
 ## Stop redirections

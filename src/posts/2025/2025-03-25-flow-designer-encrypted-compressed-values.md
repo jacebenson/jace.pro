@@ -1,6 +1,8 @@
 ---
-title: Reading flow's encrypted and compressed values
-description: "The other day, I was on the community slack, and a question popped up about reading the values for flows (flow designer, subflows, etc).\r\n\r\nI was under the i..."
+title: Reading flows encrypted and compressed values
+description: >-
+  A quick guide on how to read encrypted and compressed values from Flow Designer
+  in ServiceNow.
 date: '2025-03-25'
 tags:
   - servicenow

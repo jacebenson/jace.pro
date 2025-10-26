@@ -1,12 +1,14 @@
 ---
-title: Do you need a CI and not it's matched Asset?  Enter skip_sync
+title: Do you need a CI and not the matched Asset?  Enter skip_sync
 description: "What is the skip_sync field on Asset or CI record - Support and Troubleshooting (servicenow.com)\r\n\r\n\r\n\r\nThis sentence has five words. Here are five more word..."
 date: '2024-08-09'
 tags:
   - servicenow
   - knowledge
 redirectFrom:
+  - /do-you-need-a-ci-and-not-the-matched-asset-enter-skip_sync/
   - /do-you-need-a-ci-and-not-its-matched-asset-enter-skip_sync/
+
 ---
 
 <!--StartFragment-->

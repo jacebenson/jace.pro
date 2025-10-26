@@ -1,6 +1,7 @@
 ---
 title: Extension Points
-description: "<https://developer.servicenow.com/connect.do#!/event/knowledge19/CCW1630>\r\n\r\nPost about extension points...\r\n\r\nMhz matt a great tldr about this.\r\n\r\n> mhz \r\n>..."
+description: >-
+  Post about extension points in ServiceNow and how to use them.
 date: '2022-06-06'
 tags:
   - servicenow

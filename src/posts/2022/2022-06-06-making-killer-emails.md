@@ -1,6 +1,7 @@
 ---
 title: Making killer emails
-description: "What is the post about?\\\r\nUsing MJML for emails.\r\n\r\nWhat things would help with writing the post\r\n\r\n <https://mjml.io/templates/receipt-email>\r\n <https://mjm..."
+description: >-
+  A few tips and tricks to make your emails stand out using MJML and good email practices.
 date: '2022-06-07'
 tags:
   - servicenow

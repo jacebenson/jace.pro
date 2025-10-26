@@ -1,8 +1,12 @@
 ---
 title: Show your value, show a chargeback
-description: "What is the post about?\\\r\nImplementing chargebacks\r\n\r\nWhat things would help with writing the post\r\n\r\n# Implementing Chargebacks\r\n\r\n## Start with speaking\r\n\r..."
+description: >-
+  A guide on how to implement chargebacks in your ServiceNow environment to
+  demonstrate the value of services provided and manage costs effectively.
 date: '2022-06-07'
-tags: []
+tags: 
+  - servicenow
+  - chargebacks
 redirectFrom:
   - /show-your-value-show-a-chargeback/
 ---

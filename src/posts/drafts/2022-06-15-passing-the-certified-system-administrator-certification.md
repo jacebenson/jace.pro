@@ -9,7 +9,6 @@ tags:
   - servicenow
   - best-practices
   - career
-  - draft
 redirectFrom:
   - /passing-the-certified-system-administrator-certification/
 ---
@@ -33,4 +32,4 @@ So I'm going to take her suggestion and run with this.  Thanks Isela!
 
 First thing I did was look up the [blueprint/exam specification](https://www.servicenow.com/content/dam/servicenow/other-documents/training/servicenow-sys-admin-exam-specs.pdf).  Looking at the breakdown I identified where I think I might have problems.
 
-![](/assets/images/csa-prep-1.png)
+![Test Breakdown](/assets/images/csa-prep-1.png)

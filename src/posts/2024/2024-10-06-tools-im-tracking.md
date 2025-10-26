@@ -1,6 +1,8 @@
 ---
-title: Tools I'm tracking
-description: "Tools I'm tracking\r\n\r\nLook, in the circles I run we all use ServiceNow, but sometimes, you want a solution that doesnt have that same enterprise price.  This..."
+title: Tools I am tracking
+description: >-
+  A list of tools similar to ServiceNow that I'm tracking for potential use cases
+  and comparisons.
 date: '2024-10-06'
 tags:
   - servicenow

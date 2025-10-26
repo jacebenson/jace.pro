@@ -5,7 +5,10 @@ description: >-
   to find a good comparison site.  Didn't see one so thought I'd toss my notes
   up ...
 date: '2024-12-09'
-tags: []
+tags: 
+  - vps
+  - hosting
+  - pricing
 redirectFrom:
   - /2024-vps-host-pricing/
 ---

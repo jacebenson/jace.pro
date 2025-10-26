@@ -1,5 +1,5 @@
 ---
-title: Now there's a newsletter
+title: Now there is a newsletter
 description: "I added a proper newsletter for folks who might want other notifications on a ~ monthly basis about this blog and things I want to share.\r\n\r\nIt's on every pa..."
 date: '2019-06-13'
 tags:

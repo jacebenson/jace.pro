@@ -1,5 +1,5 @@
 ---
-title: What is the 'Megaphone' application?
+title: What is the Megaphone application?
 description: "Megaphone is some hidden application ServiceNow made but didn't release.\r\n\r\nThis is not visible unless you change the module roles from\_maint\_to\_admin.\r\n\r\nTh..."
 date: '2017-11-11'
 tags:

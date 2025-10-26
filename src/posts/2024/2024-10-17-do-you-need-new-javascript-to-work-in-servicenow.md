@@ -1,9 +1,7 @@
 ---
 title: Do you need new JavaScript to work in ServiceNow?
 description: >-
-  ServiceNow is adding more and more ES6/7 features often but they don't work
-  everywhere, sometimes you just need the code made like it was for IE 11. Enter
-  Babel.
+  A quick guide on how to transpile modern JavaScript to work in ServiceNow.
 date: '2024-10-17'
 tags:
   - servicenow

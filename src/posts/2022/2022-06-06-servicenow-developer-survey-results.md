@@ -1,6 +1,8 @@
 ---
 title: ServiceNow Developer Survey Results
-description: "<https://developer.servicenow.com/blog.do?p=/tags/developer-survey/>\r\n\r\nWrite about this."
+description: >-
+  The results from the 2022 ServiceNow Developer Survey, highlighting key insights
+  and trends among the developer community.
 date: '2022-06-07'
 tags:
   - servicenow

@@ -17,7 +17,9 @@
     "dev:11ty": "cross-env ELEVENTY_ENV=development eleventy --serve",
     "build:11ty": "cross-env ELEVENTY_ENV=production eleventy",
     "start": "npm run dev:11ty",
-    "build": "npm run clean && npm run build:11ty"
+    "dev": "npm run dev:11ty",
+    "build": "npm run clean && npm run build:11ty",
+    "debug": "DEBUG=Eleventy* npx @11ty/eleventy"
   },
   "keywords": [],
   "repository": {
@@ -32,6 +34,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.2",
     "@11ty/eleventy-plugin-webc": "^0.11.2",
     "@11ty/is-land": "^4.0.1",
+    "gray-matter": "^4.0.3",
     "lite-youtube-embed": "^0.3.3",
     "tailwindcss": "^3.4.17"
   },

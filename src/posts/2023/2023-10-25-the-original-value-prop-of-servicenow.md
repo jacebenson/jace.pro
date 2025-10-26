@@ -1,5 +1,5 @@
 ---
-title: The ideal customer for ServiceNow has changed, hint, it's not you, probably
+title: The ideal customer for ServiceNow has changed, hint, it is not you, probably
 description: >-
   Lately I've been thinking a lot about the value tools add for the price they
   cost.

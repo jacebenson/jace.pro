@@ -2,7 +2,10 @@
 title: 'N2SN(ES21): Spread operator'
 description: Spread the love with arrays!
 date: '2023-02-16'
-tags: []
+tags: 
+  - programming
+  - javascript
+  - arrays
 redirectFrom:
   - /n2sn-es21-spread-operator/
 ---

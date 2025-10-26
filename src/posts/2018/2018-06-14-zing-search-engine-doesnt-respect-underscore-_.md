@@ -1,8 +1,11 @@
 ---
-title: Zing Search engine doesn't respect underscore
+title: Zing Search engine does not respect underscore
 description: "I opened a HI ticket about this and they communicated that the global text search does not respect more non-alphanumeric characters.\r\n\r\nIt turns out that the..."
 date: '2018-06-14'
-tags: []
+tags: 
+  - servicenow
+  - search
+  - zing
 redirectFrom:
   - /zing-search-engine-doesnt-respect-underscore-_/
 ---

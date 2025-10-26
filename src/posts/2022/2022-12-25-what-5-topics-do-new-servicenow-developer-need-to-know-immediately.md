@@ -1,13 +1,8 @@
 ---
 title: 'Show Them What You Got: 5 Values Every ServiceNow Developer Should Have'
 description: >-
-  I think it's important for a ServiceNow Developer to be someone who is eager
-  to learn and good at communicating. They should also be good at making and
-  keeping documentation, be part of a community, and have a portfolio of
-  projects they've worked on. This means that they have kept up with industry
-  trends and can speak about how they have used their learning. They should be
-  able to explain their projects clearly and have examples of their work to
-  show.
+    As a new ServiceNow developer, mastering these five essential topics will set
+    you on the path to success in your career.
 date: '2022-12-25'
 tags:
   - servicenow

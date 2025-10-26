@@ -1,6 +1,7 @@
 ---
-title: Save 💵 money on ServiceNow.  There's big news in skills management and
-description: "Save thousands\r\n\r\n ### ServiceNow Fundamentals on-demand course and Certified System Administrator exam voucher\_free till 8/31\r\n\r\n## Why did ServiceNow Buy H..."
+title: News 06/06 - More from this week
+description: >-
+  Big news in Skills Management, save money on ServiceNow, and more from this week in the ServiceNow ecosystem.
 date: '2022-06-03'
 tags:
   - servicenow

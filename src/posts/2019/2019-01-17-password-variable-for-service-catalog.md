@@ -1,6 +1,9 @@
 ---
 title: Password variable for service catalog
-description: "I was asked to add a password field on a catalog item and I was appalled\\\r\nto find this isn't an out of box variable type. I went ahead and made a\\\r\nwidget t..."
+description: >-
+  I was asked to add a password field on a catalog item and I was appalled to
+  find this isn't an out of box variable type. I went ahead and made a widget to
+  make one that is secure but I feel we shouldn't have to.
 date: '2019-01-17'
 tags:
   - client-scripts
@@ -30,7 +33,7 @@ Here's the end result;
 
 <!--EndFragment-->
 
-![](/assets/images/2019-01-17-catalog-password-variable.gif)
+![Password Variable](/assets/images/2019-01-17-catalog-password-variable.gif)
 
 <!--StartFragment-->
 

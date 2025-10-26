@@ -2,7 +2,10 @@
 title: 'N2SN: Arrays and array methods'
 description: Conquer arrays like a champ with these methods!
 date: '2023-02-16'
-tags: []
+tags: 
+  - programming
+  - javascript
+  - arrays
 redirectFrom:
   - /n2sn-arrays-and-array-methods/
 ---

@@ -1,5 +1,5 @@
 ---
-title: K20's Hackathon
+title: K20 Hackathon
 description: >-
   Last year I was pretty bitter about the hackathon. This year, I think the
   event will be better. Andrew Barnes and Brad Tilton are running this event. As

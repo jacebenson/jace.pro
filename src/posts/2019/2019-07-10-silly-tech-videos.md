@@ -2,7 +2,9 @@
 title: Silly Tech Videos
 description: "A while ago some people shared with me some great videos that were just\\\r\nsilly. These are just, well in my opinion worth at least a cursory\\\r\nglance. If you..."
 date: '2019-07-10'
-tags: []
+tags: 
+  - fun
+  - videos
 redirectFrom:
   - /silly-tech-videos/
 ---

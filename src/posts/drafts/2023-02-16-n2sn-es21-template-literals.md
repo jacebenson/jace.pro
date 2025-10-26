@@ -2,7 +2,10 @@
 title: 'N2SN(ES21): Template literals'
 description: Say goodbye to boring strings!
 date: '2023-02-16'
-tags: []
+tags: 
+  - programming
+  - javascript
+  - es21
 redirectFrom:
   - /n2sn-es21-template-literals/
 ---

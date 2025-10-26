@@ -5,8 +5,5 @@ import markdownParser from 'markdown-it';
 const markdown = markdownParser();
 
 export const markdownFormat = string => {
-  if (typeof string !== 'string' || string === null || string === undefined) {
-    return '';
-  }
   return markdown.render(string);
 };

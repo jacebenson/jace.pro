@@ -1,6 +1,7 @@
 ---
-title: Dawn Jurek's great list of Best Practices
-description: "Dawn Jurek has a great list of best practices that she keeps up to\\\r\ndate.\\\r\nAs much as I'd like to think that list will always exist, I've been\\\r\nburnt befo..."
+title: Dawn Jureks great list of Best Practices
+description: >-
+  A compilation of best practices for ServiceNow from Dawn Jureks community
 date: '2019-07-10'
 tags:
   - servicenow

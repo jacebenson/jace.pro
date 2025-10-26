@@ -2,7 +2,10 @@
 title: Blog - Simplified layout
 description: "Hey everyone,\r\n\r\nI just updated the layout of the home page for my blog. I also did some... standardizing of the format's of the markdown files. I did a pret..."
 date: '2019-07-24'
-tags: []
+tags: 
+  - blog
+  - layout
+  - design
 redirectFrom:
   - /blog-simplified-layout/
 ---

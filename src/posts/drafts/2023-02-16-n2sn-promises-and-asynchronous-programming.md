@@ -2,7 +2,10 @@
 title: 'N2SN: Promises and asynchronous programming'
 description: Level up your programming with Promises!
 date: '2023-02-16'
-tags: []
+tags: 
+  - programming
+  - javascript
+  - asynchronous
 redirectFrom:
   - /n2sn-promises-and-asynchronous-programming/
 ---

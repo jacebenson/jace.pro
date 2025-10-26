@@ -1,6 +1,8 @@
 ---
-title: Why isn't my field showing up or not hiding on ServiceNow?
-description: "I really like and use the \"why isn't email working\" post from forever ago so I decided to do it again but for why a field might not show up.\r\n\r\n## My field i..."
+title: Why is my field missing in ServiceNow?
+description: >-
+  A quick troubleshooting guide for when fields don't show up or don't hide as expected
+  in ServiceNow forms.
 date: '2024-08-17'
 tags:
   - servicenow
@@ -10,6 +12,7 @@ tags:
   - ui-actions
 redirectFrom:
   - /why-isnt-my-field-showing-up-or-not-hiding-on-servicenow/
+  - /why-is-my-field-missing-in-servicenow/
 ---
 
 I really like and use the "why isn't email working" post from forever ago so I decided to do it again but for why a field might not show up.

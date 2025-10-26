@@ -1,6 +1,7 @@
 ---
-title: GlideScriptEditorManager a class to manage APIs
-description: "This is a way to get the apis listed in the text editors.\r\n\r\nThe\_GlideScriptEditorManager\_getApis\_method returns a JSON\\\r\nstring of context-specific APIs. Th..."
+title: Glide Script Editor Manager a class to manage APIs
+description: >-
+    The API of APIs. A way to get the apis listed in the text editors in ServiceNow.
 date: '2018-11-21'
 tags:
   - gliderecord

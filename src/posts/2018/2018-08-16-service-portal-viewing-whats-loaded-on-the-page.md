@@ -1,5 +1,5 @@
 ---
-title: 'Service Portal: Viewing what''s loaded on the page'
+title: 'Service Portal: Viewing what is loaded on the page'
 description: "This is blatantly taken from HI as this I think is useful enough to re-post nearly verbatim.\r\n\r\nIf you've ever needed to know which Client Scripts, UI Polici..."
 date: '2018-08-16'
 tags:

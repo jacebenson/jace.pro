@@ -1,6 +1,8 @@
 ---
-title: Making a custom probe & sensor
-description: "The other day I was trying to create a custom probe/sensor for a probe for our linux machines.\r\n\r\nThe only example I could find was to read a text file and m..."
+title: Making a custom probe and sensor
+description: >-
+  My notes on how I made a custom probe and sensor for ServiceNow Discovery to get
+  data from a command line tool.
 date: '2019-11-14'
 tags:
   - discovery

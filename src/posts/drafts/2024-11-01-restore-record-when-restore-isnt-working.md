@@ -1,9 +1,8 @@
 ---
-title: Restore Record when Restore isn't working
+title: Restore Record when Restore is not working
 description: >-
-  You may find yourself here if you're trying to bring back a record, but can't
-  maybe this will help, maybe not, lets see. This is specifically for system
-  archiving restoring.
+    A guide on how to restore a deleted record in ServiceNow using XML and GlideRecord
+    scripting when the standard restore function is not working.
 date: '2024-11-01'
 tags:
   - gliderecord

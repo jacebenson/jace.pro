@@ -31,5 +31,8 @@
       }
     ],
     "buildCommand": "npm run build",
-    "outputDirectory": "dist"
+    "outputDirectory": "dist",
+    "env": {
+      "URL": "https://jace.pro"
+    }
   }

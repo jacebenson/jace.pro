@@ -1,6 +1,7 @@
 ---
-title: ServiceNow doesn't use their own Surveys, do you know why?
-description: "What is the post about?\\\r\n#ServiceNow doens't use their own survey system for webinars. Lets be honest, the only folks using this are for task closures... bu..."
+title: ServiceNow does not use their own Surveys, do you know why?
+description: >-
+  ServiceNow fails to use their own survey system for webinars and other use cases. This post explores the reasons why and what could be improved.
 date: '2022-06-07'
 tags:
   - servicenow

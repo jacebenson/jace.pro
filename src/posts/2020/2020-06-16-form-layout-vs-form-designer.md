@@ -1,8 +1,11 @@
 ---
 title: Form Layout vs Form Designer
-description: "| Feature                     | Form Designer | Form Layout |\r\n| --------------------------- | ------------- | ----------- |\r\n| Creating Fields             |..."
+description: >-
+  A quick comparison of the features of Form Layout and Form Designer in ServiceNow.
 date: '2020-06-16'
-tags: []
+tags: 
+  - servicenow
+  - form design
 redirectFrom:
   - /form-layout-vs-form-designer/
 ---

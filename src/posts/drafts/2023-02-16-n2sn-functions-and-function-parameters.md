@@ -2,7 +2,10 @@
 title: 'N2SN: Functions and function parameters'
 description: Master the art of functions and parameters!
 date: '2023-02-16'
-tags: []
+tags: 
+  - programming
+  - javascript
+  - functions
 redirectFrom:
   - /n2sn-functions-and-function-parameters/
 ---

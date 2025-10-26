@@ -1,6 +1,8 @@
 ---
-title: ServiceNow's database Views weird and expose details unless your careful
-description: "20h\r\n\r\njoeyday\_\_\r\n\r\nCan anybody help me fully grok how ACLs work on Database Views? I've created a View that mashes up three tables. A user I'm impersonating..."
+title: ServiceNow database Views weird and expose details unless your careful
+description: >-
+  A discussion on the quirks of ServiceNow database views, including how ACLs behave
+  unexpectedly and tips for securing sensitive data when using views.
 date: '2022-10-28'
 tags:
   - servicenow

@@ -1,12 +1,8 @@
 ---
 title: Resume and Interviewing resources for ServiceNow
 description: >-
-  Often when people connect with me on LinkedIn, I ask, 'How can I help?' and
-  sometimes I really can. Recently, I shared some advice for getting a job in
-  the ServiceNow space, and I wanted to pass it along here too. It’s all about
-  who you know and sharpening your skills. Join meetups, build projects, and
-  share them with the community. Check out some great videos, blogs, and
-  resources on resumes, interviews, and more over at news.jace.pro.
+  Resources for building your resume and preparing for interviews in the ServiceNow
+  ecosystem.
 date: '2024-09-12'
 tags:
   - servicenow

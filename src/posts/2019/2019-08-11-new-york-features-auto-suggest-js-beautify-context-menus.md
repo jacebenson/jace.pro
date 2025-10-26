@@ -1,5 +1,5 @@
 ---
-title: 'New York Features: Auto Suggest, JS Beautify & Context Menus'
+title: 'New York Features: Auto Suggest, JS Beautify and Context Menus'
 description: "New york has a few, nice things added for developers if you still work in the tool and not on some syncer.\r\n\r\nThis feature specifically is barely noted. Here..."
 date: '2019-08-12'
 tags:

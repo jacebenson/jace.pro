@@ -1,6 +1,7 @@
 ---
-title: How Virtual Task Boards Broke Labels / Tags
-description: "You might know about this\_old feature called \"labels\". Well, now their called \"Tags\" but back then they were labels. In the New York release ServiceNow broke..."
+title: How Virtual Task Boards Broke Labels Tags
+description: >-
+  Workaround for Virtual Task Boards breaking label/tag visibility in ServiceNow New York release.
 date: '2020-04-23'
 tags:
   - servicenow

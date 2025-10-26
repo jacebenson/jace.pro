@@ -1,9 +1,7 @@
 ---
 title: App Administration VS Delegated Development
 description: >-
-  Application Administration and Delegated Development both touch scoped
-  applications and how you and your collogues can work together. What are they
-  and when should you use one over the other?
+  A quick guide on the differences between Application Administration and Delegated Development in ServiceNow.
 date: '2024-12-03'
 tags:
   - servicenow

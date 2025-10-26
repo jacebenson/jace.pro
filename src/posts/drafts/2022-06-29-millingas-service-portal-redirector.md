@@ -1,5 +1,5 @@
 ---
-title: millinga's Service Portal Redirector
+title: Kevin Clark created Service Portal Redirector
 description: >-
   This sentence has five words. Here are five more words. Five-word sentences
   are fine. But several together become monotonous. Listen to what is happening.
@@ -10,6 +10,7 @@ tags:
   - draft
 redirectFrom:
   - /millingas-service-portal-redirector/
+  - /kevin-clark-created-service-portal-redirector/
 ---
 
 This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It’s like a stuck record. The ear demands some variety.
