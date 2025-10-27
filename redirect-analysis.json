@@ -1,0 +1,60 @@
+[
+  {
+    "file": "src\\posts\\2019\\2019-07-24-blog-simplified-layout.md",
+    "redirects": [
+      "/archive?404=/blog&page=16",
+      "/archive?404=/blog&page=19",
+      "/archive?404=/blog&page=5",
+      "/archive?404=/blog&page=6",
+      "/archive?404=/blog&page=7",
+      "/archive?404=/blog/&page=10"
+    ],
+    "count": 6
+  },
+  {
+    "file": "src\\posts\\2024\\2024-09-11-resume-and-interviewing-related-stuff-for-servicenow.md",
+    "redirects": [
+      "/archive?404=/resume&page=10",
+      "/archive?404=/resume&page=13",
+      "/archive?404=/resume&page=16",
+      "/archive?404=/resume&page=17"
+    ],
+    "count": 4
+  },
+  {
+    "file": "src\\posts\\2017\\2017-09-25-validating-emails.md",
+    "redirects": [
+      "/archive?404=/post/2017-09-25-validating-emails/&page=15",
+      "/archive?404=/post/2017-09-25-validating-emails/&page=20"
+    ],
+    "count": 2
+  },
+  {
+    "file": "src\\posts\\2017\\2017-10-26-sp-accept-reject.md",
+    "redirects": [
+      "/archive?404=/post/2017-10-26-sp-accept-reject/&page=11"
+    ],
+    "count": 1
+  },
+  {
+    "file": "src\\posts\\2022\\2022-06-06-export-to-csv-custom.md",
+    "redirects": [
+      "/archive?404=/post/2022-06-07-export-to-csv-custom/&page=-1"
+    ],
+    "count": 1
+  },
+  {
+    "file": "src\\posts\\2017\\2017-09-10-sp-redirect.md",
+    "redirects": [
+      "/post/2017-09-10-sp-redirect/"
+    ],
+    "count": 1
+  },
+  {
+    "file": "src\\posts\\2021\\2021-08-12-extending-user-is-bad.md",
+    "redirects": [
+      "/post/2021-08-12-extending-user-is-bad/"
+    ],
+    "count": 1
+  }
+]

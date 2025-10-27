@@ -5,30 +5,22 @@ export default {
       url: '/about/'
     },
     {
-      text: 'Docs',
-      url: '/get-started/'
-    },
-    {
-      text: 'Built with',
-      url: '/built-with/'
-    },
-    {
       text: 'Blog',
       url: '/blog/'
     }
   ],
   bottom: [
     {
-      text: 'Style guide',
-      url: '/styleguide/'
+      text: 'News',
+      url: 'https://news.jace.pro/'
     },
     {
-      text: 'Imprint',
-      url: '/imprint/'
+      text: 'nullEDGE',
+      url: 'https://thenulledge.com/'
     },
     {
-      text: 'Privacy',
-      url: '/privacy/'
+      text: 'AI In A Box',
+      url: 'https://getaiinabox.com/'
     }
   ]
 };
