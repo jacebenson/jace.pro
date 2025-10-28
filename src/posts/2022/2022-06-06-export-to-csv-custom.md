@@ -7,6 +7,7 @@ tags:
   - javascript
 redirectFrom:
   - /export-to-csv-custom/
+  - /p/2022-06-06-export-to-csv-custom/
 ---
 
 <!--StartFragment-->

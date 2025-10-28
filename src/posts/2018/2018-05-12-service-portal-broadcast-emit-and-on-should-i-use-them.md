@@ -14,6 +14,7 @@ tags:
   - html
 redirectFrom:
   - /service-portal-broadcast-emit-and-on-should-i-use-them/
+  - /p/2018-05-12-service-portal-broadcast-emit-and-on-should-i-use-them/
 ---
 
 <!--StartFragment-->

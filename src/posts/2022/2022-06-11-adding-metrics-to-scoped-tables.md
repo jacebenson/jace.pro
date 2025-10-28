@@ -12,6 +12,7 @@ tags:
   - security
 redirectFrom:
   - /adding-metrics-to-scoped-tables/
+  - /p/2022-06-11-adding-metrics-to-scoped-tables/
 ---
 
 <!--StartFragment-->

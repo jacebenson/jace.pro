@@ -15,6 +15,7 @@ tags:
   - security
 redirectFrom:
   - /debugging-with-fix-scripts/
+  - /p/2018-05-13-debugging-with-fix-scripts/
 ---
 
 <!--StartFragment-->

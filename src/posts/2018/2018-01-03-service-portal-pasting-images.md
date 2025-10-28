@@ -11,6 +11,7 @@ tags:
   - security
 redirectFrom:
   - /service-portal-pasting-images/
+  - /p/2018-01-03-service-portal-pasting-images/
 ---
 
 <!--StartFragment-->

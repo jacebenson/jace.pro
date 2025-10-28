@@ -7,6 +7,7 @@ tags:
   - tutorial
 redirectFrom:
   - /debugging-inbound-emails/
+  - /p/2022-06-06-debugging-inbound-emails/
 ---
 
 <!--StartFragment-->

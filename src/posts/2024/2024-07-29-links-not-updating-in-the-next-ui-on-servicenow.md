@@ -9,6 +9,7 @@ tags:
   - servicenow
 redirectFrom:
   - /links-not-updating-in-the-next-ui-on-servicenow/
+  - /p/2024-07-29-links-not-updating-in-the-next-ui-on-servicenow/
 ---
 
 When I was working with the Next UI it was taking forever to load, it would show up as an empty box.  Turns out, the lookup still needs to happen break the user's expectations.  

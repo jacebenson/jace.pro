@@ -14,6 +14,7 @@ tags:
   - best-practices
 redirectFrom:
   - /batching-updates-gliderecord-and-glidemultipleupdate/
+  - /p/2024-11-01-batching-updates-gliderecord-and-glidemultipleupdate/
 ---
 
 Update Many does not need `.query()`

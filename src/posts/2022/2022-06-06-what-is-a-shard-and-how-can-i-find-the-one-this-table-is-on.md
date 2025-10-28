@@ -7,6 +7,7 @@ tags:
   - javascript
 redirectFrom:
   - /what-is-a-shard-and-how-can-i-find-the-one-this-table-is-on/
+  - /p/2022-06-06-what-is-a-shard-and-how-can-i-find-the-one-this-table-is-on/
 ---
 
 I have this code snippet;

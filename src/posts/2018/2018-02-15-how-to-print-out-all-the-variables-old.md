@@ -10,6 +10,7 @@ tags:
   - tutorial
 redirectFrom:
   - /how-to-print-out-all-the-variables-old/
+  - /p/2018-02-15-how-to-print-out-all-the-variables-old/
 ---
 
 Let me preface this code with there is another way to do this but it's undocumented.\

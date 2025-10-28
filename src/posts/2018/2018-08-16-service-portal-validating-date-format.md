@@ -10,6 +10,7 @@ tags:
   - tutorial
 redirectFrom:
   - /service-portal-validating-date-format/
+  - /p/2018-08-16-service-portal-validating-date-format/
 ---
 
 <!--StartFragment-->

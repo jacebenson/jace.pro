@@ -8,6 +8,7 @@ tags:
   - javascript
 redirectFrom:
   - /validating-phone/
+  - /p/2017-09-25-validating-phone/
 ---
 
 <!--StartFragment-->

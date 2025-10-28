@@ -6,6 +6,7 @@ tags:
   - servicenow
 redirectFrom:
   - /megaphone/
+  - /p/2017-11-10-megaphone/
 ---
 
 <!--StartFragment-->

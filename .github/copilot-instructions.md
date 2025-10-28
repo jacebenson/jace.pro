@@ -31,6 +31,8 @@ This is an **Eleventy Excellent** static site generator project based on Andy Be
 - `src/posts/**/*.md` - Blog posts organized by year (2016/, 2017/, etc.)
 - `src/pages/` - Static pages (about.md, privacy.md, etc.)
 - Front matter uses `tags`, `date`, `title`, `description` consistently
+- Blog posts follow `YYYY-MM-DD-{slug}.md` naming convention
+- `redirectFrom` arrays in front matter handle URL redirects (format: `["/old-url/", "/another-old-url/"]`)
 
 ### Asset Pipeline
 - CSS: `src/assets/css/` → compiled to `src/_includes/css/` via PostCSS
@@ -110,3 +112,25 @@ npm run colors     # Process design token colors
 
 **Performance:** Images are automatically optimized. Use `{% image %}` shortcode for best results.
 **SEO:** Meta tags, Open Graph, and JSON-LD structured data are handled by base layout.
+
+## Advanced Patterns
+
+### Redirect Management
+- Blog posts support `redirectFrom` arrays in YAML front matter
+- Redirect paths should include leading/trailing slashes: `["/old-path/", "/another-path/"]`
+- Common redirect patterns: `/p/yyyy-mm-dd-slug/` for date-based URLs
+- Netlify `_redirects` file generated in `dist/` from redirectFrom data
+
+### YAML Front Matter Best Practices
+- Use 2-space indentation consistently
+- Arrays use YAML list syntax: `- item` on new lines
+- Maintain proper indentation for nested structures
+- Test builds after bulk YAML modifications to catch parsing errors
+- Use `validate-posts.js` for front matter validation
+
+### Bulk Operations
+- Create temporary Node.js scripts in project root for one-time tasks
+- Use ES6 modules with proper imports (`fs`, `path`, `fileURLToPath`)
+- Process files in batches to avoid memory issues with large datasets
+- Always backup or use git before bulk modifications
+- Clean up temporary scripts after completion

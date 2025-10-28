@@ -7,6 +7,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /cancelling-a-flow/
+  - /p/2022-06-06-cancelling-a-flow/
 ---
 
 <!--StartFragment-->

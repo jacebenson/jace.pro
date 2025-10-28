@@ -6,6 +6,7 @@ tags:
   - security
 redirectFrom:
   - /getting-started/
+  - /p/2022-05-20-getting-started/
 ---
 
 You want to write a blog sweet!  Let's get started.

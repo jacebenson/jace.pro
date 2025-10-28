@@ -10,6 +10,7 @@ tags:
   - tutorial
 redirectFrom:
   - /how-to-remove-options-from-a-select-box/
+  - /p/2020-06-15-how-to-remove-options-from-a-select-box/
 ---
 
 <!--StartFragment-->

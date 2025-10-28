@@ -7,6 +7,7 @@ tags:
   - xml
 redirectFrom:
   - /getting-the-rss-feed-from-a-youtube-page/
+  - /p/2024-10-06-getting-the-rss-feed-from-a-youtube-page/
 ---
 
 Getting the RSS feed from Youtube Channels is harder and harder every year.

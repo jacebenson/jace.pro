@@ -11,6 +11,7 @@ tags:
 redirectFrom:
   - /you-want-a-blog-heres-how-to-get-started/
   - /how-to-get-started-with-a-blog-on-11ty/
+  - /p/2020-12-05-you-want-a-blog-heres-how-to-get-started/
 ---
 
 <!--StartFragment-->

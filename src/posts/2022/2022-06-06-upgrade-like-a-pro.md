@@ -9,6 +9,7 @@ tags:
   - integration
 redirectFrom:
   - /upgrade-like-a-pro/
+  - /p/2022-06-06-upgrade-like-a-pro/
 ---
 
 See if mhz opinion is worth taking

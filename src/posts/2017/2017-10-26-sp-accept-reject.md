@@ -12,6 +12,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /sp-accept-reject/
+  - /p/2017-10-26-sp-accept-reject/
 ---
 
 <!--StartFragment-->

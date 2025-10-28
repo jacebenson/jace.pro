@@ -11,6 +11,8 @@ tags:
   - tutorial
 redirectFrom:
   - /no-code-date-validations/
+  - /p/2019-09-06-no-code-date-validations/ 
+  - /2019-09-06-no-code-date-validations/
 ---
 
 <!--StartFragment-->

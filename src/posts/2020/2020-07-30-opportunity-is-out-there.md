@@ -8,6 +8,7 @@ tags:
   - integration
 redirectFrom:
   - /opportunity-is-out-there/
+  - /p/2020-07-30-opportunity-is-out-there/
 ---
 
 <!--StartFragment-->

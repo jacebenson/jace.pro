@@ -13,6 +13,8 @@ tags:
   - security
 redirectFrom:
   - /service-portal-own-your-own-form/
+  - /p/2019-08-14-service-portal-own-your-own-form/ 
+  - /2019-08-14-service-portal-own-your-own-form/
 ---
 
 <!--StartFragment-->

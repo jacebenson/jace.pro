@@ -6,6 +6,8 @@ tags:
   - servicenow
 redirectFrom:
   - /projects-are-better-than-certificates/
+  - /p/2019-09-28-projects-are-better-than-certificates/ 
+  - /2019-09-28-projects-are-better-than-certificates/
 ---
 
 <!--StartFragment-->

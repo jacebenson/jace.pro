@@ -16,6 +16,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /careful-with-reserved-words/
+  - /p/2020-09-03-careful-with-reserved-words/
 ---
 
 <!--StartFragment-->

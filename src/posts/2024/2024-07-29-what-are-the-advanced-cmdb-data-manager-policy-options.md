@@ -12,6 +12,7 @@ tags:
   - beginner
 redirectFrom:
   - /what-are-the-advanced-cmdb-data-manager-policy-options/
+  - /p/2024-07-29-what-are-the-advanced-cmdb-data-manager-policy-options/
 ---
 
 I'm digging more into the archive, and destroy rules of the archival processes.  That is until I found the CMDB Data Manager and their policies.

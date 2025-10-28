@@ -16,6 +16,7 @@ tags:
   - security
 redirectFrom:
   - /servicenow-keeps-buying-things/
+  - /p/2021-08-12-servicenow-keeps-buying-things/
 ---
 
 | Date       | Company           | Blurb                                                   | Platform Feature               | Founders                                                                                                                                 |

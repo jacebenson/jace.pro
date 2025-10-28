@@ -12,6 +12,7 @@ tags:
   - security
 redirectFrom:
   - /creating-a-servicenow-property-page-that-rocks/
+  - /p/2018-06-11-creating-a-servicenow-property-page-that-rocks/
 ---
 
 <!--StartFragment-->

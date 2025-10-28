@@ -23,6 +23,7 @@ tags:
   - integration
 redirectFrom:
   - /technow-quebec-review/
+  - /p/2021-01-26-technow-quebec-review/
 ---
 
 # Technow Quebec Review

@@ -10,6 +10,7 @@ tags:
   - tutorial
 redirectFrom:
   - /slightlooney/
+  - /p/2018-05-24-slightlooney/
 ---
 
 <!--StartFragment-->

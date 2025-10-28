@@ -8,6 +8,7 @@ tags:
   - html
 redirectFrom:
   - /making-killer-emails/
+  - /p/2022-06-06-making-killer-emails/
 ---
 
 <!--StartFragment-->

@@ -10,6 +10,7 @@ tags:
   - ai
 redirectFrom:
   - /comparing-9-email-as-a-service-providers/
+  - /p/2024-10-05-comparing-9-email-as-a-service-providers/
 ---
 
 # I spent weeks comparing 9 email as a service providers. Here's what I found.

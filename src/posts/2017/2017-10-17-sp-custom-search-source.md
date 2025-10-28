@@ -14,6 +14,7 @@ tags:
   - knowledge-conference
 redirectFrom:
   - /sp-custom-search-source/
+  - /p/2017-10-17-sp-custom-search-source/
 ---
 
 <!--StartFragment-->

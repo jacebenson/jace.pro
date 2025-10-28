@@ -9,6 +9,8 @@ tags:
   - integration
 redirectFrom:
   - /recordless-rest-is-great/
+  - /p/2019-09-14-recordless-rest-is-great/ 
+  - /2019-09-14-recordless-rest-is-great/
 ---
 
 <!--StartFragment-->

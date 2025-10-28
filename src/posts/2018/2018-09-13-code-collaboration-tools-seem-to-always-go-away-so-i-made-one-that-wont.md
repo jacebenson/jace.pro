@@ -6,6 +6,7 @@ tags:
   - api
 redirectFrom:
   - /code-collaboration-tools-seem-to-always-go-away-so-i-made-one-that-wont/
+  - /p/2018-09-13-code-collaboration-tools-seem-to-always-go-away-so-i-made-one-that-wont/
 ---
 
 <!--StartFragment-->

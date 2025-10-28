@@ -22,6 +22,7 @@ tags:
   - integration
 redirectFrom:
   - /quick-guide-orlando/
+  - /p/2020-01-06-quick-guide-orlando/
 ---
 
 <!--StartFragment-->

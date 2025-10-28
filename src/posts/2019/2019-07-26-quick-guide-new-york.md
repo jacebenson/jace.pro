@@ -16,6 +16,7 @@ tags:
   - integration
 redirectFrom:
   - /quick-guide-new-york/
+  - /p/2019-07-26-quick-guide-new-york/
 ---
 
 <!--StartFragment-->

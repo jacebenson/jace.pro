@@ -16,6 +16,7 @@ tags:
   - knowledge-conference
 redirectFrom:
   - /approvals-for-knowledge-and-how-they-dont-work/
+  - /p/2019-01-12-approvals-for-knowledge-and-how-they-dont-work/
 ---
 
 <!--StartFragment-->

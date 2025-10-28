@@ -26,6 +26,7 @@ tags:
   - integration
 redirectFrom:
   - /prepare-for-an-interview-itll-be-fun/
+  - /p/2018-05-17-prepare-for-an-interview-itll-be-fun/
 ---
 
 <!--StartFragment-->

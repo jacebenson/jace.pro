@@ -15,6 +15,7 @@ tags:
   - integration
 redirectFrom:
   - /success-with-flow-designer/
+  - /p/2021-01-16-success-with-flow-designer/
 ---
 
 # Success with Flow Designer

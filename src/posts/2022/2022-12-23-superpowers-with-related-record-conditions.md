@@ -9,6 +9,7 @@ tags:
   - service-catalog
 redirectFrom:
   - /superpowers-with-related-record-conditions/
+  - /p/2022-12-23-superpowers-with-related-record-conditions/
 ---
 
 > Steve: Jace, I want an alert whenever we don't get an message from this server every hour.\

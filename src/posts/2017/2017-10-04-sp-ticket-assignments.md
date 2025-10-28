@@ -11,6 +11,7 @@ tags:
   - html
 redirectFrom:
   - /sp-ticket-assignments/
+  - /p/2017-10-04-sp-ticket-assignments/
 ---
 
 <!--StartFragment-->

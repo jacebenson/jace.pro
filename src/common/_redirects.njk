@@ -6,15 +6,9 @@ excludeFromSitemap: true
 {%- for page in collections.all -%}
 {%- if page.url and page.data.redirectFrom -%}
 {%- for oldUrl in page.data.redirectFrom -%}
-{{ oldUrl }} {{ page.url }}
+{{ oldUrl }} {{ page.url }} 301
 {% endfor %}
 {%- endif -%}
 {%- endfor -%}
-
-
-
-
-
-
 
 /p/* /blog/:splat 301

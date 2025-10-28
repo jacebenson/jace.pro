@@ -11,6 +11,7 @@ tags:
   - release-paris
 redirectFrom:
   - /graphql-in-a-way-i-understand/
+  - /p/2020-09-15-graphql-in-a-way-i-understand/
 ---
 
 <!--StartFragment-->

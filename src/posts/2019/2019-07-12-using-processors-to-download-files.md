@@ -17,6 +17,7 @@ tags:
   - integration
 redirectFrom:
   - /using-processors-to-download-files/
+  - /p/2019-07-12-using-processors-to-download-files/
 ---
 
 <!--StartFragment-->

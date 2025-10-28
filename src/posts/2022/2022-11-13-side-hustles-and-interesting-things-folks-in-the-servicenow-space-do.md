@@ -11,6 +11,7 @@ tags:
   - knowledge-conference
 redirectFrom:
   - /side-hustles-and-interesting-things-folks-in-the-servicenow-space-do/
+  - /p/2022-11-13-side-hustles-and-interesting-things-folks-in-the-servicenow-space-do/
 ---
 
 I wanted to make a list of things folks in this space make outside of ServiceNow.

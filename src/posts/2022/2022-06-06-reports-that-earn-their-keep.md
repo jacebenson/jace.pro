@@ -8,6 +8,7 @@ tags:
   - performance
 redirectFrom:
   - /reports-that-earn-their-keep/
+  - /p/2022-06-06-reports-that-earn-their-keep/
 ---
 
 <!--StartFragment-->

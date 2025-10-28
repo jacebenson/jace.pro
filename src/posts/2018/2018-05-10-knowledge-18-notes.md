@@ -16,6 +16,7 @@ tags:
   - integration
 redirectFrom:
   - /knowledge-18-notes/
+  - /p/2018-05-10-knowledge-18-notes/
 ---
 
 <!--StartFragment-->

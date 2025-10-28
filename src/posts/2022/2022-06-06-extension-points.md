@@ -8,6 +8,7 @@ tags:
   - service-catalog
 redirectFrom:
   - /extension-points/
+  - /p/2022-06-06-extension-points/
 ---
 
 <https://developer.servicenow.com/connect.do#!/event/knowledge19/CCW1630>

@@ -9,6 +9,7 @@ tags:
   - beginner
 redirectFrom:
   - /why-is-being-uncomfortable-great-when-learning-new-things/
+  - /p/2023-01-03-why-is-being-uncomfortable-great-when-learning-new-things/
 ---
 
 Are you ready to learn a new skill and get out of your comfort zone? We all need to challenge ourselves and push our boundaries to grow, but it can be intimidating to take the plunge. That's why I'm here to encourage and motivate you to explore the unknown and discover the power of resilience and perseverance.

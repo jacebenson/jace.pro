@@ -14,6 +14,7 @@ tags:
   - integration
 redirectFrom:
   - /import-sets-use-them/
+  - /p/2019-03-01-import-sets-use-them/
 ---
 
 <!--StartFragment-->

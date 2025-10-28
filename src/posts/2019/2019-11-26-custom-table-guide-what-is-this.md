@@ -17,6 +17,8 @@ tags:
   - integration
 redirectFrom:
   - /custom-table-guide-what-is-this/
+  - /p/2019-11-26-custom-table-guide-what-is-this/ 
+  - /2019-11-26-custom-table-guide-what-is-this/
 ---
 
 <!--StartFragment-->

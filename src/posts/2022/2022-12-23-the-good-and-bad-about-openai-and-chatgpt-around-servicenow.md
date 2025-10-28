@@ -12,6 +12,7 @@ tags:
   - beginner
 redirectFrom:
   - /the-good-and-bad-about-openai-and-chatgpt-around-servicenow/
+  - /p/2022-12-23-the-good-and-bad-about-openai-and-chatgpt-around-servicenow/
 ---
 
 ## Introduction to AI/ML

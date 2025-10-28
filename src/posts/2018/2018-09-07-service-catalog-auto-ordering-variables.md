@@ -6,6 +6,7 @@ tags:
   - service-catalog
 redirectFrom:
   - /service-catalog-auto-ordering-variables/
+  - /p/2018-09-07-service-catalog-auto-ordering-variables/
 ---
 
 <!--StartFragment-->

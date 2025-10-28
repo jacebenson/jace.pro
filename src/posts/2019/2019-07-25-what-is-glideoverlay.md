@@ -6,6 +6,7 @@ tags:
   - servicenow
 redirectFrom:
   - /what-is-glideoverlay/
+  - /p/2019-07-25-what-is-glideoverlay/
 ---
 
 <!--StartFragment-->

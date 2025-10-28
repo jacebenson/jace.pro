@@ -12,6 +12,7 @@ tags:
   - tutorial
 redirectFrom:
   - /creating-actionable-email-links/
+  - /p/2018-07-03-creating-actionable-email-links/
 ---
 
 <!--StartFragment-->

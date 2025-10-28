@@ -6,6 +6,7 @@ tags:
   - tutorial
 redirectFrom:
   - /always-negotiate/
+  - /p/2020-06-02-always-negotiate/
 ---
 
 <!--StartFragment-->

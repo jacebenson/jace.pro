@@ -8,6 +8,7 @@ tags:
   - mrvs
 redirectFrom:
   - /useful-reports-on-variables/
+  - /p/2022-06-06-useful-reports-on-variables/
 ---
 
 ## Where's the data stored

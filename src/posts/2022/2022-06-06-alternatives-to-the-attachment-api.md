@@ -15,6 +15,7 @@ tags:
   - integration
 redirectFrom:
   - /alternatives-to-the-attachment-api/
+  - /p/2022-06-06-alternatives-to-the-attachment-api/
 ---
 
 Storage in ServiceNow is expensive.  Because of that, I'd encourage you to AVOID this for your work's budget.  That being said, if you find you need to upload attachments programtically, this post might be helpful as these ways aren't clearly defined in the other sources.

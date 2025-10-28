@@ -13,8 +13,8 @@ tags:
   - security
   - integration
 redirectFrom:
-  - >-
-    /integrate-gsuite-and-servicenow-using-a-google-service-account-and-jwt-from-cache/
+  - /integrate-gsuite-and-servicenow-using-a-google-service-account-and-jwt-from-cache/
+  - /p/2022-10-12-integrate-gsuite-and-servicenow-using-a-google-service-account-and-jwt-from-cache-from-cache-by-ward-van-hoof/
 ---
 
 Today on Slack, mdev asked about a post that seems to be archived.  mdev found it and shared the cache link.  I am not sure who will need this but I think it's worth keeping.  

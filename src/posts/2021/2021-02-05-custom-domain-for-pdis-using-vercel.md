@@ -8,6 +8,7 @@ tags:
   - security
 redirectFrom:
   - /custom-domain-for-pdis-using-vercel/
+  - /p/2021-02-05-custom-domain-for-pdis-using-vercel/
 ---
 
 # Custom Domain for PDIs using Vercel

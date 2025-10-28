@@ -11,6 +11,7 @@ tags:
   - security
 redirectFrom:
   - /brightpoint/
+  - /p/2025-05-12-brightpoint/
 ---
 
 _This is part of a series I'm writing to help remind myself (and anyone else building) that it's possible. These aren't just stories about companies ServiceNow bought. They're reminders that someone out there built something worth acquiring._

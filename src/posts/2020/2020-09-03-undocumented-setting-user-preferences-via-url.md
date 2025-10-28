@@ -9,6 +9,7 @@ tags:
   - release-orlando
 redirectFrom:
   - /undocumented-setting-user-preferences-via-url/
+  - /p/2020-09-03-undocumented-setting-user-preferences-via-url/
 ---
 
 <!--StartFragment-->

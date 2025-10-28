@@ -10,6 +10,7 @@ tags:
 redirectFrom:
   - /sp-redirect/
   - /post/2017-09-10-sp-redirect/
+  - /p/2017-09-10-sp-redirect/
 ---
 
 <!--StartFragment-->

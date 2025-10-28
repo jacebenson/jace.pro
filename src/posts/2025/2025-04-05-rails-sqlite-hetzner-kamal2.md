@@ -13,6 +13,7 @@ tags:
   - security
 redirectFrom:
   - /rails-sqlite-hetzner-kamal2/
+  - /p/2025-04-05-rails-sqlite-hetzner-kamal2/
 ---
 
 You'll need a few things to get started here.

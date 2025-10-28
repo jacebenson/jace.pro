@@ -8,8 +8,8 @@ tags:
   - javascript
   - troubleshooting
 redirectFrom:
-  - >-
-    /cloudflare-pages-netlify-zeit-github-pages-and-gitlab-pages-where-to-host-for-free/
+  - /cloudflare-pages-netlify-zeit-github-pages-and-gitlab-pages-where-to-host-for-free/
+  - /p/2020-12-17-cloudflare-pages-netlify-zeit-github-pages-and-gitlab-pages-where-to-host-for-free/
 ---
 
 <!--StartFragment-->

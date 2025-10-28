@@ -7,6 +7,7 @@ tags:
   - atf
 redirectFrom:
   - /setting-up-automated-testing-framework-atf/
+  - /p/2018-04-19-setting-up-automated-testing-framework-atf/
 ---
 
 <!--StartFragment-->

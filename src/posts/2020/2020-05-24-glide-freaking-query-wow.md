@@ -14,6 +14,7 @@ tags:
   - performance
 redirectFrom:
   - /glide-freaking-query-wow/
+  - /p/2020-05-24-glide-freaking-query-wow/
 ---
 
 <!--StartFragment-->

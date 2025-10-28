@@ -8,6 +8,7 @@ tags:
   - zing
 redirectFrom:
   - /zing-search-engine-doesnt-respect-underscore-_/
+  - /p/2018-06-14-zing-search-engine-doesnt-respect-underscore-_/
 ---
 
 <!--StartFragment-->

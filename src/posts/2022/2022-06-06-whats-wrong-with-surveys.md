@@ -7,6 +7,7 @@ tags:
   - servicenow
 redirectFrom:
   - /whats-wrong-with-surveys/
+  - /p/2022-06-06-whats-wrong-with-surveys/
 ---
 
 <!--StartFragment-->

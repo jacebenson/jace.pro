@@ -11,6 +11,7 @@ tags:
   - javascript
 redirectFrom:
   - /service-portal-viewing-whats-loaded-on-the-page/
+  - /p/2018-08-16-service-portal-viewing-whats-loaded-on-the-page/
 ---
 
 <!--StartFragment-->

@@ -7,6 +7,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /discovery-affinity-issue/
+  - /p/2017-11-01-discovery-affinity-issue/
 ---
 
 <!--StartFragment-->

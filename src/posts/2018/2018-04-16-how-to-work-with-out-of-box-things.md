@@ -8,6 +8,7 @@ tags:
   - tutorial
 redirectFrom:
   - /how-to-work-with-out-of-box-things/
+  - /p/2018-04-16-how-to-work-with-out-of-box-things/
 ---
 
 <!--StartFragment-->

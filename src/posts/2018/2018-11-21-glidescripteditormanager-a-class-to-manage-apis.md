@@ -11,6 +11,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /glidescripteditormanager-a-class-to-manage-apis/
+  - /p/2018-11-21-glidescripteditormanager-a-class-to-manage-apis/
 ---
 
 <!--StartFragment-->

@@ -8,6 +8,8 @@ tags:
   - security
 redirectFrom:
   - /better-ux-or-fully-automated/
+  - /p/2019-09-27-better-ux-or-fully-automated/ 
+  - /2019-09-27-better-ux-or-fully-automated/
 ---
 
 I posted a survey on Twitter a few weeks ago;

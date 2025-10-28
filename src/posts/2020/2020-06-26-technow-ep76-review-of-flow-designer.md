@@ -16,6 +16,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /technow-ep76-review-of-flow-designer/
+  - /p/2020-06-26-technow-ep76-review-of-flow-designer/
 ---
 
 <!--StartFragment-->

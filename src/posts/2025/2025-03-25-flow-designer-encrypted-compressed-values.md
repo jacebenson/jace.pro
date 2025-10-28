@@ -12,6 +12,7 @@ tags:
   - javascript
 redirectFrom:
   - /flow-designer-encrypted-compressed-values/
+  - /p/2025-03-25-flow-designer-encrypted-compressed-values/
 ---
 
 The other day, I was on the community slack, and a question popped up about reading the values for flows (flow designer, subflows, etc).

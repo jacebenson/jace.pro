@@ -11,6 +11,8 @@ tags:
   - troubleshooting
 redirectFrom:
   - /how-virtual-task-boards-broke-labels-tags/
+  - /p/2020-04-23-how-virtual-task-boards-broke-labels-tags/ 
+  - /2020-04-23-how-virtual-task-boards-broke-labels-tags/
 ---
 
 <!--StartFragment-->

@@ -10,6 +10,7 @@ tags:
   - security
 redirectFrom:
   - /configuring-workspace-lists-are-not-hard-when-you-know-where-to-look/
+  - /p/2024-06-13-configuring-workspace-lists-are-not-hard-when-you-know-where-to-look/
 ---
 
 Recently, I faced a challenge while trying to modify list items in the software asset workspace without having access to App Engine Studio. My goal was to update lists and all the resources pointed to using App Engine Studio for these changes.

@@ -12,6 +12,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /finding-globally-available-things/
+  - /p/2019-03-13-finding-globally-available-things/
 ---
 
 <!--StartFragment-->

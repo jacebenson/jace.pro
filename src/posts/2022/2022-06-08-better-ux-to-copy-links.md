@@ -7,6 +7,7 @@ tags:
   - ui-actions
 redirectFrom:
   - /better-ux-to-copy-links/
+  - /p/2022-06-08-better-ux-to-copy-links/
 ---
 
 Copying links in ServiceNow isn't terrible but it could be better.  

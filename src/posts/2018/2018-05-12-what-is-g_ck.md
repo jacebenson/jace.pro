@@ -11,6 +11,7 @@ tags:
   - integration
 redirectFrom:
   - /what-is-g_ck/
+  - /p/2018-05-12-what-is-g_ck/
 ---
 
 <!--StartFragment-->

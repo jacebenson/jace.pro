@@ -14,6 +14,8 @@ tags:
   - security
 redirectFrom:
   - /access-control-lists-acls-vs-query-business-rules-qbr/
+  - /p/2019-11-30-access-control-lists-acls-vs-query-business-rules-qbr/ 
+  - /2019-11-30-access-control-lists-acls-vs-query-business-rules-qbr/
 ---
 
 <!--StartFragment-->

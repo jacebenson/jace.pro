@@ -11,6 +11,8 @@ tags:
   - javascript
 redirectFrom:
   - /multiple-variable-row-set-dependent-variables/
+  - /p/2019-09-06-multiple-variable-row-set-dependent-variables/ 
+  - /2019-09-06-multiple-variable-row-set-dependent-variables/
 ---
 
 <!--StartFragment-->

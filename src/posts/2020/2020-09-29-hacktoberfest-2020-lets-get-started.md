@@ -13,6 +13,7 @@ tags:
   - integration
 redirectFrom:
   - /hacktoberfest-2020-lets-get-started/
+  - /p/2020-09-29-hacktoberfest-2020-lets-get-started/
 ---
 
 <!--StartFragment-->

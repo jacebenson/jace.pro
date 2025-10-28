@@ -18,6 +18,7 @@ tags:
   - security
 redirectFrom:
   - /when-to-scope/
+  - /p/2022-06-06-when-to-scope/
 ---
 
 <!--StartFragment-->

@@ -12,6 +12,7 @@ tags:
   - tutorial
 redirectFrom:
   - /service-portal-setting-variables-via-url/
+  - /p/2018-07-15-service-portal-setting-variables-via-url/
 ---
 
 <!--StartFragment-->

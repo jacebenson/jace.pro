@@ -14,6 +14,7 @@ tags:
   - security
 redirectFrom:
   - /deploying-a-redwoodjs-site-using-baremetal/
+  - /p/2024-08-13-deploying-a-redwoodjs-site-using-baremetal/
 ---
 
 # Setting Up a BareMetal RedwoodJS Site

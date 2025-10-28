@@ -8,6 +8,8 @@ tags:
   - html
 redirectFrom:
   - /annotations-seem-to-be-unsupported/
+  - /p/2019-09-28-annotations-seem-to-be-unsupported/ 
+  - /2019-09-28-annotations-seem-to-be-unsupported/
 ---
 
 <!--StartFragment-->

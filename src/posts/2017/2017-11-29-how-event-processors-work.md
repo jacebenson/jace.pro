@@ -8,6 +8,7 @@ tags:
   - javascript
 redirectFrom:
   - /how-event-processors-work/
+  - /p/2017-11-29-how-event-processors-work/
 ---
 
 <!--StartFragment-->

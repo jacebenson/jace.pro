@@ -14,6 +14,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /service-portal-record-producer-redirects/
+  - /p/2018-02-09-service-portal-record-producer-redirects/
 ---
 
 I was asked to set up the redirect from a record producer on the Service Portal. This was no problem in the past CMS, and the normal GUI. The [docs](https://docs.servicenow.com/bundle/kingston-it-service-management/page/product/service-catalog-management/concept/c_PopulatingRecordData.html) say it should be a simple line of code like;

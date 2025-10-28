@@ -6,6 +6,7 @@ tags:
   - servicenow
 redirectFrom:
   - /hiding-follow-on-tables/
+  - /p/2025-03-31-hiding-follow-on-tables/
 ---
 
 To remove the “Follow” button, you can do this by disabling the live_feed in the dictionary of the collection record.

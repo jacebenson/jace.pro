@@ -6,6 +6,7 @@ tags:
   - servicenow
 redirectFrom:
   - /setting-up-a-custom-theme-cliff-notes-by-ty/
+  - /p/2022-10-28-setting-up-a-custom-theme-cliff-notes-by-ty/
 ---
 
 ty.roach

@@ -12,6 +12,7 @@ tags:
   - integration
 redirectFrom:
   - /integrations/
+  - /p/2017-09-06-integrations/
 ---
 
 <!--StartFragment-->

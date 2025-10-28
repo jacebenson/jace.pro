@@ -23,6 +23,7 @@ tags:
   - integration
 redirectFrom:
   - /winning-servicenow-hackathon-ideas/
+  - /p/2019-04-22-winning-servicenow-hackathon-ideas/
 ---
 
 <!--StartFragment-->

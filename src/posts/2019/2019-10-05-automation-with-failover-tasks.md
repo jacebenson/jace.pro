@@ -10,6 +10,8 @@ tags:
   - troubleshooting
 redirectFrom:
   - /automation-with-failover-tasks/
+  - /p/2019-10-05-automation-with-failover-tasks/ 
+  - /2019-10-05-automation-with-failover-tasks/
 ---
 
 So I’ve built many automation tasks that didn’t account for what to do during an error or an expected output.

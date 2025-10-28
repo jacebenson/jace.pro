@@ -11,6 +11,7 @@ tags:
   - pricing
 redirectFrom:
   - /2024-vps-host-pricing/
+  - /p/2024-12-09-2024-vps-host-pricing/
 ---
 
 Virtual Private Servers.... There's a little bit to know here.  I was trying to find a good comparison site.  Didn't see one so thought I'd toss my notes up here.   These prices were as of December, 2024.

@@ -8,6 +8,7 @@ tags:
   - performance
 redirectFrom:
   - /outbound-email-examples-might-come-in-handy/
+  - /p/2019-07-10-outbound-email-examples-might-come-in-handy/
 ---
 
 <!--StartFragment-->

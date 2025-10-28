@@ -6,6 +6,7 @@ tags:
   - servicenow
 redirectFrom:
   - /host-static-sites-on-servicenow/
+  - /p/2022-06-06-host-static-sites-on-servicenow/
 ---
 
 <!--StartFragment-->

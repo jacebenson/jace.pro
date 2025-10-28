@@ -11,6 +11,7 @@ tags:
 redirectFrom:
   - /extending-user-is-bad/
   - /post/2021-08-12-extending-user-is-bad/
+  - /p/2021-08-12-extending-user-is-bad/
 ---
 
 A few weeks ago extending User [`sys_user`] came up and I had always thought, well ServiceNow did it for Customer Service Management, so it must be fine. This day however Pheedbaq explained why this is a problem and why we shouldn't do it.

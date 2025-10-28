@@ -7,6 +7,8 @@ tags:
   - knowledge-conference
 redirectFrom:
   - /k11-adv-scripting-and-debugging/
+  - /p/2019-09-01-k11-adv-scripting-and-debugging/ 
+  - /2019-09-01-k11-adv-scripting-and-debugging/
 ---
 
 <!--StartFragment-->

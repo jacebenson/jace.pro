@@ -10,6 +10,7 @@ tags:
   - xml
 redirectFrom:
   - /naming-your-update-sets/
+  - /p/2018-09-20-naming-your-update-sets/
 ---
 
 <!--StartFragment-->

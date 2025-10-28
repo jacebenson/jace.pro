@@ -14,6 +14,7 @@ tags:
   - tutorial
 redirectFrom:
   - /how-to-restart-a-workflow/
+  - /p/2019-04-05-how-to-restart-a-workflow/
 ---
 
 <!--StartFragment-->

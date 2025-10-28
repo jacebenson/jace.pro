@@ -8,6 +8,7 @@ tags:
   - design
 redirectFrom:
   - /blog-simplified-layout/
+  - /p/2019-07-24-blog-simplified-layout/
 ---
 
 <!--StartFragment-->

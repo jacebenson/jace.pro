@@ -8,6 +8,8 @@ tags:
   - troubleshooting
 redirectFrom:
   - /terminology-and-wording/
+  - /p/2019-09-18-terminology-and-wording/ 
+  - /2019-09-18-terminology-and-wording/
 ---
 
 <!--StartFragment-->

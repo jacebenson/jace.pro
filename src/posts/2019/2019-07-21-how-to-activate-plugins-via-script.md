@@ -9,6 +9,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /how-to-activate-plugins-via-script/
+  - /p/2019-07-21-how-to-activate-plugins-via-script/
 ---
 
 <!--StartFragment-->

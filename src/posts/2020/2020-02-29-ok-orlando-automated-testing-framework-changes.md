@@ -10,6 +10,8 @@ tags:
   - release-orlando
 redirectFrom:
   - /ok-orlando-automated-testing-framework-changes/
+  - /p/2020-02-29-ok-orlando-automated-testing-framework-changes/ 
+  - /2020-02-29-ok-orlando-automated-testing-framework-changes/
 ---
 
 <!--StartFragment-->

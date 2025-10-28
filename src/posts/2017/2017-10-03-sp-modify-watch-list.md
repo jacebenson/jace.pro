@@ -11,6 +11,7 @@ tags:
   - html
 redirectFrom:
   - /sp-modify-watch-list/
+  - /p/2017-10-03-sp-modify-watch-list/
 ---
 
 I created a widget and wanted to share that code. Should work on any\

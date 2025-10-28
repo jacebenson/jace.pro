@@ -14,6 +14,8 @@ tags:
   - tutorial
 redirectFrom:
   - /new-york-features-auto-suggest-js-beautify-context-menus/
+  - /p/2019-08-11-new-york-features-auto-suggest-js-beautify-context-menus/ 
+  - /2019-08-11-new-york-features-auto-suggest-js-beautify-context-menus/
 ---
 
 <!--StartFragment-->

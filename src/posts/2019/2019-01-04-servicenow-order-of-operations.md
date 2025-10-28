@@ -9,6 +9,7 @@ tags:
   - html
 redirectFrom:
   - /servicenow-order-of-operations/
+  - /p/2019-01-04-servicenow-order-of-operations/
 ---
 
 <!--StartFragment-->

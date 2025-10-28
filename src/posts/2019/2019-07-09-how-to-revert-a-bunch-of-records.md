@@ -9,6 +9,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /how-to-revert-a-bunch-of-records/
+  - /p/2019-07-09-how-to-revert-a-bunch-of-records/
 ---
 
 <!--StartFragment-->

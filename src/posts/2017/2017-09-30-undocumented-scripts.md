@@ -17,6 +17,7 @@ tags:
   - integration
 redirectFrom:
   - /undocumented-scripts/
+  - /p/2017-09-30-undocumented-scripts/
 ---
 
 <!--StartFragment-->

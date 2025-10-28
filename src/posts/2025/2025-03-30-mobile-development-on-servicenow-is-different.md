@@ -11,6 +11,7 @@ tags:
   - security
 redirectFrom:
   - /mobile-development-on-servicenow-is-different/
+  - /p/2025-03-30-mobile-development-on-servicenow-is-different/
 ---
 
 ## Plugins needed

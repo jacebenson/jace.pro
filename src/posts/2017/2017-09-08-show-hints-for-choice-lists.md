@@ -9,6 +9,7 @@ tags:
   - json
 redirectFrom:
   - /show-hints-for-choice-lists/
+  - /p/2017-09-08-show-hints-for-choice-lists/
 ---
 
 <!--StartFragment-->

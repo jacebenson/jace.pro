@@ -9,6 +9,7 @@ tags:
   - servicenow
 redirectFrom:
   - /did-you-know-you-can-impersonate-with-a-sys_id/
+  - /p/2019-07-21-did-you-know-you-can-impersonate-with-a-sys_id/
 ---
 
 <!--StartFragment-->

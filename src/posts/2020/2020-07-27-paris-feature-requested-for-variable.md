@@ -14,6 +14,7 @@ tags:
   - security
 redirectFrom:
   - /paris-feature-requested-for-variable/
+  - /p/2020-07-27-paris-feature-requested-for-variable/
 ---
 
 <!--StartFragment-->

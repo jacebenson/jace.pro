@@ -7,6 +7,8 @@ tags:
   - json
 redirectFrom:
   - /now-experience-notes/
+  - /p/2020-03-28-now-experience-notes/ 
+  - /2020-03-28-now-experience-notes/
 ---
 
 <!--StartFragment-->

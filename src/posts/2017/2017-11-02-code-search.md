@@ -7,6 +7,7 @@ tags:
   - scoped-apps
 redirectFrom:
   - /code-search/
+  - /p/2017-11-02-code-search/
 ---
 
 <!--StartFragment-->

@@ -19,6 +19,7 @@ tags:
   - security
 redirectFrom:
   - /licensing/
+  - /p/2017-12-02-licensing/
 ---
 
 <!--StartFragment-->

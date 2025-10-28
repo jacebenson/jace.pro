@@ -10,6 +10,7 @@ tags:
   - security
 redirectFrom:
   - /own-your-content/
+  - /p/2020-06-15-own-your-content/
 ---
 
 <!--StartFragment-->

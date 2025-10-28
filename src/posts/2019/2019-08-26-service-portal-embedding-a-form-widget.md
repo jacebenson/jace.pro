@@ -17,6 +17,8 @@ tags:
   - security
 redirectFrom:
   - /service-portal-embedding-a-form-widget/
+  - /p/2019-08-26-service-portal-embedding-a-form-widget/ 
+  - /2019-08-26-service-portal-embedding-a-form-widget/
 ---
 
 <!--StartFragment-->

@@ -14,6 +14,7 @@ tags:
   - json
 redirectFrom:
   - /password-variable-for-service-catalog/
+  - /p/2019-01-17-password-variable-for-service-catalog/
 ---
 
 <!--StartFragment-->

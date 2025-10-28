@@ -7,6 +7,8 @@ tags:
   - html
 redirectFrom:
   - /how-do-you-refer-to-servicenow/
+  - /p/2020-04-27-how-do-you-refer-to-servicenow/ 
+  - /2020-04-27-how-do-you-refer-to-servicenow/
 ---
 
 <!--StartFragment-->

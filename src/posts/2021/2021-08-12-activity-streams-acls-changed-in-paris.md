@@ -13,6 +13,7 @@ tags:
   - security
 redirectFrom:
   - /activity-streams-acls-changed-in-paris/
+  - /p/2021-08-12-activity-streams-acls-changed-in-paris/
 ---
 
 The other day Matt (mhz) was answering a question about form activity streams visiblity for emails. He had recently opened a support case and shared that on Slack.

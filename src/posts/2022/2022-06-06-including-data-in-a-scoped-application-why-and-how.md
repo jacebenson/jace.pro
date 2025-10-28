@@ -8,6 +8,7 @@ tags:
   - tutorial
 redirectFrom:
   - /including-data-in-a-scoped-application-why-and-how/
+  - /p/2022-06-06-including-data-in-a-scoped-application-why-and-how/
 ---
 
 <!--StartFragment-->

@@ -11,6 +11,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /ui16-angular-do-what-is-this/
+  - /p/2018-11-05-ui16-angular-do-what-is-this/
 ---
 
 The other day I got a report of slowness when using the "Post" button on incident

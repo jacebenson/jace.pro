@@ -10,6 +10,7 @@ tags:
   - career
 redirectFrom:
   - /resume-and-interviewing-related-stuff-for-servicenow/
+  - /p/2024-09-11-resume-and-interviewing-related-stuff-for-servicenow/
 ---
 
 Many times when folks connect with me on LinkedIn I'll ask "How can I help?" Sometimes I can actually help.

@@ -17,6 +17,7 @@ tags:
   - security
 redirectFrom:
   - /certifications-sn-offers/
+  - /p/2018-04-10-certifications-sn-offers/
 ---
 
 <!--StartFragment-->

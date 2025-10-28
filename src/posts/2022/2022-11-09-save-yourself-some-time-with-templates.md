@@ -16,6 +16,7 @@ tags:
   - security
 redirectFrom:
   - /save-yourself-some-time-with-templates/
+  - /p/2022-11-09-save-yourself-some-time-with-templates/
 ---
 
 Account Locked out.  That was the error message I got.  So working backwards I was troubleshooting this production issue.  A service account I used to create a Certificate was failing because it's account was locked out.  The only folks with access was me and my team.  I've never met anyone who enjoys working with them and generally I took the lead.  So I tried authenticating on the web to the Certificate Authorities website.  Sure enough it asked me to change my password.  At this point I knew one of two things needed happen.

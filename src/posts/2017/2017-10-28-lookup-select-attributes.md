@@ -10,6 +10,7 @@ tags:
   - tutorial
 redirectFrom:
   - /lookup-select-attributes/
+  - /p/2017-10-28-lookup-select-attributes/
 ---
 
 <!--StartFragment-->

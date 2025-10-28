@@ -8,6 +8,7 @@ tags:
   - beginner
 redirectFrom:
   - /hacktoberfest-2018-self-contained-atf-application/
+  - /p/2018-10-24-hacktoberfest-2018-self-contained-atf-application/
 ---
 
 <!--StartFragment-->

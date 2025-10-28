@@ -9,6 +9,7 @@ tags:
   - security
 redirectFrom:
   - /5-rules-for-email/
+  - /p/2016-03-24-5-rules-for-email/
 ---
 
 ## Do not use the ServiceNow provided email address

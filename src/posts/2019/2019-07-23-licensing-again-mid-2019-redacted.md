@@ -6,6 +6,7 @@ tags:
   - servicenow
 redirectFrom:
   - /licensing-again-mid-2019-redacted/
+  - /p/2019-07-23-licensing-again-mid-2019-redacted/
 ---
 
 <!--StartFragment-->

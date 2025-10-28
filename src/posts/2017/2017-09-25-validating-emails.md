@@ -7,6 +7,7 @@ tags:
   - javascript
 redirectFrom:
   - /validating-emails/
+  - /p/2017-09-25-validating-emails/
 ---
 
 <!--StartFragment-->

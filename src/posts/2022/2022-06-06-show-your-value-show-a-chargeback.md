@@ -9,6 +9,7 @@ tags:
   - chargebacks
 redirectFrom:
   - /show-your-value-show-a-chargeback/
+  - /p/2022-06-06-show-your-value-show-a-chargeback/
 ---
 
 <!--StartFragment-->

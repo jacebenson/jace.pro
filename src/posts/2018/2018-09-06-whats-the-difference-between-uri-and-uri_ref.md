@@ -7,6 +7,7 @@ tags:
   - javascript
 redirectFrom:
   - /whats-the-difference-between-uri-and-uri_ref/
+  - /p/2018-09-06-whats-the-difference-between-uri-and-uri_ref/
 ---
 
 <!--StartFragment-->

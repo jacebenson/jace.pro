@@ -14,6 +14,7 @@ tags:
   - security
 redirectFrom:
   - /app-administration-vs-delegated-development/
+  - /p/2024-12-03-app-administration-vs-delegated-development/
 ---
 
 I'm building a solution and as part of this, I'm trying to make a easy to show interactive environment.  

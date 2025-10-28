@@ -23,6 +23,7 @@ tags:
   - integration
 redirectFrom:
   - /dawn-jureks-great-list-of-best-practices/
+  - /p/2019-07-10-dawn-jureks-great-list-of-best-practices/
 ---
 
 <!--StartFragment-->

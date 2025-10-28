@@ -6,6 +6,7 @@ tags:
   - best-practices
 redirectFrom:
   - /communicate-better/
+  - /p/2022-06-06-communicate-better/
 ---
 
 ## Introduction

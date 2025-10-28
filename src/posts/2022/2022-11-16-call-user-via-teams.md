@@ -9,6 +9,7 @@ tags:
   - integration
 redirectFrom:
   - /call-user-via-teams/
+  - /p/2022-11-16-call-user-via-teams/
 ---
 
 Ajay Chavan wrote up a post about Adding 

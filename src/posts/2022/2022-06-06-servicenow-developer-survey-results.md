@@ -8,6 +8,7 @@ tags:
   - servicenow
 redirectFrom:
   - /servicenow-developer-survey-results/
+  - /p/2022-06-06-servicenow-developer-survey-results/
 ---
 
 <!--StartFragment-->

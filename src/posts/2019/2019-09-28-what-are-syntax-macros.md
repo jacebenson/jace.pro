@@ -11,6 +11,8 @@ tags:
   - html
 redirectFrom:
   - /what-are-syntax-macros/
+  - /p/2019-09-28-what-are-syntax-macros/ 
+  - /2019-09-28-what-are-syntax-macros/
 ---
 
 <!--StartFragment-->

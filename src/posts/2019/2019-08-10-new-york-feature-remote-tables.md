@@ -11,6 +11,7 @@ tags:
   - integration
 redirectFrom:
   - /new-york-feature-remote-tables/
+  - /p/2019-08-10-new-york-feature-remote-tables/
 ---
 
 <!--StartFragment-->

@@ -11,6 +11,7 @@ tags:
   - service-catalog
 redirectFrom:
   - /multirow-variable-sets-in-code/
+  - /p/2019-02-04-multirow-variable-sets-in-code/
 ---
 
 <!--StartFragment-->

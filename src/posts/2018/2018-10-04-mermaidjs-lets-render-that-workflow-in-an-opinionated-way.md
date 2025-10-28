@@ -12,6 +12,7 @@ tags:
   - xml
 redirectFrom:
   - /mermaidjs-lets-render-that-workflow-in-an-opinionated-way/
+  - /p/2018-10-04-mermaidjs-lets-render-that-workflow-in-an-opinionated-way/
 ---
 
 <!--StartFragment-->

@@ -11,6 +11,7 @@ tags:
   - release-orlando
 redirectFrom:
   - /what-are-all-the-shortcuts-in-servicenow/
+  - /p/2020-05-22-what-are-all-the-shortcuts-in-servicenow/
 ---
 
 <!--StartFragment-->

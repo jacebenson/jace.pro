@@ -6,6 +6,7 @@ tags:
   - best-practices
 redirectFrom:
   - /search-trick-on-table/
+  - /p/2018-05-25-search-trick-on-table/
 ---
 
 <!--StartFragment-->

@@ -7,6 +7,7 @@ tags:
   - html
 redirectFrom:
   - /using-uibmodel/
+  - /p/2022-06-06-using-uibmodel/
 ---
 
 <!--StartFragment-->

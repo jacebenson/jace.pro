@@ -9,6 +9,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /how-to-get-help-faster-on-the-servicenow-community/
+  - /p/2018-05-08-how-to-get-help-faster-on-the-servicenow-community/
 ---
 
 <!--StartFragment-->

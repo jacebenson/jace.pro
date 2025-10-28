@@ -13,6 +13,8 @@ tags:
   - integration
 redirectFrom:
   - /comparing-vs-code-extensions/
+  - /p/2019-11-13-comparing-vs-code-extensions/ 
+  - /2019-11-13-comparing-vs-code-extensions/
 ---
 
 <!--StartFragment-->

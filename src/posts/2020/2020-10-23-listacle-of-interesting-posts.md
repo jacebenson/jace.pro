@@ -13,6 +13,7 @@ tags:
   - beginner
 redirectFrom:
   - /listacle-of-interesting-posts/
+  - /p/2020-10-23-listacle-of-interesting-posts/
 ---
 
 <!--StartFragment-->

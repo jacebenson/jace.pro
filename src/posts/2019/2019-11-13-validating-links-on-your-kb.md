@@ -13,6 +13,8 @@ tags:
   - integration
 redirectFrom:
   - /validating-links-on-your-kb/
+  - /p/2019-11-13-validating-links-on-your-kb/ 
+  - /2019-11-13-validating-links-on-your-kb/
 ---
 
 <!--StartFragment-->

@@ -13,6 +13,7 @@ tags:
   - security
 redirectFrom:
   - /how-to-do-reminders-in-servicenow/
+  - /p/2018-06-06-how-to-do-reminders-in-servicenow/
 ---
 
 <!--StartFragment-->

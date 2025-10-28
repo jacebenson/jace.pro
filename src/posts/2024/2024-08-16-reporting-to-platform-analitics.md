@@ -14,6 +14,7 @@ tags:
   - security
 redirectFrom:
   - /reporting-to-platform-analitics/
+  - /p/2024-08-16-reporting-to-platform-analitics/
 ---
 
 A few thoughts and resources.

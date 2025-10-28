@@ -11,6 +11,7 @@ tags:
   - beginner
 redirectFrom:
   - /alternatives-to-openai/
+  - /p/2022-12-31-alternatives-to-openai-pipelineai-and-others/
 ---
 
 I'm trying to understand the pricing to all of this AI / ML tech for my uses with [ScribeMonster](https://scribe.monster).  This is a work in progress so far I'm categorizing the different solutions as Token, Other, or Compute.

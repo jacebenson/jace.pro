@@ -16,6 +16,7 @@ tags:
   - knowledge-conference
 redirectFrom:
   - /notes-from-knowledge-19/
+  - /p/2019-05-10-notes-from-knowledge-19/
 ---
 
 <!--StartFragment-->

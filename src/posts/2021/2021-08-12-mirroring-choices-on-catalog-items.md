@@ -7,6 +7,7 @@ tags:
   - javascript
 redirectFrom:
   - /mirroring-choices-on-catalog-items/
+  - /p/2021-08-12-mirroring-choices-on-catalog-items/
 ---
 
 To do this you don't need a lot. I've hinted at this kind of stuff before with my [Lookup Select Attribute](https://jace.pro/post/2017-10-28-lookup-select-attributes/) post. Here I'll spell it out.

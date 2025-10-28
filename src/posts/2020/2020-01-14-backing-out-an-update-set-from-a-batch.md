@@ -7,6 +7,8 @@ tags:
   - troubleshooting
 redirectFrom:
   - /backing-out-an-update-set-from-a-batch/
+  - /p/2020-01-14-backing-out-an-update-set-from-a-batch/ 
+  - /2020-01-14-backing-out-an-update-set-from-a-batch/
 ---
 
 <!--StartFragment-->

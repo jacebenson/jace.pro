@@ -9,6 +9,7 @@ tags:
   - tutorial
 redirectFrom:
   - /how-to-build-reports-via-url/
+  - /p/2019-07-22-how-to-build-reports-via-url/
 ---
 
 <!--StartFragment-->

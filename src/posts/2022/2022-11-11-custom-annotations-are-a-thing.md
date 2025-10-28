@@ -10,6 +10,7 @@ tags:
   - security
 redirectFrom:
   - /custom-annotations-are-a-thing/
+  - /p/2022-11-11-custom-annotations-are-a-thing/
 ---
 
 A﻿ long time ago Casey on Slack said you can make custom annotations.  I was looking at them and wonder WHY would I ever use them.  I know now when and why I might use this.  

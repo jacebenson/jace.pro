@@ -12,6 +12,7 @@ tags:
   - release-quebec
 redirectFrom:
   - /calculating-business-durations/
+  - /p/2021-04-19-calculating-business-durations/
 ---
 
 # Calculating Business Durations

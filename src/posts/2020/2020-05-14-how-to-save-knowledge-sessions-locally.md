@@ -13,6 +13,7 @@ tags:
   - knowledge-conference
 redirectFrom:
   - /how-to-save-knowledge-sessions-locally/
+  - /p/2020-05-14-how-to-save-knowledge-sessions-locally/
 ---
 
 <!--StartFragment-->

@@ -12,6 +12,7 @@ tags:
   - xml
 redirectFrom:
   - /unsubscribe/
+  - /p/2017-09-13-unsubscribe/
 ---
 
 <!--StartFragment-->

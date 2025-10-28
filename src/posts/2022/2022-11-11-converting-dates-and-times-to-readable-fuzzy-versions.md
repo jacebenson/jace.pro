@@ -7,6 +7,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /converting-dates-and-times-to-readable-fuzzy-versions/
+  - /p/2022-11-11-converting-dates-and-times-to-readable-fuzzy-versions/
 ---
 
 I﻿ am not sure where I got this but I thought it could be useful.  You know how some sites show "3d ago" instead of the YYYY-MM-DD hh:mm:ss version.  Here's a small function that does that for you.

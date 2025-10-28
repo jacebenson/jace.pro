@@ -16,6 +16,7 @@ tags:
   - security
 redirectFrom:
   - /what-is-the-catalog-builder-from-quebec/
+  - /p/2021-01-22-what-is-the-catalog-builder-from-quebec/
 ---
 
 # TL;DR

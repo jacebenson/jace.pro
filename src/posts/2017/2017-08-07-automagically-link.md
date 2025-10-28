@@ -11,6 +11,7 @@ tags:
   - knowledge-conference
 redirectFrom:
   - /automagically-link/
+  - /p/2017-08-07-automagically-link/
 ---
 
 **This is old and I wouldn't recommend anymore.  I'm keeping this up because I want to find it later. - Jace May 21, 2022**

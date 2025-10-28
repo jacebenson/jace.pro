@@ -17,6 +17,7 @@ tags:
   - integration
 redirectFrom:
   - /servicenow-features-i-avoid-and-you-should-too/
+  - /p/2018-08-15-servicenow-features-i-avoid-and-you-should-too/
 ---
 
 <!--StartFragment-->

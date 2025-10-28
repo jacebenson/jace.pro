@@ -6,6 +6,7 @@ tags:
   - servicenow
 redirectFrom:
   - /understanding-the-servicenow-cloud-architecture/
+  - /p/2022-06-06-understanding-the-servicenow-cloud-architecture/
 ---
 
 https://www.youtube.com/watch?v=JTYWyw0v8R4

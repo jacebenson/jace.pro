@@ -18,6 +18,7 @@ tags:
   - security
 redirectFrom:
   - /state-of-ideas/
+  - /p/2020-08-18-state-of-ideas/
 ---
 
 <!--StartFragment-->

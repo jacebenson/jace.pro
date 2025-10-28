@@ -17,6 +17,8 @@ tags:
   - integration
 redirectFrom:
   - /comparing-code-searchers/
+  - /p/2019-11-25-comparing-code-searchers/ 
+  - /2019-11-25-comparing-code-searchers/
 ---
 
 <!--StartFragment-->

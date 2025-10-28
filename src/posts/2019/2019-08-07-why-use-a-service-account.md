@@ -10,6 +10,7 @@ tags:
   - integration
 redirectFrom:
   - /why-use-a-service-account/
+  - /p/2019-08-07-why-use-a-service-account/
 ---
 
 <!--StartFragment-->

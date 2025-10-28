@@ -15,6 +15,7 @@ tags:
   - security
 redirectFrom:
   - /where-are-the-logs/
+  - /p/2018-02-16-where-are-the-logs/
 ---
 
 <!--StartFragment-->

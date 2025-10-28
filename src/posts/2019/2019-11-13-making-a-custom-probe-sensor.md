@@ -9,6 +9,8 @@ tags:
   - tutorial
 redirectFrom:
   - /making-a-custom-probe-sensor/
+  - /p/2019-11-13-making-a-custom-probe-sensor/ 
+  - /2019-11-13-making-a-custom-probe-sensor/
 ---
 
 <!--StartFragment-->

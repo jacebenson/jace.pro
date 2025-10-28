@@ -8,6 +8,7 @@ tags:
   - ai
 redirectFrom:
   - /ai-data-ownership-privacy-and-ethics/
+  - /p/2023-12-23-ai-data-ownership-privacy-and-ethics/
 ---
 
 # AI, Data Ownership, Privacy and Databases: A Heartland Perspective

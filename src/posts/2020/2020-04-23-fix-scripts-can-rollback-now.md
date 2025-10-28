@@ -10,6 +10,8 @@ tags:
   - troubleshooting
 redirectFrom:
   - /fix-scripts-can-rollback-now/
+  - /p/2020-04-23-fix-scripts-can-rollback-now/ 
+  - /2020-04-23-fix-scripts-can-rollback-now/
 ---
 
 <!--StartFragment-->

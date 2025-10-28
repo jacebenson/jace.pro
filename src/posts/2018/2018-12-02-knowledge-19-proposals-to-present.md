@@ -19,6 +19,7 @@ tags:
   - integration
 redirectFrom:
   - /knowledge-19-proposals-to-present/
+  - /p/2018-12-02-knowledge-19-proposals-to-present/
 ---
 
 <!--StartFragment-->

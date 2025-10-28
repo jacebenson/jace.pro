@@ -10,6 +10,7 @@ tags:
   - json
 redirectFrom:
   - /london-feature-multi-row-variable-sets/
+  - /p/2018-08-01-london-feature-multi-row-variable-sets/
 ---
 
 <!--StartFragment-->

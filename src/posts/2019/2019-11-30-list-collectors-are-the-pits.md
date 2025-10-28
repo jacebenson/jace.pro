@@ -13,6 +13,8 @@ tags:
   - security
 redirectFrom:
   - /list-collectors-are-the-pits/
+  - /p/2019-11-30-list-collectors-are-the-pits/ 
+  - /2019-11-30-list-collectors-are-the-pits/
 ---
 
 List collectors try so very hard to be helpful.

@@ -11,6 +11,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /set-duration-and-business-duration/
+  - /p/2017-10-13-set-duration-and-business-duration/
 ---
 
 I had to add some code to set this for some reporting needs.  This should be part of the offering ServiceNow provides.

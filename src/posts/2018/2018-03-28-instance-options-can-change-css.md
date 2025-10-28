@@ -7,6 +7,7 @@ tags:
   - best-practices
 redirectFrom:
   - /instance-options-can-change-css/
+  - /p/2018-03-28-instance-options-can-change-css/
 ---
 
 <!--StartFragment-->

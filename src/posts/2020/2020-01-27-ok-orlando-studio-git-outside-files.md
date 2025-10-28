@@ -10,6 +10,8 @@ tags:
   - integration
 redirectFrom:
   - /ok-orlando-studio-git-outside-files/
+  - /p/2020-01-27-ok-orlando-studio-git-outside-files/ 
+  - /2020-01-27-ok-orlando-studio-git-outside-files/
 ---
 
 <!--StartFragment-->

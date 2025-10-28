@@ -11,6 +11,8 @@ tags:
   - security
 redirectFrom:
   - /browser-extensions-for-servicenow/
+  - /p/2019-12-01-browser-extensions-for-servicenow/ 
+  - /2019-12-01-browser-extensions-for-servicenow/
 ---
 
 <!--StartFragment-->

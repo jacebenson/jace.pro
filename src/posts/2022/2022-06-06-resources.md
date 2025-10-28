@@ -16,6 +16,7 @@ tags:
   - beginner
 redirectFrom:
   - /resources/
+  - /p/2022-06-06-resources/
 ---
 
 | Tools                                                        | Labs + Learning                                                                    | Community                                                                | Documentation                                                                          |

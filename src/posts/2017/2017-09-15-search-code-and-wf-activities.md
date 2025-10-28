@@ -9,6 +9,7 @@ tags:
   - best-practices
 redirectFrom:
   - /search-code-and-wf-activities/
+  - /p/2017-09-15-search-code-and-wf-activities/
 ---
 
 <!--StartFragment-->

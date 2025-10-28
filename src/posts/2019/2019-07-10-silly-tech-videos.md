@@ -7,6 +7,7 @@ tags:
   - videos
 redirectFrom:
   - /silly-tech-videos/
+  - /p/2019-07-10-silly-tech-videos/
 ---
 
 <!--StartFragment-->

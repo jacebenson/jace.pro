@@ -12,6 +12,8 @@ tags:
   - knowledge-conference
 redirectFrom:
   - /knowledge-20-k20-turned-virtual/
+  - /p/2020-03-16-knowledge-20-k20-turned-virtual/ 
+  - /2020-03-16-knowledge-20-k20-turned-virtual/
 ---
 
 <!--StartFragment-->

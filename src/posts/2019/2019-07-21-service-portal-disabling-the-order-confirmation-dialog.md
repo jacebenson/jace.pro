@@ -6,6 +6,7 @@ tags:
   - service-portal
 redirectFrom:
   - /service-portal-disabling-the-order-confirmation-dialog/
+  - /p/2019-07-21-service-portal-disabling-the-order-confirmation-dialog/
 ---
 
 <!--StartFragment-->

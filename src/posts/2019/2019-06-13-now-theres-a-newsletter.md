@@ -6,6 +6,7 @@ tags:
   - notifications
 redirectFrom:
   - /now-theres-a-newsletter/
+  - /p/2019-06-13-now-theres-a-newsletter/
 ---
 
 <!--StartFragment-->

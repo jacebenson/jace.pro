@@ -11,6 +11,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /run-a-trigger-as-system-from-a-script/
+  - /p/2024-11-01-run-a-trigger-as-system-from-a-script/
 ---
 
 [How to excute a script as system - Support and Troubleshooting (servicenow.com)](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0820233)

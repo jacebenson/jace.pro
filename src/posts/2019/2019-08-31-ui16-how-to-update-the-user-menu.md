@@ -10,6 +10,8 @@ tags:
   - tutorial
 redirectFrom:
   - /ui16-how-to-update-the-user-menu/
+  - /p/2019-08-31-ui16-how-to-update-the-user-menu/ 
+  - /2019-08-31-ui16-how-to-update-the-user-menu/
 ---
 
 <!--StartFragment-->

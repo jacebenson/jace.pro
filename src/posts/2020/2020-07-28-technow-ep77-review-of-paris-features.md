@@ -25,6 +25,7 @@ tags:
   - integration
 redirectFrom:
   - /technow-ep77-review-of-paris-features/
+  - /p/2020-07-28-technow-ep77-review-of-paris-features/
 ---
 
 <!--StartFragment-->

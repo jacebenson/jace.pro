@@ -13,6 +13,7 @@ tags:
   - tutorial
 redirectFrom:
   - /getting-the-next-n-approvals/
+  - /p/2018-09-24-getting-the-next-n-approvals/
 ---
 
 <!--StartFragment-->

@@ -26,6 +26,7 @@ tags:
   - security
 redirectFrom:
   - /developer-guidelines-have-ai-rewrite-each-line-in-my-voice/
+  - /p/2024-11-01-developer-guidelines-have-ai-rewrite-each-line-in-my-voice/
 ---
 
 ## Update sets 

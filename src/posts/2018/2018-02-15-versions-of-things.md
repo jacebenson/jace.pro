@@ -12,6 +12,7 @@ tags:
   - xml
 redirectFrom:
   - /versions-of-things/
+  - /p/2018-02-15-versions-of-things/
 ---
 
 Sometimes you just want to know the versions of software you're using.

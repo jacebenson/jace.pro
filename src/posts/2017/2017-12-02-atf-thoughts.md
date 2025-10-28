@@ -8,6 +8,7 @@ tags:
   - update-sets
 redirectFrom:
   - /atf-thoughts/
+  - /p/2017-12-02-atf-thoughts/
 ---
 
 This is a list of items I think the ATF Tests should include.

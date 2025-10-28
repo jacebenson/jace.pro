@@ -7,6 +7,8 @@ tags:
   - release-orlando
 redirectFrom:
   - /ok-orlando-serivce-portal-conversation-widget/
+  - /p/2020-01-27-ok-orlando-serivce-portal-conversation-widget/ 
+  - /2020-01-27-ok-orlando-serivce-portal-conversation-widget/
 ---
 
 <!--StartFragment-->

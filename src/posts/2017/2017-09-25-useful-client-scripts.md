@@ -13,6 +13,7 @@ tags:
   - tutorial
 redirectFrom:
   - /useful-client-scripts/
+  - /p/2017-09-25-useful-client-scripts/
 ---
 
 <!--StartFragment-->

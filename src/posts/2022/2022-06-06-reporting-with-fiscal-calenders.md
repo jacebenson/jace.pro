@@ -8,6 +8,7 @@ tags:
   - tutorial
 redirectFrom:
   - /reporting-with-fiscal-calenders/
+  - /p/2022-06-06-reporting-with-fiscal-calenders/
 ---
 
 <!--StartFragment-->

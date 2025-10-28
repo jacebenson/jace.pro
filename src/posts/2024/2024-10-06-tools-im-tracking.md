@@ -18,6 +18,7 @@ tags:
   - security
 redirectFrom:
   - /tools-im-tracking/
+  - /p/2024-10-06-tools-im-tracking/
 ---
 
 # Tools I'm tracking

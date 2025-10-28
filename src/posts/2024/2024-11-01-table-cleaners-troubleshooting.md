@@ -18,6 +18,7 @@ tags:
   - performance
 redirectFrom:
   - /table-cleaners-troubleshooting/
+  - /p/2024-11-01-table-cleaners-troubleshooting/
 ---
 
 Sometimes you need to answer questions like "Why does this do this?" or "How does this work?"  This is a set of notes on these kinds of question regarding table cleaners.

@@ -15,6 +15,7 @@ tags:
   - security
 redirectFrom:
   - /skygiraffe/
+  - /p/2025-06-23-skygiraffe/
 ---
 
 _This is part of a series I’m writing to inspire myself and other builders by shining a light on companies that ServiceNow has acquired. If you’re dreaming of building something yourself, these stories aren’t just history, they’re playbooks with lessons we can learn._

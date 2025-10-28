@@ -13,6 +13,7 @@ tags:
 redirectFrom:
   - /why-isnt-my-field-showing-up-or-not-hiding-on-servicenow/
   - /why-is-my-field-missing-in-servicenow/
+  - /p/2024-08-17-why-isnt-my-field-showing-up-or-not-hiding-on-servicenow/
 ---
 
 I really like and use the "why isn't email working" post from forever ago so I decided to do it again but for why a field might not show up.

@@ -13,6 +13,7 @@ tags:
   - security
 redirectFrom:
   - /why-does-servicenow-use-zoomin-instead-of-knowledge/
+  - /p/2022-12-23-why-does-servicenow-use-zoomin-instead-of-knowledge/
 ---
 
 Have you ever wondered why ServiceNow doesn't use their Knowledge management for their docs?  I mean you could argue they do, but we know those are only for folks with access to support.

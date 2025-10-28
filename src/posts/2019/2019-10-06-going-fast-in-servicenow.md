@@ -8,6 +8,8 @@ tags:
   - security
 redirectFrom:
   - /going-fast-in-servicenow/
+  - /p/2019-10-06-going-fast-in-servicenow/ 
+  - /2019-10-06-going-fast-in-servicenow/
 ---
 
 <!--StartFragment-->

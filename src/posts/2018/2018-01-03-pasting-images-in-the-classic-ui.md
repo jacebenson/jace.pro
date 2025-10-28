@@ -11,6 +11,7 @@ tags:
   - html
 redirectFrom:
   - /pasting-images-in-the-classic-ui/
+  - /p/2018-01-03-pasting-images-in-the-classic-ui/
 ---
 
 Sometime ago I looked for the ability to paste images onto a form and have it attach in both the [portal](https://jace.pro/Service-Portal/Pasting-Images-on-the-Portal/), and the\

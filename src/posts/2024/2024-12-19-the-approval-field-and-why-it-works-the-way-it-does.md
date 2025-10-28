@@ -18,6 +18,7 @@ tags:
   - tutorial
 redirectFrom:
   - /the-approval-field-and-why-it-works-the-way-it-does/
+  - /p/2024-12-19-the-approval-field-and-why-it-works-the-way-it-does/
 ---
 
 1. There's the told approval engine that I believe evaluates the `sysrule_approvals` and `process_guide` records.  There's a number of approval rules against `sc_request`

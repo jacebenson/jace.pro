@@ -19,6 +19,8 @@ tags:
   - knowledge-conference
 redirectFrom:
   - /service-portal-is-going-the-way-of-the-mammoth/
+  - /p/2019-10-14-service-portal-is-going-the-way-of-the-mammoth/ 
+  - /2019-10-14-service-portal-is-going-the-way-of-the-mammoth/
 ---
 
 <!--StartFragment-->

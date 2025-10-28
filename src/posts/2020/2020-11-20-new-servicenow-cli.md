@@ -12,6 +12,7 @@ tags:
   - integration
 redirectFrom:
   - /new-servicenow-cli/
+  - /p/2020-11-20-new-servicenow-cli/
 ---
 
 <!--StartFragment-->

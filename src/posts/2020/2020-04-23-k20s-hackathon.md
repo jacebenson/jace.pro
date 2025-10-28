@@ -12,6 +12,8 @@ tags:
   - knowledge-conference
 redirectFrom:
   - /k20s-hackathon/
+  - /p/2020-04-23-k20s-hackathon/ 
+  - /2020-04-23-k20s-hackathon/
 ---
 
 <!--StartFragment-->

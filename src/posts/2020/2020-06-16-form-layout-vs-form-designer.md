@@ -8,6 +8,7 @@ tags:
   - form design
 redirectFrom:
   - /form-layout-vs-form-designer/
+  - /p/2020-06-16-form-layout-vs-form-designer/
 ---
 
 <!--StartFragment-->

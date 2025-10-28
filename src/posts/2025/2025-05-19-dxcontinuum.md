@@ -15,6 +15,7 @@ tags:
   - integration
 redirectFrom:
   - /dxcontinuum/
+  - /p/2025-05-19-dxcontinuum/
 ---
 
 _This is part of a series I’m writing to inspire myself and other builders by shining a light on companies that ServiceNow has acquired. If you’re dreaming of building something yourself, these stories aren’t just history, they’re playbooks with lessons we can learn._

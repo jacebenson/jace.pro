@@ -13,6 +13,7 @@ tags:
   - security
 redirectFrom:
   - /servicenows-database-views-weird-and-expose-details-unless-your-careful/
+  - /p/2022-10-28-servicenows-database-views-weird-and-expose-details-unless-your-careful/
 ---
 
 [20h](https://sndevs.slack.com/archives/C0E2G2681/p1666907158792759)

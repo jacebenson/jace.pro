@@ -7,6 +7,7 @@ tags:
   - reporting
 redirectFrom:
   - /reporting-on-multiple-sets-of-data-in-one-report/
+  - /p/2022-06-06-reporting-on-multiple-sets-of-data-in-one-report/
 ---
 
 <!--StartFragment-->

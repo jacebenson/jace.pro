@@ -10,6 +10,7 @@ tags:
   - tutorial
 redirectFrom:
   - /using-remote-tables-for-choices/
+  - /p/2024-08-16-using-remote-tables-for-choices/
 ---
 
 A while ago someone shared with me a script to make choices available on their own table without consuming a table from your licensing.

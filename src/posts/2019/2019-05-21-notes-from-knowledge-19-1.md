@@ -15,6 +15,7 @@ tags:
   - security
 redirectFrom:
   - /notes-from-knowledge-19-1/
+  - /p/2019-05-21-notes-from-knowledge-19-1/
 ---
 
 <!--StartFragment-->

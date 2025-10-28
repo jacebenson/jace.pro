@@ -16,6 +16,7 @@ tags:
   - security
 redirectFrom:
   - /k20-session-review/
+  - /p/2020-05-29-k20-session-review/
 ---
 
 <!--StartFragment-->

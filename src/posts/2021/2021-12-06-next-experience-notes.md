@@ -9,6 +9,7 @@ tags:
   - release-rome
 redirectFrom:
   - /next-experience-notes/
+  - /p/2021-12-06-next-experience-notes/
 ---
 
 ## Now Component Concepts

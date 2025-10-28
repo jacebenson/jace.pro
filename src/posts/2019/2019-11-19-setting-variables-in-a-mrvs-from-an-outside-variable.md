@@ -15,6 +15,8 @@ tags:
   - security
 redirectFrom:
   - /setting-variables-in-a-mrvs-from-an-outside-variable/
+  - /p/2019-11-19-setting-variables-in-a-mrvs-from-an-outside-variable/ 
+  - /2019-11-19-setting-variables-in-a-mrvs-from-an-outside-variable/
 ---
 
 <!--StartFragment-->

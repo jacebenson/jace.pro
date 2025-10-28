@@ -9,6 +9,8 @@ tags:
   - integration
 redirectFrom:
   - /step-away-from-emails/
+  - /p/2020-01-09-step-away-from-emails/ 
+  - /2020-01-09-step-away-from-emails/
 ---
 
 <!--StartFragment-->

@@ -17,6 +17,7 @@ tags:
   - security
 redirectFrom:
   - /the-original-value-prop-of-servicenow/
+  - /p/2023-10-25-the-original-value-prop-of-servicenow/
 ---
 
 Lately I've been thinking a lot about the value tools add for the price they cost.  

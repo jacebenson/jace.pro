@@ -15,6 +15,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /create-item-from-script/
+  - /p/2018-05-13-create-item-from-script/
 ---
 
 <!--StartFragment-->

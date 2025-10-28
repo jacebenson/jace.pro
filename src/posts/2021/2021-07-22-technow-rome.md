@@ -16,6 +16,7 @@ tags:
   - security
 redirectFrom:
   - /technow-rome/
+  - /p/2021-07-22-technow-rome/
 ---
 
 Feel free to edit!!!! everyone!

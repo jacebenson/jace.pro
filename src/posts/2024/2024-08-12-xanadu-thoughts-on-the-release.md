@@ -27,6 +27,7 @@ tags:
   - integration
 redirectFrom:
   - /xanadu-thoughts-on-the-release/
+  - /p/2024-08-12-xanadu-thoughts-on-the-release/
 ---
 
 The other day I was chatting about the Xanadu release and I thought I'd write up my thoughts about it.

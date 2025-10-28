@@ -8,6 +8,7 @@ tags:
   - javascript
 redirectFrom:
   - /do-you-need-new-javascript-to-work-in-servicenow/
+  - /p/2024-10-17-do-you-need-new-javascript-to-work-in-servicenow/
 ---
 
 Sometimes you need new code converted to things ServiceNow understands.  Arrow functions now work in ServiceNow in some places but not others.  `let`, `const` same thing.  

@@ -16,6 +16,7 @@ tags:
   - integration
 redirectFrom:
   - /discovery-patterns-for-aws/
+  - /p/2018-04-04-discovery-patterns-for-aws/
 ---
 
 <!--StartFragment-->

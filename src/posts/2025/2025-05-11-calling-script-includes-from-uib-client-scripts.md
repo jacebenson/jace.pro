@@ -11,6 +11,7 @@ tags:
   - integration
 redirectFrom:
   - /calling-script-includes-from-uib-client-scripts/
+  - /p/2025-05-11-calling-script-includes-from-uib-client-scripts/
 ---
 
 This could be improved a lot.

@@ -9,6 +9,7 @@ tags:
   - troubleshooting
 redirectFrom:
   - /notification-troubleshooting/
+  - /p/2017-09-18-notification-troubleshooting/
 ---
 
 <!--StartFragment-->

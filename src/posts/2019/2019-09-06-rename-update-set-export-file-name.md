@@ -13,6 +13,8 @@ tags:
   - xml
 redirectFrom:
   - /rename-update-set-export-file-name/
+  - /p/2019-09-06-rename-update-set-export-file-name/ 
+  - /2019-09-06-rename-update-set-export-file-name/
 ---
 
 I know I've lost an update set in the past after a clone. Not because I didn't back it up. But because I couldn't find it locally on my drive. Or I did but all the names were too much to keep straight.

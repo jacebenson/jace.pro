@@ -7,6 +7,7 @@ tags:
   - landing-page
 redirectFrom:
   - /10-elements-of-a-great-landing-page/
+  - /p/2024-09-21-10-elements-of-a-great-landing-page/
 ---
 
 Rob Walling is someone I often enjoy listening to and reading content he's a part of.

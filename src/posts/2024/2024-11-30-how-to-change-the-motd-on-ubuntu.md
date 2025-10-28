@@ -6,6 +6,7 @@ tags:
   - tutorial
 redirectFrom:
   - /how-to-change-the-motd-on-ubuntu/
+  - /p/2024-11-30-how-to-change-the-motd-on-ubuntu/
 ---
 
 The Message of the day on linux is helpful, but its long and... a little hard for things to stand out.

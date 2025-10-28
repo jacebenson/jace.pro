@@ -8,6 +8,7 @@ tags:
   - security
 redirectFrom:
   - /advanced-reported-with-related-list-conditions/
+  - /p/2019-03-20-advanced-reported-with-related-list-conditions/
 ---
 
 The other day I was asked, "Hey, how can I find all the access controls with NO related roles?" 

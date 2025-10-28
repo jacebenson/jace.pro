@@ -10,6 +10,7 @@ tags:
   - json
 redirectFrom:
   - /service-portal-add-to-cart-is-a-pita/
+  - /p/2018-07-15-service-portal-add-to-cart-is-a-pita/
 ---
 
 So it seems the first thing a lot of places have to do when setting up\

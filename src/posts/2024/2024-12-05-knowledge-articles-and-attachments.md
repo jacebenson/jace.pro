@@ -15,6 +15,7 @@ tags:
   - security
 redirectFrom:
   - /knowledge-articles-and-attachments/
+  - /p/2024-12-05-knowledge-articles-and-attachments/
 ---
 
 The `db_image`, `db_video`, and `db_audio` tables in ServiceNow do something interesting: they completely ignore access controls (ACLs). That means any file stored here is publicly accessible. While this is great for assets like images in public-facing knowledge base (KB) articles, it does come with some caveats.

@@ -16,6 +16,8 @@ tags:
   - release-orlando
 redirectFrom:
   - /ok-orlando-data-source-custom-load-by-script/
+  - /p/2020-02-29-ok-orlando-data-source-custom-load-by-script/ 
+  - /2020-02-29-ok-orlando-data-source-custom-load-by-script/
 ---
 
 <!--StartFragment-->

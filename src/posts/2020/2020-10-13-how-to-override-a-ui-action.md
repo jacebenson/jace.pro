@@ -7,6 +7,7 @@ tags:
   - tutorial
 redirectFrom:
   - /how-to-override-a-ui-action/
+  - /p/2020-10-13-how-to-override-a-ui-action/
 ---
 
 <!--StartFragment-->

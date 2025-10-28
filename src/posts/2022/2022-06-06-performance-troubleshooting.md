@@ -9,6 +9,7 @@ tags:
   - security
 redirectFrom:
   - /performance-troubleshooting/
+  - /p/2022-06-06-performance-troubleshooting/
 ---
 
 <!--StartFragment-->

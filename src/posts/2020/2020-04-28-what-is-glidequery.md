@@ -9,6 +9,7 @@ tags:
   - security
 redirectFrom:
   - /what-is-glidequery/
+  - /p/2020-04-28-what-is-glidequery/
 ---
 
 <!--StartFragment-->

@@ -11,6 +11,7 @@ tags:
   - knowledge-conference
 redirectFrom:
   - /k20-weekly-review-for-the-week-ending-on-june-5th/
+  - /p/2020-06-05-k20-weekly-review-for-the-week-ending-on-june-5th/
 ---
 
 <!--StartFragment-->

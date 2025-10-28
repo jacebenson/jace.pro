@@ -11,6 +11,8 @@ tags:
   - release-orlando
 redirectFrom:
   - /ok-orlando-csv-line-parser/
+  - /p/2020-02-28-ok-orlando-csv-line-parser/ 
+  - /2020-02-28-ok-orlando-csv-line-parser/
 ---
 
 <!--StartFragment-->
