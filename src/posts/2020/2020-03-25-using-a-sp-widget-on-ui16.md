@@ -8,6 +8,7 @@ tags:
   - xml
 redirectFrom:
   - /using-a-sp-widget-on-ui16/
+  - /p/2020-03-25-using-a-sp-widget-on-ui16/
 ---
 
 <!--StartFragment-->
