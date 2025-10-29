@@ -8,6 +8,7 @@ import {full as markdownItEmoji} from 'markdown-it-emoji';
 import markdownItFootnote from 'markdown-it-footnote';
 import markdownitMark from 'markdown-it-mark';
 import markdownitAbbr from 'markdown-it-abbr';
+import markdownItObsidianCallouts from 'markdown-it-obsidian-callouts';
 import {slugifyString} from '../filters/slugify.js';
 
 export const markdownLib = markdownIt({
@@ -44,6 +45,7 @@ export const markdownLib = markdownIt({
   .use(markdownItFootnote)
   .use(markdownitMark)
   .use(markdownitAbbr)
+  .use(markdownItObsidianCallouts)
   .use(md => {
     md.renderer.rules.image = (tokens, idx) => {
       const token = tokens[idx];

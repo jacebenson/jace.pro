@@ -3,18 +3,18 @@ title: Automagically Link records from journaled fields.
 description: A old way to rewrite comments as links
 date: '2017-08-07'
 tags:
-  - gliderecord
+  - servicenow
+  - automations
   - business-rules
-  - knowledge
-  - service-catalog
-  - javascript
-  - knowledge-conference
+  - outdated
 redirectFrom:
   - /automagically-link/
   - /p/2017-08-07-automagically-link/
 ---
 
-**This is old and I wouldn't recommend anymore.  I'm keeping this up because I want to find it later. - Jace May 21, 2022**
+> [!info] Don't use this anymore
+> This is old and I wouldn't recommend anymore.  I'm keeping this up because I want to find it later.
+> Jace May 21, 2022
 
 Here I'll write the logic out some and note the issues identified so far.
 

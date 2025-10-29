@@ -16,19 +16,19 @@ I've created one of these to improve on the one on [share](https://share.servic
 
 ![Screenshot of the scoped application from 2017](/assets/images/code-search.png "Screenshot of the scoped application from 2017")
 
-## [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2017-11-02-code-search/index.md#features)Features
+## Features
 
 * Table of Contents of results
 * Inline code that is found
 * Sys ID Search
 
-## [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2017-11-02-code-search/index.md#setup)Setup
+## Setup
 
 1. Open Studio on your environment
 2. Import from source
 3. Paste in the following URL: `https://github.com/jacebenson/servicenow-code.git`
 
-## [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2017-11-02-code-search/index.md#usage)Usage
+## Usage
 
 After you import this, you can start to use it by navigating to `/code` on your instance.
 

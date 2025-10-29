@@ -53,7 +53,7 @@ With that being said, this information is based on the sources I found publicly 
 
   * [Tulsa County](https://www.tulsacounty.org/agendalinks/BOCC112116/Agreement-%20IT-%20ServiceNow,%20Inc.pdf)
 
-## [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2017-12-02-licensing/index.md#taxonomy-and-user-types)Taxonomy and User Types
+## Taxonomy and User Types
 
 ServiceNow sells six standard offerings. All customers must first purchase one of the below standard offerings.
 
@@ -80,7 +80,7 @@ CreateNow to provide customers the most flexibility to utilize ServiceNow develo
 * ServiceNow Performance Analytics -- Provides advanced analytics and time series analysis for key performance indicators(KPIs.)
 * Public Catalog -- Supports service catalog deployments that extend outside the organization to an unknown number of Requesters.
 
-### [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2017-12-02-licensing/index.md#user-types-for-standard-packages)User Types for Standard Packages
+### User Types for Standard Packages
 
 Every employee or contractor given access to the subscription service by the customer must be assigned a unique username and password that may not be shared or transferred. Employees and contractors that have a user profile in the subscription service which is not designated as "active" may not be given access to the subscription service. The following describes the types of users required for each subscription model:
 
@@ -88,7 +88,7 @@ Every employee or contractor given access to the subscription service by the cus
 * Requesters: (formerly referred to as end users): Requesters create, edit, and view their own requests. Requests can be submissions through the service catalog or incidents submitted through the ServiceNow web or mobile interfaces. They can also access the ServiceNow Knowledge Base to perform self service. A Requester is any user checked as "active" on his or her user profile in the subscription service other than a Fulfiller or Approver.
 * Approvers: Approvers can do everything a Requester does as well as approve or deny a record routed to the user (including adding related comments/work notes, however no other field may be modified). The Approver may perform the functionalities listed below for any approval generated via a ServiceNow built or custom built application. An Approver is any user given the ServiceNow provided "Approver" role in the subscription service by the customer and no other role.
 
-## [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2017-12-02-licensing/index.md#non-user-licensing)Non-user Licensing
+## Non-user Licensing
 
 | Thing                            | Cost per          | Subscribed |
 | -------------------------------- | ----------------- | ---------- |
@@ -104,7 +104,7 @@ Every employee or contractor given access to the subscription service by the cus
 | Public Catalog                   |                   |            |
 | Password reset (part of ITOM)    | 10k resets/yr     | Yes        |
 
-### [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2017-12-02-licensing/index.md#service-suite)Service Suite
+### Service Suite
 
 The Service Suite is designed to address service requirements in any service domain including:
 
@@ -118,23 +118,23 @@ The Service Suite is designed to address service requirements in any service dom
   * Legal Service Enables the legal department to define its services and fulfill requests -- including contracts, legal research and policy queries through workflow capabilities and knowledge; provides visibility into resource utilization and service delivery performance through dashboards.
   * Marketing Service Enables the marketing department to define its services and fulfill requests --including creative services, campaign operations and website publishing through workflow capabilities and knowledge; provides visibility into resource utilization and service delivery performance through dashboards.
 
-### [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2017-12-02-licensing/index.md#service-suite-with-createnow)Service Suite With CreateNow
+### Service Suite With CreateNow
 
 The Service Suite With CreateNow is comprised of everything in the Service Suite and also includes CreateNow custom application development use rights. This combination provides customers with the most flexibility because they can utilize ServiceNow developed service applications "out of the box" as well as build their own applications on top of the Service Automation Platform. CreateNow use rights are required to utilize the Service Suite capability to create service applications from a template.
 
-### [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2017-12-02-licensing/index.md#project-portfolio-suite)Project Portfolio Suite
+### Project Portfolio Suite
 
 The Project Portfolio Suite addresses the prioritization and delivery of projects and services. This suite provides support for both waterfall and agile methodologies including Scrum. Included in this package are Project Portfolio, Resource, Demand, Test and Software Development Lifecycle (SDLC).
 
-### [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2017-12-02-licensing/index.md#it-business-suite)IT Business Suite
+### IT Business Suite
 
 The IT Business Suite (ITBM) extends the ServiceNow portfolio by providing the compliance and performance metrics necessary to manage IT services. Included in this package are Governance, Risk, and Compliance (GRC), andVendor Performance .
 
-### [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2017-12-02-licensing/index.md#it-financial-application)IT Financial Application
+### IT Financial Application
 
 In addition to the application suites listed above, ServiceNow separately offers IT Financial built on the complete Service Automation Platform. IT Financial is a ServiceNow developed application designed to provide insight into spend for CIO's seeking to align investment to business goals. Users can classify general ledger records, define a reporting structure, define allocation rules and view summary reports. The IT Financial application is independently subscribed to based on the numbers of users required. IT Financial is a strategic product that adds valuable insight on spend for a very small number of key individuals, such asthe CIO, CFO and business unit IT VPs, with pricing reflecting that value.
 
-## [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2017-12-02-licensing/index.md#user-licensing)User Licensing
+## User Licensing
 
 | Application                         | Service Mgt | Service Mgt Createnow | Project Portfolio | Business Mgt | Finance Mgt | Create Now |
 | ----------------------------------- | ----------- | --------------------- | ----------------- | ------------ | ----------- | ---------- |
@@ -164,7 +164,7 @@ In addition to the application suites listed above, ServiceNow separately offers
 
 > Note Licensing here means they are a Fulfiller below! Also Custom App means can use any number of custom applications e.g. regular old u_tables, or scoped applications Project with financial plugins - is different
 
-## [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2017-12-02-licensing/index.md#what-requires-a-role)What requires a Role
+## What requires a Role
 
 | Function                                        | Requester | Time Card | Approver | Fulfiller |
 | ----------------------------------------------- | --------- | --------- | -------- | --------- |
@@ -194,7 +194,7 @@ In addition to the application suites listed above, ServiceNow separately offers
 | Perform development activities                  |           |           |          | Included  |
 | Perform Administrative activities               |           |           |          | Included  |
 
-## [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2017-12-02-licensing/index.md#related-reading)Related reading;
+## Related reading
 
 * Cost of extending tables: [https://servicenow.implementation.blog/financial-implications-of-extending-tables/](https://web.archive.org/web/20170224171442/servicenow.implementation.blog/financial-implications-of-extending-tables)
 * Custom Table Guide: <https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/doc-type/legal/custom-table-guide.pdf>

@@ -37,8 +37,20 @@ export const getAllPosts = collection => {
   if (process.env.ELEVENTY_ENV === 'development') {
     allPosts = [...allPosts, ...draftPosts];
   }
+  console.log(`Total posts in collection: ${allPosts.length}`);
+  // lets print the last 10 posts dates and titles
+  
+  // okay we need to sort the posts by date descending
+  allPosts.sort((a, b) => {
+    return new Date(b.data.date) - new Date(a.data.date);
+  });
+  // lets revererse to have newest posts first
+  //allPosts.reverse();
+  //allPosts.slice(-10).forEach(post => {
+  //  console.log(`${post.data.date} - ${post.data.title}`);
+  //});
   // reverse to have newest posts first
-  return allPosts.reverse();
+  return allPosts;//.reverse();
   
 };
 

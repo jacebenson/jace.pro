@@ -4,9 +4,10 @@ description: Rules I follow for emails
 date: '2016-03-24'
 tags:
   - servicenow
-  - workflow
-  - notifications
-  - security
+  - automations
+  - inbound-email
+  - outbound-email
+  - email
 redirectFrom:
   - /5-rules-for-email/
   - /p/2016-03-24-5-rules-for-email/
@@ -19,7 +20,7 @@ redirectFrom:
 * Changing the "From" on notifications is not possible without setting this up.
 * This puts all the content submitted on your own servers where you can control it. Otherwise they are all on ServiceNow's servers where you don't have the same control.
 
-## [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2016-03-24-5-rules-for-emails/index.md#events-or-workflow-activities-always-events-and-heres-a-list-of-reasons-why)Events or Workflow Activities? Always Events and here's a list of reasons why
+## Events or Workflow Activities? Always Events and here's a list of reasons why
 
 1. Ability to trigger the notification from any server side script.
 2. Faster prototyping of the notification. Why? Because you can trigger the notification on `sysevent`.
@@ -53,10 +54,10 @@ redirectFrom:
   * ServiceNow Weekly Summary for 2017-09-08
   * ServiceNow Daily Summary for 2017-09-04
 
-## [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2016-03-24-5-rules-for-emails/index.md#allow-users-to-unsubscribe-to-actionable-or-informational-emails-or-not)Allow users to unsubscribe to actionable, or informational emails or not
+## Allow users to unsubscribe to actionable, or informational emails or not
 
 > Actively discourage the use of Inbound Email as a mechanism for ticket creation. It should be used when the sending party is a robot. Over time, the conditions desired by your stakeholders, and the propensity for user input error will make inbound email a horrific mess. Its also like Pandora's Box. Once you tell users they can email into ServiceNow, they'll never stop. I force stakeholders to sign off to knowing about a 30% failure rate if they want inbound email processing. -- [Robert Fedoruk](https://community.servicenow.com/message/990963#991021)
 
-## [](https://github.com/jacebenson/jace.pro/blob/master/src/post/2016-03-24-5-rules-for-emails/index.md#memorize-this-diagram)Memorize this diagram
+## Memorize this diagram
 
 ![A diagram showing the logic of when an incoming email is processed in ServiceNow](/assets/images/2016-servicenow-email-diagram.png "ServiceNow Email Processing Diagram")
