@@ -40,6 +40,7 @@ When I'm not working on ServiceNow, I create tools and resources to help develop
 - **[SNDocs](https://sndocs.jace.pro)** - An unofficial ServiceNow version tracker
 - **[News Jace Pro](https://news.jace.pro)** - A ServiceNow news aggregator
 - **[nullEDGE conference](https://thenulledge.com)** - The conference I wished existed for ServiceNow, now a reality
+- **[All the rest of my projects](https://jace.pro/directory/)** - A comprehensive list of my tools and utilities
 
 ## Technical Skills
 
