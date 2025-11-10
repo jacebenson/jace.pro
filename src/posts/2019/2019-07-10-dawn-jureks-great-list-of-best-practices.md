@@ -5,22 +5,6 @@ description: >-
 date: '2019-07-10'
 tags:
   - servicenow
-  - business-rules
-  - client-scripts
-  - atf
-  - flow-designer
-  - discovery
-  - cmdb
-  - reporting
-  - service-catalog
-  - html
-  - database
-  - tutorial
-  - troubleshooting
-  - best-practices
-  - performance
-  - security
-  - integration
 redirectFrom:
   - /dawn-jureks-great-list-of-best-practices/
   - /p/2019-07-10-dawn-jureks-great-list-of-best-practices/

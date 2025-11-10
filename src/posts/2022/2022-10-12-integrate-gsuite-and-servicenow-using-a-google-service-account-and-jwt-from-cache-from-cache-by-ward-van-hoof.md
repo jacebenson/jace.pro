@@ -7,11 +7,6 @@ description: >-
 date: '2022-10-12'
 tags:
   - servicenow
-  - api
-  - html
-  - json
-  - security
-  - integration
 redirectFrom:
   - /integrate-gsuite-and-servicenow-using-a-google-service-account-and-jwt-from-cache/
   - /p/2022-10-12-integrate-gsuite-and-servicenow-using-a-google-service-account-and-jwt-from-cache-from-cache-by-ward-van-hoof/

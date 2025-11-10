@@ -4,7 +4,7 @@ description: "I suggest you don't use it as you can't ensure the data.\r\n\r\nI 
 date: '2017-09-26'
 tags:
   - client-scripts
-  - javascript
+  - servicenow
 redirectFrom:
   - /validating-emails/
   - /p/2017-09-25-validating-emails/

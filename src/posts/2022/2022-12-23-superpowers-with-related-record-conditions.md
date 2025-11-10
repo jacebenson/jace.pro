@@ -4,9 +4,6 @@ description: "> Steve: Jace, I want an alert whenever we don't get an message fr
 date: '2022-12-24'
 tags:
   - servicenow
-  - notifications
-  - reporting
-  - service-catalog
 redirectFrom:
   - /superpowers-with-related-record-conditions/
   - /p/2022-12-23-superpowers-with-related-record-conditions/

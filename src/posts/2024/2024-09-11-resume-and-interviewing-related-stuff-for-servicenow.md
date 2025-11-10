@@ -6,8 +6,6 @@ description: >-
 date: '2024-09-12'
 tags:
   - servicenow
-  - troubleshooting
-  - career
 redirectFrom:
   - /resume-and-interviewing-related-stuff-for-servicenow/
   - /p/2024-09-11-resume-and-interviewing-related-stuff-for-servicenow/

@@ -4,11 +4,7 @@ description: >-
     The API of APIs. A way to get the apis listed in the text editors in ServiceNow.
 date: '2018-11-21'
 tags:
-  - gliderecord
-  - api
-  - javascript
-  - json
-  - troubleshooting
+  - servicenow
 redirectFrom:
   - /glidescripteditormanager-a-class-to-manage-apis/
   - /p/2018-11-21-glidescripteditormanager-a-class-to-manage-apis/

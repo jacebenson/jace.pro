@@ -7,9 +7,6 @@ description: >-
 date: '2022-12-25'
 tags:
   - servicenow
-  - release-vancouver
-  - security
-  - integration
 redirectFrom:
   - /what-is-servicenow-store-google-search-trend/
 ---

@@ -4,25 +4,6 @@ description: "The Topics from the Registration page;\r\n\r\nOn the registration 
 date: '2020-07-28'
 tags:
   - servicenow
-  - service-portal
-  - workflow
-  - atf
-  - flow-designer
-  - update-sets
-  - api
-  - notifications
-  - acl
-  - service-catalog
-  - angular
-  - html
-  - xml
-  - json
-  - database
-  - release-paris
-  - tutorial
-  - performance
-  - security
-  - integration
 redirectFrom:
   - /technow-ep77-review-of-paris-features/
   - /p/2020-07-28-technow-ep77-review-of-paris-features/

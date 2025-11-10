@@ -7,12 +7,7 @@ description: >-
 date: '2025-06-23'
 tags:
   - servicenow
-  - workflow
-  - notifications
-  - database
-  - ai
-  - troubleshooting
-  - security
+  - acquisitions
 redirectFrom:
   - /skygiraffe/
   - /p/2025-06-23-skygiraffe/

@@ -4,16 +4,6 @@ description: "TL;DR\r\n\r\nI had a stream ad-hoc with Druhv about this. It's way
 date: '2021-01-23'
 tags:
   - servicenow
-  - client-scripts
-  - ui-policies
-  - workflow
-  - flow-designer
-  - update-sets
-  - service-catalog
-  - html
-  - release-quebec
-  - tutorial
-  - security
 redirectFrom:
   - /what-is-the-catalog-builder-from-quebec/
   - /p/2021-01-22-what-is-the-catalog-builder-from-quebec/

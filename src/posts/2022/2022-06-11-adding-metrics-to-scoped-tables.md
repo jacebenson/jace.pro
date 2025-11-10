@@ -4,12 +4,7 @@ description: "This has been in my queue for a bit to figure out.\r\n\r\nI tried 
 date: '2022-06-11'
 tags:
   - servicenow
-  - business-rules
-  - scoped-apps
-  - javascript
-  - tutorial
-  - troubleshooting
-  - security
+  - script-actions
 redirectFrom:
   - /adding-metrics-to-scoped-tables/
   - /p/2022-06-11-adding-metrics-to-scoped-tables/

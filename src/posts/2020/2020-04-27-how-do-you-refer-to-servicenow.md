@@ -4,7 +4,6 @@ description: Between ServiceNow, Snow, and SN, why do folks call it these differ
 date: '2020-04-27'
 tags:
   - servicenow
-  - html
 redirectFrom:
   - /how-do-you-refer-to-servicenow/
   - /p/2020-04-27-how-do-you-refer-to-servicenow/ 

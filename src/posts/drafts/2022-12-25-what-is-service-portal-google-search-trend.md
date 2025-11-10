@@ -10,7 +10,6 @@ tags:
   - service-portal
   - discovery
   - cmdb
-  - integration
 redirectFrom:
   - /what-is-service-portal-google-search-trend/
 ---

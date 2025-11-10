@@ -4,17 +4,7 @@ description: "The other day I was looking at the\_licensing training\_and thinki
 date: '2019-11-27'
 tags:
   - servicenow
-  - service-portal
-  - scoped-apps
-  - import-sets
-  - knowledge
-  - reporting
-  - html
-  - database
-  - tutorial
-  - knowledge-conference
-  - security
-  - integration
+  - tables
 redirectFrom:
   - /custom-table-guide-what-is-this/
   - /p/2019-11-26-custom-table-guide-what-is-this/ 

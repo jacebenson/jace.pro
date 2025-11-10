@@ -4,10 +4,6 @@ description: "OK Orlando - A series of features worth note\r\n\r\nIn Orlando the
 date: '2020-02-29'
 tags:
   - servicenow
-  - ui-actions
-  - atf
-  - html
-  - release-orlando
 redirectFrom:
   - /ok-orlando-automated-testing-framework-changes/
   - /p/2020-02-29-ok-orlando-automated-testing-framework-changes/ 

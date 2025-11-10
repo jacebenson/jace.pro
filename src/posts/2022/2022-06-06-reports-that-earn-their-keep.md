@@ -3,9 +3,8 @@ title: Reports that earn their keep
 description: "Add reports that actually have actionable output;\\\r\ne.g.\r\n\r\n \\[ ]\_Trend on catalog item\r\n \\[ ]\_Service Account transactions\r\n \\[ ]\_Login/Logout events\r\n \\[ ]..."
 date: '2022-06-07'
 tags:
+  - servicenow
   - reporting
-  - service-catalog
-  - performance
 redirectFrom:
   - /reports-that-earn-their-keep/
   - /p/2022-06-06-reports-that-earn-their-keep/

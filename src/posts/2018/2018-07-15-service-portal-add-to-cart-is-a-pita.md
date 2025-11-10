@@ -5,9 +5,6 @@ date: '2018-07-15'
 tags:
   - servicenow
   - service-portal
-  - service-catalog
-  - html
-  - json
 redirectFrom:
   - /service-portal-add-to-cart-is-a-pita/
   - /p/2018-07-15-service-portal-add-to-cart-is-a-pita/

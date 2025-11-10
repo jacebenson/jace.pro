@@ -4,12 +4,7 @@ description: "The other day I was looking at my mermaidjs flows and wanted to se
 date: '2018-10-04'
 tags:
   - servicenow
-  - gliderecord
-  - ui-actions
-  - workflow
-  - flow-designer
-  - javascript
-  - xml
+  - ui-pages
 redirectFrom:
   - /mermaidjs-lets-render-that-workflow-in-an-opinionated-way/
   - /p/2018-10-04-mermaidjs-lets-render-that-workflow-in-an-opinionated-way/

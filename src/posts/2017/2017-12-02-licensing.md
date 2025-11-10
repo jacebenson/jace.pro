@@ -4,19 +4,6 @@ description: Understanding your licensing
 date: '2017-12-03'
 tags:
   - servicenow
-  - workflow
-  - api
-  - discovery
-  - cmdb
-  - knowledge
-  - notifications
-  - reporting
-  - service-catalog
-  - tutorial
-  - troubleshooting
-  - knowledge-conference
-  - performance
-  - security
 redirectFrom:
   - /licensing/
   - /p/2017-12-02-licensing/

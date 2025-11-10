@@ -4,17 +4,8 @@ description: "So this weekend I had the opportunity to help someone out with an 
 date: '2019-08-27'
 tags:
   - servicenow
-  - gliderecord
-  - client-scripts
   - service-portal
-  - service-catalog
-  - javascript
-  - angular
-  - html
-  - release-madrid
-  - tutorial
-  - troubleshooting
-  - security
+  - core-ui
 redirectFrom:
   - /service-portal-embedding-a-form-widget/
   - /p/2019-08-26-service-portal-embedding-a-form-widget/ 

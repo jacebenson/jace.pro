@@ -7,16 +7,7 @@ description: >-
 date: '2018-12-02'
 tags:
   - servicenow
-  - atf
-  - api
-  - discovery
-  - import-sets
-  - knowledge
-  - tutorial
-  - troubleshooting
   - knowledge-conference
-  - security
-  - integration
 redirectFrom:
   - /knowledge-19-proposals-to-present/
   - /p/2018-12-02-knowledge-19-proposals-to-present/

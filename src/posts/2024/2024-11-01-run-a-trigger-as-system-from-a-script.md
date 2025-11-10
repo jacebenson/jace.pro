@@ -4,11 +4,6 @@ description: "How to excute a script as system - Support and Troubleshooting (se
 date: '2024-11-01'
 tags:
   - servicenow
-  - gliderecord
-  - knowledge
-  - javascript
-  - tutorial
-  - troubleshooting
 redirectFrom:
   - /run-a-trigger-as-system-from-a-script/
   - /p/2024-11-01-run-a-trigger-as-system-from-a-script/

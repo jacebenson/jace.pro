@@ -3,7 +3,7 @@ title: 'Service Catalog: Auto ordering variables'
 description: "Today I learned a trick that would have saved me hours had I known about it years ago.\r\n\r\nFrom time to time you find yourself working on a catalog item with ..."
 date: '2018-09-07'
 tags:
-  - service-catalog
+  - servicenow
 redirectFrom:
   - /service-catalog-auto-ordering-variables/
   - /p/2018-09-07-service-catalog-auto-ordering-variables/

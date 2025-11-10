@@ -6,25 +6,6 @@ description: >-
 date: '2024-08-12'
 tags:
   - servicenow
-  - business-rules
-  - client-scripts
-  - service-portal
-  - workflow
-  - flow-designer
-  - scoped-apps
-  - update-sets
-  - api
-  - cmdb
-  - knowledge
-  - reporting
-  - acl
-  - html
-  - release-xanadu
-  - knowledge-conference
-  - career
-  - performance
-  - security
-  - integration
 redirectFrom:
   - /xanadu-thoughts-on-the-release/
   - /p/2024-08-12-xanadu-thoughts-on-the-release/

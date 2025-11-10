@@ -4,8 +4,6 @@ description: Supercharge your variables and unleash their power!
 date: '2023-02-16'
 tags:
   - servicenow
-  - service-catalog
-  - javascript
 redirectFrom:
   - /n2sn-variables-data-types-and-operators/
 ---

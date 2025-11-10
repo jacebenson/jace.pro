@@ -5,8 +5,7 @@ date: '2019-07-22'
 tags:
   - servicenow
   - reporting
-  - service-catalog
-  - tutorial
+  - navigation
 redirectFrom:
   - /how-to-build-reports-via-url/
   - /p/2019-07-22-how-to-build-reports-via-url/

@@ -4,9 +4,7 @@ description: "Table Guide: https://www.servicenow.com/content/dam/servicenow-ass
 date: '2022-11-14'
 tags:
   - servicenow
-  - knowledge
-  - html
-  - tutorial
+  - tables
 redirectFrom:
   - /why-would-you-ever-extend-the-syslog-table/
   - /p/2022-11-13-why-would-you-ever-extend-the-syslog-table/

@@ -7,13 +7,6 @@ description: >-
 date: '2020-09-03'
 tags:
   - servicenow
-  - reporting
-  - service-catalog
-  - javascript
-  - html
-  - database
-  - release-orlando
-  - troubleshooting
 redirectFrom:
   - /careful-with-reserved-words/
   - /p/2020-09-03-careful-with-reserved-words/

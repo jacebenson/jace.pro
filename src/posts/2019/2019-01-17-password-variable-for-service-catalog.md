@@ -6,12 +6,7 @@ description: >-
   make one that is secure but I feel we shouldn't have to.
 date: '2019-01-17'
 tags:
-  - client-scripts
-  - service-portal
-  - service-catalog
-  - javascript
-  - html
-  - json
+  - servicenow
 redirectFrom:
   - /password-variable-for-service-catalog/
   - /p/2019-01-17-password-variable-for-service-catalog/

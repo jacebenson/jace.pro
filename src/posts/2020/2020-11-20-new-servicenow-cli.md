@@ -7,9 +7,6 @@ description: >-
 date: '2020-11-20'
 tags:
   - servicenow
-  - api
-  - tutorial
-  - integration
 redirectFrom:
   - /new-servicenow-cli/
   - /p/2020-11-20-new-servicenow-cli/

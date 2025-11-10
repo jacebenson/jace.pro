@@ -4,9 +4,7 @@ description: "Check these steps.\r\n\r\n1. On the notification, verify the notif
 date: '2017-09-19'
 tags:
   - servicenow
-  - notifications
-  - html
-  - troubleshooting
+  - email
 redirectFrom:
   - /notification-troubleshooting/
   - /p/2017-09-18-notification-troubleshooting/

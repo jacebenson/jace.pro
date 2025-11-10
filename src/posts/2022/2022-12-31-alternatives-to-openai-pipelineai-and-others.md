@@ -5,10 +5,8 @@ description: >-
   Sagemaker, Google Colab, PipelineAI, and others with pricing details for each.
 date: '2022-12-31'
 tags:
-  - api
+  - thoughts
   - ai
-  - chatgpt
-  - beginner
 redirectFrom:
   - /alternatives-to-openai/
   - /p/2022-12-31-alternatives-to-openai-pipelineai-and-others/

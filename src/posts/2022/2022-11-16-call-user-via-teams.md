@@ -4,9 +4,7 @@ description: "Ajay Chavan wrote up a post about Adding \r\na Teams link to the u
 date: '2022-11-17'
 tags:
   - servicenow
-  - gliderecord
-  - xml
-  - integration
+  - ui-macros
 redirectFrom:
   - /call-user-via-teams/
   - /p/2022-11-16-call-user-via-teams/

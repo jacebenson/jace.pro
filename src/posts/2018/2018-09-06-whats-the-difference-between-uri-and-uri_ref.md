@@ -3,8 +3,8 @@ title: Difference between ${URI} and ${URI_REF}
 description: "All this talk about notifications had me poking around and I learned about using\_${URI_REF}\_instead of\_${URI}. It's magical.\r\n\r\n ${URI_REF}\_creates a link to..."
 date: '2018-09-06'
 tags:
-  - notifications
-  - javascript
+  - email
+  - servicenow
 redirectFrom:
   - /whats-the-difference-between-uri-and-uri_ref/
   - /p/2018-09-06-whats-the-difference-between-uri-and-uri_ref/

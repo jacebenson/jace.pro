@@ -8,10 +8,6 @@ tags:
   - business-rules
   - service-portal
   - flow-designer
-  - scoped-apps
-  - html
-  - tutorial
-  - security
 redirectFrom:
   - /app-administration-vs-delegated-development/
   - /p/2024-12-03-app-administration-vs-delegated-development/

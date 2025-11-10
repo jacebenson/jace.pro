@@ -4,8 +4,7 @@ description: "I've found two real ways to verify the data meets the needs you ha
 date: '2017-09-26'
 tags:
   - client-scripts
-  - service-catalog
-  - javascript
+  - servicenow
 redirectFrom:
   - /validating-phone/
   - /p/2017-09-25-validating-phone/

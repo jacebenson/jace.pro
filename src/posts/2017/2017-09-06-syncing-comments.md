@@ -3,11 +3,7 @@ title: Syncing Comments on Requested Item and Catalog Task
 description: This is a terrible ask to fulfill.
 date: '2017-09-06'
 tags:
-  - gliderecord
-  - business-rules
-  - notifications
-  - service-catalog
-  - javascript
+  - servicenow
 redirectFrom:
   - /syncing-comments/
   - /p/2017-09-06-syncing-comments/

@@ -1,19 +1,11 @@
 ---
 title: Resources
 description: >-
-  | Tools                                                        | Labs +
-  Learning                                                                    |
-  Communi...
+  A collection of useful resources for ServiceNow developers, including tools,
+  labs, community links, and documentation to enhance your development experience.
 date: '2022-06-07'
 tags:
   - servicenow
-  - workflow
-  - api
-  - angular
-  - html
-  - tutorial
-  - knowledge-conference
-  - beginner
 redirectFrom:
   - /resources/
   - /p/2022-06-06-resources/

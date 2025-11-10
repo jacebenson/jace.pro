@@ -3,8 +3,8 @@ title: Getting the RSS Feed from a Youtube Page
 description: "Getting the RSS feed from Youtube Channels is harder and harder every year.\r\n\r\nI wrote this up after looking for a few hours.  This will if ran on a video pa..."
 date: '2024-10-06'
 tags:
-  - javascript
-  - xml
+  - youtube
+  - rss
 redirectFrom:
   - /getting-the-rss-feed-from-a-youtube-page/
   - /p/2024-10-06-getting-the-rss-feed-from-a-youtube-page/

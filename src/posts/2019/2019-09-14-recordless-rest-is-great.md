@@ -3,10 +3,8 @@ title: Recordless Rest Is Great
 description: "It seems this page was lost in the rearranging of files. I pulled it out\\\r\nof storage\r\n\r\nI often use the record-less rest calls to test things. I didn't see ..."
 date: '2019-09-15'
 tags:
-  - api
-  - javascript
-  - json
-  - integration
+  - rest-api
+  - servicenow
 redirectFrom:
   - /recordless-rest-is-great/
   - /p/2019-09-14-recordless-rest-is-great/ 

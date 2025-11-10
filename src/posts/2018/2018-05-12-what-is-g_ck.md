@@ -3,12 +3,7 @@ title: What is g_ck
 description: "What is\_g_ck\_and why should I care?\r\n\r\ng_ck\_is the current sessions token for authentication.\r\n\r\n## Why would you want to use this or know about this\r\n\r\nIt's..."
 date: '2018-05-13'
 tags:
-  - service-portal
-  - api
-  - javascript
-  - json
-  - security
-  - integration
+  - servicenow
 redirectFrom:
   - /what-is-g_ck/
   - /p/2018-05-12-what-is-g_ck/

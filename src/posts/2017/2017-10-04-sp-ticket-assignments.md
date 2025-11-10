@@ -3,12 +3,8 @@ title: Service Portal - Ticket Assignments
 description: "I created a ticket assignments and wanted to share that code. Should\\\r\nwork on any instance unless you have a business rule blocking the\\\r\nupdate.\r\n\r\n\r\n\r\n!\r\n..."
 date: '2017-10-05'
 tags:
-  - gliderecord
-  - business-rules
-  - client-scripts
+  - servicenow
   - service-portal
-  - javascript
-  - html
 redirectFrom:
   - /sp-ticket-assignments/
   - /p/2017-10-04-sp-ticket-assignments/

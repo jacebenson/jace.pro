@@ -3,9 +3,7 @@ title: Opportunity is out there
 description: "The other day I was on my computer when I got a message.\r\n\r\n\"Hey Jace, Do you have any thoughts on getting a job working on ServiceNow during these times?\" (..."
 date: '2020-07-30'
 tags:
-  - servicenow
-  - career
-  - integration
+  - thoughts
 redirectFrom:
   - /opportunity-is-out-there/
   - /p/2020-07-30-opportunity-is-out-there/

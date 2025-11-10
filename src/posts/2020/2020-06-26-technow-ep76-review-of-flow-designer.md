@@ -2,18 +2,10 @@
 title: TechNow Ep76 Review of Flow Designer
 description: >-
   Slabodnick is amazing. A long long time ago I had the opportunity to work with
-  him. We did some great stuff there. I'm always happy to catch a session where
-  ...
+  him. We did some great stuff there.
 date: '2020-06-26'
 tags:
   - servicenow
-  - workflow
-  - flow-designer
-  - service-catalog
-  - database
-  - release-paris
-  - tutorial
-  - troubleshooting
 redirectFrom:
   - /technow-ep76-review-of-flow-designer/
   - /p/2020-06-26-technow-ep76-review-of-flow-designer/

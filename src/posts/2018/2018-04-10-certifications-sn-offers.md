@@ -7,14 +7,6 @@ description: >-
 date: '2018-04-11'
 tags:
   - servicenow
-  - discovery
-  - knowledge
-  - html
-  - tutorial
-  - knowledge-conference
-  - beginner
-  - career
-  - security
 redirectFrom:
   - /certifications-sn-offers/
   - /p/2018-04-10-certifications-sn-offers/

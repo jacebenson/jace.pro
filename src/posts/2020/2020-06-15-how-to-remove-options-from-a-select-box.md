@@ -4,10 +4,6 @@ description: "In the past people have asked How do I\_Remove an option from sele
 date: '2020-06-15'
 tags:
   - servicenow
-  - client-scripts
-  - service-catalog
-  - javascript
-  - tutorial
 redirectFrom:
   - /how-to-remove-options-from-a-select-box/
   - /p/2020-06-15-how-to-remove-options-from-a-select-box/

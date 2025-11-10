@@ -4,8 +4,7 @@ description: "Here's my understanding of how the\_sys_trigger\_\"process events\
 date: '2017-11-30'
 tags:
   - servicenow
-  - knowledge
-  - javascript
+  - script-actions
 redirectFrom:
   - /how-event-processors-work/
   - /p/2017-11-29-how-event-processors-work/

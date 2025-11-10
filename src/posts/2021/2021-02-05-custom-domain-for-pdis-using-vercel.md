@@ -3,9 +3,7 @@ title: Custom Domain for PDIs using Vercel
 description: "Custom Domain for PDIs using Vercel\r\n\r\nI was able to do this with the help of Mav and Mike Bahr. Thanks guys!\r\n\r\nFirst of all this fixes the redirect issues ..."
 date: '2021-02-06'
 tags:
-  - html
-  - troubleshooting
-  - security
+  - servicenow
 redirectFrom:
   - /custom-domain-for-pdis-using-vercel/
   - /p/2021-02-05-custom-domain-for-pdis-using-vercel/

@@ -4,7 +4,6 @@ description: YYYY-MM-DDT00:00:00.000Z to 3d ago
 date: '2022-11-12'
 tags:
   - javascript
-  - troubleshooting
 redirectFrom:
   - /converting-dates-and-times-to-readable-fuzzy-versions/
   - /p/2022-11-11-converting-dates-and-times-to-readable-fuzzy-versions/

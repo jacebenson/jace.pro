@@ -7,19 +7,6 @@ description: >-
 date: '2020-01-06'
 tags:
   - servicenow
-  - service-portal
-  - atf
-  - flow-designer
-  - update-sets
-  - api
-  - discovery
-  - cmdb
-  - import-sets
-  - service-catalog
-  - html
-  - release-orlando
-  - tutorial
-  - integration
 redirectFrom:
   - /quick-guide-orlando/
   - /p/2020-01-06-quick-guide-orlando/

@@ -8,7 +8,6 @@ date: '2025-10-22'
 tags:
   - servicenow
   - acl
-  - security
   - draft
 redirectFrom:
   - /what-is-an-acl/

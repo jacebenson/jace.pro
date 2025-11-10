@@ -4,9 +4,7 @@ description: >-
   Reasons why stepping out of your comfort zone is beneficial, along with practical ways to do it.
 date: '2023-01-04'
 tags:
-  - servicenow
-  - tutorial
-  - beginner
+  - thoughts
 redirectFrom:
   - /why-is-being-uncomfortable-great-when-learning-new-things/
   - /p/2023-01-03-why-is-being-uncomfortable-great-when-learning-new-things/

@@ -3,8 +3,7 @@ title: 'N2SN: JSON (JavaScript Object Notation)'
 description: Unleash the power of JSON for data exchange!
 date: '2023-02-16'
 tags:
-  - javascript
-  - json
+  - servicenow
 redirectFrom:
   - /n2sn-json-javascript-object-notation/
 ---

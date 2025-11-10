@@ -4,26 +4,6 @@ description: "Update sets\_\r\n\r\n1. If an update is identified to be in the in
 date: '2024-11-01'
 tags:
   - servicenow
-  - gliderecord
-  - business-rules
-  - client-scripts
-  - ui-policies
-  - workflow
-  - atf
-  - flow-designer
-  - update-sets
-  - api
-  - discovery
-  - knowledge
-  - reporting
-  - service-catalog
-  - javascript
-  - xml
-  - database
-  - ai
-  - troubleshooting
-  - performance
-  - security
 redirectFrom:
   - /developer-guidelines-have-ai-rewrite-each-line-in-my-voice/
   - /p/2024-11-01-developer-guidelines-have-ai-rewrite-each-line-in-my-voice/

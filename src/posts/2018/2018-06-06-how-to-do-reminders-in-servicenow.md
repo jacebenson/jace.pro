@@ -4,13 +4,6 @@ description: "This has come up often enough that it merits a post. Reminders of 
 date: '2018-06-07'
 tags:
   - servicenow
-  - business-rules
-  - flow-designer
-  - scoped-apps
-  - notifications
-  - reporting
-  - tutorial
-  - security
 redirectFrom:
   - /how-to-do-reminders-in-servicenow/
   - /p/2018-06-06-how-to-do-reminders-in-servicenow/

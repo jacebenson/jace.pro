@@ -4,10 +4,6 @@ description: "A long time ago a man called \"SlightlyLooney\" used to write post
 date: '2018-05-25'
 tags:
   - servicenow
-  - business-rules
-  - service-catalog
-  - javascript
-  - tutorial
 redirectFrom:
   - /slightlooney/
   - /p/2018-05-24-slightlooney/

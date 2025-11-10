@@ -7,8 +7,6 @@ description: >-
 date: '2020-04-23'
 tags:
   - servicenow
-  - knowledge
-  - tutorial
   - knowledge-conference
 redirectFrom:
   - /k20s-hackathon/

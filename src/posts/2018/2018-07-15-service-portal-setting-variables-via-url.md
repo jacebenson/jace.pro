@@ -4,12 +4,7 @@ description: "The other day,\_a post was made, asking how to do this\\\r\nand I 
 date: '2018-07-15'
 tags:
   - servicenow
-  - client-scripts
-  - service-portal
-  - service-catalog
-  - javascript
-  - html
-  - tutorial
+  - navigation
 redirectFrom:
   - /service-portal-setting-variables-via-url/
   - /p/2018-07-15-service-portal-setting-variables-via-url/

@@ -3,8 +3,8 @@ title: Now Experience Notes
 description: "I was following along with\_Upside-down Andrew's posts\_and taking notes trying to get a now-expierence component to work.\r\n\r\nHere's my notes;\r\n\r\n1. Checked ve..."
 date: '2020-03-28'
 tags:
-  - javascript
-  - json
+  - servicenow
+  - next-experience
 redirectFrom:
   - /now-experience-notes/
   - /p/2020-03-28-now-experience-notes/ 

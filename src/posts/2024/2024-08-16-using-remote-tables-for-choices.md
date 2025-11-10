@@ -6,8 +6,7 @@ description: >-
 date: '2024-08-16'
 tags:
   - servicenow
-  - javascript
-  - tutorial
+  - remote-tables
 redirectFrom:
   - /using-remote-tables-for-choices/
   - /p/2024-08-16-using-remote-tables-for-choices/

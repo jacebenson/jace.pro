@@ -6,10 +6,7 @@ description: >-
 date: '2025-10-28'
 tags:
     - servicenow
-    - url-parameters
     - navigation
-    - tips-and-tricks
-    - work-in-progress
 ---
 
 I realized when I was looking for the "do not add url to history" param that I didn't have a good list of URL parameters for ServiceNow.  So I started compiling one here.  This is a work in progress.  If you have any to add, please let me know.

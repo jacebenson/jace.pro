@@ -7,13 +7,7 @@ description: >-
 date: '2019-01-12'
 tags:
   - servicenow
-  - business-rules
-  - workflow
-  - knowledge
-  - notifications
-  - javascript
-  - html
-  - knowledge-conference
+  - approvals
 redirectFrom:
   - /approvals-for-knowledge-and-how-they-dont-work/
   - /p/2019-01-12-approvals-for-knowledge-and-how-they-dont-work/

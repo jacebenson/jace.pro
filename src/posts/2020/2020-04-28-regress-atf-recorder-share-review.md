@@ -7,7 +7,6 @@ description: >-
 date: '2020-04-28'
 tags:
   - servicenow
-  - atf
 redirectFrom:
   - /regress-atf-recorder-share-review/
   - /p/2020-04-28-regress-atf-recorder-share-review/

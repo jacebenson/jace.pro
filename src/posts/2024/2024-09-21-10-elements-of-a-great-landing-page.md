@@ -3,8 +3,7 @@ title: 10 Elements of a great landing page
 description: "Rob Walling is someone I often enjoy listening to and reading content he's a part of.\r\n\r\nHe spoke about this piece I keep coming back to about 10 elements of..."
 date: '2024-09-21'
 tags: 
-  - marketing
-  - landing-page
+  - thoughts
 redirectFrom:
   - /10-elements-of-a-great-landing-page/
   - /p/2024-09-21-10-elements-of-a-great-landing-page/

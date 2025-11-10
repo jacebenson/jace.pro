@@ -3,16 +3,7 @@ title: Setting Variables in a MRVS from an outside variable
 description: "A while ago\_I wrote about\_using Dependent variables in a Multi Row Variable Set (MRVS). In there something always bothered me. The whole bit about how you ca..."
 date: '2019-11-20'
 tags:
-  - client-scripts
-  - atf
-  - scoped-apps
-  - service-catalog
-  - mrvs
-  - javascript
-  - json
-  - tutorial
-  - troubleshooting
-  - security
+  - servicenow
 redirectFrom:
   - /setting-variables-in-a-mrvs-from-an-outside-variable/
   - /p/2019-11-19-setting-variables-in-a-mrvs-from-an-outside-variable/ 

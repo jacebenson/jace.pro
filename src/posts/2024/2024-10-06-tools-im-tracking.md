@@ -6,16 +6,6 @@ description: >-
 date: '2024-10-06'
 tags:
   - servicenow
-  - business-rules
-  - service-portal
-  - workflow
-  - flow-designer
-  - reporting
-  - acl
-  - javascript
-  - html
-  - database
-  - security
 redirectFrom:
   - /tools-im-tracking/
   - /p/2024-10-06-tools-im-tracking/

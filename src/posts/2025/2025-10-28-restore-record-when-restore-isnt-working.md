@@ -5,10 +5,7 @@ description: >-
     scripting when the standard restore function is not working.
 date: '2025-10-28'
 tags:
-  - gliderecord
-  - javascript
-  - xml
-  - json
+  - servicenow
 redirectFrom:
   - /restore-record-when-restore-isnt-working/
 ---

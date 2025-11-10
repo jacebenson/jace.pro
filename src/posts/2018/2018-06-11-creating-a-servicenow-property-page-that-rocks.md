@@ -4,12 +4,6 @@ description: "Sometimes you want a nice looking property page.\_Ben Phillips was
 date: '2018-06-12'
 tags:
   - servicenow
-  - client-scripts
-  - css
-  - html
-  - xml
-  - tutorial
-  - security
 redirectFrom:
   - /creating-a-servicenow-property-page-that-rocks/
   - /p/2018-06-11-creating-a-servicenow-property-page-that-rocks/

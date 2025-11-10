@@ -4,11 +4,6 @@ description: "As part of my getting familiar with some of the new features of Or
 date: '2020-02-28'
 tags:
   - servicenow
-  - service-catalog
-  - javascript
-  - html
-  - json
-  - release-orlando
 redirectFrom:
   - /ok-orlando-csv-line-parser/
   - /p/2020-02-28-ok-orlando-csv-line-parser/ 

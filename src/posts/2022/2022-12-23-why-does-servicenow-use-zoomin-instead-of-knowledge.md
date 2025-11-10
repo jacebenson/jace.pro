@@ -7,10 +7,6 @@ description: >-
 date: '2022-12-24'
 tags:
   - servicenow
-  - api
-  - knowledge
-  - knowledge-conference
-  - security
 redirectFrom:
   - /why-does-servicenow-use-zoomin-instead-of-knowledge/
   - /p/2022-12-23-why-does-servicenow-use-zoomin-instead-of-knowledge/

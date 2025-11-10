@@ -3,11 +3,7 @@ title: Own Your Content
 description: "Have you ever had a something you made and loved? Then did you ever look for it later and find it gone?\r\n\r\nI have. It's a terrible, terrible feeling. For me ..."
 date: '2020-06-15'
 tags:
-  - servicenow
-  - scoped-apps
-  - javascript
-  - css
-  - security
+  - thoughts
 redirectFrom:
   - /own-your-content/
   - /p/2020-06-15-own-your-content/

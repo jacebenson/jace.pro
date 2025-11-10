@@ -2,17 +2,11 @@
 title: Knowledge 19 Hackathon, a personal look
 description: >-
   In my last post I said, "The hackathon is a great place to learn a new feature
-  but it's not a hackathon. They expect you to have the app prebuilt before you
-  ...
+  but it's not a hackathon.
 date: '2019-05-21'
 tags:
-  - business-rules
-  - knowledge
-  - database
-  - release-madrid
-  - troubleshooting
+  - servicenow
   - knowledge-conference
-  - security
 redirectFrom:
   - /notes-from-knowledge-19-1/
   - /p/2019-05-21-notes-from-knowledge-19-1/

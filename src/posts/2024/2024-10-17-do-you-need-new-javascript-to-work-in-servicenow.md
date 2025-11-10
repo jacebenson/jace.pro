@@ -5,7 +5,6 @@ description: >-
 date: '2024-10-17'
 tags:
   - servicenow
-  - javascript
 redirectFrom:
   - /do-you-need-new-javascript-to-work-in-servicenow/
   - /p/2024-10-17-do-you-need-new-javascript-to-work-in-servicenow/

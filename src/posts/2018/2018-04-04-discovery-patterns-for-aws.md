@@ -4,16 +4,6 @@ description: "Patterns are a new and interesting thing in ServiceNow.\r\n\r\n# D
 date: '2018-04-05'
 tags:
   - servicenow
-  - gliderecord
-  - discovery
-  - service-catalog
-  - javascript
-  - html
-  - json
-  - database
-  - tutorial
-  - security
-  - integration
 redirectFrom:
   - /discovery-patterns-for-aws/
   - /p/2018-04-04-discovery-patterns-for-aws/

@@ -3,12 +3,8 @@ title: Service Portal - Modify Watch List
 description: "I created a widget and wanted to share that code. Should work on any\\\r\ninstance unless you have a business rule blocking the update.\r\n\r\n## Client Script\r\n\r\nj..."
 date: '2017-10-04'
 tags:
-  - gliderecord
-  - business-rules
-  - client-scripts
+  - servicenow
   - service-portal
-  - javascript
-  - html
 redirectFrom:
   - /sp-modify-watch-list/
   - /p/2017-10-03-sp-modify-watch-list/

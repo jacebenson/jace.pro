@@ -4,8 +4,7 @@ description: "First, I have to say, thank you @paige for making me aware. I real
 date: '2019-09-29'
 tags:
   - servicenow
-  - service-portal
-  - html
+  - next-experience
 redirectFrom:
   - /annotations-seem-to-be-unsupported/
   - /p/2019-09-28-annotations-seem-to-be-unsupported/ 

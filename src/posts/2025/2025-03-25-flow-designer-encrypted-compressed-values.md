@@ -7,9 +7,7 @@ date: '2025-03-25'
 tags:
   - servicenow
   - gliderecord
-  - workflow
   - flow-designer
-  - javascript
 redirectFrom:
   - /flow-designer-encrypted-compressed-values/
   - /p/2025-03-25-flow-designer-encrypted-compressed-values/

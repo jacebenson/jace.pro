@@ -4,7 +4,7 @@ description: "What is the post about?\\\r\nInbound Action debugging\\\r\nInbound
 date: '2022-06-07'
 tags:
   - servicenow
-  - tutorial
+  - email
 redirectFrom:
   - /debugging-inbound-emails/
   - /p/2022-06-06-debugging-inbound-emails/

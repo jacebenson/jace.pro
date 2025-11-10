@@ -4,8 +4,6 @@ description: "I opened a HI ticket about this and they communicated that the glo
 date: '2018-06-14'
 tags: 
   - servicenow
-  - search
-  - zing
 redirectFrom:
   - /zing-search-engine-doesnt-respect-underscore-_/
   - /p/2018-06-14-zing-search-engine-doesnt-respect-underscore-_/

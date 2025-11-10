@@ -3,10 +3,7 @@ title: Upgrade like a pro!
 description: "See if mhz opinion is worth taking\r\n\r\n> These days I modify the OOB. Because the sheer amount of code base change since we went live with Helsinki is stagger..."
 date: '2022-06-07'
 tags:
-  - business-rules
-  - service-portal
-  - atf
-  - integration
+  - servicenow
 redirectFrom:
   - /upgrade-like-a-pro/
   - /p/2022-06-06-upgrade-like-a-pro/

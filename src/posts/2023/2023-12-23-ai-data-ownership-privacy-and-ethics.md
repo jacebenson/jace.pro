@@ -3,9 +3,8 @@ title: AI, data ownership, privacy and ethics
 description: "AI, Data Ownership, Privacy and Databases: A Heartland Perspective\r\n\r\nArtificial intelligence (AI) is here. It's reshaping things whether we like it or not. ..."
 date: '2023-12-23'
 tags:
-  - servicenow
-  - database
   - ai
+  - thoughts
 redirectFrom:
   - /ai-data-ownership-privacy-and-ethics/
   - /p/2023-12-23-ai-data-ownership-privacy-and-ethics/

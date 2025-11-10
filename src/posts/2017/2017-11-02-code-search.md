@@ -4,7 +4,6 @@ description: "I've created one of these to improve on the one on\_share. This is
 date: '2017-11-03'
 tags:
   - servicenow
-  - scoped-apps
 redirectFrom:
   - /code-search/
   - /p/2017-11-02-code-search/

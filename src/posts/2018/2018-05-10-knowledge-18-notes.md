@@ -4,16 +4,7 @@ description: "I was very lucky to get to go to Knowledge18 and before I leave I 
 date: '2018-05-11'
 tags:
   - servicenow
-  - service-portal
-  - api
-  - discovery
-  - cmdb
-  - knowledge
-  - json
-  - tutorial
   - knowledge-conference
-  - security
-  - integration
 redirectFrom:
   - /knowledge-18-notes/
   - /p/2018-05-10-knowledge-18-notes/

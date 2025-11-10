@@ -4,10 +4,6 @@ description: "Edit source control integration files outside of Studio\r\n\r\n> E
 date: '2020-01-27'
 tags:
   - servicenow
-  - html
-  - xml
-  - release-orlando
-  - integration
 redirectFrom:
   - /ok-orlando-studio-git-outside-files/
   - /p/2020-01-27-ok-orlando-studio-git-outside-files/ 

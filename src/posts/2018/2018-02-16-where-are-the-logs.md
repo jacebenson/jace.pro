@@ -4,15 +4,6 @@ description: "A\_post was made\_and I was working through some security tasks of
 date: '2018-02-17'
 tags:
   - servicenow
-  - update-sets
-  - knowledge
-  - notifications
-  - acl
-  - xml
-  - database
-  - knowledge-conference
-  - performance
-  - security
 redirectFrom:
   - /where-are-the-logs/
   - /p/2018-02-16-where-are-the-logs/

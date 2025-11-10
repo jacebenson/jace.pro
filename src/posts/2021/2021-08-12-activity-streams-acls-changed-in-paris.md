@@ -2,15 +2,11 @@
 title: Activity Streams ACLs changed in Paris
 description: >-
   The other day Matt (mhz) was answering a question about form activity streams
-  visiblity for emails. He had recently opened a support case and shared that on
-  ...
+  visiblity for emails.
 date: '2021-08-13'
 tags:
-  - notifications
+  - servicenow
   - acl
-  - release-paris
-  - troubleshooting
-  - security
 redirectFrom:
   - /activity-streams-acls-changed-in-paris/
   - /p/2021-08-12-activity-streams-acls-changed-in-paris/

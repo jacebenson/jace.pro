@@ -7,9 +7,7 @@ description: >-
 date: '2022-12-25'
 tags:
   - servicenow
-  - knowledge
   - knowledge-conference
-  - career
   - draft
 redirectFrom:
   - /4-steps-to-succeed-in-landing-a-servicenow-job/

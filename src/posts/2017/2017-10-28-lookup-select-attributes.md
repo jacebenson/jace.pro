@@ -4,10 +4,6 @@ description: Lookup Select Attribute
 date: '2017-10-29'
 tags:
   - servicenow
-  - client-scripts
-  - service-catalog
-  - html
-  - tutorial
 redirectFrom:
   - /lookup-select-attributes/
   - /p/2017-10-28-lookup-select-attributes/

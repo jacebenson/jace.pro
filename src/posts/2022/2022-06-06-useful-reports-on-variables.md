@@ -3,9 +3,7 @@ title: Useful reports on variables
 description: "Where's the data stored\r\n\r\n| Type            | Table                        |\r\n| --------------- | ---------------------------- |\r\n| Record Producer | questi..."
 date: '2022-06-07'
 tags:
-  - reporting
-  - service-catalog
-  - mrvs
+  - servicenow
 redirectFrom:
   - /useful-reports-on-variables/
   - /p/2022-06-06-useful-reports-on-variables/

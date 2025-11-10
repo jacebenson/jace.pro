@@ -4,16 +4,6 @@ description: "Here's my take of whats new with New York\r\n\r\nDeprecated things
 date: '2019-07-26'
 tags:
   - servicenow
-  - service-portal
-  - update-sets
-  - api
-  - service-catalog
-  - javascript
-  - html
-  - json
-  - release-new-york
-  - tutorial
-  - integration
 redirectFrom:
   - /quick-guide-new-york/
   - /p/2019-07-26-quick-guide-new-york/

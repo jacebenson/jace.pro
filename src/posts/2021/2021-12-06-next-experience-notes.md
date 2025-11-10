@@ -4,9 +4,7 @@ description: "Now Component Concepts\r\n\r\nMy rough notes on this, as I get mor
 date: '2021-12-07'
 tags:
   - servicenow
-  - javascript
-  - html
-  - release-rome
+  - next-experience
 redirectFrom:
   - /next-experience-notes/
   - /p/2021-12-06-next-experience-notes/

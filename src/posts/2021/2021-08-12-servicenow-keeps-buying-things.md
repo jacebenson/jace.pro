@@ -1,19 +1,11 @@
 ---
 title: ServiceNow keeps buying things
 description: >-
-  | Date       | Company           |
-  Blurb                                                   | Platform
-  Feature               | Founders                       ...
+  ServiceNow has been on an acquisition spree over the last few years. Here's a list of the companies they've bought, with links to their founders.
 date: '2021-08-13'
 tags:
   - servicenow
-  - workflow
-  - html
-  - database
-  - ai
-  - beginner
-  - performance
-  - security
+  - acquisitions
 redirectFrom:
   - /servicenow-keeps-buying-things/
   - /p/2021-08-12-servicenow-keeps-buying-things/

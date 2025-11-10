@@ -7,12 +7,6 @@ description: >-
 date: '2019-05-10'
 tags:
   - servicenow
-  - gliderecord
-  - workflow
-  - flow-designer
-  - knowledge
-  - release-madrid
-  - tutorial
   - knowledge-conference
 redirectFrom:
   - /notes-from-knowledge-19/

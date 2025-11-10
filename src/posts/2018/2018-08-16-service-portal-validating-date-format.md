@@ -5,9 +5,6 @@ date: '2018-08-16'
 tags:
   - servicenow
   - service-portal
-  - service-catalog
-  - javascript
-  - tutorial
 redirectFrom:
   - /service-portal-validating-date-format/
   - /p/2018-08-16-service-portal-validating-date-format/

@@ -3,9 +3,7 @@ title: 'N2SN(ES21): Destructuring'
 description: Unleash the data!
 date: '2023-02-16'
 tags: 
-  - programming
-  - javascript
-  - es21
+  - servicenow
 redirectFrom:
   - /n2sn-es21-destructuring/
 ---

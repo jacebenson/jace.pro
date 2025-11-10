@@ -7,8 +7,7 @@ description: >-
 date: '2020-09-15'
 tags:
   - servicenow
-  - html
-  - release-paris
+  - graphql
 redirectFrom:
   - /graphql-in-a-way-i-understand/
   - /p/2020-09-15-graphql-in-a-way-i-understand/

@@ -3,8 +3,7 @@ title: Backing Out an Update Set From a Batch
 description: "Author's Note: I know backing out isn't the right term but it's how I think of it.\r\n\r\n## Backing out update sets can be a pain.\r\n\r\nHere's the thing. Update S..."
 date: '2020-01-14'
 tags:
-  - update-sets
-  - troubleshooting
+  - servicenow
 redirectFrom:
   - /backing-out-an-update-set-from-a-batch/
   - /p/2020-01-14-backing-out-an-update-set-from-a-batch/ 

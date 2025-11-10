@@ -6,11 +6,8 @@ description: >-
 date: '2022-10-28'
 tags:
   - servicenow
-  - gliderecord
+  - tables
   - acl
-  - database
-  - troubleshooting
-  - security
 redirectFrom:
   - /servicenows-database-views-weird-and-expose-details-unless-your-careful/
   - /p/2022-10-28-servicenows-database-views-weird-and-expose-details-unless-your-careful/

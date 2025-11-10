@@ -4,11 +4,6 @@ description: "Syntax Editor Macros\_are rarely talked about.\\\r\nEffectively, t
 date: '2019-09-29'
 tags:
   - servicenow
-  - gliderecord
-  - service-portal
-  - service-catalog
-  - javascript
-  - html
 redirectFrom:
   - /what-are-syntax-macros/
   - /p/2019-09-28-what-are-syntax-macros/ 

@@ -7,6 +7,117 @@ import matter from 'gray-matter';
 import glob from 'fast-glob';
 
 /**
+ * Define allowed tags for ServiceNow posts
+ * Based on the mental map in TAGS.md
+ */
+const SERVICENOW_ALLOWED_TAGS = [
+  'servicenow',
+  // General tags
+  
+  // ServiceNow specific
+  
+  // Automations - Inbound Calls
+  'rest-api',
+  'table-api',
+  'batch-api',
+  'import-api',
+  'soap',
+  'graphql',
+  'email',
+  'inbound-email',
+  'scripted-rest-api',
+  
+  // Automations - Async
+  'asynchronous',
+  'flow-designer',
+  'playbooks',
+  'script-actions',
+  'scheduled-jobs',
+  'scheduled-scripts',
+  'data-imports',
+  
+  // Automations - In Memory
+  'business-rules',
+  'assignment-rules',
+  'decision-tables',
+  'legacy-workflow',
+  'execution-plans',
+  
+  // Access
+  'acl',
+  'query-business-rules',
+  'data-policies',
+  'data-filtration',
+  'security-filters',
+  'csm-query-rules',
+  'hr-coe-security-policies',
+  'user-criteria',
+  'hr-user-criteria',
+  'audiences',
+  'public-pages',
+  'installation-exits',
+  
+  // Data
+  'tables',
+  'task-table',
+  'approvals',
+  'cmdb',
+  'users-table',
+  'groups',
+  'locations',
+  'import-sets',
+  'import-set-tables',
+  'transform-maps',
+  'archiving',
+  'remote-tables',
+  'gliderecord',
+  
+  // User Experiences - Core UI
+  'core-ui',
+  'forms',
+  'form design',
+  'lists',
+  'reports',
+  'reporting',
+  'visual-task-boards',
+  'ui-pages',
+  'ui-macros',
+  'processors',
+  'client-scripts',
+  'ui-policies',
+  'ui-actions',
+  
+  // User Experiences - Service Portal
+  'service-portal',
+  'widgets',
+  
+  // User Experiences - Next Experience
+  'next-experience',
+  'macroponent',
+  'appshell',
+  'experience',
+  'pages',
+  'components',
+  'workspaces',
+  'sys-ux-list',
+  'mobile',
+  
+  // Other ServiceNow specific
+  'discovery',
+  'knowledge-conference',
+  'mrvs',
+  'navigation',
+  'update-sets',
+
+  // allow draft tag in drafts
+  'draft',
+  // allow acquisitions tag
+  'acquisitions',
+  // allow 'news' tag
+  'news'
+];
+
+/**
  * Slugify function to match Eleventy's default slugify behavior
  * Based on the slugify filter in the project
  */
@@ -124,6 +235,16 @@ function validatePost(filePath) {
         const uniqueTags = [...new Set(frontmatter.tags)];
         if (uniqueTags.length !== frontmatter.tags.length) {
           warnings.push('Duplicate tags found');
+        }
+        
+        // ServiceNow tag validation
+        const hasServiceNowTag = frontmatter.tags.includes('servicenow');
+        if (hasServiceNowTag) {
+          const invalidTags = frontmatter.tags.filter(tag => !SERVICENOW_ALLOWED_TAGS.includes(tag));
+          if (invalidTags.length > 0) {
+            errors.push(`Post tagged with "servicenow" contains disallowed tags: ${invalidTags.join(', ')}`);
+            errors.push(`  Allowed ServiceNow tags are defined in TAGS.md`);
+          }
         }
       }
     }

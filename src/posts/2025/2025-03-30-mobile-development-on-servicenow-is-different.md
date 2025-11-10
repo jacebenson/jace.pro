@@ -4,11 +4,7 @@ description: "Plugins needed\r\n\r\n- Mobile Studio (com.glide.sg.studio)\r\n- G
 date: '2025-03-30'
 tags:
   - servicenow
-  - ui-actions
-  - scoped-apps
-  - notifications
-  - ai
-  - security
+  - mobile
 redirectFrom:
   - /mobile-development-on-servicenow-is-different/
   - /p/2025-03-30-mobile-development-on-servicenow-is-different/

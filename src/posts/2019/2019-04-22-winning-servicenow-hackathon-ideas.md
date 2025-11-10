@@ -4,23 +4,6 @@ description: "This year I'm fortunate enough to go to knowledge, and one of my f
 date: '2019-04-22'
 tags:
   - servicenow
-  - business-rules
-  - service-portal
-  - flow-designer
-  - scoped-apps
-  - api
-  - knowledge
-  - reporting
-  - acl
-  - html
-  - ai
-  - tutorial
-  - troubleshooting
-  - knowledge-conference
-  - beginner
-  - performance
-  - security
-  - integration
 redirectFrom:
   - /winning-servicenow-hackathon-ideas/
   - /p/2019-04-22-winning-servicenow-hackathon-ideas/

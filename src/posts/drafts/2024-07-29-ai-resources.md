@@ -6,10 +6,7 @@ description: >-
   Th...
 date: '2024-07-29'
 tags:
-  - servicenow
-  - database
   - ai
-  - beginner
 redirectFrom:
   - /ai-resources/
 ---

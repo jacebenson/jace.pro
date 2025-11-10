@@ -7,9 +7,6 @@ description: >-
 date: '2020-05-14'
 tags:
   - servicenow
-  - knowledge
-  - html
-  - tutorial
   - knowledge-conference
 redirectFrom:
   - /how-to-save-knowledge-sessions-locally/

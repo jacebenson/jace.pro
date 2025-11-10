@@ -4,17 +4,6 @@ description: "From time to time I get thinking about what I avoid in this system
 date: '2018-08-15'
 tags:
   - servicenow
-  - business-rules
-  - client-scripts
-  - service-portal
-  - ui-policies
-  - workflow
-  - notifications
-  - acl
-  - service-catalog
-  - troubleshooting
-  - security
-  - integration
 redirectFrom:
   - /servicenow-features-i-avoid-and-you-should-too/
   - /p/2018-08-15-servicenow-features-i-avoid-and-you-should-too/

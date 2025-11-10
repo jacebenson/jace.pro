@@ -4,12 +4,7 @@ description: "The other day\_Chris Perry asked how to create a link in a notific
 date: '2018-07-03'
 tags:
   - servicenow
-  - gliderecord
-  - client-scripts
-  - notifications
-  - javascript
-  - xml
-  - tutorial
+  - email
 redirectFrom:
   - /creating-actionable-email-links/
   - /p/2018-07-03-creating-actionable-email-links/

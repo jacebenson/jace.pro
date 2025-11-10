@@ -4,16 +4,7 @@ description: "This is \"Connect Week\". Here's what I watched and my very rough 
 date: '2020-05-29'
 tags:
   - servicenow
-  - gliderecord
-  - service-portal
-  - workflow
-  - scoped-apps
-  - knowledge
-  - service-catalog
-  - html
-  - troubleshooting
   - knowledge-conference
-  - security
 redirectFrom:
   - /k20-session-review/
   - /p/2020-05-29-k20-session-review/

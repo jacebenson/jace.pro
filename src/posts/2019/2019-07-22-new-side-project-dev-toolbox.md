@@ -7,8 +7,6 @@ description: >-
 date: '2019-07-22'
 tags:
   - servicenow
-  - scoped-apps
-  - update-sets
 redirectFrom:
   - /new-side-project-dev-toolbox/
   - /p/2019-07-22-new-side-project-dev-toolbox/

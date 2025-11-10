@@ -5,10 +5,8 @@ date: '2025-05-11'
 tags:
   - servicenow
   - client-scripts
-  - api
-  - html
-  - release-yokohama
-  - integration
+  - rest-api
+  - next-experience
 redirectFrom:
   - /calling-script-includes-from-uib-client-scripts/
   - /p/2025-05-11-calling-script-includes-from-uib-client-scripts/
@@ -18,7 +16,7 @@ This could be improved a lot.
 
 Let’s first talk about how this is working for me.
 
-Everything I read to do this either says make a rest call or use the “new transform data resource”. When trying the data resource it never seemed to run the script include. So I went with rest. I’m sure I missed something I’ll be asking Tomas about this.
+Everything I read to do this either says make a rest call or use the "new transform data resource". When trying the data resource it never seemed to run the script include. So I went with rest. I’m sure I missed something I'll be asking Tomas about this.
 
 My working steps.
 

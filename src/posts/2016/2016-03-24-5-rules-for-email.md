@@ -4,9 +4,6 @@ description: Rules I follow for emails
 date: '2016-03-24'
 tags:
   - servicenow
-  - automations
-  - inbound-email
-  - outbound-email
   - email
 redirectFrom:
   - /5-rules-for-email/

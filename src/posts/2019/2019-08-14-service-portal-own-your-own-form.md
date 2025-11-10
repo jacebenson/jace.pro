@@ -4,13 +4,7 @@ description: "Sometimes, you have to control your form. You can use the out of b
 date: '2019-08-15'
 tags:
   - servicenow
-  - client-scripts
   - service-portal
-  - workflow
-  - service-catalog
-  - javascript
-  - html
-  - security
 redirectFrom:
   - /service-portal-own-your-own-form/
   - /p/2019-08-14-service-portal-own-your-own-form/ 

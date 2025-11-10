@@ -4,13 +4,7 @@ description: "These are my useful catalog client scripts, I've found/written ove
 date: '2017-09-26'
 tags:
   - servicenow
-  - gliderecord
   - client-scripts
-  - service-portal
-  - service-catalog
-  - javascript
-  - html
-  - tutorial
 redirectFrom:
   - /useful-client-scripts/
   - /p/2017-09-25-useful-client-scripts/

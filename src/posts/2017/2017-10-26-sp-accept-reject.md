@@ -3,13 +3,9 @@ title: Service Portal - Accept/Reject Solution
 description: Service Portal - Accept/Reject Solution
 date: '2017-10-27'
 tags:
-  - gliderecord
-  - business-rules
-  - client-scripts
+  - servicenow
   - service-portal
-  - javascript
-  - html
-  - troubleshooting
+  - approvals 
 redirectFrom:
   - /sp-accept-reject/
   - /p/2017-10-26-sp-accept-reject/

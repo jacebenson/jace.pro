@@ -3,27 +3,7 @@ title: Prepare for an interview - it will be fun
 description: "This is a extensive list of questions for both interviewers and interviewees when ServiceNow Development is involved.\r\n\r\n# Interview Preparation\r\n\r\nInterview..."
 date: '2018-05-18'
 tags:
-  - servicenow
-  - gliderecord
-  - business-rules
-  - ui-policies
-  - ui-actions
-  - workflow
-  - update-sets
-  - cmdb
-  - import-sets
-  - notifications
-  - acl
-  - service-catalog
-  - javascript
-  - css
-  - xml
-  - database
-  - tutorial
-  - career
-  - performance
-  - security
-  - integration
+  - thoughts
 redirectFrom:
   - /prepare-for-an-interview-itll-be-fun/
   - /p/2018-05-17-prepare-for-an-interview-itll-be-fun/

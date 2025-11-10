@@ -8,11 +8,7 @@ tags:
   - business-rules
   - client-scripts
   - flow-designer
-  - api
   - acl
-  - database
-  - troubleshooting
-  - security
 redirectFrom:
   - /n2sn-common-servicenow-apis-e-g-gliderecord-glideaggregate-glidesystem/
 ---

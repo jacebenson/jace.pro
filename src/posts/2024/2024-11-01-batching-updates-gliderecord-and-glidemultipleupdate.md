@@ -5,13 +5,6 @@ date: '2024-11-01'
 tags:
   - servicenow
   - gliderecord
-  - business-rules
-  - api
-  - import-sets
-  - javascript
-  - database
-  - tutorial
-  - best-practices
 redirectFrom:
   - /batching-updates-gliderecord-and-glidemultipleupdate/
   - /p/2024-11-01-batching-updates-gliderecord-and-glidemultipleupdate/

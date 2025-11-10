@@ -4,8 +4,6 @@ description: "DigitalOcean and Github put together an event called \"Hactoberfes
 date: '2018-10-24'
 tags:
   - servicenow
-  - atf
-  - beginner
 redirectFrom:
   - /hacktoberfest-2018-self-contained-atf-application/
   - /p/2018-10-24-hacktoberfest-2018-self-contained-atf-application/

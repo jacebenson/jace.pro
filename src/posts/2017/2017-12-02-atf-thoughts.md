@@ -4,8 +4,6 @@ description: "This is a list of items I think the ATF Tests should include.\r\n\
 date: '2017-12-03'
 tags:
   - servicenow
-  - atf
-  - update-sets
 redirectFrom:
   - /atf-thoughts/
   - /p/2017-12-02-atf-thoughts/

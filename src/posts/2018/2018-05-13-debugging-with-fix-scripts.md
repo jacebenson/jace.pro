@@ -3,16 +3,7 @@ title: Debugging with fix scripts
 description: "Debugging for me always starts with isolating the parts of the failing code.\r\n\r\nThe quickest way for me to find the issue varies but it almost always include..."
 date: '2018-05-14'
 tags:
-  - gliderecord
-  - business-rules
-  - workflow
-  - service-catalog
-  - javascript
-  - html
-  - json
-  - database
-  - troubleshooting
-  - security
+  - servicenow
 redirectFrom:
   - /debugging-with-fix-scripts/
   - /p/2018-05-13-debugging-with-fix-scripts/

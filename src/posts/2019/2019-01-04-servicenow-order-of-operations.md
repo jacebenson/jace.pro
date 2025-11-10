@@ -4,9 +4,6 @@ description: "Understanding\_when\_something runs is critical when building thes
 date: '2019-01-04'
 tags:
   - servicenow
-  - business-rules
-  - workflow
-  - html
 redirectFrom:
   - /servicenow-order-of-operations/
   - /p/2019-01-04-servicenow-order-of-operations/

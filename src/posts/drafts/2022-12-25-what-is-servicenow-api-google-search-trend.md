@@ -8,8 +8,6 @@ date: '2022-12-25'
 tags:
   - servicenow
   - business-rules
-  - api
-  - javascript
 redirectFrom:
   - /what-is-servicenow-api-google-search-trend/
 ---

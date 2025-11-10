@@ -7,11 +7,6 @@ date: '2024-08-16'
 tags:
   - servicenow
   - reporting
-  - release-xanadu
-  - tutorial
-  - troubleshooting
-  - performance
-  - security
 redirectFrom:
   - /reporting-to-platform-analitics/
   - /p/2024-08-16-reporting-to-platform-analitics/

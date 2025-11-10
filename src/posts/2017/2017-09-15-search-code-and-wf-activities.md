@@ -4,9 +4,7 @@ description: "Searching for code is crucial to understand how something works. A
 date: '2017-09-16'
 tags:
   - servicenow
-  - workflow
-  - service-catalog
-  - best-practices
+  - legacy-workflow
 redirectFrom:
   - /search-code-and-wf-activities/
   - /p/2017-09-15-search-code-and-wf-activities/

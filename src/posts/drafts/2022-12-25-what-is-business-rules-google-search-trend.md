@@ -8,12 +8,6 @@ date: '2022-12-25'
 tags:
   - servicenow
   - business-rules
-  - client-scripts
-  - ui-actions
-  - workflow
-  - knowledge
-  - notifications
-  - troubleshooting
 redirectFrom:
   - /what-is-business-rules-google-search-trend/
 ---

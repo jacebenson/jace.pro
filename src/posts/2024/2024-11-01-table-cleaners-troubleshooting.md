@@ -7,15 +7,7 @@ description: >-
 date: '2024-11-01'
 tags:
   - servicenow
-  - gliderecord
-  - discovery
-  - cmdb
-  - knowledge
-  - service-catalog
-  - html
-  - database
-  - troubleshooting
-  - performance
+  - tables
 redirectFrom:
   - /table-cleaners-troubleshooting/
   - /p/2024-11-01-table-cleaners-troubleshooting/

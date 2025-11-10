@@ -4,18 +4,6 @@ description: "What is the post about?\\\r\nWhen to Scope\\\r\nWhat things would 
 date: '2022-06-07'
 tags:
   - servicenow
-  - service-portal
-  - scoped-apps
-  - api
-  - cmdb
-  - knowledge
-  - reporting
-  - service-catalog
-  - tutorial
-  - troubleshooting
-  - knowledge-conference
-  - performance
-  - security
 redirectFrom:
   - /when-to-scope/
   - /p/2022-06-06-when-to-scope/

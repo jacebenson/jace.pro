@@ -4,9 +4,6 @@ description: A old way to rewrite comments as links
 date: '2017-08-07'
 tags:
   - servicenow
-  - automations
-  - business-rules
-  - outdated
 redirectFrom:
   - /automagically-link/
   - /p/2017-08-07-automagically-link/

@@ -3,13 +3,7 @@ title: Finding globally available things
 description: "I was in the middle of restoring my PC and thought \"I wonder if I can\\\r\nview all the globally accessible things?\"\r\n\r\nTurns out, you can.\r\n\r\n\r\n\r\n\r\n\r\njavascrip..."
 date: '2019-03-13'
 tags:
-  - gliderecord
-  - business-rules
-  - ui-actions
-  - service-catalog
-  - javascript
-  - json
-  - troubleshooting
+  - servicenow
 redirectFrom:
   - /finding-globally-available-things/
   - /p/2019-03-13-finding-globally-available-things/

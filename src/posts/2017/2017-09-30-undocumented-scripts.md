@@ -4,17 +4,6 @@ description: "This page is to document scripts that are undocumented in ServiceN
 date: '2017-10-01'
 tags:
   - servicenow
-  - gliderecord
-  - service-portal
-  - ui-actions
-  - workflow
-  - scoped-apps
-  - api
-  - service-catalog
-  - javascript
-  - json
-  - best-practices
-  - integration
 redirectFrom:
   - /undocumented-scripts/
   - /p/2017-09-30-undocumented-scripts/

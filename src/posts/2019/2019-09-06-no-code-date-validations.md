@@ -5,10 +5,6 @@ date: '2019-09-07'
 tags:
   - servicenow
   - ui-policies
-  - atf
-  - scoped-apps
-  - service-catalog
-  - tutorial
 redirectFrom:
   - /no-code-date-validations/
   - /p/2019-09-06-no-code-date-validations/ 

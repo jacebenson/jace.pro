@@ -4,10 +4,7 @@ description: "Ever wanted to add an item in the drop down menu on the header or\
 date: '2019-09-01'
 tags:
   - servicenow
-  - javascript
-  - html
-  - xml
-  - tutorial
+  - core-ui
 redirectFrom:
   - /ui16-how-to-update-the-user-menu/
   - /p/2019-08-31-ui16-how-to-update-the-user-menu/ 

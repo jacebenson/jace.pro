@@ -4,13 +4,8 @@ description: "I was thinking something about your past experience and why you th
 date: '2020-09-29'
 tags:
   - servicenow
-  - workflow
   - flow-designer
-  - api
-  - service-catalog
-  - tutorial
-  - troubleshooting
-  - integration
+  - rest-api
 redirectFrom:
   - /hacktoberfest-2020-lets-get-started/
   - /p/2020-09-29-hacktoberfest-2020-lets-get-started/

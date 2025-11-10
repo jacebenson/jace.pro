@@ -4,14 +4,7 @@ description: "Restarting a workflow is sometimes needed. I found myself looking 
 date: '2019-04-05'
 tags:
   - servicenow
-  - gliderecord
-  - ui-actions
-  - workflow
-  - service-catalog
-  - javascript
-  - html
-  - release-madrid
-  - tutorial
+  - legacy-workflow
 redirectFrom:
   - /how-to-restart-a-workflow/
   - /p/2019-04-05-how-to-restart-a-workflow/

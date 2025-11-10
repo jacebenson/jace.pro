@@ -4,12 +4,6 @@ description: When using a workflow, consider these decisions
 date: '2017-09-06'
 tags:
   - servicenow
-  - business-rules
-  - workflow
-  - api
-  - database
-  - security
-  - integration
 redirectFrom:
   - /integrations/
   - /p/2017-09-06-integrations/

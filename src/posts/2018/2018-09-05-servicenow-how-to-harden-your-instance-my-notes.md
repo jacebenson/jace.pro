@@ -4,13 +4,6 @@ description: "I had to prepare an instance for some penetration testing. Turns o
 date: '2018-09-05'
 tags:
   - servicenow
-  - knowledge
-  - html
-  - xml
-  - release-paris
-  - tutorial
-  - troubleshooting
-  - security
 redirectFrom:
   - /servicenow-how-to-harden-your-instance-my-notes/
   - /p/2018-09-05-servicenow-how-to-harden-your-instance-my-notes/

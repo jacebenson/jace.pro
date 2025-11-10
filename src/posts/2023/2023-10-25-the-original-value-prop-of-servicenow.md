@@ -6,15 +6,6 @@ description: >-
 date: '2023-10-26'
 tags:
   - servicenow
-  - business-rules
-  - client-scripts
-  - ui-actions
-  - workflow
-  - api
-  - reporting
-  - html
-  - database
-  - security
 redirectFrom:
   - /the-original-value-prop-of-servicenow/
   - /p/2023-10-25-the-original-value-prop-of-servicenow/

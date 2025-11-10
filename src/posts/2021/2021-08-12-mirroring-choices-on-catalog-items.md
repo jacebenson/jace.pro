@@ -3,8 +3,7 @@ title: ' Mirroring choices on catalog items'
 description: "To do this you don't need a lot. I've hinted at this kind of stuff before with my\_Lookup Select Attribute\_post. Here I'll spell it out.\r\n\r\n1. Make\_category\_v..."
 date: '2021-08-13'
 tags:
-  - service-catalog
-  - javascript
+  - servicenow
 redirectFrom:
   - /mirroring-choices-on-catalog-items/
   - /p/2021-08-12-mirroring-choices-on-catalog-items/

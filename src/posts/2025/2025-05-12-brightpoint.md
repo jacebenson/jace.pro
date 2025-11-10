@@ -7,8 +7,7 @@ description: >-
 date: '2025-05-12'
 tags:
   - servicenow
-  - workflow
-  - security
+  - acquisitions
 redirectFrom:
   - /brightpoint/
   - /p/2025-05-12-brightpoint/

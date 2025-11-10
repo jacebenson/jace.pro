@@ -3,8 +3,8 @@ title: Using uibModel
 description: "What is the post about?\r\n\r\nWhat things would help with writing the post\r\n\r\n\r\n\r\njavascript\r\nc.openModal = function(action) {\r\n        c.modalInstance = $uibMo..."
 date: '2022-06-07'
 tags:
-  - javascript
-  - html
+  - servicenow
+  - service-portal
 redirectFrom:
   - /using-uibmodel/
   - /p/2022-06-06-using-uibmodel/

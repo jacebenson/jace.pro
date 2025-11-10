@@ -4,11 +4,7 @@ description: "Making a remote table could be less work but as it is, it's better
 date: '2019-08-11'
 tags:
   - servicenow
-  - api
-  - javascript
-  - json
-  - release-new-york
-  - integration
+  - remote-tables
 redirectFrom:
   - /new-york-feature-remote-tables/
   - /p/2019-08-10-new-york-feature-remote-tables/

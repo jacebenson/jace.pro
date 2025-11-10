@@ -5,7 +5,6 @@ date: '2017-10-28'
 tags:
   - gliderecord
   - service-portal
-  - update-sets
 redirectFrom:
   - /weird-service-portal-instance/
   - /p/2017-10-27-weird-service-portal-instance/

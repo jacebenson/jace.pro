@@ -4,16 +4,6 @@ description: "Feel free to edit!!!! everyone!\r\n\r\n# Now Exp\r\n\r\n CSS avail
 date: '2021-07-23'
 tags:
   - servicenow
-  - business-rules
-  - flow-designer
-  - update-sets
-  - import-sets
-  - notifications
-  - service-catalog
-  - css
-  - release-rome
-  - performance
-  - security
 redirectFrom:
   - /technow-rome/
   - /p/2021-07-22-technow-rome/

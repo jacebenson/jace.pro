@@ -3,10 +3,7 @@ title: How to revert a bunch of records
 description: "Today I was tasked with reverting ~2k stories states to the past value. This is a daunting task as it requires someone to look at the sys_audit\_or\_sys_histor..."
 date: '2019-07-09'
 tags:
-  - gliderecord
-  - javascript
-  - tutorial
-  - troubleshooting
+  - servicenow
 redirectFrom:
   - /how-to-revert-a-bunch-of-records/
   - /p/2019-07-09-how-to-revert-a-bunch-of-records/

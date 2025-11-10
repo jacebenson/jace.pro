@@ -6,8 +6,7 @@ description: >-
 date: '2024-06-13'
 tags:
   - servicenow
-  - best-practices
-  - security
+  - next-experience
 redirectFrom:
   - /configuring-workspace-lists-are-not-hard-when-you-know-where-to-look/
   - /p/2024-06-13-configuring-workspace-lists-are-not-hard-when-you-know-where-to-look/

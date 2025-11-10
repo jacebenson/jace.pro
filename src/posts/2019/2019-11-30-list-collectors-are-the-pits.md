@@ -4,13 +4,6 @@ description: "List collectors try so very hard to be helpful.\r\n\r\n!\r\n\r\nI 
 date: '2019-12-01'
 tags:
   - servicenow
-  - client-scripts
-  - reporting
-  - acl
-  - service-catalog
-  - troubleshooting
-  - best-practices
-  - security
 redirectFrom:
   - /list-collectors-are-the-pits/
   - /p/2019-11-30-list-collectors-are-the-pits/ 

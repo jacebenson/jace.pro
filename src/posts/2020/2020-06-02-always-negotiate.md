@@ -3,7 +3,7 @@ title: Always Negotiate
 description: "Patrick McKenzie wrote a blog about this.\_His post inspires this one. I am writing this down so those who follow me may see it.\r\n\r\nFor me this has always bee..."
 date: '2020-06-02'
 tags:
-  - tutorial
+  - thoughts
 redirectFrom:
   - /always-negotiate/
   - /p/2020-06-02-always-negotiate/

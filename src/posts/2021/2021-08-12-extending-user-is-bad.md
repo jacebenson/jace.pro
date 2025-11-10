@@ -7,7 +7,7 @@ description: >-
 date: '2021-08-13'
 tags:
   - servicenow
-  - troubleshooting
+  - tables
 redirectFrom:
   - /extending-user-is-bad/
   - /post/2021-08-12-extending-user-is-bad/

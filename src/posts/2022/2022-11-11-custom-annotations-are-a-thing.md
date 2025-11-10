@@ -3,11 +3,7 @@ title: Form annotations let you add html to workspaces and other UIs
 description: "A\uFEFF long time ago Casey on Slack said you can make custom annotations.  I was looking at them and wonder WHY would I ever use them.  I know now when and why I..."
 date: '2022-11-12'
 tags:
-  - ui-actions
-  - notifications
-  - html
-  - tutorial
-  - security
+  - servicenow
 redirectFrom:
   - /custom-annotations-are-a-thing/
   - /p/2022-11-11-custom-annotations-are-a-thing/

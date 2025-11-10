@@ -7,12 +7,8 @@ description: >-
 date: '2022-06-07'
 tags:
   - servicenow
-  - api
+  - rest-api
   - import-sets
-  - service-catalog
-  - html
-  - release-vancouver
-  - integration
 redirectFrom:
   - /alternatives-to-the-attachment-api/
   - /p/2022-06-06-alternatives-to-the-attachment-api/

@@ -7,8 +7,6 @@ description: >-
 date: '2019-02-04'
 tags:
   - servicenow
-  - scoped-apps
-  - service-catalog
 redirectFrom:
   - /multirow-variable-sets-in-code/
   - /p/2019-02-04-multirow-variable-sets-in-code/

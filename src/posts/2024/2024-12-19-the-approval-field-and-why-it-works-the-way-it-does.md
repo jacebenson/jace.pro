@@ -7,15 +7,7 @@ description: >-
 date: '2024-12-19'
 tags:
   - servicenow
-  - business-rules
-  - workflow
-  - flow-designer
-  - knowledge
-  - notifications
-  - service-catalog
-  - html
-  - release-vancouver
-  - tutorial
+  - approvals
 redirectFrom:
   - /the-approval-field-and-why-it-works-the-way-it-does/
   - /p/2024-12-19-the-approval-field-and-why-it-works-the-way-it-does/

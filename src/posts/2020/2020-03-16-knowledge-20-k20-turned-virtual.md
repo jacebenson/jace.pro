@@ -4,11 +4,6 @@ description: "K20 has gone digital\r\n\r\nServiceNow just announced it has gone 
 date: '2020-03-16'
 tags:
   - servicenow
-  - workflow
-  - knowledge
-  - html
-  - release-orlando
-  - tutorial
   - knowledge-conference
 redirectFrom:
   - /knowledge-20-k20-turned-virtual/

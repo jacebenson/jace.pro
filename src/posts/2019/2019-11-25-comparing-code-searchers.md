@@ -4,17 +4,6 @@ description: "I am biased. I like\_my\_code search cause\_I know\_how it works a
 date: '2019-11-26'
 tags:
   - servicenow
-  - business-rules
-  - client-scripts
-  - service-portal
-  - ui-actions
-  - workflow
-  - scoped-apps
-  - api
-  - javascript
-  - html
-  - xml
-  - integration
 redirectFrom:
   - /comparing-code-searchers/
   - /p/2019-11-25-comparing-code-searchers/ 

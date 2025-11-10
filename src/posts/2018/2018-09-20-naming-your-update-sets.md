@@ -4,10 +4,6 @@ description: "Update set names should be somewhat meaningful without having to l
 date: '2018-09-20'
 tags:
   - servicenow
-  - update-sets
-  - javascript
-  - html
-  - xml
 redirectFrom:
   - /naming-your-update-sets/
   - /p/2018-09-20-naming-your-update-sets/

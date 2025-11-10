@@ -3,12 +3,7 @@ title: Multiple Variable Row Set - Dependent Variables
 description: "So It's been asked a few times, \"How can I make my MVRS variables depend on other variables?\"\r\n\r\nThe question has some caveats;\r\n\r\n1. If the Variables are al..."
 date: '2019-09-07'
 tags:
-  - atf
-  - scoped-apps
-  - notifications
-  - service-catalog
-  - mrvs
-  - javascript
+  - servicenow
 redirectFrom:
   - /multiple-variable-row-set-dependent-variables/
   - /p/2019-09-06-multiple-variable-row-set-dependent-variables/ 

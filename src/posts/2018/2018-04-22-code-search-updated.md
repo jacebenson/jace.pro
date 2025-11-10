@@ -4,7 +4,6 @@ description: "After some back and forth between the creator of the\_sn_codesearc
 date: '2018-04-23'
 tags:
   - servicenow
-  - scoped-apps
 redirectFrom:
   - /code-search-updated/
   - /p/2018-04-22-code-search-updated/

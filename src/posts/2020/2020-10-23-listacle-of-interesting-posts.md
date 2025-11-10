@@ -4,13 +4,6 @@ description: "I think I'm going to start some sort of review of the content from
 date: '2020-10-23'
 tags:
   - servicenow
-  - api
-  - notifications
-  - html
-  - release-paris
-  - tutorial
-  - knowledge-conference
-  - beginner
 redirectFrom:
   - /listacle-of-interesting-posts/
   - /p/2020-10-23-listacle-of-interesting-posts/

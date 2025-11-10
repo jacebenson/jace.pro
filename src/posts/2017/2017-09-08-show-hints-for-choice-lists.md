@@ -3,10 +3,7 @@ title: Show hints for choice lists
 description: Show hints for choice lists
 date: '2017-09-08'
 tags:
-  - gliderecord
-  - client-scripts
-  - javascript
-  - json
+  - servicenow
 redirectFrom:
   - /show-hints-for-choice-lists/
   - /p/2017-09-08-show-hints-for-choice-lists/

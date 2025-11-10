@@ -4,7 +4,7 @@ description: "What is the post about?\r\n\r\nExporting to a custom CSV format.  
 date: '2022-06-07'
 tags:
   - gliderecord
-  - javascript
+  - servicenow
 redirectFrom:
   - /export-to-csv-custom/
   - /p/2022-06-06-export-to-csv-custom/

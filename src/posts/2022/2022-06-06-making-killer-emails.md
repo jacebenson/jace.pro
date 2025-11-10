@@ -4,8 +4,8 @@ description: >-
   A few tips and tricks to make your emails stand out using MJML and good email practices.
 date: '2022-06-07'
 tags:
-  - servicenow
-  - html
+  - email
+  - thoughts
 redirectFrom:
   - /making-killer-emails/
   - /p/2022-06-06-making-killer-emails/

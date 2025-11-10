@@ -5,7 +5,6 @@ description: >-
 date: '2022-06-06'
 tags:
   - servicenow
-  - service-catalog
 redirectFrom:
   - /extension-points/
   - /p/2022-06-06-extension-points/

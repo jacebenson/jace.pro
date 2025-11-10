@@ -4,14 +4,6 @@ description: "Does this sound familiar?\r\n\r\nCustomer: \"I need a request form
 date: '2020-07-27'
 tags:
   - servicenow
-  - service-portal
-  - workflow
-  - flow-designer
-  - service-catalog
-  - mrvs
-  - release-paris
-  - troubleshooting
-  - security
 redirectFrom:
   - /paris-feature-requested-for-variable/
   - /p/2020-07-27-paris-feature-requested-for-variable/

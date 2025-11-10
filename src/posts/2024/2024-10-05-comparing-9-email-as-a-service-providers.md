@@ -5,9 +5,7 @@ description: >-
   SendGrid, and Mailgun.
 date: '2024-10-05'
 tags:
-  - api
-  - html
-  - ai
+  - email
 redirectFrom:
   - /comparing-9-email-as-a-service-providers/
   - /p/2024-10-05-comparing-9-email-as-a-service-providers/

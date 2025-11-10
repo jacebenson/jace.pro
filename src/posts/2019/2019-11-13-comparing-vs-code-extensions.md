@@ -4,13 +4,6 @@ description: "This post is about the state of code syncing tools for the VS Code
 date: '2019-11-14'
 tags:
   - servicenow
-  - business-rules
-  - scoped-apps
-  - update-sets
-  - api
-  - tutorial
-  - knowledge-conference
-  - integration
 redirectFrom:
   - /comparing-vs-code-extensions/
   - /p/2019-11-13-comparing-vs-code-extensions/ 

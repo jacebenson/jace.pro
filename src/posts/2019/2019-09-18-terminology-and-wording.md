@@ -3,9 +3,7 @@ title: Terminology and Wording
 description: "I took this from,\_Hi's styleguide as I don't trust anyone to keep anything online. So this is just a local copy with opinions about word choices.\r\n\r\n> Note: ..."
 date: '2019-09-19'
 tags:
-  - reporting
-  - html
-  - troubleshooting
+  - thoughts
 redirectFrom:
   - /terminology-and-wording/
   - /p/2019-09-18-terminology-and-wording/ 

@@ -4,9 +4,7 @@ description: "I started making notes on this a long time ago. I'm going to updat
 date: '2020-01-09'
 tags:
   - servicenow
-  - notifications
-  - tutorial
-  - integration
+  - email
 redirectFrom:
   - /step-away-from-emails/
   - /p/2020-01-09-step-away-from-emails/ 

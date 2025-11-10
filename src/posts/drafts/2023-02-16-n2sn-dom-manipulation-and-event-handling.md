@@ -3,9 +3,7 @@ title: 'N2SN: DOM manipulation and event handling'
 description: Rule the DOM like a boss with event handling!
 date: '2023-02-16'
 tags: 
-  - programming
-  - javascript
-  - dom
+  - servicenow
 redirectFrom:
   - /n2sn-dom-manipulation-and-event-handling/
 ---

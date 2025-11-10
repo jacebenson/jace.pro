@@ -4,11 +4,7 @@ description: "Sometime ago I looked for the ability to paste images onto a form 
 date: '2018-01-04'
 tags:
   - servicenow
-  - client-scripts
-  - service-portal
-  - api
-  - javascript
-  - html
+  - core-ui
 redirectFrom:
   - /pasting-images-in-the-classic-ui/
   - /p/2018-01-03-pasting-images-in-the-classic-ui/

@@ -4,9 +4,6 @@ description: "Sometimes you have a whole bunch of plugins to install. No reason 
 date: '2019-07-21'
 tags:
   - servicenow
-  - javascript
-  - tutorial
-  - troubleshooting
 redirectFrom:
   - /how-to-activate-plugins-via-script/
   - /p/2019-07-21-how-to-activate-plugins-via-script/

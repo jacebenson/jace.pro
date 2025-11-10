@@ -5,14 +5,6 @@ date: '2021-01-17'
 tags:
   - servicenow
   - flow-designer
-  - api
-  - service-catalog
-  - mrvs
-  - javascript
-  - json
-  - release-paris
-  - troubleshooting
-  - integration
 redirectFrom:
   - /success-with-flow-designer/
   - /p/2021-01-16-success-with-flow-designer/

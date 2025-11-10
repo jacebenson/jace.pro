@@ -7,15 +7,6 @@ description: >-
 date: '2020-08-18'
 tags:
   - servicenow
-  - service-portal
-  - workflow
-  - update-sets
-  - reporting
-  - service-catalog
-  - html
-  - release-paris
-  - troubleshooting
-  - security
 redirectFrom:
   - /state-of-ideas/
   - /p/2020-08-18-state-of-ideas/

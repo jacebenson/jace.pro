@@ -3,12 +3,7 @@ title: Side hustles and interesting things folks in the ServiceNow space do
 description: "I wanted to make a list of things folks in this space make outside of ServiceNow.\r\n\r\n## Music\r\n\r\n Jeff Pierce is a musician, checkout his album The Nothing L..."
 date: '2022-11-14'
 tags:
-  - servicenow
-  - service-portal
-  - knowledge
-  - service-catalog
-  - tutorial
-  - knowledge-conference
+  - side-hustles
 redirectFrom:
   - /side-hustles-and-interesting-things-folks-in-the-servicenow-space-do/
   - /p/2022-11-13-side-hustles-and-interesting-things-folks-in-the-servicenow-space-do/

@@ -3,9 +3,7 @@ title: 'N2SN: Control structures (if-else statements, loops)'
 description: Control the chaos with if-else and loops!
 date: '2023-02-16'
 tags:
-  - programming
-  - javascript
-  - control-structures
+  - servicenow
 redirectFrom:
   - /n2sn-control-structures-if-else-statements-loops/
 ---

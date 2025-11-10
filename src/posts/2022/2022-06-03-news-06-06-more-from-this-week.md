@@ -5,7 +5,7 @@ description: >-
 date: '2022-06-03'
 tags:
   - servicenow
-  - service-catalog
+  - news
 redirectFrom:
   - /news-06-06/
   - /p/2022-06-03-news-06-06-more-from-this-week/

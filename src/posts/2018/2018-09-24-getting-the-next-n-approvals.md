@@ -3,14 +3,10 @@ title: Getting the next N approvals
 description: >-
   I was talking with someone they were asking how to get the next x approvals up
   to 10. You can't always control the environment you work in. He was trying to
-  ...
 date: '2018-09-24'
 tags:
-  - gliderecord
-  - service-catalog
-  - javascript
-  - json
-  - tutorial
+  - servicenow
+  - approvals
 redirectFrom:
   - /getting-the-next-n-approvals/
   - /p/2018-09-24-getting-the-next-n-approvals/

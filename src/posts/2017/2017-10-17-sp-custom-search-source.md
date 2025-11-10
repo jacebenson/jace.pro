@@ -4,14 +4,6 @@ description: "We have knowledge bases at my work and as such the default search 
 date: '2017-10-18'
 tags:
   - servicenow
-  - gliderecord
-  - service-portal
-  - knowledge
-  - service-catalog
-  - javascript
-  - html
-  - json
-  - knowledge-conference
 redirectFrom:
   - /sp-custom-search-source/
   - /p/2017-10-17-sp-custom-search-source/

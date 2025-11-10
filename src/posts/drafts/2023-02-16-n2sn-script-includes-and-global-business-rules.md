@@ -3,8 +3,7 @@ title: 'N2SN: Script Includes and Global Business Rules'
 description: Unlock the power of Script Includes and Global Business Rules in ServiceNow!
 date: '2023-02-16'
 tags:
-  - business-rules
-  - workflow
+  - servicenow
 redirectFrom:
   - /n2sn-script-includes-and-global-business-rules/
 ---

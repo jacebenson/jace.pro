@@ -4,11 +4,7 @@ description: "The other day I got a report of slowness when using the \"Post\" b
 date: '2018-11-05'
 tags:
   - servicenow
-  - api
-  - reporting
-  - angular
-  - json
-  - troubleshooting
+  - core-ui
 redirectFrom:
   - /ui16-angular-do-what-is-this/
   - /p/2018-11-05-ui16-angular-do-what-is-this/

@@ -7,13 +7,6 @@ description: >-
 date: '2020-02-29'
 tags:
   - servicenow
-  - api
-  - import-sets
-  - javascript
-  - html
-  - xml
-  - json
-  - release-orlando
 redirectFrom:
   - /ok-orlando-data-source-custom-load-by-script/
   - /p/2020-02-29-ok-orlando-data-source-custom-load-by-script/ 

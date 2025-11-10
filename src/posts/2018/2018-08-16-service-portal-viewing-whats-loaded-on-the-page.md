@@ -3,12 +3,8 @@ title: 'Service Portal: Viewing what is loaded on the page'
 description: "This is blatantly taken from HI as this I think is useful enough to re-post nearly verbatim.\r\n\r\nIf you've ever needed to know which Client Scripts, UI Polici..."
 date: '2018-08-16'
 tags:
-  - client-scripts
+  - servicenow
   - service-portal
-  - ui-policies
-  - ui-actions
-  - service-catalog
-  - javascript
 redirectFrom:
   - /service-portal-viewing-whats-loaded-on-the-page/
   - /p/2018-08-16-service-portal-viewing-whats-loaded-on-the-page/

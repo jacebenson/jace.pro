@@ -3,14 +3,7 @@ title: Rails, sqlite, Hetzner, Kamal2
 description: "You'll need a few things to get started here.\r\n\r\n1. A docker registry (I'm using hub.docker.com) with an access token\r\n2. A SSH Key\r\n3. A server (I'm using H..."
 date: '2025-04-05'
 tags:
-  - service-catalog
-  - css
-  - html
-  - database
-  - tutorial
-  - troubleshooting
-  - beginner
-  - security
+  - ruby-on-rails
 redirectFrom:
   - /rails-sqlite-hetzner-kamal2/
   - /p/2025-04-05-rails-sqlite-hetzner-kamal2/

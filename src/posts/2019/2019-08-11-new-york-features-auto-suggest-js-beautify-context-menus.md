@@ -4,14 +4,6 @@ description: "New york has a few, nice things added for developers if you still 
 date: '2019-08-12'
 tags:
   - servicenow
-  - client-scripts
-  - api
-  - javascript
-  - html
-  - xml
-  - json
-  - release-new-york
-  - tutorial
 redirectFrom:
   - /new-york-features-auto-suggest-js-beautify-context-menus/
   - /p/2019-08-11-new-york-features-auto-suggest-js-beautify-context-menus/ 

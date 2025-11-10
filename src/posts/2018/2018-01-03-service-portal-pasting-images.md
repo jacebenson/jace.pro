@@ -4,11 +4,7 @@ description: "In the past I've tried to set up image pasting before with\_Lars T
 date: '2018-01-04'
 tags:
   - servicenow
-  - client-scripts
   - service-portal
-  - javascript
-  - angular
-  - security
 redirectFrom:
   - /service-portal-pasting-images/
   - /p/2018-01-03-service-portal-pasting-images/

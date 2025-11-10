@@ -4,11 +4,6 @@ description: "I was watching the #til channel on\_SNDevs\_slack. The navigation 
 date: '2020-05-22'
 tags:
   - servicenow
-  - service-portal
-  - javascript
-  - angular
-  - html
-  - release-orlando
 redirectFrom:
   - /what-are-all-the-shortcuts-in-servicenow/
   - /p/2020-05-22-what-are-all-the-shortcuts-in-servicenow/

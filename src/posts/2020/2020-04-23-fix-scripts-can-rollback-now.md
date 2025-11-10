@@ -4,10 +4,6 @@ description: Yep, it *can* but by default it doesn't :(
 date: '2020-04-23'
 tags:
   - servicenow
-  - html
-  - release-orlando
-  - tutorial
-  - troubleshooting
 redirectFrom:
   - /fix-scripts-can-rollback-now/
   - /p/2020-04-23-fix-scripts-can-rollback-now/ 

@@ -7,13 +7,6 @@ description: >-
 date: '2022-11-10'
 tags:
   - servicenow
-  - business-rules
-  - ui-actions
-  - workflow
-  - api
-  - tutorial
-  - troubleshooting
-  - security
 redirectFrom:
   - /save-yourself-some-time-with-templates/
   - /p/2022-11-09-save-yourself-some-time-with-templates/

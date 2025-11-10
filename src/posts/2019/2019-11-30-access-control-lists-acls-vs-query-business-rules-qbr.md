@@ -4,14 +4,8 @@ description: "This is an issue as old as the \"HI security plugin\". Before that
 date: '2019-12-01'
 tags:
   - servicenow
-  - business-rules
   - acl
-  - html
-  - database
-  - troubleshooting
-  - best-practices
-  - performance
-  - security
+  - query-business-rules
 redirectFrom:
   - /access-control-lists-acls-vs-query-business-rules-qbr/
   - /p/2019-11-30-access-control-lists-acls-vs-query-business-rules-qbr/ 

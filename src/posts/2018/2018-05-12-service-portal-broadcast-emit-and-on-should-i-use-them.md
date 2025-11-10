@@ -8,10 +8,6 @@ date: '2018-05-13'
 tags:
   - servicenow
   - service-portal
-  - service-catalog
-  - javascript
-  - angular
-  - html
 redirectFrom:
   - /service-portal-broadcast-emit-and-on-should-i-use-them/
   - /p/2018-05-12-service-portal-broadcast-emit-and-on-should-i-use-them/

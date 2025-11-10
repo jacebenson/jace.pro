@@ -6,9 +6,6 @@ description: >-
 date: '2022-12-25'
 tags:
   - servicenow
-  - tutorial
-  - beginner
-  - career
 redirectFrom:
   - /what-5-topics-do-new-servicenow-developer-need-to-know-immediately/
   - /p/2022-12-25-what-5-topics-do-new-servicenow-developer-need-to-know-immediately/

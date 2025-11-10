@@ -3,14 +3,7 @@ title: Validating links on your KB
 description: "The other day, \"Jon\" on slack asked;\r\n\r\n> Hi everyone :slightly_smiling_face: We have a ton of external links in content items. How can I regularly check tho..."
 date: '2019-11-14'
 tags:
-  - gliderecord
-  - business-rules
-  - knowledge
-  - javascript
-  - json
-  - troubleshooting
-  - security
-  - integration
+  - servicenow
 redirectFrom:
   - /validating-links-on-your-kb/
   - /p/2019-11-13-validating-links-on-your-kb/ 

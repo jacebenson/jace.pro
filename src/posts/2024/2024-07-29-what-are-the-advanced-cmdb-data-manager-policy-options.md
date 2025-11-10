@@ -5,11 +5,6 @@ date: '2024-07-30'
 tags:
   - servicenow
   - cmdb
-  - knowledge
-  - html
-  - release-utah
-  - tutorial
-  - beginner
 redirectFrom:
   - /what-are-the-advanced-cmdb-data-manager-policy-options/
   - /p/2024-07-29-what-are-the-advanced-cmdb-data-manager-policy-options/

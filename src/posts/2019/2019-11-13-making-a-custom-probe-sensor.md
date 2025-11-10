@@ -5,8 +5,7 @@ description: >-
   data from a command line tool.
 date: '2019-11-14'
 tags:
-  - discovery
-  - tutorial
+  - servicenow
 redirectFrom:
   - /making-a-custom-probe-sensor/
   - /p/2019-11-13-making-a-custom-probe-sensor/ 

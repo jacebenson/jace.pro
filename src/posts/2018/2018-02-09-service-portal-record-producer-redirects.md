@@ -8,10 +8,6 @@ date: '2018-02-10'
 tags:
   - servicenow
   - service-portal
-  - service-catalog
-  - javascript
-  - html
-  - troubleshooting
 redirectFrom:
   - /service-portal-record-producer-redirects/
   - /p/2018-02-09-service-portal-record-producer-redirects/

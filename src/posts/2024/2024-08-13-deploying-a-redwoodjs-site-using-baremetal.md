@@ -3,15 +3,8 @@ title: Deploying a RedwoodJS site using BareMetal
 description: Deploying a RedwoodJS site using BareMetal
 date: '2024-08-14'
 tags:
-  - api
-  - javascript
-  - css
-  - html
-  - json
-  - database
-  - ai
-  - troubleshooting
-  - security
+  - redwoodjs
+  - cedarjs
 redirectFrom:
   - /deploying-a-redwoodjs-site-using-baremetal/
   - /p/2024-08-13-deploying-a-redwoodjs-site-using-baremetal/

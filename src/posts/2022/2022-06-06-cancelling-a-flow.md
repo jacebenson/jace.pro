@@ -3,8 +3,8 @@ title: Cancelling a flow
 description: "What is the post about?\\\r\nCancelling Workflows\\\r\nWhat things would help with writing the post\r\n\r\nSomething almost always asked for and rarely delivered is th..."
 date: '2022-06-07'
 tags:
-  - workflow
-  - troubleshooting
+  - servicenow
+  - legacy-workflow
 redirectFrom:
   - /cancelling-a-flow/
   - /p/2022-06-06-cancelling-a-flow/

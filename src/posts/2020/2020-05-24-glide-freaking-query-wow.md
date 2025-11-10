@@ -4,14 +4,6 @@ description: "A month ago I\_wrote about GlideQuery, asking \"... is GlideRecord
 date: '2020-05-24'
 tags:
   - servicenow
-  - gliderecord
-  - business-rules
-  - api
-  - javascript
-  - database
-  - release-orlando
-  - troubleshooting
-  - performance
 redirectFrom:
   - /glide-freaking-query-wow/
   - /p/2020-05-24-glide-freaking-query-wow/

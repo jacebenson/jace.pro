@@ -6,13 +6,7 @@ description: >-
   inc...
 date: '2018-05-14'
 tags:
-  - gliderecord
-  - ui-policies
-  - scoped-apps
-  - update-sets
-  - service-catalog
-  - javascript
-  - troubleshooting
+  - servicenow
 redirectFrom:
   - /create-item-from-script/
   - /p/2018-05-13-create-item-from-script/

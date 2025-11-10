@@ -4,10 +4,6 @@ description: "Success Meetup: Community MVP Paul Morris - Automated testing and 
 date: '2020-06-05'
 tags:
   - servicenow
-  - atf
-  - flow-designer
-  - release-orlando
-  - tutorial
   - knowledge-conference
 redirectFrom:
   - /k20-weekly-review-for-the-week-ending-on-june-5th/

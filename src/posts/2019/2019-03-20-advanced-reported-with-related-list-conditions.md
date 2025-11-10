@@ -5,7 +5,6 @@ date: '2019-03-20'
 tags:
   - servicenow
   - reporting
-  - security
 redirectFrom:
   - /advanced-reported-with-related-list-conditions/
   - /p/2019-03-20-advanced-reported-with-related-list-conditions/

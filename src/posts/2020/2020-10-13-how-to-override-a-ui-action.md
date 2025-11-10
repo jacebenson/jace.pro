@@ -3,8 +3,7 @@ title: How to override a UI Action
 description: "Someone asked the other day, how to override the \"Submit\" ui action for incident.\r\n\r\nLet me start with why you shouldn't change the oob \"Submit\" ui action. T..."
 date: '2020-10-13'
 tags:
-  - ui-actions
-  - tutorial
+  - servicenow
 redirectFrom:
   - /how-to-override-a-ui-action/
   - /p/2020-10-13-how-to-override-a-ui-action/

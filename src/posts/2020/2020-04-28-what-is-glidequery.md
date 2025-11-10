@@ -3,10 +3,7 @@ title: What is GlideQuery
 description: "So this is a new thing that may change how code is written for some.\r\n\r\nLet me show you an example of the code and output. Then I'll write my thoughts.\r\n\r\n\r\n..."
 date: '2020-04-28'
 tags:
-  - gliderecord
-  - javascript
-  - json
-  - security
+  - servicenow
 redirectFrom:
   - /what-is-glidequery/
   - /p/2020-04-28-what-is-glidequery/

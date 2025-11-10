@@ -4,7 +4,6 @@ description: "Here's our set up.\r\n\r\n## Scheduled Runner\r\n\r\nWe created a 
 date: '2018-04-20'
 tags:
   - servicenow
-  - atf
 redirectFrom:
   - /setting-up-automated-testing-framework-atf/
   - /p/2018-04-19-setting-up-automated-testing-framework-atf/

@@ -6,10 +6,7 @@ description: >-
   a si...
 date: '2017-09-14'
 tags:
-  - gliderecord
-  - notifications
-  - javascript
-  - xml
+  - servicenow
 redirectFrom:
   - /unsubscribe/
   - /p/2017-09-13-unsubscribe/

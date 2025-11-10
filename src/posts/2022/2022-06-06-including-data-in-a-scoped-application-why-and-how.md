@@ -3,9 +3,7 @@ title: Including data in a scoped application, why and how?
 description: "Scoped apps -\\\r\nHow to save data in a scoped app?\r\n\r\nExtend sys_meta table.\r\n\r\nInt he past there was a ui action\\\r\nand before that there was a dictionary att..."
 date: '2022-06-06'
 tags:
-  - ui-actions
-  - scoped-apps
-  - tutorial
+  - servicenow
 redirectFrom:
   - /including-data-in-a-scoped-application-why-and-how/
   - /p/2022-06-06-including-data-in-a-scoped-application-why-and-how/

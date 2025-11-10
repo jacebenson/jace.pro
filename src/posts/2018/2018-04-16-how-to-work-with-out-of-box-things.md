@@ -4,8 +4,6 @@ description: "This is something I've been told differently how to manage out of 
 date: '2018-04-17'
 tags:
   - servicenow
-  - html
-  - tutorial
 redirectFrom:
   - /how-to-work-with-out-of-box-things/
   - /p/2018-04-16-how-to-work-with-out-of-box-things/

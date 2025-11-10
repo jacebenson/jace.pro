@@ -7,14 +7,7 @@ description: >-
 date: '2019-07-12'
 tags:
   - servicenow
-  - gliderecord
-  - ui-actions
-  - javascript
-  - html
-  - xml
-  - tutorial
-  - troubleshooting
-  - integration
+  - processors
 redirectFrom:
   - /using-processors-to-download-files/
   - /p/2019-07-12-using-processors-to-download-files/

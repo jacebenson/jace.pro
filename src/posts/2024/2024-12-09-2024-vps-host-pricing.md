@@ -6,9 +6,7 @@ description: >-
   up ...
 date: '2024-12-09'
 tags: 
-  - vps
   - hosting
-  - pricing
 redirectFrom:
   - /2024-vps-host-pricing/
   - /p/2024-12-09-2024-vps-host-pricing/

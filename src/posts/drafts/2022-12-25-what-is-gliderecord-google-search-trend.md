@@ -8,9 +8,6 @@ date: '2022-12-25'
 tags:
   - servicenow
   - gliderecord
-  - api
-  - javascript
-  - security
 redirectFrom:
   - /what-is-gliderecord-google-search-trend/
 ---

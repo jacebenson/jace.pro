@@ -5,7 +5,7 @@ date: '2020-03-25'
 tags:
   - servicenow
   - service-portal
-  - xml
+  - core-ui
 redirectFrom:
   - /using-a-sp-widget-on-ui16/
   - /p/2020-03-25-using-a-sp-widget-on-ui16/ 

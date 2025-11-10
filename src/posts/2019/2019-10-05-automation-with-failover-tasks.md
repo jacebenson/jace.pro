@@ -5,9 +5,7 @@ description: >-
   an error or an expected output.
 date: '2019-10-05'
 tags:
-  - business-rules
-  - workflow
-  - troubleshooting
+  - servicenow
 redirectFrom:
   - /automation-with-failover-tasks/
   - /p/2019-10-05-automation-with-failover-tasks/ 

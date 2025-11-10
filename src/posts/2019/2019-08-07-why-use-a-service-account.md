@@ -4,10 +4,6 @@ description: "On Slack someone asked me to post about service accounts.\r\n\r\n>
 date: '2019-08-08'
 tags:
   - servicenow
-  - api
-  - html
-  - security
-  - integration
 redirectFrom:
   - /why-use-a-service-account/
   - /p/2019-08-07-why-use-a-service-account/

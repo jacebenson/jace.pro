@@ -4,8 +4,6 @@ description: "I posted a survey on Twitter a few weeks ago;\r\n\r\n\r\n\r\n> Wha
 date: '2019-09-28'
 tags:
   - servicenow
-  - tutorial
-  - security
 redirectFrom:
   - /better-ux-or-fully-automated/
   - /p/2019-09-27-better-ux-or-fully-automated/ 

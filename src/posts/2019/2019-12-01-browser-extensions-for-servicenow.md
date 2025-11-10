@@ -4,11 +4,6 @@ description: "This post is brought to you because of Kevin. Thanks Kevin!\r\n\r\
 date: '2019-12-02'
 tags:
   - servicenow
-  - update-sets
-  - api
-  - reporting
-  - knowledge-conference
-  - security
 redirectFrom:
   - /browser-extensions-for-servicenow/
   - /p/2019-12-01-browser-extensions-for-servicenow/ 

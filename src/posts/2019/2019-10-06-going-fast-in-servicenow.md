@@ -5,7 +5,6 @@ date: '2019-10-07'
 tags:
   - servicenow
   - reporting
-  - security
 redirectFrom:
   - /going-fast-in-servicenow/
   - /p/2019-10-06-going-fast-in-servicenow/ 

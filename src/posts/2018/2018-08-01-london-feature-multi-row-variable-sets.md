@@ -4,10 +4,6 @@ description: "I had to try this out and since the docs doesn't show how it works
 date: '2018-08-01'
 tags:
   - servicenow
-  - service-catalog
-  - javascript
-  - html
-  - json
 redirectFrom:
   - /london-feature-multi-row-variable-sets/
   - /p/2018-08-01-london-feature-multi-row-variable-sets/

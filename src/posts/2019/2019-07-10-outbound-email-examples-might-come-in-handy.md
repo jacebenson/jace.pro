@@ -4,8 +4,7 @@ description: "I am trying to keep a small list of emails I get from service-now\
 date: '2019-07-10'
 tags:
   - servicenow
-  - notifications
-  - performance
+  - email
 redirectFrom:
   - /outbound-email-examples-might-come-in-handy/
   - /p/2019-07-10-outbound-email-examples-might-come-in-handy/

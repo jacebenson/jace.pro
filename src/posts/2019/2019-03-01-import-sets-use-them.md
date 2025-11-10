@@ -5,13 +5,6 @@ date: '2019-03-01'
 tags:
   - servicenow
   - import-sets
-  - service-catalog
-  - javascript
-  - xml
-  - json
-  - tutorial
-  - knowledge-conference
-  - integration
 redirectFrom:
   - /import-sets-use-them/
   - /p/2019-03-01-import-sets-use-them/

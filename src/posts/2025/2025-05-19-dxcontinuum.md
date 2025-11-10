@@ -7,12 +7,7 @@ description: >-
 date: '2025-05-19'
 tags:
   - servicenow
-  - workflow
-  - html
-  - ai
-  - beginner
-  - performance
-  - integration
+  - acquisitions
 redirectFrom:
   - /dxcontinuum/
   - /p/2025-05-19-dxcontinuum/

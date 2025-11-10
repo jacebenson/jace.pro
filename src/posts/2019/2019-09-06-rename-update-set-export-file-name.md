@@ -7,10 +7,6 @@ description: >-
 date: '2019-09-07'
 tags:
   - servicenow
-  - gliderecord
-  - update-sets
-  - javascript
-  - xml
 redirectFrom:
   - /rename-update-set-export-file-name/
   - /p/2019-09-06-rename-update-set-export-file-name/ 

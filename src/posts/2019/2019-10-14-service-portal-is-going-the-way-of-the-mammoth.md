@@ -8,15 +8,7 @@ date: '2019-10-15'
 tags:
   - servicenow
   - service-portal
-  - workflow
-  - flow-designer
-  - api
-  - knowledge
-  - javascript
-  - angular
-  - html
-  - release-orlando
-  - knowledge-conference
+  - next-experience
 redirectFrom:
   - /service-portal-is-going-the-way-of-the-mammoth/
   - /p/2019-10-14-service-portal-is-going-the-way-of-the-mammoth/ 

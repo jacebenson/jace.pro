@@ -4,7 +4,7 @@ description: "I have this code snippet;\r\n\r\njavascript\r\n// The following sc
 date: '2022-06-06'
 tags:
   - gliderecord
-  - javascript
+  - servicenow
 redirectFrom:
   - /what-is-a-shard-and-how-can-i-find-the-one-this-table-is-on/
   - /p/2022-06-06-what-is-a-shard-and-how-can-i-find-the-one-this-table-is-on/

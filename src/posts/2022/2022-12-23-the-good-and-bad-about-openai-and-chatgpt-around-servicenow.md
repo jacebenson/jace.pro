@@ -4,12 +4,8 @@ description: >-
     How I came to understand AI and ML through my experiences with ServiceNow, OpenAI, and other platforms.
 date: '2022-12-23'
 tags:
-  - servicenow
-  - service-catalog
   - ai
-  - chatgpt
-  - tutorial
-  - beginner
+  - thoughts
 redirectFrom:
   - /the-good-and-bad-about-openai-and-chatgpt-around-servicenow/
   - /p/2022-12-23-the-good-and-bad-about-openai-and-chatgpt-around-servicenow/

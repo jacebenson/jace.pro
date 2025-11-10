@@ -4,11 +4,6 @@ description: "I had to add some code to set this for some reporting needs.  This
 date: '2017-10-14'
 tags:
   - servicenow
-  - gliderecord
-  - business-rules
-  - reporting
-  - javascript
-  - troubleshooting
 redirectFrom:
   - /set-duration-and-business-duration/
   - /p/2017-10-13-set-duration-and-business-duration/

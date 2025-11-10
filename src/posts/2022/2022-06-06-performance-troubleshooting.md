@@ -4,9 +4,6 @@ description: "Might just be a page of links.\r\n\r\nmilligna Today at 22:58\\\r\
 date: '2022-06-06'
 tags:
   - servicenow
-  - tutorial
-  - performance
-  - security
 redirectFrom:
   - /performance-troubleshooting/
   - /p/2022-06-06-performance-troubleshooting/

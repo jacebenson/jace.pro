@@ -4,12 +4,6 @@ description: "Sometimes you just want to know the versions of software you're us
 date: '2018-02-16'
 tags:
   - servicenow
-  - service-portal
-  - javascript
-  - angular
-  - css
-  - html
-  - xml
 redirectFrom:
   - /versions-of-things/
   - /p/2018-02-15-versions-of-things/

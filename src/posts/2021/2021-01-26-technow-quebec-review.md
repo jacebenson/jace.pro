@@ -4,23 +4,6 @@ description: "Technow Quebec Review\r\n\r\nThe team presenting this noted that s
 date: '2021-01-27'
 tags:
   - servicenow
-  - service-portal
-  - workflow
-  - flow-designer
-  - api
-  - knowledge
-  - notifications
-  - reporting
-  - service-catalog
-  - css
-  - html
-  - ai
-  - release-quebec
-  - knowledge-conference
-  - beginner
-  - performance
-  - security
-  - integration
 redirectFrom:
   - /technow-quebec-review/
   - /p/2021-01-26-technow-quebec-review/

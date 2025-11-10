@@ -4,9 +4,6 @@ description: "The other day on slack I read that you can set any user preference
 date: '2020-09-03'
 tags:
   - servicenow
-  - update-sets
-  - html
-  - release-orlando
 redirectFrom:
   - /undocumented-setting-user-preferences-via-url/
   - /p/2020-09-03-undocumented-setting-user-preferences-via-url/

@@ -4,10 +4,6 @@ description: "Let me preface this code with there is another way to do this but 
 date: '2018-02-16'
 tags:
   - servicenow
-  - gliderecord
-  - service-catalog
-  - javascript
-  - tutorial
 redirectFrom:
   - /how-to-print-out-all-the-variables-old/
   - /p/2018-02-15-how-to-print-out-all-the-variables-old/

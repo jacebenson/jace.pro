@@ -5,9 +5,6 @@ date: '2022-12-24'
 tags:
   - servicenow
   - reporting
-  - javascript
-  - database
-  - security
 redirectFrom:
   - /what-is-subquery-and-how-does-it-give-me-superpowers-in-servicenow/
   - /p/2022-12-23-what-is-subquery-and-how-does-it-give-me-superpowers-in-servicenow/

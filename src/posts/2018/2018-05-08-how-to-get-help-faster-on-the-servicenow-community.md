@@ -3,10 +3,7 @@ title: How to get help faster on the ServiceNow community
 description: "Often I find questions posted on community.servicenow.com\_to be disappointing in that a lot of extra back and forth has to happen before someone can get the ..."
 date: '2018-05-09'
 tags:
-  - servicenow
-  - service-catalog
-  - tutorial
-  - troubleshooting
+  - thoughts
 redirectFrom:
   - /how-to-get-help-faster-on-the-servicenow-community/
   - /p/2018-05-08-how-to-get-help-faster-on-the-servicenow-community/

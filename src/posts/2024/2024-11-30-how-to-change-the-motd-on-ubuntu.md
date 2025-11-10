@@ -3,7 +3,7 @@ title: How to change the MOTD on Ubuntu
 description: "The Message of the day on linux is helpful, but its long and... a little hard for things to stand out.\r\n\r\n!MOTD\r\n\r\nI had a few questions about the MOTD.\r\n\r\n1..."
 date: '2024-11-30'
 tags:
-  - tutorial
+  - ubuntu
 redirectFrom:
   - /how-to-change-the-motd-on-ubuntu/
   - /p/2024-11-30-how-to-change-the-motd-on-ubuntu/

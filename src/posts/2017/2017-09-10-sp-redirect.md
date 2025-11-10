@@ -3,10 +3,8 @@ title: Redirect old CMS pages to your Service Portal
 description: Useful when migrating from CMS to SP
 date: '2017-09-10'
 tags:
+  - servicenow
   - service-portal
-  - html
-  - xml
-  - troubleshooting
 redirectFrom:
   - /sp-redirect/
   - /post/2017-09-10-sp-redirect/

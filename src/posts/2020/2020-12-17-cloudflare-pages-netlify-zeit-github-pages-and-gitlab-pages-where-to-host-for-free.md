@@ -5,8 +5,7 @@ title: >-
 description: "CloudFlare Pages, Netlify, Zeit, Github Pages, and Gitlab Pages. Where to host?\r\n\r\nLet me know in the comments or via a\_GitHub issue\_if I'm missing something..."
 date: '2020-12-17'
 tags:
-  - javascript
-  - troubleshooting
+  - hosting
 redirectFrom:
   - /cloudflare-pages-netlify-zeit-github-pages-and-gitlab-pages-where-to-host-for-free/
   - /p/2020-12-17-cloudflare-pages-netlify-zeit-github-pages-and-gitlab-pages-where-to-host-for-free/

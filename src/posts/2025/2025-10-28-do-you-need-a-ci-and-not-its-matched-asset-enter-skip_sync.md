@@ -5,7 +5,6 @@ description: >-
 date: '2025-10-28'
 tags:
   - servicenow
-  - knowledge
 redirectFrom:
   - /do-you-need-a-ci-and-not-the-matched-asset-enter-skip_sync/
   - /do-you-need-a-ci-and-not-its-matched-asset-enter-skip_sync/

@@ -4,12 +4,6 @@ description: "Calculating Business Durations\r\n\r\nFirst, why is this a thing? 
 date: '2021-04-20'
 tags:
   - servicenow
-  - gliderecord
-  - business-rules
-  - api
-  - javascript
-  - html
-  - release-quebec
 redirectFrom:
   - /calculating-business-durations/
   - /p/2021-04-19-calculating-business-durations/
