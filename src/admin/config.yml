@@ -20,14 +20,14 @@ site_url: https://jace.pro
 
 # Collections
 collections:
-  # Blog Posts Collection
+  # Blog Posts Collection - searches all year folders
   - name: "posts"
     label: "Blog Posts"
     label_singular: "Post"
-    folder: "src/posts/{{year}}"
+    folder: "src/posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    path: "{{year}}/{{slug}}"
+    path: "{{year}}/{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
     fields:
