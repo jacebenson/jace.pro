@@ -20,14 +20,106 @@ site_url: https://jace.pro
 
 # Collections
 collections:
-  # Blog Posts Collection - searches all year folders
+  # All Blog Posts - Combined View
   - name: "posts"
-    label: "Blog Posts"
+    label: "📝 All Blog Posts"
     label_singular: "Post"
     folder: "src/posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     path: "{{year}}/{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Description", name: "description", widget: "text", required: true}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false, required: true}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true, default: ["servicenow"], required: false}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
+      - label: "Redirect From"
+        name: "redirectFrom"
+        widget: "list"
+        required: false
+        allow_add: true
+        hint: "Legacy URLs that should redirect to this post"
+
+  # 2025 Posts
+  - name: "posts-2025"
+    label: "2025 Posts"
+    label_singular: "2025 Post"
+    folder: "src/posts/2025"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Description", name: "description", widget: "text", required: true}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false, required: true}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true, default: ["servicenow"], required: false}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
+      - label: "Redirect From"
+        name: "redirectFrom"
+        widget: "list"
+        required: false
+        allow_add: true
+        hint: "Legacy URLs that should redirect to this post"
+
+  # 2024 Posts
+  - name: "posts-2024"
+    label: "2024 Posts"
+    label_singular: "2024 Post"
+    folder: "src/posts/2024"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Description", name: "description", widget: "text", required: true}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false, required: true}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true, default: ["servicenow"], required: false}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
+      - label: "Redirect From"
+        name: "redirectFrom"
+        widget: "list"
+        required: false
+        allow_add: true
+        hint: "Legacy URLs that should redirect to this post"
+
+  # 2023 Posts
+  - name: "posts-2023"
+    label: "2023 Posts"
+    label_singular: "2023 Post"
+    folder: "src/posts/2023"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Description", name: "description", widget: "text", required: true}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false, required: true}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true, default: ["servicenow"], required: false}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
+      - label: "Redirect From"
+        name: "redirectFrom"
+        widget: "list"
+        required: false
+        allow_add: true
+        hint: "Legacy URLs that should redirect to this post"
+
+  # 2022 Posts
+  - name: "posts-2022"
+    label: "2022 Posts"
+    label_singular: "2022 Post"
+    folder: "src/posts/2022"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
     fields:
