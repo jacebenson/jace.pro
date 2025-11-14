@@ -1,0 +1,90 @@
+# Decap CMS Configuration for jace.pro
+# See: https://decapcms.org/docs/configuration-options/
+
+backend:
+  name: git-gateway
+  branch: main # Branch to update (main, master, etc.)
+
+# Uncomment below to use local backend for development
+# local_backend: true
+
+# Media files
+media_folder: "src/assets/images/blog"
+public_folder: "/assets/images/blog"
+
+# Publish mode
+publish_mode: editorial_workflow
+
+# Site URL
+site_url: https://jace.pro
+
+# Collections
+collections:
+  # Blog Posts Collection
+  - name: "posts"
+    label: "Blog Posts"
+    label_singular: "Post"
+    folder: "src/posts/{{year}}"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    path: "{{year}}/{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Description", name: "description", widget: "text", required: true}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false, required: true}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true, default: ["servicenow"], required: false}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
+      - label: "Redirect From"
+        name: "redirectFrom"
+        widget: "list"
+        required: false
+        allow_add: true
+        hint: "Legacy URLs that should redirect to this post"
+
+  # Draft Posts Collection
+  - name: "drafts"
+    label: "Draft Posts"
+    label_singular: "Draft"
+    folder: "src/posts/drafts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Description", name: "description", widget: "text", required: true}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false, required: true}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true, default: ["servicenow"], required: false}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
+      - label: "Redirect From"
+        name: "redirectFrom"
+        widget: "list"
+        required: false
+        allow_add: true
+        hint: "Legacy URLs that should redirect to this post"
+
+  # Pages Collection
+  - name: "pages"
+    label: "Pages"
+    label_singular: "Page"
+    folder: "src/pages"
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Permalink", name: "permalink", widget: "string", required: true, hint: "e.g., /about/index.html"}
+      - {label: "Description", name: "description", widget: "text", required: true}
+      - {label: "Layout", name: "layout", widget: "select", options: ["page", "post", "base"], default: "page", required: true}
+      - label: "Discover"
+        name: "discover"
+        widget: "object"
+        required: false
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown", required: true}

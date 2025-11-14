@@ -38,6 +38,9 @@
 
     <!-- 8 meta tags, icons, open graph etc.  -->
     {% include "head/meta-info.njk" %}
+
+    <!-- Netlify Identity Widget for Decap CMS -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
   <body class="{{ layout }}">
@@ -55,5 +58,18 @@
       <script type="module" src="/assets/scripts/components/custom-easteregg.js"></script>
       <custom-easteregg></custom-easteregg>
     {%- endif -%}
+
+    <!-- Netlify Identity redirect script -->
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 </html>
