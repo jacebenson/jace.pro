@@ -40,6 +40,11 @@
     {% include "head/meta-info.njk" %}
 
     <!-- Netlify Identity Widget for Decap CMS -->
+    <script>
+      window.netlifyIdentityConfig = {
+        APIUrl: "https://jacepro.netlify.app/.netlify/identity"
+      };
+    </script>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 

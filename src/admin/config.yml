@@ -3,7 +3,7 @@
 
 backend:
   name: git-gateway
-  branch: main # Branch to update (main, master, etc.)
+  branch: main
 
 # Uncomment below to use local backend for development
 # local_backend: true
