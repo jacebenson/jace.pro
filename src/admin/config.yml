@@ -26,7 +26,6 @@ collections:
     label_singular: "Post"
     folder: "src/posts"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     path: "{{year}}/{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
       preview: false
