@@ -6,7 +6,7 @@ date: 2025-11-18
 tags:
   - servicenow
 ---
-Today I was looking at an issue and had trouble finding the documentation for the hover overview.  That's cause it's not called that.  It's called the "popup" view or "`sys_popup`".  This is a rewrite of the find work [Roger Chew did on the community here](https://www.servicenow.com/community/servicenow-ai-platform-blog/how-to-customize-fields-displayed-on-the-reference-field-pop-up/ba-p/2282544).
+Today I was looking at an issue and had trouble finding the documentation for the hover overview.  That's cause it's not called that.  It's called the "popup" view or "`sys_popup`".  This is a rewrite of the fine work [Roger Chew did on the community here](https://www.servicenow.com/community/servicenow-ai-platform-blog/how-to-customize-fields-displayed-on-the-reference-field-pop-up/ba-p/2282544).
 
 If there is no defined `sys_popup` view ServiceNow will default to using the "`default`" view.\
 If the view `sys_popup,[viewname]` exists, then this pop up view for the given view will be used.\
