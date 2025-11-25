@@ -63,8 +63,11 @@ schema: BlogPosting
 <script>
   document.getElementById('ai-toggle').addEventListener('change', function(e) {
     const container = document.getElementById("squirm-content");
-    
-    if (e.target.checked) {
+    toggleSquirm(e.target.checked, container);
+  });
+
+  function toggleSquirm(shouldSquirm, container) {
+    if (shouldSquirm) {
       if (!document.querySelector('script[src*="squirminal.js"]')) {
         const script = document.createElement('script');
         script.src = "https://unpkg.com/@zachleat/squirminal@3.0.1/squirminal.js";
@@ -78,7 +81,7 @@ schema: BlogPosting
     } else {
       removeSquirm(container);
     }
-  });
+  }
 
   function applySquirm(container) {
     if (container.querySelector('squirm-inal')) return;
@@ -99,5 +102,47 @@ schema: BlogPosting
       container.append(...children);
       squirm.remove();
     }
+  }
+
+  // Check for GET parameter
+  const urlParams = new URLSearchParams(window.location.search);
+  const aiParam = urlParams.get('ai');
+  const aiToggle = document.getElementById('ai-toggle');
+  
+  if (aiParam === 'true') {
+    aiToggle.checked = true;
+    toggleSquirm(true, document.getElementById("squirm-content"));
+    updateLinks(true);
+  }
+
+  // Update URL and Links on manual toggle
+  aiToggle.addEventListener('change', (e) => {
+    const isChecked = e.target.checked;
+    const url = new URL(window.location);
+    if (isChecked) {
+        url.searchParams.set('ai', 'true');
+    } else {
+        url.searchParams.delete('ai');
+    }
+    window.history.replaceState({}, '', url);
+    updateLinks(isChecked);
+  });
+
+  function updateLinks(isChecked) {
+    document.querySelectorAll('a').forEach(link => {
+        try {
+            const linkUrl = new URL(link.href, window.location.origin);
+            if (linkUrl.origin === window.location.origin) {
+                if (isChecked) {
+                    linkUrl.searchParams.set('ai', 'true');
+                } else {
+                    linkUrl.searchParams.delete('ai');
+                }
+                link.href = linkUrl.toString();
+            }
+        } catch (e) {
+            // ignore invalid urls
+        }
+    });
   }
 </script>
