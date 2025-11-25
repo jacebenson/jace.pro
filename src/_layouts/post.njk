@@ -11,7 +11,7 @@ schema: BlogPosting
       <!-- image -->
       {% image image, alt or "", credit, "eager", "feature" %}
     {% endif %}
-
+    
     <p class="meta | cluster gutter-xs-s">
       <!-- draft status -->
       {%- if draft -%}
@@ -29,8 +29,16 @@ schema: BlogPosting
         {% endif %}{% endfor %}
       {% endif %}
     </p>
-
-    {{ content | safe }}
+<div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
+      <label class="switch">
+        <input type="checkbox" id="ai-toggle">
+        <span class="slider round"></span>
+      </label>
+      <span style="user-select: none;">Enable AI Animation</span>
+    </div>
+    <div id="squirm-content">
+      {{ content | safe }}
+    </div>
     {% include 'partials/edit-on.njk' %}
   </div>
 
@@ -51,3 +59,45 @@ schema: BlogPosting
   {%- include 'css/post.css' -%}
   {%- include 'css/footnotes.css' -%}
 {%- endcss -%}
+
+<script>
+  document.getElementById('ai-toggle').addEventListener('change', function(e) {
+    const container = document.getElementById("squirm-content");
+    
+    if (e.target.checked) {
+      if (!document.querySelector('script[src*="squirminal.js"]')) {
+        const script = document.createElement('script');
+        script.src = "https://unpkg.com/@zachleat/squirminal@3.0.1/squirminal.js";
+        script.integrity = "sha384-m+pplzdzdfZuwjyxmM9pOkp/ALfMMjZll/b2g2mR6mhurvj1ZZAe8xXNj7BSp4XM";
+        script.crossOrigin = "anonymous";
+        script.onload = () => applySquirm(container);
+        document.head.appendChild(script);
+      } else {
+        applySquirm(container);
+      }
+    } else {
+      removeSquirm(container);
+    }
+  });
+
+  function applySquirm(container) {
+    if (container.querySelector('squirm-inal')) return;
+    
+    let squirm = document.createElement("squirm-inal");
+    squirm.setAttribute("speed", "0.6");
+    squirm.setAttribute("autoplay", "");
+    
+    const children = Array.from(container.children);
+    squirm.append(...children);
+    container.append(squirm);
+  }
+
+  function removeSquirm(container) {
+    const squirm = container.querySelector('squirm-inal');
+    if (squirm) {
+      const children = Array.from(squirm.children);
+      container.append(...children);
+      squirm.remove();
+    }
+  }
+</script>
