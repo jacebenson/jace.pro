@@ -49,3 +49,6 @@ This runs the `sync` which uploads everything from the first host, to the second
 
 You can instead run a `copy` which just copies the files and doesn't remove things that don't exist in the source.
 
+
+
+Thanks [Jacob Nollette](https://www.linkedin.com/in/jacob-nollette/) for the assist here!  Really appreciate it!
