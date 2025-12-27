@@ -454,6 +454,8 @@ Now let's add these changes to git, and redeploy.
     kamal deploy
 ```
 
+</details>
+
 ### Testing over http on the ip address
 
 Okay this is not where we want to leave things but I like to test things out.
