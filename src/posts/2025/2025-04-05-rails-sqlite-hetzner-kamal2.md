@@ -252,6 +252,52 @@ On the terminal install kamal, then initialize it for the current project.
     # that's okay.
 ```
 
+### Setting up SSH access to your server
+
+Before you can deploy, you need passwordless SSH access to your server.
+
+<details>
+<summary><strong>Can't login with SSH? Click here for setup instructions</strong></summary>
+
+**Step 1: Copy your SSH key to the server**
+
+```sh
+ssh-copy-id root@YOUR_SERVER_IP
+```
+
+Enter the root password when prompted. This installs your public key on the server.
+
+**Step 2: Test SSH access**
+
+```sh
+ssh root@YOUR_SERVER_IP "echo success"
+```
+
+If you see "success" without entering a password, you're ready to deploy!
+
+**Troubleshooting:**
+
+If `ssh-copy-id` doesn't work, you can manually copy your key:
+
+```sh
+# Display your public key
+cat ~/.ssh/id_ed25519.pub
+
+# SSH into server
+ssh root@YOUR_SERVER_IP
+
+# On the server, add your key
+mkdir -p ~/.ssh
+echo "PASTE_YOUR_PUBLIC_KEY_HERE" >> ~/.ssh/authorized_keys
+chmod 600 ~/.ssh/authorized_keys
+exit
+
+# Test it worked
+ssh root@YOUR_SERVER_IP "echo success"
+```
+
+</details>
+
 ### Configuring the deploy.yml
 
 I want to lay out all the things you'll need for this, but there's a bunch. Instead I'm going to address each configuration.
@@ -320,9 +366,17 @@ I ended up install dotenvx to correct this.
 curl -sfS https://dotenvx.sh | sudo sh
 ```
 
-Then updated the secrets file to have this for the KAMAL_REGISTRY_PASSWORD.
+Then updated the secrets file (`.kamal/secrets`) to use dotenvx for both secrets:
 
-`KAMAL_REGISTRY_PASSWORD=$(dotenvx get KAMAL_REGISTRY_PASSWORD --quiet -f .env)`
+```sh
+# Grab the registry password from ENV
+KAMAL_REGISTRY_PASSWORD=$(dotenvx get KAMAL_REGISTRY_PASSWORD --quiet -f .env)
+
+# Grab the Rails master key from ENV
+RAILS_MASTER_KEY=$(dotenvx get RAILS_MASTER_KEY --quiet -f .env)
+```
+
+**Tip:** You can verify secrets are loading correctly with `kamal secrets print`.
 
 This just worked for me! Sweet. However, when I try to register, I don't get logged in.
 
@@ -332,24 +386,65 @@ This just worked for me! Sweet. However, when I try to register, I don't get log
 
 We're going to copy his lead.
 
-To that we need to ssh on the machine and create directories for the database and for storage. We'll give proper permissions to those folders. We'll add the volumes into our deploy.yml file.
+#### Option 1: Automatic setup with Kamal hooks (Recommended)
 
-We'll need to ssh onto the server to create the folders
+Create a file at `.kamal/hooks/docker-setup` (no file extension):
+
+```sh
+#!/bin/sh
+
+# This hook runs LOCALLY after Docker is installed on remote servers
+# We need to SSH into each host to set up directories with proper permissions
+
+echo "Setting up storage directories on remote servers..."
+
+# Loop through all hosts (KAMAL_HOSTS is space-separated)
+for host in $KAMAL_HOSTS; do
+  echo "Setting up /storage on $host..."
+  
+  # SSH into the remote host and create the directory with proper permissions
+  ssh "$host" "mkdir -p /storage && chown -R 1000:1000 /storage && chmod -R 755 /storage"
+  
+  if [ $? -eq 0 ]; then
+    echo "✓ Successfully set up /storage on $host (UID 1000:1000)"
+  else
+    echo "✗ Failed to set up /storage on $host" >&2
+    exit 1
+  fi
+done
+
+echo "✓ All servers configured successfully"
+```
+
+Make it executable:
+
+```sh
+chmod +x .kamal/hooks/docker-setup
+```
+
+Now when you run `kamal setup`, this directory will be created automatically! You can skip to [editing deploy.yml](#edit-deployyml).
+
+<details>
+<summary><strong>Option 2: Manual setup (if you prefer)</strong></summary>
+
+If you prefer to create directories manually, SSH into the server:
 
 ```sh
 ssh root@yourserversipaddress
-sudo mkdir /db
 sudo mkdir /storage
-sudo chown 1000:1000 /db /storage
+sudo chown 1000:1000 /storage
 ```
+
+**Why 1000:1000?** The Rails Dockerfile creates a `rails` user with UID 1000 and runs the application as that user for security. The mounted volume on the host must be owned by the same UID so the Rails app can read/write the SQLite database files.
 
 Log off the server and edit the deploy.yml locally by adding
 
 ```yaml
     volumes:
-      - "/db:/rails/sqlite"
       - "/storage:/rails/storage"
 ```
+
+**Important:** Rails 8 expects the production database at `storage/production.sqlite3`, which becomes `/rails/storage/production.sqlite3` in the Docker container. The volume mount must point to `/rails/storage` to match this path. If you mount to `/rails/sqlite`, you'll get `SQLite3::CantOpenException: unable to open database file` errors.
 
 Now let's add these changes to git, and redeploy.
 
@@ -375,6 +470,12 @@ Do another deploy, and success I'm able to register an account and log in on sep
 
 First part of this is configuring your Domain Name Server to point to your server.
 
+**Verify DNS is working:**
+```sh
+dig +short your-domain.com
+# Should return your server's IP address
+```
+
 Then undo what we did before.
 
 1. Open `/config/environments/production.rb`
@@ -384,6 +485,123 @@ Then undo what we did before.
 ```sh
     kamal proxy logs
     kamal proxy reboot 
+```
+
+**Verify SSL certificate:**
+```sh
+# Check HTTPS works
+curl -I https://your-domain.com
+
+# View certificate details
+echo | openssl s_client -connect your-domain.com:443 -servername your-domain.com 2>/dev/null | openssl x509 -noout -subject -issuer -dates
+# Should show "issuer=C=US, O=Let's Encrypt"
+```
+
+The SSL certificate from Let's Encrypt is automatically obtained and will auto-renew.
+
+## Common Deployment Issues
+
+Here are the most common issues you might encounter and how to fix them:
+
+### SQLite3::CantOpenException: unable to open database file
+
+**Symptoms:** Deployment fails with "target failed to become healthy" and logs show SQLite can't open database.
+
+**Causes:**
+1. Volume mount path doesn't match `config/database.yml` expectations
+2. Incorrect permissions on `/storage` directory
+
+**Fix:**
+```sh
+# On your local machine, verify deploy.yml has:
+volumes:
+  - "/storage:/rails/storage"  # Must be /rails/storage, not /rails/sqlite
+
+# On the server, verify permissions:
+ssh root@YOUR_SERVER_IP "chown -R 1000:1000 /storage && chmod -R 755 /storage"
+
+# Redeploy:
+kamal deploy
+```
+
+### docker exit status: 32000 - flag needs an argument: 'p'
+
+**Symptoms:** `kamal setup` fails with Docker login error.
+
+**Cause:** The `.kamal/secrets` file isn't extracting the password correctly from `.env`.
+
+**Fix:**
+Install dotenvx and update `.kamal/secrets`:
+```sh
+# Install dotenvx
+curl -sfS https://dotenvx.sh | sudo sh
+
+# Edit .kamal/secrets to use:
+KAMAL_REGISTRY_PASSWORD=$(dotenvx get KAMAL_REGISTRY_PASSWORD --quiet -f .env)
+RAILS_MASTER_KEY=$(dotenvx get RAILS_MASTER_KEY --quiet -f .env)
+
+# Debug secrets with:
+kamal secrets print
+```
+
+### Permission Denied Errors in Logs
+
+**Symptoms:** Container starts but crashes with permission errors writing to database.
+
+**Cause:** The `/storage` directory on the server isn't owned by UID 1000 (the `rails` user in the container).
+
+**Fix:**
+```sh
+ssh root@YOUR_SERVER_IP
+chown -R 1000:1000 /storage
+chmod -R 755 /storage
+exit
+
+kamal deploy
+```
+
+### SSL Certificate Not Obtained
+
+**Symptoms:** HTTPS doesn't work, `curl https://domain.com` shows SSL error.
+
+**Check:**
+1. DNS is pointing to server: `dig +short your-domain.com` (should return your server IP)
+2. Ports 80 and 443 are open in firewall
+3. No other service is using port 80/443
+
+**Fix:**
+```sh
+# Check DNS first
+dig +short your-domain.com
+
+# If DNS is correct, restart proxy to retry Let's Encrypt:
+kamal proxy reboot
+
+# Check proxy logs:
+kamal proxy logs
+```
+
+### Useful Kamal Commands
+
+```sh
+# View application logs
+kamal logs
+kamal logs -f  # Follow/tail logs
+
+# Access Rails console
+kamal app exec --interactive --reuse "bin/rails console"
+
+# SSH into running container
+kamal app exec --interactive --reuse "bash"
+
+# Restart the application
+kamal app restart
+
+# Rollback to previous version
+kamal rollback
+
+# View deployment details
+kamal app details
 ```
 
 ## Useful resources
