@@ -13,3 +13,5 @@ src/_includes/scripts
 .env
 # Local Netlify folder
 .netlify
+
+tmp/
