@@ -17,8 +17,8 @@
     "validate": "node ./validate-posts.js",
     "dev:11ty": "cross-env ELEVENTY_ENV=development eleventy --serve",
     "build:11ty": "cross-env ELEVENTY_ENV=production eleventy",
-    "start": "npm run dev:11ty",
-    "dev": "npm run dev:11ty",
+    "start": "npm run validate && npm run dev:11ty",
+    "dev": "npm run validate && npm run dev:11ty",
     "build": "npm run validate && npm run clean && npm run build:11ty",
     "debug": "DEBUG=Eleventy* npx @11ty/eleventy"
   },
