@@ -5,7 +5,7 @@ description: >-
 date: '2025-01-04'
 tags: 
   - servicenow
-  - scripts
+  - rest-api
 redirectFrom:
   - /batch-update-servicenow-store-apps/
   - /p/2025-01-04-batch-update-servicenow-store-apps/

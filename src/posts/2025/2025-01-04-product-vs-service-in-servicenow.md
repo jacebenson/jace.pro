@@ -5,8 +5,7 @@ description: >-
 date: '2025-01-04'
 tags: 
   - servicenow
-  - csdm
-  - somt
+  - cmdb
 redirectFrom:
   - /product-vs-service-in-servicenow/
   - /p/2025-01-04-product-vs-service-in-servicenow/

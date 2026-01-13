@@ -5,7 +5,7 @@ description: >-
 date: '2025-01-04'
 tags: 
   - servicenow
-  - performance
+  - archiving
 redirectFrom:
   - /deleting-millions-of-records-in-servicenow/
   - /p/2025-01-04-deleting-millions-of-records-in-servicenow/

@@ -4,7 +4,8 @@ description: Today I got an email my old VPS host is changing the pricing on
   storage.  I moved a lot of my infrastructure to Hetzner so I thought I'd move
   the s3 object storage today.
 date: 2025-12-11
-tags: []
+tags:
+  - hosting
 ---
 ## What is s3
 

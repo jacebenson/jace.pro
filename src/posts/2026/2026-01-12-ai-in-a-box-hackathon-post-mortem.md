@@ -4,8 +4,7 @@ description: "A post-mortem of the AI In A Box Hackathon—what worked, what did
 date: 2026-01-12
 tags:
   - servicenow
-  - ai
-  - hackathon
+  - news
 ---
 
 # AI In A Box Hackathon: What We Built, What We Learned, and All the Data
