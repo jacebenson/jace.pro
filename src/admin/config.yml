@@ -43,6 +43,29 @@ collections:
         allow_add: true
         hint: "Legacy URLs that should redirect to this post"
 
+  # 2026 Posts
+  - name: "posts-2026"
+    label: "2026 Posts"
+    label_singular: "2026 Post"
+    folder: "src/posts/2026"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Description", name: "description", widget: "text", required: true}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false, required: true}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true, default: ["servicenow"], required: false}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
+      - label: "Redirect From"
+        name: "redirectFrom"
+        widget: "list"
+        required: false
+        allow_add: true
+        hint: "Legacy URLs that should redirect to this post"
+
   # 2025 Posts
   - name: "posts-2025"
     label: "2025 Posts"

@@ -20,6 +20,7 @@ export const getAllPosts = collection => {
   let post2023 = collection.getFilteredByGlob('./src/posts/2023/**/*.md');
   let post2024 = collection.getFilteredByGlob('./src/posts/2024/**/*.md');
   let post2025 = collection.getFilteredByGlob('./src/posts/2025/**/*.md');
+  let post2026 = collection.getFilteredByGlob('./src/posts/2026/**/*.md');
   let draftPosts = collection.getFilteredByGlob('./src/posts/drafts/**/*.md');
   // combine all years
   let allPosts = [
@@ -33,6 +34,7 @@ export const getAllPosts = collection => {
     ...post2023,
     ...post2024,
     ...post2025,
+    ...post2026,
   ];
   if (process.env.ELEVENTY_ENV === 'development') {
     allPosts = [...allPosts, ...draftPosts];
