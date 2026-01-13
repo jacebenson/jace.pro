@@ -2,13 +2,13 @@
 title: 'Deleting a ton of records in ServiceNow'
 description: >-
   Need to delete millions of records? Here are your options and what the community learned from doing it.
-date: '2025-01-04'
+date: '2026-01-04'
 tags: 
   - servicenow
   - archiving
 redirectFrom:
   - /deleting-millions-of-records-in-servicenow/
-  - /p/2025-01-04-deleting-millions-of-records-in-servicenow/
+  - /p/2026-01-04-deleting-millions-of-records-in-servicenow/
 ---
 
 Someone needed to delete 25+ million records from metric_instance. Here's what happened.

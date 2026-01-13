@@ -2,13 +2,13 @@
 title: 'Product vs Service in ServiceNow'
 description: >-
   The difference between Product Offerings and Service Offerings in ServiceNow explained.
-date: '2025-01-04'
+date: '2026-01-04'
 tags: 
   - servicenow
   - cmdb
 redirectFrom:
   - /product-vs-service-in-servicenow/
-  - /p/2025-01-04-product-vs-service-in-servicenow/
+  - /p/2026-01-04-product-vs-service-in-servicenow/
 ---
 
 ServiceNow has Products and Services. They're not the same thing. Here's the difference.

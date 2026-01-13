@@ -2,13 +2,13 @@
 title: 'Batch update ServiceNow store apps with one script'
 description: >-
   Need to update multiple store apps? This script generates the payload for batch installation using the CI/CD API.
-date: '2025-01-04'
+date: '2026-01-04'
 tags: 
   - servicenow
   - rest-api
 redirectFrom:
   - /batch-update-servicenow-store-apps/
-  - /p/2025-01-04-batch-update-servicenow-store-apps/
+  - /p/2026-01-04-batch-update-servicenow-store-apps/
 ---
 
 Got a bunch of ServiceNow store apps that need updating? Here's a script from Eric Riemer that makes it painless.  I have this here cause it's super useful.
