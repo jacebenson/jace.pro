@@ -9,7 +9,7 @@ tags:
 
 # How to Set Up Email Forwarding to Basecamp in Microsoft 365
 
-This guide walks through setting up external email forwarding from a Microsoft 365 shared mailbox to Basecamp (or any external address).
+This guide walks through setting up external email forwarding from a Microsoft 365 shared mailbox to Basecamp (or any external address)!
 
 ## Overview
 
