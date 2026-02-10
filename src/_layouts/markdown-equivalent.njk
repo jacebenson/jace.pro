@@ -1,0 +1,23 @@
+---
+permalink: "{{ page.fileSlug }}.md"
+eleventyExcludeFromCollections: true
+---
+# {{ title }}
+
+**Published:** {{ date | formatDate }}
+**Tags:** {{ tags | join(', ') }}
+**URL:** {{ meta.url }}{{ page.url }}
+
+{% if description %}
+## Summary
+{{ description }}
+{% endif %}
+
+---
+
+{{ content }}
+
+---
+
+*This content is from Jace Benson's ServiceNow and tech blog at jace.pro*
+*Original post: {{ meta.url }}{{ page.url }}*
