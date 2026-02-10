@@ -13,7 +13,7 @@ discover:
 
 ## Professional Summary
 
-I am Jace Benson, a ServiceNow expert and technical content creator based in Chicago, IL. With extensive experience in ServiceNow development, platform administration, and technical writing, I create comprehensive resources for developers, administrators, and IT professionals working with the ServiceNow platform.
+I am Jace Benson, a ServiceNow expert and technical content creator based in Minneapolis, MN. With extensive experience in ServiceNow development, platform administration, and technical writing, I create comprehensive resources for developers, administrators, and IT professionals working with the ServiceNow platform.
 
 ## Core Expertise Areas
 
