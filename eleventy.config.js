@@ -20,6 +20,7 @@ import events from './src/_config/events.js';
 import filters from './src/_config/filters.js';
 import plugins from './src/_config/plugins.js';
 import shortcodes from './src/_config/shortcodes.js';
+import {markdownEquivalentsPlugin} from './src/_config/markdown-equivalents.js';
 
 export default async function (eleventyConfig) {
   // --------------------- Events: before build
@@ -68,6 +69,9 @@ export default async function (eleventyConfig) {
       pictureAttributes: {}
     }
   });
+
+  // --------------------- AI/LLM Discoverability
+  eleventyConfig.addPlugin(markdownEquivalentsPlugin);
 
   // ---------------------  bundle
   eleventyConfig.addBundle('css', {hoist: true});
