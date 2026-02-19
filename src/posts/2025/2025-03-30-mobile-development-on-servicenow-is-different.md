@@ -10,6 +10,10 @@ redirectFrom:
   - /p/2025-03-30-mobile-development-on-servicenow-is-different/
 ---
 
+I was looking at the mobile setup for ServiceNow today because I was asked by someone how to get this to work. And it turned into a scavenger hunt, even with these notes here.
+
+Turns out you need a lot more than just what I thought we needed.
+
 ## Plugins needed
 
 - Mobile Studio (`com.glide.sg.studio`)
@@ -52,7 +56,7 @@ Accessing Custom Tables may not be available in "Data Items" due to customer ent
 
 ## Hierarchy of Mobile Development
 
-```mermaid
+```mermaidjs
 flowchart TD
     MobileApp[Mobile App]
     MobileAppConfig[Mobile App Config]
