@@ -164,6 +164,27 @@ sudo bash -c 'echo "jace ALL=(ALL) NOPASSWD:ALL" > /etc/sudoers.d/jace'
 
 Now click "Validate" in Coolify - it should connect successfully.
 
+## Step 10: Disable Sleep on Lid Close
+
+By default, Lubuntu suspends when you close the laptop lid. For a server, you want it to keep running:
+
+```bash
+# Disable suspend on lid close
+sudo sed -i 's/#HandleLidSwitch=suspend/HandleLidSwitch=ignore/' /etc/systemd/logind.conf
+sudo sed -i 's/#HandleLidSwitchExternalPower=suspend/HandleLidSwitchExternalPower=ignore/' /etc/systemd/logind.conf
+
+# Restart to apply
+sudo systemctl restart systemd-logind
+```
+
+You can also disable sleep entirely:
+
+```bash
+sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target
+```
+
+Now you can close the lid and tuck it away on a shelf.
+
 ## Troubleshooting
 
 ### "Server is not reachable"
