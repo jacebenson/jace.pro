@@ -140,19 +140,15 @@ In Coolify, add a new server:
 1. Go to **Servers** → **Add Server**
 2. Enter the Tailscale IP as the hostname
 3. Set the SSH user (e.g., `jace`)
-4. Create or select an SSH key
+4. For the SSH key, click **Add a new SSH Key**
 
-For the SSH key, I generated a fresh one and added it to the Chromebook:
+When you create a new key in Coolify, it will display the public key. Copy that, then add it to your laptop:
 
 ```bash
-# On your machine
-ssh-keygen -t ed25519 -N "" -f /tmp/cb3-431-key -C "coolify-cb3-431"
-
-# Copy the public key to the Chromebook
-ssh jace@cb3-431.local "echo 'YOUR_PUBLIC_KEY' >> ~/.ssh/authorized_keys"
+ssh jace@cb3-431.local "echo 'PASTE_PUBLIC_KEY_HERE' >> ~/.ssh/authorized_keys"
 ```
 
-Then paste the private key into Coolify when creating the server.
+Select the new key for your server and continue.
 
 ## Step 9: Enable Passwordless Sudo
 
