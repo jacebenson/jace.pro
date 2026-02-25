@@ -213,13 +213,6 @@ export default {
             summary: "An alternative AI for ServiceNow.",
         },
         {
-            title: "ScribeMonster",
-            link: "https://github.com/jacebenson/scribe.monster",
-            role: "Creator",
-            duration: "2021 - 2024",
-            summary: "A ServiceNow Chrome Extension and Server to help writing code, documentation and other AI tasks",
-        },
-        {
             title: "SNDocs",
             link: "https://sndocs.jace.pro",
             role: "Creator",
@@ -243,14 +236,14 @@ export default {
             summary: "A ServiceNow News Aggregator",
             class: "print-only"
         },
-        {
+        /*{
             title: "NowComponents",
             link: "https://nowcomponents.github.io",
             role: "Maintainer",
             duration: "2020 - 2020",
             summary: "Hacktoberfest 2020 Project to learn ServiceNow Now Components on Seismic",
             class: "no-print"
-        },
+        },*/
         {
             title: "Blog",
             link: "https://jace.pro",
@@ -262,10 +255,10 @@ export default {
         {
             title: "nullEDGE conference",
             link: "https://thenulledge.com",
-            role: "Co-Creator",
+            role: "Creator",
             duration: "2025 - Present",
             summary: "The conference I wished existed for ServiceNow, now a reality",
-            class: "no-print"
+//            class: "no-print"
         }
         /*
         {
@@ -297,6 +290,13 @@ export default {
             role: "Creator",
             duration: "2016 - Present",
             summary: "A simple Joke site"
+        }
+        {
+            title: "ScribeMonster",
+            link: "https://github.com/jacebenson/scribe.monster",
+            role: "Creator",
+            duration: "2021 - 2024",
+            summary: "A ServiceNow Chrome Extension and Server to help writing code, documentation and other AI tasks",
         }*/
 
     ],
