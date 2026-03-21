@@ -1,1 +1,61 @@
 <script src="{% getBundleFileUrl "js", "defer" %}" type="module"></script>
+
+<!-- Mermaid.js for diagram rendering -->
+<style>
+  .mermaid {
+    background: var(--color-bg-accent);
+    border: 1px solid var(--color-bg-accent-2);
+    padding: var(--space-s);
+    margin: var(--space-m) 0;
+    border-radius: var(--border-radius-medium);
+    color: var(--color-text);
+    text-align: center;
+    overflow-x: auto;
+  }
+  .mermaid svg {
+    max-width: none;
+    height: auto;
+    display: inline-block;
+  }
+</style>
+<script src="https://unpkg.com/mermaid@10/dist/mermaid.min.js"></script>
+<script>
+  function initMermaid() {
+    if (typeof mermaid === 'undefined') return;
+    
+    // Initialize mermaid with config FIRST
+    mermaid.initialize({
+      startOnLoad: false,
+      theme: 'default',
+      securityLevel: 'loose',
+      flowchart: {
+        useMaxWidth: false,
+        htmlLabels: true,
+        wrappingWidth: 300
+      }
+    });
+
+    // Decode HTML entities in mermaid blocks before rendering
+    document.querySelectorAll('div.mermaid, pre.mermaid').forEach(function(el) {
+      var html = el.innerHTML;
+      // Decode common HTML entities
+      var decoded = html
+        .replace(/&amp;/g, '&')
+        .replace(/&lt;/g, '<')
+        .replace(/&gt;/g, '>')
+        .replace(/&quot;/g, '"')
+        .replace(/&#39;/g, "'");
+      el.innerHTML = decoded;
+    });
+    
+    // Now manually run mermaid
+    mermaid.run();
+  }
+
+  // Run when DOM is ready
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initMermaid);
+  } else {
+    initMermaid();
+  }
+</script>
