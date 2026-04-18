@@ -1,0 +1,1 @@
+$(cat /home/jace/git/jace.pro/blog/servicenow-roadmap-image.png 2>/dev/null || echo "Image will be saved separately")

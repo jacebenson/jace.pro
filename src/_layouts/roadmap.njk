@@ -1,0 +1,80 @@
+---
+layout: base
+---
+
+<style>
+  .roadmap-page {
+    --region-space-top: var(--space-xl-2xl);
+    max-width: 95vw;
+    margin: 0 auto;
+    padding: var(--space-m);
+  }
+  
+  @media (min-width: 1200px) {
+    .roadmap-page {
+      max-width: 1400px;
+    }
+  }
+  
+  .roadmap-page h1 {
+    text-align: center;
+    margin-bottom: var(--space-m);
+  }
+  
+  .roadmap-page h2 {
+    margin-top: var(--space-xl);
+    padding-bottom: var(--space-xs);
+    border-bottom: 2px solid var(--color-bg-accent);
+  }
+  
+  .roadmap-page h3 {
+    margin-top: var(--space-l);
+    color: var(--color-primary);
+  }
+  
+  .roadmap-page table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: var(--space-m) 0;
+  }
+  
+  .roadmap-page th,
+  .roadmap-page td {
+    padding: var(--space-xs) var(--space-s);
+    border: 1px solid var(--color-bg-accent-2);
+    text-align: left;
+  }
+  
+  .roadmap-page th {
+    background: var(--color-bg-accent);
+    font-weight: 600;
+  }
+  
+  .roadmap-page hr {
+    margin: var(--space-xl) 0;
+    border: none;
+    border-top: 1px solid var(--color-bg-accent-2);
+  }
+  
+  /* Mermaid diagram styling */
+  .roadmap-page .mermaid {
+    background: var(--color-bg);
+    border: 2px solid var(--color-bg-accent-2);
+    border-radius: 12px;
+    padding: var(--space-m);
+    margin: var(--space-l) 0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Ensure mermaid diagrams are scrollable on mobile */
+  .roadmap-page pre.mermaid,
+  .roadmap-page div.mermaid {
+    overflow-x: auto;
+    max-width: 100%;
+  }
+</style>
+
+<div class="region wrapper roadmap-page flow">
+  <h1 class="gradient-text">{{ title }}</h1>
+  {{ content | safe }}
+</div>
