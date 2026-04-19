@@ -60,6 +60,12 @@ export default async function (eleventyConfig) {
   eleventyConfig.addPlugin(plugins.eleventyImageTransformPlugin, {
     formats: ['webp', 'jpeg'],
     widths: ['auto'],
+    outputDir: './_site/img/',
+    urlPath: '/img/',
+    cacheOptions: {
+      duration: '1y',
+      directory: '.cache/eleventy-img/'
+    },
     htmlOptions: {
       imgAttributes: {
         loading: 'lazy',
