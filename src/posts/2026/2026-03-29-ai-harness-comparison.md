@@ -18,7 +18,7 @@ They all take different approaches and honestly some of them aren't even the sam
 |---|---|---|---|---|
 | **[OpenCode](https://opencode.ai/)** | Yes (MIT) | Yes | Yes, 15 built-in | Free |
 | **[Ollama](https://ollama.com/)** | Yes (MIT) | Yes | No | Free |
-| **[LM Studio](https://lmstudio.com/)https://ollama.com/** | No | Yes | No | Freemium |
+| **[LM Studio](https://lmstudio.com/)** | No | Yes | No | Freemium |
 | **[Claude Code](https://claude.com/product/claude-code)** | No | No | Yes | $20/mo |
 | **[Open WebUI](https://docs.openwebui.com/)** | Yes (MIT) | Yes | Via Python functions | Free |
 | **[VS Code (Copilot)](http://github.com/features/copilot/plans)** | No | No | Limited | $0-40/mo |
