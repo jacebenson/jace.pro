@@ -65,7 +65,9 @@ Less powerful than a dedicated agent but it's right there in your editor. Skills
 
 ## What I actually use
 
-I run LM Studio in headless mode for local model inference, OpenCode as my primary coding agent, and Claude Code when I need to work from my phone or want the polished multi-surface experience.
+I OpenCode as my primary coding agent, and Open Web UI when I need to work from my phone or want the polished multi-surface experience.
+
+Ollama is how I started and run if i need something local quick I stick to the command line.  I moved to llamacpp for local models because it was faster to set up and has better performance on my hardware.
 
 Most of these work together. That's the point — pick the ones that fit how you work.
 
