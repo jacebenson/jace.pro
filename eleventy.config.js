@@ -60,7 +60,7 @@ export default async function (eleventyConfig) {
   eleventyConfig.addPlugin(plugins.eleventyImageTransformPlugin, {
     formats: ['webp', 'jpeg'],
     widths: ['auto'],
-    outputDir: './_site/img/',
+    outputDir: './dist/img/',
     urlPath: '/img/',
     cacheOptions: {
       duration: '1y',
