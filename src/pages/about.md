@@ -27,6 +27,7 @@ I've been working with ServiceNow since 2007, starting as a Senior Integration C
 
 I'm passionate about sharing knowledge and contributing to the ServiceNow community:
 
+- **Michael Lombardo Community Award**: Awarded at Knowledge 26 by Nathan Firth in recognition of community members who carry on the late Michael Lombardo's legacy of giving back [video](https://www.linkedin.com/posts/figenschow_know26-community-servicenow-ugcPost-7458203310773145601-R0I9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAGfKkYB3XFd0Ybegy4h2swmWmxgXj4HMN0)
 - **ServiceNow MVP**: Recognized as both Community and Developer MVP for 2020, 2021, and 2022
 - **Meetup Organizer**: Former organizer of the [ServiceNow Minneapolis Meetup](https://www.meetup.com/Minneapolis-ServiceNow-Developer-Meetup/) from 2016 to 2020
 - **Content Creator**: I maintain several projects and resources for the ServiceNow community
@@ -36,11 +37,12 @@ I'm passionate about sharing knowledge and contributing to the ServiceNow commun
 When I'm not working on ServiceNow, I create tools and resources to help developers:
 
 - **[AI in a Box](https://getaiinabox.com)** - An alternative AI solution for ServiceNow
-- **[ScribeMonster](https://github.com/jacebenson/scribe.monster)** - A Chrome Extension and Server to help with ServiceNow development
 - **[SNDocs](https://sndocs.jace.pro)** - An unofficial ServiceNow version tracker
 - **[News Jace Pro](https://news.jace.pro)** - A ServiceNow news aggregator
 - **[nullEDGE conference](https://thenulledge.com)** - The conference I wished existed for ServiceNow, now a reality
 - **[All the rest of my projects](https://jace.pro/directory/)** - A comprehensive list of my tools and utilities
+
+Not everything I build sticks around. I've had plenty of experiments and side projects over the years that served their purpose and were eventually taken down. They may not all be listed here, but each one played a part in shaping what I do today.
 
 ## Technical Skills
 
