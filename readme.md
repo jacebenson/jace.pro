@@ -2,26 +2,6 @@
 
 Easy to use Eleventy starter, based on the workflow suggested by Andy Bell's [buildexcellentwebsit.es](https://buildexcellentwebsit.es/).
 
-![GitHub Repo stars](https://img.shields.io/github/stars/madrilene/eleventy-excellent?style=flat-square&logo=github&logoColor=white&label=GitHub%20stars)
-[![Follow @lene@front-end.social](https://img.shields.io/mastodon/follow/109292536543732634?domain=https%3A%2F%2Ffront-end.social&style=flat-square&logo=Mastodon&logoColor=white&labelColor=%235B4BE1)](https://front-end.social/@lene)
-
-If you end up using this starter, feel free to send me a link, I'd love to see it!
-
-- [Eleventy Excellent](#eleventy-excellent)
-	- [Preview](#preview)
-	- [Features](#features)
-	- [First steps](#first-steps)
-	- [Development](#development)
-		- [Install dependencies](#install-dependencies)
-		- [Working locally](#working-locally)
-		- [Creating a production build](#creating-a-production-build)
-	- [Built with Eleventy Excellent](#built-with-eleventy-excellent)
-	- [Credits and Thank yous](#credits-and-thank-yous)
-
-## Preview
-
-https://eleventy-excellent.netlify.app/
-
 ## Features
 
 **This starter includes:**
@@ -48,9 +28,6 @@ https://eleventy-excellent.netlify.app/
 - Accessible blog pagination
 - A styleguide™
 
-## First steps
-
-[Read the Get started docs!](https://eleventy-excellent.netlify.app/get-started/)
 
 ## Development
 
@@ -84,8 +61,6 @@ Add your site by submitting a pull request! :)
 ## Credits and Thank yous
 
 **Andy Bell**
-
-> Be the browser's mentor, not its micromanager. Give the browser some solid rules and hints, then let it make the right decisions for the people that visit it, based on their device, connection quality and capabilities.
 
 - https://buildexcellentwebsit.es/
 - https://cube.fyi/
